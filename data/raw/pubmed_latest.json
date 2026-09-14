@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-13T20:54:05.782204+00:00",
+  "capturedAt": "2026-09-14T05:03:10.677471+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,28 +10,28 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-13",
-    "end": "2026-09-13"
+    "start": "2025-09-14",
+    "end": "2026-09-14"
   },
   "pmids": [
+    "42732714",
+    "42732702",
+    "42732519",
     "42731995",
     "42731958",
     "42731692",
-    "42731220",
-    "42731203",
-    "42730907",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
     "42667121",
+    "42732655",
     "42728566",
     "42725532",
     "42724935",
     "42723155",
     "42721204",
-    "42720471",
     "42732057",
     "42731132",
     "42730986",
@@ -40,6 +40,65 @@
     "42729364"
   ],
   "records": [
+    {
+      "pmid": "42732714",
+      "title": "Ferroptosis in neonatal and paediatric disease: From molecular mechanism to therapeutic target.",
+      "abstract": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases. This review systematically elaborates the core molecular mechanism of ferroptosis, and highlights that newborns exhibit organ‑specific susceptibility to ferroptosis, predominantly attributed to the convergence of high PUFA content in the developing brain and erythrocytes, immature antioxidant defences, and a propensity for free iron accumulation. Building on this, we further examine the role of ferroptosis in multiple childhood disorders, such as bronchopulmonary dysplasia, hypoxic-ischaemic encephalopathy, haemolytic hyperbilirubinemia, necrotizing enterocolitis, retinopathy of prematurity, and neonatal rotavirus‑associated biliary atresia. Furthermore, we synthesize existing evidence, which is largely preclinical, regarding therapeutic interventions that modulate ferroptosis, including iron chelators, selective inhibitors (e.g., ferrostatin-1), and activators of endogenous antioxidant pathways (e.g., Nrf2 inducers). We also discuss the multiple difficulties and challenges encountered by the current study in paediatric clinical trials, especially with respect to ferroptosis‑related issues. This review identifies a series of key barriers to clinical translational research in paediatric ferroptosis, based on a systematic review of the available evidence. In response to these obstacles, we propose a prioritized translational framework that focuses on juvenile animal models, age-stratified pharmacokinetics, and patient-derived organoids, to provide guidance for translating clinical practice to this vulnerable population.",
+      "journal": "European journal of cell biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "College of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "Department of Paediatrics, the Fourth Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
+        "Department of Paediatric Internal Medicine One, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun, Jilin, China.",
+        "School of Medicine, Southeast University, Nanjing, China.",
+        "School of Medicine, Southeast University, Nanjing, China. Electronic address: qingsongnjtr1969@163.com.",
+        "Department of Paediatric Internal Medicine Two, The Affiliated Hospital of Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: 285865803@qq.com.",
+        "Department of Paediatric Internal Medicine One, The Affiliated Hospital to Changchun University of Chinese Medicine, Changchun, Jilin, China. Electronic address: cczyygyn@163.com."
+      ],
+      "doi": "10.1016/j.ejcb.2026.151572",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732714/"
+    },
+    {
+      "pmid": "42732702",
+      "title": "Photonic crystal barcode microfluidic chip for smart screening of lactogenic Chinese herbs using human mammary organoids.",
+      "abstract": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic crystal barcode microfluidic chip for high-throughput identification and mechanistic elucidation of lactation-promoting traditional Chinese medicines (TCMs). Human mammary organoids recapitulate key structural and functional features of native mammary tissue and, critically, acquire the capacity to stably secrete milk proteins including TIMP1, which serves as a quantifiable lactogenic marker. The photonic crystal barcodes, fabricated as monodisperse silica colloidal crystal microspheres with tunable structural colors, are functionalized with capture antibodies and embedded in a herringbone-structured microfluidic chip, enabling in situ, visual, and highly sensitive fluorescence-based detection of secreted proteins. Using this system, we screen 18 TCM compounds and identify curcumin, puerarin, and forsythoside H as the three most effective candidates for enhancing TIMP1 secretion in vitro. Notably, in vivo experiments in a postpartum mouse model demonstrated that all three TCMs markedly induced milk yield and mammary alveolar development. RNA-seq analysis further unveils that forsythia uniquely regulates a series of pathways involving reprogramming of carbohydrate metabolism, amplification of estrogen/prolactin hormone signaling cascades, and induction of mammary epithelial differentiation. This synergistic activation of core lactogenic pathways provides a molecular basis for forsythia's superior lactation-promoting efficacy. These findings demonstrate that the present platform shows potential for efficient screening of lactation-promoting herbs and advancing the modernization of TCMs in lactation management.",
+      "journal": "Biomaterials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China; Medical School of Nantong University, Nantong, 226001, China.",
+        "Medical School of Nantong University, Nantong, 226001, China.",
+        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China.",
+        "Department of Biomedical Engineering, Columbia University, New York, NY, 10027, USA.",
+        "Laboratory Medicine Center, The Second Affiliated Hospital of Nanjing Medical University, Nanjing, 210012, China. Electronic address: weixiaowei@njmu.edu.cn.",
+        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China. Electronic address: guzf@ntu.edu.cn.",
+        "Department of Thyroid and Breast Surgery, Research Center of Clinical Medicine, Affiliated Hospital of Nantong University, Nantong University, Nantong, 226001, China. Electronic address: hezhixian@ntu.edu.cn."
+      ],
+      "doi": "10.1016/j.biomaterials.2026.124626",
+      "date": "2026-09-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732702/"
+    },
+    {
+      "pmid": "42732519",
+      "title": "Cryopreservation of Reproductive Organoids.",
+      "abstract": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids is essential when working with a tissue source that is not readily available at all times, and a cryo-repository of organoids allows these cell cultures to be performed as needed. The cryopreservation and thawing protocols must be optimized for each species and tissue type to ensure the optimal cellular viability and proliferation after freeze-thawing. The protocol provided here has been used to cryopreserve various types of reproductive cell cultures (oviduct and endometrium) in several domestic and wildlife species.",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Clinical Sciences, Colorado State University, Fort Collins, CO, USA. riley.thompson2@colostate.edu.",
+        "Animal Reproduction and Biotechnology Laboratory, Colorado State University, Fort Collins, CO, USA. riley.thompson2@colostate.edu."
+      ],
+      "doi": "10.1007/978-1-0716-5416-3_29",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732519/"
+    },
     {
       "pmid": "42731995",
       "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
@@ -98,61 +157,6 @@
       "doi": "10.1016/j.fct.2026.116385",
       "date": "2026-09-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731692/"
-    },
-    {
-      "pmid": "42731220",
-      "title": "In-depth examination of the zinc-mitigation of the molecular effects of heat stress-induced intestinal damage in broilers.",
-      "abstract": "Three experiments were conducted to elucidate the protective mechanisms of zinc (Zn) as ZnSO4.7H2O (ZnSO4) or Zn proteinate with moderate chelation strength (Zn-Prot M) against heat stress (HS)-induced damage to broiler intestine or jejunal organoids. In experiment 1, under high temperature (HT: 34 ± 1°C, 8 h/d; 28 ± 1°C, 16 h/d), a control (HT-CON) and four groups from a 2 (Zn sources: Zn-Prot M and ZnSO4) × 2 (added Zn levels: 30 and 60 mg/kg) factorial arrangement were designed. Under normal temperature (NT: 23 ± 1°C, 24 h/d), a control (NT-CON) and a pair-fed group were included. HS increased (P < 0.04) broiler serum diamine oxidase activity and fluorescein isothiocyanate dextran content. However, dietary added Zn, notably at 60 mg/kg, decreased (P < 0.02) these elevated serum indices in HS-broilers. In experiment 2, transcriptome sequencing was conducted in jejunal tissues collected from the broilers in the groups of NT-CON, HT-CON, HT-ZnSO4 and HT-Zn-Prot M at 60 mg/kg. Dietary supplemental Zn, especially Zn-Prot M, mitigated the HS-induced inhibitions of the phosphatidylinositol 3-kinase (PI3K)/serine threonine kinase (AKT), mitogen activated protein kinase (MAPK), and cell cycle pathways. In experiment 3, broiler jejunal organoids were maintained under NT (40°C, CON) and HT (44°C, 12 h, HS). The HT groups comprised a control and a 2 × 2 factorial arrangement of added Zn sources (Zn-Prot M and ZnSO4) and levels (50 and 100 μmol/L). Supplemental Zn, especially Zn-Prot M at 50 μmol/L, mitigated (P < 0.05) HS-induced inhibitions of mRNA or protein expression levels of occludin, junctional adhesion molecule 1/3, zonula occludens-1, Zn finger protein A20 (A20) and cyclin-B1/D1, and promotions of mRNA or protein expression levels of nuclear factor kappa-B (NF-κB) p65 and matrix metalloproteinase (MMP)-2/9. In conclusion, the optimal supplemental Zn, particularly Zn-Prot M, could effectively mitigate HS-induced damage to broiler intestine or jejunal organoids possibly by promoting cell proliferation and the expression of tight junction proteins via the PI3K/AKT, MAPK, A20/NF-κB p65/MMP-2/9 and cell cycle pathways.",
-      "journal": "Poultry science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Poultry Mineral Nutrition Laboratory, College of Animal Science and Technology, Yangzhou University, Yangzhou, 225000, China; Jiangsu Institute of Poultry Science, Yangzhou, 225125, China.",
-        "Poultry Mineral Nutrition Laboratory, College of Animal Science and Technology, Yangzhou University, Yangzhou, 225000, China.",
-        "Department of Animal Science, North Carolina State University, Raleigh, NC, 27695, USA.",
-        "Mineral Nutrition Research Division, State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing, 100193, China.",
-        "Poultry Mineral Nutrition Laboratory, College of Animal Science and Technology, Yangzhou University, Yangzhou, 225000, China. Electronic address: wlysz@263.net."
-      ],
-      "doi": "10.1016/j.psj.2026.107621",
-      "date": "2026-08-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731220/"
-    },
-    {
-      "pmid": "42731203",
-      "title": "Chicken-derived R-spondin1, Wnt3a, Nrg1 and human FGF1 allow branched growth of chicken intestinal organoid cultures.",
-      "abstract": "Intestinal organoids are widely used in mammalian studies to mimic and study intestinal function and host-pathogen interactions without using of whole animal studies. For chicken, this was not yet feasible. Recently, we have shown that embryonal intestinal organoids can grow for 10-15 passages (approximately 6 weeks) when using chicken-derived Rspo1 and Wnt3. In this paper, we show that replacing Wnt3 with chicken Wnt3a and adding chicken Nrg1 and human FGF1 results in efficient and long lasting growth, over 40 weeks, of embryonal chicken intestinal organoids. Moreover, the typical branching phenotype, which is normally observed for mammalian species such as mouse and pig intestinal organoids, is now also observed in the chicken organoids when Rspo1, Wnt3a, Nrg1 and hFGF1 are used. This branching is enhanced by inhibiting FoxO1 with AS1842856, resulting in an increase of growth. Moreover, we show the presence of Lgr5 positive stem cells, goblets, endocrine cells, Paneth cells and enterocytes. In agreement with the observed presence of goblet cells, we observed mucus secretion in the 2D cultures. This new and improved culture condition for chicken intestinal organoids allows for in vitro research that can partially replace animal testing with respect to, for instance, replacement of antibiotics, feed additives and drug development.",
-      "journal": "Poultry science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Innovative Testing in Life Sciences and Chemistry, Research Centre Healthy and Sustainable Living, University of Applied Sciences Utrecht, Utrecht, the Netherlands. Electronic address: jeanpaul.tenklooster@hu.nl.",
-        "Innovative Testing in Life Sciences and Chemistry, Research Centre Healthy and Sustainable Living, University of Applied Sciences Utrecht, Utrecht, the Netherlands.",
-        "Department Population Health Sciences, Division Farm Animal Health, Faculty of Veterinary Medicine, Utrecht University, Utrecht, the Netherlands.",
-        "Innovative Testing in Life Sciences and Chemistry, Research Centre Healthy and Sustainable Living, University of Applied Sciences Utrecht, Utrecht, the Netherlands; Institute for Risk Assessment Sciences, Population Health Sciences Division, Utrecht University, Utrecht, the Netherlands."
-      ],
-      "doi": "10.1016/j.psj.2026.107340",
-      "date": "2026-06-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731203/"
-    },
-    {
-      "pmid": "42730907",
-      "title": "Endodermal Organoids Along Two Axes: Single-Organ Fidelity, Inter-Organ Reconstruction, and the Unbuilt Gut-Lung Frontier.",
-      "abstract": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity\" carries two unrelated meanings. Herein, we review the organoid work across all three organs and propose that the two orthogonal axes of advancement be analyzed separately. The first axis is single-organ fidelity. Adult stem cell organoids are faithful but partial, reproducing the adult epithelium of their source tissue with genomic stability yet lacking stromal, vascular, immune, and neural compartments. Human pluripotent stem cell organoids are complete but immature, co-emerging with multiple lineages yet arrested in a fetal-like state. The cost of each limitation is organ-dependent, smallest in the intestine, largest for hepatic drug metabolism, and most spatially defined across the proximal and distal lungs. The second axis is inter-organ reconstruction, where progress is strongly asymmetric. The gut-liver axis is comparatively advanced and sustained by linked organoid and microphysiological systems. The gut-lung axis, by contrast, remains the least-developed frontier, and no such linked organoid has yet been built. We therefore frame it as a proposal, using in vivo and correlative evidence to outline the design principles for such a model. Four bottlenecks recur across both axes: limited vascularization; batch-to-batch variability; organ-skewed immune, microbial, and stromal microenvironments; and unidirectional signaling. We argue that benchmarking models against single-cell developmental atlases and prioritizing construction of the gut-lung frontier should guide the field over the next decade.",
-      "journal": "Stem cell reviews and reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Food Functionality Research Division, Korea Food Research Institute, Wanju, Republic of Korea.",
-        "Department of Food Biotechnology, Korea University of Science and Technology (UST), Daejeon, Republic of Korea.",
-        "Food Functionality Research Division, Korea Food Research Institute, Wanju, Republic of Korea. kgd@kfri.re.kr."
-      ],
-      "doi": "10.1007/s12015-026-11235-0",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730907/"
     },
     {
       "pmid": "42717098",
@@ -299,6 +303,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
     },
     {
+      "pmid": "42732655",
+      "title": "Interaction between hemin and the SpyTag/SpyCatcher system: towards an artificial bioinspired metalloprotein.",
+      "abstract": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consisting of a protein domain, SpyCatcher, which reacts spontaneously with a short peptide, SpyTag, forming a covalent isopeptide bond, can be used for this purpose. In this work, a SpyTag peptide functionalized with a histidine-based domain is engineered to bind hemin both as a free peptide and after assembly with SpyCatcher. The binding between SpyTag and hemin occurs successfully with micromolar affinity, but the coordination of hemin with reconstituted Spy protein (the SpyTag/SpyCatcher adduct) is not maintained with the same strength. The hemin-SpyTag peptide complex displays enhanced reactivity towards the activation of hydrogen peroxide in oxidative reactions, while the SpyTag/SpyCatcher adduct does not significantly affect hemin reactivity. Neither system exhibits substantial catalase-like activity. All tested components act as ROS scavengers, likely due to oxidative modifications undergone by the peptide/protein backbone. Overall, the study provides a solid experimental and methodological basis and highlights the need to improve hemin binding within the Spy system for future optimization and development of more advanced artificial hemoproteins.",
+      "journal": "Journal of inorganic biochemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of Pavia, Via Taramelli 12, 27100 Pavia, Italy.",
+        "Department of Chemistry, University of Pavia, Via Taramelli 12, 27100 Pavia, Italy; Department of Chemistry, Life Sciences, and Environmental Sustainability, University of Parma, Parco Area delle Scienze 11A, 43124 Parma, Italy.",
+        "Department of Chemistry, Life Sciences, and Environmental Sustainability, University of Parma, Parco Area delle Scienze 11A, 43124 Parma, Italy.",
+        "Department of Chemistry, University of Pavia, Via Taramelli 12, 27100 Pavia, Italy. Electronic address: simone.dellacqua@unipv.it."
+      ],
+      "doi": "10.1016/j.jinorgbio.2026.113455",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732655/"
+    },
+    {
       "pmid": "42728566",
       "title": "Hypothesis-and-Refinement Learning of Organic Structures From Multimodal Spectroscopic Data.",
       "abstract": "Determining molecular structures from spectroscopic data remains fundamentally challenging because the inverse problem is intrinsically underdetermined: individual spectra are sparse, low-dimensional, and encode only partial structural evidence relative to the vast space of possible molecules. We address this challenge by formulating automated structure elucidation as a scalable hypothesis-refinement paradigm that tightly integrates spectral evidence with large-scale molecular priors. To supply structure-resolving NMR signals for multimodal learning, we construct QM9SPIN, a DFT-derived dataset comprising diverse 1D and 2D spectra, including J-coupling, DEPT experiments, and explicit spin-spin interactions. On this foundation, we introduce SpectroMol, a spectrum-to-structure model that proposes chemically valid molecular hypotheses conditioned on multimodal spectral inputs. Complementarily, we develop MS-Mol2Mol, a high-resolution mass-constrained molecular generator that integrates molecular formula, exact mass, and degree of unsaturation within a conditional generative prior trained on 400 million molecules, ensuring global compositional consistency and chemically realistic refinement. The integrated system achieves 93.8% top-1 accuracy on the simulated benchmark, adapts effectively from simulated to experimental spectra with limited experimental fine-tuning, and further improves experimental predictions through mass-guided refinement, establishing a scalable route toward automated, data-driven organic structure elucidation.",
@@ -392,26 +414,6 @@
       "doi": "10.1371/journal.pcbi.1014703",
       "date": "2026-09-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42721204/"
-    },
-    {
-      "pmid": "42720471",
-      "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
-      "abstract": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrates. Here, we combine marine natural product fragment mining, artificial intelligence (AI)-based molecular generation, and structure-guided prioritization to design a natural-product-inspired library. Two optimized analogs, Ib18 and It12, reversed P-gp/BCRP-mediated resistance in overexpressing cells, outperforming reference inhibitors. Mechanistic studies confirmed target engagement without expression downregulation. Docking and molecular dynamics simulations provided the structural rationales for dual transporter engagement. Transcriptomics showed Ib18 avoided stress responses triggered by reference inhibitors, supporting an expression-independent MDR-sensitizing mechanism with limited cytotoxicity. In xenografts, Ib18 enhanced the antitumor activity and tumor accumulation of mitoxantrone without detectably increasing systemic toxicity. Together, these findings demonstrate the utility of AI-guided molecular design for overcoming MDR and establish a promising natural-product-inspired chemotype for dual P-gp/BCRP inhibitor.",
-      "journal": "Journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Pharmaceutical Science & Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, Zhejiang University of Technology, Hangzhou310014, China.",
-        "Zhejiang-Egypt Joint Laboratory on Intelligent Discovery of Marine Drugs, Hangzhou310014, China.",
-        "Urology & Nephrology Center, Department of Urology, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, Hangzhou310014, China.",
-        "Department of Pharmaceutical Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania15261, United States.",
-        "Zhejiang Key Laboratory of Green Manufacturing Technology for Chemical Drugs, Hangzhou310014, China.",
-        "Jianxing Honors College, Zhejiang University of Technology, Hangzhou310014, China."
-      ],
-      "doi": "10.1021/acs.jmedchem.6c02170",
-      "date": "2026-09-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720471/"
     },
     {
       "pmid": "42732057",
@@ -628,36 +630,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42730907",
-      "date": "2026-09-12",
-      "title": "Endodermal Organoids Along Two Axes: Single-Organ Fidelity, Inter-Organ Reconstruction, and the Unbuilt Gut-Lung Frontier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730907/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42730907。",
-      "report": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42730986",
       "date": "2026-09-12",
       "title": "Quantifying HER-2 for Precision Oncology: The Role of Optical Biosensors.",
@@ -809,6 +781,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42732655",
+      "date": "2026-09-10",
+      "title": "Interaction between hemin and the SpyTag/SpyCatcher system: towards an artificial bioinspired metalloprotein.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732655/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of inorganic biochemistry，PMID 为 42732655。",
+      "report": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consist...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42723155",
       "date": "2026-09-10",
       "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
@@ -875,36 +873,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42720471",
-      "date": "2026-09-10",
-      "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
+      "id": "pubmed-42732714",
+      "date": "2026-09-09",
+      "title": "Ferroptosis in neonatal and paediatric disease: From molecular mechanism to therapeutic target.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720471/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732714/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Multi-omics"
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "多组学"
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720471。",
-      "report": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrat...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42732714。",
+      "report": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases. This review systematically elaborates the co...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1005,6 +1002,36 @@
       "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42731132。",
       "report": "Circulating tumor cells (CTCs) serve as critical biomarkers in liquid biopsy, creating a demand for materials capable of their specific capture. Conventional rigid micro/nanostructures are often hindered by a dimensional mismatch with cells and limited deforma...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42732702",
+      "date": "2026-09-08",
+      "title": "Photonic crystal barcode microfluidic chip for smart screening of lactogenic Chinese herbs using human mammary organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732702/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42732702。",
+      "report": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic cryst...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1202,36 +1229,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42731220",
-      "date": "2026-08-15",
-      "title": "In-depth examination of the zinc-mitigation of the molecular effects of heat stress-induced intestinal damage in broilers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731220/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731220。",
-      "report": "Three experiments were conducted to elucidate the protective mechanisms of zinc (Zn) as ZnSO4.7H2O (ZnSO4) or Zn proteinate with moderate chelation strength (Zn-Prot M) against heat stress (HS)-induced damage to broiler intestine or jejunal organoids. In exper...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42693007",
       "date": "2026-08-01",
       "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
@@ -1262,16 +1259,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42731203",
-      "date": "2026-06-24",
-      "title": "Chicken-derived R-spondin1, Wnt3a, Nrg1 and human FGF1 allow branched growth of chicken intestinal organoid cultures.",
+      "id": "pubmed-42732519",
+      "date": "2026-01-01",
+      "title": "Cryopreservation of Reproductive Organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731203/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732519/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1284,8 +1281,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731203。",
-      "report": "Intestinal organoids are widely used in mammalian studies to mimic and study intestinal function and host-pathogen interactions without using of whole animal studies. For chicken, this was not yet feasible. Recently, we have shown that embryonal intestinal org...",
+      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42732519。",
+      "report": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }

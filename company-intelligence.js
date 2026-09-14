@@ -1,6 +1,6 @@
 window.BHR_COMPANY_INTELLIGENCE = {
   "schemaVersion": "1.0",
-  "asOfDate": "2026-09-13",
+  "asOfDate": "2026-09-14",
   "summary": {
     "profileCount": 627,
     "evidenceCount": 863,
@@ -48,7 +48,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "10x-genomics",
       "name": "10x Genomics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -292,7 +292,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-3sbio",
       "name": "3Sbio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -433,7 +433,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-4d-molecular-therapeutics",
       "name": "4D Molecular Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -560,7 +560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-60-degrees-pharmaceuticals",
       "name": "60 Degrees Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -687,7 +687,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aardvark-therapeutics",
       "name": "Aardvark Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -814,7 +814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ab-and-b-bio-tech",
       "name": "Ab&B Bio-Tech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -955,7 +955,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abbisko",
       "name": "Abbisko",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1096,7 +1096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abbott-laboratories",
       "name": "Abbott Laboratories",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1223,7 +1223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abbvie",
       "name": "AbbVie Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1350,7 +1350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abcellera-biologics",
       "name": "AbCellera Biologics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1477,7 +1477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abeona-therapeutics",
       "name": "Abeona Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1604,7 +1604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abivax-s-a",
       "name": "Abivax S.A.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1731,7 +1731,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abpro-holdings",
       "name": "Abpro Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1858,7 +1858,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abvc-biopharma",
       "name": "Abvc Biopharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -1985,7 +1985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ac-immune",
       "name": "AC Immune SA",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2112,7 +2112,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-acadia-pharmaceuticals",
       "name": "Acadia Pharmaceuticals Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2239,7 +2239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-accuhealth-technologies",
       "name": "Accuhealth Technologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -2334,7 +2334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-accustem-sciences",
       "name": "Accustem Sciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2461,7 +2461,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-achieve-life-sciences",
       "name": "Achieve Life Sciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2588,7 +2588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aclaris-therapeutics",
       "name": "Aclaris Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2715,7 +2715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-acotec",
       "name": "Acotec",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2856,7 +2856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-acrivon-therapeutics",
       "name": "Acrivon Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -2983,7 +2983,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-actinium-pharmaceuticals",
       "name": "Actinium Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3110,7 +3110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-actuate-therapeutics",
       "name": "Actuate Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3237,7 +3237,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-acumen-pharmaceuticals",
       "name": "Acumen Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3364,7 +3364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-acurx-pharmaceuticals",
       "name": "Acurx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3491,7 +3491,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adagene",
       "name": "Adagene Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3618,7 +3618,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adaptimmune-therapeutics",
       "name": "Adaptimmune Therapeutics PLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3745,7 +3745,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adaptin-bio",
       "name": "Adaptin Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3872,7 +3872,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adaptive-biotechnologies",
       "name": "Adaptive Biotechnologies Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -3999,7 +3999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adastra-holdings",
       "name": "Adastra Holdings Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4126,7 +4126,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adc-therapeutics",
       "name": "ADC Therapeutics SA",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4253,7 +4253,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-addex-therapeutics",
       "name": "Addex Therapeutics Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4380,7 +4380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adia-nutrition",
       "name": "Adia Nutrition, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4507,7 +4507,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adial-pharmaceuticals",
       "name": "Adial Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4634,7 +4634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adicet-bio",
       "name": "Adicet Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4761,7 +4761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aditxt",
       "name": "Aditxt, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -4888,7 +4888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adlai-nortye-group",
       "name": "Adlai Nortye Group Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5015,7 +5015,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-adma-biologics",
       "name": "Adma Biologics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5142,7 +5142,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aeon-biopharma",
       "name": "AEON Biopharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5269,7 +5269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-agentix",
       "name": "Agentix Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5396,7 +5396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-agenus",
       "name": "Agenus Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5523,7 +5523,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-agios-pharmaceuticals",
       "name": "Agios Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5650,7 +5650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-agomab-therapeutics",
       "name": "Agomab Therapeutics NV",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5777,7 +5777,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aibotics",
       "name": "Aibotics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -5904,7 +5904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aim-immunotech",
       "name": "AIM ImmunoTech Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6031,7 +6031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-airdoc",
       "name": "Airdoc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6172,7 +6172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-akanda",
       "name": "Akanda Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6299,7 +6299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-akari-therapeutics",
       "name": "Akari Therapeutics Plc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6426,7 +6426,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-akebia-therapeutics",
       "name": "Akebia Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6553,7 +6553,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "akeso",
       "name": "Akeso",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6691,7 +6691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aktis-oncology",
       "name": "Aktis Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6818,7 +6818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alaunos-therapeutics",
       "name": "Alaunos Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -6945,7 +6945,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alcamena-stem-cell-therapeutics",
       "name": "Alcamena Stem Cell Therapeutics, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -7040,7 +7040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aldatu-biosciences",
       "name": "Aldatu Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -7135,7 +7135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aldeyra-therapeutics",
       "name": "Aldeyra Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7262,7 +7262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alebund",
       "name": "Alebund",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7403,7 +7403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alector",
       "name": "Alector, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7530,7 +7530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ali-health",
       "name": "Ali Health",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7663,7 +7663,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aligos-therapeutics",
       "name": "Aligos Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7790,7 +7790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alkermes",
       "name": "Alkermes plc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -7917,7 +7917,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-allarity-therapeutics",
       "name": "Allarity Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8044,7 +8044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-allogene-therapeutics",
       "name": "Allogene Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8171,7 +8171,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "alnylam",
       "name": "Alnylam Pharmaceuticals",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8412,7 +8412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alpha-cognition",
       "name": "Alpha Cognition Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8539,7 +8539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alpha-teknova",
       "name": "Alpha Teknova, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8666,7 +8666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alphamab",
       "name": "Alphamab",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8807,7 +8807,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-altamira-therapeutics",
       "name": "Altamira Therapeutics Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -8934,7 +8934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alterity-therapeutics",
       "name": "Alterity Therapeutics Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9061,7 +9061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-altimmune",
       "name": "Altimmune, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9188,7 +9188,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alto-neuroscience",
       "name": "Alto Neuroscience, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9315,7 +9315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "altos-labs",
       "name": "Altos Labs",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -9461,7 +9461,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alumis",
       "name": "Alumis Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9588,7 +9588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alvotech",
       "name": "Alvotech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9715,7 +9715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alx-oncology-holdings",
       "name": "Alx Oncology Holdings Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9842,7 +9842,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-alzamend-neuro",
       "name": "Alzamend Neuro, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -9969,7 +9969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amarin-corp-plc-uk",
       "name": "Amarin Corp PLC\\Uk",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10096,7 +10096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-america-great-health",
       "name": "America Great Health",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10223,7 +10223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amgen",
       "name": "Amgen Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10350,7 +10350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amneal-pharmaceuticals",
       "name": "Amneal Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10477,7 +10477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amphastar-pharmaceuticals",
       "name": "Amphastar Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10604,7 +10604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amplified-sciences",
       "name": "Amplified Sciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -10700,7 +10700,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-amylyx-pharmaceuticals",
       "name": "Amylyx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10827,7 +10827,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-an2-therapeutics",
       "name": "AN2 Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -10954,7 +10954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anaptysbio",
       "name": "Anaptysbio, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11081,7 +11081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anavex-life-sciences",
       "name": "Anavex Life Sciences Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11208,7 +11208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anbio-biotechnology",
       "name": "Anbio Biotechnology",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11335,7 +11335,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-andson-biotech",
       "name": "Andson Biotech Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -11431,7 +11431,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anebulo-pharmaceuticals",
       "name": "Anebulo Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11558,7 +11558,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anekabio",
       "name": "Anekabio LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -11654,7 +11654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ani-pharmaceuticals",
       "name": "Ani Pharmaceuticals Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11781,7 +11781,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-anixa-biosciences",
       "name": "Anixa Biosciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -11908,7 +11908,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-annexon",
       "name": "Annexon, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12035,7 +12035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-annovis-bio",
       "name": "Annovis Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12162,7 +12162,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-antengene",
       "name": "Antengene",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12303,7 +12303,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-apimeds-pharmaceuticals-us",
       "name": "Apimeds Pharmaceuticals US, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12430,7 +12430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-apnimed",
       "name": "Apnimed, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12557,7 +12557,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-apogee-therapeutics",
       "name": "Apogee Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12684,7 +12684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-apollomics",
       "name": "Apollomics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12811,7 +12811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aprea-therapeutics",
       "name": "Aprea Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -12938,7 +12938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aptevo-therapeutics",
       "name": "Aptevo Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13065,7 +13065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aquestive-therapeutics",
       "name": "Aquestive Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13192,7 +13192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arbutus-biopharma",
       "name": "Arbutus Biopharma Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13319,7 +13319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "arcellx",
       "name": "Arcellx",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13465,7 +13465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arcturus-therapeutics-holdings",
       "name": "Arcturus Therapeutics Holdings Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13592,7 +13592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arcus-biosciences",
       "name": "Arcus Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13719,7 +13719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arcutis-biotherapeutics",
       "name": "Arcutis Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13846,7 +13846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ardelyx",
       "name": "Ardelyx, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -13973,7 +13973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-argenx",
       "name": "Argenx Se",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14100,7 +14100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-armata-pharmaceuticals",
       "name": "Armata Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14227,7 +14227,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arrivent-biopharma",
       "name": "ArriVent BioPharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14354,7 +14354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-arrowhead-pharmaceuticals",
       "name": "Arrowhead Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14481,7 +14481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ars-pharmaceuticals",
       "name": "ARS Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14608,7 +14608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-artelo-biosciences",
       "name": "Artelo Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14735,7 +14735,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-artiva-biotherapeutics",
       "name": "Artiva Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -14862,7 +14862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "arvinas",
       "name": "Arvinas",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15117,7 +15117,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ascend-wellness-holdings",
       "name": "Ascend Wellness Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15244,7 +15244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ascendis-pharma-a-s",
       "name": "Ascendis Pharma A/S",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15371,7 +15371,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ascentage",
       "name": "Ascentage",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15512,7 +15512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ascentage-pharma-group-international",
       "name": "Ascentage Pharma Group International",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15639,7 +15639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ascletis",
       "name": "Ascletis",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15780,7 +15780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-asep-medical-holdings",
       "name": "Asep Medical Holdings Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -15907,7 +15907,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aspira-women-s-health",
       "name": "Aspira Women's Health Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16034,7 +16034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aspire-biopharma-holdings",
       "name": "Aspire Biopharma Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16161,7 +16161,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-assembly-biosciences",
       "name": "Assembly Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16288,7 +16288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-astrazeneca",
       "name": "Astrazeneca PLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16415,7 +16415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ataibeckley",
       "name": "AtaiBeckley Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16542,7 +16542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atara-biotherapeutics",
       "name": "Atara Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16669,7 +16669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atea-pharmaceuticals",
       "name": "Atea Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16796,7 +16796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atossa-therapeutics",
       "name": "Atossa Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -16923,7 +16923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atrium-therapeutics",
       "name": "Atrium Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17050,7 +17050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atsena-therapeutics",
       "name": "Atsena Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -17144,7 +17144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-attovia-therapeutics",
       "name": "Attovia Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17271,7 +17271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-atyr-pharma",
       "name": "aTYR PHARMA INC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17398,7 +17398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aura-biosciences",
       "name": "Aura Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17525,7 +17525,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aurinia-pharmaceuticals",
       "name": "Aurinia Pharmaceuticals Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17652,7 +17652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aurora-cannabis",
       "name": "Aurora Cannabis Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -17779,7 +17779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "autolus",
       "name": "Autolus Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18012,7 +18012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-auxilium-biotechnologies",
       "name": "Auxilium Biotechnologies Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -18106,7 +18106,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-avalo-therapeutics",
       "name": "Avalo Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18233,7 +18233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-avalyn-pharma",
       "name": "Avalyn Pharma Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18360,7 +18360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-avenue-therapeutics",
       "name": "Avenue Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18487,7 +18487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-avricore-health",
       "name": "Avricore Health Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18614,7 +18614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-axim-biotechnologies",
       "name": "Axim Biotechnologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18741,7 +18741,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-axsome-therapeutics",
       "name": "Axsome Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18868,7 +18868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ayr-wellness",
       "name": "Ayr Wellness Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -18995,7 +18995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-aytu-biopharma",
       "name": "Aytu Biopharma, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19122,7 +19122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-azitra",
       "name": "Azitra, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19249,7 +19249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-b-and-k",
       "name": "B&K Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19390,7 +19390,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bacstitch-dna",
       "name": "Bacstitch Dna Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -19486,7 +19486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bao-pharma",
       "name": "Bao Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19627,7 +19627,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-barinthus-biotherapeutics",
       "name": "Barinthus Biotherapeutics plc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19754,7 +19754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-basecare",
       "name": "Basecare",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -19895,7 +19895,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bausch-health-companies",
       "name": "Bausch Health Companies Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20022,7 +20022,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-beacon-topco",
       "name": "Beacon Topco, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20149,7 +20149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "beam-therapeutics",
       "name": "Beam Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20410,7 +20410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-belite-bio",
       "name": "Belite Bio, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20537,7 +20537,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20664,7 +20664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "beone-medicines",
       "name": "BeOne Medicines",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -20920,7 +20920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-beroni-group",
       "name": "Beroni Group Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21047,7 +21047,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bespoke-extracts",
       "name": "Bespoke Extracts, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21174,7 +21174,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-betterlife-pharma",
       "name": "BetterLife Pharma Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21301,7 +21301,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-beyondspring",
       "name": "BeyondSpring Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21428,7 +21428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bgm-group",
       "name": "BGM Group Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21555,7 +21555,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bicara-therapeutics",
       "name": "Bicara Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21682,7 +21682,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bicycle-therapeutics",
       "name": "Bicycle Therapeutics PLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21809,7 +21809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bio-essence",
       "name": "Bio Essence Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -21936,7 +21936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bio-path-holdings",
       "name": "Bio-Path Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22063,7 +22063,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bio-techne",
       "name": "BIO-TECHNE Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22190,7 +22190,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioadaptives",
       "name": "Bioadaptives, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22317,7 +22317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioage-labs",
       "name": "BioAge Labs, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22444,7 +22444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioatla",
       "name": "BioAtla, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22571,7 +22571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biocardia",
       "name": "BioCardia, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22698,7 +22698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biocryst-pharmaceuticals",
       "name": "Biocryst Pharmaceuticals Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22825,7 +22825,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biocytogen",
       "name": "Biocytogen",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -22966,7 +22966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biodexa-pharmaceuticals",
       "name": "Biodexa Pharmaceuticals Plc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23093,7 +23093,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biodlink",
       "name": "Biodlink",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23234,7 +23234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biofrontera",
       "name": "Biofrontera Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23361,7 +23361,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biogen",
       "name": "Biogen Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23488,7 +23488,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioharvest-sciences",
       "name": "Bioharvest Sciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23615,7 +23615,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biohaven",
       "name": "Biohaven Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23742,7 +23742,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioheart",
       "name": "Bioheart",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -23883,7 +23883,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biolinerx",
       "name": "BioLineRx Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24010,7 +24010,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biomarin-pharmaceutical",
       "name": "Biomarin Pharmaceutical Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24137,7 +24137,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biomea-fusion",
       "name": "Biomea Fusion, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24264,7 +24264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biomerica",
       "name": "Biomerica Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24391,7 +24391,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biomolecular-life-holdings",
       "name": "Biomolecular Life Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24518,7 +24518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biontech",
       "name": "BioNTech SE",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24645,7 +24645,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biostar-pharm",
       "name": "Biostar Pharm",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24786,7 +24786,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biostem-technologies",
       "name": "BioStem Technologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -24913,7 +24913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biote",
       "name": "biote Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25040,7 +25040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-biovie",
       "name": "Biovie Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25167,7 +25167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioxcel-therapeutics",
       "name": "BioXcel Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25294,7 +25294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bioxytran",
       "name": "Bioxytran, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25421,7 +25421,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-black-diamond-therapeutics",
       "name": "Black Diamond Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25548,7 +25548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-black-hawk-acquisition",
       "name": "Black Hawk Acquisition Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25675,7 +25675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-blossomhill-therapeutics",
       "name": "BlossomHill Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25802,7 +25802,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bolt-biotherapeutics",
       "name": "Bolt Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -25929,7 +25929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bon-natural-life",
       "name": "Bon Natural Life Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26056,7 +26056,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-boston-interactome",
       "name": "Boston Interactome, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -26152,7 +26152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26279,7 +26279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-brainaurora",
       "name": "Brainaurora",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26420,7 +26420,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-brainstorm-cell-therapeutics",
       "name": "Brainstorm Cell Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26547,7 +26547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-braveheart-bio",
       "name": "Braveheart Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26674,7 +26674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-briacell-therapeutics",
       "name": "BriaCell Therapeutics Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26801,7 +26801,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bridgebio-oncology-therapeutics",
       "name": "BridgeBio Oncology Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -26928,7 +26928,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bridgebio-pharma",
       "name": "BridgeBio Pharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27055,7 +27055,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bright-minds-biosciences",
       "name": "Bright Minds Biosciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27182,7 +27182,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-brii",
       "name": "Brii",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27323,7 +27323,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bristol-myers-squibb",
       "name": "Bristol Myers Squibb Co",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27450,7 +27450,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-broncus",
       "name": "Broncus",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27591,7 +27591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-bullfrog-ai-holdings",
       "name": "BullFrog AI Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27718,7 +27718,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-burzynski-research-institute",
       "name": "Burzynski Research Institute Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27845,7 +27845,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-c21-investments",
       "name": "C21 Investments Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -27972,7 +27972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "c4-therapeutics",
       "name": "C4 Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28144,7 +28144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cabaletta-bio",
       "name": "Cabaletta Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28271,7 +28271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cadrenal-therapeutics",
       "name": "Cadrenal Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28398,7 +28398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-calcimedica",
       "name": "CalciMedica, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28525,7 +28525,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "calico",
       "name": "Calico Life Sciences",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -28679,7 +28679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-calidi-biotherapeutics",
       "name": "Calidi Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -28806,7 +28806,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cambridge-medical-technologies",
       "name": "Cambridge Medical Technologies LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -28901,7 +28901,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-camp4-therapeutics",
       "name": "Camp4 Therapeutics Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29028,7 +29028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-can-fite-biopharma",
       "name": "Can-Fite BioPharma Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29155,7 +29155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-canbridge",
       "name": "Canbridge",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29296,7 +29296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-candel-therapeutics",
       "name": "Candel Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29423,7 +29423,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cannaisseur-group",
       "name": "Cannaisseur Group Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29550,7 +29550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cannapharmarx",
       "name": "Cannapharmarx, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29677,7 +29677,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-canopy-growth",
       "name": "Canopy Growth Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29804,7 +29804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -29931,7 +29931,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cardiff-oncology",
       "name": "Cardiff Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30058,7 +30058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cardio-diagnostics-holdings",
       "name": "Cardio Diagnostics Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30185,7 +30185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cardiol-therapeutics",
       "name": "Cardiol Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30312,7 +30312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-caribou-biosciences",
       "name": "Caribou Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30439,7 +30439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-carsgen",
       "name": "Carsgen",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30580,7 +30580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cartesian-therapeutics",
       "name": "Cartesian Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30707,7 +30707,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-casi-pharmaceuticals",
       "name": "CASI Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30834,7 +30834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cbd-life-sciences",
       "name": "CBD Life Sciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -30961,7 +30961,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cdt-equity",
       "name": "CDT Equity Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31088,7 +31088,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cel-sci",
       "name": "Cel Sci Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31215,7 +31215,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cell-source",
       "name": "Cell Source, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31342,7 +31342,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-celldex-therapeutics",
       "name": "Celldex Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31469,7 +31469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cellectar-biosciences",
       "name": "Cellectar Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31596,7 +31596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cellectis-s-a",
       "name": "Cellectis S.A.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31723,7 +31723,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31850,7 +31850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-century-therapeutics",
       "name": "Century Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -31977,7 +31977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cero-therapeutics-holdings",
       "name": "Cero Therapeutics Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32104,7 +32104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cervomed",
       "name": "CervoMed Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32231,7 +32231,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cfd-research",
       "name": "Cfd Research Corporation",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -32327,7 +32327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cg-oncology",
       "name": "CG Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32454,7 +32454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-champions-oncology",
       "name": "Champions Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32581,7 +32581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-charlie-s-holdings",
       "name": "Charlie's Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32708,7 +32708,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-chemomab-therapeutics",
       "name": "Chemomab Therapeutics Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32835,7 +32835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-china-foods-holdings",
       "name": "China Foods Holdings Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -32962,7 +32962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-china-pharma-holdings",
       "name": "China Pharma Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33089,7 +33089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-china-sxt-pharmaceuticals",
       "name": "China SXT Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33216,7 +33216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-chinares-pharma",
       "name": "Chinares Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33357,7 +33357,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cingulate",
       "name": "Cingulate Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33484,7 +33484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-citius-oncology",
       "name": "Citius Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33611,7 +33611,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-citius-pharmaceuticals",
       "name": "Citius Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33738,7 +33738,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-clearmind-medicine",
       "name": "Clearmind Medicine Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33865,7 +33865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-clene",
       "name": "Clene Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -33992,7 +33992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-climb-bio",
       "name": "Climb Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34119,7 +34119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cloudbreak",
       "name": "Cloudbreak",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34260,7 +34260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-clover-bio",
       "name": "Clover Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34401,7 +34401,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cms",
       "name": "Cms",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34542,7 +34542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cmtx-biotech",
       "name": "Cmtx Biotech, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -34637,7 +34637,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cnbx-pharmaceuticals",
       "name": "CNBX Pharmaceuticals Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34764,7 +34764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cns-pharmaceuticals",
       "name": "CNS Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -34891,7 +34891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cocrystal-pharma",
       "name": "Cocrystal Pharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35018,7 +35018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cognition-therapeutics",
       "name": "Cognition Therapeutics Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35145,7 +35145,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-coherus-oncology",
       "name": "Coherus Oncology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35272,7 +35272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-compass-therapeutics",
       "name": "Compass Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35399,7 +35399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-compugen",
       "name": "Compugen Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35526,7 +35526,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-creative-medical-technology-holdings",
       "name": "Creative Medical Technology Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35653,7 +35653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cresco-labs",
       "name": "Cresco Labs Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -35780,7 +35780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "crispr-therapeutics",
       "name": "CRISPR Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36024,7 +36024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cronos-group",
       "name": "Cronos Group Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36151,7 +36151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cryocrate",
       "name": "Cryocrate, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -36247,7 +36247,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cryofocus",
       "name": "Cryofocus",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36388,7 +36388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cspc-pharma",
       "name": "Cspc Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36529,7 +36529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cstone-pharma",
       "name": "Cstone Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36670,7 +36670,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cullinan-therapeutics",
       "name": "Cullinan Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36797,7 +36797,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-curaleaf-holdings",
       "name": "Curaleaf Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -36924,7 +36924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-curative-biotechnology",
       "name": "Curative Biotechnology Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37051,7 +37051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-curis",
       "name": "Curis Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37178,7 +37178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cutia",
       "name": "Cutia",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37319,7 +37319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cyanotech",
       "name": "Cyanotech Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37446,7 +37446,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cytorum",
       "name": "Cytorum, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -37542,7 +37542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-dbv-technologies-s-a",
       "name": "DBV Technologies S.A.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37669,7 +37669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-definium-therapeutics",
       "name": "Definium Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37796,7 +37796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-denali-therapeutics",
       "name": "Denali Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -37923,7 +37923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-devonian-health-group",
       "name": "Devonian Health Group Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38050,7 +38050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-diagens",
       "name": "Diagens",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38191,7 +38191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-dnali-data-technologies",
       "name": "Dnali Data Technologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -38287,7 +38287,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-dualitybio",
       "name": "Dualitybio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38429,7 +38429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-dyadic-international",
       "name": "Dyadic International Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38556,7 +38556,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ecogenome",
       "name": "Ecogenome LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -38655,7 +38655,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-edge-medical",
       "name": "Edge Medical",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38796,7 +38796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-editas-medicine",
       "name": "Editas Medicine, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -38923,7 +38923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-eikon-therapeutics",
       "name": "Eikon Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39050,7 +39050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-electra-therapeutics",
       "name": "Electra Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39177,7 +39177,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-eloxx-pharmaceuticals",
       "name": "Eloxx Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39304,7 +39304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-elutia",
       "name": "Elutia Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39431,7 +39431,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "emulate",
       "name": "Emulate",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -39593,7 +39593,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-energybiocode",
       "name": "Energybiocode LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -39688,7 +39688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-engene-therapeutics",
       "name": "enGene Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39815,7 +39815,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-entera-bio",
       "name": "Entera Bio Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -39942,7 +39942,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-estrella-immunopharma",
       "name": "Estrella Immunopharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40069,7 +40069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-evaxion-a-s",
       "name": "Evaxion A/S",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40196,7 +40196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-everest-biolabs",
       "name": "Everest Biolabs, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -40291,7 +40291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-exelixis",
       "name": "Exelixis, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40418,7 +40418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-exozymes",
       "name": "Exozymes Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40545,7 +40545,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-faknostics",
       "name": "Faknostics, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -40639,7 +40639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-fate-therapeutics",
       "name": "Fate Therapeutics Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40766,7 +40766,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-fennec-pharmaceuticals",
       "name": "Fennec Pharmaceuticals Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -40893,7 +40893,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-fimbrion-therapeutics",
       "name": "Fimbrion Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -40988,7 +40988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-fitlife-brands",
       "name": "Fitlife Brands, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41115,7 +41115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-functional-brands",
       "name": "Functional Brands Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41242,7 +41242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ge-medical-systems-information-technologies",
       "name": "Ge Medical Systems Information Technologies, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -41338,7 +41338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-genenta-science-s-p-a",
       "name": "Genenta Science S.p.A.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41465,7 +41465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-genfleet",
       "name": "Genfleet",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41606,7 +41606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "genmab",
       "name": "Genmab",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -41883,7 +41883,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-genscript-bio",
       "name": "Genscript Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42024,7 +42024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-gilead-sciences",
       "name": "Gilead Sciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42151,7 +42151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ginkgo-bioworks-holdings",
       "name": "Ginkgo Bioworks Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42278,7 +42278,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-glass-house-brands",
       "name": "Glass House Brands Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42405,7 +42405,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-glucose-health",
       "name": "Glucose Health, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42532,7 +42532,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-grand-pharma",
       "name": "Grand Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42673,7 +42673,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-green-planet-bio-engineering",
       "name": "Green Planet Bio Engineering Co. Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42800,7 +42800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-greenland-mines",
       "name": "Greenland Mines Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -42927,7 +42927,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "guardant-health",
       "name": "Guardant Health",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43169,7 +43169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-halcyon-biomedical",
       "name": "Halcyon Biomedical, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -43266,7 +43266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-halozyme-therapeutics",
       "name": "Halozyme Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43393,7 +43393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hansoh-pharma",
       "name": "Hansoh Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43534,7 +43534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hanxbio",
       "name": "Hanxbio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43675,7 +43675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hbm-holdings",
       "name": "Hbm Holdings",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43816,7 +43816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-healthy-extracts",
       "name": "Healthy Extracts Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -43943,7 +43943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-heartcare",
       "name": "Heartcare",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44084,7 +44084,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hemab-therapeutics-holdings",
       "name": "Hemab Therapeutics Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44211,7 +44211,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hightide",
       "name": "Hightide",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44352,7 +44352,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hj-science",
       "name": "Hj Science",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44493,7 +44493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hua-medicine",
       "name": "Hua Medicine",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44634,7 +44634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "hub-organoids",
       "name": "HUB Organoids",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -44773,7 +44773,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-humacyte",
       "name": "Humacyte, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -44900,7 +44900,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-hutchmed",
       "name": "Hutchmed",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45041,7 +45041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-idexx-laboratories-inc-de",
       "name": "Idexx Laboratories Inc /De",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45168,7 +45168,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ikaika-therapeutics",
       "name": "Ikaika Therapeutics Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -45263,7 +45263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "illumina",
       "name": "Illumina",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45542,7 +45542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-im-cannabis",
       "name": "IM Cannabis Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45669,7 +45669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-imagenebio",
       "name": "ImageneBio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45796,7 +45796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immatics-n-v",
       "name": "Immatics N.V.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -45923,7 +45923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immucell-corp-de",
       "name": "Immucell Corp /De/",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46050,7 +46050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immuneonco",
       "name": "Immuneonco",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46191,7 +46191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immunitybio",
       "name": "ImmunityBio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46318,7 +46318,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immunocore-holdings",
       "name": "Immunocore Holdings plc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46445,7 +46445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immunotech",
       "name": "Immunotech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46586,7 +46586,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-immunovant",
       "name": "Immunovant, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46713,7 +46713,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-impact-therap",
       "name": "Impact Therap",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46854,7 +46854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-in8bio",
       "name": "In8Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -46981,7 +46981,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-inhibikase-therapeutics",
       "name": "Inhibikase Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47108,7 +47108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-inhibrx-biosciences",
       "name": "Inhibrx Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47235,7 +47235,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-inmune-bio",
       "name": "Inmune Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47362,7 +47362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-innate-pharma",
       "name": "Innate Pharma SA",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47489,7 +47489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-innocare",
       "name": "Innocare",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47630,7 +47630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-innogen",
       "name": "Innogen",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -47771,7 +47771,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-innotech-precision-medicine",
       "name": "Innotech Precision Medicine, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -47868,7 +47868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-innovent-bio",
       "name": "Innovent Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48009,7 +48009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-insight-molecular-diagnostics",
       "name": "Insight Molecular Diagnostics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48136,7 +48136,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-insilico",
       "name": "Insilico",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48277,7 +48277,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "insilico-medicine",
       "name": "Insilico Medicine",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -48440,7 +48440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-instil-bio",
       "name": "Instil Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48567,7 +48567,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "intellia",
       "name": "Intellia Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48835,7 +48835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-intensity-therapeutics",
       "name": "Intensity Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -48962,7 +48962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-invivyd",
       "name": "Invivyd, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49089,7 +49089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "ionis",
       "name": "Ionis Pharmaceuticals",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49366,7 +49366,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-iovance-biotherapeutics",
       "name": "Iovance Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49493,7 +49493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jacobio",
       "name": "Jacobio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49634,7 +49634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jasper-therapeutics",
       "name": "Jasper Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49761,7 +49761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jd-health",
       "name": "Jd Health",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -49902,7 +49902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jenscare",
       "name": "Jenscare",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50043,7 +50043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jushi-holdings",
       "name": "Jushi Holdings Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50170,7 +50170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-jw-therap",
       "name": "Jw Therap",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50311,7 +50311,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kalaris-therapeutics",
       "name": "Kalaris Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50438,7 +50438,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kephera-diagnostics",
       "name": "Kephera Diagnostics, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -50535,7 +50535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-keymed-bio",
       "name": "Keymed Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50676,7 +50676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kintor-pharma",
       "name": "Kintor Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50817,7 +50817,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kodiak-sciences",
       "name": "Kodiak Sciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -50944,7 +50944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-koi-biotherapeutics",
       "name": "Koi Biotherapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -51040,7 +51040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-krystal-biotech",
       "name": "Krystal Biotech, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51167,7 +51167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kubanda-cryotherapy",
       "name": "Kubanda Cryotherapy, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -51262,7 +51262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51389,7 +51389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-kyverna-therapeutics",
       "name": "Kyverna Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51516,7 +51516,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-laekna",
       "name": "Laekna",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51657,7 +51657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lagrange-scientific",
       "name": "Lagrange Scientific, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -51752,7 +51752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lantheus-holdings",
       "name": "Lantheus Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -51879,7 +51879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-leads-biolabs",
       "name": "Leads Biolabs",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52020,7 +52020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-leaflabs",
       "name": "Leaflabs, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -52118,7 +52118,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-leden",
       "name": "Leden LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -52212,7 +52212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-leef-brands",
       "name": "Leef Brands Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52339,7 +52339,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "legend-biotech",
       "name": "Legend Biotech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52668,7 +52668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lenz-therapeutics",
       "name": "LENZ Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52795,7 +52795,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-leonabio",
       "name": "LeonaBio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -52922,7 +52922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lexeo-therapeutics",
       "name": "Lexeo Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53049,7 +53049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lila-biologics",
       "name": "Lila Biologics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -53146,7 +53146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-liminatus-pharma",
       "name": "Liminatus Pharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53273,7 +53273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-lineage-cell-therapeutics",
       "name": "Lineage Cell Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53400,7 +53400,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-longbio",
       "name": "Longbio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53541,7 +53541,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-luzhu-biotech",
       "name": "Luzhu Biotech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53682,7 +53682,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mabpharm",
       "name": "Mabpharm",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53823,7 +53823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mabwell",
       "name": "Mabwell",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -53964,7 +53964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-magnetic-tides",
       "name": "Magnetic Tides, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -54058,7 +54058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mannatech",
       "name": "Mannatech Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54185,7 +54185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-marimed",
       "name": "Marimed Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54312,7 +54312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-maze-therapeutics",
       "name": "Maze Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54439,7 +54439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-medbot",
       "name": "Medbot",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54581,7 +54581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mediwound",
       "name": "MediWound Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54708,7 +54708,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-meiragtx-holdings",
       "name": "MeiraGTx Holdings plc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54835,7 +54835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mesoblast",
       "name": "Mesoblast Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -54962,7 +54962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-metagenomi-therapeutics",
       "name": "Metagenomi Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55089,7 +55089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-micot-pharma",
       "name": "Micot Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55230,7 +55230,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-microport",
       "name": "Microport",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55371,7 +55371,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-microtech-med",
       "name": "Microtech Med",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55512,7 +55512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "mimetas",
       "name": "MIMETAS",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -55675,7 +55675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mink-therapeutics",
       "name": "MiNK Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -55802,7 +55802,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mirecule",
       "name": "Mirecule, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -55899,7 +55899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mirxes",
       "name": "Mirxes",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56040,7 +56040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "moderna",
       "name": "Moderna",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56306,7 +56306,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-molecular-partners",
       "name": "Molecular Partners AG",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56433,7 +56433,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-monte-rosa-therapeutics",
       "name": "Monte Rosa Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56560,7 +56560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mosaic-immunoengineering",
       "name": "Mosaic ImmunoEngineering Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56687,7 +56687,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mp-cardioflow",
       "name": "Mp Cardioflow",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -56828,7 +56828,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-mucommune",
       "name": "Mucommune, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -56922,7 +56922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-myriad-genetics",
       "name": "Myriad Genetics Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57049,7 +57049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "natera",
       "name": "Natera",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57303,7 +57303,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-natural-alternatives-international",
       "name": "Natural Alternatives International Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57430,7 +57430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-neogen",
       "name": "Neogen Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57557,7 +57557,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-neumora-therapeutics",
       "name": "Neumora Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57684,7 +57684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-neurocrine-biosciences",
       "name": "Neurocrine Biosciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57811,7 +57811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-neutra",
       "name": "Neutra Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -57938,7 +57938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-new-health-sciences",
       "name": "New Health Sciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -58033,7 +58033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-newomics",
       "name": "Newomics, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -58129,7 +58129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-niagen-bioscience",
       "name": "Niagen Bioscience, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58256,7 +58256,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-novavax",
       "name": "Novavax Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58383,7 +58383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "nurix",
       "name": "Nurix Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58602,7 +58602,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-nutra-pharma",
       "name": "Nutra Pharma Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58729,7 +58729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-nuvox-pharma",
       "name": "Nuvox Pharma, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -58826,7 +58826,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-nyb-holdings",
       "name": "NYB Holdings Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -58953,7 +58953,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "nykode-therapeutics",
       "name": "Nykode Therapeutics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59138,7 +59138,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-nymox-pharmaceutical",
       "name": "Nymox Pharmaceutical Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59265,7 +59265,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ocugen",
       "name": "Ocugen, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59392,7 +59392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ocumension",
       "name": "Ocumension",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59533,7 +59533,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-odyssey-therapeutics",
       "name": "Odyssey Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59660,7 +59660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-okyo-pharma",
       "name": "OKYO Pharma Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -59787,7 +59787,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-olfax",
       "name": "Olfax, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -59881,7 +59881,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-opthea",
       "name": "Opthea Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60008,7 +60008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-orlucent",
       "name": "Orlucent, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60103,7 +60103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-outlook-therapeutics",
       "name": "Outlook Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60230,7 +60230,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "oxford-nanopore",
       "name": "Oxford Nanopore Technologies",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60392,7 +60392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-palisade-bio",
       "name": "Palisade Bio, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60519,7 +60519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-panacea-life-sciences-holdings",
       "name": "Panacea Life Sciences Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60646,7 +60646,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-partillion-bioscience",
       "name": "Partillion Bioscience Corporation",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60743,7 +60743,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-passage-bio",
       "name": "Passage BIO, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -60870,7 +60870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-pavaj-vascular",
       "name": "Pavaj Vascular Corporation",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -60964,7 +60964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-pegbio",
       "name": "Pegbio Co",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61105,7 +61105,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-peijia",
       "name": "Peijia",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61246,7 +61246,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-pelthos-therapeutics",
       "name": "Pelthos Therapeutics Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61373,7 +61373,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-perzeption",
       "name": "Perzeption Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -61469,7 +61469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-pharmacyte-biotech",
       "name": "PharmaCyte Biotech, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61596,7 +61596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-pluri",
       "name": "Pluri Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61723,7 +61723,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-precision-biosciences",
       "name": "Precision Biosciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61850,7 +61850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-prime-medicine",
       "name": "Prime Medicine, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -61977,7 +61977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-proda-biotech",
       "name": "Proda Biotech, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -62073,7 +62073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-prokidney",
       "name": "Prokidney Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62200,7 +62200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-protalix-biotherapeutics",
       "name": "Protalix BioTherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62327,7 +62327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-protara-therapeutics",
       "name": "Protara Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62454,7 +62454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-q-c-technologies",
       "name": "Q/C Technologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62581,7 +62581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-qentoros",
       "name": "Qentoros, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -62676,7 +62676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-qiagen-n-v",
       "name": "Qiagen N.V.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -62803,7 +62803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-quantum-simulation-technologies",
       "name": "Quantum Simulation Technologies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -62898,7 +62898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-quidelortho",
       "name": "QuidelOrtho Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63025,7 +63025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-quince-therapeutics",
       "name": "Quince Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63152,7 +63152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-qyuns",
       "name": "Qyuns",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63293,7 +63293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-rainmed",
       "name": "Rainmed",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63434,7 +63434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-raphael-pharmaceutical",
       "name": "Raphael Pharmaceutical Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63561,7 +63561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-recbio",
       "name": "Recbio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63702,7 +63702,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "recursion",
       "name": "Recursion Pharmaceuticals",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -63946,7 +63946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-regencell-bioscience-holdings",
       "name": "Regencell Bioscience Holdings Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64073,7 +64073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-regenxbio",
       "name": "REGENXBIO Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64200,7 +64200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-rehabtek",
       "name": "Rehabtek, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -64294,7 +64294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-relay-therapeutics",
       "name": "Relay Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64421,7 +64421,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-repligen",
       "name": "Repligen Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64548,7 +64548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-replimune-group",
       "name": "Replimune Group, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64675,7 +64675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "retro-biosciences",
       "name": "Retro Biosciences",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Private",
@@ -64822,7 +64822,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-revolution-medicines",
       "name": "Revolution Medicines, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -64949,7 +64949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ribolife",
       "name": "Ribolife",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65090,7 +65090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-rise-therapeutics",
       "name": "Rise Therapeutics, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -65185,7 +65185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sab-biotherapeutics",
       "name": "SAB Biotherapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65312,7 +65312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sana-biotechnology",
       "name": "Sana Biotechnology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65439,7 +65439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sangamo-therapeutics",
       "name": "Sangamo Therapeutics, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65566,7 +65566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-saros-therapeutics",
       "name": "Saros Therapeutics Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -65660,7 +65660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sbp-group",
       "name": "Sbp Group",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -65801,7 +65801,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-scarab-genomics",
       "name": "Scarab Genomics, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -65898,7 +65898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-scholar-rock-holding",
       "name": "Scholar Rock Holding Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66025,7 +66025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-scilex-holding",
       "name": "Scilex Holding Co",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66152,7 +66152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-scinai-immunotherapeutics",
       "name": "Scinai Immunotherapeutics Ltd.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66279,7 +66279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-scribe-therapeutics",
       "name": "Scribe Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66406,7 +66406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-selsym-biotech",
       "name": "Selsym Biotech, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -66501,7 +66501,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-senti-biosciences-holdings",
       "name": "Senti Biosciences Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66628,7 +66628,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-signablok",
       "name": "Signablok, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -66724,7 +66724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-silexion-therapeutics",
       "name": "Silexion Therapeutics Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66851,7 +66851,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-simcere-pharma",
       "name": "Simcere Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -66992,7 +66992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sinomab-bio",
       "name": "Sinomab Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67133,7 +67133,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sinopharm",
       "name": "Sinopharm",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67274,7 +67274,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sirnaomics",
       "name": "Sirnaomics",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67415,7 +67415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-skb-bio",
       "name": "Skb Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67556,7 +67556,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sl-science-holding",
       "name": "SL Science Holding Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67683,7 +67683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sndl",
       "name": "SNDL Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67810,7 +67810,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-solid-biosciences",
       "name": "Solid Biosciences Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -67937,7 +67937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-stemsynergy-therapeutics",
       "name": "Stemsynergy Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -68034,7 +68034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "sumitomo-pharma",
       "name": "Sumitomo Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68197,7 +68197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sunho-bio",
       "name": "Sunho Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68338,7 +68338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-surrozen-inc-de",
       "name": "Surrozen, Inc./DE",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68465,7 +68465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-sutro-biopharma",
       "name": "Sutro Biopharma, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68592,7 +68592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-synergy-chc",
       "name": "Synergy CHC Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68719,7 +68719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tango-biosciences",
       "name": "Tango Biosciences, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -68814,7 +68814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-target-group",
       "name": "Target Group Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -68941,7 +68941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tarsus-pharmaceuticals",
       "name": "Tarsus Pharmaceuticals, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69068,7 +69068,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-taysha-gene-therapies",
       "name": "Taysha Gene Therapies, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69195,7 +69195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tectonic-therapeutic",
       "name": "Tectonic Therapeutic, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69322,7 +69322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "tempus-ai",
       "name": "Tempus AI",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69496,7 +69496,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tenaya-therapeutics",
       "name": "Tenaya Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69623,7 +69623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tennor-therap",
       "name": "Tennor Therap",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69764,7 +69764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tevogen",
       "name": "Tevogen Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -69891,7 +69891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tfa-therapeutics",
       "name": "TFA Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70018,7 +70018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-th-medical",
       "name": "Th Medical",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70159,7 +70159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tilray-brands",
       "name": "Tilray Brands, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70286,7 +70286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tissuerate",
       "name": "Tissuerate Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -70380,7 +70380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-trace-biosciences",
       "name": "Trace Biosciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -70476,7 +70476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-transcenta",
       "name": "Transcenta",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70617,7 +70617,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-transthera",
       "name": "Transthera",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70758,7 +70758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-trinity-biotech",
       "name": "Trinity Biotech PLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -70885,7 +70885,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-trulieve-cannabis",
       "name": "Trulieve Cannabis Corp.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71012,7 +71012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tscan-therapeutics",
       "name": "TScan Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71139,7 +71139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-twist-bioscience",
       "name": "Twist Bioscience Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71266,7 +71266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-tyk-medicines",
       "name": "Tyk Medicines",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71407,7 +71407,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-united-lab",
       "name": "United Lab",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71548,7 +71548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71675,7 +71675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-valneva",
       "name": "Valneva SE",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -71802,7 +71802,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vasarya-therapeutics",
       "name": "Vasarya Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -71898,7 +71898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vaxart",
       "name": "Vaxart, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72025,7 +72025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vaxcyte",
       "name": "Vaxcyte, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72152,7 +72152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vecgen",
       "name": "Vecgen, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -72247,7 +72247,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-venus-medtech",
       "name": "Venus Medtech",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72388,7 +72388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vericel",
       "name": "Vericel Corp",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72515,7 +72515,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vigonvita",
       "name": "Vigonvita",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72656,7 +72656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vir-biotechnology",
       "name": "Vir Biotechnology, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72783,7 +72783,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-virax-biolabs-group",
       "name": "Virax Biolabs Group Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -72910,7 +72910,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-virtici",
       "name": "Virtici, LLC",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": null,
@@ -73004,7 +73004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-visen-pharma",
       "name": "Visen Pharma",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73145,7 +73145,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-viskase-holdings",
       "name": "Viskase Holdings, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73272,7 +73272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vivosim-labs",
       "name": "VivoSim Labs, INC.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73399,7 +73399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-volitionrx",
       "name": "Volitionrx Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73526,7 +73526,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-vor-biopharma",
       "name": "Vor Biopharma Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73653,7 +73653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-voyager-therapeutics",
       "name": "Voyager Therapeutics, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73780,7 +73780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-weigao-group",
       "name": "Weigao Group",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -73921,7 +73921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-windtree-therapeutics-inc-de",
       "name": "Windtree Therapeutics Inc /De/",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74048,7 +74048,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-wuxi-apptec",
       "name": "Wuxi Apptec",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74189,7 +74189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-wuxi-bio",
       "name": "Wuxi Bio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74330,7 +74330,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-wuxi-xdc",
       "name": "Wuxi Xdc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74471,7 +74471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-x4-pharmaceuticals",
       "name": "X4 Pharmaceuticals, Inc",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74598,7 +74598,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "xtalpi",
       "name": "XtalPi",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74767,7 +74767,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-xuanzhubio",
       "name": "Xuanzhubio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -74908,7 +74908,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-yzybio",
       "name": "Yzybio",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75049,7 +75049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-zai-lab",
       "name": "Zai Lab",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75190,7 +75190,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-zeo-scientifix",
       "name": "Zeo ScientifiX, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75317,7 +75317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-zhaoke-ophth",
       "name": "Zhaoke Ophth",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75458,7 +75458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-zivo-bioscience",
       "name": "Zivo Bioscience, Inc.",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75585,7 +75585,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-zura-bio",
       "name": "Zura Bio Ltd",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75712,7 +75712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-abf14cfdd734",
       "name": "三生国健",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75814,7 +75814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ffc870755755",
       "name": "上海谊众",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -75916,7 +75916,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-23395bd4136e",
       "name": "亚辉龙",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76018,7 +76018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-445f23b51274",
       "name": "佰仁医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76120,7 +76120,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-d9ba58a62bfd",
       "name": "华大智造",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76222,7 +76222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-8737023e7840",
       "name": "华恒生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76324,7 +76324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-958dca202897",
       "name": "华熙生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76426,7 +76426,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-dab769becc09",
       "name": "南微医学",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76528,7 +76528,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-2237daacb53b",
       "name": "博瑞医药",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76630,7 +76630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-04217823c4ab",
       "name": "君实生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76732,7 +76732,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-56e3097c1baa",
       "name": "圣湘生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76834,7 +76834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-29af81224424",
       "name": "天智航",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -76936,7 +76936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-669d3a3a69c7",
       "name": "奕瑞科技",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77038,7 +77038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-5dd7a8e31714",
       "name": "威高骨科",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77140,7 +77140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-6e4fa81780a1",
       "name": "康希诺",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77242,7 +77242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-819bfbc1d0f2",
       "name": "微电生理",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77344,7 +77344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-5ea2006c4a5f",
       "name": "微芯生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77446,7 +77446,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-9a455318ea07",
       "name": "心脉医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77548,7 +77548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-97d3efdd3446",
       "name": "必贝特",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77650,7 +77650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ddcce1f0d702",
       "name": "悦康药业",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77752,7 +77752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-46bf883ce905",
       "name": "惠泰医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77854,7 +77854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-3c92f1178f55",
       "name": "成大生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -77956,7 +77956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-98af7e3aff90",
       "name": "成都先导",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78058,7 +78058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-2e954f991f1e",
       "name": "智翔金泰",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78160,7 +78160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-26e62943e01a",
       "name": "欧林生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78262,7 +78262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-817afffebd32",
       "name": "汇宇制药",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78364,7 +78364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-5a89d199d059",
       "name": "泽璟制药",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78466,7 +78466,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-28a9294d8677",
       "name": "浩欧博",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78568,7 +78568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-cd80b661fe40",
       "name": "海尔生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78670,7 +78670,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-38dcb219a359",
       "name": "热景生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78772,7 +78772,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-5dd44c475880",
       "name": "爱博医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78874,7 +78874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-2ecb4514d497",
       "name": "特宝生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -78976,7 +78976,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-c868ae2672ff",
       "name": "百克生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79078,7 +79078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-37878f99d02b",
       "name": "百利天恒",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79180,7 +79180,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-8f5ffb670e2a",
       "name": "百奥泰",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79282,7 +79282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-d50ece0e7d8e",
       "name": "皓元医药",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79384,7 +79384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-1338e6c1b759",
       "name": "益方生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79486,7 +79486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-fec21b7f896b",
       "name": "神州细胞",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79588,7 +79588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-ef758b23173e",
       "name": "禾元生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79690,7 +79690,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-06f3336fa2e3",
       "name": "美迪西",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79792,7 +79792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-563ae6bb4ac0",
       "name": "翔宇医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79894,7 +79894,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-9fc8ecbf25c5",
       "name": "联影医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -79996,7 +79996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-512e83582c00",
       "name": "艾力斯",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80098,7 +80098,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-868d4e3c4dbe",
       "name": "苑东生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80200,7 +80200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-51ebce2d9596",
       "name": "荣昌生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80302,7 +80302,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-e0840e21be78",
       "name": "诺唯赞",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80404,7 +80404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-9f07e257c157",
       "name": "赛诺医疗",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80506,7 +80506,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-69a5934eccae",
       "name": "迈威生物",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80608,7 +80608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     {
       "companyId": "candidate-e1183778e53f",
       "name": "迪哲医药",
-      "asOfDate": "2026-09-13",
+      "asOfDate": "2026-09-14",
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
@@ -80782,7 +80782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80867,7 +80867,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80948,7 +80948,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81033,7 +81033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81118,7 +81118,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81203,7 +81203,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81288,7 +81288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81373,7 +81373,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81458,7 +81458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81543,7 +81543,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81628,7 +81628,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81713,7 +81713,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81798,7 +81798,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81883,7 +81883,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81968,7 +81968,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82053,7 +82053,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82138,7 +82138,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82223,7 +82223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82308,7 +82308,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82393,7 +82393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82478,7 +82478,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82563,7 +82563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82648,7 +82648,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82733,7 +82733,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82818,7 +82818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82903,7 +82903,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82988,7 +82988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83073,7 +83073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83158,7 +83158,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83243,7 +83243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83328,7 +83328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83413,7 +83413,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83498,7 +83498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83583,7 +83583,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83668,7 +83668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83753,7 +83753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83838,7 +83838,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83923,7 +83923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84008,7 +84008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84093,7 +84093,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84178,7 +84178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84263,7 +84263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84348,7 +84348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84433,7 +84433,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84518,7 +84518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84603,7 +84603,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84688,7 +84688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84773,7 +84773,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84858,7 +84858,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84943,7 +84943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85028,7 +85028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85113,7 +85113,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85198,7 +85198,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85283,7 +85283,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85368,7 +85368,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85453,7 +85453,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85538,7 +85538,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85623,7 +85623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85708,7 +85708,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85793,7 +85793,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85878,7 +85878,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85963,7 +85963,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86048,7 +86048,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86133,7 +86133,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86218,7 +86218,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86303,7 +86303,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86388,7 +86388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86473,7 +86473,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86558,7 +86558,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86643,7 +86643,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86728,7 +86728,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86813,7 +86813,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86898,7 +86898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86983,7 +86983,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87068,7 +87068,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87153,7 +87153,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87238,7 +87238,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87323,7 +87323,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87408,7 +87408,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87493,7 +87493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87578,7 +87578,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87663,7 +87663,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87748,7 +87748,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87833,7 +87833,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87918,7 +87918,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88003,7 +88003,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88088,7 +88088,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88173,7 +88173,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88258,7 +88258,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88343,7 +88343,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88428,7 +88428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88513,7 +88513,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88598,7 +88598,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88683,7 +88683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88768,7 +88768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88853,7 +88853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88938,7 +88938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89023,7 +89023,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89108,7 +89108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89193,7 +89193,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89278,7 +89278,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89363,7 +89363,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89448,7 +89448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89533,7 +89533,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89618,7 +89618,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89703,7 +89703,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89788,7 +89788,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89873,7 +89873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89958,7 +89958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90043,7 +90043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90128,7 +90128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90213,7 +90213,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90298,7 +90298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90383,7 +90383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90468,7 +90468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90553,7 +90553,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90638,7 +90638,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90723,7 +90723,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90808,7 +90808,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90893,7 +90893,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90978,7 +90978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91063,7 +91063,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91148,7 +91148,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91233,7 +91233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91318,7 +91318,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91403,7 +91403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91488,7 +91488,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91573,7 +91573,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91658,7 +91658,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91743,7 +91743,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91828,7 +91828,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91913,7 +91913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91998,7 +91998,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92083,7 +92083,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92168,7 +92168,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92253,7 +92253,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92338,7 +92338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92423,7 +92423,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92508,7 +92508,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92593,7 +92593,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92678,7 +92678,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92763,7 +92763,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92848,7 +92848,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92933,7 +92933,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93018,7 +93018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93103,7 +93103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93188,7 +93188,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93273,7 +93273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93358,7 +93358,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93443,7 +93443,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93528,7 +93528,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93613,7 +93613,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93698,7 +93698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93783,7 +93783,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93868,7 +93868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93953,7 +93953,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94038,7 +94038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94123,7 +94123,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94208,7 +94208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94293,7 +94293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94378,7 +94378,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94463,7 +94463,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94548,7 +94548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94633,7 +94633,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94718,7 +94718,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94803,7 +94803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94888,7 +94888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94973,7 +94973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95058,7 +95058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95143,7 +95143,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95228,7 +95228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95313,7 +95313,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95398,7 +95398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95483,7 +95483,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95568,7 +95568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95653,7 +95653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95738,7 +95738,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95823,7 +95823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95908,7 +95908,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95993,7 +95993,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96078,7 +96078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96163,7 +96163,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96248,7 +96248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96333,7 +96333,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96418,7 +96418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96503,7 +96503,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96588,7 +96588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96673,7 +96673,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96758,7 +96758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96843,7 +96843,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96928,7 +96928,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97013,7 +97013,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97098,7 +97098,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97183,7 +97183,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97268,7 +97268,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97353,7 +97353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97438,7 +97438,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97523,7 +97523,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97608,7 +97608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97693,7 +97693,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97778,7 +97778,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97863,7 +97863,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97948,7 +97948,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98033,7 +98033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98118,7 +98118,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98203,7 +98203,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98288,7 +98288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98373,7 +98373,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98458,7 +98458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98543,7 +98543,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98628,7 +98628,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98713,7 +98713,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98798,7 +98798,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98883,7 +98883,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98968,7 +98968,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99053,7 +99053,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99138,7 +99138,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99223,7 +99223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99308,7 +99308,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99393,7 +99393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99478,7 +99478,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99563,7 +99563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99648,7 +99648,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99733,7 +99733,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99818,7 +99818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99903,7 +99903,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99988,7 +99988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100073,7 +100073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100158,7 +100158,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100243,7 +100243,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100328,7 +100328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100413,7 +100413,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100498,7 +100498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100583,7 +100583,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100668,7 +100668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100753,7 +100753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100838,7 +100838,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100923,7 +100923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101008,7 +101008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101093,7 +101093,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101178,7 +101178,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101263,7 +101263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101348,7 +101348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101433,7 +101433,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101518,7 +101518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101603,7 +101603,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101688,7 +101688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101773,7 +101773,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101858,7 +101858,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101943,7 +101943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102028,7 +102028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102113,7 +102113,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102198,7 +102198,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102283,7 +102283,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102368,7 +102368,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102453,7 +102453,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102538,7 +102538,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102623,7 +102623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102708,7 +102708,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102793,7 +102793,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102878,7 +102878,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102963,7 +102963,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103048,7 +103048,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103133,7 +103133,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103218,7 +103218,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103303,7 +103303,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103388,7 +103388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103473,7 +103473,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103558,7 +103558,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103643,7 +103643,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103728,7 +103728,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103813,7 +103813,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103898,7 +103898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103983,7 +103983,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104068,7 +104068,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104153,7 +104153,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104238,7 +104238,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104323,7 +104323,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104408,7 +104408,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104493,7 +104493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104578,7 +104578,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104663,7 +104663,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104748,7 +104748,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104833,7 +104833,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104918,7 +104918,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105003,7 +105003,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105088,7 +105088,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105173,7 +105173,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105258,7 +105258,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105343,7 +105343,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105428,7 +105428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105513,7 +105513,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105598,7 +105598,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105683,7 +105683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105768,7 +105768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105853,7 +105853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105938,7 +105938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106023,7 +106023,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106108,7 +106108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106193,7 +106193,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106278,7 +106278,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106363,7 +106363,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106448,7 +106448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106533,7 +106533,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106618,7 +106618,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106703,7 +106703,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106788,7 +106788,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106873,7 +106873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106958,7 +106958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107043,7 +107043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107128,7 +107128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107213,7 +107213,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107298,7 +107298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107383,7 +107383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107468,7 +107468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107553,7 +107553,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107638,7 +107638,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107723,7 +107723,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107808,7 +107808,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107893,7 +107893,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107978,7 +107978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108063,7 +108063,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108148,7 +108148,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108233,7 +108233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108318,7 +108318,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108403,7 +108403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108488,7 +108488,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108573,7 +108573,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108658,7 +108658,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108743,7 +108743,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108828,7 +108828,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108913,7 +108913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108998,7 +108998,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109083,7 +109083,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109168,7 +109168,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109253,7 +109253,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109338,7 +109338,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109423,7 +109423,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109508,7 +109508,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109593,7 +109593,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109678,7 +109678,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109763,7 +109763,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109848,7 +109848,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109933,7 +109933,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110018,7 +110018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110103,7 +110103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110188,7 +110188,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110273,7 +110273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110358,7 +110358,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110443,7 +110443,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110528,7 +110528,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110613,7 +110613,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110698,7 +110698,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110783,7 +110783,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110868,7 +110868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110953,7 +110953,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111038,7 +111038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111123,7 +111123,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111208,7 +111208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111293,7 +111293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111378,7 +111378,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111463,7 +111463,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111548,7 +111548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111633,7 +111633,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111718,7 +111718,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111803,7 +111803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111888,7 +111888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111973,7 +111973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112058,7 +112058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112143,7 +112143,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112228,7 +112228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112313,7 +112313,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112398,7 +112398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112483,7 +112483,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112568,7 +112568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112653,7 +112653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112738,7 +112738,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112823,7 +112823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112908,7 +112908,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112993,7 +112993,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113078,7 +113078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113163,7 +113163,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113248,7 +113248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113333,7 +113333,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113418,7 +113418,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113503,7 +113503,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113588,7 +113588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113673,7 +113673,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113758,7 +113758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113846,7 +113846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113934,7 +113934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114022,7 +114022,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114110,7 +114110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114198,7 +114198,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114286,7 +114286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114374,7 +114374,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114462,7 +114462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114550,7 +114550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114638,7 +114638,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114726,7 +114726,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114814,7 +114814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114902,7 +114902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114990,7 +114990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115078,7 +115078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115166,7 +115166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115254,7 +115254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115342,7 +115342,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115430,7 +115430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115518,7 +115518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115606,7 +115606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115694,7 +115694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115782,7 +115782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115870,7 +115870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115958,7 +115958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116061,7 +116061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -116151,7 +116151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116239,7 +116239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116327,7 +116327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116415,7 +116415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116503,7 +116503,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116591,7 +116591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116679,7 +116679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116767,7 +116767,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116855,7 +116855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116943,7 +116943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117031,7 +117031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117119,7 +117119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117207,7 +117207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117295,7 +117295,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117383,7 +117383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117471,7 +117471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117559,7 +117559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117647,7 +117647,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117735,7 +117735,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117823,7 +117823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117911,7 +117911,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117999,7 +117999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118087,7 +118087,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118190,7 +118190,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -118280,7 +118280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118368,7 +118368,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118456,7 +118456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118544,7 +118544,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118632,7 +118632,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118720,7 +118720,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118808,7 +118808,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118896,7 +118896,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118984,7 +118984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119072,7 +119072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119160,7 +119160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119248,7 +119248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119336,7 +119336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119424,7 +119424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119512,7 +119512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119600,7 +119600,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119688,7 +119688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119776,7 +119776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119864,7 +119864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119952,7 +119952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120040,7 +120040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120128,7 +120128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120216,7 +120216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120304,7 +120304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120392,7 +120392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120480,7 +120480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120568,7 +120568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120656,7 +120656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120744,7 +120744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120832,7 +120832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120920,7 +120920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121008,7 +121008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121096,7 +121096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121184,7 +121184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121272,7 +121272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121360,7 +121360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121448,7 +121448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121536,7 +121536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121624,7 +121624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121712,7 +121712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121800,7 +121800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121888,7 +121888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121976,7 +121976,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122064,7 +122064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122152,7 +122152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122240,7 +122240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122328,7 +122328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122416,7 +122416,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122504,7 +122504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122592,7 +122592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122688,7 +122688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122782,7 +122782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122876,7 +122876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122970,7 +122970,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123064,7 +123064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123158,7 +123158,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123252,7 +123252,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123346,7 +123346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123440,7 +123440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123534,7 +123534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123628,7 +123628,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123722,7 +123722,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123816,7 +123816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123910,7 +123910,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124004,7 +124004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124098,7 +124098,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124192,7 +124192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124286,7 +124286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124380,7 +124380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124474,7 +124474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124568,7 +124568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124662,7 +124662,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124756,7 +124756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124850,7 +124850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124944,7 +124944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125038,7 +125038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125132,7 +125132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125226,7 +125226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125320,7 +125320,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125414,7 +125414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125508,7 +125508,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125602,7 +125602,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125696,7 +125696,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125790,7 +125790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125884,7 +125884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125978,7 +125978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126072,7 +126072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126166,7 +126166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126260,7 +126260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126354,7 +126354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126448,7 +126448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126542,7 +126542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126636,7 +126636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126730,7 +126730,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126824,7 +126824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126918,7 +126918,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127012,7 +127012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127106,7 +127106,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127200,7 +127200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127288,7 +127288,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127378,7 +127378,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127468,7 +127468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127560,7 +127560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127652,7 +127652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127744,7 +127744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127832,7 +127832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127920,7 +127920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128012,7 +128012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128104,7 +128104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128194,7 +128194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128286,7 +128286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128386,7 +128386,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128479,7 +128479,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128571,7 +128571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128663,7 +128663,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128761,7 +128761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128851,7 +128851,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128941,7 +128941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129029,7 +129029,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129119,7 +129119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129211,7 +129211,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129305,7 +129305,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129395,7 +129395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129489,7 +129489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129583,7 +129583,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129675,7 +129675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129765,7 +129765,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129855,7 +129855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129951,7 +129951,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130039,7 +130039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130133,7 +130133,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130221,7 +130221,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130315,7 +130315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130403,7 +130403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130493,7 +130493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130585,7 +130585,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130679,7 +130679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130767,7 +130767,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130857,7 +130857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130951,7 +130951,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131039,7 +131039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131131,7 +131131,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131223,7 +131223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131313,7 +131313,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131403,7 +131403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131491,7 +131491,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131581,7 +131581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131669,7 +131669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131763,7 +131763,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131853,7 +131853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131945,7 +131945,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132039,7 +132039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132129,7 +132129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132217,7 +132217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132309,7 +132309,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132401,7 +132401,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132491,7 +132491,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132579,7 +132579,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-13T20:54:09.659212+00:00",
+        "reviewedAt": "2026-09-14T05:03:13.585173+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"

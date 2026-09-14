@@ -1,8 +1,167 @@
 {
-  "capturedAt": "2026-09-13T20:54:15.074260+00:00",
+  "capturedAt": "2026-09-14T05:03:17.551779+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42732655",
+      "responseId": "resp_0ae60abce3ed7d50006aa78016ac3087d2a1241a4664deab37",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容清晰，支持数据与报告明确分开，无未验证的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别与证据水平均合理，符合文献支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确。"
+        },
+        "riskFlags": [
+          "research_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of inorganic biochemistry，PMID 为 42732655。",
+          "report": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consist...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42732714",
+      "responseId": "resp_0567bcef6b5bb230006aa7801ace7487d291c9422d08eda988",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献评审涉及临床影响，但缺乏有关研究质量和样本量的信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "二级证据水平在此情况下不合适，因为涉及临床细节。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平与主题相关性不符，缺乏具体的研究数据支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42732714。",
+          "report": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases.",
+          "inference": "该文献使用的分类规则仅供信息分流，不应推导出具体的临床结论。",
+          "unknown": "缺乏足够的研究质量和样本量信息，不能确定其临床适用性。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42732702",
+      "responseId": "resp_0d9d3da32b9d950b006aa7801f56cc87d2bcd25c510bb8894b",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号的json格式良好，内容合理，不存在需人工审核的问题。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据等级为中等，与所提供的元数据合理匹配。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42732702。",
+          "report": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic cryst...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42732519",
+      "responseId": "resp_0913cbc5e6042159006aa78023723887d2929f37990a95891f",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此条信号记录信息明确且分类合理，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与源内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，证据水平合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42732519。",
+          "report": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

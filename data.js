@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -1040,79 +1040,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42730907",
-      "date": "2026-09-12",
-      "title": "Endodermal Organoids Along Two Axes: Single-Organ Fidelity, Inter-Organ Reconstruction, and the Unbuilt Gut-Lung Frontier.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730907/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42730907。",
-      "report": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0bb06c5542c63e7c006aa62ca362ac87d1a3a762414392634c",
-        "reviewedAt": "2026-09-13T04:54:44.787240+00:00",
-        "inputHash": "27d922e3df153ac494dad88eed2669b0925a851d4384c205e138f50a63a2e0f0",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此PubMed文献的元数据符合发布标准，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合元数据内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 42730907。",
-          "report": "Three-dimensional organoids of the gut, liver, and lung have become mainstream models of human development, disease, and therapy. These organs share an embryonic endodermal origin, yet the field measures their progress inconsistently because the word \"maturity...\"",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42730986",
       "date": "2026-09-12",
       "title": "Quantifying HER-2 for Precision Oncology: The Role of Optical Biosensors.",
@@ -1483,6 +1410,71 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42732655",
+      "date": "2026-09-10",
+      "title": "Interaction between hemin and the SpyTag/SpyCatcher system: towards an artificial bioinspired metalloprotein.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732655/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of inorganic biochemistry，PMID 为 42732655。",
+      "report": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consist...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ae60abce3ed7d50006aa78016ac3087d2a1241a4664deab37",
+        "reviewedAt": "2026-09-14T05:03:17.551779+00:00",
+        "inputHash": "1f4c71f6aaec27f1c300464280c33a8c43123648b84b9470b89016d0ef216c34",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容清晰，支持数据与报告明确分开，无未验证的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别与证据水平均合理，符合文献支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离明确。"
+        },
+        "riskFlags": [
+          "research_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of inorganic biochemistry，PMID 为 42732655。",
+          "report": "The challenging design of artificial metalloenzymes can be achieved by bioconjugation based on the targeted insertion of synthetic metal coordination motif on a peptide that can subsequently be covalently attached to a protein scaffold. The Spy system, consist...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42723155",
       "date": "2026-09-10",
       "title": "A Site-Aware Representation Learning Framework For Unified Molecular Interaction Modeling and Generative Design.",
@@ -1637,82 +1629,76 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42720471",
-      "date": "2026-09-10",
-      "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
+      "id": "pubmed-42732714",
+      "date": "2026-09-09",
+      "title": "Ferroptosis in neonatal and paediatric disease: From molecular mechanism to therapeutic target.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42720471/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732714/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Multi-omics"
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "多组学"
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720471。",
-      "report": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrat...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42732714。",
+      "report": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases. This review systematically elaborates the co...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0202818567bed40e006aa2dae1662087d1a21bbc967b95cb51",
-        "reviewedAt": "2026-09-10T16:29:15.279726+00:00",
-        "inputHash": "f9f41dd8d3a86252915b2b96ae27050e11036e00f9b7e580014208bfb49cb6ed",
+        "responseId": "resp_0567bcef6b5bb230006aa7801ace7487d291c9422d08eda988",
+        "reviewedAt": "2026-09-14T05:03:17.551779+00:00",
+        "inputHash": "23974162289745efa95a58131f19e673a91de75edfc67326328e06d36b030fcf",
         "status": "needs_human",
         "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工审查，因其未能支持明确的结论或未提供足够的信息来验证研究质量。",
+        "reviewSummaryCn": "该文献评审涉及临床影响，但缺乏有关研究质量和样本量的信息。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与所提供的证据水平不匹配，需进一步确认。"
+          "notesCn": "二级证据水平在此情况下不合适，因为涉及临床细节。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被认为过低，可能影响出版质量。"
+          "notesCn": "证据水平与主题相关性不符，缺乏具体的研究数据支持。"
         },
         "riskFlags": [
-          "weak_classification",
+          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Low",
           "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Precision Oncology",
-            "Multi-omics"
+            "Organoids",
+            "Advanced Disease Models"
           ],
           "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "肿瘤",
-            "多组学"
+            "类器官",
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 42720471。",
-          "report": "ATP-binding cassette (ABC) transporters ABCB1/P-glycoprotein (P-gp) and ABCG2/breast cancer resistance protein (BCRP) drive multidrug resistance (MDR) by limiting intracellular chemotherapy accumulation, and are coexpressed in cancers with overlapping substrat...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42732714。",
+          "report": "Ferroptosis is an iron-dependent regulatory cell death mechanism mediated by lipid peroxidation. Increasing evidence suggests that this process is closely related to the etiology of a variety of paediatric diseases.",
+          "inference": "该文献使用的分类规则仅供信息分流，不应推导出具体的临床结论。",
+          "unknown": "缺乏足够的研究质量和样本量信息，不能确定其临床适用性。"
         }
       }
     },
@@ -2095,6 +2081,80 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42732702",
+      "date": "2026-09-08",
+      "title": "Photonic crystal barcode microfluidic chip for smart screening of lactogenic Chinese herbs using human mammary organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732702/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42732702。",
+      "report": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic cryst...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0d9d3da32b9d950b006aa7801f56cc87d2bcd25c510bb8894b",
+        "reviewedAt": "2026-09-14T05:03:17.551779+00:00",
+        "inputHash": "faa9bc8541cb013960b5ef55c8984da4310910839e8303e92103272237a7f22c",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号的json格式良好，内容合理，不存在需人工审核的问题。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据等级为中等，与所提供的元数据合理匹配。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biomaterials，PMID 为 42732702。",
+          "report": "Postpartum insufficient lactation is challenging to maternal and infant health, yet safe and effective lactation-promoting drugs remain lacking. Here, we present an integrated smart screening platform that combines human mammary organoids with a photonic cryst...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3296,79 +3356,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42731220",
-      "date": "2026-08-15",
-      "title": "In-depth examination of the zinc-mitigation of the molecular effects of heat stress-induced intestinal damage in broilers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731220/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731220。",
-      "report": "Three experiments were conducted to elucidate the protective mechanisms of zinc (Zn) as ZnSO4.7H2O (ZnSO4) or Zn proteinate with moderate chelation strength (Zn-Prot M) against heat stress (HS)-induced damage to broiler intestine or jejunal organoids. In exper...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0426bd1435236a2c006aa62ccc820487d19aaad2eb1d3dfbb0",
-        "reviewedAt": "2026-09-13T04:54:44.787240+00:00",
-        "inputHash": "85ac849e4a0a8098e968ecf160258adaa5b21bc5590b2683fec822cc99502fed",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息清晰明确，无误导性结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与文献主题相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "数据来源可靠，研究质量未作明确判断。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731220。",
-          "report": "Three experiments were conducted to elucidate the protective mechanisms of zinc (Zn) as ZnSO4.7H2O (ZnSO4) or Zn proteinate with moderate chelation strength (Zn-Prot M) against heat stress (HS)-induced damage to broiler intestine or jejunal organoids. In exper...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -7623,76 +7610,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42731203",
-      "date": "2026-06-24",
-      "title": "Chicken-derived R-spondin1, Wnt3a, Nrg1 and human FGF1 allow branched growth of chicken intestinal organoid cultures.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731203/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731203。",
-      "report": "Intestinal organoids are widely used in mammalian studies to mimic and study intestinal function and host-pathogen interactions without using of whole animal studies. For chicken, this was not yet feasible. Recently, we have shown that embryonal intestinal org...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09f059bd0b1601df006aa62ccf6e2487d1b0acd4ae6201a429",
-        "reviewedAt": "2026-09-13T04:54:44.787240+00:00",
-        "inputHash": "16d8d978a7d7a4ffbcb3faa93a6ae5c89f2597a41ef6729001d58de8098d5cf0",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献需人工复核以确保信息准确性及风险等级。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持不足，未依据足够的证据水平，需根据其他数据判断。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但未充分支撑分类和结论，需进一步评估数据质量。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Poultry science，PMID 为 42731203。",
-          "report": "Intestinal organoids are widely used in mammalian studies to mimic and study intestinal function and host-pathogen interactions without using of whole animal studies. For chicken, this was not yet feasible. Recently, we have shown that embryonal intestinal org...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT06699056",
       "date": "2026-06-01",
       "title": "AI-Enabled Direct-from-ECG Ejection Fraction (EF) Severity Assessment Using COR ECG Wearable Monitor",
@@ -8171,6 +8088,75 @@ window.BHR_DATA = {
           "report": "There is a high medical need to improve treatment outcome for high-grade and low-grade glioma since no curative treatment is available. To achieve this goal, a broader understanding is needed of the causes of inter-and intratumoral heterogeneity; glioma dediff...",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42732519",
+      "date": "2026-01-01",
+      "title": "Cryopreservation of Reproductive Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42732519/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42732519。",
+      "report": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0913cbc5e6042159006aa78023723887d2929f37990a95891f",
+        "reviewedAt": "2026-09-14T05:03:17.551779+00:00",
+        "inputHash": "6a7654f02482397658ee4b75b1bd3bcf86ad96db7d30bee5a4b5a350f42e167a",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此条信号记录信息明确且分类合理，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与源内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，证据水平合适。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42732519。",
+          "report": "Three-dimensional organoid cell cultures are an in vitro model that is more similar to the in vivo environment than other cell culture methods. Because of this, organoids are a powerful alternative to live animal research studies. Cryopreservation of organoids...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
