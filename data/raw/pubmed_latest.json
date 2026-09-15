@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-15T11:50:54.873715+00:00",
+  "capturedAt": "2026-09-15T17:04:41.257626+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,70 @@
     "end": "2026-09-15"
   },
   "pmids": [
+    "42741478",
+    "42741151",
     "42740851",
     "42740795",
     "42738914",
     "42738913",
-    "42738885",
-    "42738882",
+    "42741841",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
     "42693007",
-    "42667121",
     "42736684",
     "42735594",
     "42734526",
     "42734505",
     "42732655",
     "42728566",
+    "42742054",
+    "42741774",
+    "42741648",
     "42739239",
     "42739150",
-    "42739118",
-    "42738915",
-    "42738856",
-    "42738365"
+    "42739118"
   ],
   "records": [
+    {
+      "pmid": "42741478",
+      "title": "Hmmr+ Fibroblasts Facilitate Hair Regeneration by Biomechanical Sensing of Extracellular Matrix Viscoelasticity.",
+      "abstract": "How fibroblast heterogeneity orchestrates tissue regeneration by remodeling tissue mechanical properties that guide stem cell function is not well understood. Although fibroblasts are increasingly recognized as key regulators of tissue homeostasis, the specific subpopulations and molecular pathways through which they remodel the mechanical niche during hair follicle regeneration are not fully defined. Here, we identify that Hmmr+ fibroblasts located beneath the dermal papilla (DP) of the hair follicle promote hair follicle regeneration by secreting extracellular matrix (ECM) components to activate hair follicle stem cells. Single-cell RNA-sequencing and immunostaining mapped spatially distinct fibroblast subpopulations in the dermal microenvironment and showed that regional ECM viscoelastic remodeling occurs prior to hair regeneration and coincides precisely with the emergence of Hmmr+ fibroblasts. Functional studies in vivo and in skin organoids demonstrate that Hmmr+ fibroblasts act as mechanical sensors that engage DP cells via NCAM1-FGFR1 signaling to stimulate hair regeneration. We propose a tripartite biomechanical module comprising ECM viscoelastic remodeling (effector), Hmmr+ fibroblasts (sensor), and DP cells (executor) that cooperatively drives hair regeneration. Together, our work identifies a heterogeneous fibroblast-defined mechanical niche as a central regulator of tissue renewal, highlighting the role of fibroblast diversity in coordinating regeneration and advancing our understanding of the mechano-molecular basis of tissue repair.",
+      "journal": "Research (Washington, D.C.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Biorheological Science and Technology of the Ministry of Education & 111 Project Laboratory of Biomechanics and Tissue Repair, College of Bioengineering, Chongqing University, Chongqing 400044, China.",
+        "Department of Dermatology, Huashan Hospital, Shanghai Institute of Dermatology, State Key Laboratory of Molecular Engineering of Polymers, Fudan University, Shanghai 200040, China.",
+        "University-Town Hospital of Chongqing Medical University, Chongqing 401331, China.",
+        "School of Basic Medicine, Gannan Medical University, Ganzhou 341000, China.",
+        "Jiangxi Provincial Key Laboratory of Tissue Engineering, Gannan Medical University, Ganzhou 341000, China."
+      ],
+      "doi": "10.34133/research.1430",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741478/"
+    },
+    {
+      "pmid": "42741151",
+      "title": "Prophage landscapes in clinical MRSA: safety profiling and discovery of Lys81, a broad-spectrum bacteriolytic enzyme.",
+      "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) poses a significant threat to global healthcare, requiring novel therapeutic strategies. Prophages, latent phage genomes integrated into bacterial chromosomes, are important resources for antimicrobial development due to their genomic stability and genetic engineering potential. In this study, we performed genomewide sequencing on 329 MRSA isolates to predict prophage sequences, followed by analyses of these prophages-including examinations of virulence genes, antibiotic resistance genes, homologous proteins of pathogenic MRSA phages, and functional predictions of these homologous proteins-to evaluate their safety and value as genetic engineering scaffolds and to screen for novel broadspectrum bacteriolytic enzymes. Our data indicate that 85.7% (282/329) of strains carried complete prophage sequences; 64 strains lacked virulence factors or genes, meeting the core criteria for safe vectors. Resistance screening found only 6 prophages carried msrA, confirming the biosafety of the remaining strains. A significant correlation existed between prophage virulence gene capacity and genomic structure (R2 = 0.99986684, p = 3.64e-69). High-virulence clusters (>10 factors) showed high structural similarity; 10 characteristic sequences linked to S. aureus phages and their prevalence patterns were identified via conserved motif analysis. Collinearity analysis with reference to virulent MRSA phages and 3D structural predictions of orthologous proteins identified two lysozymes and a host-recognition device. Notably, Lys81, an N-acetylmuramoyl-L-alanine amidase ortholog, was prioritized and characterized as a broad-spectrum lytic enzyme. Our data show Lys81 has key properties: (1) Broad-spectrum antibacterial activity, lysing 52.3% (23/44) of clinical S. aureus strains and cross-acting against Gram-positive bacteria such as Pseudomonas aeruginosa and Listeria; (2) Excellent environmental adaptability, maintaining activity at pH 5.0 and 0°C, with 25 mM Na+ and Ca2 + enhancing function; (3) Potent biofilm clearance, achieving 83% MRSA biofilm reduction at 50 μg/mL; and (4) Favorable in vivo safety/efficacy, eradicating MRSA infections in lung organoid models with minimal cytotoxicity. This study establishes a theoretical foundation for the clinical translation of MRSA prophages, positioning Lys81 as a novel candidate for treating drug-resistant bacterial infections.",
+      "journal": "Frontiers in microbiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Ningbo No. 2 Hospital, Wenzhou Medical University, Ningbo, Zhejiang, China.",
+        "College of Veterinary Medicine, Institute of Traditional Chinese Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.",
+        "MOE Joint International Research Laboratory of Animal Health and Food Safety, College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.",
+        "Department of Thoracic Surgery, Ningbo No. 2 Hospital, Ningbo, Zhejiang, China.",
+        "Shandong New-Line Biotech Co., Ltd., Weifang, Shandong, China."
+      ],
+      "doi": "10.3389/fmicb.2026.1777609",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741151/"
+    },
     {
       "pmid": "42740851",
       "title": "Blocking two host receptors is better than one: Insights from RSV infection in human respiratory organoids.",
@@ -124,37 +162,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738913/"
     },
     {
-      "pmid": "42738885",
-      "title": "Decoding Sebaceous Gland Biology Through Experimental Models: Progress, Limitations, and Future Directions.",
-      "abstract": "The sebaceous gland (SG) is a highly dynamic skin appendage that plays a central role in maintaining skin homeostasis through lipid production, immune modulation, and interactions with the skin microbiome. Dysregulation of SG function is implicated in several dermatological disorders, including acne and other inflammatory skin diseases. Over the past decades, a wide range of experimental models has been developed to investigate SG biology and pathology. These include in vivo animal models, ex vivo human skin explants, primary sebocyte cultures, and immortalized sebocyte cell lines, each offering distinct advantages and limitations. More recently, significant progress has been made in the development of advanced three-dimensional (3D) models of sebaceous gland biology, including sebocyte spheroids, SG organoids, human skin equivalents containing sebaceous components, and organotypic co-culture models, which better recapitulate the structural and functional complexity of SGs. In particular, the emergence of SG organoids derived from adult or pluripotent stem cells represents a breakthrough, enabling the study of sebocyte differentiation, lipid metabolism, and cell-cell interactions in a physiologically relevant context. Despite these advances, current models still face important challenges, including incomplete cellular maturation, limited representation of the immune and vascular components, and insufficient modeling of the native skin microenvironment. Future developments integrating bioengineering approaches, microfluidic platforms, and multi-cellular systems are expected to further enhance model complexity and translational relevance. This review summarizes current knowledge on experimental models developed to study SG and sebocyte physiology and pathology.",
-      "journal": "Cells",
+      "pmid": "42741841",
+      "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
+      "abstract": "Inferring transcription factor (TF) activity from transcriptomes and predicting transcriptome-wide responses to TF perturbations remain challenging, in part because available TF-mRNA resources often face a trade-off between precision and coverage and typically lack signed regulatory information. Here, we present TFActProfiler, a TF-mRNA resource and computational framework that learns signed, quantitative TF-mRNA regulatory coefficients by integrating heterogeneous prior evidence (ChIP-based, motif-based, and curated TF-mRNA annotations) with large-scale bulk and single-cell RNA-seq atlases. TFActProfiler contains 2 606 176 signed TF-mRNA interactions and improves TF activity inference in TF knockdown benchmarks relative to widely used regulon resources while retaining broad TF and target coverage. In addition, because the same learned regulatory coefficients can be used to model downstream transcriptional effects, TFActProfiler enables prediction of transcriptome-wide gene expression responses to TF knockdown without training on task-matched perturbation data. When perturbation datasets are available, TFActProfiler can be further refined to achieve performance comparable to state-of-the-art machine-learning baselines. By providing a direction-aware representation of TF-mRNA regulation for both activity inference and perturbation-response modeling, TFActProfiler supports systematic dissection of gene regulatory programs across diverse cellular contexts.",
+      "journal": "Nucleic acids research",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Laboratory of Cutaneous Physiopathology and Integrated Center of Metabolomics Research, San Gallicano Dermatological Institute, IRCCS, 00144 Rome, Italy."
+        "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Predictive Medicine Special Project (PMSP), RIKEN Center for Integrative Medical Sciences (IMS), RIKEN, Yokohama, Kanagawa 230-0045, Japan.",
+        "Division of Applied Mathematical Science, RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS), RIKEN, Wako, Saitama 351-0198, Japan.",
+        "Data Science Core, Chiba University, 1-8-1 Inohana, Chuo, Chiba, Chiba 260-8670, Japan.",
+        "Laboratory for Bioinformatics Research, RIKEN Center for Biosystems Dynamics Research, Wako, Saitama 351-0198, Japan.",
+        "Institute of Resource Development and Analysis, Kumamoto University, Gene Technology Center 6F, 2-2-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto 860-0811, Japan.",
+        "Institute for Advanced Academic Research (IAAR), Chiba University, 1-33 Yayoicho, Inage, Chiba, Chiba 263-8522, Japan.",
+        "Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems, University of Tokyo, Kashiwanoha-campus Station Satellite 6F., 178-4-4 Wakashiba, Kashiwa-shi, Chiba 277-0871, Japan."
       ],
-      "doi": "10.3390/cells15171591",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738885/"
-    },
-    {
-      "pmid": "42738882",
-      "title": "Molecular Pathways, Target Landscape, and Translational Models in Heart Failure with Preserved Ejection Fraction.",
-      "abstract": "Heart failure with preserved ejection fraction (HFpEF) is a substantial global health burden and the greatest unmet medical need for cardiovascular diseases. It is marked by pronounced clinical heterogeneity and complex multi-system pathophysiology with limited therapeutic options. Progress in developing effective therapeutics is constrained by the inadequacy of experimental models to fully recapitulate the multifactorial nature of the disease. Recent evidence underscores the significant involvement of inflammatory, oxidative, and mitochondrial pathways in the pathogenesis of HFpEF, with non-coding RNAs and epigenetic regulation serving as crucial modulators and prospective therapeutic targets. This review maps the HFpEF target landscape, while critically assessing the mechanistic contributions, translational fidelity, and limitations of existing in vivo and in vitro models. Further, advances are noted among the in vitro technologies, including human cardiac organoids and engineered heart tissues integrated with high-throughput multi-omics and computational modeling, enabling in-depth examination of HFpEF mechanisms. Finally, we underscore the necessity of integrative, systems-level approaches and multi-marker strategies to enhance translational relevance, improve risk stratification, and accelerate development of mechanism-based therapies. Collectively, this review supports phenotypic-guided and mechanism-informed therapeutic development for HFpEF, and provides a roadmap for next generation model development and therapeutic innovation.",
-      "journal": "Cells",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Data AI and Genome Sciences (DAGS), Merck & Co., Inc., Cambridge, MA 02141, USA.",
-        "Cardiometabolic Disease (CMD), Merck & Co., Inc., South San Francisco, CA 94080, USA."
-      ],
-      "doi": "10.3390/cells15171588",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738882/"
+      "doi": "10.1093/nar/gkag897",
+      "date": "2026-09-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741841/"
     },
     {
       "pmid": "42717098",
@@ -281,26 +308,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693007/"
     },
     {
-      "pmid": "42667121",
-      "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
-      "abstract": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturbation responses across biological contexts and the limited generalizability of current models make prediction across cell types, patients, species, and other contexts particularly challenging. To address this challenge, we present single-cell perturbation inference via latent optimal transport (scPILOT), a query-conditioned framework for transferring responses to previously observed perturbations across biological contexts. scPILOT learns a generative latent representation through discriminator-assisted training and separates perturbation inference into cell-level response estimation from observed contexts and query-specific response transfer using latent optimal transport. Across held-out cell-type, patient, and species benchmarks, scPILOT achieved context-averaged R2 mean/MMD2 values of 0.945/0.137, 0.598/0.025, and 0.853/0.287, respectively. It also maintained strong population-average accuracy in a held-out cell-line benchmark, while complementary analyses indicated that performance was associated with dataset learnability and query-context match. With the continued expansion of single-cell perturbation datasets, scPILOT may provide a practical framework for transferring responses to previously observed perturbations across increasingly diverse biological contexts.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Computer Science and Technology, Harbin Institute of Technology, Harbin, China.",
-        "HIT-HULU Joint Institute of Industrial Technology in Precision Medicine, Harbin, China.",
-        "Genvista Technology Co., Ltd., Harbin, China.",
-        "College of Systems Engineering, National University of Defense Technology, Changsha, China.",
-        "School of Public Health and Emergency Management, Southern University of Science and Technology, Shenzhen, China.",
-        "WHO Collaborating Centre for Infectious Disease Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, SAR, China."
-      ],
-      "doi": "10.1002/advs.77461",
-      "date": "2026-08-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
-    },
-    {
       "pmid": "42736684",
       "title": "Harnessing the Power of Large Language Models for Drug Discovery: A Systematic Review of Current Applications and Future Directions.",
       "abstract": "The demand for inventive approaches to drug discovery has increased due to the rising costs, time, and failure rates in pharmaceutical research. Large Language Models (LLMs), with their sophisticated natural language processing and generative capabilities, have become potent instruments that have the potential to revolutionize biomedical research. The function of LLMs in different phases of drug development is methodically examined in this article. The PRISMA 2020 principles were adhered to in this systematic study. A thorough search for research published between 2018 and 2025 was done using PubMed, Scopus, Web of Science, and Google Scholar. The search terms \"large language model,\" \"transformer,\" \"drug discovery,\" and important sub-domains (such as \"de-novo design\" and \"ADMET\") were merged, and two reviewers independently screened the results. Predetermined inclusion and exclusion criteria were used to filter studies for relevance. 98 studies out of the 1,285 records that were initially retrieved met the requirements for the final qualitative synthesis. 98 studies that demonstrated the use of LLMs in various drug discovery domains were found during the review. These covered molecular generation, genomics, protein-ligand modeling, ADME/T and toxicity profiling, drug-target interaction and DTI prediction, and biomedical text mining. 42 different LLM-based tools were mapped, including BioBERT, SciSpacy, Drug- LLM, DNA-BERT, GPT-4, and ChatGPT. Predictive accuracy, hypothesis creation, target prioritization, and multi-modal data integration all showed notable gains with these techniques. By providing scalable, precise, and effective solutions for data-driven drug discovery, LLMs are revolutionizing the pharmaceutical industry. They allow for the creation of hypotheses and individualized insights across multi-modal biological data, and they perform better than conventional approaches in a number of subdomains. Improvements in performance were task-dependent; the most consistent gains occurred for biomedical text mining, disease-genedrug relationship mapping and drug-target interaction prediction tasks. Yet most evidence for clinical applications is still derived from retrospective studies and benchmark datasets, suggesting a higher need for prospective validation. There is revolutionary potential in incorporating LLMs into drug discovery processes. Clinical translation and regulatory uptake will depend heavily on collaborative validation, ethical deployment, and standardization as models become more multimodal and interpretable. Before normal use, extensive prospective benchmarking and head-to-head comparisons with established chemoinformatics pipelines are necessary.",
@@ -413,6 +420,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42728566/"
     },
     {
+      "pmid": "42742054",
+      "title": "Multidimensional Regulatory Network of Cellular Senescence: From Mechanisms to Theranostics.",
+      "abstract": "Cellular senescence is orchestrated by a complex and multidimensional regulatory network, whose functional outputs shift dynamically with disease stage and tissue context. This review systematically maps the molecular architecture of this network. The network encompasses the p53/p21 and p16/RB axes, mitochondrial stress pathways, and the cGAS-STING and mTOR-driven SASP programs. In parallel, the review traces how these mechanisms are rewired across a spectrum of pathological contexts, including cancer, metabolic and skeletal disorders, and organ-specific degenerative diseases. Building on this mechanistic foundation, we highlight theranostic innovations that integrate detection with intervention. These include enzyme-activatable prodrugs and probes that exploit senescence-associated markers such as SA-β-gal, enabling simultaneous imaging and cell clearance. Other examples are smart nanocarriers, which achieve spatiotemporally controlled drug delivery, and engineered immune cells, which restore immunosurveillance against senescent cells. Additionally, we discuss emerging platforms for dynamic quantification of senescent burden in vivo, including molecular imaging probes and liquid biopsy signatures. Despite promising preclinical progress, clinical translation remains limited by senescent-cell heterogeneity, off-target toxicity, and the lack of standardized biomarkers. By integrating mechanistic insights with theranostic design principles, this review provides a framework for developing precision strategies to detect, modulate, or eliminate senescent cells in a context-appropriate manner.",
+      "journal": "ACS biomaterials science & engineering",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Engineering, College of Chemistry and Chemical Engineering, Central South University, Changsha, Hunan410083, P. R. China.",
+        "Department of Pharmaceutics, Xiangya School of Pharmaceutical Sciences, Central South University, Changsha, Hunan410013, P. R. China.",
+        "Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts02115, USA.",
+        "Department of Bioengineering, University of California, Berkeley, Berkeley, California94720, USA.",
+        "Department of Electrical Engineering and Computer Science, University of California, Berkeley, Berkeley, California94720, USA.",
+        "Molecular Imaging Research Center, Central South University, Changsha, Hunan410008, P. R. China."
+      ],
+      "doi": "10.1021/acsbiomaterials.6c00849",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42742054/"
+    },
+    {
+      "pmid": "42741774",
+      "title": "DNA damage repair gene defects combined predict the efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: a retrospective cohort study.",
+      "abstract": "Immune checkpoint inhibitors (ICIs) yield heterogeneous benefit in metastatic castration-resistant prostate cancer (mCRPC), underscoring the unmet need for robust predictive biomarkers. DNA damage repair (DDR) gene defects encompass mechanistically distinct subtypes-homologous recombination repair (HRR) deficiency, mismatch repair deficiency/microsatellite instability-high (MMRd/MSI-H), and CDK12 inactivation-that may differentially modulate anti-tumor immunity. This study evaluated the combined predictive value of DDR mutation profiles, tumor mutational burden (TMB), and PD-L1 expression for ICI efficacy in mCRPC. In this single-center retrospective cohort study conducted at PKUCare CNOOC Hospital (Tianjin, China), 152 patients with mCRPC who received ICI-containing therapy following ≥2 prior lines of systemic treatment were enrolled (January 2018-December 2023). Of these, 127 (83.6%) underwent tissue-based profiling with a validated 520-gene targeted NGS panel, and 25 (16.4%) were profiled by a validated 168-gene liquid biopsy panel. Patients were classified into four DDR subgroups: HRR-deficient, MMRd/MSI-H, CDK12-mutant, and DDR wild-type. Primary endpoints were objective response rate (ORR) and progression-free survival (PFS). Secondary endpoints included overall survival (OS), disease control rate (DCR), and prostate-specific antigen (PSA) response. Kaplan-Meier analysis, multivariate Cox regression, and ROC analysis were performed. Among 152 patients, 101 (66.4%) harbored DDR alterations: 58 HRR-deficient (38.2%), 24 MMRd/MSI-H (15.8%), and 19 CDK12-mutant (12.5%). ORR was highest in MMRd/MSI-H (50.0%), followed by CDK12-mutant (26.3%), HRR-deficient (22.4%), and DDR wild-type (9.8%; p < 0.001). Median PFS was significantly longer across all DDR-mutant groups versus DDR wild-type (MMRd/MSI-H: 8.1 months; HR 0.31, 95% CI 0.18-0.53; p < 0.001). On multivariate analysis, DDR mutation subtype, TMB ≥10 mut/Mb, and liver metastasis were independent predictors of PFS. A composite biomarker integrating DDR status, TMB, and PD-L1 achieved the highest predictive accuracy (AUC 0.83, 95% CI 0.75-0.91). irAE rates did not differ significantly across subgroups (p = 0.614). DDR gene mutation profiling, integrated with TMB and PD-L1 expression, provides clinically actionable stratification of mCRPC patients for ICI therapy. A composite DDR/TMB/PD-L1 biomarker panel warrants prospective validation in dedicated clinical trials.",
+      "journal": "Frontiers in genetics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Urology, PKUCare CNOOC Hospital, Tianjin, China.",
+        "Department of Urology, Ezhou Central Hospital, Ezhou City, Hubei, China.",
+        "Department of Urology, Huai'an People's Hospital of Hongze District, Huai'an City, Jiangsu, China."
+      ],
+      "doi": "10.3389/fgene.2026.1933643",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741774/"
+    },
+    {
+      "pmid": "42741648",
+      "title": "Liquid Biopsy and Nonendoscopic Biomarkers for Precision Early Detection of Esophageal Cancer: Evidence, Risk Stratification and Translational Challenges.",
+      "abstract": "Esophageal cancer remains one of the most lethal malignancies worldwide, largely because most tumors are detected after symptoms develop. Esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EAC) differ in epidemiology, precursor lesions and molecular biology, and therefore require subtype-specific early-detection pathways. This narrative critical review used a structured PubMed/MEDLINE search and classifies evidence by intended use: population risk triage for ESCC in high-incidence regions; targeted case finding for previously undiagnosed Barrett esophagus; surveillance and progression prediction in established Barrett esophagus; diagnostic evaluation of symptomatic or referred patients; and multicancer early-detection studies as indirect contextual evidence. We evaluate nonendoscopic cell-collection devices, cfDNA methylation and fragmentomics, mutation-based circulating tumor DNA assays, circulating RNA and extracellular vesicles, autoantibodies, metabolomic and microbiome signals, and clinical risk models. Although many clinically diagnosed or case-control series report high AUROC values, such estimates often overstate performance in asymptomatic populations, where low prevalence sharply limits positive predictive value. The most credible near-term role is calibrated, risk-stratified triage that concentrates endoscopy on individuals most likely to harbor early cancer or high-grade precursors. Increased detection yield, favorable modeling and implementation feasibility are not equivalent to clinical utility; utility requires evidence that biomarker-guided care improves meaningful outcomes at acceptable cost and harm. Integrated multiomic testing remains a proposed future strategy rather than a prospectively validated esophageal-cancer screening platform.",
+      "journal": "Journal of Cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The Second Clinical Medical College of Henan University of Chinese Medicine, Zhengzhou, Henan, China.",
+        "Henan Cancer Hospital, Zhengzhou, Henan, China."
+      ],
+      "doi": "10.7150/jca.140909",
+      "date": "2026-09-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741648/"
+    },
+    {
       "pmid": "42739239",
       "title": "Urinary Biomarkers in Urological Oncology: From Biological Origin to Clinical Decision-Making-A Narrative Review.",
       "abstract": "Urinary biomarkers are promising tools in urological oncology because urine can be collected non-invasively and repeatedly during diagnosis, treatment, and surveillance. Despite extensive biomarker discovery, their adoption in routine practice remains limited. Biomarker performance depends not only on analytical accuracy but also on the clinical decision, anatomical route into urine, biological source of the signal, specimen fraction, and timing and conditions of sampling. This review evaluates urinary biomarkers across bladder cancer, upper-tract urothelial carcinoma, prostate cancer, and renal cell carcinoma using a biologically grounded, decision-oriented framework. It considers tumor-derived nucleic acids, epigenetic alterations, proteins, immune and inflammatory mediators, extracellular vesicles, metabolites, microbiome-associated signals, and multiparametric models. Bladder cancer represents the most anatomically direct and clinically mature setting, with potential applications in hematuria evaluation, cystoscopy triage, recurrence surveillance, molecular residual disease assessment, and monitoring of response to bacillus Calmette-Guérin therapy. In upper-tract urothelial carcinoma, distinguishing voided from selectively collected urine is essential because dilution, transit, obstruction, and limited localization affect interpretation. Prostate urine assays are best positioned for biopsy triage and refinement of active surveillance rather than general population screening. Renal cell carcinoma biomarkers remain exploratory because the sources and mechanisms of urinary signal release are insufficiently resolved. Clinical translation should be assessed using decision-specific outcomes, including incremental value, calibration, net clinical benefit, procedures avoided, significant cancers missed, reproducibility, and feasibility, rather than diagnostic accuracy or area under the receiver operating characteristic curve alone.",
@@ -471,63 +532,78 @@
       "doi": "10.3390/diagnostics16172686",
       "date": "2026-08-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739118/"
-    },
-    {
-      "pmid": "42738915",
-      "title": "Urine-Derived Cells in Kidney Transplantation: Linking Cellular Phenotypes, Secretome Signatures and Multi-Omic Technologies.",
-      "abstract": "Kidney transplant monitoring and early identification of graft dysfunction are central needs for long-term graft survival. Although kidney biopsy represents the gold standard in diagnostic procedures, its invasiveness may limit frequent longitudinal evaluation, highlighting the necessity of non-invasive diagnostic tools. Urine has emerged over the years as an easily obtainable source of cellular and molecular components derived from transplanted kidneys. Particularly, exfoliated cells and extracellular vesicles (EVs) represent complementary and interconnected markers able to reflect tissue injury, inflammatory signals, immune cell infiltration, and regenerative processes occurring in the graft. Also, recent advances in transcriptomics, proteomics, metabolomics, and single-cell technologies have expanded the diagnostic and mechanistic value of urinary liquid biopsy, enabling the identification of disease-specific molecular signatures associated with rejection, delayed graft function, fibrosis, and graft loss. This review discusses the emerging concept of an integrated urinary cell-EV ecosystem and highlights how integrated multi-omic approaches may transform non-invasive graft surveillance and advance precision medicine in kidney transplantation.",
-      "journal": "Cells",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Nephrology, Dialysis and Kidney Transplant Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Via Giuseppe Massarenti 9, 40138 Bologna, Italy.",
-        "Department of Medical and Surgical Sciences (DIMEC), Alma Mater Studiorum-University of Bologna, 40126 Bologna, Italy."
-      ],
-      "doi": "10.3390/cells15171622",
-      "date": "2026-09-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738915/"
-    },
-    {
-      "pmid": "42738856",
-      "title": "Cell-Free DNA Release Kinetics and Fragmentation Reflect Treatment Response and Resistance In Vitro.",
-      "abstract": "Circulating tumor DNA (ctDNA) has emerged as a clinically valuable biomarker for cancer detection, treatment monitoring, and minimal residual disease assessment. Despite its growing clinical utility, the biological mechanisms governing ctDNA release remain incompletely understood. The objective of this study was to investigate how chemotherapy-induced cytotoxicity and chemoresistance influence the kinetics and fragmentation patterns of cfDNA released by cancer cells in vitro. Human lung adenocarcinoma (A549) and esophageal adenocarcinoma (FLO-1, OE19) cell lines were used to investigate cell-free DNA (cfDNA) release and fragmentation in vitro. Cancer cells were treated with chemotherapy (cisplatin and 5-fluorouracil), and cfDNA released into the culture medium was quantified as total cfDNA by Qubit fluorometry and mutation-specific cfDNA by droplet digital PCR (ddPCR). A cisplatin-resistant OE19 model was generated to directly compare cfDNA release kinetics between chemosensitive and chemoresistant cells. Fragment size distributions were determined and evaluated alongside cell death mechanisms assessed by flow cytometry. cfDNA release correlated positively with viable tumor cell number across all cell lines. Chemotherapy increased per-cell cfDNA release in all cell lines. Chemosensitive OE19 cells exhibited significantly higher cfDNA release compared to chemoresistant OE19 cells following cisplatin exposure, with distinct temporal release kinetics. Additionally, chemotherapy treatment induced a shift toward the release of larger DNA fragments in both chemosensitive and resistant cells. This was accompanied by changes in PI-positive and Annexin V/PI double-positive cell populations, suggesting altered cell death processes following cisplatin treatment. Chemotherapy-induced cytotoxicity significantly influences cfDNA release kinetics and fragmentation patterns, with distinct effects in chemosensitive and chemoresistant cancer cells. These findings provide mechanistic insight into tumor-derived DNA release biology and may have important implications for the interpretation, timing, and standardization of liquid biopsy testing during treatment. Furthermore, they establish in vitro cancer models as a valuable platform for studying cfDNA dynamics and informing preclinical therapeutic development.",
-      "journal": "Cells",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Research Program, Research Institute of the McGill University Health Centre, Montreal, QC H4A 3J1, Canada.",
-        "Department of Pathology, McGill University, Montreal, QC H3A 2B4, Canada.",
-        "Division of Thoracic Surgery, McGill University Health Centre, Montreal, QC H4A 3J1, Canada.",
-        "Gerald Bronfman Department of Oncology, McGill University, Montreal, QC H4A 3T2, Canada.",
-        "Goodman Cancer Institute, McGill University, Montreal, QC H3A 1A3, Canada."
-      ],
-      "doi": "10.3390/cells15171561",
-      "date": "2026-08-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738856/"
-    },
-    {
-      "pmid": "42738365",
-      "title": "Pleural Liquid Biopsy for Oncological Practice: A Narrative Review.",
-      "abstract": "Background: Pleural effusion is a common clinical presentation in both benign and malignant conditions. The advent of liquid biopsy allowed new possibilities for non-invasive molecular profiling using body fluids. Pleural fluid, by virtue of its proximity to thoracic malignancies and its rich tumour-derived content, represents a particularly compelling matrix for liquid biopsy analysis. This review synthesises current evidence regarding the diagnostic, predictive, and prognostic utility of pleural liquid biopsy in clinical medicine. Methods: A narrative review was conducted using PubMed, MEDLINE, and EMBASE databases. Search terms included combinations of \"pleural effusion\", \"liquid biopsy\", \"circulating tumour DNA\", \"circulating tumour cells\", \"exosomes\", \"next-generation sequencing\", and \"biomarkers\". Priority was given to original research articles, systematic reviews, and meta-analyses published between 2013 and 2026. Results: Pleural fluid contains a diverse repertoire of tumour-derived analytes, including cell-free and circulating tumour DNA (ctDNA), circulating tumour cells (CTCs), exosomes, and soluble proteins. These biomarkers enable molecular characterisation of underlying malignancies with sensitivity that often exceeds that of plasma-based liquid biopsy and complements histological tissue biopsy. Detection of actionable mutations, including EGFR, ALK, KRAS, and BRAF alterations, directly informs targeted therapy selection. Furthermore, serial sampling facilitates real-time monitoring of therapeutic resistance, disease progression, and clonal evolution. Conclusions: Pleural liquid biopsy offers a minimally invasive, reproducible, and clinically informative approach to molecular profiling in patients with pleural disease, particularly those with thoracic malignancies. Despite existing challenges in standardisation and analytical sensitivity, its integration into routine clinical pathways holds significant promise for advancing personalised oncological care. Multi-omics integration and artificial intelligence may further consolidate its role in therapeutic decision-making.",
-      "journal": "Cancers",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Thoracic Oncology-Lung Unit, P. Pederzoli Hospital, 37019 Peschiera Del Garda, Italy.",
-        "Medical Oncology, Azienda Ospedaliero-Universitaria di Cagliari, University of Cagliari, 09042 Cagliari, Italy.",
-        "Faculty of Medical and Paramedical Sciences, Aix-Marseille University, 13005 Marseille, France."
-      ],
-      "doi": "10.3390/cancers18172844",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738365/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42742054",
+      "date": "2026-09-15",
+      "title": "Multidimensional Regulatory Network of Cellular Senescence: From Mechanisms to Theranostics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42742054/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42742054。",
+      "report": "Cellular senescence is orchestrated by a complex and multidimensional regulatory network, whose functional outputs shift dynamically with disease stage and tissue context. This review systematically maps the molecular architecture of this network. The network...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42741478",
+      "date": "2026-09-14",
+      "title": "Hmmr+ Fibroblasts Facilitate Hair Regeneration by Biomechanical Sensing of Extracellular Matrix Viscoelasticity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741478/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Research (Washington, D.C.)，PMID 为 42741478。",
+      "report": "How fibroblast heterogeneity orchestrates tissue regeneration by remodeling tissue mechanical properties that guide stem cell function is not well understood. Although fibroblasts are increasingly recognized as key regulators of tissue homeostasis, the specifi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42734526",
       "date": "2026-09-14",
@@ -803,33 +879,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42738915",
+      "id": "pubmed-42741841",
       "date": "2026-09-07",
-      "title": "Urine-Derived Cells in Kidney Transplantation: Linking Cellular Phenotypes, Secretome Signatures and Multi-Omic Technologies.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738915/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741841/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Multi-omics"
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Clinical Evidence",
+        "Regulatory Watch"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "多组学"
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "临床",
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42738915。",
-      "report": "Kidney transplant monitoring and early identification of graft dysfunction are central needs for long-term graft survival. Although kidney biopsy represents the gold standard in diagnostic procedures, its invasiveness may limit frequent longitudinal evaluation...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42741841。",
+      "report": "Inferring transcription factor (TF) activity from transcriptomes and predicting transcriptome-wide responses to TF perturbations remain challenging, in part because available TF-mRNA resources often face a trade-off between precision and coverage and typically...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -891,16 +971,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42738365",
+      "id": "pubmed-42741648",
       "date": "2026-09-03",
-      "title": "Pleural Liquid Biopsy for Oncological Practice: A Narrative Review.",
+      "title": "Liquid Biopsy and Nonendoscopic Biomarkers for Precision Early Detection of Esophageal Cancer: Evidence, Risk Stratification and Translational Challenges.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738365/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741648/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -908,76 +988,18 @@
         "Diagnostics",
         "Precision Medicine",
         "Precision Oncology",
-        "Multi-omics"
+        "Drug Screening"
       ],
       "tags": [
         "诊断",
         "精准医疗",
         "肿瘤",
-        "多组学"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancers，PMID 为 42738365。",
-      "report": "Background: Pleural effusion is a common clinical presentation in both benign and malignant conditions. The advent of liquid biopsy allowed new possibilities for non-invasive molecular profiling using body fluids. Pleural fluid, by virtue of its proximity to t...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of Cancer，PMID 为 42741648。",
+      "report": "Esophageal cancer remains one of the most lethal malignancies worldwide, largely because most tumors are detected after symptoms develop. Esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EAC) differ in epidemiology, precursor lesions an...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42738885",
-      "date": "2026-09-01",
-      "title": "Decoding Sebaceous Gland Biology Through Experimental Models: Progress, Limitations, and Future Directions.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738885/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42738885。",
-      "report": "The sebaceous gland (SG) is a highly dynamic skin appendage that plays a central role in maintaining skin homeostasis through lipid production, immune modulation, and interactions with the skin microbiome. Dysregulation of SG function is implicated in several...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42738882",
-      "date": "2026-09-01",
-      "title": "Molecular Pathways, Target Landscape, and Translational Models in Heart Failure with Preserved Ejection Fraction.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738882/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42738882。",
-      "report": "Heart failure with preserved ejection fraction (HFpEF) is a substantial global health burden and the greatest unmet medical need for cardiovascular diseases. It is marked by pronounced clinical heterogeneity and complex multi-system pathophysiology with limite...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1011,6 +1033,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42741774",
+      "date": "2026-09-01",
+      "title": "DNA damage repair gene defects combined predict the efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: a retrospective cohort study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741774/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42741774。",
+      "report": "Immune checkpoint inhibitors (ICIs) yield heterogeneous benefit in metastatic castration-resistant prostate cancer (mCRPC), underscoring the unmet need for robust predictive biomarkers. DNA damage repair (DDR) gene defects encompass mechanistically distinct su...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42739239",
       "date": "2026-09-01",
       "title": "Urinary Biomarkers in Urological Oncology: From Biological Origin to Clinical Decision-Making-A Narrative Review.",
@@ -1041,67 +1097,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42667121",
-      "date": "2026-08-29",
-      "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "id": "pubmed-42741151",
+      "date": "2026-08-31",
+      "title": "Prophage landscapes in clinical MRSA: safety profiling and discovery of Lys81, a broad-spectrum bacteriolytic enzyme.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667121/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741151/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Drug Discovery"
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42667121。",
-      "report": "Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturba...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42738856",
-      "date": "2026-08-28",
-      "title": "Cell-Free DNA Release Kinetics and Fragmentation Reflect Treatment Response and Resistance In Vitro.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42738856/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42738856。",
-      "report": "Circulating tumor DNA (ctDNA) has emerged as a clinically valuable biomarker for cancer detection, treatment monitoring, and minimal residual disease assessment. Despite its growing clinical utility, the biological mechanisms governing ctDNA release remain inc...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in microbiology，PMID 为 42741151。",
+      "report": "Methicillin-resistant Staphylococcus aureus (MRSA) poses a significant threat to global healthcare, requiring novel therapeutic strategies. Prophages, latent phage genomes integrated into bacterial chromosomes, are important resources for antimicrobial develop...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

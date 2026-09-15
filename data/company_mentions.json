@@ -4,40 +4,73 @@
   "asOfDate": "2026-09-15",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1ab725a85ed5a966",
-      "observedName": "Puer Research, LLC",
-      "normalizedName": "puer research",
+      "id": "mention-clinicaltrials-1d990dbef2d55bcc",
+      "observedName": "Shanghai JMT-Bio Inc.",
+      "normalizedName": "shanghai jmt bio",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05687578",
-      "sourceDate": "2024-10-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05687578",
+      "sourceRecordId": "NCT06747338",
+      "sourceDate": "2026-07-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06747338",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "乳腺癌",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Phase III Study of KN026 in Combination With HB1801 ± Carboplatin as Neoadjuvant Treatment for Early or Locally Advanced HER2-Positive Breast Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-24c27740b58da437",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT00860535",
+      "sourceDate": "2015-09-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00860535",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
         "Longevity",
+        "Oncology",
+        "Precision Oncology",
         "biomarker",
         "临床试验",
+        "肿瘤",
         "衰老"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "PUER (\"Previously Unrecognized Emerging Risks\") Life Clinical Study"
+      "contextTitle": "Growth Factor Signature (GFS) Pilot Study (MK0000-098)(COMPLETED)"
     },
     {
-      "id": "mention-clinicaltrials-290ae8db2534e749",
-      "observedName": "MTU AUSTRALO ALPHA LAB",
-      "normalizedName": "mtu australo alpha lab",
+      "id": "mention-clinicaltrials-3542d0bb17ec61a3",
+      "observedName": "Medtryx Pty Ltd",
+      "normalizedName": "medtryx pty",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07506967",
-      "sourceDate": "2026-04-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07506967",
+      "sourceRecordId": "NCT07280065",
+      "sourceDate": "2026-04-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07280065",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -55,76 +88,78 @@
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Early Detection and AI-Based Management of Skin-Related Neglected Tropical Diseases in Sub-Saharan Africa by Frontline Health Workers"
+      "contextTitle": "REVEAL Study - Diagnostic Testing for PTSD Using the Senseye Diagnostic Tool"
     },
     {
-      "id": "mention-clinicaltrials-3ada99c2c01dc9b6",
-      "observedName": "Ajinomoto USA, INC.",
-      "normalizedName": "ajinomoto usa",
+      "id": "mention-clinicaltrials-ab6ecb0ddfeeb7a2",
+      "observedName": "BioXcel Therapeutics Inc",
+      "normalizedName": "bioxcel therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00586885",
-      "sourceDate": "2012-10-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00586885",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04123574",
+      "sourceDate": "2026-08-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123574",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Effects of Alanine in Patients With Nonalcoholic Steatohepatitis"
-    },
-    {
-      "id": "mention-clinicaltrials-d918de81ef4a78ea",
-      "observedName": "Shanghai Weihe Medical Laboratory Co., Ltd.",
-      "normalizedName": "shanghai weihe medical laboratory",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06249308",
-      "sourceDate": "2024-02-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06249308",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
-        "Medical AI",
         "Oncology",
-        "Precision Medicine",
         "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Pilot Study of BXCL701 in Patients With Pancreatic Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-bae4c8d6356ac017",
+      "observedName": "Senseye, Inc.",
+      "normalizedName": "senseye",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07280065",
+      "sourceDate": "2026-04-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07280065",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Medical AI",
+        "Precision Medicine",
         "Recruiting",
-        "中国",
         "临床决策支持",
         "临床试验",
         "医疗 AI",
         "精准医疗",
-        "肿瘤",
         "诊断"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Liquid Biopsy-based Early Detection of Ovarian Cancer: a Proof-of-concept Study ( PROFOUND-OC )"
+      "contextTitle": "REVEAL Study - Diagnostic Testing for PTSD Using the Senseye Diagnostic Tool"
     },
     {
-      "id": "mention-clinicaltrials-e384ec0ab0408f51",
-      "observedName": "Genentech, Inc.",
-      "normalizedName": "genentech",
+      "id": "mention-clinicaltrials-cbc3812be9078861",
+      "observedName": "BioCytics, Inc.",
+      "normalizedName": "biocytics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05340309",
-      "sourceDate": "2026-01-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05340309",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT00571389",
+      "sourceDate": "2026-03-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00571389",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -136,36 +171,34 @@
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
+        "active_trial"
       ],
-      "contextTitle": "Subcutaneous Atezolizumab for the Treatment of Non-small Cell Lung Cancer"
+      "contextTitle": "A Biospecimen Collection Study of Leukapheresis-Derived Circulating Tumor Cells, Immune Cells, and Progenitor Cells."
     },
     {
-      "id": "mention-clinicaltrials-f2a6cf981b1a59b7",
-      "observedName": "Truway Health, Inc.",
-      "normalizedName": "truway health",
+      "id": "mention-clinicaltrials-fac1c78a585a3c87",
+      "observedName": "IQVIA Biotech",
+      "normalizedName": "iqvia biotech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07805044",
-      "sourceDate": "2026-09-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07805044",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04123574",
+      "sourceDate": "2026-08-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123574",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
-        "biomarker",
+        "Oncology",
+        "Precision Oncology",
         "临床试验",
-        "衰老"
+        "肿瘤"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Truway Whole-Body Digital Twin and Physiologic Resilience Study (TRU-OMNIBODY)"
+      "contextTitle": "A Pilot Study of BXCL701 in Patients With Pancreatic Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
