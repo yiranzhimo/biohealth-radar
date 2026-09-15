@@ -96,9 +96,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -149,9 +149,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "akeso",
@@ -622,9 +622,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "arvinas",
@@ -853,9 +853,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -1308,6 +1308,46 @@
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
       "lastCheckedAt": "2026-09-09T09:08:15+00:00"
+    },
+    {
+      "companyId": "candidate-114a81e1c0af",
+      "companyName": "健信超导",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
+      "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-09-22T09:34:02+00:00",
+      "title": "公司概况 | 上海证券交易所",
+      "description": "",
+      "headings": [
+        "上交所APP\"通办\"栏目",
+        "行情指标",
+        "行情走势",
+        "成交统计",
+        "融资融券统计",
+        "大宗交易统计",
+        "交易信息公开",
+        "公司公告",
+        "监管",
+        "监管措施",
+        "监管问询",
+        "监管动态"
+      ],
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "visibleTextHash": "f92ba321bbf581f633057abeb241b95b7925b61fdd92d414053e33c1a44a024a",
+      "visibleTextChars": 1462,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-09-15T09:34:02+00:00",
+      "lastChangedAt": "2026-09-15T09:34:02+00:00",
+      "capturedAt": "2026-09-15T09:34:02+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "candidate-1338e6c1b759",
@@ -2468,6 +2508,46 @@
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
       "lastCheckedAt": "2026-09-09T09:08:15+00:00"
+    },
+    {
+      "companyId": "candidate-81ae1b19ff30",
+      "companyName": "海泰新光",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
+      "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-09-22T09:34:02+00:00",
+      "title": "公司概况 | 上海证券交易所",
+      "description": "",
+      "headings": [
+        "上交所APP\"通办\"栏目",
+        "行情指标",
+        "行情走势",
+        "成交统计",
+        "融资融券统计",
+        "大宗交易统计",
+        "交易信息公开",
+        "公司公告",
+        "监管",
+        "监管措施",
+        "监管问询",
+        "监管动态"
+      ],
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "visibleTextHash": "f92ba321bbf581f633057abeb241b95b7925b61fdd92d414053e33c1a44a024a",
+      "visibleTextChars": 1462,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-09-15T09:34:02+00:00",
+      "lastChangedAt": "2026-09-15T09:34:02+00:00",
+      "capturedAt": "2026-09-15T09:34:02+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "candidate-868d4e3c4dbe",
@@ -14891,6 +14971,46 @@
       "lastCheckedAt": "2026-09-09T09:08:15+00:00"
     },
     {
+      "companyId": "candidate-ec59513df0c9",
+      "companyName": "赛分科技",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
+      "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-09-22T09:34:02+00:00",
+      "title": "公司概况 | 上海证券交易所",
+      "description": "",
+      "headings": [
+        "上交所APP\"通办\"栏目",
+        "行情指标",
+        "行情走势",
+        "成交统计",
+        "融资融券统计",
+        "大宗交易统计",
+        "交易信息公开",
+        "公司公告",
+        "监管",
+        "监管措施",
+        "监管问询",
+        "监管动态"
+      ],
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "visibleTextHash": "f92ba321bbf581f633057abeb241b95b7925b61fdd92d414053e33c1a44a024a",
+      "visibleTextChars": 1462,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-09-15T09:34:02+00:00",
+      "lastChangedAt": "2026-09-15T09:34:02+00:00",
+      "capturedAt": "2026-09-15T09:34:02+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00"
+    },
+    {
       "companyId": "candidate-ecogenome",
       "companyName": "Ecogenome LLC",
       "sourceRole": "official",
@@ -15671,6 +15791,46 @@
       "lastChangedAt": "2026-08-18T05:04:41+00:00",
       "capturedAt": "2026-08-18T05:04:41+00:00",
       "lastCheckedAt": "2026-09-09T09:08:15+00:00"
+    },
+    {
+      "companyId": "candidate-fc7a0fdde182",
+      "companyName": "百奥赛图",
+      "sourceRole": "official",
+      "sourceType": "Company",
+      "requestedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
+      "resolvedUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
+      "contentType": "text/html",
+      "refreshIntervalDays": 7,
+      "nextCheckAt": "2026-09-22T09:34:02+00:00",
+      "title": "公司概况 | 上海证券交易所",
+      "description": "",
+      "headings": [
+        "上交所APP\"通办\"栏目",
+        "行情指标",
+        "行情走势",
+        "成交统计",
+        "融资融券统计",
+        "大宗交易统计",
+        "交易信息公开",
+        "公司公告",
+        "监管",
+        "监管措施",
+        "监管问询",
+        "监管动态"
+      ],
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": [],
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "visibleTextHash": "f92ba321bbf581f633057abeb241b95b7925b61fdd92d414053e33c1a44a024a",
+      "visibleTextChars": 1462,
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "firstObservedAt": "2026-09-15T09:34:02+00:00",
+      "lastChangedAt": "2026-09-15T09:34:02+00:00",
+      "capturedAt": "2026-09-15T09:34:02+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "candidate-fec21b7f896b",
@@ -27991,10 +28151,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -28670,9 +28830,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "intellia",
@@ -29791,10 +29951,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-09-14T10:05:30+00:00",
+      "lastCheckedAt": "2026-09-15T09:34:02+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-14T10:05:30+00:00"
+      "lastFailureAt": "2026-09-15T09:34:02+00:00"
     },
     {
       "companyId": "recursion",

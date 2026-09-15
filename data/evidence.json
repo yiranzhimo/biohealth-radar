@@ -5052,6 +5052,48 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-114a81e1c0af-official-efd52ecb6183",
+      "signalId": null,
+      "companyIds": [
+        "candidate-114a81e1c0af"
+      ],
+      "publishedAt": "2026-09-15",
+      "snapshotDate": "2026-09-15",
+      "title": "公司概况 | 上海证券交易所",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "健信超导 — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626.",
+      "report": "公司官方页面表述：公司概况 | 上海证券交易所",
+      "reportOriginal": "公司概况 | 上海证券交易所",
+      "reportCn": "公司概况 | 上海证券交易所",
+      "translation": {
+        "status": "not_needed"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-1338e6c1b759-official-efd52ecb6183",
       "signalId": null,
       "companyIds": [
@@ -6308,6 +6350,48 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183",
+      "signalId": null,
+      "companyIds": [
+        "candidate-81ae1b19ff30"
+      ],
+      "publishedAt": "2026-09-15",
+      "snapshotDate": "2026-09-15",
+      "title": "公司概况 | 上海证券交易所",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "海泰新光 — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626.",
+      "report": "公司官方页面表述：公司概况 | 上海证券交易所",
+      "reportOriginal": "公司概况 | 上海证券交易所",
+      "reportCn": "公司概况 | 上海证券交易所",
+      "translation": {
+        "status": "not_needed"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -23841,6 +23925,48 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-ec59513df0c9-official-efd52ecb6183",
+      "signalId": null,
+      "companyIds": [
+        "candidate-ec59513df0c9"
+      ],
+      "publishedAt": "2026-09-15",
+      "snapshotDate": "2026-09-15",
+      "title": "公司概况 | 上海证券交易所",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "赛分科技 — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626.",
+      "report": "公司官方页面表述：公司概况 | 上海证券交易所",
+      "reportOriginal": "公司概况 | 上海证券交易所",
+      "reportCn": "公司概况 | 上海证券交易所",
+      "translation": {
+        "status": "not_needed"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-ecogenome-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -24978,6 +25104,48 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183",
+      "signalId": null,
+      "companyIds": [
+        "candidate-fc7a0fdde182"
+      ],
+      "publishedAt": "2026-09-15",
+      "snapshotDate": "2026-09-15",
+      "title": "公司概况 | 上海证券交易所",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "百奥赛图 — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626.",
+      "report": "公司官方页面表述：公司概况 | 上海证券交易所",
+      "reportOriginal": "公司概况 | 上海证券交易所",
+      "reportCn": "公司概况 | 上海证券交易所",
+      "translation": {
+        "status": "not_needed"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "efd52ecb6183501dc8a74fe0aa945592c194a9a2403485bf195797a585b30626",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },

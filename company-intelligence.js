@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-09-15",
   "summary": {
     "profileCount": 623,
-    "evidenceCount": 899,
+    "evidenceCount": 903,
     "programCandidateCount": 0,
     "companyCandidateCount": 597,
     "companyMentionCount": 666,
@@ -37,8 +37,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 623,
-    "companyReportedCount": 618,
-    "withEvidenceCount": 619,
+    "companyReportedCount": 622,
+    "withEvidenceCount": 623,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
     "failedSourceCount": 51,
@@ -75606,7 +75606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-114a81e1c0af",
       "name": "健信超导",
       "asOfDate": "2026-09-15",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "688805",
@@ -75645,40 +75645,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
+        "summaryOriginal": "公司概况 | 上海证券交易所",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-114a81e1c0af-official-efd52ecb6183"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-114a81e1c0af-official-efd52ecb6183",
+            "date": "2026-09-15",
+            "title": "公司概况 | 上海证券交易所",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-114a81e1c0af-official-efd52ecb6183",
+            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-15",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-114a81e1c0af-official-efd52ecb6183",
+          "date": "2026-09-15",
+          "title": "公司概况 | 上海证券交易所",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-114a81e1c0af-official-efd52ecb6183",
+          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805"
+        }
+      ]
     },
     {
       "companyId": "candidate-d9ba58a62bfd",
@@ -77928,7 +77952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-81ae1b19ff30",
       "name": "海泰新光",
       "asOfDate": "2026-09-15",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "688677",
@@ -77967,40 +77991,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
+        "summaryOriginal": "公司概况 | 上海证券交易所",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183",
+            "date": "2026-09-15",
+            "title": "公司概况 | 上海证券交易所",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183",
+            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-15",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183",
+          "date": "2026-09-15",
+          "title": "公司概况 | 上海证券交易所",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-81ae1b19ff30-official-efd52ecb6183",
+          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677"
+        }
+      ]
     },
     {
       "companyId": "candidate-38dcb219a359",
@@ -78618,7 +78666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-fc7a0fdde182",
       "name": "百奥赛图",
       "asOfDate": "2026-09-15",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "688796",
@@ -78657,40 +78705,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
+        "summaryOriginal": "公司概况 | 上海证券交易所",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183",
+            "date": "2026-09-15",
+            "title": "公司概况 | 上海证券交易所",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183",
+            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-15",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183",
+          "date": "2026-09-15",
+          "title": "公司概况 | 上海证券交易所",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-fc7a0fdde182-official-efd52ecb6183",
+          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796"
+        }
+      ]
     },
     {
       "companyId": "candidate-d50ece0e7d8e",
@@ -79818,7 +79890,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-ec59513df0c9",
       "name": "赛分科技",
       "asOfDate": "2026-09-15",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "688758",
@@ -79857,40 +79929,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
+        "summaryOriginal": "公司概况 | 上海证券交易所",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-ec59513df0c9-official-efd52ecb6183"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-ec59513df0c9-official-efd52ecb6183",
+            "date": "2026-09-15",
+            "title": "公司概况 | 上海证券交易所",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-ec59513df0c9-official-efd52ecb6183",
+            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-15",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-ec59513df0c9-official-efd52ecb6183",
+          "date": "2026-09-15",
+          "title": "公司概况 | 上海证券交易所",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-ec59513df0c9-official-efd52ecb6183",
+          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758"
+        }
+      ]
     },
     {
       "companyId": "candidate-9f07e257c157",
