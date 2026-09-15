@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-15",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
