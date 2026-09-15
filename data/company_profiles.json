@@ -12228,133 +12228,6 @@
       ]
     },
     {
-      "companyId": "candidate-apogee-therapeutics",
-      "name": "Apogee Therapeutics, Inc.",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "APGE",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001974640"
-          ],
-          "ticker": [
-            "APGE"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Biological Products, Except Diagnostic Substances"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-apogee-therapeutics-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-apogee-therapeutics-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-apollomics",
       "name": "Apollomics Inc.",
       "asOfDate": "2026-09-15",
@@ -16082,133 +15955,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-astrazeneca-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000901832"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-ataibeckley",
-      "name": "AtaiBeckley Inc.",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "ATAI",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0002081043"
-          ],
-          "ticker": [
-            "ATAI"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Pharmaceutical Preparations"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-ataibeckley-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-ataibeckley-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ataibeckley-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043"
         }
       ]
     },
@@ -75713,108 +75459,6 @@
       ]
     },
     {
-      "companyId": "candidate-23395bd4136e",
-      "name": "亚辉龙",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "688575",
-        "exchange": "SSE",
-        "headquarters": null,
-        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688575",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cnSecurityCode": [
-            "688575"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": [
-          {
-            "label": "巨潮资讯（定期报告）",
-            "source": "CNINFO",
-            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688575"
-          },
-          {
-            "label": "交易所公司资料",
-            "source": "SSE",
-            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688575"
-          }
-        ]
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "科创生物"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
-        "summaryOriginal": "公司概况 | 上海证券交易所",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-23395bd4136e-official-efd52ecb6183"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-23395bd4136e-official-efd52ecb6183",
-            "date": "2026-08-10",
-            "title": "公司概况 | 上海证券交易所",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-23395bd4136e-official-efd52ecb6183",
-            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688575"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-10",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-23395bd4136e-official-efd52ecb6183",
-          "date": "2026-08-10",
-          "title": "公司概况 | 上海证券交易所",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-23395bd4136e-official-efd52ecb6183",
-          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688575"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-445f23b51274",
       "name": "佰仁医疗",
       "asOfDate": "2026-09-15",
@@ -75917,6 +75561,84 @@
       ]
     },
     {
+      "companyId": "candidate-114a81e1c0af",
+      "name": "健信超导",
+      "asOfDate": "2026-09-15",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "688805",
+        "exchange": "SSE",
+        "headquarters": null,
+        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cnSecurityCode": [
+            "688805"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": [
+          {
+            "label": "巨潮资讯（定期报告）",
+            "source": "CNINFO",
+            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688805"
+          },
+          {
+            "label": "交易所公司资料",
+            "source": "SSE",
+            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805"
+          }
+        ]
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "科创生物"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-d9ba58a62bfd",
       "name": "华大智造",
       "asOfDate": "2026-09-15",
@@ -76015,108 +75737,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-d9ba58a62bfd-official-efd52ecb6183",
           "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688114"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-8737023e7840",
-      "name": "华恒生物",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "688639",
-        "exchange": "SSE",
-        "headquarters": null,
-        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688639",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cnSecurityCode": [
-            "688639"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": [
-          {
-            "label": "巨潮资讯（定期报告）",
-            "source": "CNINFO",
-            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688639"
-          },
-          {
-            "label": "交易所公司资料",
-            "source": "SSE",
-            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688639"
-          }
-        ]
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "科创生物"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
-        "summaryOriginal": "公司概况 | 上海证券交易所",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-8737023e7840-official-efd52ecb6183"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-8737023e7840-official-efd52ecb6183",
-            "date": "2026-08-10",
-            "title": "公司概况 | 上海证券交易所",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-8737023e7840-official-efd52ecb6183",
-            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688639"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-10",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-8737023e7840-official-efd52ecb6183",
-          "date": "2026-08-10",
-          "title": "公司概况 | 上海证券交易所",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-8737023e7840-official-efd52ecb6183",
-          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688639"
         }
       ]
     },
@@ -76937,108 +76557,6 @@
       ]
     },
     {
-      "companyId": "candidate-6e4fa81780a1",
-      "name": "康希诺",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "688185",
-        "exchange": "SSE",
-        "headquarters": null,
-        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688185",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cnSecurityCode": [
-            "688185"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": [
-          {
-            "label": "巨潮资讯（定期报告）",
-            "source": "CNINFO",
-            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688185"
-          },
-          {
-            "label": "交易所公司资料",
-            "source": "SSE",
-            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688185"
-          }
-        ]
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "科创生物"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
-        "summaryOriginal": "公司概况 | 上海证券交易所",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-6e4fa81780a1-official-efd52ecb6183"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-6e4fa81780a1-official-efd52ecb6183",
-            "date": "2026-08-10",
-            "title": "公司概况 | 上海证券交易所",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-6e4fa81780a1-official-efd52ecb6183",
-            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688185"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-10",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-6e4fa81780a1-official-efd52ecb6183",
-          "date": "2026-08-10",
-          "title": "公司概况 | 上海证券交易所",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-6e4fa81780a1-official-efd52ecb6183",
-          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688185"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-819bfbc1d0f2",
       "name": "微电生理",
       "asOfDate": "2026-09-15",
@@ -77647,108 +77165,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-46bf883ce905-official-efd52ecb6183",
           "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688617"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-3c92f1178f55",
-      "name": "成大生物",
-      "asOfDate": "2026-09-15",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "688739",
-        "exchange": "SSE",
-        "headquarters": null,
-        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688739",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cnSecurityCode": [
-            "688739"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": [
-          {
-            "label": "巨潮资讯（定期报告）",
-            "source": "CNINFO",
-            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688739"
-          },
-          {
-            "label": "交易所公司资料",
-            "source": "SSE",
-            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688739"
-          }
-        ]
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "科创生物"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：公司概况 | 上海证券交易所",
-        "summaryOriginal": "公司概况 | 上海证券交易所",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-3c92f1178f55-official-efd52ecb6183"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-3c92f1178f55-official-efd52ecb6183",
-            "date": "2026-08-10",
-            "title": "公司概况 | 上海证券交易所",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-3c92f1178f55-official-efd52ecb6183",
-            "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688739"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-10",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-3c92f1178f55-official-efd52ecb6183",
-          "date": "2026-08-10",
-          "title": "公司概况 | 上海证券交易所",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-3c92f1178f55-official-efd52ecb6183",
-          "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688739"
         }
       ]
     },
@@ -78467,6 +77883,84 @@
       ]
     },
     {
+      "companyId": "candidate-81ae1b19ff30",
+      "name": "海泰新光",
+      "asOfDate": "2026-09-15",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "688677",
+        "exchange": "SSE",
+        "headquarters": null,
+        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cnSecurityCode": [
+            "688677"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": [
+          {
+            "label": "巨潮资讯（定期报告）",
+            "source": "CNINFO",
+            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688677"
+          },
+          {
+            "label": "交易所公司资料",
+            "source": "SSE",
+            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677"
+          }
+        ]
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "科创生物"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-38dcb219a359",
       "name": "热景生物",
       "asOfDate": "2026-09-15",
@@ -79077,6 +78571,84 @@
           "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688177"
         }
       ]
+    },
+    {
+      "companyId": "candidate-fc7a0fdde182",
+      "name": "百奥赛图",
+      "asOfDate": "2026-09-15",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "688796",
+        "exchange": "SSE",
+        "headquarters": null,
+        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cnSecurityCode": [
+            "688796"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": [
+          {
+            "label": "巨潮资讯（定期报告）",
+            "source": "CNINFO",
+            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688796"
+          },
+          {
+            "label": "交易所公司资料",
+            "source": "SSE",
+            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796"
+          }
+        ]
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "科创生物"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-d50ece0e7d8e",
@@ -80199,6 +79771,84 @@
           "sourceUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688105"
         }
       ]
+    },
+    {
+      "companyId": "candidate-ec59513df0c9",
+      "name": "赛分科技",
+      "asOfDate": "2026-09-15",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "688758",
+        "exchange": "SSE",
+        "headquarters": null,
+        "officialUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cnSecurityCode": [
+            "688758"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": [
+          {
+            "label": "巨潮资讯（定期报告）",
+            "source": "CNINFO",
+            "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688758"
+          },
+          {
+            "label": "交易所公司资料",
+            "source": "SSE",
+            "url": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758"
+          }
+        ]
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "科创生物"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "中证科创生物指数成分股，科创生物；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录中证科创生物指数成分股链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-9f07e257c157",

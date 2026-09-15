@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-14T08:57:57+00:00",
-  "count": 593,
+  "capturedAt": "2026-09-15T08:43:13+00:00",
+  "count": 591,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -1541,23 +1541,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-apogee-therapeutics",
-      "name": "Apogee Therapeutics, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001974640",
-      "identifiers": {
-        "cik": [
-          "0001974640"
-        ],
-        "ticker": [
-          "APGE"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-apollomics",
       "name": "Apollomics Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001944885",
@@ -1992,23 +1975,6 @@
         ],
         "ticker": [
           "AZN"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-ataibeckley",
-      "name": "AtaiBeckley Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002081043",
-      "identifiers": {
-        "cik": [
-          "0002081043"
-        ],
-        "ticker": [
-          "ATAI"
         ]
       },
       "sourceTypes": [
@@ -9392,20 +9358,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-23395bd4136e",
-      "name": "亚辉龙",
-      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688575",
-      "identifiers": {
-        "cnSecurityCode": [
-          "688575"
-        ]
-      },
-      "sourceTypes": [
-        "科创生物"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-445f23b51274",
       "name": "佰仁医疗",
       "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688198",
@@ -9420,12 +9372,12 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-d9ba58a62bfd",
-      "name": "华大智造",
-      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688114",
+      "companyId": "candidate-114a81e1c0af",
+      "name": "健信超导",
+      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688805",
       "identifiers": {
         "cnSecurityCode": [
-          "688114"
+          "688805"
         ]
       },
       "sourceTypes": [
@@ -9434,12 +9386,12 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-8737023e7840",
-      "name": "华恒生物",
-      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688639",
+      "companyId": "candidate-d9ba58a62bfd",
+      "name": "华大智造",
+      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688114",
       "identifiers": {
         "cnSecurityCode": [
-          "688639"
+          "688114"
         ]
       },
       "sourceTypes": [
@@ -9560,20 +9512,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-6e4fa81780a1",
-      "name": "康希诺",
-      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688185",
-      "identifiers": {
-        "cnSecurityCode": [
-          "688185"
-        ]
-      },
-      "sourceTypes": [
-        "科创生物"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-819bfbc1d0f2",
       "name": "微电生理",
       "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688351",
@@ -9650,20 +9588,6 @@
       "identifiers": {
         "cnSecurityCode": [
           "688617"
-        ]
-      },
-      "sourceTypes": [
-        "科创生物"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-3c92f1178f55",
-      "name": "成大生物",
-      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688739",
-      "identifiers": {
-        "cnSecurityCode": [
-          "688739"
         ]
       },
       "sourceTypes": [
@@ -9770,6 +9694,20 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-81ae1b19ff30",
+      "name": "海泰新光",
+      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688677",
+      "identifiers": {
+        "cnSecurityCode": [
+          "688677"
+        ]
+      },
+      "sourceTypes": [
+        "科创生物"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-38dcb219a359",
       "name": "热景生物",
       "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688068",
@@ -9846,6 +9784,20 @@
       "identifiers": {
         "cnSecurityCode": [
           "688177"
+        ]
+      },
+      "sourceTypes": [
+        "科创生物"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-fc7a0fdde182",
+      "name": "百奥赛图",
+      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688796",
+      "identifiers": {
+        "cnSecurityCode": [
+          "688796"
         ]
       },
       "sourceTypes": [
@@ -10000,6 +9952,20 @@
       "identifiers": {
         "cnSecurityCode": [
           "688105"
+        ]
+      },
+      "sourceTypes": [
+        "科创生物"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-ec59513df0c9",
+      "name": "赛分科技",
+      "marketPageUrl": "https://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=688758",
+      "identifiers": {
+        "cnSecurityCode": [
+          "688758"
         ]
       },
       "sourceTypes": [
