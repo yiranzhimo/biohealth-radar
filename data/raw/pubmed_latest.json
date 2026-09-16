@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-16T04:55:04.663281+00:00",
+  "capturedAt": "2026-09-16T11:43:53.317454+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,87 @@
     "end": "2026-09-16"
   },
   "pmids": [
+    "42745783",
+    "42744973",
+    "42744928",
     "42744697",
     "42744681",
     "42743997",
-    "42743929",
-    "42743925",
-    "42743015",
+    "42745547",
     "42741841",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
-    "42693007",
+    "42745879",
+    "42745166",
     "42744200",
     "42743923",
     "42736684",
     "42735594",
-    "42734526",
-    "42734505",
+    "42745504",
     "42743769",
     "42742054",
     "42741774",
     "42741648",
-    "42739239",
-    "42739150"
+    "42739239"
   ],
   "records": [
+    {
+      "pmid": "42745783",
+      "title": "Organoid transplantation in the adult endometrium restores fertility and uncovers epithelial lineage plasticity.",
+      "abstract": "The adult endometrium regenerates repeatedly, yet the cells and mechanisms that rebuild its epithelium remain poorly defined. To control the cell types available for regeneration, a genetic model to extensively ablate the uterine epithelium was combined with transplantation of lineage-labeled organoids. Ablation without organoid transplantation triggered re-epithelialization, but resulted in infertility. Transplanted endometrial epithelial organoids engrafted into the ablated uterus, reconstructed both the luminal and glandular epithelia, and restored fertility. Depleting organoids of the glandular lineage before transplantation revealed that luminal epithelial-derived cells acquire glandular identity and function after engraftment. The same luminal-to-glandular epithelial differentiation trajectory emerged during endogenous repair following targeted glandular ablation. Together, these findings establish luminal-to-glandular epithelial conversion as an intrinsic regenerative property of the adult uterine epithelium and establish an endometrial organoid transplantation platform with therapeutic potential.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "affiliations": [],
+      "doi": "10.64898/2026.08.28.747350",
+      "date": "2026-08-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745783/"
+    },
+    {
+      "pmid": "42744973",
+      "title": "Hemodynamic disruption triggers glomerular barrier injury via endothelial glycocalyx degradation in nephrotic syndrome.",
+      "abstract": "Nephrotic syndrome (NS) is characterized by heavy proteinuria and is frequently accompanied by a hypercoagulable, hemorheologically abnormal state. Although glomerular filtration barrier (GFB) failure is central to proteinuria, the contribution of altered microhemodynamic cues to endothelial barrier injury remains incompletely defined. The endothelial glycocalyx (EG) is both a permeability barrier and a mechanosensor of fluid shear stress (FSS). We combined an adriamycin (ADR)-induced NS rat model with vascular-on-a-chip (VOAC) and glomerulus-on-a-chip (GOAC) platforms. In vivo, coagulation, hemorheology, EG structure and components, inflammatory adhesion molecules, and urinary protein excretion were assessed, with prednisone acetate and sulodexide used as mechanistically distinct comparators. In vitro, endothelial cells were exposed to defined flow-rate conditions to isolate the effect of reduced mechanical stimulation on EG integrity, cytoskeletal organization, inflammatory activation, and GOAC permeability. ADR-treated rats developed hypercoagulability and increased blood viscosity together with marked EG loss and proteinuria. Sulodexide ameliorated hemorheological abnormalities and restored the integrity of the EG, whereas prednisone acetate predominantly reduced proteinuria and inflammatory adhesion-molecule expression. In the chip models, stepwise reductions in perfusion flow rate were associated with progressive EG loss, cytoskeletal disorganization, endothelial activation, and increased glomerular barrier permeability. These complementary models support reduced flow-associated mechanical stimulation as a plausible contributor to EG dysfunction and glomerular barrier leakage in NS. These data did not confirm that ADR-induced injury was entirely mediated by hemodynamic alterations; rather, they uncovered an EG-centered mechanobiological pathway that may operate alongside direct toxic and inflammatory insults.",
+      "journal": "Biomedical microdevices",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Anhui University of Chinese Medicine, Hefei, China.",
+        "Anhui Luohua Biotechnology Co.,Ltd, Hefei, China.",
+        "University of Science and Technology of China, Hefei, China.",
+        "Anhui University of Chinese Medicine, Hefei, China.",
+        "Anhui University of Chinese Medicine, Hefei, China. xufanahcm@qq.com."
+      ],
+      "doi": "10.1007/s10544-026-00850-w",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744973/"
+    },
+    {
+      "pmid": "42744928",
+      "title": "Quantitative imaging of dynamic processes in intestinal organoids.",
+      "abstract": "Organoids are powerful models for studying tissue dynamics across multiple cellular generations and offer key insights into organ homeostasis, cellular differentiation and disease. Live imaging of organoids is an essential tool for understanding dynamic processes on the cell level, while still in the tissue context. It allows for simultaneous quantification of gene expression and reconstruction of lineage trees, while tracking cells over space and time. Here, we present protocols for long-term imaging and quantitative analysis of intestinal organoids. Our workflow consists of sample preparation, experimental manipulations (such as drug treatments, laser ablations and fluorescence recovery after photobleaching), long-term live imaging (120 h), in situ fixation and permeabilization, multiplexed antibody staining and single-cell tracking with lineage reconstruction. The workflow is broadly applicable to studying dynamic cellular processes in both 2D and 3D organoids, at timescales from minutes to days. We outline strategies for optimizing organoid health, imaging conditions and experimental interventions to ensure efficient downstream analysis. In addition, we describe how this workflow enables real-time quantification of gene expression using fluorescent reporters and inferring cell type changes by combining multiplexed antibody staining with cell-tracking data. The skills required for following these protocols are organoid culturing and standard live-cell confocal microscopy, and the full experimental protocol takes ~2 weeks. Together, these protocols provide a comprehensive approach for studying cellular behavior, lineage trees, expression dynamics and cell-cell interactions in organoids.",
+      "journal": "Nature protocols",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "AMOLF, Amsterdam, the Netherlands.",
+        "Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and University Medical Centre Utrecht (UMC), Utrecht, the Netherlands.",
+        "Oncode Institute, Hubrecht Institute, Utrecht, the Netherlands.",
+        "AMOLF, Amsterdam, the Netherlands. s.tans@amolf.nl.",
+        "Bionanoscience Department, Kavli Institute of Nanoscience Delft, Delft University of Technology, Delft, the Netherlands. s.tans@amolf.nl.",
+        "AMOLF, Amsterdam, the Netherlands. j.v.zon@amolf.nl.",
+        "Institute of Biology Leiden, Leiden University, Leiden, the Netherlands. j.v.zon@amolf.nl."
+      ],
+      "doi": "10.1038/s41596-026-01432-z",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744928/"
+    },
     {
       "pmid": "42744697",
       "title": "hPSC models in cancer mechanisms and therapeutic discovery.",
@@ -96,76 +151,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743997/"
     },
     {
-      "pmid": "42743929",
-      "title": "Parallelized bright-field and fluorescence imaging platform for organoids.",
-      "abstract": "Organoid viability, maturation, and growth are commonly assayed through bright-field and fluorescence microscopy using a single-objective lens. However, standard imaging systems pose significant limitations for high-throughput applications, particularly in large-scale experiments requiring simultaneous imaging of organoids, necessitating tools that can rapidly and consistently capture organoid features while minimizing disturbances to culture conditions. Here, we present a multi-camera array scanner (MCAS) that parallelizes imaging through the simultaneous use of 48 objective lenses and sensors, resulting in a 98% reduction in acquisition times compared to commercial high-content imagers. We demonstrate and validate this system in multiple-well plate formats, in both 2D and 3D neural cell cultures, and in bright field and fluorescence. The MCAS improves the efficiency for measuring organoid growth rates, assessing responses to morphogens and drugs, and measuring viral transduction rates. Together, these findings establish the MCAS as a scalable and versatile imaging platform for rapid phenotyping in organoid research.",
-      "journal": "Cell reports methods",
+      "pmid": "42745547",
+      "title": "scBalFlow: A Staged Flow Matching Framework for Imbalanced Single-Cell Drug Perturbation Prediction.",
+      "abstract": "Conventional drug perturbation prediction models typically employ end-to-end encoder-decoder architectures, directly mapping control samples and perturbation conditions to post-perturbation gene expression profiles. However, these approaches widely overlook the severe class imbalance inherent in perturbation datasets, leading to a predictive bias toward weakly responsive samples. To address this bottleneck, we propose scBalFlow, a decoupled two-stage training framework. The first stage predicts the perturbation response intensity under given conditions, employing a Gaussian-Augmented Inference (GAI) strategy to counteract data imbalance. Crucially, the second stage bypasses weakly responsive conditions, while utilizing a Flow Matching model to synthesize highly responsive samples. Comprehensive evaluations on large-scale benchmarks, including SciPlex3 and McFarland, demonstrate that scBalFlow effectively overcomes the imbalance issue and significantly outperforms existing state-of-the-art methods on imbalanced datasets, particularly in capturing complex distribution shifts and maintaining single-cell distributional consistency. The source code and datasets are available at GitHub https://github.com/hanwenlv-cmd/scBalFlow and Figshare with DOI: 10.6084/m9.figshare.33137447. The datasets of SciPlex3, ComboSciPlex, and McFarland underlying this study are available via the pertpy package. Alternatively, they can be downloaded manually from https://exampledata.scverse.org/pertpy/srivatsan_2020_sciplex3.h5ad for SciPlex3, https://exampledata.scverse.org/pertpy/combosciplex.h5ad for combosciplex, and https://exampledata.scverse.org/pertpy/mcfarland_2020.h5ad for McFarland. Supplementary data are available at Bioinformatics online.",
+      "journal": "Bioinformatics (Oxford, England)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
-        "UNC Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
-        "UNC Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Carolina Institute for Developmental Disabilities, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
-        "UNC Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
-        "Ramona Optics Inc., Durham, NC, USA.",
-        "Mechanistic Toxicology Branch, Division of Translational Toxicology, National Institute of Environmental Health Sciences, National Institutes of Health, Research Triangle Park, NC 27709, USA.",
-        "UNC Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Carolina Institute for Developmental Disabilities, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. Electronic address: jason_stein@med.unc.edu.",
-        "Department of Biomedical Engineering, Duke University, Durham, NC, USA; Ramona Optics Inc., Durham, NC, USA. Electronic address: roarke.w.horstmeyer@duke.edu."
+        "College of Computer Science and Electronic Engineering, Hunan University, 410082, Hunan, China."
       ],
-      "doi": "10.1016/j.crmeth.2026.101601",
+      "doi": "10.1093/bioinformatics/btag682",
       "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743929/"
-    },
-    {
-      "pmid": "42743925",
-      "title": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication.",
-      "abstract": "Programmed ribosomal frameshifting (PRF) is a conserved viral strategy for expressing polyproteins from compact genomes. Although PRF is traditionally viewed as a structural mechanism, here we show that it functions as a regulatory signal that rewires host translation in favor of viral replication. A minimal SARS-CoV-2 PRF element is sufficient to activate the GCN2 arm of the integrated stress response (ISR) independently of the canonical ISR sensor ZAKα. This activation serves as a temporal switch during early infection to shut off host translation and is required for viral propagation in cells and human airway organoids. Proteomic and genetic screens identify DRG1 and IGF2BP3 as key mediators of PRF-induced GCN2 activation. We further show that this PRF-GCN2 axis is conserved in human immunodeficiency virus (HIV)-1 and West Nile virus, highlighting its broad relevance across RNA viruses. These findings reveal a sophisticated mechanism of viral translational control, highlighting PRF as a stress-inducing module that enhances viral replication.",
-      "journal": "Cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany.",
-        "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany.",
-        "Max Planck Institute for Brain Research, Frankfurt, Germany.",
-        "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany.",
-        "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Instituto de Biomedicina de Sevilla (IBiS), Hospital Universitario Virgen del Rocío/CSIC/Universidad de Sevilla), Seville, Spain; Departamento de Biología Celular, Facultad de Biología, Universidad de Sevilla, Seville, Spain.",
-        "Institute of Molecular Biology (IMB), Mainz, Germany.",
-        "Department of Genome Regulation, Max Planck Institute for Molecular Genetics, Berlin, Germany.",
-        "Department of Microbiology and Immunology, University of California, San Francisco, 600 16th Street, Room S572E, Box 2280, San Francisco, CA, USA.",
-        "Chan Zuckerberg Biohub, San Francisco, San Francisco, CA, USA.",
-        "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany.",
-        "Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany.",
-        "Leibniz Research Laboratories for Biotechnology and Artificial Organs (LEBAO), Department of Cardiothoracic, Transplantation and Vascular Surgery (HTTG), REBIRTH-Research Center for Translational Regenerative Medicine, Biomedical Research in Endstage and Obstructive Lung Disease Hannover (BREATH), German Center for Lung Research (DZL), Hannover Medical School, Hannover, Germany.",
-        "Comprehensive Pneumology Center (CPC), Institute of Lung Health and Immunity (LHI), Helmholtz Munich, Munich, Germany; Ludwig-Maximilian-Universität München (LMU), Munich, Germany; German Cancer Consortium (DKTK), LMU, Munich, Germany.",
-        "Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Theodor Boveri Institute, Julius Maximilians University Würzburg, Biocenter, Am Hubland, 97074 Würzburg, Germany.",
-        "Institute for Medical Virology, University Hospital Frankfurt, Goethe University Frankfurt, 60596 Frankfurt am Main, Germany; Fraunhofer Institute for Translational Medicine and Pharmacology (ITMP), 60596 Frankfurt am Main, Germany; German Center for Infection Research, DZIF, External Partner Site Frankfurt, Frankfurt, Germany.",
-        "Institute of Biochemistry II, Faculty of Medicine, Goethe University Frankfurt, Frankfurt am Main, Germany; Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt am Main, Germany; Max Planck Institute of Biophysics, Frankfurt, Germany. Electronic address: dikic@biochem2.uni-frankfurt.de."
-      ],
-      "doi": "10.1016/j.cell.2026.08.031",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743925/"
-    },
-    {
-      "pmid": "42743015",
-      "title": "From genotype to phenotype: understanding the genetic basis of autism.",
-      "abstract": "This paper covers some of the key findings on the topic of genetic influences in autism over the last 12-18 months, which consist of significant conceptual shifts and new insights from recent technological advances. Autism is a highly heritable condition, with significant heterogeneity of the genes that influence the development of this condition. The heterogeneity of autism, and multiple pathways contributing to the development of an autistic phenotype, create challenges in our understanding, diagnosis, and management of this condition.Recent studies of common genetic variation and polygenic risk scores have focussed on resolving phenotypic heterogeneity and identifying meaningful autism subtypes. Rare-variant discovery has expanded across ancestries, the X chromosome, noncoding loci, structural variants, and tandem repeats, aided by long-read and pangenome-informed sequencing. Single-cell multiomics, spatial perturbation methods and human organoid models have connected genetic variation to cell-type-specific and developmental phenotypes, while also revealing substantial mutation-specific effects and methodological sensitivity. Genetic testing increasingly provides aetiological diagnoses and informs medical surveillance. Recent developments also illustrate the therapeutic potential of gene-first approaches for selected monogenic neurodevelopmental disorders. Recent developments have expanded our understanding of the way the genetic basis of autism manifests phenotypically.",
-      "journal": "Current opinion in psychiatry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Clinical Medicine, University of New South Wales, Sydney.",
-        "Academic Unit of Infant, Child, and Adolescent Psychiatry Services (AUCS), South Western Sydney Local Health District.",
-        "Ingham Institute of Applied Medical Research, Liverpool.",
-        "School of Biotechnology and Biomolecular Sciences.",
-        "Cellular Genomics Future Institute.",
-        "RNA Institute, University of New South Wales, Sydney, New South Wales, Australia."
-      ],
-      "doi": "10.1097/YCO.0000000000001115",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743015/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745547/"
     },
     {
       "pmid": "42741841",
@@ -295,23 +293,37 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42696754/"
     },
     {
-      "pmid": "42693007",
-      "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
-      "abstract": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM research. The &quot;TCM integrative pharmacology&quot; theory previously proposed by our team has become an important paradigm in modern TCM research. However, current studies still face several limitations, including a static analytical perspective, insufficient spatiotemporal information, and unclear mechanisms of cross-organ coordinated regulation. Based on these challenges, this paper further proposes the innovative concept of a &quot;TCM digital human&quot;. Guided by the integrative pharmacology research paradigm, and drawing on advanced technologies such as virtual cells and virtual physiological human systems, this framework integrates artificial intelligence and multiscale modeling approaches to construct a computable virtual life system with TCM characteristics, ranging from virtual cells and virtual organs to a digital human. This system provides key support for the digital representation of TCM theory and for the scientific elucidation of the mechanisms underlying the therapeutic effects of TCM formulae.",
-      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "pmid": "42745879",
+      "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
+      "abstract": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capability to independently conduct downstream evaluation and optimize workflows. Meanwhile, directly applying large language models (LLMs) to molecular design faces challenges such as fragmented execution, limited tool coordination, and insufficient traceability of intermediate decision-making processes. To address these limitations, we propose a Drug Discovery Agent (DDA), a traceable and auditable multi-agent biomedical informatics framework for automating SBDD. DDA uses a role-specific multi-agent architecture to transform natural-language drug-discovery goals into actionable scientific workflows. Through a unified tool-calling protocol, this framework seamlessly integrates bioinformatics, molecular modeling, and molecular docking modules, enabling autonomous workflow execution from target preparation and molecular generation to multi-objective evaluation, candidate prioritization, and trajectory tracking. We systematically evaluated DDA on the CrossDocked2020 benchmark. Under the closed-loop delivery protocol, the framework produced 2,000 final candidate records, with a joint screen-pass rate 20 percentage points higher than that of the strongest specialized baseline. These results indicate that DDA provides a scalable, executable, and traceable computational framework that reduces manual coordination in structure-based automated drug discovery and delivers prioritized candidate sets with minimal human intervention.",
+      "journal": "Frontiers in chemistry",
       "publicationTypes": [
-        "English Abstract",
         "Journal Article"
       ],
       "affiliations": [
-        "Liaoning University of Traditional Chinese Medicine Dalian 116600, China.",
-        "Liaoning University of Traditional Chinese Medicine Dalian 116600, China School of Artificial Intelligence and Big Data, HE University Shenyang 110163, China.",
-        "Institute of Chinese Materia Medica, China Academy of Chinese Medical Sciences Beijing 100700, China.",
-        "China Academy of Chinese Medical Sciences Beijing 100700, China."
+        "College of Computer Science and Artificial Intelligence, Northeast Forestry University, Harbin, China.",
+        "Faculty of Computing, Harbin Institute of Technology, Harbin, China."
       ],
-      "doi": "10.19540/j.cnki.cjcmm.20260522.401",
-      "date": "2026-08-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693007/"
+      "doi": "10.3389/fchem.2026.1914886",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/"
+    },
+    {
+      "pmid": "42745166",
+      "title": "In Vitro Selection of Functional Neoproteins Containing Highly Fluorinated Cores.",
+      "abstract": "The inclusion of non-proteinogenic amino acids (npAAs) into proteins vastly expands their chemical repertoire and hence possible functional diversity. However, it remains challenging to obtain non-proteinogenic sequences that carry out a specific task. Here we develop a platform to discover functional non-standard proteins and illustrate its utility by generating a family of bioactive proteins whose hydrophobic cores are built using fluorinated amino acids (fAAs). Starting from the protein chymotrypsin inhibitor 2 (CI2), we use genetic code reprogramming, combinatorial mutagenesis and mRNA display-based in vitro selection to discover fluorinated mutant sequences with optimised inhibitory activity. Using microwave-assisted solid-phase peptide synthesis, we perform preparative chemical synthesis of 14 selected proteins, which contain up to eight fAAs-or 19 fluorine atoms. All are nanomolar inhibitors of chymotrypsin; several hits are more active than the wildtype, and possess thermostabilities of up to 70°C. Crystal structures reveal that these proteins maintain native-like folds, with fluorine atoms forming close and epistatically coupled packing contacts within the core. This work demonstrates how to generate functional protein sequences with multiple interacting npAAs, namely neoproteins, and thereby provides a framework for exploring the use of unnatural building blocks in protein design.",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo, Japan.",
+        "Department of Pharmacy and Pharmaceutical Sciences, National University of Singapore, Singapore, Singapore.",
+        "Department of Biochemistry, Graduate School of Medicine, Yokohama City University, Kanazawa-ku, Yokohama, Japan."
+      ],
+      "doi": "10.1002/anie.5293145",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745166/"
     },
     {
       "pmid": "42744200",
@@ -387,39 +399,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42735594/"
     },
     {
-      "pmid": "42734526",
-      "title": "DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation.",
-      "abstract": "Structure-based molecular diffusion models have shown considerable potential for de novo drug design. However, their practical use in million-scale candidate-library construction remains limited by fixed target-agnostic inference settings, insufficient support for objective-aware molecular prioritization, and limited integration of scalable property evaluation with standardized library production. Here, we present DASH, a pocket-aware and objective-aware framework for converting protein-conditioned diffusion outputs into property-tagged molecular libraries for computational prioritization. DASH combines pocket-complexity-aware sampling, configurable objective-aware molecular scoring, and a scalable production layer. The sampling strategy adjusts inference effort according to geometric and physicochemical features of the target binding pocket. The Objective-Aware Quality Module (OQM) filters and reranks generated molecules using configurable descriptors, desirability functions, and scoring profiles. The production layer supports million-scale execution through asynchronous GPU-CPU processing, streaming output, molecular scoring, and SDF annotation. We evaluated DASH through pocket-complexity analysis, OQM profile analysis, execution benchmarks, and multi-GPU/multinode scaling experiments. The results show that DASH can adapt inference effort across pockets, rerank generated libraries under different design objectives, and produce standardized molecular libraries for downstream analysis. An EGFR-oriented case study further demonstrates how DASH-generated libraries can support downstream computational prioritization and representative candidate selection. Together, these results demonstrate that DASH extends protein-conditioned diffusion models from raw molecular generation toward practical-scale, objective-aware candidate-library construction and computational hit prioritization.",
-      "journal": "Journal of chemical information and modeling",
+      "pmid": "42745504",
+      "title": "Unveiling Novel Tumor-Associated Antigens to Overcome Diagnostic Challenges in Barely Seroreactive Colorectal Cancer Patients Using Mass Spectrometry-Based Proteomics.",
+      "abstract": "The humoral immune response plays a critical role in cancer immune surveillance, producing autoantibodies against tumor-associated antigens (TAAs). These autoantibodies show potential as non-invasive biomarkers for early cancer detection in colorectal cancer (CRC), a leading cause of cancer-related mortality worldwide. Despite their potential, the existence of non-seroreactive CRC patients to common TAAs poses a significant challenge, limiting the effectiveness of autoantibody-based diagnostics. Focusing on previously identified non-seroreactive CRC patients, we have employed high-resolution proteomics to profile their humoral immune response, enabling the discovery of novel CRC-specific TAAs to address this diagnostic gap. These TAAs were expressed in mammalian cells with 6xHisTag and HaloTag to enhance their detection and seroreactivity assessment through ELISA-like tests. Our integrative approach revealed previously undetected TAAs, expanding the panel of CRC-specific biomarkers. By overcoming the limitations of traditional diagnostics, this study provides a deeper understanding of the humoral immune response in CRC and underscores the potential of proteomic-driven strategies to improve early detection. These findings expand the repertoire of CRC-associated serological targets and support the use of immunoproteomic strategies to identify complementary antigens in CRC patients, paving the way for the development of liquid biopsy-based diagnostic approaches for individuals previously classified as non-seroreactive.",
+      "journal": "Proteomics",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Computer Network Information Center, Chinese Academy of Sciences , Dongsheng South Road, Beijing100083, China.",
-        "School of Computer Science and Technology, University of Chinese Academy of Sciences, Yanqi Lake East Road, Beijing101408, China.",
-        "College of Pharmaceutical Science, Hebei University, Wusi East Road, Baoding, Hebei071002, China."
+        "Functional Proteomics Unit, Chronic Disease Programme (UFIEC), Instituto De Salud Carlos III, Madrid, Spain.",
+        "Escuela de Doctorado, Universidad Autónoma de Madrid, Madrid, Spain.",
+        "Instituto Investigación Clínico San Carlos (IdISSC), Hospital Clínico San Carlos, Madrid, Spain.",
+        "Department of Pathology, Hospital Clínico San Carlos, Madrid, Spain.",
+        "Departament of Legal Medicine, Psychiatry and Pathology, Universidad Complutense, Madrid, Spain.",
+        "Translational Oncology Division, OncoHealth Institute, Health Research Institute Fundación Jimenez Diaz, Fundación Jimenez Díaz University Hospital, Universidad Autónoma de Madrid (IIS-FJD, UAM), Madrid, Spain.",
+        "Area of Physiology, Department of Basic Health Sciences, Faculty of Health Sciences, Rey Juan Carlos University, Madrid, Spain.",
+        "CIBER of Frailty and Healthy Aging, CIBER, Madrid, Spain.",
+        "Departamento de Química Analítica, Facultad de CC. Químicas, Universidad Complutense de Madrid, Madrid, Spain."
       ],
-      "doi": "10.1021/acs.jcim.6c01357",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734526/"
-    },
-    {
-      "pmid": "42734505",
-      "title": "PockLigGPT: Pocket-Sequence-Conditioned Molecular Generation with GPTs and RL.",
-      "abstract": "De novo drug design aims to generate molecules targeting specific protein pockets while retaining chemical plausibility and drug-like properties. Recent 3D structure-based generative methods explicitly model pocket-ligand geometry, but this does not always translate into chemically realistic or practically usable candidate molecules. Molecular language models provide a complementary sequence-based alternative. However, it remains unclear whether sequence-based pocket information can effectively guide ligand generation, whether multistage training improves pocket-specific generation, and whether docking-guided reinforcement learning can be integrated into a practical generation pipeline. We introduce PockLigGPT, a GPT-based framework for pocket-sequence-conditioned molecular generation. Rather than producing fixed 3D coordinates, PockLigGPT formulates ligand design as a sequence-generation problem conditioned on the amino acid composition of the protein pocket. The model is trained in four stages: large-scale chemical pretraining based on ZINC20; bioactivity-oriented adaptation based on ChEMBL; pocket-sequence-conditioned fine-tuning using binding-pocket amino acid sequences paired with ligands; and, finally, pocket-specific docking-guided reinforcement learning using AutoDock Vina-based rewards. PockLigGPT achieves competitive docking-oriented performance under a standardized evaluation protocol while maintaining chemical plausibility, favorable physicochemical profiles, and Lipinski-based drug-likeness. Docking studies on Alzheimer's disease-associated targets and token-level analyses further support the utility of PockLigGPT for de novo drug design.",
-      "journal": "Journal of chemical information and modeling",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "AItenea Biotech S.L. , Madrid28014, Spain.",
-        "Instituto de Ciencias Matemáticas (ICMAT-CSIC) , Madrid28049, Spain.",
-        "Universidad Autónoma de Madrid, Escuela de Doctorado, Madrid28049, Spain.",
-        "Centro de Investigaciones Biológicas Margarita Salas (CIB Margarita Salas-CSIC), Madrid28040, Spain."
-      ],
-      "doi": "10.1021/acs.jcim.6c01980",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734505/"
+      "doi": "10.1002/pmic.70181",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745504/"
     },
     {
       "pmid": "42743769",
@@ -515,31 +515,65 @@
       "doi": "10.3390/diagnostics16172810",
       "date": "2026-09-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739239/"
-    },
-    {
-      "pmid": "42739150",
-      "title": "Differential Serum MicroRNA Profiling in Benign and Malignant Ovarian Tumours: An Exploratory Study Identifying hsa-miR-200c-3p as a Candidate Diagnostic Biomarker.",
-      "abstract": "Background/Objectives: Preoperative discrimination of benign from malignant adnexal masses remains a major clinical challenge, and circulating microRNAs (miRNAs) are candidate non-invasive biomarkers. This exploratory, hypothesis-generating study-not a diagnostic validation study-evaluated serum hsa-miR-200c-3p as a candidate diagnostic biomarker for ovarian malignancy. Methods: Serum from 39 women with an adnexal mass and a surgical indication (20 benign, 19 malignant), all with histological confirmation, was analysed. Of 179 assayed miRNAs, 178 were tested for differential expression (miR-103a-3p as endogenous reference) using the Mann-Whitney U test with Benjamini-Hochberg false-discovery-rate (FDR) correction; hsa-miR-200c-3p, a pre-specified miR-200 family candidate, was evaluated by ROC analysis and compared with, and adjusted for, CA 125, HE4 and age. Results: The malignant group was substantially older and more frequently postmenopausal. Thirty-eight miRNAs were significant after FDR correction; hsa-miR-200c-3p was up-regulated in malignancy. In the complete-case analysis restricted to the 35 participants with a detectable marker (20 benign, 15 malignant), the AUC was 0.893 (95% CI 0.76-0.99); however, four high-grade serous carcinomas showed undetectable serum hsa-miR-200c-3p, and when these were included and imputed as low expression (all-case analysis, n = 39) the AUC fell to 0.705 (95% CI 0.51-0.88). hsa-miR-200c-3p did not demonstrate statistically superior performance to HE4 (AUC 0.93) or CA 125 (0.89), with overlapping confidence intervals; any incremental value beyond established markers and age was modest and exploratory. Conclusions: Serum hsa-miR-200c-3p is a preliminary candidate that requires prospective, age-matched, adequately powered validation with pre-specified assays and analysis plans.",
-      "journal": "Diagnostics (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Laboratory Medicine, Puerto Real University Hospital, 11510 Cadiz, Spain.",
-        "Institute for Biomedical Research and Innovation of Cádiz (INiBICA), 11003 Cadiz, Spain.",
-        "ExPhy Research Group, Department of Physical Education, University of Cádiz, 11519 Cádiz, Spain.",
-        "Department of Laboratory Medicine, Virgen del Rocío University Hospital, 41013 Seville, Spain.",
-        "Department of Obstetrics and Gynecology, Virgen del Rocío University Hospital, 41013 Seville, Spain.",
-        "Department of Anesthesiology, Resuscitation and Pain Treatment, Puerto Real University Hospital, 11510 Cadiz, Spain.",
-        "Department of Obstetrics and Gynecology, Puerto Real University Hospital, 11510 Cadiz, Spain.",
-        "Department of Maternal and Child Health and Radiology, University of Cádiz, 11009 Cadiz, Spain."
-      ],
-      "doi": "10.3390/diagnostics16172718",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739150/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42744973",
+      "date": "2026-09-16",
+      "title": "Hemodynamic disruption triggers glomerular barrier injury via endothelial glycocalyx degradation in nephrotic syndrome.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744973/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomedical microdevices，PMID 为 42744973。",
+      "report": "Nephrotic syndrome (NS) is characterized by heavy proteinuria and is frequently accompanied by a hypercoagulable, hemorheologically abnormal state. Although glomerular filtration barrier (GFB) failure is central to proteinuria, the contribution of altered micr...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42744928",
+      "date": "2026-09-15",
+      "title": "Quantitative imaging of dynamic processes in intestinal organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744928/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42744928。",
+      "report": "Organoids are powerful models for studying tissue dynamics across multiple cellular generations and offer key insights into organ homeostasis, cellular differentiation and disease. Live imaging of organoids is an essential tool for understanding dynamic proces...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42744697",
       "date": "2026-09-15",
@@ -633,31 +667,62 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42743929",
+      "id": "pubmed-42745547",
       "date": "2026-09-15",
-      "title": "Parallelized bright-field and fluorescence imaging platform for organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "scBalFlow: A Staged Flow Matching Framework for Imbalanced Single-Cell Drug Perturbation Prediction.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743929/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745547/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42743929。",
-      "report": "Organoid viability, maturation, and growth are commonly assayed through bright-field and fluorescence microscopy using a single-objective lens. However, standard imaging systems pose significant limitations for high-throughput applications, particularly in lar...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42745547。",
+      "report": "Conventional drug perturbation prediction models typically employ end-to-end encoder-decoder architectures, directly mapping control samples and perturbation conditions to post-perturbation gene expression profiles. However, these approaches widely overlook th...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42745166",
+      "date": "2026-09-15",
+      "title": "In Vitro Selection of Functional Neoproteins Containing Highly Fluorinated Cores.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745166/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42745166。",
+      "report": "The inclusion of non-proteinogenic amino acids (npAAs) into proteins vastly expands their chemical repertoire and hence possible functional diversity. However, it remains challenging to obtain non-proteinogenic sequences that carry out a specific task. Here we...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -689,6 +754,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of controlled release : official journal of the Controlled Release Society，PMID 为 42744200。",
       "report": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42745504",
+      "date": "2026-09-15",
+      "title": "Unveiling Novel Tumor-Associated Antigens to Overcome Diagnostic Challenges in Barely Seroreactive Colorectal Cancer Patients Using Mass Spectrometry-Based Proteomics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745504/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Proteomics，PMID 为 42745504。",
+      "report": "The humoral immune response plays a critical role in cancer immune surveillance, producing autoantibodies against tumor-associated antigens (TAAs). These autoantibodies show potential as non-invasive biomarkers for early cancer detection in colorectal cancer (...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -756,128 +851,6 @@
       "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42742054。",
       "report": "Cellular senescence is orchestrated by a complex and multidimensional regulatory network, whose functional outputs shift dynamically with disease stage and tissue context. This review systematically maps the molecular architecture of this network. The network...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42743925",
-      "date": "2026-09-14",
-      "title": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743925/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42743925。",
-      "report": "Programmed ribosomal frameshifting (PRF) is a conserved viral strategy for expressing polyproteins from compact genomes. Although PRF is traditionally viewed as a structural mechanism, here we show that it functions as a regulatory signal that rewires host tra...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42734526",
-      "date": "2026-09-14",
-      "title": "DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734526/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42734526。",
-      "report": "Structure-based molecular diffusion models have shown considerable potential for de novo drug design. However, their practical use in million-scale candidate-library construction remains limited by fixed target-agnostic inference settings, insufficient support...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42734505",
-      "date": "2026-09-14",
-      "title": "PockLigGPT: Pocket-Sequence-Conditioned Molecular Generation with GPTs and RL.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734505/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42734505。",
-      "report": "De novo drug design aims to generate molecules targeting specific protein pockets while retaining chemical plausibility and drug-like properties. Recent 3D structure-based generative methods explicitly model pocket-ligand geometry, but this does not always tra...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42743015",
-      "date": "2026-09-11",
-      "title": "From genotype to phenotype: understanding the genetic basis of autism.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743015/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in psychiatry，PMID 为 42743015。",
-      "report": "This paper covers some of the key findings on the topic of genetic influences in autism over the last 12-18 months, which consist of significant conceptual shifts and new insights from recent technological advances. Autism is a highly heritable condition, with...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1142,6 +1115,41 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42745879",
+      "date": "2026-09-01",
+      "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in chemistry，PMID 为 42745879。",
+      "report": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capabi...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42741774",
       "date": "2026-09-01",
       "title": "DNA damage repair gene defects combined predict the efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: a retrospective cohort study.",
@@ -1206,6 +1214,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42745783",
+      "date": "2026-08-31",
+      "title": "Organoid transplantation in the adult endometrium restores fertility and uncovers epithelial lineage plasticity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745783/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42745783。",
+      "report": "The adult endometrium regenerates repeatedly, yet the cells and mechanisms that rebuild its epithelium remain poorly defined. To control the cell types available for regeneration, a genetic model to extensively ablate the uterine epithelium was combined with t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42699656",
       "date": "2026-08-26",
       "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
@@ -1243,64 +1279,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42699656。",
       "report": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42739150",
-      "date": "2026-08-26",
-      "title": "Differential Serum MicroRNA Profiling in Benign and Malignant Ovarian Tumours: An Exploratory Study Identifying hsa-miR-200c-3p as a Candidate Diagnostic Biomarker.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739150/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Diagnostics (Basel, Switzerland)，PMID 为 42739150。",
-      "report": "Background/Objectives: Preoperative discrimination of benign from malignant adnexal masses remains a major clinical challenge, and circulating microRNAs (miRNAs) are candidate non-invasive biomarkers. This exploratory, hypothesis-generating study-not a diagnos...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42693007",
-      "date": "2026-08-01",
-      "title": "[TCM digital human: an innovation engine driving TCM integrative pharmacology 2.0].",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42693007/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42693007。",
-      "report": "As the primary carrier of clinical treatment in traditional Chinese medicine(TCM), TCM formulae require elucidation of the interaction laws between their chemical substance basis and biological activities, which represents a key scientific issue in TCM researc...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
