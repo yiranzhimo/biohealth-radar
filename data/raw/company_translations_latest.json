@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-08-28T16:54:22+00:00",
-  "sourceCapturedAt": "2026-08-28T16:53:44+00:00",
+  "capturedAt": "2026-09-16T09:31:58+00:00",
+  "sourceCapturedAt": "2026-09-16T09:28:24+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -829,12 +829,47 @@
       "sourceText": "RePORT ⟩ RePORTER",
       "sourceUses": [
         {
+          "companyId": "candidate-accuhealth-technologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-acebio",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-alcamena-stem-cell-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-aldatu-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-alveolus-bio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-amplified-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-andson-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-anekabio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-aquinnah-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -849,6 +884,36 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-astrocyte-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-athna-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-atsena-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-auxilium-biotechnologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-bacstitch-dna",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-biagon",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-bioprovar",
           "sourceRole": "official",
           "field": "business_summary"
@@ -859,7 +924,37 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-blacksmith-medicines",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-boston-interactome",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-brightspec",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cambridge-medical-technologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cfd-research",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cmtx-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cobio-diagnostics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -869,7 +964,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-corami-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-corvion",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cryocrate",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cytocybernetics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cytorum",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -884,12 +999,77 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-dnali-data-technologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ecogenome",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-eldec-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-electronic-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-embiosys",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-energybiocode",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-everest-biolabs",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-evrys-bio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-faknostics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-fimbrion-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-fzata",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-gamma-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-gapscore",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ge-medical-systems-information-technologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-gentibio",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -900,6 +1080,11 @@
         },
         {
           "companyId": "candidate-greenstone-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-halcyon-biomedical",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -924,7 +1109,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-hydrogene-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-hydronovo",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ihealthscreen",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-ikaika-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-indoor-biotechnologies",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -934,7 +1139,32 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-inlighta-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-innotech-precision-medicine",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-integral-molecular",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-isoprene-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-iveena-delivery-systems",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-jaan-biotherapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -944,7 +1174,17 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-kephera-diagnostics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-keylicon-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-koi-biotherapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -954,7 +1194,32 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-kubanda-cryotherapy",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-lagrange-scientific",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-leaflabs",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-leden",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-lighthouse-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-lila-biologics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -969,6 +1234,26 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-luminary-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-mabswitch",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-magnetic-tides",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-merlin-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-merlin-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
@@ -979,12 +1264,37 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-mirecule",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-mitegen",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-molecular-intelligence",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-molecular-targeting-technologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-monod-bio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-montani-biotechnologies",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-mucommune",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1004,7 +1314,22 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-new-health-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-new-york-r-and-d-ctr-translational-med-ther",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-newomics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-nuvox-pharma",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1020,6 +1345,31 @@
         },
         {
           "companyId": "candidate-objective-biotechnology",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-olfax",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-oncosting",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-onvagus",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-oralbiolife",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-orlucent",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1044,7 +1394,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-partillion-bioscience",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-paulex-bio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-pavaj-vascular",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-peak-diagnostic-partners",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-perzeption",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1074,7 +1444,22 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-proda-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-psychogenics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-qentoros",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-quantum-simulation-technologies",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1089,12 +1474,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-rallidae-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-reelin-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
           "companyId": "candidate-regenerative-medical-solutions",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-rehabtek",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-repeat-rna-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1119,12 +1519,57 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-saros-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-scarab-genomics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-selsym-biotech",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-ship-of-theseus",
           "sourceRole": "official",
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-shy-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-signablok",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-silphion-life-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-sinopia-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-spirify-pharma",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-spring-mill-pharma",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-stemsynergy-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1144,7 +1589,17 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-tango-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-taxis-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-tex-immunetics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1159,6 +1614,21 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-tissuerate",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-trace-biosciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-trampoline-pharma",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-translucence-biosystems",
           "sourceRole": "official",
           "field": "business_summary"
@@ -1169,7 +1639,27 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-vasarya-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-vecgen",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-veramorph",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-verisim-life",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-vincere-biosciences",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -1190,6 +1680,11 @@
         },
         {
           "companyId": "candidate-xtop-biotherapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-xylyx-bio",
           "sourceRole": "official",
           "field": "business_summary"
         }
@@ -2096,6 +2591,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-adlai-nortye-group",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-adma-biologics",
           "sourceRole": "official",
           "field": "business_summary"
@@ -2641,6 +3141,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-biomolecular-life-holdings",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-biomx",
           "sourceRole": "official",
           "field": "business_summary"
@@ -2977,6 +3482,11 @@
         },
         {
           "companyId": "candidate-eikon-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-electra-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -4010,6 +4520,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_07705d72cf2daf00006a7ab54ea23c819285ca40e498d8a4b8"
+    },
+    {
+      "id": "translation-e3baa1145dd3f973",
+      "sourceTextHash": "e3baa1145dd3f9737d379394746d621489770ed5749b4126eb60286dda194590",
+      "sourceText": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
+      "sourceUses": [
+        {
+          "companyId": "beone-medicines",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-09-16T09:31:58+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_0b16634062f22609006aaa620f178487d299dec747eafe403f"
     },
     {
       "id": "translation-e83b3b3aaf8efdf8",
