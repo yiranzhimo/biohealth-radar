@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-16T11:43:53.317454+00:00",
+  "capturedAt": "2026-09-16T17:05:04.313467+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,87 @@
     "end": "2026-09-16"
   },
   "pmids": [
+    "42746530",
+    "42746376",
+    "42746190",
     "42745783",
     "42744973",
     "42744928",
-    "42744697",
-    "42744681",
-    "42743997",
     "42745547",
     "42741841",
     "42717098",
     "42715312",
     "42699656",
     "42696754",
+    "42747196",
     "42745879",
     "42745166",
     "42744200",
     "42743923",
     "42736684",
-    "42735594",
+    "42746379",
+    "42746352",
+    "42746192",
     "42745504",
     "42743769",
-    "42742054",
-    "42741774",
-    "42741648",
-    "42739239"
+    "42742054"
   ],
   "records": [
+    {
+      "pmid": "42746530",
+      "title": "Synthetic PEG-4MAL Hydrogels Support Patient-Derived Human Intestinal Enteroid Culture.",
+      "abstract": "Patient-derived intestinal enteroids are valuable models for studying gastrointestinal physiology and disease, but their dependence on Matrigel™ limits reproducibility and clinical translation. Here, we developed a fully synthetic poly(ethylene glycol)-4-maleimide (PEG-4MAL) hydrogel platform to support human intestinal enteroid culture. Guided by enteroid transcriptomics revealing high expression of α2β1 integrin and matrix metalloproteinases, we systematically evaluated collagen-mimetic GFOGER and fibronectin-derived RGD (Arg-Gly-Asp) peptides combined with four MMP-sensitive crosslinkers. GFOGER-functionalized hydrogels significantly outperformed RGD formulations across all metrics. The optimized PEG-4MAL-GFOGER formulation demonstrated enteroid formation efficiency and viability approaching Matrigel™ performance. Bulk RNA-sequencing across multiple patient-derived lines demonstrated transcriptomic similarity between synthetic and Matrigel™ hydrogels, with preservation of stem cell, differentiation, and regional identity markers. This rationally designed synthetic platform overcomes key limitations of biological matrices while supporting robust enteroid growth and functionality comparable to standard biological matrices.",
+      "journal": "Cell biomaterials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA, 30332, USA.",
+        "Parker H. Petit Institute for Bioengineering and Biosciences, Georgia Institute of Technology, Atlanta, GA, 30332, USA.",
+        "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology, Atlanta, GA, 30332, USA.",
+        "Division of Gastroenterology, Hepatology, and Nutrition, Department of Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA.",
+        "University of Pennsylvania Perelman School of Medicine, Philadelphia, PA; University of Pennsylvania Institute for Regenerative Medicine; Philadelphia, PA, 19104, USA.",
+        "Lead Contact."
+      ],
+      "doi": "10.1016/j.celbio.2026.100515",
+      "date": "2026-07-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746530/"
+    },
+    {
+      "pmid": "42746376",
+      "title": "Extracellular vesicles mediate immune regulation in acute kidney injury.",
+      "abstract": "Acute kidney injury (AKI) arises from diverse insults that trigger distinct immune responses, and an integrative framework for intercellular communication is now emerging. Extracellular vesicles (EVs), membrane-enclosed particles carrying proteins, microRNAs, lipids, and metabolites, mediate crosstalk between renal parenchymal cells and immune effectors to shape inflammation and repair. This review examines three dimensions of EV biology in AKI. This review examines three dimensions of EV biology in AKI, applying the term 'EV' throughout in accordance with MISEV2023 guidance unless the cited primary study has experimentally established subtype origin. First, we outline the molecular basis of EV-mediated immune signaling by contrasting vesicular communication with soluble cytokine and cell-contact pathways, highlighting cargo stability, tissue tropism, and multi-signal integration as distinguishing features. Second, we describe how EV composition shifts after injury: tubular epithelial cells, podocytes, and endothelial vesicles become enriched in damage-associated patterns and pro-inflammatory microRNAs, whereas immune cell-derived EVs propagate or resolve inflammation depending on polarization and disease phase. Third, we compare vesicular signaling across four AKI etiologies (allograft rejection, sepsis, nephrotoxicity, and ischemia-reperfusion), noting that EV cargo, cellular origin, and immune targets differ markedly by insult type and evolve through early, peak, and reparative phases. Advances in single-vesicle proteomics, intravital imaging, and kidney organoid systems now enable functional dissection of EV heterogeneity at unprecedented resolution. Key gaps remain: the limited mechanistic definition of dendritic cell- and T cell-derived EVs in non-transplant settings, the underdeveloped vesicular framework for renal ischemia-reperfusion, and the absence of standardized clinical assays. Addressing these limitations is essential for translating mechanistic insights into etiology-stratified diagnostics and stage-matched immunomodulatory interventions.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Nephrology, Zhongda Hospital, Jiangsu Provincial Key Laboratory of Renal Injury and Repair, Southeast University School of Medicine, Nanjing, Jiangsu, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1952566",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746376/"
+    },
+    {
+      "pmid": "42746190",
+      "title": "Human organoids and organ-on-chip systems for AI-guided therapeutic discovery against emerging and re-emerging infections.",
+      "abstract": "Emerging and re-emerging infections expose a persistent mismatch between the speed of pathogen evolution and the pace of therapeutic development. Conventional two-dimensional cultures are scalable but poorly reproduce tissue architecture, whereas animal models may not capture human-specific tropism, immunity, pharmacokinetics, or toxicity. Human organoids and organ-on-chip systems offer complementary solutions by combining organ-specific human cells with three-dimensional architecture, barrier function, perfusion, mechanical forces, and, increasingly, immune and microbial components. This review evaluates their use in antiviral, antibacterial, antiparasitic, and antifungal pharmacology, with emphasis on drug repurposing, host-directed therapy, RNA and nanomedicine approaches, pharmacokinetic-pharmacodynamic assessment, and tissue-specific safety. We further examine how artificial intelligence, high-content imaging, multi-omics, and computational screening can convert these models into iterative discovery platforms that prioritize targets, compounds, combinations, and biomarkers. Current limitations include incomplete immune and vascular complexity, developmental immaturity, matrix and protocol variability, high cost, biosafety constraints, and limited prospective clinical validation. We propose a pandemic-ready pipeline in which pathogen sequencing and AI-based prioritization are followed by organoid and chip validation, mechanistic omics, multi-organ exposure and toxicity testing, and biomarker-guided clinical translation. Used as complementary rather than universal replacement models, these technologies could reduce false-positive leads, improve dose relevance, and accelerate development of therapeutics that control pathogens while preserving human tissue function.",
+      "journal": "Frontiers in pharmacology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, Division of Hematology and Oncology, University of Michigan, Ann Arbor, MI, United States.",
+        "Rogel Cancer Center, University of Michigan, Ann Arbor, MI, United States.",
+        "Department of Oncology, Affiliated Hospital of Integrated Traditional Chinese and Western Medicine, Nanjing University of Chinese Medicine, Nanjing, Jiangsu, China.",
+        "Department of Oncology, Jiangsu Province Academy of Traditional Chinese Medicine, Nanjing, Jiangsu, China."
+      ],
+      "doi": "10.3389/fphar.2026.1927806",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746190/"
+    },
     {
       "pmid": "42745783",
       "title": "Organoid transplantation in the adult endometrium restores fertility and uncovers epithelial lineage plasticity.",
@@ -94,61 +149,6 @@
       "doi": "10.1038/s41596-026-01432-z",
       "date": "2026-09-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744928/"
-    },
-    {
-      "pmid": "42744697",
-      "title": "hPSC models in cancer mechanisms and therapeutic discovery.",
-      "abstract": "Despite major advances in cancer genomics and immunotherapy, the field remains limited by experimental models that fail to faithfully recapitulate human tumor initiation, genetic context, and immune-tumor interactions. Traditional animal and immortalized cell models often lack predictive power for therapeutic response and toxicity. Recent advances in human pluripotent stem cell (hPSC) technology have transformed this landscape, enabling the generation of patient-specific cancer models, multicellular organoids and assembloids, and scalable immune effector cells. These platforms now permit mechanistic dissection of tumorigenesis, reconstruction of human tumor microenvironments, and development of off-the-shelf immunotherapies. This review will synthesize these emerging findings, define key technological and biological gaps, and outline future directions for integrating hPSC-based modeling into precision oncology and translational cancer research.",
-      "journal": "Trends in molecular medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Integrative Biology & Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX 77030, USA.",
-        "The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX 77030, USA; Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.",
-        "Department of Integrative Biology & Pharmacology, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX 77030, USA; Center for Precision Health, McWilliams School of Biomedical Informatics, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA. Electronic address: dung-fang.lee@uth.tmc.edu."
-      ],
-      "doi": "10.1016/j.molmed.2026.08.002",
-      "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744697/"
-    },
-    {
-      "pmid": "42744681",
-      "title": "Cross-target and cell-preferential CRISPR-Cas9 inhibition with carbohydrate-tagged oligonucleotides.",
-      "abstract": "Precise control of clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated protein 9 (Cas9) activity is important for limiting off-target effects and chromosomal rearrangements. Existing inhibitors, including anti-CRISPR proteins and spacer-targeting oligonucleotides, can be constrained by immunogenicity, target-sequence dependence, or delivery challenges. Here, we developed single-stranded DNA oligonucleotides that target conserved regions of the Streptococcus pyogenes Cas9 single-guide RNA (sgRNA) scaffold rather than the variable spacer. Screening identified single-stranded DNA 7 (ssDNA7), which targets stem-loop-1 and the adjacent linker and inhibits Cas9 activity across multiple tested spacer sequences and genomic loci without redesigning the inhibitor. Carbohydrate conjugation improved oligonucleotide stability and preferentially enhanced inhibitory activity in selected liver-derived or cancer cell models. Amplicon sequencing confirmed inhibition of endogenous editing in multiple cell models and normal liver-derived organoids, and supported cell-preferential inhibition in matched cell comparisons. These findings establish sgRNA-scaffold targeting as a strategy for cross-target inhibition of Cas9 and show that carbohydrate conjugation can tune its cellular activity.",
-      "journal": "Trends in biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China.",
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China.",
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai 201210, China.",
-        "School of Biotechnology and Key Laboratory of Industrial Biotechnology Ministry of Education, Jiangnan University, Wuxi 214122, China.",
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 211166, China; Jiangsu Key Laboratory for Peptide Biosynthesis, Nanjing Normal University, Nanjing 211166, China. Electronic address: zhangxing@njnu.edu.cn."
-      ],
-      "doi": "10.1016/j.tibtech.2026.08.014",
-      "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744681/"
-    },
-    {
-      "pmid": "42743997",
-      "title": "A high-density microelectrode array integrated microfluidic platform for quantitative investigation of functional connectivity in interconnected human dopaminergic neurospheroids.",
-      "abstract": "The quantitative investigation of functional connectivity across spatially organized neuronal networks remains a major challenge in human three-dimensional (3D) in vitro models. Although neurospheroids, brain organoids, and microfluidic systems enable controlled structural organization and guided neurite growth, their integration with high-resolution electrophysiological interfaces remains limited, often requiring post hoc adaptations that compromise recording stability and long-term reproducibility. Here, we present a polydimethylsiloxane (PDMS) microfluidic platform natively engineered for seamless integration with high-density microelectrode arrays (HD-MEAs), enabling the controlled interconnection and long-term electrophysiological interrogation of human neurospheroids within a defined geometry. The platform supports reproducible axonal growth between spatially separated spheroids while preserving full compatibility with HD-MEA recording requirements and electrical stability. Structural characterization revealed the formation of a stable inter-spheroid axonal fascicle enriched in neuronal and synapse-associated markers, supported by ultrastructural analyses across multiple spatial scales. Long-term electrophysiological recordings revealed progressive electrophysiological maturation-associated changes, characterized by increased mean firing rate, sustained and spatially confined neuronal activity within each spheroid, and changes in burst dynamics. Quantitative cross-correlation analysis identified lag-consistent interaction patterns compatible with both local (intra-spheroid) and long-range (inter-spheroid) putative functional connectivity, enabling the distinction between local and distributed network dynamics within the modular system. By combining controlled 3D architecture, stable HD-MEA integration, and quantitative electrophysiological readouts, this platform establishes a robust, reproducible and human-relevant framework for investigating activity patterns compatible with functional connectivity dynamics in interconnected neuronal assemblies, with potential applications in disease modeling and connectopathies-related studies.",
-      "journal": "Biofabrication",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Advanced Biomaterials for Healthcare@CRIB, Istituto Italiano di Tecnologia Center for Advanced Biomaterials for Healthcare, largo bersanti e matteucci 53, napoli, Naples, Campania, 80125, Italy.",
-        "Italian Institute of Technology Center for Advanced Biomaterials for Healthcare, Largo Barsanti e Matteucci 53, Napoli, Italia, Napoli, 80125, Italy.",
-        "Center for Advanced Biomaterials for healthcare, Istituto Italiano di Tecnologia, largo bersanti e matteucci 53, napoli, Naples, Italy, 80125, Italy.",
-        "Interdisciplinary Reseacrh Centre on Biomaterials, University of Naples Federico II Faculty of Engineering, Piazz.le Tecchio, Napoli, Campania, 80125, Italy."
-      ],
-      "doi": "10.1088/1758-5090/aea7de",
-      "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743997/"
     },
     {
       "pmid": "42745547",
@@ -293,6 +293,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42696754/"
     },
     {
+      "pmid": "42747196",
+      "title": "Genomic prospecting and biochemical characterization of a novel thermostable 3-quinuclidinone reductase from hot spring metagenomes for efficient biocatalysis.",
+      "abstract": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was heterologously expressed in Escherichia coli, and its catalytic properties were systematically characterized. The enzyme demonstrates exceptional thermal stability, retaining 86% of its activity after 48 hours at 70°C. Furthermore, K+ and Mg²+ ions significantly enhanced ScQR's activity at specific concentrations. Structural analysis revealed that ScQR adopts a typical SDR fold with a conserved catalytic triad (S141-Y155-K159), and it is NAD(H) dependent. Enzyme assays indicated that ScQR is highly stereoselective for (R)-3-quinuclidinol, with no activity against its enantiomer, (S)-3-quinuclidinol. The enzyme exhibits optimal activity at pH 9 and 85°C, making it a promising candidate for industrial applications requiring high thermal stability. Molecular dynamics simulations further revealed that ScQR preserves global structural integrity up to 360 K, whereas higher temperatures induce destabilization, predominantly in the C-terminal region and residues 95-100. In addition, structure-guided computational design enabled by LigandMPNN and UniKP yielded three ScQR variants with improved substrate affinity and catalytic efficiency while maintaining the overall fold and function. This work underscores the power of metagenomics with structure-driven protein design in discovering novel enzymes with unique catalytic properties from extreme environments and establishes ScQR as a promising biocatalyst for biotechnological and pharmaceutical applications.IMPORTANCEThis study reports the discovery of ScQR, a novel thermophilic 3-quinuclidinone reductase identified via metagenomic mining. ScQR represents one of the most heat-resistant members of the SDR superfamily discovered to date, maintaining 86% activity after 48 hours at 70°C. These findings establish ScQR as a robust biocatalyst for high-temperature pharmaceutical applications and demonstrate a scalable workflow for optimizing enzymes from extreme environments, offering significant value to the fields of biocatalysis and protein engineering.",
+      "journal": "Applied and environmental microbiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China.",
+        "School of Information Science and Engineering, University of Jinan, Jinan, China.",
+        "Shandong Key Laboratory of Ubiquitous Intelligent Computing, University of Jinan, Jinan, China.",
+        "School of Medicine, South China University of Technology, Guangzhou, China."
+      ],
+      "doi": "10.1128/aem.01490-26",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747196/"
+    },
+    {
       "pmid": "42745879",
       "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
       "abstract": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capability to independently conduct downstream evaluation and optimize workflows. Meanwhile, directly applying large language models (LLMs) to molecular design faces challenges such as fragmented execution, limited tool coordination, and insufficient traceability of intermediate decision-making processes. To address these limitations, we propose a Drug Discovery Agent (DDA), a traceable and auditable multi-agent biomedical informatics framework for automating SBDD. DDA uses a role-specific multi-agent architecture to transform natural-language drug-discovery goals into actionable scientific workflows. Through a unified tool-calling protocol, this framework seamlessly integrates bioinformatics, molecular modeling, and molecular docking modules, enabling autonomous workflow execution from target preparation and molecular generation to multi-objective evaluation, candidate prioritization, and trajectory tracking. We systematically evaluated DDA on the CrossDocked2020 benchmark. Under the closed-loop delivery protocol, the framework produced 2,000 final candidate records, with a joint screen-pass rate 20 percentage points higher than that of the strongest specialized baseline. These results indicate that DDA provides a scalable, executable, and traceable computational framework that reduces manual coordination in structure-based automated drug discovery and delivers prioritized candidate sets with minimal human intervention.",
@@ -382,21 +400,54 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42736684/"
     },
     {
-      "pmid": "42735594",
-      "title": "Programmable crosslinking strategies for the rational design of engineered protein hydrogels.",
-      "abstract": "Protein-based hydrogels have emerged as a versatile class of biomaterials that combine the intrinsic biological functionality of proteins with the structural adaptability of hydrated three-dimensional networks. Their biocompatibility, bioactivity, and extracellular matrix-mimetic characteristics have attracted significant interest in tissue engineering, regenerative medicine, and drug delivery. Advances in protein engineering, synthetic biology, supramolecular chemistry, and biomolecular conjugation have enabled precise control over protein structure, intermolecular interactions, and network organization, transforming proteins into highly programmable building blocks for multifunctional hydrogel systems. This review summarizes the design principles of engineered protein hydrogels, emphasizing the roles of structural motifs, bioactive domains, and stimuli-responsive elements in regulating hydrogel assembly and functionality. Recent developments in physical and chemical crosslinking strategies are highlighted, together with their impacts on network architecture, mechanical performance, degradation behavior, and stimulus responsiveness. Particular attention is given to structure-property-function relationships linking protein design and assembly to hydrogel performance. These advances have facilitated the development of protein hydrogels for tissue regeneration, wound healing, therapeutic delivery, three-dimensional cell culture, and biofabrication, underscoring their promise as next-generation biomaterials.",
-      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "pmid": "42746379",
+      "title": "Circulating tumor DNA for minimal residual disease and recurrence surveillance in hepatocellular carcinoma: current evidence and a translational roadmap.",
+      "abstract": "Recurrence remains a major cause of failure after curative-intent therapy for hepatocellular carcinoma (HCC), including resection, ablation, and liver transplantation. Current surveillance relies on imaging and serum biomarkers, but radiologic relapse may lag behind biological recurrence. This gap has focused attention on circulating tumor DNA (ctDNA) and related cell-free DNA (cfDNA) approaches as candidate tools for minimal residual disease (MRD) assessment and molecular surveillance. In HCC, however, recurrence is biologically heterogeneous. Post-treatment relapse may arise from residual malignant clones, occult intrahepatic spread, or de novo hepatocarcinogenesis in a chronically injured liver. This complexity shapes assay selection, result interpretation, and the need for multimodal risk assessment. Tumor-informed ctDNA assays are best suited to tracking residual clonal disease, whereas methylation-based and composite cfDNA approaches may also capture low-shedding disease and recurrence-prone liver-field biology. Available studies suggest that postoperative ctDNA positivity, persistent serial positivity, rising molecular burden, and selected high-risk methylation signals are associated with recurrence risk after curative-intent therapy. Yet the evidence base is uneven across treatment settings and assay classes, laboratory methods are not yet standardized, and binary detectable-versus-undetectable reporting is rarely sufficient for clinical interpretation. The central translational question is therefore how ctDNA/cfDNA information should be used in realistic HCC surveillance pathways. Current evidence supports these assays as adjunctive molecular risk signals, not as standalone treatment triggers. This review synthesizes the evidence, compares assay strategies, outlines multimodal implementation barriers including standardization and cost, and proposes a cautious roadmap for ctDNA-guided recurrence surveillance in HCC.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "School of Pharmacy, Jiangsu University, Zhenjiang, 212013, PR China.",
-        "School of Pharmacy, Jiangsu University, Zhenjiang, 212013, PR China. Electronic address: shengwangzhou@ujs.edu.cn."
+        "Department of Hepatobiliary and Pancreatic Surgery, Ward I, Jingmen Central Hospital, Jingmen Central Hospital Affiliated to Jingchu University of Technology, Jingmen, Hubei, China."
       ],
-      "doi": "10.1016/j.colsurfb.2026.116165",
-      "date": "2026-09-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42735594/"
+      "doi": "10.3389/fonc.2026.1920559",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746379/"
+    },
+    {
+      "pmid": "42746352",
+      "title": "Epilepsy: Bridging Epidemiological Landscapes, Molecular Mechanisms, and Emerging Precision Therapeutics.",
+      "abstract": "Epilepsy ranks among the most prevalent neurological disorders worldwide, and recent years have witnessed significant advancements in understanding its epidemiological features, pathophysiological mechanisms, diagnostic methodologies, and therapeutic approaches. This review systematically examines the epidemiology of epilepsy, highlighting pronounced regional and population-based disparities, particularly the substantial treatment gap observed in low-income countries. Regarding pathogenesis, epilepsy development involves aberrant ion channel function, neuroinflammatory processes, dysregulation of the mTOR signaling pathway, and genetic predispositions. Diagnostic innovations, including ultra-high field magnetic resonance imaging, artificial intelligence-enhanced electroencephalogram analysis, and liquid biopsy techniques, have markedly enhanced the precision of epileptogenic focus localization and etiological identification. Genetic investigations have uncovered numerous epilepsy-associated genes, thereby underpinning the advancement of targeted therapies. Therapeutically, novel antiepileptic drugs, neuromodulation modalities such as vagus nerve stimulation and deep brain stimulation, alongside gene therapy, have expanded treatment options for refractory epilepsy. Nonetheless, global epilepsy management continues to confront challenges including limited drug accessibility, social stigma, and pharmacoresistance. The future trajectory emphasizes individualized and precision medicine approaches, integrating genomics, biomarker discovery, and intelligent monitoring technologies to foster comprehensive improvements in epilepsy diagnosis and treatment.",
+      "journal": "Neuropsychiatric disease and treatment",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The Center of Brain Disease Department, Chongqing Jiangjin District Traditional Chinese Medicine Hospital, Chongqing, 402260, People's Republic of China.",
+        "College of Traditional Chinese Medicine, Tianjin University of Traditional Chinese Medicine, Tianjin, 301600, People's Republic of China."
+      ],
+      "doi": "10.2147/NDT.S629134",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746352/"
+    },
+    {
+      "pmid": "42746192",
+      "title": "Agentic artificial intelligence in radiology workflow: from image interpretation to report quality control.",
+      "abstract": "Radiology AI has grown past the single-purpose detector. The newest systems, built around large language models (LLMs), chain together the steps a radiologist actually works through: triaging the worklist, retrieving prior imaging studies, processing images, drafting a structured report, checking for mistakes. When these modules are coordinated through an orchestration layer, they form a multi-agent system capable of managing multiple stages of the radiology workflow-software that handles stretches of the radiology pipeline with less human input at each stage. This review maps the evidence behind that shift, drawing on PubMed-indexed studies from 2023 to 2026. We begin with convolutional neural networks and foundation models, then follow the emergence of AI agents that observe, plan, and act inside clinical environments. We examine multi-agent architectures-specialized agents for image analysis, report drafting, error detection, and decision support-and ask what they actually deliver. So far, the data tell a consistent story: multi-agent cross-verification drives hallucination rates down; intelligent worklist triage cuts report turnaround time by up to 43.7% in some settings; GPT-4 catches 82.7% of report errors, matching human readers. But nearly all of this evidence comes from single-center, retrospective studies on curated data. Every systematic review reaches the same conclusion: the technology works in the lab and has not been proven in the clinic. We also discuss compound opacity-how layered agent interactions make decisions harder to trace-alongside poor reporting standards and a regulatory framework that was not designed for generative, continuously-adaptive software. Agentic AI, including multi-agent architectures, could reshape how radiology departments operate, but the field needs prospective, multi-center trials with standardized endpoints before claiming it already has.",
+      "journal": "Frontiers in medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiology, The Third People's Hospital of Yunnan Province, Kunming, China.",
+        "Department of Plastic Surgery, The Second Affiliated Hospital of Kunming Medical University, Kunming, China."
+      ],
+      "doi": "10.3389/fmed.2026.1927284",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746192/"
     },
     {
       "pmid": "42745504",
@@ -459,62 +510,6 @@
       "doi": "10.1021/acsbiomaterials.6c00849",
       "date": "2026-09-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42742054/"
-    },
-    {
-      "pmid": "42741774",
-      "title": "DNA damage repair gene defects combined predict the efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: a retrospective cohort study.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) yield heterogeneous benefit in metastatic castration-resistant prostate cancer (mCRPC), underscoring the unmet need for robust predictive biomarkers. DNA damage repair (DDR) gene defects encompass mechanistically distinct subtypes-homologous recombination repair (HRR) deficiency, mismatch repair deficiency/microsatellite instability-high (MMRd/MSI-H), and CDK12 inactivation-that may differentially modulate anti-tumor immunity. This study evaluated the combined predictive value of DDR mutation profiles, tumor mutational burden (TMB), and PD-L1 expression for ICI efficacy in mCRPC. In this single-center retrospective cohort study conducted at PKUCare CNOOC Hospital (Tianjin, China), 152 patients with mCRPC who received ICI-containing therapy following ≥2 prior lines of systemic treatment were enrolled (January 2018-December 2023). Of these, 127 (83.6%) underwent tissue-based profiling with a validated 520-gene targeted NGS panel, and 25 (16.4%) were profiled by a validated 168-gene liquid biopsy panel. Patients were classified into four DDR subgroups: HRR-deficient, MMRd/MSI-H, CDK12-mutant, and DDR wild-type. Primary endpoints were objective response rate (ORR) and progression-free survival (PFS). Secondary endpoints included overall survival (OS), disease control rate (DCR), and prostate-specific antigen (PSA) response. Kaplan-Meier analysis, multivariate Cox regression, and ROC analysis were performed. Among 152 patients, 101 (66.4%) harbored DDR alterations: 58 HRR-deficient (38.2%), 24 MMRd/MSI-H (15.8%), and 19 CDK12-mutant (12.5%). ORR was highest in MMRd/MSI-H (50.0%), followed by CDK12-mutant (26.3%), HRR-deficient (22.4%), and DDR wild-type (9.8%; p < 0.001). Median PFS was significantly longer across all DDR-mutant groups versus DDR wild-type (MMRd/MSI-H: 8.1 months; HR 0.31, 95% CI 0.18-0.53; p < 0.001). On multivariate analysis, DDR mutation subtype, TMB ≥10 mut/Mb, and liver metastasis were independent predictors of PFS. A composite biomarker integrating DDR status, TMB, and PD-L1 achieved the highest predictive accuracy (AUC 0.83, 95% CI 0.75-0.91). irAE rates did not differ significantly across subgroups (p = 0.614). DDR gene mutation profiling, integrated with TMB and PD-L1 expression, provides clinically actionable stratification of mCRPC patients for ICI therapy. A composite DDR/TMB/PD-L1 biomarker panel warrants prospective validation in dedicated clinical trials.",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Urology, PKUCare CNOOC Hospital, Tianjin, China.",
-        "Department of Urology, Ezhou Central Hospital, Ezhou City, Hubei, China.",
-        "Department of Urology, Huai'an People's Hospital of Hongze District, Huai'an City, Jiangsu, China."
-      ],
-      "doi": "10.3389/fgene.2026.1933643",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741774/"
-    },
-    {
-      "pmid": "42741648",
-      "title": "Liquid Biopsy and Nonendoscopic Biomarkers for Precision Early Detection of Esophageal Cancer: Evidence, Risk Stratification and Translational Challenges.",
-      "abstract": "Esophageal cancer remains one of the most lethal malignancies worldwide, largely because most tumors are detected after symptoms develop. Esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EAC) differ in epidemiology, precursor lesions and molecular biology, and therefore require subtype-specific early-detection pathways. This narrative critical review used a structured PubMed/MEDLINE search and classifies evidence by intended use: population risk triage for ESCC in high-incidence regions; targeted case finding for previously undiagnosed Barrett esophagus; surveillance and progression prediction in established Barrett esophagus; diagnostic evaluation of symptomatic or referred patients; and multicancer early-detection studies as indirect contextual evidence. We evaluate nonendoscopic cell-collection devices, cfDNA methylation and fragmentomics, mutation-based circulating tumor DNA assays, circulating RNA and extracellular vesicles, autoantibodies, metabolomic and microbiome signals, and clinical risk models. Although many clinically diagnosed or case-control series report high AUROC values, such estimates often overstate performance in asymptomatic populations, where low prevalence sharply limits positive predictive value. The most credible near-term role is calibrated, risk-stratified triage that concentrates endoscopy on individuals most likely to harbor early cancer or high-grade precursors. Increased detection yield, favorable modeling and implementation feasibility are not equivalent to clinical utility; utility requires evidence that biomarker-guided care improves meaningful outcomes at acceptable cost and harm. Integrated multiomic testing remains a proposed future strategy rather than a prospectively validated esophageal-cancer screening platform.",
-      "journal": "Journal of Cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The Second Clinical Medical College of Henan University of Chinese Medicine, Zhengzhou, Henan, China.",
-        "Henan Cancer Hospital, Zhengzhou, Henan, China."
-      ],
-      "doi": "10.7150/jca.140909",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741648/"
-    },
-    {
-      "pmid": "42739239",
-      "title": "Urinary Biomarkers in Urological Oncology: From Biological Origin to Clinical Decision-Making-A Narrative Review.",
-      "abstract": "Urinary biomarkers are promising tools in urological oncology because urine can be collected non-invasively and repeatedly during diagnosis, treatment, and surveillance. Despite extensive biomarker discovery, their adoption in routine practice remains limited. Biomarker performance depends not only on analytical accuracy but also on the clinical decision, anatomical route into urine, biological source of the signal, specimen fraction, and timing and conditions of sampling. This review evaluates urinary biomarkers across bladder cancer, upper-tract urothelial carcinoma, prostate cancer, and renal cell carcinoma using a biologically grounded, decision-oriented framework. It considers tumor-derived nucleic acids, epigenetic alterations, proteins, immune and inflammatory mediators, extracellular vesicles, metabolites, microbiome-associated signals, and multiparametric models. Bladder cancer represents the most anatomically direct and clinically mature setting, with potential applications in hematuria evaluation, cystoscopy triage, recurrence surveillance, molecular residual disease assessment, and monitoring of response to bacillus Calmette-Guérin therapy. In upper-tract urothelial carcinoma, distinguishing voided from selectively collected urine is essential because dilution, transit, obstruction, and limited localization affect interpretation. Prostate urine assays are best positioned for biopsy triage and refinement of active surveillance rather than general population screening. Renal cell carcinoma biomarkers remain exploratory because the sources and mechanisms of urinary signal release are insufficiently resolved. Clinical translation should be assessed using decision-specific outcomes, including incremental value, calibration, net clinical benefit, procedures avoided, significant cancers missed, reproducibility, and feasibility, rather than diagnostic accuracy or area under the receiver operating characteristic curve alone.",
-      "journal": "Diagnostics (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "General Immunology Department, Asfendiyarov Kazakh National Medical University, Almaty 050054, Kazakhstan.",
-        "Department of Public Health and Healthcare, South Kazakhstan Medical Academy, Shymkent 160019, Kazakhstan.",
-        "Urooncology Center, Kazakh Institute of Oncology and Radiology, Almaty 050022, Kazakhstan.",
-        "Department of General Medical Practice No. 2, Asfendiyarov Kazakh National Medical University, Almaty 050054, Kazakhstan.",
-        "Department of Clinical Disciplines, University of International Business Named After Kenzhegali Sagadiev, Almaty 050010, Kazakhstan.",
-        "Shenzhen University Medical School, Shenzhen University, Shenzhen 518037, China.",
-        "Department of Science, \"University Medical Center\" Corporate Fund, Astana 010000, Kazakhstan."
-      ],
-      "doi": "10.3390/diagnostics16172810",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739239/"
     }
   ],
   "signals": [
@@ -545,6 +540,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42747196",
+      "date": "2026-09-16",
+      "title": "Genomic prospecting and biochemical characterization of a novel thermostable 3-quinuclidinone reductase from hot spring metagenomes for efficient biocatalysis.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747196/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42747196。",
+      "report": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42744928",
       "date": "2026-09-15",
       "title": "Quantitative imaging of dynamic processes in intestinal organoids.",
@@ -571,98 +595,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42744928。",
       "report": "Organoids are powerful models for studying tissue dynamics across multiple cellular generations and offer key insights into organ homeostasis, cellular differentiation and disease. Live imaging of organoids is an essential tool for understanding dynamic proces...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42744697",
-      "date": "2026-09-15",
-      "title": "hPSC models in cancer mechanisms and therapeutic discovery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744697/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Trends in molecular medicine，PMID 为 42744697。",
-      "report": "Despite major advances in cancer genomics and immunotherapy, the field remains limited by experimental models that fail to faithfully recapitulate human tumor initiation, genetic context, and immune-tumor interactions. Traditional animal and immortalized cell...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42744681",
-      "date": "2026-09-15",
-      "title": "Cross-target and cell-preferential CRISPR-Cas9 inhibition with carbohydrate-tagged oligonucleotides.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42744681。",
-      "report": "Precise control of clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated protein 9 (Cas9) activity is important for limiting off-target effects and chromosomal rearrangements. Existing inhibitors, including anti-CRISPR proteins a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42743997",
-      "date": "2026-09-15",
-      "title": "A high-density microelectrode array integrated microfluidic platform for quantitative investigation of functional connectivity in interconnected human dopaminergic neurospheroids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743997/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42743997。",
-      "report": "The quantitative investigation of functional connectivity across spatially organized neuronal networks remains a major challenge in human three-dimensional (3D) in vitro models. Although neurospheroids, brain organoids, and microfluidic systems enable controll...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -854,6 +786,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42746352",
+      "date": "2026-09-11",
+      "title": "Epilepsy: Bridging Epidemiological Landscapes, Molecular Mechanisms, and Emerging Precision Therapeutics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746352/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuropsychiatric disease and treatment，PMID 为 42746352。",
+      "report": "Epilepsy ranks among the most prevalent neurological disorders worldwide, and recent years have witnessed significant advancements in understanding its epidemiological features, pathophysiological mechanisms, diagnostic methodologies, and therapeutic approache...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42736684",
       "date": "2026-09-10",
       "title": "Harnessing the Power of Large Language Models for Drug Discovery: A Systematic Review of Current Applications and Future Directions.",
@@ -961,35 +921,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42735594",
-      "date": "2026-09-08",
-      "title": "Programmable crosslinking strategies for the rational design of engineered protein hydrogels.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42735594/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42735594。",
-      "report": "Protein-based hydrogels have emerged as a versatile class of biomaterials that combine the intrinsic biological functionality of proteins with the structural adaptability of hydrated three-dimensional networks. Their biocompatibility, bioactivity, and extracel...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42741841",
       "date": "2026-09-07",
       "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
@@ -1053,35 +984,67 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42741648",
-      "date": "2026-09-03",
-      "title": "Liquid Biopsy and Nonendoscopic Biomarkers for Precision Early Detection of Esophageal Cancer: Evidence, Risk Stratification and Translational Challenges.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
+      "id": "pubmed-42746376",
+      "date": "2026-09-01",
+      "title": "Extracellular vesicles mediate immune regulation in acute kidney injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741648/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746376/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
+        "Organoids",
+        "Advanced Disease Models"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
+        "类器官",
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Cancer，PMID 为 42741648。",
-      "report": "Esophageal cancer remains one of the most lethal malignancies worldwide, largely because most tumors are detected after symptoms develop. Esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EAC) differ in epidemiology, precursor lesions an...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42746376。",
+      "report": "Acute kidney injury (AKI) arises from diverse insults that trigger distinct immune responses, and an integrative framework for intercellular communication is now emerging. Extracellular vesicles (EVs), membrane-enclosed particles carrying proteins, microRNAs,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42746190",
+      "date": "2026-09-01",
+      "title": "Human organoids and organ-on-chip systems for AI-guided therapeutic discovery against emerging and re-emerging infections.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746190/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42746190。",
+      "report": "Emerging and re-emerging infections expose a persistent mismatch between the speed of pathogen evolution and the pace of therapeutic development. Conventional two-dimensional cultures are scalable but poorly reproduce tissue architecture, whereas animal models...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1150,16 +1113,44 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42741774",
+      "id": "pubmed-42746379",
       "date": "2026-09-01",
-      "title": "DNA damage repair gene defects combined predict the efficacy of immune checkpoint inhibitors in metastatic castration-resistant prostate cancer: a retrospective cohort study.",
+      "title": "Circulating tumor DNA for minimal residual disease and recurrence surveillance in hepatocellular carcinoma: current evidence and a translational roadmap.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746379/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42746379。",
+      "report": "Recurrence remains a major cause of failure after curative-intent therapy for hepatocellular carcinoma (HCC), including resection, ablation, and liver transplantation. Current surveillance relies on imaging and serum biomarkers, but radiologic relapse may lag...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42746192",
+      "date": "2026-09-01",
+      "title": "Agentic artificial intelligence in radiology workflow: from image interpretation to report quality control.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741774/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746192/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1168,49 +1159,21 @@
         "Precision Medicine",
         "Clinical Evidence",
         "Regulatory Watch",
-        "Precision Oncology"
+        "Healthcare AI",
+        "Medical LLM"
       ],
       "tags": [
         "诊断",
         "精准医疗",
         "临床",
         "监管",
-        "肿瘤"
+        "医疗 AI",
+        "临床决策支持"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42741774。",
-      "report": "Immune checkpoint inhibitors (ICIs) yield heterogeneous benefit in metastatic castration-resistant prostate cancer (mCRPC), underscoring the unmet need for robust predictive biomarkers. DNA damage repair (DDR) gene defects encompass mechanistically distinct su...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42739239",
-      "date": "2026-09-01",
-      "title": "Urinary Biomarkers in Urological Oncology: From Biological Origin to Clinical Decision-Making-A Narrative Review.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42739239/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Diagnostics (Basel, Switzerland)，PMID 为 42739239。",
-      "report": "Urinary biomarkers are promising tools in urological oncology because urine can be collected non-invasively and repeatedly during diagnosis, treatment, and surveillance. Despite extensive biomarker discovery, their adoption in routine practice remains limited....",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42746192。",
+      "report": "Radiology AI has grown past the single-purpose detector. The newest systems, built around large language models (LLMs), chain together the steps a radiologist actually works through: triaging the worklist, retrieving prior imaging studies, processing images, d...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1279,6 +1242,34 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42699656。",
       "report": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42746530",
+      "date": "2026-07-03",
+      "title": "Synthetic PEG-4MAL Hydrogels Support Patient-Derived Human Intestinal Enteroid Culture.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746530/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell biomaterials，PMID 为 42746530。",
+      "report": "Patient-derived intestinal enteroids are valuable models for studying gastrointestinal physiology and disease, but their dependence on Matrigel™ limits reproducibility and clinical translation. Here, we developed a fully synthetic poly(ethylene glycol)-4-malei...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

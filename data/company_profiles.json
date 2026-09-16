@@ -24684,7 +24684,7 @@
     },
     {
       "companyId": "candidate-bioxcel-therapeutics",
-      "name": "BioXcel Therapeutics Inc",
+      "name": "BioXcel Therapeutics, Inc.",
       "asOfDate": "2026-09-16",
       "profileStatus": "partial",
       "identity": {
@@ -24711,12 +24711,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Pharmaceutical Preparations",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
+          "Pharmaceutical Preparations"
         ],
         "modalities": [],
         "watchTier": "Discovery"
