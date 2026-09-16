@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-15T08:43:13+00:00",
+  "capturedAt": "2026-09-16T08:37:41+00:00",
   "count": 591,
   "items": [
     {
@@ -851,6 +851,24 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-aldatu-biosciences",
+      "name": "Aldatu Biosciences, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11316507",
+      "identifiers": {
+        "nihIpf": [
+          "10036337"
+        ],
+        "uei": [
+          "N29WVC3UJCB9"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -3044,7 +3062,7 @@
     },
     {
       "companyId": "candidate-bioxcel-therapeutics",
-      "name": "BioXcel Therapeutics, Inc.",
+      "name": "BioXcel Therapeutics Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001720893",
       "identifiers": {
         "cik": [
@@ -3055,7 +3073,12 @@
         ]
       },
       "sourceTypes": [
-        "Pharmaceutical Preparations"
+        "Clinical Trials",
+        "Oncology",
+        "Pharmaceutical Preparations",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
       ],
       "status": "needs_official_domain"
     },
@@ -4979,7 +5002,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "cell therapy"
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6554,7 +6577,8 @@
       "sourceTypes": [
         "Cell Therapy",
         "RNA Therapeutics",
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7268,23 +7292,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-oncosting",
-      "name": "Oncosting LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11312959",
-      "identifiers": {
-        "nihIpf": [
-          "10057923"
-        ],
-        "uei": [
-          "DJXQC89K4S79"
-        ]
-      },
-      "sourceTypes": [
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-onvagus",
       "name": "Onvagus, Inc.",
       "marketPageUrl": "https://reporter.nih.gov/project-details/11313729",
@@ -7440,6 +7447,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Cell Therapy",
+        "cell therapy",
         "drug discovery",
         "gene therapy"
       ],
@@ -8166,8 +8174,8 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "cell therapy",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8257,8 +8265,7 @@
         "Organoids & Disease Models",
         "Precision Diagnostics",
         "biotechnology",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8675,7 +8682,7 @@
       "sourceTypes": [
         "Cell Therapy",
         "biotechnology",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
