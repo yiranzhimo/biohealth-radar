@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-09-16T08:37:12+00:00",
+  "capturedAt": "2026-09-17T08:41:15+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -516,7 +516,6 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "drug discovery",
         "gene therapy"
       ],
@@ -602,6 +601,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
+        "cell therapy",
         "drug discovery",
         "gene therapy"
       ],
@@ -659,11 +659,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
+        "cell therapy",
         "gene therapy"
       ],
       "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
+        "AI Drug Discovery",
+        "Precision Diagnostics"
       ],
       "projectSummaryExcerpt": "FAST-TRACK PHASE I and II ABSTRACT Without treatment, chronic hepatitis B virus (HBV) infection can lead to cirrhosis of the liver, hepatocellular carcinoma or liver failure. Current therapies effectively control the disease, but are rarely curative. The goal of this proposal…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11364197"
@@ -747,8 +748,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "topicHints": [
         "Cell Therapy"

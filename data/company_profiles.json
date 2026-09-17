@@ -39647,6 +39647,7 @@
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "cell therapy",
           "gene therapy"
         ],
         "modalities": [],
@@ -60540,7 +60541,6 @@
         "directions": [
           "AI Drug Discovery",
           "Cell Therapy",
-          "cell therapy",
           "drug discovery",
           "gene therapy"
         ],
@@ -66114,6 +66114,7 @@
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "cell therapy",
           "drug discovery",
           "gene therapy"
         ],
@@ -70062,8 +70063,7 @@
         "companyType": "Therapeutics",
         "directions": [
           "Cell Therapy",
-          "biotechnology",
-          "cell therapy"
+          "biotechnology"
         ],
         "modalities": [],
         "watchTier": "Discovery"

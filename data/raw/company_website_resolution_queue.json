@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-16T08:37:41+00:00",
+  "capturedAt": "2026-09-17T08:41:48+00:00",
   "count": 591,
   "items": [
     {
@@ -3062,7 +3062,7 @@
     },
     {
       "companyId": "candidate-bioxcel-therapeutics",
-      "name": "BioXcel Therapeutics Inc",
+      "name": "BioXcel Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001720893",
       "identifiers": {
         "cik": [
@@ -3073,12 +3073,7 @@
         ]
       },
       "sourceTypes": [
-        "Clinical Trials",
-        "Oncology",
-        "Pharmaceutical Preparations",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
@@ -5002,6 +4997,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
+        "cell therapy",
         "gene therapy"
       ],
       "status": "needs_official_domain"
@@ -7447,7 +7443,6 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Cell Therapy",
-        "cell therapy",
         "drug discovery",
         "gene therapy"
       ],
@@ -8174,6 +8169,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
+        "cell therapy",
         "drug discovery",
         "gene therapy"
       ],
@@ -8681,8 +8677,7 @@
       },
       "sourceTypes": [
         "Cell Therapy",
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
