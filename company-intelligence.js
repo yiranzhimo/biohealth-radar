@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 623,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 54,
+    "failedSourceCount": 51,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -20241,7 +20241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-beone-medicines-official-78b4915aaa84",
             "date": "2026-09-16",
             "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -20317,7 +20317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-beone-medicines-official-78b4915aaa84",
           "date": "2026-09-16",
           "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -39088,7 +39088,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-emulate-official-d64539df041d",
             "date": "2026-09-16",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -39130,7 +39130,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-emulate-official-d64539df041d",
           "date": "2026-09-16",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48960,7 +48960,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-e7d8f842b1c6",
             "date": "2026-09-16",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49036,7 +49036,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-e7d8f842b1c6",
           "date": "2026-09-16",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52179,7 +52179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-legend-biotech-official-d1d869ab139d",
             "date": "2026-09-16",
             "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -52257,7 +52257,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-legend-biotech-official-d1d869ab139d",
           "date": "2026-09-16",
           "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54229,7 +54229,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -54242,7 +54241,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -55260,7 +55258,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -55273,7 +55270,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -62896,7 +62892,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -62909,7 +62904,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -63415,7 +63409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-official-9d4aad28daa7",
             "date": "2026-09-16",
             "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -63493,7 +63487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-official-9d4aad28daa7",
           "date": "2026-09-16",
           "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
