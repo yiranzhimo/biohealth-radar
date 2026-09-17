@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-17T04:57:53.802389+00:00",
+  "capturedAt": "2026-09-17T11:48:30.606618+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-17"
   },
   "pmids": [
-    "42749228",
-    "42748922",
-    "42748671",
-    "42748411",
-    "42748214",
-    "42747884",
+    "42750336",
+    "42750313",
+    "42750187",
+    "42750038",
+    "42749812",
+    "42749791",
     "42749352",
     "42745547",
     "42741841",
@@ -32,130 +32,150 @@
     "42745166",
     "42744200",
     "42743923",
+    "42749910",
+    "42749887",
     "42749540",
     "42749242",
     "42747630",
-    "42747628",
-    "42747547",
-    "42746379"
+    "42747628"
   ],
   "records": [
     {
-      "pmid": "42749228",
-      "title": "Itaconic acid dissolves TFEB liquid-liquid phase separation to alleviate hyperoxia-induced bronchopulmonary dysplasia.",
-      "abstract": "Supplemental oxygen in premature neonates risks bronchopulmonary dysplasia (BPD). Although the metabolite itaconic acid (ITA) promotes transcription factor EB (TFEB) nuclear translocation to alleviate BPD, the upstream mechanism driving hyperoxia-induced TFEB sequestration remains unclear. Here, we investigated whether hyperoxia exploits liquid-liquid phase separation (LLPS) to trap cytoplasmic TFEB, and if ITA directly dissolves these pathological condensates. Using hyperoxia-induced BPD mice (85 % O2) and MLE12 cells, we analyzed TFEB LLPS via FRAP, fusion, and in vitro phase separation assays. ITA-TFEB binding was evaluated by surface plasmon resonance (SPR). Autophagic/mitophagic flux and apoptosis were assessed, and the necessity of TFEB was validated using shRNA knockdown in vivo and in 3D lung organoids. We found that hyperoxia promoted TFEB accumulation into cytoplasmic condensates with liquid-like properties, which was associated with the blockage of its nuclear import. ITA directly bound TFEB with high affinity (confirmed by SPR) and effectively disrupted these pathological condensates without altering basal expression. Consequently, ITA restored TFEB nuclear translocation, reactivated mitophagy, cleared dysfunctional mitochondria, and reduced AT2 cell apoptosis in BPD lungs. These protective effects of ITA were abolished by TFEB knockdown in vivo and in lung organoids. Collectively, our findings suggest that hyperoxia-triggered TFEB phase-separation-like behavior represents a novel biophysical mechanism of autophagic arrest in BPD. By acting as an endogenous metabolite capable of disrupting biomolecular condensates, ITA alleviates pathological TFEB condensates, restoring mitophagy and alveolar development, thereby proposing a paradigm of targeting aberrant macromolecular condensation for neonatal lung injury.",
-      "journal": "Biochemical pharmacology",
+      "pmid": "42750336",
+      "title": "Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing.",
+      "abstract": "Ageing is associated with colon epithelial barrier disruption and up-regulation of myelopoiesis in the bone marrow (BM). Alamandine (Ala) and MrgD are novel members of the renin angiotensin system (RAS). This study tested the hypothesis that Ala restores the colon epithelial barrier integrity in ageing via modulating gut-BM axis. Mice, 2-3 (Young) or 22-24 months (Old), were treated with saline or Ala by using Osmotic pumps. The intestinal permeability was evaluated using FITC-dextran. Lgr5+Olfm4+ intestinal stem cells (ISCs), Wnt3a and β-catenin were evaluated by immunohistochemistry or western blotting. Faecal microbiome was analysed by 16S rRNA sequencing. Monocyte-macrophages were characterized by flow cytometry. Caecal or serum bacterial metabolites were analysed and the caecal supernatants (CS) were tested for myelopoietic potential. MrgD was expressed in ISCs, which was decreased in the Old. Increased intestinal permeability in ageing was reversed by Ala. In the colon organoids, Ala increased Wnt3a levels and this was antagonized by NF449, SQ22536 or 666-15. Ala restored phospho-CREB and active β-catenin levels that were decreased in the Old colon-organoids. Ala increased the richness and β-diversity of the microbiota with decreased Bacillota/Bacteroidota in ageing. Ala decreased the CD80+ and increased CX3CR+ macrophages in the Old colons. Old-CS induced myelopoiesis in BM cells with higher number of pro-inflammatory macrophages, which was prevented by Ala treatment. Targeting Ala/MrgD pathway is a promising approach for ameliorating the inflammatory stress in ageing by restoring homeostasis in the gut-BM inter-organ communication.",
+      "journal": "British journal of pharmacology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Neonatology, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China; Institute of Pediatrics, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, China.",
-        "Department of Neonatology, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China; Key Laboratory of Newborn Critical Illness, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China. Electronic address: xufengdan@gdmu.edu.cn.",
-        "Department of Traditional Chinese Medicine, Shanghai Children's Hospital, School of Medicine, Shanghai Jiao Tong University, China.",
-        "Department of Neonatology, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China; Key Laboratory of Newborn Critical Illness, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China.",
-        "Department of Neonatology, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China; Key Laboratory of Newborn Critical Illness, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China. Electronic address: 715643709@qq.com.",
-        "Institute of Pediatrics, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, China. Electronic address: wxy@shsmu.edu.cn.",
-        "Department of Neonatology, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China; Key Laboratory of Newborn Critical Illness, Dongguan Children's Hospital Affiliated to Guangdong Medical University, China. Electronic address: ningli@gdmu.edu.cn."
+        "Department of Pharmaceutical Sciences, College of Health and Human Sciences, North Dakota State University, Fargo, North Dakota, USA.",
+        "University of Missouri Metagenomics Center, Department of Pathobiology and Integrative Biomedical Sciences, College of Veterinary Medicine, University of Missouri, Columbia, Missouri, USA.",
+        "School of Biomedical Sciences, University of North Dakota, Grand Forks, North Dakota, USA."
       ],
-      "doi": "10.1016/j.bcp.2026.118483",
+      "doi": "10.1111/bph.70656",
       "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749228/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750336/"
     },
     {
-      "pmid": "42748922",
-      "title": "H3K27M drives OPC stemness and intrathecal therapeutic vulnerability in brainstem glioma organoids.",
-      "abstract": "Brainstem gliomas, particularly H3K27M-mutant diffuse midline gliomas (DMGs), lack effective therapies owing to anatomic inaccessibility, intact blood-brain barrier, and treatment resistance. Conventional models have low establishment rates and fail to preserve the native tumor microenvironment, limiting translational study for this rare disease. Here, we established a patient-derived brainstem glioma organoid (BSGO) platform with high success, faithfully recapitulating parental tumor features. Multi-omics and functional assays revealed that DMGs maintain oligodendrocyte precursor cell (OPC) stemness by dysregulating ACTIVIN signaling. To overcome delivery barriers and target stemness, we conducted an intrathecal drug screening and identified triple intrathecal therapy (methotrexate + cytarabine + dexamethasone, TIT) as a potent regimen against DMGs. In DMG patients, organoid-avatar guided personalized therapy induced sustained responses, with TIT-associated reductions in OPC markers reliably tracked by cerebrospinal fluid (CSF) proteomic profiling. Together, our study provides an organoid-based platform for mechanistic investigation and personalized intrathecal therapy screening and proposes TIT as a promising translational strategy for DMG.",
-      "journal": "Cell stem cell",
+      "pmid": "42750313",
+      "title": "RBM25 Drives Hepatocellular Carcinoma Progression by Stabilizing YAP Through Regulating Oncogenic Splicing-switch of MYPT1.",
+      "abstract": "Deregulated alternative splicing (AS) is a hallmark of hepatocellular carcinoma (HCC), yet the specific splicing factors driving oncogenic programs remain largely uncharacterized. Here, we identify RNA-binding motif protein 25 (RBM25) as a potent oncogenic driver that is overexpressed in HCC and correlates with dismal patient prognosis. Functionally, RBM25 depletion impairs HCC progression across in vitro models, in vivo xenografts, and patient-derived organoids. Integrated transcriptomic and interactome profiling reveals that RBM25 orchestrates a specific AS landscape, most notably promoting exon 13 inclusion of MYPT1. Mechanistically, RBM25 recruits PRPF40A to facilitate the production of the oncogenic MYPT1-L isoform. This isoform switch acts as a molecular stabilizer for the transcriptional co-activator YAP, thereby sustaining Hippo pathway dysregulation and tumor growth. Finally, a high-throughput screen of the US drug collection identified candicidin as a small-molecule inhibitor that suppresses RBM25 expression, effectively phenocopying RBM25 knockdown. Our findings define the RBM25-MYPT1-YAP axis as a critical vulnerability in HCC and nominate RBM25 as a viable prognostic biomarker and therapeutic target.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing 100070, China; Chinese Institutes for Medical Research, Beijing 100070, China.",
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing 100070, China.",
-        "Department of Molecular Neuropathology, Beijing Neurosurgical Institute, Capital Medical University, Beijing 100070, China.",
-        "Department of Neurosurgery, Beijing Chaoyang Hospital, Capital Medical University, Beijing 100020, China.",
-        "Department of Neurosurgery, Beijing Fengtai Hospital, Beijing 100070, China.",
-        "Department of Radiotherapy and Oncology, Beijing Fengtai Youanmen Hospital, Beijing 100068, China; Department of Oncology, Beijing Huian Hospital of Integrated TCM and Western Medicine, Beijing 100068, China.",
-        "Department of Oncology, Beijing Tiantan Hospital, Capital Medical University, Beijing 100700, China.",
-        "State Key Laboratory of Membrane Biology, School of Pharmaceutical Sciences, Key Laboratory of Bioorganic Phosphorus Chemistry and Chemical Biology (Ministry of Education), Tsinghua University, Beijing 100084, China.",
-        "Department of Oncology, Beijing Huian Hospital of Integrated TCM and Western Medicine, Beijing 100068, China.",
-        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300020, China.",
-        "Department of Paediatrics and Adolescent Medicine, The Hong Kong Children's Hospital, Hong Kong 999077, China.",
-        "Beijing WellGene Biotech Co., Ltd., Beijing 102200, China.",
-        "Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Shanghai Key Laboratory of Reproductive Medicine, Department of Histoembryology, Genetics and Developmental Biology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing 100070, China. Electronic address: neuroxc@foxmail.com.",
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing 100070, China; Chinese Institutes for Medical Research, Beijing 100070, China; China National Clinical Research Center for Neurological Diseases, Beijing 100070, China; Beijing Neurosurgical Institute, Capital Medical University, Beijing 100070, China. Electronic address: zhangliweittyy@163.com."
+        "Sino-US Research Center for Cancer Translational Medicine of the Second Affiliated Hospital of Dalian Medical University & Institute of Cancer Stem Cell, Dalian Medical University, Dalian, China.",
+        "Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "CAS Key Laboratory of Computational Biology, Bio-Med Big Data Center, Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
+        "Department of Immunology, College of Basic Medical Sciences, Dalian Medical University, Dalian, China.",
+        "State Key Laboratory of Medical Proteomics, National Chromatographic R. & A. Center, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China.",
+        "Translational Cancer Research Center, Peking University First Hospital, Beijing, China.",
+        "Department of Pathology, First Affiliated Hospital, Dalian Medical University, Dalian, China.",
+        "Soochow University Cancer Institute, Suzhou, China."
       ],
-      "doi": "10.1016/j.stem.2026.08.012",
+      "doi": "10.1002/advs.77792",
       "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748922/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750313/"
     },
     {
-      "pmid": "42748671",
-      "title": "Taste organoids in food science: functional maturation, dietary remodelling, and biological taste evaluation.",
-      "abstract": "Taste is the primary interface for chemical sensing and nutritional decision making, shaping food choice, feeding behaviour, and metabolic homeostasis. In food science, taste has become an important biological indicator for evaluating flavour active compounds and diet related responses, yet current models still struggle to combine physiological relevance, mechanistic interpretability, and standardized functional assessment. This review summarizes the biological basis of taste organoid construction, highlights key determinants of functional maturation, and discusses their emerging applications in long term dietary remodelling and biological taste evaluation, particularly flavour peptide screening. Taste organoids can partially reconstruct native taste epithelium and support dynamic functional assays, providing a controllable system for investigating selected taste-active substances and for exploring potential mechanisms of dietary adaptation. However, their wider application remains limited by insufficient functional maturity, limited standardization, and poor compatibility with high throughput workflows. Future efforts should establish reproducible culture systems, unified maturity criteria, and engineered analytical platforms before taste organoids can be broadly applied to biological taste and functional food-related evaluation.",
-      "journal": "Food chemistry",
+      "pmid": "42750187",
+      "title": "Plant Metabolites Screening Identifies 7-epi-10-Deacetyltaxol Inhibiting Cell Division by Interfering With the Cell Cycle and Microtubule Organization.",
+      "abstract": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the cell from dividing normally. Disorder of cell division also leads to abnormal growth and development in plants. It is worthy of consideration whether these metabolites have negative effects on plants per se. In this study, we developed an efficient screening system for identifying plant metabolites affecting rapeseed seedling root growth. One compound, 7-epi-10-deacetyltaxol, inhibited tissue elongation by adversely altering cell division and elongation. And it was applied to plant cell lines, rat vascular smooth muscle cells, and human tumor organoids, resulting in similar cell division suppression. Transcriptome and proteomics analysis indicated the suppression in plant growth was through brassinosteroid-regulated expression of cell cycle proteins, while cytological observation reveals microtubule morphology anomalies. Single-nucleus transcriptome sequencing revealed inhibitory effects of ovarian cancer organoids. Together, our findings identified a universal cell division inhibitor and characterized its conserved function with respective regulatory mechanisms, providing new insights into what role \"harmful\" plant metabolites are playing in plants.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.",
+        "Key Laboratory for the Genetics of Development & Neuropsychiatric Disorders (Ministry of Education), Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
+        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, Ningxia Medical University, Yinchuan, China.",
+        "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China.",
+        "Shanghai Lisheng Biotech, Shanghai, China.",
+        "Shanghai Collaborative Innovation Center of Agri-Seeds/Joint Center for Single Cell Biology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Key Laboratory of Resource Biology and Biotechnology, Western China, Ministry of Education, Provincial Key Laboratory of Biotechnology of Shaanxi Province, College of Life Sciences, Northwest University, Xi'an, China.",
+        "State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.",
+        "LiSheng Organ Regeneration X Lab, East China Institute of Biotechnology, Peking University, Jiangsu, China."
+      ],
+      "doi": "10.1002/advs.77835",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750187/"
+    },
+    {
+      "pmid": "42750038",
+      "title": "Guanylate-binding protein 2 (GBP2) drives pancreatic cancer cell proliferation by promoting cell cycle progression via the SP1/SKP2/P27 axis.",
+      "abstract": "Guanylate-binding protein 2 (GBP2) has been reported to be involved in the progression of various human malignancies, but its specific functions and underlying molecular mechanisms in pancreatic cancer remain poorly understood. The expression level of GBP2 in pancreatic cancer tissues and cell lines was detected, and the correlation between GBP2 expression and clinicopathological features as well as patient prognosis was analyzed. In vitro and in vivo experiments were performed to investigate the effect of GBP2 on pancreatic cancer cell proliferation and cell cycle progression. RNA-sequencing was conducted to screen downstream regulatory targets of GBP2, and molecular mechanism assays (including ubiquitination assay, co-immunoprecipitation) were carried out to verify the regulatory relationship between GBP2, SP1, TRIM25 and SKP2. GBP2 was significantly upregulated in pancreatic cancer tissues and cell lines, and high GBP2 expression was closely associated with a poor prognosis, an advanced TNM stage and a higher tumor grade. Functional experiments showed that GBP2 promotes pancreatic cancer cell proliferation by inducing cell cycle progression. Mechanistically, GBP2 competes with the E3 ubiquitin ligase TRIM25 for binding to transcription factor SP1, thereby inhibiting SP1 ubiquitination and proteasomal degradation. The stabilized SP1 further enhances its binding to the SKP2 promoter, upregulates SKP2 transcription, and activates the SKP2/p27 signaling axis to drive tumor progression. This study reveals a novel GBP2-SP1-SKP2-p27 signaling pathway that promotes pancreatic cancer progression. GBP2 may serve as a potential therapeutic target for pancreatic cancer, which requires further validation through pharmacological studies and patient-derived organoid models.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Medical, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Department of Infectious Disease, Hubei AIDS Clinical Training Center, Zhongnan Hospital of Wuhan University, Donghu Road 169, Wuchang District, Wuhan, 430000, China.",
+        "Department of Gastroenterology, Tianyou Hospital, Affiliated to Wuhan University of Science and Technology, Wuhan, 430061, China.",
+        "Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Hubei Provincial Clinical Research Center for Intestinal and Colorectal Diseases, Wuhan, China.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Wuhan, China.",
+        "Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Department of Infectious Disease, Hubei AIDS Clinical Training Center, Zhongnan Hospital of Wuhan University, Donghu Road 169, Wuchang District, Wuhan, 430000, China. kehengning@znhospital.cn.",
+        "Wuhan Research Center for Infectious Diseases and Cancer, Chinese Academy of Medical Sciences, Wuhan, China. kehengning@znhospital.cn.",
+        "Department of General Medical, Zhongnan Hospital of Wuhan University, Wuhan, China. xhfangjun@163.com.",
+        "Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Wuhan, China. whzcj@outlook.com.",
+        "Hubei Provincial Clinical Research Center for Intestinal and Colorectal Diseases, Wuhan, China. whzcj@outlook.com.",
+        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Wuhan, China. whzcj@outlook.com."
+      ],
+      "doi": "10.1186/s12967-026-08815-6",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750038/"
+    },
+    {
+      "pmid": "42749812",
+      "title": "Developmental xenocortication using human-derived organoids in mice.",
+      "abstract": "The inaccessibility of human brain tissue limits the study of human development and function, a challenge that human stem-cell-derived neural models are beginning to address1,2. Transplantation of neural organoids into rodent hosts enables the in vivo study of aspects of human neurodevelopment and circuit function, alongside behavioural phenotyping of the host animals. However, spatial limitations and competition with host circuits constrain the integration of neural organoids, which is critical for studying disease. Here we establish a transplantation platform using a genetic strategy to effectively deplete glutamatergic neurons from mouse neocortex and hippocampus (apallial) and neonatally engraft the cortical cavity with human stem-cell-derived cortical organoids (hCO) to generate xenocortical mice. This leads to robust graft growth with hCOs occupying most of the cortical volume and generating a diversity of human cortical cell types, including layer 5 extratelencephalic projection neurons. Human cortical neurons integrate with the mouse nervous system, and in vivo cortical graft-wide calcium imaging and electrophysiological analyses revealed patterns of organized activity resembling developing circuits. Behavioural analyses of apallial and xenocortical mice revealed broadly preserved locomotion alongside selective differences in limb coordination and altered organization of spontaneous behaviour. Lastly, this platform enabled behavioural readouts in a model of injury to developing human cortical cells. We envision that xenocortication will be useful for obtaining circuit- and behaviour-level readouts using human neurons to study neurodevelopment, model disease and develop therapeutics.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA.",
+        "Stanford Brain Organogenesis Program, Wu Tsai Neurosciences Institute & Bio-X, Stanford, CA, USA.",
+        "Department of Neurosurgery, Stanford University, Stanford, CA, USA.",
+        "Department of Bioengineering, Stanford University, Stanford, CA, USA.",
+        "BCBL-Basque Center on Cognition, Brain and Language, Donostia-San Sebastián, Spain.",
+        "IKERBASQUE-Basque Foundation for Science, Bilbao, Spain.",
+        "Department of Pathology, Stanford University, Stanford, CA, USA.",
+        "Department of Psychology, Stanford University, Stanford, CA, USA.",
+        "Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, CA, USA. spasca@stanford.edu.",
+        "Stanford Brain Organogenesis Program, Wu Tsai Neurosciences Institute & Bio-X, Stanford, CA, USA. spasca@stanford.edu."
+      ],
+      "doi": "10.1038/s41586-026-11032-2",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749812/"
+    },
+    {
+      "pmid": "42749791",
+      "title": "Kit-based remote collection and isolation of human reprogrammable somatic cells for generation of induced pluripotent stem cells and cerebral organoids.",
+      "abstract": "Developing reproducible human disease models is a central goal of biomedical research and personalized medicine. Induced pluripotent stem (iPS) cell-derived models enable investigation of underlying cellular and molecular mechanisms in humans. However, obtaining reprogrammable somatic cells is a challenge, especially when patients have limited access to hospital and research facilities. Here we provide a step-by-step protocol for noninvasive isolation of human keratinocytes via trypsinization from scalp hair with intact follicles. The samples can be collected remotely by the donor, a family member or a healthcare provider using a kit and shipped long distance at ambient temperature. This offers a major advantage over widely used methods for iPS cell generation from other somatic cells, for example, dermal fibroblasts or peripheral blood mononuclear cells (PBMCs) (from invasive skin biopsies or blood collection), or renal epithelial cells (from urine). Keratinocytes can be reprogrammed to iPS cells that give rise to all three cell lineages, including the neural lineage, and used to generate cerebral organoids. The protocol yields iPS cells within 2 months of receiving the hair samples and requires basic familiarity with mammalian cell culture techniques without the need for specialized equipment. Generation of cerebral organoids from iPS cells requires 30-40 d and specialized equipment (an orbital shaker) for culture.",
+      "journal": "Nature protocols",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "National Engineering Research Center of Seafood, Collaborative Innovation Center of Provincial and Ministerial Co construction for Seafood Deep Processing, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, PR China.",
-        "National Engineering Research Center of Seafood, Collaborative Innovation Center of Provincial and Ministerial Co construction for Seafood Deep Processing, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, PR China. Electronic address: zhaoqy@dlpu.edu.cn.",
-        "National Engineering Research Center of Seafood, Collaborative Innovation Center of Provincial and Ministerial Co construction for Seafood Deep Processing, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, PR China. Electronic address: xianbingxu@gmail.com."
+        "Department of Neurosurgery, Yale School of Medicine, New Haven, CT, USA.",
+        "MD-PhD Program, Yale School of Medicine, New Haven, CT, USA.",
+        "Department of Neurosurgery, Yale School of Medicine, New Haven, CT, USA. ce.zhang@cshc.org.",
+        "Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA. ce.zhang@cshc.org.",
+        "Yale Program on Neurogenetics, Yale School of Medicine, New Haven, CT, USA. ce.zhang@cshc.org.",
+        "Department of Neurosurgery, Yale School of Medicine, New Haven, CT, USA. angeliki.louvi@yale.edu.",
+        "Yale Program on Neurogenetics, Yale School of Medicine, New Haven, CT, USA. angeliki.louvi@yale.edu."
       ],
-      "doi": "10.1016/j.foodchem.2026.151020",
-      "date": "2026-09-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748671/"
-    },
-    {
-      "pmid": "42748411",
-      "title": "Prime editing models the MTARC1 A165T variant in human liver organoids, demonstrating reduced steatosis, inflammation, and fibrosis.",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent cause of chronic liver disease worldwide. This progressive, multifactorial condition is characterized by hepatic steatosis, which can evolve into steatohepatitis, fibrosis, cirrhosis, and liver cancer. Genetic factors influence the development, progression, and complications in MASLD, and genome-wide association studies (GWAS) have identified single-nucleotide polymorphisms (SNPs) associated with altered risk. Mitochondrial amidoxime reducing component 1 (MTARC1) rs2642438 (p.A165T) variant has been identified as protective, but the role of MTARC1 and the impact of this variant in hepatocytes remains poorly understood. We applied prime editing to create the rs2642438 variant in human embryonic stem cells (hESCs) before differentiation into human liver organoids (HLOs) to investigate the effect of the variant under conditions of steatotic and fibrotic injury. Compared with HLOs formed from hESCs containing the MTARC1 reference sequence, HLOs with the rs2642438 variant show lower levels of MTARC1 protein and triglycerides and are protected from steatotic and fibrotic injury, as predicted by the phenotype observed in patients carrying the variant. The observed decrease in triglyceride levels with the variant appears to be driven more by suppression of de novo lipogenesis than stimulation of β-oxidation in the HLO model. While resmetirom, the thyroid hormone receptor-beta (THRB) agonist approved to treat patients with metabolic dysfunction-associated steatohepatitis (MASH), was effective in reducing triglyceride levels in the setting of steatotic injury in HLOs with the reference sequence, HLOs containing the variant did not show further reduction in triglyceride levels with exposure to resmetirom. Collectively, these findings establish a platform to model disease-associated SNPs in HLOs, provide insight into the activity of the MTARC1 variant, and suggest that SNP profiling may help identify patients more likely to respond to MASLD therapies.",
-      "journal": "Hepatology communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Gastroenterology, University of Massachusetts Chan Medical School, Worcester, Massachusetts, USA.",
-        "The Broad Institute, Cambridge, Massachusetts, USA.",
-        "Division of Renal Medicine, University of Massachusetts Chan Medical School, Worcester, Massachusetts, USA."
-      ],
-      "doi": "10.1097/HC9.0000000000001022",
+      "doi": "10.1038/s41596-026-01440-z",
       "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748411/"
-    },
-    {
-      "pmid": "42748214",
-      "title": "Modeling Dynamic Photobleaching for High-Resolution Digital Light Processing of Enclosed Microchannels.",
-      "abstract": "Digital light processing (DLP) bioprinting holds great promise for fabricating functional organ-on-a-chip models and in vitro drug screening platforms. However, existing curing models, largely adapted from synthetic resins, overlook the dynamic photobleaching inherent in hydrogels, leading to poor prediction accuracy for enclosed microchannels. To address this challenge, a custom DLP bioprinting system tailored for high-resolution structure fabrication was developed, along with an optical penetration meter to precisely characterize the light penetration behavior of hydrogel solutions. Based on theoretical derivation and parameter measurement, a dynamic photobleaching compensation curing depth curve (DPC-Curve) was developed, providing accurate prediction and control of single-layer thickness. Guided by this curve, enclosed microchannels with dimensions on the scale of a hundred micrometers were printed directly. As compared to time-consuming trial-and-error, this method is capable of determining key parameters for high-resolution DLP in a theoretical and fast manner. Furthermore, by incorporating anatomical features of human vasculature, biomimetic vascular networks were fabricated with high fidelity. This work provides theoretical insights and technical foundations to overcome current resolution limitations in DLP bioprinting and exhibits potential for the controllable fabrication of vascularized tissues and organs.",
-      "journal": "ACS applied bio materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Biomedical Engineering, Harbin Institute of Technology, Shenzhen518055, China.",
-        "School of Robotics and Advanced Manufacture, Harbin Institute of Technology, Shenzhen518055, China."
-      ],
-      "doi": "10.1021/acsabm.6c01402",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748214/"
-    },
-    {
-      "pmid": "42747884",
-      "title": "Analysis of proteasome stress in different cell types defines a conserved transcriptional response signature and its modulation with aging.",
-      "abstract": "The proteasome is essential for proteostasis. Transcriptional induction of proteasomal components occurs when the proteasome is inhibited, but an overview of the transcriptional responses caused by proteasome perturbation is missing. Here, we profiled transcriptional changes caused by chemical and genetic proteasome inhibition and defined time-dose responses in cells and organoids. Induction of proteasome components varied by cell type and inhibition mode, whereas other responses were consistent, including upregulation of chaperones and secreted factors, and repression of cell cycle regulators. A proteasome stress response signature was defined based on the genes consistently modulated across systems, and applying this signature to aging datasets revealed activation of this stress response in some tissues, including skeletal muscle. Moreover, secreted factors within the signature showed similar age-related changes in human plasma, suggesting systemic activation of this stress response with aging. Together, these findings define a transcriptional signature for monitoring proteasome stress during aging and age-related diseases.",
-      "journal": "G3 (Bethesda, Md.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States.",
-        "Department of Cell and Molecular Biology, St. Jude Children's Research Hospital, Memphis, TN 38105, United States."
-      ],
-      "doi": "10.1093/g3journal/jkag245",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747884/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749791/"
     },
     {
       "pmid": "42749352",
@@ -412,6 +432,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743923/"
     },
     {
+      "pmid": "42749910",
+      "title": "Early-Onset Colorectal Cancer: Clinical and Molecular Features with Emerging Insights from Comprehensive Genomic Profiling.",
+      "abstract": "Early‑onset colorectal cancer (EOCRC), defined as colorectal cancer (CRC) diagnosed before 50 years of age, is increasing globally. Colorectal cancer is currently the third most commonly diagnosed cancer and the second leading cause of cancer-related death worldwide, with GLOBOCAN 2024 estimating approximately 2.04 million new cases and 917,895 deaths in 2024. Recent studies indicate a sustained rise in EOCRC incidence across multiple regions and birth cohorts, with the greatest increases observed among younger adults. Although hereditary cancer syndromes account for 20-25% of EOCRC cases, most occur in the absence of known genetic predispositions or established risk factors. Emerging evidence implicates the gut microbiome as a potential contributor to EOCRC, with distinct microbial signatures differentiating it from late‑onset colorectal cancer (LOCRC) diagnosed after 50 years of age. This review synthesizes current evidence on clinical, molecular, and diagnostic features distinguishing EOCRC from LOCRC, including differences in anatomical distribution, histopathology, genomic and epigenetic alterations, microbiome composition, and immune landscape, and discusses their implications for personalised screening and therapeutic strategies. We performed a retrospective secondary analysis of comprehensive genomic and immune profiling data from 1737 patients with colorectal cancer tested between June 2021 and June 2023. The analysis showed that tumours arising in patients with EOCRC had lower tumour mutational burden than tumours diagnosed as LOCRC, whereas other immune-related biomarkers, including tumour immunogenicity score, did not remain significantly different after correction for multiple testing. Despite these emerging biological differences, current screening strategies remain largely dependent on an age threshold of 50 years, and EOCRC is not addressed by age‑specific treatment approaches. We therefore review the translational potential of emerging biomarkers, including microbial signatures and liquid biopsy approaches, and propose a framework for integrating molecular profiling into clinical practice. Finally, we highlight the unmet need for coordinated efforts to improve screening in younger populations, address fertility preservation considerations, and ensure adequate psychosocial support for patients with EOCRC.",
+      "journal": "Oncology and therapy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Fortrea Inc., Durham, NC, USA.",
+        "East Suffolk and North Essex NHS Foundation Trust, Ipswich, UK.",
+        "ConcertAI, Bangalore, India.",
+        "Labcorp Oncology, Durham, NC, USA.",
+        "Department of Pathology, Duke University Medical Centre, Durham, NC, USA.",
+        "Barking, Havering and Redbridge University Hospitals NHS Trust, Romford, UK.",
+        "Max Smart Super Specialty Hospital, Saket, New Delhi, India.",
+        "Department of Pathology, Wake Forest Comprehensive Cancer Centre, Wake Forest School of Medicine, Winston-Salem, NC, USA.",
+        "Milton Keynes University Hospital NHS Foundation Trust, Milton Keynes, UK.",
+        "The Larvol Group, San Francisco, USA.",
+        "Stoke Mandeville Hospital, Aylesbury, Buckinghamshire, UK.",
+        "Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+        "Université Paris Cité, SIRIC CARPEM, Georges Pompidou European Hospital, Paris, France.",
+        "Fortrea Inc., Durham, NC, USA. Kamal.saini@nhs.net.",
+        "Department of Medical Oncology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK. Kamal.saini@nhs.net."
+      ],
+      "doi": "10.1007/s40487-026-00467-2",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749910/"
+    },
+    {
+      "pmid": "42749887",
+      "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
+      "abstract": "There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which included hsa-miR-142-3p, hsa-miR-30c-5p, hsa-miR-335-5p, hsa-miR-340-5p, hsa-miR-200b-3p, hsa-miR-1260b, hsa-miR-145-3p, hsa-miR-145-5p, hsa-miR-429 and hsa-miR-200a-3p) and a composite score, PANXEON (PANcreatic cancer eXosome Early detectiON), that integrates the miRNA signature with carbohydrate antigen 19-9 for the detection of early-stage PDAC. We conducted an international, multicenter, observational, prospective biomarker study that involved 1,785 individuals with and without PDAC from four countries. The miRNA signature achieved an area under the receiver operating characteristic curve of 88.6% in the testing cohort, with a sensitivity of 83.8% for early-stage PDAC, while showing minimal cross-reactivity with other gastrointestinal cancers. In a cohort of 19 individuals, the miRNA signature levels decreased during neoadjuvant chemotherapy and after surgery and increased before disease recurrence. When combined with carbohydrate antigen 19-9 levels, this blood assay demonstrated a sensitivity of 86.8% for stage I-II PDAC, false-positive rates of 3.2% in low-risk controls and 15.6% in high-risk controls in the testing cohort. PANXEON demonstrates potential for detecting high-grade dysplasia in individuals with high-risk pancreatic cysts (64.3%). Collectively, we present a composite biomarker that may complement existing strategies for the detection of early-stage PDAC and warrants further large-scale prospective studies. ClinicalTrials.gov registration: NCT06388967 .",
+      "journal": "Nature medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Diagnostics and Experimental Therapeutics, Beckman Research Institute of City of Hope, Monrovia, CA, USA.",
+        "Gastroenterology and Gastrointestinal Endoscopy Unit, Vita-Salute San Raffaele University, IRCCS San Raffaele Hospital, Milan, Italy.",
+        "The Translational Genomics Research Institute, Phoenix, AZ, USA.",
+        "Hoag Family Center Institute, Newport Beach, CA, USA.",
+        "Department of Gastrointestinal and Pediatric Surgery, Division of Reparative Medicine, Institute of Life Sciences, Mie University Graduate School of Medicine, Mie, Japan.",
+        "Department of Genomic Medicine, Mie University Hospital, Mie, Japan.",
+        "Department of Surgical Oncology, City of Hope National Medical Center, Duarte, CA, USA.",
+        "Division of Hematology-Oncology, Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea.",
+        "Division of Gastroenterology, City of Hope National Medical Center, Duarte, CA, USA.",
+        "HonorHealth Research Institute, Scottsdale, AZ, USA.",
+        "Department of Surgery, The Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Biochemistry and Molecular Biology, Department of Convergence Medicine, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea.",
+        "Division of Surgical Oncology, Department of Surgery, Ohio State University Comprehensive Cancer Center, Columbus, USA.",
+        "Baylor Scott and White Research Institute, Baylor University Medical Center, Dallas, TX, USA.",
+        "Department of Medical Oncology, City of Hope National Medical Center, Duarte, CA, USA.",
+        "Department of General Surgery, The Second Affiliated Hospital of Dalian Medical University, Dalian, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Dalian Medical University, Dalian, China.",
+        "Allegheny Health Network Cancer Institute, Allegheny Health Network, Pittsburgh, PA, USA.",
+        "Department of Gastroenterological Surgery, Nagoya University Graduate School of Medicine, Nagoya, Japan.",
+        "Division of Hepato-Biliary and Pancreatic Surgery, Department of Surgery, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea.",
+        "The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Department of Surgery, Ochsner Clinic Foundation, New Orleans, LA, USA.",
+        "Department of Molecular Diagnostics and Experimental Therapeutics, Beckman Research Institute of City of Hope, Monrovia, CA, USA. ajgoel@coh.org.",
+        "City of Hope Comprehensive Cancer Center, Duarte, CA, USA. ajgoel@coh.org."
+      ],
+      "doi": "10.1038/s41591-026-04625-x",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749887/"
+    },
+    {
       "pmid": "42749540",
       "title": "Liquid biopsy in glioblastoma: emerging technologies and translational opportunities.",
       "abstract": "Glioblastoma remains highly aggressive, with limited treatment response and poor prognosis. Tissue biopsy (TB) is invasive and fail to capture tumor heterogeneity or temporal dynamics. Liquid biopsy (LB) provides a noninvasive alternative for real-time monitoring via circulating biomarkers, including cell-free DNA (cfDNA), circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellular vesicles (EVs) in plasma, cerebrospinal fluid (CSF), urine, and saliva. This review advances beyond prior biomarker catalogs by delivering a quantitative technology scorecard comparing cfDNA-, CTC-, and EV-based platforms in terms of sensitivity, clinical actionability, cost, and scalability. We introduce a multimodal decision matrix and an artificial intelligence (AI)-driven fusion pipeline integrating fragmentomics, EV proteomics, and CTC transcriptomics to enhance minimal residual disease detection and guide precision neuro-oncology.",
@@ -486,43 +574,6 @@
       "doi": "10.1007/s11033-026-12762-2",
       "date": "2026-09-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747628/"
-    },
-    {
-      "pmid": "42747547",
-      "title": "Circulating Cell-free DNA as a biomarker for radiation-induced injury: From mechanistic insights to clinical translation.",
-      "abstract": "Circulating cell-free DNA (cfDNA) has attracted increasing attention as a minimally invasive biomarker for assessing radiation-induced tissue injury. Radiation exposure can alter cfDNA concentration, fragmentation profiles, and methylation patterns. These changes may reflect cellular damage, tissue origin, and temporal responses to irradiation. During radiotherapy, however, cfDNA can arise from tumor cells, irradiated normal tissues, endothelial cells, immune cells, and hematopoietic cells. This mixed origin complicates the interpretation of radiation-related signals. Current evidence is derived mainly from preclinical studies and small, heterogeneous clinical cohorts. Sampling schedules, analytical workflows, and clinical thresholds also vary across studies. Recent advances in fragmentomics, tissue-specific methylation analysis, mitochondrial cfDNA, multi-omics integration, and artificial intelligence have expanded the information obtained from cfDNA. In particular, tissue-specific methylation and fragmentation features may help identify the cellular or organ origin of injury. Nevertheless, prospective multicenter validation and methodological standardization are required before routine clinical use. This review summarizes the mechanisms linking radiation injury to cfDNA release, current detection technologies, and evidence for organ-specific applications. It also discusses clinical confounders, translational barriers, and future directions for integrating cfDNA into precision radiation oncology.",
-      "journal": "Cancer metastasis reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China.",
-        "School of Clinical Medicine, Shandong Second Medical University, Weifang, China.",
-        "The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China.",
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China. tengff@sd-cancer.com.",
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China. sdyujinming@163.com.",
-        "School of Clinical Medicine, Shandong Second Medical University, Weifang, China. sdyujinming@163.com."
-      ],
-      "doi": "10.1007/s10555-026-10374-7",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747547/"
-    },
-    {
-      "pmid": "42746379",
-      "title": "Circulating tumor DNA for minimal residual disease and recurrence surveillance in hepatocellular carcinoma: current evidence and a translational roadmap.",
-      "abstract": "Recurrence remains a major cause of failure after curative-intent therapy for hepatocellular carcinoma (HCC), including resection, ablation, and liver transplantation. Current surveillance relies on imaging and serum biomarkers, but radiologic relapse may lag behind biological recurrence. This gap has focused attention on circulating tumor DNA (ctDNA) and related cell-free DNA (cfDNA) approaches as candidate tools for minimal residual disease (MRD) assessment and molecular surveillance. In HCC, however, recurrence is biologically heterogeneous. Post-treatment relapse may arise from residual malignant clones, occult intrahepatic spread, or de novo hepatocarcinogenesis in a chronically injured liver. This complexity shapes assay selection, result interpretation, and the need for multimodal risk assessment. Tumor-informed ctDNA assays are best suited to tracking residual clonal disease, whereas methylation-based and composite cfDNA approaches may also capture low-shedding disease and recurrence-prone liver-field biology. Available studies suggest that postoperative ctDNA positivity, persistent serial positivity, rising molecular burden, and selected high-risk methylation signals are associated with recurrence risk after curative-intent therapy. Yet the evidence base is uneven across treatment settings and assay classes, laboratory methods are not yet standardized, and binary detectable-versus-undetectable reporting is rarely sufficient for clinical interpretation. The central translational question is therefore how ctDNA/cfDNA information should be used in realistic HCC surveillance pathways. Current evidence supports these assays as adjunctive molecular risk signals, not as standalone treatment triggers. This review synthesizes the evidence, compares assay strategies, outlines multimodal implementation barriers including standardization and cost, and proposes a cautious roadmap for ctDNA-guided recurrence surveillance in HCC.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Hepatobiliary and Pancreatic Surgery, Ward I, Jingmen Central Hospital, Jingmen Central Hospital Affiliated to Jingchu University of Technology, Jingmen, Hubei, China."
-      ],
-      "doi": "10.3389/fonc.2026.1920559",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746379/"
     }
   ],
   "signals": [
@@ -567,16 +618,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42749228",
+      "id": "pubmed-42750336",
       "date": "2026-09-16",
-      "title": "Itaconic acid dissolves TFEB liquid-liquid phase separation to alleviate hyperoxia-induced bronchopulmonary dysplasia.",
+      "title": "Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749228/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750336/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -589,22 +640,22 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42749228。",
-      "report": "Supplemental oxygen in premature neonates risks bronchopulmonary dysplasia (BPD). Although the metabolite itaconic acid (ITA) promotes transcription factor EB (TFEB) nuclear translocation to alleviate BPD, the upstream mechanism driving hyperoxia-induced TFEB...",
+      "fact": "PubMed 记录显示该文献收录于 British journal of pharmacology，PMID 为 42750336。",
+      "report": "Ageing is associated with colon epithelial barrier disruption and up-regulation of myelopoiesis in the bone marrow (BM). Alamandine (Ala) and MrgD are novel members of the renin angiotensin system (RAS). This study tested the hypothesis that Ala restores the c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42748922",
+      "id": "pubmed-42750313",
       "date": "2026-09-16",
-      "title": "H3K27M drives OPC stemness and intrathecal therapeutic vulnerability in brainstem glioma organoids.",
+      "title": "RBM25 Drives Hepatocellular Carcinoma Progression by Stabilizing YAP Through Regulating Oncogenic Splicing-switch of MYPT1.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748922/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750313/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -623,82 +674,90 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42748922。",
-      "report": "Brainstem gliomas, particularly H3K27M-mutant diffuse midline gliomas (DMGs), lack effective therapies owing to anatomic inaccessibility, intact blood-brain barrier, and treatment resistance. Conventional models have low establishment rates and fail to preserv...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750313。",
+      "report": "Deregulated alternative splicing (AS) is a hallmark of hepatocellular carcinoma (HCC), yet the specific splicing factors driving oncogenic programs remain largely uncharacterized. Here, we identify RNA-binding motif protein 25 (RBM25) as a potent oncogenic dri...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42748411",
+      "id": "pubmed-42750187",
       "date": "2026-09-16",
-      "title": "Prime editing models the MTARC1 A165T variant in human liver organoids, demonstrating reduced steatosis, inflammation, and fibrosis.",
+      "title": "Plant Metabolites Screening Identifies 7-epi-10-Deacetyltaxol Inhibiting Cell Division by Interfering With the Cell Cycle and Microtubule Organization.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748411/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750187/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Hepatology communications，PMID 为 42748411。",
-      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent cause of chronic liver disease worldwide. This progressive, multifactorial condition is characterized by hepatic steatosis, which can evolve into steatohepatitis, fibrosis,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750187。",
+      "report": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the c...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42748214",
+      "id": "pubmed-42749812",
       "date": "2026-09-16",
-      "title": "Modeling Dynamic Photobleaching for High-Resolution Digital Light Processing of Enclosed Microchannels.",
+      "title": "Developmental xenocortication using human-derived organoids in mice.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748214/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749812/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Drug Screening"
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "药筛"
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS applied bio materials，PMID 为 42748214。",
-      "report": "Digital light processing (DLP) bioprinting holds great promise for fabricating functional organ-on-a-chip models and in vitro drug screening platforms. However, existing curing models, largely adapted from synthetic resins, overlook the dynamic photobleaching...",
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42749812。",
+      "report": "The inaccessibility of human brain tissue limits the study of human development and function, a challenge that human stem-cell-derived neural models are beginning to address1,2. Transplantation of neural organoids into rodent hosts enables the in vivo study of...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42747884",
+      "id": "pubmed-42749791",
       "date": "2026-09-16",
-      "title": "Analysis of proteasome stress in different cell types defines a conserved transcriptional response signature and its modulation with aging.",
+      "title": "Kit-based remote collection and isolation of human reprogrammable somatic cells for generation of induced pluripotent stem cells and cerebral organoids.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747884/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749791/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -711,8 +770,8 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 G3 (Bethesda, Md.)，PMID 为 42747884。",
-      "report": "The proteasome is essential for proteostasis. Transcriptional induction of proteasomal components occurs when the proteasome is inhibited, but an overview of the transcriptional responses caused by proteasome perturbation is missing. Here, we profiled transcri...",
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42749791。",
+      "report": "Developing reproducible human disease models is a central goal of biomedical research and personalized medicine. Induced pluripotent stem (iPS) cell-derived models enable investigation of underlying cellular and molecular mechanisms in humans. However, obtaini...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -776,6 +835,68 @@
       "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42747196。",
       "report": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42749910",
+      "date": "2026-09-16",
+      "title": "Early-Onset Colorectal Cancer: Clinical and Molecular Features with Emerging Insights from Comprehensive Genomic Profiling.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology and therapy，PMID 为 42749910。",
+      "report": "Early‑onset colorectal cancer (EOCRC), defined as colorectal cancer (CRC) diagnosed before 50 years of age, is increasing globally. Colorectal cancer is currently the third most commonly diagnosed cancer and the second leading cause of cancer-related death wor...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42749887",
+      "date": "2026-09-16",
+      "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749887/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42749887。",
+      "report": "There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which i...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -899,36 +1020,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42747547",
-      "date": "2026-09-16",
-      "title": "Circulating Cell-free DNA as a biomarker for radiation-induced injury: From mechanistic insights to clinical translation.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747547/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42747547。",
-      "report": "Circulating cell-free DNA (cfDNA) has attracted increasing attention as a minimally invasive biomarker for assessing radiation-induced tissue injury. Radiation exposure can alter cfDNA concentration, fragmentation profiles, and methylation patterns. These chan...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42745547",
       "date": "2026-09-15",
       "title": "scBalFlow: A Staged Flow Matching Framework for Imbalanced Single-Cell Drug Perturbation Prediction.",
@@ -1016,36 +1107,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of controlled release : official journal of the Controlled Release Society，PMID 为 42744200。",
       "report": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42748671",
-      "date": "2026-09-13",
-      "title": "Taste organoids in food science: functional maturation, dietary remodelling, and biological taste evaluation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748671/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food chemistry，PMID 为 42748671。",
-      "report": "Taste is the primary interface for chemical sensing and nutritional decision making, shaping food choice, feeding behaviour, and metabolic homeostasis. In food science, taste has become an important biological indicator for evaluating flavour active compounds...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1215,34 +1276,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42746379",
-      "date": "2026-09-01",
-      "title": "Circulating tumor DNA for minimal residual disease and recurrence surveillance in hepatocellular carcinoma: current evidence and a translational roadmap.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746379/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42746379。",
-      "report": "Recurrence remains a major cause of failure after curative-intent therapy for hepatocellular carcinoma (HCC), including resection, ablation, and liver transplantation. Current surveillance relies on imaging and serum biomarkers, but radiologic relapse may lag...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42699656",
       "date": "2026-08-26",
       "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
@@ -1280,6 +1313,42 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42699656。",
       "report": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42750038",
+      "date": "2026-08-17",
+      "title": "Guanylate-binding protein 2 (GBP2) drives pancreatic cancer cell proliferation by promoting cell cycle progression via the SP1/SKP2/P27 axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750038/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42750038。",
+      "report": "Guanylate-binding protein 2 (GBP2) has been reported to be involved in the progression of various human malignancies, but its specific functions and underlying molecular mechanisms in pancreatic cancer remain poorly understood. The expression level of GBP2 in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

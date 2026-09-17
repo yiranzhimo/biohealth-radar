@@ -44,20 +44,20 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42749228",
-      "signalId": "pubmed-42749228",
+      "id": "evidence-pubmed-42750336",
+      "signalId": "pubmed-42750336",
       "companyIds": [],
       "publishedAt": "2026-09-16",
       "snapshotDate": "2026-09-17",
-      "title": "Itaconic acid dissolves TFEB liquid-liquid phase separation to alleviate hyperoxia-induced bronchopulmonary dysplasia.",
+      "title": "Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749228/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750336/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models"
@@ -66,23 +66,23 @@
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42749228。",
-      "report": "Supplemental oxygen in premature neonates risks bronchopulmonary dysplasia (BPD). Although the metabolite itaconic acid (ITA) promotes transcription factor EB (TFEB) nuclear translocation to alleviate BPD, the upstream mechanism driving hyperoxia-induced TFEB...",
+      "fact": "PubMed 记录显示该文献收录于 British journal of pharmacology，PMID 为 42750336。",
+      "report": "Ageing is associated with colon epithelial barrier disruption and up-regulation of myelopoiesis in the bone marrow (BM). Alamandine (Ala) and MrgD are novel members of the renin angiotensin system (RAS). This study tested the hypothesis that Ala restores the c...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42748922",
-      "signalId": "pubmed-42748922",
+      "id": "evidence-pubmed-42750313",
+      "signalId": "pubmed-42750313",
       "companyIds": [],
       "publishedAt": "2026-09-16",
       "snapshotDate": "2026-09-17",
-      "title": "H3K27M drives OPC stemness and intrathecal therapeutic vulnerability in brainstem glioma organoids.",
+      "title": "RBM25 Drives Hepatocellular Carcinoma Progression by Stabilizing YAP Through Regulating Oncogenic Splicing-switch of MYPT1.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748922/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750313/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -100,83 +100,91 @@
         "药筛",
         "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42748922。",
-      "report": "Brainstem gliomas, particularly H3K27M-mutant diffuse midline gliomas (DMGs), lack effective therapies owing to anatomic inaccessibility, intact blood-brain barrier, and treatment resistance. Conventional models have low establishment rates and fail to preserv...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750313。",
+      "report": "Deregulated alternative splicing (AS) is a hallmark of hepatocellular carcinoma (HCC), yet the specific splicing factors driving oncogenic programs remain largely uncharacterized. Here, we identify RNA-binding motif protein 25 (RBM25) as a potent oncogenic dri...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42748411",
-      "signalId": "pubmed-42748411",
+      "id": "evidence-pubmed-42750187",
+      "signalId": "pubmed-42750187",
       "companyIds": [],
       "publishedAt": "2026-09-16",
       "snapshotDate": "2026-09-17",
-      "title": "Prime editing models the MTARC1 A165T variant in human liver organoids, demonstrating reduced steatosis, inflammation, and fibrosis.",
+      "title": "Plant Metabolites Screening Identifies 7-epi-10-Deacetyltaxol Inhibiting Cell Division by Interfering With the Cell Cycle and Microtubule Organization.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748411/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750187/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Hepatology communications，PMID 为 42748411。",
-      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent cause of chronic liver disease worldwide. This progressive, multifactorial condition is characterized by hepatic steatosis, which can evolve into steatohepatitis, fibrosis,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750187。",
+      "report": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the c...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42748214",
-      "signalId": "pubmed-42748214",
+      "id": "evidence-pubmed-42749812",
+      "signalId": "pubmed-42749812",
       "companyIds": [],
       "publishedAt": "2026-09-16",
       "snapshotDate": "2026-09-17",
-      "title": "Modeling Dynamic Photobleaching for High-Resolution Digital Light Processing of Enclosed Microchannels.",
+      "title": "Developmental xenocortication using human-derived organoids in mice.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748214/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749812/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Drug Screening"
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "药筛"
+        "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 ACS applied bio materials，PMID 为 42748214。",
-      "report": "Digital light processing (DLP) bioprinting holds great promise for fabricating functional organ-on-a-chip models and in vitro drug screening platforms. However, existing curing models, largely adapted from synthetic resins, overlook the dynamic photobleaching...",
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42749812。",
+      "report": "The inaccessibility of human brain tissue limits the study of human development and function, a challenge that human stem-cell-derived neural models are beginning to address1,2. Transplantation of neural organoids into rodent hosts enables the in vivo study of...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42747884",
-      "signalId": "pubmed-42747884",
+      "id": "evidence-pubmed-42749791",
+      "signalId": "pubmed-42749791",
       "companyIds": [],
       "publishedAt": "2026-09-16",
       "snapshotDate": "2026-09-17",
-      "title": "Analysis of proteasome stress in different cell types defines a conserved transcriptional response signature and its modulation with aging.",
-      "eventType": "Research",
+      "title": "Kit-based remote collection and isolation of human reprogrammable somatic cells for generation of induced pluripotent stem cells and cerebral organoids.",
+      "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747884/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749791/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -188,8 +196,8 @@
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 G3 (Bethesda, Md.)，PMID 为 42747884。",
-      "report": "The proteasome is essential for proteostasis. Transcriptional induction of proteasomal components occurs when the proteasome is inhibited, but an overview of the transcriptional responses caused by proteasome perturbation is missing. Here, we profiled transcri...",
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42749791。",
+      "report": "Developing reproducible human disease models is a central goal of biomedical research and personalized medicine. Induced pluripotent stem (iPS) cell-derived models enable investigation of underlying cellular and molecular mechanisms in humans. However, obtaini...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -253,6 +261,68 @@
       "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42747196。",
       "report": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42749910",
+      "signalId": "pubmed-42749910",
+      "companyIds": [],
+      "publishedAt": "2026-09-16",
+      "snapshotDate": "2026-09-17",
+      "title": "Early-Onset Colorectal Cancer: Clinical and Molecular Features with Emerging Insights from Comprehensive Genomic Profiling.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749910/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Oncology and therapy，PMID 为 42749910。",
+      "report": "Early‑onset colorectal cancer (EOCRC), defined as colorectal cancer (CRC) diagnosed before 50 years of age, is increasing globally. Colorectal cancer is currently the third most commonly diagnosed cancer and the second leading cause of cancer-related death wor...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42749887",
+      "signalId": "pubmed-42749887",
+      "companyIds": [],
+      "publishedAt": "2026-09-16",
+      "snapshotDate": "2026-09-17",
+      "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749887/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42749887。",
+      "report": "There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which i...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -372,36 +442,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42747628。",
       "report": "Circulating miRNAs (c-miRNAs) are promising non-invasive biomarkers for breast cancer detection, but reproducible signatures remain limited. This study aimed to identify a circulating miRNA signature for invasive ductal breast carcinoma, evaluate its discrimin...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42747547",
-      "signalId": "pubmed-42747547",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Circulating Cell-free DNA as a biomarker for radiation-induced injury: From mechanistic insights to clinical translation.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747547/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42747547。",
-      "report": "Circulating cell-free DNA (cfDNA) has attracted increasing attention as a minimally invasive biomarker for assessing radiation-induced tissue injury. Radiation exposure can alter cfDNA concentration, fragmentation profiles, and methylation patterns. These chan...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -556,36 +596,6 @@
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "evidence-pubmed-42748671",
-      "signalId": "pubmed-42748671",
-      "companyIds": [],
-      "publishedAt": "2026-09-13",
-      "snapshotDate": "2026-09-17",
-      "title": "Taste organoids in food science: functional maturation, dietary remodelling, and biological taste evaluation.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748671/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Food chemistry，PMID 为 42748671。",
-      "report": "Taste is the primary interface for chemical sensing and nutritional decision making, shaping food choice, feeding behaviour, and metabolic homeostasis. In food science, taste has become an important biological indicator for evaluating flavour active compounds...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-pubmed-42717098",
@@ -1005,34 +1015,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42746379",
-      "signalId": "pubmed-42746379",
-      "companyIds": [],
-      "publishedAt": "2026-09-01",
-      "snapshotDate": "2026-09-17",
-      "title": "Circulating tumor DNA for minimal residual disease and recurrence surveillance in hepatocellular carcinoma: current evidence and a translational roadmap.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42746379/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42746379。",
-      "report": "Recurrence remains a major cause of failure after curative-intent therapy for hepatocellular carcinoma (HCC), including resection, ablation, and liver transplantation. Current surveillance relies on imaging and serum biomarkers, but radiologic relapse may lag...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001682852-000119312526378505",
       "signalId": "sec-0001682852-000119312526378505",
       "companyIds": [
@@ -1165,6 +1147,42 @@
       "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42750038",
+      "signalId": "pubmed-42750038",
+      "companyIds": [],
+      "publishedAt": "2026-08-17",
+      "snapshotDate": "2026-09-17",
+      "title": "Guanylate-binding protein 2 (GBP2) drives pancreatic cancer cell proliferation by promoting cell cycle progression via the SP1/SKP2/P27 axis.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750038/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42750038。",
+      "report": "Guanylate-binding protein 2 (GBP2) has been reported to be involved in the progression of various human malignancies, but its specific functions and underlying molecular mechanisms in pancreatic cancer remain poorly understood. The expression level of GBP2 in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001110803-000119312526354010",
