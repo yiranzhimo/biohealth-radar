@@ -144,64 +144,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42749812",
-      "signalId": "pubmed-42749812",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Developmental xenocortication using human-derived organoids in mice.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749812/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42749812。",
-      "report": "The inaccessibility of human brain tissue limits the study of human development and function, a challenge that human stem-cell-derived neural models are beginning to address1,2. Transplantation of neural organoids into rodent hosts enables the in vivo study of...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42749791",
-      "signalId": "pubmed-42749791",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Kit-based remote collection and isolation of human reprogrammable somatic cells for generation of induced pluripotent stem cells and cerebral organoids.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749791/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42749791。",
-      "report": "Developing reproducible human disease models is a central goal of biomedical research and personalized medicine. Induced pluripotent stem (iPS) cell-derived models enable investigation of underlying cellular and molecular mechanisms in humans. However, obtaini...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42749516",
       "signalId": "pubmed-42749516",
       "companyIds": [],
@@ -261,188 +203,6 @@
       "fact": "PubMed 记录显示该文献收录于 Applied and environmental microbiology，PMID 为 42747196。",
       "report": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42749910",
-      "signalId": "pubmed-42749910",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Early-Onset Colorectal Cancer: Clinical and Molecular Features with Emerging Insights from Comprehensive Genomic Profiling.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749910/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Oncology and therapy，PMID 为 42749910。",
-      "report": "Early‑onset colorectal cancer (EOCRC), defined as colorectal cancer (CRC) diagnosed before 50 years of age, is increasing globally. Colorectal cancer is currently the third most commonly diagnosed cancer and the second leading cause of cancer-related death wor...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42749887",
-      "signalId": "pubmed-42749887",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Liquid biopsy for early detection of pancreatic ductal adenocarcinoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749887/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42749887。",
-      "report": "There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42749540",
-      "signalId": "pubmed-42749540",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Liquid biopsy in glioblastoma: emerging technologies and translational opportunities.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749540/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42749540。",
-      "report": "Glioblastoma remains highly aggressive, with limited treatment response and poor prognosis. Tissue biopsy (TB) is invasive and fail to capture tumor heterogeneity or temporal dynamics. Liquid biopsy (LB) provides a noninvasive alternative for real-time monitor...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42749242",
-      "signalId": "pubmed-42749242",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Evolutionary genomics, tumor dynamics, and mathematical modeling of cancer progression: Implications for precision oncology.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749242/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases，PMID 为 42749242。",
-      "report": "Cancer is a disease of somatic evolution driven by the sequential acquisition of genetic alterations that confer reproductive advantage. Understanding how tumors grow, diversify, and adapt to therapeutic pressure requires an integrated framework spanning evolu...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42747630",
-      "signalId": "pubmed-42747630",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Role of glycosylated small noncoding RNAs in tumor: mechanism, function and clinical significance.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747630/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Glycoconjugate journal，PMID 为 42747630。",
-      "report": "GlycoRNAs are a newly identified class of post‑transcriptionally modified small non‑coding RNAs that carry covalently attached N‑ and O‑linked glycans. This discovery challenges the conventional view that glycosylation is exclusive to proteins and lipids, and...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42747628",
-      "signalId": "pubmed-42747628",
-      "companyIds": [],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-17",
-      "title": "Identification of a circulating miR-6838-5p/miR-195-5p signature in invasive ductal breast carcinoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747628/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42747628。",
-      "report": "Circulating miRNAs (c-miRNAs) are promising non-invasive biomarkers for breast cancer detection, but reproducible signatures remain limited. This study aimed to identify a circulating miRNA signature for invasive ductal breast carcinoma, evaluate its discrimin...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -531,37 +291,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42745166。",
       "report": "The inclusion of non-proteinogenic amino acids (npAAs) into proteins vastly expands their chemical repertoire and hence possible functional diversity. However, it remains challenging to obtain non-proteinogenic sequences that carry out a specific task. Here we...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42744200",
-      "signalId": "pubmed-42744200",
-      "companyIds": [],
-      "publishedAt": "2026-09-15",
-      "snapshotDate": "2026-09-17",
-      "title": "Nab-paclitaxel fused with the de novo designed receptor binder exhibits enhanced tumor targeting and therapeutic efficacy.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744200/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of controlled release : official journal of the Controlled Release Society，PMID 为 42744200。",
-      "report": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -851,6 +580,45 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42751175",
+      "signalId": "pubmed-42751175",
+      "companyIds": [],
+      "publishedAt": "2026-09-07",
+      "snapshotDate": "2026-09-17",
+      "title": "Human cardiovascular organoids: Biomedical applications and ethical challenges.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751175/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 American heart journal plus : cardiology research and practice，PMID 为 42751175。",
+      "report": "Cardiovascular disease (CVD) remains the leading cause of global mortality, yet traditional in vitro and animal models often fail to recapitulate the integrated structural, cellular, and functional complexity of the human heart. Recent advances in human plurip...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42741841",
       "signalId": "pubmed-42741841",
       "companyIds": [],
@@ -882,6 +650,69 @@
       "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42741841。",
       "report": "Inferring transcription factor (TF) activity from transcriptomes and predicting transcriptome-wide responses to TF perturbations remain challenging, in part because available TF-mRNA resources often face a trade-off between precision and coverage and typically...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42750804",
+      "signalId": "pubmed-42750804",
+      "companyIds": [],
+      "publishedAt": "2026-09-04",
+      "snapshotDate": "2026-09-17",
+      "title": "A human two-hit platform modeling post-ischemic sterile inflammation and diastolic dysfunction in hiPSC-derived cardiac models.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750804/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42750804。",
+      "report": "Myocardial ischemia/reperfusion (MI/R) injury exposes the heart to a sequential surge of oxidative stress and sterile inflammation, driving maladaptive remodeling and lethal arrhythmias. However, the human-specific mechanisms linking post-ischemic inflammation...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42751476",
+      "signalId": "pubmed-42751476",
+      "companyIds": [],
+      "publishedAt": "2026-09-04",
+      "snapshotDate": "2026-09-17",
+      "title": "Circulating immune profiling reveals immune signatures associated with disease stage and outcome in endometrial cancer.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751476/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42751476。",
+      "report": "Although the tumor immune microenvironment has been studied in endometrial cancer, the systemic immune alterations associated with disease progression and their potential prognostic significance remain poorly defined. In this study, peripheral blood immune sub...",
+      "inference": "自动分类命中规则：Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -978,32 +809,69 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42743923",
-      "signalId": "pubmed-42743923",
+      "id": "evidence-pubmed-42751249",
+      "signalId": "pubmed-42751249",
       "companyIds": [],
-      "publishedAt": "2026-09-03",
+      "publishedAt": "2026-09-02",
       "snapshotDate": "2026-09-17",
-      "title": "Sampling protein language models for functional protein design.",
-      "eventType": "Research",
+      "title": "AI-driven radiomics and radiogenomics: supporting the assessment and differentiation of pseudoprogression in cellular immunotherapy for glioblastoma.",
+      "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743923/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751249/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42751249。",
+      "report": "Glioblastoma (GBM) is the most aggressive type of primary brain tumour in adults, and after treatment, it is also difficult to know whether a person's health has improved. Pseudoprogression (PsP), particularly following radiotherapy and combination therapy wit...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42750980",
+      "signalId": "pubmed-42750980",
+      "companyIds": [],
+      "publishedAt": "2026-09-02",
+      "snapshotDate": "2026-09-17",
+      "title": "Multimodal medical diagnosis: a mini review of LLM-vision fusion models in low-resource healthcare settings.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750980/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery"
+        "Diagnostics",
+        "Precision Medicine",
+        "Healthcare AI",
+        "Medical LLM"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
+        "诊断",
+        "精准医疗",
+        "医疗 AI",
+        "临床决策支持"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42743923。",
-      "report": "Protein language models have emerged as powerful tools for learning rich protein representations, improving tasks like structure prediction, mutation effect estimation, and homology detection. Their ability to model complex sequence distributions also holds pr...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42750980。",
+      "report": "Recent advances in large language models (LLMs) and vision transformers have enabled multimodal systems that integrate clinical text with medical imaging for diagnostic decision-making. While these systems show promising results on benchmark datasets in well-r...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1071,6 +939,36 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42750947",
+      "signalId": "pubmed-42750947",
+      "companyIds": [],
+      "publishedAt": "2026-08-31",
+      "snapshotDate": "2026-09-17",
+      "title": "CellSearch-based isolation of circulating tumor cells from ascitic fluid enables molecular characterization of ovarian cancer.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750947/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42750947。",
+      "report": "High-grade serous tubo-ovarian cancer (HGSOC) frequently presents with malignant ascites, a biologically relevant compartment rich in tumor cells. While circulating tumor cells (CTCs) in peripheral blood (PB) are often scarce, ascitic fluid (AF) may represent...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-pubmed-42699656",
@@ -1243,6 +1141,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-pubmed-42751633",
+      "signalId": "pubmed-42751633",
+      "companyIds": [],
+      "publishedAt": "2026-08-17",
+      "snapshotDate": "2026-09-17",
+      "title": "Extreme Carcinoembryonic Antigen Elevation Revealing Clinically Silent Colonic Metastases From Gastric Adenocarcinoma: A Case Report.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751633/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42751633。",
+      "report": "Gastric adenocarcinoma rarely metastasizes to the colon, and extreme carcinoembryonic antigen (CEA) elevation exceeding 1,000 ng/mL occurs in approximately 1.3% of gastric cancers, where it is strongly associated with lymphatic dissemination and poorly differe...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001110803-000119312526354010",
       "signalId": "sec-0001110803-000119312526354010",
       "companyIds": [
@@ -1272,6 +1200,35 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42751666",
+      "signalId": "pubmed-42751666",
+      "companyIds": [],
+      "publishedAt": "2026-08-13",
+      "snapshotDate": "2026-09-17",
+      "title": "MiLaSol: modeling protein solubility by mixing up multiple protein language models.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751666/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics advances，PMID 为 42751666。",
+      "report": "Protein solubility is a critical property that significantly impacts therapeutic efficacy and protein reengineering applications. Recent advances in machine learning and deep learning techniques provide unprecedented opportunities to develop predictive models...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001110803-000095015726000888",
@@ -3141,6 +3098,36 @@
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
+      "id": "evidence-pubmed-42750936",
+      "signalId": "pubmed-42750936",
+      "companyIds": [],
+      "publishedAt": "2026-04-16",
+      "snapshotDate": "2026-09-17",
+      "title": "Implementing multimodal liquid biopsy in glioblastoma: A prospective feasibility study of a standardized clinical workflow.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750936/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology practice，PMID 为 42750936。",
+      "report": "Glioblastoma (GBM) is the most common and aggressive primary brain tumor in adults, characterized by poor prognosis and limited treatment options. Liquid biopsy offers a minimally invasive approach for molecular profiling and disease monitoring, potentially ov...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-clinicaltrials-NCT04839003",
       "signalId": "clinicaltrials-NCT04839003",
       "companyIds": [],
@@ -3326,6 +3313,35 @@
       "report": "The aims of ZOLARMAB2 are fourfold. First, the investigators want to investigate if multiple infusions of zoledronate can prevent the rebound activation of bone turnover and the subsequent bone loss in patients previously treated with denosumab and if there is...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：clinical registry。登记状态和设计字段不能直接证明疗效或安全性。",
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+    },
+    {
+      "id": "evidence-pubmed-42751410",
+      "signalId": "pubmed-42751410",
+      "companyIds": [],
+      "publishedAt": "2025-08-22",
+      "snapshotDate": "2026-09-17",
+      "title": "Generative design of functional organic molecules for terahertz radiation detection.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751410/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Digital discovery，PMID 为 42751410。",
+      "report": "Plasmonic nanocavities are molecule-nanoparticle junctions that offer a promising approach to upconvert terahertz radiation into visible or near-infrared light, enabling nanoscale detection at room temperature. However, the identification of molecules with str...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT07107386",
