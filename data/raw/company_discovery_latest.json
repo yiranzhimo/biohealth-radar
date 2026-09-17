@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-17T11:48:34.705998+00:00",
+  "capturedAt": "2026-09-17T17:05:00.557771+00:00",
   "summary": {
     "mentionCount": 663,
     "candidateCount": 594,
@@ -20,45 +20,76 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-10e4c7e472c075b4",
-      "observedName": "Freenome Holdings Inc.",
-      "normalizedName": "freenome holdings",
+      "id": "mention-clinicaltrials-2b287f8c9954a581",
+      "observedName": "ImmuneSensor Therapeutics Inc.",
+      "normalizedName": "immunesensor therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06122077",
-      "sourceDate": "2025-08-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06122077",
+      "sourceRecordId": "NCT07364513",
+      "sourceDate": "2026-01-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07364513",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
         "Recruiting",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
+        "临床试验"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Clinical Validation of Freenome Multiomics Blood Test for Lung Cancer Screening"
+      "contextTitle": "Phase 1b Safety Study of IMSB301 in Type 1 Interferonopathies"
     },
     {
-      "id": "mention-clinicaltrials-2e6af9a4d562976c",
-      "observedName": "Tyme, Inc",
-      "normalizedName": "tyme",
+      "id": "mention-clinicaltrials-586c0eaf8d19a2a0",
+      "observedName": "IBM China/Hong Kong Limited",
+      "normalizedName": "ibm china hong kong",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02796898",
-      "sourceDate": "2019-07-22",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02796898",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04156880",
+      "sourceDate": "2024-02-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04156880",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Longevity",
+        "Medical AI",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "临床决策支持",
+        "临床试验",
+        "乳腺癌",
+        "医疗 AI",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Artificial Intelligence in Mammography-Based Breast Cancer Screening"
+    },
+    {
+      "id": "mention-clinicaltrials-6b6d5f1bc288fbe5",
+      "observedName": "Epizyme, Inc.",
+      "normalizedName": "epizyme",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04624113",
+      "sourceDate": "2024-02-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04624113",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -72,36 +103,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of the Efficacy, Safety, and Pharmacokinetics of SM88 in Patients With Prostate Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-8c9172586ec0d9dc",
-      "observedName": "Vedic Lifesciences Pvt. Ltd.",
-      "normalizedName": "vedic lifesciences pvt",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06188949",
-      "sourceDate": "2025-01-31",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06188949",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Precision Medicine",
-        "biomarker",
-        "临床试验",
-        "精准医疗",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "A Study to Evaluate Efficacy of Dietary Ingredient in Vitality and Metabolic Factors in Healthy Individuals"
+      "contextTitle": "Tazemetostat and Pembrolizumab in Patients With Pembrolizumab- or Nivolumab-Resistant, Recurrent or Metastatic Head and Neck Squamous-Cell Carcinoma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44051,43 +44053,29 @@
       ]
     },
     {
-      "id": "candidate-freenome-holdings",
-      "name": "Freenome Holdings Inc.",
+      "id": "candidate-immunesensor-therapeutics",
+      "name": "ImmuneSensor Therapeutics Inc.",
       "aliases": [
-        "Freenome Holdings Inc."
+        "ImmuneSensor Therapeutics Inc."
       ],
-      "normalizedName": "freenome holdings",
+      "normalizedName": "immunesensor therapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-08-05",
-      "lastSeenAt": "2025-08-05",
+      "firstSeenAt": "2026-01-23",
+      "lastSeenAt": "2026-01-23",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
           "Recruiting",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
           "Recruiting",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "tags": []
       },
@@ -44100,135 +44088,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-10e4c7e472c075b4"
+        "mention-clinicaltrials-2b287f8c9954a581"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-08-05",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06122077",
-          "externalId": "NCT06122077",
-          "contextTitle": "Clinical Validation of Freenome Multiomics Blood Test for Lung Cancer Screening"
-        }
-      ]
-    },
-    {
-      "id": "candidate-tyme",
-      "name": "Tyme, Inc",
-      "aliases": [
-        "Tyme, Inc"
-      ],
-      "normalizedName": "tyme",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2019-07-22",
-      "lastSeenAt": "2019-07-22",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-2e6af9a4d562976c"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2019-07-22",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02796898",
-          "externalId": "NCT02796898",
-          "contextTitle": "Study of the Efficacy, Safety, and Pharmacokinetics of SM88 in Patients With Prostate Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-vedic-lifesciences-pvt",
-      "name": "Vedic Lifesciences Pvt. Ltd.",
-      "aliases": [
-        "Vedic Lifesciences Pvt. Ltd."
-      ],
-      "normalizedName": "vedic lifesciences pvt",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-01-31",
-      "lastSeenAt": "2025-01-31",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-8c9172586ec0d9dc"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-01-31",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06188949",
-          "externalId": "NCT06188949",
-          "contextTitle": "A Study to Evaluate Efficacy of Dietary Ingredient in Vitality and Metabolic Factors in Healthy Individuals"
+          "sourceDate": "2026-01-23",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07364513",
+          "externalId": "NCT07364513",
+          "contextTitle": "Phase 1b Safety Study of IMSB301 in Type 1 Interferonopathies"
         }
       ]
     },
@@ -47502,6 +47372,140 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11397464",
           "externalId": "11397464",
           "contextTitle": "Specificity Screening Drug Development Tool for Biotherapeutic Safety"
+        }
+      ]
+    },
+    {
+      "id": "candidate-epizyme",
+      "name": "Epizyme, Inc.",
+      "aliases": [
+        "Epizyme, Inc."
+      ],
+      "normalizedName": "epizyme",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2024-02-21",
+      "lastSeenAt": "2024-02-21",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-6b6d5f1bc288fbe5"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2024-02-21",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04624113",
+          "externalId": "NCT04624113",
+          "contextTitle": "Tazemetostat and Pembrolizumab in Patients With Pembrolizumab- or Nivolumab-Resistant, Recurrent or Metastatic Head and Neck Squamous-Cell Carcinoma"
+        }
+      ]
+    },
+    {
+      "id": "candidate-ibm-china-hong-kong",
+      "name": "IBM China/Hong Kong Limited",
+      "aliases": [
+        "IBM China/Hong Kong Limited"
+      ],
+      "normalizedName": "ibm china hong kong",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2024-02-07",
+      "lastSeenAt": "2024-02-07",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "biomarker",
+          "临床决策支持",
+          "临床试验",
+          "乳腺癌",
+          "医疗 AI",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Healthcare AI",
+          "Longevity",
+          "Medical AI",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "biomarker",
+          "临床决策支持",
+          "临床试验",
+          "乳腺癌",
+          "医疗 AI",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-586c0eaf8d19a2a0"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2024-02-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04156880",
+          "externalId": "NCT04156880",
+          "contextTitle": "Artificial Intelligence in Mammography-Based Breast Cancer Screening"
         }
       ]
     }
