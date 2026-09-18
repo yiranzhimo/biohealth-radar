@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-09-17T08:41:15+00:00",
+  "capturedAt": "2026-09-18T08:16:51+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -430,8 +430,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [
         "Cell Therapy",
@@ -602,8 +601,7 @@
       },
       "matchedTerms": [
         "cell therapy",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
         "AI Drug Discovery",
@@ -659,12 +657,11 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "FAST-TRACK PHASE I and II ABSTRACT Without treatment, chronic hepatitis B virus (HBV) infection can lead to cirrhosis of the liver, hepatocellular carcinoma or liver failure. Current therapies effectively control the disease, but are rarely curative. The goal of this proposal…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11364197"
@@ -719,7 +716,8 @@
       },
       "matchedTerms": [
         "biotechnology",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "topicHints": [
         "AI Drug Discovery",
@@ -748,7 +746,8 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "topicHints": [
         "Cell Therapy"
@@ -837,6 +836,31 @@
       ],
       "projectSummaryExcerpt": "Cancer-associated cachexia (CAC) is a systemic syndrome defined by substantial weight loss or skeletal muscle atrophy. The condition decreases quality of life, leads to higher mortality rates, and reduces tolerance for cancer treatments such as radio- and chemotherapy. CAC…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11313729"
+    },
+    {
+      "applId": 11312959,
+      "projectNum": "1R44CA310037-01",
+      "projectTitle": "STING agonist-expressing BCG to enhance bladder cancer therapy",
+      "fiscalYear": 2026,
+      "awardAmount": 1030215,
+      "awardNoticeDate": "2026-09-10",
+      "projectStartDate": "2026-09-10",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "ONCOSTING LLC",
+        "city": "BALTIMORE",
+        "state": "MD",
+        "country": "UNITED STATES",
+        "uei": "DJXQC89K4S79",
+        "ipf": "10057923",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Abstract OncoSTING is developing a novel immunotherapy for bladder cancer leveraging Bacillus Calmette-Guérin (BCG) to deliver a STING agonist for improved antitumor responses. Bladder cancer is the fourth most common cancer in men and approximately 75% of new patients present…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312959"
     },
     {
       "applId": 11309523,
@@ -1659,33 +1683,6 @@
       ],
       "projectSummaryExcerpt": "PROJECT SUMMARY/ABSTRACT As the most commonly diagnosed cancer in women, breast cancer represents a significant global health challenge, particularly in under-resourced settings such as rural regions of the United States as well as in Low and Middle-Income Countries (LMICs)…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11405001"
-    },
-    {
-      "applId": 11316507,
-      "projectNum": "2R44AI172551-04",
-      "projectTitle": "PANDAA for universal, pan-lineage molecular detection of filoviruses to enable rapid epidemic response.",
-      "fiscalYear": 2026,
-      "awardAmount": 996962,
-      "awardNoticeDate": "2026-09-02",
-      "projectStartDate": "2022-08-01",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "ALDATU BIOSCIENCES, INC.",
-        "city": "Watertown",
-        "state": "MA",
-        "country": "UNITED STATES",
-        "uei": "N29WVC3UJCB9",
-        "ipf": "10036337",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "molecular diagnostics"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Ebolavirus (EBOV) and Marburgvirus (MARV) cause severe hemorrhagic fevers in humans and primates and are listed WHO high-priority pathogens. EBOV and MARV genomic sequences differ by >55%, and within each genera the species sequence diversity threshold is >23% thus detection by…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11316507"
     }
   ]
 }

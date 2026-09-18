@@ -6806,101 +6806,6 @@
       ]
     },
     {
-      "companyId": "candidate-aldatu-biosciences",
-      "name": "Aldatu Biosciences, Inc.",
-      "asOfDate": "2026-09-18",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11316507",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10036337"
-          ],
-          "uei": [
-            "N29WVC3UJCB9"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-aldatu-biosciences-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-            "date": "2026-08-18",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11316507"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-          "date": "2026-08-18",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316507"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-aldeyra-therapeutics",
       "name": "Aldeyra Therapeutics, Inc.",
       "asOfDate": "2026-09-18",
@@ -39647,8 +39552,7 @@
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
+          "cell therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -53108,8 +53012,7 @@
         "directions": [
           "Cell Therapy",
           "RNA Therapeutics",
-          "biotechnology",
-          "gene therapy"
+          "biotechnology"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -59419,6 +59322,100 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-okyo-pharma-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001849296"
+        }
+      ]
+    },
+    {
+      "companyId": "candidate-oncosting",
+      "name": "Oncosting LLC",
+      "asOfDate": "2026-09-18",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11312959",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10057923"
+          ],
+          "uei": [
+            "DJXQC89K4S79"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-oncosting-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-oncosting-official-6701336049be",
+            "date": "2026-09-14",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-oncosting-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11312959"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-14",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-oncosting-official-6701336049be",
+          "date": "2026-09-14",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-oncosting-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11312959"
         }
       ]
     },
@@ -66109,8 +66106,7 @@
           "AI Drug Discovery",
           "Precision Diagnostics",
           "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -66759,7 +66755,8 @@
           "Organoids & Disease Models",
           "Precision Diagnostics",
           "biotechnology",
-          "drug discovery"
+          "drug discovery",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -70057,7 +70054,8 @@
         "companyType": "Therapeutics",
         "directions": [
           "Cell Therapy",
-          "biotechnology"
+          "biotechnology",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"

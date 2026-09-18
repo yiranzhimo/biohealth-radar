@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-17T08:41:48+00:00",
+  "capturedAt": "2026-09-18T08:17:15+00:00",
   "count": 591,
   "items": [
     {
@@ -851,24 +851,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aldatu-biosciences",
-      "name": "Aldatu Biosciences, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11316507",
-      "identifiers": {
-        "nihIpf": [
-          "10036337"
-        ],
-        "uei": [
-          "N29WVC3UJCB9"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -4997,8 +4979,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6573,8 +6554,7 @@
       "sourceTypes": [
         "Cell Therapy",
         "RNA Therapeutics",
-        "biotechnology",
-        "gene therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -7284,6 +7264,23 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-oncosting",
+      "name": "Oncosting LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11312959",
+      "identifiers": {
+        "nihIpf": [
+          "10057923"
+        ],
+        "uei": [
+          "DJXQC89K4S79"
+        ]
+      },
+      "sourceTypes": [
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8170,8 +8167,7 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "cell therapy",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8261,7 +8257,8 @@
         "Organoids & Disease Models",
         "Precision Diagnostics",
         "biotechnology",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8677,7 +8674,8 @@
       },
       "sourceTypes": [
         "Cell Therapy",
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
