@@ -4,90 +4,165 @@
   "asOfDate": "2026-09-18",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-2b287f8c9954a581",
-      "observedName": "ImmuneSensor Therapeutics Inc.",
-      "normalizedName": "immunesensor therapeutics",
+      "id": "mention-clinicaltrials-0dfca3bd985053fc",
+      "observedName": "BEYOND GENOMiX SA, AG, Ltd",
+      "normalizedName": "beyond genomix",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07364513",
-      "sourceDate": "2026-01-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07364513",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Phase 1b Safety Study of IMSB301 in Type 1 Interferonopathies"
-    },
-    {
-      "id": "mention-clinicaltrials-586c0eaf8d19a2a0",
-      "observedName": "IBM China/Hong Kong Limited",
-      "normalizedName": "ibm china hong kong",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04156880",
-      "sourceDate": "2024-02-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04156880",
+      "sourceRecordId": "NCT07404969",
+      "sourceDate": "2026-04-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07404969",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
         "Longevity",
-        "Medical AI",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
+        "Recruiting",
         "biomarker",
-        "临床决策支持",
         "临床试验",
-        "乳腺癌",
-        "医疗 AI",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "衰老"
       ],
       "activitySignals": [
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Artificial Intelligence in Mammography-Based Breast Cancer Screening"
+      "contextTitle": "Biological Aging Hallmarks-Guided Integrative TCM and Conventional Medicine in Post-Treatment Unexplained Female Infertility"
     },
     {
-      "id": "mention-clinicaltrials-6b6d5f1bc288fbe5",
-      "observedName": "Epizyme, Inc.",
-      "normalizedName": "epizyme",
+      "id": "mention-clinicaltrials-0e4489f153138e02",
+      "observedName": "Janssen Pharmaceutical K.K.",
+      "normalizedName": "janssen pharmaceutical k k",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04624113",
-      "sourceDate": "2024-02-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04624113",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT00985959",
+      "sourceDate": "2013-12-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00985959",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
-        "Precision Oncology",
         "临床试验",
+        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Tazemetostat and Pembrolizumab in Patients With Pembrolizumab- or Nivolumab-Resistant, Recurrent or Metastatic Head and Neck Squamous-Cell Carcinoma"
+      "contextTitle": "A Study of JNJ-26866138 (Bortezomib) in Untreated Multiple Myeloma Patients Who Are Not Candidates for Hematopoietic Stem Cell Transplant (HSCT)"
+    },
+    {
+      "id": "mention-clinicaltrials-a67be6eee56ce8c3",
+      "observedName": "Fertisuisse Ltd, SA, AG",
+      "normalizedName": "fertisuisse",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07404969",
+      "sourceDate": "2026-04-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07404969",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Biological Aging Hallmarks-Guided Integrative TCM and Conventional Medicine in Post-Treatment Unexplained Female Infertility"
+    },
+    {
+      "id": "mention-clinicaltrials-c3f89644a3673086",
+      "observedName": "Sunstar, Inc.",
+      "normalizedName": "sunstar",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04105569",
+      "sourceDate": "2020-08-12",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04105569",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Atlas of Experimental Gingivitis in Humans"
+    },
+    {
+      "id": "mention-clinicaltrials-f0f9a6fd350dda5a",
+      "observedName": "Hangzhou Newhorizon Health Technology Co., Ltd.",
+      "normalizedName": "hangzhou newhorizon health technology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05613283",
+      "sourceDate": "2023-12-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial"
+      ],
+      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+    },
+    {
+      "id": "mention-clinicaltrials-fa41e599881c89f4",
+      "observedName": "BeijingNewBiorayTechnologyCo.,Ltd.",
+      "normalizedName": "beijingnewbioraytechnologyco",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05613283",
+      "sourceDate": "2023-12-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial"
+      ],
+      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
