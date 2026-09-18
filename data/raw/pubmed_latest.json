@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-17T21:26:53.185184+00:00",
+  "capturedAt": "2026-09-18T04:50:02.342846+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,161 +10,170 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-17",
-    "end": "2026-09-17"
+    "start": "2025-09-18",
+    "end": "2026-09-18"
   },
   "pmids": [
-    "42751175",
-    "42750804",
-    "42750336",
-    "42750313",
-    "42750187",
-    "42750038",
+    "42754133",
+    "42753878",
+    "42753732",
+    "42753730",
+    "42753673",
+    "42753218",
+    "42753692",
     "42749352",
     "42745547",
     "42741841",
     "42717098",
     "42715312",
-    "42699656",
+    "42753517",
     "42751666",
     "42751410",
     "42749516",
     "42747196",
     "42745879",
-    "42745166",
+    "42754189",
     "42751633",
     "42751476",
     "42751249",
     "42750980",
-    "42750947",
-    "42750936"
+    "42750947"
   ],
   "records": [
     {
-      "pmid": "42751175",
-      "title": "Human cardiovascular organoids: Biomedical applications and ethical challenges.",
-      "abstract": "Cardiovascular disease (CVD) remains the leading cause of global mortality, yet traditional in vitro and animal models often fail to recapitulate the integrated structural, cellular, and functional complexity of the human heart. Recent advances in human pluripotent stem cell technology, developmental bioengineering, and microphysiological systems have enabled the development of diverse three-dimensional cardiac tissue models, including self-organizing cardiovascular organoids and engineered cardiac platforms, three-dimensional constructs that partially recapitulate key myocardial features. These platforms facilitate mechanistic and disease-relevant modelling of congenital and acquired cardiac disorders, allow interrogation of arrhythmogenic mechanisms, and reproduce pathophysiological processes such as ischemia-reperfusion injury, fibrotic remodelling, and inflammatory cardiomyopathy with increasing physiological relevance. In translational contexts, these models are emerging as valuable tools in drug discovery pipelines, enabling high-throughput cardiotoxicity assessment and supporting regenerative medicine strategies, thereby bridging mechanistic research with preclinical validation. Integration with cutting-edge modalities-such as single-cell and spatial multi-omics, CRISPR-based genome editing, synthetic biology circuits, and artificial intelligence-driven phenomics further enhances their maturation and predictive accuracy, although their clinical applicability remains under active investigation. Despite these advances, challenges including batch-to-batch variability, limited vascularization, metabolic immaturity, and incomplete immune system incorporation continue to constrain physiological fidelity. Additionally, ethical and regulatory considerations spanning donor consent, genetic data privacy, biobanking governance, and model-specific translational and societal implications remain critical for responsible innovation. This review presents a comprehensive synthesis of current cardiovascular organoid research, highlights emerging biomedical applications, and provides a critical perspective on the ethical frameworks essential for advancing the field responsibly.",
-      "journal": "American heart journal plus : cardiology research and practice",
+      "pmid": "42754133",
+      "title": "Synergistic proline-based deep eutectic solvent enables low-toxicity microdroplet cryopreservation of 3D cell spheroids.",
+      "abstract": "Establishing in vitro organoid biobanks-three-dimensional (3D) self-organized microtissues derived from stem cells or patient tissues-holds great value for clinical disease modeling, drug screening, and regenerative medicine applications. However, current cryopreservation approaches are often constrained by the use of chemically harsh cryoprotectants (CPAs) and multi-step operation procedures, which may compromise biological integrity and limit practical applicability. To address these challenges, we report a low-toxicity cryopreservation strategy that integrates an L‑proline‑based deep eutectic solvent (DES) with controlled evaporative dehydration (CED) under negative pressure, thereby reducing reliance on high concentrations of conventional CPAs during the microdroplet cryopreservation of 3D cell spheroids. As a proof-of-concept study, NIH/3T3 spheroids were used as a reproducible 3D model to evaluate the feasibility of this strategy. The amino acid architecture of L-proline DES provides intrinsic biocompatibility, abundant hydrogen-bonding sites, and strong water-structuring capacity, enabling the formation of a protective microenvironment around 3D spheroids while reducing dependence on CPAs. During CED, the L‑proline DES establishes a non‑permeating protective microenvironment around spheroids, significantly alleviating osmotic injury. A low concentration of DMSO was introduced to form a binary synergistic system that optimized cryoprotectant mass transfer and intracellular concentration dynamics, thereby providing coordinated extracellular and intracellular protection during microdroplet quenching. Quenching after 4-6 min of CED was identified as the optimal cryopreservation window. Under these conditions, post-warming viability was approximately 30 percentage points higher than that obtained with conventional slow freezing. Further molecular analyses demonstrated that this L-proline DES system was associated with enhanced antioxidant defense and attenuation of ferroptosis-related oxidative injury. This work establishes an amino acid-derived DES system for CED-based microdroplet cryopreservation and elucidates its cryoprotective mechanisms at macroscopic and microscopic levels. Crucially, it offers an efficient, low-toxicity strategy for preserving complex 3D biological systems. STATEMENT OF SIGNIFICANCE: Cryopreservation of three-dimensional cell spheroids remains challenging because dense multicellular architectures limit cryoprotectant transport and increase sensitivity to osmotic and chemical injury. Here, we develop a biomaterial-enabled cryopreservation strategy combining an L-proline-based deep eutectic solvent with controlled evaporative dehydration (CED). This approach reduces dependence on high DMSO concentrations while enabling ice-free preservation and high post-thaw viability of 3D spheroids. Mechanistically, the DES-rich microenvironment buffers dehydration stress and suppresses ferroptosis-associated lipid peroxidation through regulation of iron homeostasis and GPX4/GSH antioxidant defense. This work provides a low-toxicity materials strategy for preserving complex 3D cellular constructs.",
+      "journal": "Acta biomaterialia",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Bio-thermal Science and Technology, Shanghai Co-innovation Center for Energy Therapy of Tumors, Shanghai Technical Service Platform for Cryopreservation of Biological Resources, University of Shanghai for Science and Technology, Shanghai 200093, China.",
+        "School of Medical and Information Engineering, Jiangxi Provincial Key Laboratory of Tissue Engineering, Scientific Research Center, Gannan Medical University, Ganzhou 341000, China; Institute of Bio-thermal Science and Technology, Shanghai Co-innovation Center for Energy Therapy of Tumors, Shanghai Technical Service Platform for Cryopreservation of Biological Resources, University of Shanghai for Science and Technology, Shanghai 200093, China.",
+        "Institute of Bio-thermal Science and Technology, Shanghai Co-innovation Center for Energy Therapy of Tumors, Shanghai Technical Service Platform for Cryopreservation of Biological Resources, University of Shanghai for Science and Technology, Shanghai 200093, China. Electronic address: xuyi@usst.edu.cn."
+      ],
+      "doi": "10.1016/j.actbio.2026.09.032",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754133/"
+    },
+    {
+      "pmid": "42753878",
+      "title": "Three-dimensional cell culture models in oncology: from tumour spheroids to integrated microphysiological systems.",
+      "abstract": "Traditional two-dimensional (2D) cell cultures fail to capture the structural, mechanical, and biochemical complexity of living tissues, prompting a major paradigm shift toward three-dimensional (3D) cell culture models. 3D systems faithfully replicate in vivo physiological architectures, dynamic cell-to-cell contacts, and extracellular matrix (ECM) interactions, bridging a critical gap in preclinical studies by predicting human therapeutic responses more accurately. This review explores the technological evolution from simple multicellular tumor spheroids to sophisticated microphysiological networks. Scaffold-free methods-including the hanging drop, low-adherent plates, magnetic levitation, and dynamic bioreactors-efficiently recreate the pathophysiological oxygen, nutrient, and metabolic gradients characteristic of solid tumor zonation and drug-resistance pathways. Conversely, scaffold-based systems leverage hydrogels, synthetic polymers, and decellularized matrices to dissect the biomechanics of matrix stiffness and mechanotransduction. At a higher tier of biological fidelity, patient-derived organoids preserve cellular heterogeneity, native tissue polarity, and accurate patient-specific mutational profiles, serving as critical pipelines for personalized medicine and precision drug screening. Furthermore, the integration of advanced microfluidic technologies has facilitated the engineering of tumor-, organ-, and multi-organ body-on-a-chip platforms. These microphysiological systems reconstruct dynamic fluid flow, functional tissue-vascular interfaces, physiological barriers (such as the blood-brain barrier), and systemic pharmacokinetic/pharmacodynamic (ADME) drug profiles. Beyond deepening mechanistic insights into oncology, these interconnected 3D models provide highly ethical, predictive, and cost-effective alternatives to animal experimentation in strict alignment with the 3Rs principles. Ultimately, these complementary 3D culture technologies are transforming oncology into a highly predictive, patient-tailored discipline.",
+      "journal": "Pharmacological research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Zoology, Jhargram Raj College, 721507, Jhargram, West Bengal, India.",
-        "Department of Pharmacological and Pharmaceutical Sciences, University of Houston, Houston, TX, 77004, USA.",
-        "Department of Dentistry, Faculty of Medical Sciences, University of Kragujevac, 34000, Kragujevac, Serbia.",
-        "Department of Medicine, University of California, San Francisco, CA, 94158, USA."
+        "Univ Angers, Inserm, CNRS, MINT, SFR ICAT, F-49000 Angers, France.",
+        "Univ Angers, Inserm, CNRS, MITOVASC, SFR ICAT, F-49000 Angers, France.",
+        "Univ Angers, Inserm, CNRS, MINT, SFR ICAT, F-49000 Angers, France. Electronic address: nicolas.clere@univ-angers.fr."
       ],
-      "doi": "10.1016/j.ahjo.2026.100882",
-      "date": "2026-09-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751175/"
+      "doi": "10.1016/j.phrs.2026.108465",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753878/"
     },
     {
-      "pmid": "42750804",
-      "title": "A human two-hit platform modeling post-ischemic sterile inflammation and diastolic dysfunction in hiPSC-derived cardiac models.",
-      "abstract": "Myocardial ischemia/reperfusion (MI/R) injury exposes the heart to a sequential surge of oxidative stress and sterile inflammation, driving maladaptive remodeling and lethal arrhythmias. However, the human-specific mechanisms linking post-ischemic inflammation to electromechanical dysfunction remain poorly defined. Here, we established a human Two-Hit model using human umbilical vein endothelial cells (HUVECs), human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs), and three-dimensional heart organoids (hHOs). This system integrates acute oxidative priming with the secretome generated by macrophages undergoing secondary necrosis (SN-Sec), thereby recapitulating a redox-active sterile inflammatory microenvironment relevant to the post-ischemic heart. The Two-Hit stress elicited striking cell-type-specific responses. HUVECs exhibited NF-κB activation, exhaustion of inducible antioxidant defenses, and irreversible cell death. In contrast, hiPSC-CMs survived oxidative and inflammatory stress but underwent maladaptive remodeling characterized by stress-induced cytoskeletal remodeling and disruption of gap junction integrity. Mechanistically, sterile inflammation was accompanied by a critical imbalance in calcium handling through selective accumulation of phospholamban (PLN) without a concomitant reduction in SERCA2a expression. The consequent stoichiometric shift markedly correlated with calcium decay kinetics and induced diastolic dysfunction. In hHOs, high-speed optical mapping revealed profound electromechanical discordance, where preserved electrical automaticity became uncoupled from delayed calcium cycling, creating a highly arrhythmogenic substrate. Collectively, these findings identify the ROS-sterile inflammation-PLN axis as a prominent molecular feature correlated with post-ischemic diastolic failure and arrhythmogenesis in human cardiac models. This Two-Hit platform provides a robust framework for dissecting inflammation-driven cardiac remodeling and for evaluating therapeutic strategies targeting post-ischemic electromechanical dysfunction.",
-      "journal": "Materials today. Bio",
+      "pmid": "42753732",
+      "title": "Elevated glucose in kidney organoids induces tissue-intrinsic inflammation driving epithelial detachment.",
+      "abstract": "Diabetic kidney disease involves hyperglycemia, inflammation, and epithelial cell dysfunction, but the relationship between these factors is not well understood. We demonstrate that human kidney organoids treated with elevated glucose exhibit a phenotype of epithelial detachment driven by tissue-intrinsic upregulation of proinflammatory cytokines, which can be targeted therapeutically. High glucose induces morphological deterioration of organoids featuring podocyte and tubular cell detachment without cytotoxicity. Cytokine addition sensitizes organoids to intermediate concentrations of elevated glucose. Transcriptomic analysis reveals that high glucose levels affect cytokine, inflammation, signaling, and cell adhesion pathways, resembling changes in human diabetic kidneys. Inhibitors of cytokines and signaling pathways rescue the high glucose phenotype, which is independent of osmotic effects. Thus, elevated glucose triggers a tissue-intrinsic inflammatory cascade to produce an organ-specific phenotype in epithelial cells. This paradigm is relevant for understanding and potentially treating diabetic complications in the kidneys and possibly other organs.",
+      "journal": "Stem cell reports",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Commercializing iPSC Technology, NEXEL Co., Ltd., 8th Floor, 55 Magokdong-ro, Gangseo-gu, Seoul, 07802, South Korea.",
-        "Laboratory of Stem Cells and Tissue Regeneration, Department of Biotechnology, College of Life Sciences and Biotechnology, Science Campus, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul, 02841, South Korea."
+        "Division of Nephrology, Seattle, WA 98109, USA; Department of Medicine, Seattle, WA 98109, USA; Institute for Stem Cells and Regenerative Medicine, Seattle, WA 98109, USA; Kidney Research Institute, Seattle, WA 98109, USA; University of Washington, Seattle, WA, USA.",
+        "Institute for Stem Cells and Regenerative Medicine, Seattle, WA 98109, USA; University of Washington, Seattle, WA, USA.",
+        "Diabetes & Complications, Global Research, Novo Nordisk, Lexington, MA, USA; Immunobiology, Global Drug Discovery, Novo Nordisk, Lexington, MA, USA.",
+        "Translational and Clinical Omics, Novo Nordisk A/S, Soborg, Denmark.",
+        "Diabetes & Complications, Global Research, Novo Nordisk, Lexington, MA, USA.",
+        "Division of Nephrology, Seattle, WA 98109, USA; Department of Medicine, Seattle, WA 98109, USA; Institute for Stem Cells and Regenerative Medicine, Seattle, WA 98109, USA; Kidney Research Institute, Seattle, WA 98109, USA; University of Washington, Seattle, WA, USA; Department of Cell and Systems Biology, Miami, FL 33136, USA; Peggy and Harold Katz Family Drug Discovery Center, Miami, FL 33136, USA; University of Miami Miller School of Medicine, Miami, FL 33136, USA. Electronic address: bfreedman@miami.edu."
       ],
-      "doi": "10.1016/j.mtbio.2026.103634",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750804/"
+      "doi": "10.1016/j.stemcr.2026.103081",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753732/"
     },
     {
-      "pmid": "42750336",
-      "title": "Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing.",
-      "abstract": "Ageing is associated with colon epithelial barrier disruption and up-regulation of myelopoiesis in the bone marrow (BM). Alamandine (Ala) and MrgD are novel members of the renin angiotensin system (RAS). This study tested the hypothesis that Ala restores the colon epithelial barrier integrity in ageing via modulating gut-BM axis. Mice, 2-3 (Young) or 22-24 months (Old), were treated with saline or Ala by using Osmotic pumps. The intestinal permeability was evaluated using FITC-dextran. Lgr5+Olfm4+ intestinal stem cells (ISCs), Wnt3a and β-catenin were evaluated by immunohistochemistry or western blotting. Faecal microbiome was analysed by 16S rRNA sequencing. Monocyte-macrophages were characterized by flow cytometry. Caecal or serum bacterial metabolites were analysed and the caecal supernatants (CS) were tested for myelopoietic potential. MrgD was expressed in ISCs, which was decreased in the Old. Increased intestinal permeability in ageing was reversed by Ala. In the colon organoids, Ala increased Wnt3a levels and this was antagonized by NF449, SQ22536 or 666-15. Ala restored phospho-CREB and active β-catenin levels that were decreased in the Old colon-organoids. Ala increased the richness and β-diversity of the microbiota with decreased Bacillota/Bacteroidota in ageing. Ala decreased the CD80+ and increased CX3CR+ macrophages in the Old colons. Old-CS induced myelopoiesis in BM cells with higher number of pro-inflammatory macrophages, which was prevented by Ala treatment. Targeting Ala/MrgD pathway is a promising approach for ameliorating the inflammatory stress in ageing by restoring homeostasis in the gut-BM inter-organ communication.",
-      "journal": "British journal of pharmacology",
+      "pmid": "42753730",
+      "title": "Zonated cholesterol sensing by SIRT2 drives MASLD-HCC.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a leading cause of hepatocellular carcinoma (HCC), but how metabolic zonation drives regional transformation remains unclear. We identify sirtuin 2 (SIRT2) as a zonated cholesterol sensor that initiates reprogramming to drive MASLD-HCC. Lineage tracing establishes zone 1 hepatocytes as the cellular origin of tumors. SIRT2 overexpression in zone 1 triggers HCC, whereas its deletion prevents carcinogenesis by restoring cholesterol and bile acid metabolism and CD8+ T cell recruitment. Mechanistically, cholesterol binds and activates SIRT2, which deacetylates sterol carrier protein 2 (SCP2) at Lys546, thereby blocking peroxisome proliferator-activated receptor α (PPARα) recruitment to the Cyp7b1 promoter, suppressing alternative bile acid synthesis, and permitting 27-hydroxycholesterol accumulation. SIRT2 inhibition reverses this cascade in mice and human hepatic organoids. Patient specimens confirm zonal SIRT2 and cytochrome P450 7B1 (CYP7B1) dysregulation. Our findings establish spatially compartmentalized cholesterol sensing as a new regulatory layer and identify SIRT2 as a druggable target in liver cancer.",
+      "journal": "Cell metabolism",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Pharmaceutical Sciences, College of Health and Human Sciences, North Dakota State University, Fargo, North Dakota, USA.",
-        "University of Missouri Metagenomics Center, Department of Pathobiology and Integrative Biomedical Sciences, College of Veterinary Medicine, University of Missouri, Columbia, Missouri, USA.",
-        "School of Biomedical Sciences, University of North Dakota, Grand Forks, North Dakota, USA."
+        "Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Department of Pathophysiology, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Department of Laboratory Medicine and Central Laboratory, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Clinicopathological Diagnosis & Research Center, the Affiliated Hospital of Youjiang Medical University for Nationalities, Department of Basic Research, Key Laboratory of Tumor Molecular Pathology of Guangxi Higher Education Institutes, Baise, China.",
+        "Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Department of Pathophysiology, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Department of Pathophysiology, Shanghai Jiao Tong University School of Medicine, Shanghai, China; School of Basic Medical Sciences, Shandong Second Medical University, Weifang, China.",
+        "School of Life Science and Technology, ShanghaiTech University, Shanghai Clinical Research and Trial Center, Shanghai, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, Institute of Medical Artificial Intelligence, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Department of Pathophysiology, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Key Laboratory of Tropical Translational Medicine of Ministry of Education, School of Basic Medicine, Hainan Academy of Medical Sciences, Hainan Medical University, Haikou, China; Institute of Aging & Tissue Regeneration, State Key Laboratory of Systems Medicine for Cancer, Ren-Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200127, China. Electronic address: chengq@shsmu.edu.cn.",
+        "Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of National Ministry of Education, Department of Pathophysiology, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Clinicopathological Diagnosis & Research Center, the Affiliated Hospital of Youjiang Medical University for Nationalities, Department of Basic Research, Key Laboratory of Tumor Molecular Pathology of Guangxi Higher Education Institutes, Baise, China. Electronic address: heming@shsmu.edu.cn."
       ],
-      "doi": "10.1111/bph.70656",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750336/"
+      "doi": "10.1016/j.cmet.2026.08.015",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753730/"
     },
     {
-      "pmid": "42750313",
-      "title": "RBM25 Drives Hepatocellular Carcinoma Progression by Stabilizing YAP Through Regulating Oncogenic Splicing-switch of MYPT1.",
-      "abstract": "Deregulated alternative splicing (AS) is a hallmark of hepatocellular carcinoma (HCC), yet the specific splicing factors driving oncogenic programs remain largely uncharacterized. Here, we identify RNA-binding motif protein 25 (RBM25) as a potent oncogenic driver that is overexpressed in HCC and correlates with dismal patient prognosis. Functionally, RBM25 depletion impairs HCC progression across in vitro models, in vivo xenografts, and patient-derived organoids. Integrated transcriptomic and interactome profiling reveals that RBM25 orchestrates a specific AS landscape, most notably promoting exon 13 inclusion of MYPT1. Mechanistically, RBM25 recruits PRPF40A to facilitate the production of the oncogenic MYPT1-L isoform. This isoform switch acts as a molecular stabilizer for the transcriptional co-activator YAP, thereby sustaining Hippo pathway dysregulation and tumor growth. Finally, a high-throughput screen of the US drug collection identified candicidin as a small-molecule inhibitor that suppresses RBM25 expression, effectively phenocopying RBM25 knockdown. Our findings define the RBM25-MYPT1-YAP axis as a critical vulnerability in HCC and nominate RBM25 as a viable prognostic biomarker and therapeutic target.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42753673",
+      "title": "Novel functions of taste-like cells: Organoid-reconstructed sensory interfaces.",
+      "abstract": "Endoderm-derived organs, including the gastrointestinal tract, play central roles in nutrient digestion and absorption. They simultaneously function as an \"internalized external environment\" that continuously interfaces with exogenous substances, thereby constituting a frontline of host defense. Chemosensory cells within the gastrointestinal epithelium, such as enteroendocrine cells and tuft cells, use molecular mechanisms analogous to those of taste reception to detect nutrients and xenobiotic compounds. However, because these populations are sparse, a comprehensive understanding of their functions is limited. Organoid culture systems have been developed to investigate rare chemosensory cells in endoderm-derived organs, including the gastrointestinal tract, pancreas, and taste buds, with studies progressing from mouse to primate models to improve translational relevance. Here, recent findings using primate-derived organoids of the gastrointestinal tract, pancreatic ducts, and taste buds are introduced, with particular emphasis on tuft cells. A working hypothesis is proposed in which sustained low-level chemical stimulation of tuft cells helps maintain the host defense system in a primed state, a state termed \"immune idling,\" and this framework is discussed in relation to the possible biological significance of human bitter preference. Thus, endodermal chemosensory mechanisms may function as an integrated system linking metabolic regulation and host defense.",
+      "journal": "Journal of oral biosciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Faculty of Applied Bioscience, Tokyo University of Agriculture, Setagaya-ku, Tokyo, Japan. Electronic address: ki204886@nodai.ac.jp.",
+        "Faculty of Applied Bioscience, Tokyo University of Agriculture, Setagaya-ku, Tokyo, Japan."
+      ],
+      "doi": "10.1016/j.job.2026.100814",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753673/"
+    },
+    {
+      "pmid": "42753218",
+      "title": "Organoids Serve as Viable In Vitro Model for Functional Precision Medicine for Mesonephric-Like Adenocarcinoma of the Ovary.",
+      "abstract": "",
+      "journal": "JCO precision oncology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Sino-US Research Center for Cancer Translational Medicine of the Second Affiliated Hospital of Dalian Medical University & Institute of Cancer Stem Cell, Dalian Medical University, Dalian, China.",
-        "Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
-        "CAS Key Laboratory of Computational Biology, Bio-Med Big Data Center, Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai, China.",
-        "Department of Immunology, College of Basic Medical Sciences, Dalian Medical University, Dalian, China.",
-        "State Key Laboratory of Medical Proteomics, National Chromatographic R. & A. Center, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China.",
-        "Translational Cancer Research Center, Peking University First Hospital, Beijing, China.",
-        "Department of Pathology, First Affiliated Hospital, Dalian Medical University, Dalian, China.",
-        "Soochow University Cancer Institute, Suzhou, China."
+        "Department of Gynaecology and Obstetrics, University Hospital Schleswig-Holstein, Kiel, Germany.",
+        "Unit for 3D-Patient Avatars and Personalized Medicine, Department of Gynaecology and Obstetrics, University Hospital Schleswig-Holstein, Kiel, Germany.",
+        "Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital Schleswig-Holstein, Kiel, Germany.",
+        "Molecular Epidemiology Unit, Berlin Institute of Health at the Charité - Universitätsmedizin Berlin, Berlin, Germany.",
+        "Department of Pathology, University Hospital Schleswig-Holstein, Kiel, Germany.",
+        "Department of Medicine II, Haematology and Oncology, University Hospital Schleswig-Holstein, Kiel, Germany.",
+        "Department of Haematology and Oncology, University Hospital Schleswig-Holstein, Lübeck, Germany.",
+        "University Cancer Centre Schleswig-Holstein, University Hospital Schleswig-Holstein, Lübeck, Germany.",
+        "Medical Systems Biology Group, Lübeck Institute of Experimental Dermatology, Universität zu Lübeck, Lübeck, Germany.",
+        "Clinic and Polyclinic for Gynaecology and Reproductive Medicine, University Hospital Jena, Jena, Germany."
       ],
-      "doi": "10.1002/advs.77792",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750313/"
+      "doi": "10.1200/PO-26-00661",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753218/"
     },
     {
-      "pmid": "42750187",
-      "title": "Plant Metabolites Screening Identifies 7-epi-10-Deacetyltaxol Inhibiting Cell Division by Interfering With the Cell Cycle and Microtubule Organization.",
-      "abstract": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the cell from dividing normally. Disorder of cell division also leads to abnormal growth and development in plants. It is worthy of consideration whether these metabolites have negative effects on plants per se. In this study, we developed an efficient screening system for identifying plant metabolites affecting rapeseed seedling root growth. One compound, 7-epi-10-deacetyltaxol, inhibited tissue elongation by adversely altering cell division and elongation. And it was applied to plant cell lines, rat vascular smooth muscle cells, and human tumor organoids, resulting in similar cell division suppression. Transcriptome and proteomics analysis indicated the suppression in plant growth was through brassinosteroid-regulated expression of cell cycle proteins, while cytological observation reveals microtubule morphology anomalies. Single-nucleus transcriptome sequencing revealed inhibitory effects of ovarian cancer organoids. Together, our findings identified a universal cell division inhibitor and characterized its conserved function with respective regulatory mechanisms, providing new insights into what role \"harmful\" plant metabolites are playing in plants.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42753692",
+      "title": "A world model of the virtual cell.",
+      "abstract": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful computational system capable of simulating the activity and behavior of a living cell. Such a system could shift cell biology from trial-and-error experimentation with cell-culture models in the wet lab toward systematic simulation of combinatorial interventions in a digital laboratory. In this paper, we propose the world model as an operational framework for realizing this vision-an emerging AI paradigm that supports action-conditioned simulation, counterfactual reasoning and long-horizon planning in complex dynamic environments. In this formulation, a virtual cell world model (VCWM) represents a persistent cellular state and simulates its evolution under genetic, chemical, environmental, and other biological interventions. In contrast to predictive foundation models optimized for specific tasks or endpoints, a VCWM seeks to model the underlying cellular system, allowing interventions to propagate through an evolving state and generate coherent molecular, structural, interactional, and morphological outcomes over time. We outline an architecture, a data framework, training strategy, and evaluation principles for realizing this vision and discuss how existing biological foundation models can serve as its building blocks. We envisage that VCWMs could transform biological discovery from exhaustive experimental search toward structured navigation of learned cellular worlds, enabling counterfactual exploration, rational intervention design, and ultimately more predictive, designable, and programmable cell biology.",
+      "journal": "Cell",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "State Key Laboratory of Microbial Metabolism, Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China.",
-        "Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.",
-        "Key Laboratory for the Genetics of Development & Neuropsychiatric Disorders (Ministry of Education), Bio-X Institutes, Shanghai Jiao Tong University, Shanghai, China.",
-        "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China.",
-        "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, Ningxia Medical University, Yinchuan, China.",
-        "School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai, China.",
-        "Shanghai Lisheng Biotech, Shanghai, China.",
-        "Shanghai Collaborative Innovation Center of Agri-Seeds/Joint Center for Single Cell Biology, Shanghai Jiao Tong University, Shanghai, China.",
-        "Key Laboratory of Resource Biology and Biotechnology, Western China, Ministry of Education, Provincial Key Laboratory of Biotechnology of Shaanxi Province, College of Life Sciences, Northwest University, Xi'an, China.",
-        "State Key Laboratory of Plant Cell and Chromosome Engineering, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.",
-        "LiSheng Organ Regeneration X Lab, East China Institute of Biotechnology, Peking University, Jiangsu, China."
+        "GenBio AI, Palo Alto, CA, USA; Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE; Carnegie Mellon University, Pittsburgh, PA, USA. Electronic address: eric.xing@genbio.ai.",
+        "GenBio AI, Palo Alto, CA, USA; Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE. Electronic address: le.song@genbio.ai."
       ],
-      "doi": "10.1002/advs.77835",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750187/"
-    },
-    {
-      "pmid": "42750038",
-      "title": "Guanylate-binding protein 2 (GBP2) drives pancreatic cancer cell proliferation by promoting cell cycle progression via the SP1/SKP2/P27 axis.",
-      "abstract": "Guanylate-binding protein 2 (GBP2) has been reported to be involved in the progression of various human malignancies, but its specific functions and underlying molecular mechanisms in pancreatic cancer remain poorly understood. The expression level of GBP2 in pancreatic cancer tissues and cell lines was detected, and the correlation between GBP2 expression and clinicopathological features as well as patient prognosis was analyzed. In vitro and in vivo experiments were performed to investigate the effect of GBP2 on pancreatic cancer cell proliferation and cell cycle progression. RNA-sequencing was conducted to screen downstream regulatory targets of GBP2, and molecular mechanism assays (including ubiquitination assay, co-immunoprecipitation) were carried out to verify the regulatory relationship between GBP2, SP1, TRIM25 and SKP2. GBP2 was significantly upregulated in pancreatic cancer tissues and cell lines, and high GBP2 expression was closely associated with a poor prognosis, an advanced TNM stage and a higher tumor grade. Functional experiments showed that GBP2 promotes pancreatic cancer cell proliferation by inducing cell cycle progression. Mechanistically, GBP2 competes with the E3 ubiquitin ligase TRIM25 for binding to transcription factor SP1, thereby inhibiting SP1 ubiquitination and proteasomal degradation. The stabilized SP1 further enhances its binding to the SKP2 promoter, upregulates SKP2 transcription, and activates the SKP2/p27 signaling axis to drive tumor progression. This study reveals a novel GBP2-SP1-SKP2-p27 signaling pathway that promotes pancreatic cancer progression. GBP2 may serve as a potential therapeutic target for pancreatic cancer, which requires further validation through pharmacological studies and patient-derived organoid models.",
-      "journal": "Journal of translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General Medical, Zhongnan Hospital of Wuhan University, Wuhan, China.",
-        "Department of Infectious Disease, Hubei AIDS Clinical Training Center, Zhongnan Hospital of Wuhan University, Donghu Road 169, Wuchang District, Wuhan, 430000, China.",
-        "Department of Gastroenterology, Tianyou Hospital, Affiliated to Wuhan University of Science and Technology, Wuhan, 430061, China.",
-        "Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Wuhan, China.",
-        "Hubei Provincial Clinical Research Center for Intestinal and Colorectal Diseases, Wuhan, China.",
-        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Wuhan, China.",
-        "Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China.",
-        "Department of Infectious Disease, Hubei AIDS Clinical Training Center, Zhongnan Hospital of Wuhan University, Donghu Road 169, Wuchang District, Wuhan, 430000, China. kehengning@znhospital.cn.",
-        "Wuhan Research Center for Infectious Diseases and Cancer, Chinese Academy of Medical Sciences, Wuhan, China. kehengning@znhospital.cn.",
-        "Department of General Medical, Zhongnan Hospital of Wuhan University, Wuhan, China. xhfangjun@163.com.",
-        "Department of Gastroenterology, Zhongnan Hospital of Wuhan University, Wuhan, China. whzcj@outlook.com.",
-        "Hubei Provincial Clinical Research Center for Intestinal and Colorectal Diseases, Wuhan, China. whzcj@outlook.com.",
-        "Hubei Key Laboratory of Intestinal and Colorectal Diseases, Wuhan, China. whzcj@outlook.com."
-      ],
-      "doi": "10.1186/s12967-026-08815-6",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750038/"
+      "doi": "10.1016/j.cell.2026.08.042",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/"
     },
     {
       "pmid": "42749352",
@@ -294,25 +303,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42715312/"
     },
     {
-      "pmid": "42699656",
-      "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
-      "abstract": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-throughput use. Integrating artificial intelligence (AI) with computational biology offers a route to ease these limits and motivates an emerging direction we develop here. We use virtual bone organoids (VBOs) for the in silico counterpart of a solid bone organoid, and artificial intelligence virtual bone organoids (AIVBOs) for its AI-driven realisation, which takes the virtual cell as its basic unit and fuses multimodal omics data with biophysical constraints. It remains an early-stage proposal, since most capabilities discussed here have been shown only in non-bone systems such as virtual cells and AI-assisted organoids and are carried over to bone rather than established in it. This review traces the logic from solid bone organoids to the AIVBO as a meso-scale digital-twin approach. We outline a modular strategy across stem-cell differentiation, vascular and immune coupling, and pathological evolution, and consider the prospective value of AIVBOs for standardised organoid construction, reverse design of biomaterials, mechanistic analysis, reagent-sparing drug screening, and in silico trials. Throughout, we separate goals already supported by real data from longer-term aspirations and address the main limitations directly, including data noise, bias, and sparsity, organoid irreproducibility, limited digital-twin fidelity, interpretability, data fusion, and ethical and regulatory issues. As a digital bridge between microscopic mechanism and macroscopic phenotype, AIVBOs may help move bone research from descriptive experimentation toward predictive engineering, though substantial experimental validation remains a prerequisite for clinical translation. AIVBOs are framed as a meso-scale digital-twin concept meant to complement, not replace, solid bone organoids and in vivo models. Their translational potential lies in using calibrated in silico models to narrow the experimental search space for biomaterial design, drug screening, and disease modelling, which could cut the cost and time of pre-clinical orthopaedic research and support more standardised, predictive, and personalised care for bone repair and metabolic bone disease. These benefits are prospective and contingent on rigorous validation, transparent reporting of model limits, and shared data and quality standards.",
-      "journal": "Journal of orthopaedic translation",
+      "pmid": "42753517",
+      "title": "Efflux pump gene ABCA as targets for deep learning-based de novo inhibitors in invasive aspergillosis caused by Aspergillus fumigatus.",
+      "abstract": "This study aims to design and evaluate novel therapeutic binders targeting the ATP-binding region of the AbcA efflux transporter protein in Aspergillus fumigatus. By inhibiting ATP binding, these binders seek to prevent AbcA-mediated azole resistance and restore the effectiveness of antifungal treatments. The research employed a variety of computational modeling and deep learning techniques, such as multiple sequence alignment (MSA) to identify conserved regions, particularly the ATP-binding site. A de novo sequence and structure of the protein was predicted using Protein Generator based on the consensus conserved region, and 60 de novo protein sequences were designed with ProteinMPNN. To enhance intracellular delivery, cell-penetrating peptide (CPP) motifs were added, and their potential was assessed using C2Pred. Allergenicity was evaluated using AllerCatPro, and thermal stability was predicted with DeepSTABp to shortlisted top ten highly thermally stable de novo binders among 7200 generated binders. The de novo sequences were modelled using OmegaFold and subjected to energy minimization. Molecular docking was performed to analyze interactions between the abcA protein and the designed inhibitors, and binding energies were assessed using the GRAMM algorithm and PDBSum. Molecular dynamics simulations using Maestro indicated that the abcA-2795 complex exhibited the most stable conformation. The binding sites of the de novo binders were found to encompass the ATP-binding and transmembrane domains of the AbcA protein. In conclusion, the study successfully designed and evaluated de novo binders targeting the ATP-binding domain of AbcA in Aspergillus fumigatus. The binder abcA-2795 exhibited promising characteristics, including non-allergenicity, cell penetration potential, and high thermal stability, suggesting its potential as an effective inhibitor of fungal drug resistance. Further experimental validation is required to confirm the efficacy and safety of these binders in clinical settings.",
+      "journal": "Computational biology and chemistry",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Institute of Translational Medicine, Shanghai University, Shanghai, 200444, China.",
-        "MedEng-X Institutes, Shanghai University, Shanghai, 200444, China.",
-        "School of Medicine, Shanghai University, Shanghai, 200444, China.",
-        "National Center for Translational Medicine (Shanghai) SHU Branch, Shanghai University, Shanghai, 200444, China.",
-        "Wenzhou Institute of Shanghai University, Wenzhou, Zhejiang, 325000, China.",
-        "Department of Orthopaedics, Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200092, China."
+        "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq.",
+        "Biotechnology Department, College of Science, University of Anbar, Ramadi, Anbar, Iraq. Electronic address: ahmed.suleiman@uoanbar.edu.iq."
       ],
-      "doi": "10.1016/j.jot.2026.101196",
-      "date": "2026-08-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699656/"
+      "doi": "10.1016/j.compbiolchem.2026.109410",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753517/"
     },
     {
       "pmid": "42751666",
@@ -400,21 +404,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/"
     },
     {
-      "pmid": "42745166",
-      "title": "In Vitro Selection of Functional Neoproteins Containing Highly Fluorinated Cores.",
-      "abstract": "The inclusion of non-proteinogenic amino acids (npAAs) into proteins vastly expands their chemical repertoire and hence possible functional diversity. However, it remains challenging to obtain non-proteinogenic sequences that carry out a specific task. Here we develop a platform to discover functional non-standard proteins and illustrate its utility by generating a family of bioactive proteins whose hydrophobic cores are built using fluorinated amino acids (fAAs). Starting from the protein chymotrypsin inhibitor 2 (CI2), we use genetic code reprogramming, combinatorial mutagenesis and mRNA display-based in vitro selection to discover fluorinated mutant sequences with optimised inhibitory activity. Using microwave-assisted solid-phase peptide synthesis, we perform preparative chemical synthesis of 14 selected proteins, which contain up to eight fAAs-or 19 fluorine atoms. All are nanomolar inhibitors of chymotrypsin; several hits are more active than the wildtype, and possess thermostabilities of up to 70°C. Crystal structures reveal that these proteins maintain native-like folds, with fluorine atoms forming close and epistatically coupled packing contacts within the core. This work demonstrates how to generate functional protein sequences with multiple interacting npAAs, namely neoproteins, and thereby provides a framework for exploring the use of unnatural building blocks in protein design.",
-      "journal": "Angewandte Chemie (International ed. in English)",
+      "pmid": "42754189",
+      "title": "Better Than Nothing Is Not a Standard: Lessons From Drug Development for Radiology AI Evaluation.",
+      "abstract": "",
+      "journal": "Journal of the American College of Radiology : JACR",
       "publicationTypes": [
-        "Journal Article"
+        "Letter"
       ],
       "affiliations": [
-        "Department of Chemistry, Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo, Japan.",
-        "Department of Pharmacy and Pharmaceutical Sciences, National University of Singapore, Singapore, Singapore.",
-        "Department of Biochemistry, Graduate School of Medicine, Yokohama City University, Kanazawa-ku, Yokohama, Japan."
+        "Department of Radiology, University of Florida, Gainesville, FL, USA. Electronic address: juliozhang107@gmail.com.",
+        "Department of Radiology, University of Florida, Gainesville, FL, USA."
       ],
-      "doi": "10.1002/anie.5293145",
-      "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745166/"
+      "doi": "10.1016/j.jacr.2026.08.031",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754189/"
     },
     {
       "pmid": "42751633",
@@ -520,28 +523,229 @@
       "doi": "10.1016/j.jlb.2026.100491",
       "date": "2026-08-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750947/"
-    },
-    {
-      "pmid": "42750936",
-      "title": "Implementing multimodal liquid biopsy in glioblastoma: A prospective feasibility study of a standardized clinical workflow.",
-      "abstract": "Glioblastoma (GBM) is the most common and aggressive primary brain tumor in adults, characterized by poor prognosis and limited treatment options. Liquid biopsy offers a minimally invasive approach for molecular profiling and disease monitoring, potentially overcoming tissue sampling and neuroimaging limitations. This prospective, single-center study aimed to establish and evaluate the feasibility of a standardized clinical liquid biopsy protocol for GBM, integrating circulating tumor DNA (ctDNA) and microRNA (miRNA) analyses across multiple biological matrices. Between 2022 and 2024, 26 patients were enrolled, including 14 with histologically confirmed IDH-wildtype GBM, 6 with other intracranial tumors, and 6 with hydrocephalus. Peripheral blood, lumbar cerebrospinal fluid (CSF-L), intraoperative sulcal CSF (CSF-S), and tumor tissue were collected when available. ctDNA was analyzed using a targeted amplicon-based sequencing panel, assessing variant allele frequency and fragmentation index. A panel of GBM-associated miRNAs was quantified by RT-qPCR. Tumor, necrotic, and edema volumes were measured by manual segmentation on contrast-enhanced T1-weighted and T2-FLAIR MRI. ctDNA analysis was feasible across all matrices but showed higher rates of suboptimal samples compared with miRNA analysis. Plasma and CSF-L provided comparable ctDNA concentrations, with plasma emerging as the most consistently available matrix. miRNA profiling was robust across matrices, with consistent detectability between CSF-L and CSF-S. This study demonstrates the feasibility of integrating multimodal liquid biopsy and volumetric imaging into routine neurosurgical practice for GBM. The proposed workflow provides a reproducible foundation for larger studies aimed at advancing clinical implementation of liquid biopsy strategies.",
-      "journal": "Neuro-oncology practice",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurosurgery, Università Politecnica delle Marche, Azienda Ospedaliero Universitaria delle Marche, Ancona, Italy.",
-        "Department of Pathological Anatomy, Università Politecnica delle Marche, Azienda Ospedaliero Universitaria delle Marche, Ancona, Italy.",
-        "Department of Clinical and Molecular Sciences, Università Politecnica delle Marche, Azienda Ospedaliero Universitaria delle Marche, Ancona, Italy.",
-        "Clinic of Laboratory and Precision Medicine, IRCCS INRCA, Ancona, Italy (J.S., A.G., A.D.P.).",
-        "Clinical Pathology Unit, Carlo Urbani Hospital, Jesi (AN), AST Ancona, Italy (A.F.)."
-      ],
-      "doi": "10.1093/nop/npag034",
-      "date": "2026-04-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750936/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42754133",
+      "date": "2026-09-17",
+      "title": "Synergistic proline-based deep eutectic solvent enables low-toxicity microdroplet cryopreservation of 3D cell spheroids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754133/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42754133。",
+      "report": "Establishing in vitro organoid biobanks-three-dimensional (3D) self-organized microtissues derived from stem cells or patient tissues-holds great value for clinical disease modeling, drug screening, and regenerative medicine applications. However, current cryo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753878",
+      "date": "2026-09-17",
+      "title": "Three-dimensional cell culture models in oncology: from tumour spheroids to integrated microphysiological systems.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753878/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42753878。",
+      "report": "Traditional two-dimensional (2D) cell cultures fail to capture the structural, mechanical, and biochemical complexity of living tissues, prompting a major paradigm shift toward three-dimensional (3D) cell culture models. 3D systems faithfully replicate in vivo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753732",
+      "date": "2026-09-17",
+      "title": "Elevated glucose in kidney organoids induces tissue-intrinsic inflammation driving epithelial detachment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753732/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42753732。",
+      "report": "Diabetic kidney disease involves hyperglycemia, inflammation, and epithelial cell dysfunction, but the relationship between these factors is not well understood. We demonstrate that human kidney organoids treated with elevated glucose exhibit a phenotype of ep...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753730",
+      "date": "2026-09-17",
+      "title": "Zonated cholesterol sensing by SIRT2 drives MASLD-HCC.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753730/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell metabolism，PMID 为 42753730。",
+      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a leading cause of hepatocellular carcinoma (HCC), but how metabolic zonation drives regional transformation remains unclear. We identify sirtuin 2 (SIRT2) as a zonated cholesterol sensor that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753673",
+      "date": "2026-09-17",
+      "title": "Novel functions of taste-like cells: Organoid-reconstructed sensory interfaces.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753673/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of oral biosciences，PMID 为 42753673。",
+      "report": "Endoderm-derived organs, including the gastrointestinal tract, play central roles in nutrient digestion and absorption. They simultaneously function as an \"internalized external environment\" that continuously interfaces with exogenous substances, thereby const...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753218",
+      "date": "2026-09-17",
+      "title": "Organoids Serve as Viable In Vitro Model for Functional Precision Medicine for Mesonephric-Like Adenocarcinoma of the Ovary.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753218/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42753218。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42753692",
+      "date": "2026-09-17",
+      "title": "A world model of the virtual cell.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42753692。",
+      "report": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful comput...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42749352",
       "date": "2026-09-17",
@@ -583,103 +787,64 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42750336",
-      "date": "2026-09-16",
-      "title": "Alamandine/MrgD pathway modulates gut-bone marrow axis in ageing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42754189",
+      "date": "2026-09-17",
+      "title": "Better Than Nothing Is Not a Standard: Lessons From Drug Development for Radiology AI Evaluation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750336/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754189/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Diagnostics",
+        "Precision Medicine"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "诊断",
+        "精准医疗"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 British journal of pharmacology，PMID 为 42750336。",
-      "report": "Ageing is associated with colon epithelial barrier disruption and up-regulation of myelopoiesis in the bone marrow (BM). Alamandine (Ala) and MrgD are novel members of the renin angiotensin system (RAS). This study tested the hypothesis that Ala restores the c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of the American College of Radiology : JACR，PMID 为 42754189。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42750313",
+      "id": "pubmed-42753517",
       "date": "2026-09-16",
-      "title": "RBM25 Drives Hepatocellular Carcinoma Progression by Stabilizing YAP Through Regulating Oncogenic Splicing-switch of MYPT1.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Efflux pump gene ABCA as targets for deep learning-based de novo inhibitors in invasive aspergillosis caused by Aspergillus fumigatus.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750313/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753517/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750313。",
-      "report": "Deregulated alternative splicing (AS) is a hallmark of hepatocellular carcinoma (HCC), yet the specific splicing factors driving oncogenic programs remain largely uncharacterized. Here, we identify RNA-binding motif protein 25 (RBM25) as a potent oncogenic dri...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42750187",
-      "date": "2026-09-16",
-      "title": "Plant Metabolites Screening Identifies 7-epi-10-Deacetyltaxol Inhibiting Cell Division by Interfering With the Cell Cycle and Microtubule Organization.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750187/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
         "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
+        "Regulatory Watch"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
         "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42750187。",
-      "report": "Plants produce a considerable number of metabolites, and many of them appear to interfere with certain cellular processes such as cell division. For example, taxanes produced by Taxus are known as anti-cancer drugs that stabilize microtubules and prevent the c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42753517。",
+      "report": "This study aims to design and evaluate novel therapeutic binders targeting the ATP-binding region of the AbcA efflux transporter protein in Aspergillus fumigatus. By inhibiting ATP binding, these binders seek to prevent AbcA-mediated azole resistance and resto...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -775,35 +940,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42745166",
-      "date": "2026-09-15",
-      "title": "In Vitro Selection of Functional Neoproteins Containing Highly Fluorinated Cores.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745166/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42745166。",
-      "report": "The inclusion of non-proteinogenic amino acids (npAAs) into proteins vastly expands their chemical repertoire and hence possible functional diversity. However, it remains challenging to obtain non-proteinogenic sequences that carry out a specific task. Here we...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42717098",
       "date": "2026-09-09",
       "title": "An operational perturbation proteomics-based virtual cell model.",
@@ -872,45 +1008,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42751175",
-      "date": "2026-09-07",
-      "title": "Human cardiovascular organoids: Biomedical applications and ethical challenges.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751175/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American heart journal plus : cardiology research and practice，PMID 为 42751175。",
-      "report": "Cardiovascular disease (CVD) remains the leading cause of global mortality, yet traditional in vitro and animal models often fail to recapitulate the integrated structural, cellular, and functional complexity of the human heart. Recent advances in human plurip...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42741841",
       "date": "2026-09-07",
       "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
@@ -942,34 +1039,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nucleic acids research，PMID 为 42741841。",
       "report": "Inferring transcription factor (TF) activity from transcriptomes and predicting transcriptome-wide responses to TF perturbations remain challenging, in part because available TF-mRNA resources often face a trade-off between precision and coverage and typically...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42750804",
-      "date": "2026-09-04",
-      "title": "A human two-hit platform modeling post-ischemic sterile inflammation and diastolic dysfunction in hiPSC-derived cardiac models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750804/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42750804。",
-      "report": "Myocardial ischemia/reperfusion (MI/R) injury exposes the heart to a sequential surge of oxidative stress and sterile inflammation, driving maladaptive remodeling and lethal arrhythmias. However, the human-specific mechanisms linking post-ischemic inflammation...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1139,82 +1208,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42699656",
-      "date": "2026-08-26",
-      "title": "Artificial intelligence virtual bone organoids (AIVBOs).",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699656/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic translation，PMID 为 42699656。",
-      "report": "Global population aging has made skeletal disorders a major threat to human health. Solid bone organoids reproduce skeletal physiology and pathology more faithfully than traditional models, yet remain limited in standardisation, real-time monitoring, and high-...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42750038",
-      "date": "2026-08-17",
-      "title": "Guanylate-binding protein 2 (GBP2) drives pancreatic cancer cell proliferation by promoting cell cycle progression via the SP1/SKP2/P27 axis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750038/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42750038。",
-      "report": "Guanylate-binding protein 2 (GBP2) has been reported to be involved in the progression of various human malignancies, but its specific functions and underlying molecular mechanisms in pancreatic cancer remain poorly understood. The expression level of GBP2 in...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42751633",
       "date": "2026-08-17",
       "title": "Extreme Carcinoembryonic Antigen Elevation Revealing Clinically Silent Colonic Metastases From Gastric Adenocarcinoma: A Case Report.",
@@ -1271,36 +1264,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics advances，PMID 为 42751666。",
       "report": "Protein solubility is a critical property that significantly impacts therapeutic efficacy and protein reengineering applications. Recent advances in machine learning and deep learning techniques provide unprecedented opportunities to develop predictive models...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42750936",
-      "date": "2026-04-16",
-      "title": "Implementing multimodal liquid biopsy in glioblastoma: A prospective feasibility study of a standardized clinical workflow.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750936/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology practice，PMID 为 42750936。",
-      "report": "Glioblastoma (GBM) is the most common and aggressive primary brain tumor in adults, characterized by poor prognosis and limited treatment options. Liquid biopsy offers a minimally invasive approach for molecular profiling and disease monitoring, potentially ov...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
