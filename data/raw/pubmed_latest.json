@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-18T04:50:02.342846+00:00",
+  "capturedAt": "2026-09-18T11:23:06.937205+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -20,24 +20,24 @@
     "42753730",
     "42753673",
     "42753218",
+    "42754836",
     "42753692",
     "42749352",
     "42745547",
     "42741841",
     "42717098",
-    "42715312",
+    "42754580",
     "42753517",
     "42751666",
     "42751410",
     "42749516",
     "42747196",
-    "42745879",
+    "42755408",
+    "42755134",
+    "42754719",
     "42754189",
     "42751633",
-    "42751476",
-    "42751249",
-    "42750980",
-    "42750947"
+    "42751476"
   ],
   "records": [
     {
@@ -159,6 +159,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753218/"
     },
     {
+      "pmid": "42754836",
+      "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
+      "abstract": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confidence scores, evidence support and interpretable summaries remain limited. We developed scGPA, an LLM-assisted workflow system for directional single-cell virtual gene perturbation analysis. scGPA starts from raw single-cell RNA sequencing data and performs quality control, normalization, dimensionality reduction, clustering and cell-group selection. It then constructs cell-group-specific wild-type regulatory networks using repeated subsampling, principal component regression (PCR)/Ridge-based network inference and CP tensor denoising. Based on these networks, scGPA simulates dose-aware virtual knockdown of the target gene and applies signed perturbation propagation to estimate the magnitude and direction of downstream transcriptional responses. LLM assistance is used for marker-based cell-type annotation, evidence-guided candidate prioritization and user-facing biological summarization. We benchmarked scGPA across five public Perturb-seq datasets and compared its performance with GEARS, scGPT and a random baseline. The overall correct prediction rate of scGPA was 23.0%, exceeding those of GEARS (20.7%), scGPT (15.1%) and the random baseline (13.6%). These results indicate that scGPA achieved a higher correct prediction rate than the two comparator models and the random baseline. We subsequently evaluated scGPA using a public osteosarcoma single-cell dataset and performed qRT-PCR validation in 143B osteosarcoma cells. Among genes with significant experimental changes, scGPA achieved a directional concordance of 76.9%. When all tested downstream genes were counted, 37.0% were directionally correct, 51.9% showed no significant change and 11.1% changed in the opposite direction. scGPA provides a practical workflow system for predicting and prioritizing direction-specific downstream transcriptional responses after target-gene perturbation. By integrating single-cell regulatory network inference, signed virtual perturbation and LLM-assisted interpretation, scGPA supports target-gene function inference and downstream mechanistic investigation from single-cell transcriptomic data.",
+      "journal": "BMC genomics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Spine Surgery, Academy of Orthopedics, Orthopaedic Hospital of Guangdong Province, The Third Affiliated Hospital of Southern Medical University, Guangzhou, China.",
+        "Department of Oncology, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi, China.",
+        "Department of Spine and Osteopathic Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi, China.",
+        "Department of Bone and Joint Surgery and Sports medicine, The Second Affiliated Hospital of Guangxi Medical University, Nanning, China.",
+        "Department of Spine and Osteopathic Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi, China. liuyun@gxmu.edu.cn.",
+        "Department of Spine Surgery, Academy of Orthopedics, Orthopaedic Hospital of Guangdong Province, The Third Affiliated Hospital of Southern Medical University, Guangzhou, China. liuzezheng1983@126.com.",
+        "Department of Spine Surgery, Academy of Orthopedics, Orthopaedic Hospital of Guangdong Province, The Third Affiliated Hospital of Southern Medical University, Guangzhou, China. lqc16nysy@126.com."
+      ],
+      "doi": "10.1186/s12864-026-13270-0",
+      "date": "2026-08-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/"
+    },
+    {
       "pmid": "42753692",
       "title": "A world model of the virtual cell.",
       "abstract": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful computational system capable of simulating the activity and behavior of a living cell. Such a system could shift cell biology from trial-and-error experimentation with cell-culture models in the wet lab toward systematic simulation of combinatorial interventions in a digital laboratory. In this paper, we propose the world model as an operational framework for realizing this vision-an emerging AI paradigm that supports action-conditioned simulation, counterfactual reasoning and long-horizon planning in complex dynamic environments. In this formulation, a virtual cell world model (VCWM) represents a persistent cellular state and simulates its evolution under genetic, chemical, environmental, and other biological interventions. In contrast to predictive foundation models optimized for specific tasks or endpoints, a VCWM seeks to model the underlying cellular system, allowing interventions to propagate through an evolving state and generate coherent molecular, structural, interactional, and morphological outcomes over time. We outline an architecture, a data framework, training strategy, and evaluation principles for realizing this vision and discuss how existing biological foundation models can serve as its building blocks. We envisage that VCWMs could transform biological discovery from exhaustive experimental search toward structured navigation of learned cellular worlds, enabling counterfactual exploration, rational intervention design, and ultimately more predictive, designable, and programmable cell biology.",
@@ -278,29 +299,32 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717098/"
     },
     {
-      "pmid": "42715312",
-      "title": "A systematic comparison of single-cell perturbation response prediction models.",
-      "abstract": "Predicting single-cell transcriptional responses to perturbations is central to dissecting gene regulation and accelerating therapeutic design, yet the field lacks a rigorous, task-spanning assessment of model behavior. We present a large-scale benchmark of 13 representative methods and baselines across 25 datasets spanning diverse perturbation modalities and species, including two primary immune-cell drug-response resources. We evaluated three core tasks-generalization to unseen single-gene perturbations, prediction of combinatorial interactions, and transfer across cell types-using 24 metrics covering expression-level accuracy, relative changes, differential expression (DE) recovery, and distributional similarity. Across tasks, performance depended strongly on perturbation effect size and evaluation perspective: Expression-level agreement was the highest for small-effect perturbations resembling controls, whereas delta- and DE-based metrics improved with larger effects, providing clearer signals. Models shared a conservative bias, with fine-tuned foundation models compressing variance and underestimating synergistic effects in combinations. PerturbNet showed superior recovery of DE signatures in Tasks 1 and 2, while no method consistently generalized across cell types in Task 3, where biological consistency dominated outcomes. This benchmark establishes current methodological limits, clarifies that different metrics probe distinct biological signals rather than redundant summaries of the same prediction problem, and provides a foundation for developing virtual-cell models that more faithfully capture heterogeneous perturbation responses.",
-      "journal": "Science advances",
+      "pmid": "42754580",
+      "title": "Accelerating protein design by scaling experimental characterization.",
+      "abstract": "Recent advances in de novo protein design have greatly outpaced standard protein biochemistry workflows, making experimental validation a bottleneck. Here, we describe workflows to address the scale, speed and reproducibility of common in vitro protein testing methods, enabling at least an order of magnitude increase in throughput while reducing wetlab time. Semi-Automated Protein Production (SAPP) is a rapid, modular, scalable and cost-effective protocol, enabling up to milligram-scale protein production and standardized characterization - including yield, dispersity, and oligomeric state - of hundreds of designs per day, at the cost-equivalent of a few DNA oligos per construct. End-to-end protocol execution takes 48 hours, with ~6 hours spent benchside using standard laboratory equipment. We showcase the platform by rapidly screening redesigned fluorescent proteins, as well as identifying de novo binders that potently neutralize respiratory syncytial virus. We also developed a barcoding and demultiplexing protocol (DMX) to further reduce gene synthesis cost 5-fold by leveraging oligo pools as input DNA for the generation of thousands of sequence-verified arrayed clones. These protocols which combine optimized molecular biology, automated analysis, and optional open-source robotics should be widely adoptable, accelerating protein design.",
+      "journal": "Nature communications",
       "publicationTypes": [
-        "Journal Article",
-        "Comparative Study"
+        "Journal Article"
       ],
       "affiliations": [
-        "GMU-GIBH Joint School of Life Sciences, Guangzhou Medical University, Guangzhou, China.",
-        "Guangzhou National Laboratory, Guangzhou, China.",
-        "The University of Hong Kong, Hong Kong, China.",
-        "School of Life Sciences, Westlake University, Hangzhou, China.",
-        "Research Center for Industries of the Future, Westlake University, Hangzhou, China.",
-        "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
-        "Westlake Institute for Advanced Study, Hangzhou, China.",
-        "Renaissance Era Innovation Technology Co., Ltd., Beijing, China.",
-        "Global Institute of Future Technology, Shanghai Jiao Tong University, Shanghai, China.",
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA. milles@lmu.de.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA. milles@lmu.de.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA. basile.wicky@bsse.ethz.ch.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA. basile.wicky@bsse.ethz.ch.",
+        "Bioengineering Graduate Program, University of Washington, Seattle, WA, USA.",
+        "Department of Medicine Solna, Division of Immunology and Allergy, Karolinska Institutet, Stockholm, Sweden.",
+        "Center for Molecular Medicine, Karolinska Institutet, Stockholm, Sweden.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+        "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA, USA.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
       ],
-      "doi": "10.1126/sciadv.aed3414",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42715312/"
+      "doi": "10.1038/s41467-026-76740-9",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/"
     },
     {
       "pmid": "42753517",
@@ -388,20 +412,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42747196/"
     },
     {
-      "pmid": "42745879",
-      "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
-      "abstract": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capability to independently conduct downstream evaluation and optimize workflows. Meanwhile, directly applying large language models (LLMs) to molecular design faces challenges such as fragmented execution, limited tool coordination, and insufficient traceability of intermediate decision-making processes. To address these limitations, we propose a Drug Discovery Agent (DDA), a traceable and auditable multi-agent biomedical informatics framework for automating SBDD. DDA uses a role-specific multi-agent architecture to transform natural-language drug-discovery goals into actionable scientific workflows. Through a unified tool-calling protocol, this framework seamlessly integrates bioinformatics, molecular modeling, and molecular docking modules, enabling autonomous workflow execution from target preparation and molecular generation to multi-objective evaluation, candidate prioritization, and trajectory tracking. We systematically evaluated DDA on the CrossDocked2020 benchmark. Under the closed-loop delivery protocol, the framework produced 2,000 final candidate records, with a joint screen-pass rate 20 percentage points higher than that of the strongest specialized baseline. These results indicate that DDA provides a scalable, executable, and traceable computational framework that reduces manual coordination in structure-based automated drug discovery and delivers prioritized candidate sets with minimal human intervention.",
-      "journal": "Frontiers in chemistry",
+      "pmid": "42755408",
+      "title": "Nature-Inspired Histidine and Guanidine Modification of Magnetic Nanoparticles for Urinary DNA Liquid Biopsy.",
+      "abstract": "Urinary cell-free DNA (cfDNA) is a promising substrate for non-invasive liquid biopsy analysis and biomarker detection. However, the lack of standardized pre-analytical workflows and the intrinsic challenges associated with isolating highly dilute and fragmented cfDNA limit its broader research and clinical applications. Here, we present a simplified, reliable and cost-effective extraction platform based on iron oxide nanoparticles (IONPs) synthesized via coprecipitation. By leveraging nature-inspired surface functionalization, these magnetic nanoparticles enable the rapid and direct isolation of cfDNA from fresh urine while supporting scale-up of the processing volumes. The proposed platform achieves a 2-fold increase in cfDNA yield compared to conventional commercial extraction kits and demonstrates enhanced recovery of short DNA fragments, with a predominant size distribution between 80-150 bp. This improved capture efficiency facilitates a detection sensitivity down to 10-3 ng/mL using qPCR, likely limited by assay sensitivity rather than DNA extraction performance. Moreover, the simplified extraction and elution steps eliminate the need for specialized laboratory instrumentation. Collectively, this approach provides a foundation for accessible, potentially at-home cfDNA extraction and advances the development of truly non-invasive diagnostic strategies for longitudinal disease monitoring and management.",
+      "journal": "Small methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "College of Computer Science and Artificial Intelligence, Northeast Forestry University, Harbin, China.",
-        "Faculty of Computing, Harbin Institute of Technology, Harbin, China."
+        "Chemical Engineering and Biotechnology (CEB), University of Cambridge, Cambridge, UK.",
+        "Cancer Research UK Cambridge Institute (CRUK), University of Cambridge, Cambridge, UK."
       ],
-      "doi": "10.3389/fchem.2026.1914886",
+      "doi": "10.1002/smtd.71034",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755408/"
+    },
+    {
+      "pmid": "42755134",
+      "title": "Oxylipins-Omics Combine With Single-Molecule Analysis Identifies 13(S)-HODE Positive Extracellular Vesicles as a Diagnostic Biomarker for AFP-Negative Hepatocellular Carcinoma.",
+      "abstract": "Efficient diagnostic biomarkers enable early detection of hepatocellular carcinoma (HCC), which improves survival. Circulating extracellular vesicles (EVs) in plasma, as a noninvasive diagnostic carrier, have caused widely concern. Here, a novel oxylipidomic profiling was used to analysis the HCC patients' tissue-derived EVs (TD-EVs) cargo and revealing differentially expressed oxylipins (vs. adjacent tissues, p<0.05), which undetected in bulk tissues. The hub oxylipins 13(S)-HODE discovered in TD-EVs was validated in plasma derived EVs (PD-EVs) by using single-molecule analysis platform, showing superior efficacy in AFP-negative HCC patients (AUC = 0.8474 vs. 0.7627 in AFP-positive). Clinically, machine learning integrating EV-derived 13(S)-HODE with routine clinical parameters of HCC patients was developed to optimize diagnostic classification. The machine learning model, LightGBM, achieved outstanding performance: AUC_mean = 0.962, Sensitivity = 0.933 (0.660-0.997), Specificity: 0.957(0.760-0.998), 95%CI: 0.958-1.000 in multi-group classification of HCC diagnostics, demonstrating the enhanced diagnostic efficiency of 13(S)-HODE positive EV subpopulation with other clinical data. This study firstly establishes EV-derived 13(S)-HODE as a concordantly biomarker across tissue and plasma sources. Furthermore, single-molecule analysis platform offers it a highly sensitive diagnostic performance for HCC, particularly valuable for AFP-negative HCC subgroup.",
+      "journal": "Journal of extracellular vesicles",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Laboratory, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "Guangdong Provincial Key Laboratory of Single-cell and Extracellular Vesicles, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "Department of Hepatobiliary Surgery, Nanfang Hospital, Southern Medical University, Guangzhou, P. R. China.",
+        "Intensive Care Unit, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment, College of Pharmacy, Jinan University, Guangzhou, China.",
+        "Department of Laboratory Medicine, Ganzhou Hospital-Nanfang Hospital, Southern Medical University, Ganzhou, P. R. China."
+      ],
+      "doi": "10.1002/jev2.70368",
       "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755134/"
+    },
+    {
+      "pmid": "42754719",
+      "title": "Characterizing intradural spinal metastasis in the metastatic cascade: clinical course, dissemination timing, and molecular features in 69 patients.",
+      "abstract": "Metastatic cancers to the central nervous system (CNS) usually affect the brain, but a small and clinically significant portion also affect the intradural spinal space. Here, we characterize the molecular features of metastatic intradural spinal disease and describe the metastatic chronology and timeline such cancers go through to reach this space. All patients with MRI spine findings of intramedullary or leptomeningeal lesions from 2020-2025 at a tertiary academic center were screened. Patients with primary CNS cancer or non-cancer diagnoses were excluded. Demographic information, imaging findings, dates of primary cancer and metastasis detection, and molecular data across disease sites were collected. The primary outcome of interest was overall survival (OS) after primary diagnosis. 69 patients met inclusion criteria out of 1401 patients screened. The most common primary pathologies were lung (33.3%) and breast (31.9%). 11.6% of patients underwent surgery for intradural disease. The distribution of intradural spine disease on initial detection was 55.1% cervical, 65.2% thoracic, and 76.8% lumbar. The mortality rate was 87.0% within a median follow-up of 42.0 (IQR 20.6-72.9) months after primary cancer diagnosis. The median time to any metastasis was 0.5 (0-6.7), to the brain was 14.9 (0.6-42.7), to the osseous spine was 19.4 (0.7-38.9), and to the intradural spine was 29.5 (14.0-52.6) months. Targetable mutations were noted in 46.4% of primary lesions and such patients trended towards improved OS (51.7 months, 31.2-105.2) compared to patients without (30.1 months, 12.6-58.9, p = 0.072). This difference was driven by patients with such biomarkers qualifying for targeted therapies, which demonstrated improved OS (56.2 vs 31.2 months, p = 0.029). Targetable biomarkers are present in nearly 50% of primary lesions for patients who develop spinal intradural disease, and regular molecular characterization and sequencing of this space (e.g. CSF liquid biopsy) could have a clinically meaningful impact on these patients.",
+      "journal": "Journal of neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Johns Hopkins University School of Medicine, 1800 Orleans St., Zayed Tower 6007, Baltimore, MD, 21287, USA. yxia17@jhmi.edu.",
+        "Department of Neurosurgery, Johns Hopkins University School of Medicine, 1800 Orleans St., Zayed Tower 6007, Baltimore, MD, 21287, USA.",
+        "Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Department of Oncology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Department of Neurosurgery, University of Arizona College of Medicine-Phoenix, Phoenix, AZ, USA.",
+        "Department of Neurosurgery, University of Chicago, Chicago, IL, USA."
+      ],
+      "doi": "10.1007/s11060-026-05794-y",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754719/"
     },
     {
       "pmid": "42754189",
@@ -465,67 +529,69 @@
       "doi": "10.1016/j.jlb.2026.100493",
       "date": "2026-09-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751476/"
-    },
-    {
-      "pmid": "42751249",
-      "title": "AI-driven radiomics and radiogenomics: supporting the assessment and differentiation of pseudoprogression in cellular immunotherapy for glioblastoma.",
-      "abstract": "Glioblastoma (GBM) is the most aggressive type of primary brain tumour in adults, and after treatment, it is also difficult to know whether a person's health has improved. Pseudoprogression (PsP), particularly following radiotherapy and combination therapy with temozolomide and new immunotherapies, may be falsely identified as true progression (TP) by conventional MRI, thus leading to premature termination of treatment or unnecessary intensification of therapy. Although RANO, iRANO and RANO 2.0 have improved the assessment of response, structural MRI alone is unable to reveal the biological complexity of the tumour microenvironment. Artificial Intelligence (AI)-based radiomics and radiogenomics aid in the characterisation of GBM. Several Magnetic Resonance Imaging (MRI) sequences are used to obtain quantitative data, such as the conventional T1-weighted images, diffusion-weighted images, perfusion-weighted images and others, to acquire information on cell density, blood vessel distribution, immune cell concentration, molecular modifications and the effect of therapy. Combine imaging characteristics with liquid biopsy, genomic data and patient health records to enhance the accuracy of diagnosis and discover high-sensitivity surrogate markers for immune checkpoint inhibitor and CAR-T cell therapy clinical trials. Clinical translation still faces numerous limitations such as inconsistent research protocols, small study cohorts, insufficient external validation, inadequate model interpretability and inconsistent reference standards. In the future, many research groups will conduct multi-centre validation, standardize workflows, open-source reporting and release clinically interpretable models. The above ways can reduce the bias induced by PsP and improve differentiation between pseudoprogression and true progression to facilitate prompt treatment for most people.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Neurology, Affiliated Hospital of Yanbian University (Yanbian University Hospital), Yanji, China.",
-        "Department of Anaesthesiology, Affiliated Hospital of Yanbian University (Yanbian University Hospital), Yanji, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1920605",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751249/"
-    },
-    {
-      "pmid": "42750980",
-      "title": "Multimodal medical diagnosis: a mini review of LLM-vision fusion models in low-resource healthcare settings.",
-      "abstract": "Recent advances in large language models (LLMs) and vision transformers have enabled multimodal systems that integrate clinical text with medical imaging for diagnostic decision-making. While these systems show promising results on benchmark datasets in well-resourced research settings, their applicability in low-resource healthcare environments where diagnostic disparities are most severe remains limited and poorly understood. This mini review synthesizes key developments in LLM-vision fusion architectures from 2018 to 2026, with a focus on radiology-oriented visual question answering (VQA) and report generation systems viewed from a deployment perspective. Rather than comprehensively cataloguing multimodal medical AI, we synthesize the evolution of LLM-vision fusion architectures and discuss complementary deployment-enabling strategies, including parameter-efficient adaptation, post-training quantization, federated learning, and multilingual support, where they directly improve the feasibility of radiology AI in resource-constrained healthcare settings. Rather than focusing solely on performance benchmarks, we examine these approaches through a deployment-oriented lens, highlighting trade-offs between representational capacity, computational efficiency, interpretability, and memory footprint. We argue that current progress remains substantially shaped by model scaling and benchmark optimization, which often do not address the memory, connectivity, and annotation constraints of low-resource healthcare systems. While cross-modal transformer architectures provide strong representational alignment, their computational demands and reliance on large curated datasets limit real-world deployment. In contrast, emerging directions including parameter-efficient fine-tuning, post-training quantization, federated learning, and modular agent-based systems offer more tractable pathways toward clinical integration under hardware and data constraints. To bridge the gap between benchmark performance and clinical utility, we identify concrete challenges in data scarcity, multilingual coverage, and calibration, and propose a shift toward lightweight, interpretable, and hardware-aware multimodal AI. This perspective highlights the need to move beyond scaling-centric design toward models that can run on 4-8 GB VRAM, operate offline, and generalize across languages and imaging equipment.",
-      "journal": "Frontiers in digital health",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Computer Science and Engineering, Chittagong University of Engineering and Technology, Chattogram, Bangladesh.",
-        "Department of Computer Science and Engineering, East Delta University, Chattogram, Bangladesh.",
-        "ELITE Research Lab, LLC, Queens, NY, United States.",
-        "Faculty of Information Science and Technology, Multimedia University, Bukit Beruang, Melaka, Malaysia.",
-        "Department of Computer Science and Engineering, American International University-Bangladesh, Dhaka, Bangladesh."
-      ],
-      "doi": "10.3389/fdgth.2026.1862236",
-      "date": "2026-09-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750980/"
-    },
-    {
-      "pmid": "42750947",
-      "title": "CellSearch-based isolation of circulating tumor cells from ascitic fluid enables molecular characterization of ovarian cancer.",
-      "abstract": "High-grade serous tubo-ovarian cancer (HGSOC) frequently presents with malignant ascites, a biologically relevant compartment rich in tumor cells. While circulating tumor cells (CTCs) in peripheral blood (PB) are often scarce, ascitic fluid (AF) may represent a more accessible and abundant source of tumor-derived material. This study evaluated the feasibility of isolating AF-derived CTCs using the CellSearch platform for subsequent molecular characterization. Paired PB and AF samples from 12 HGSOC patients were collected at surgery and analyzed using the CellSearch system. After CTC enumeration, DNA was extracted from CellSearch cartridges containing AF-derived CTC-enriched fractions and subjected to next-generation sequencing (NGS) using a panel clinically validated for solid tumors. Associations between AF-derived CTC burden and clinical variables were explored. CTCs were detected in 100% of AF samples and in 50% of PB samples. AF contained markedly higher numbers of CTCs than PB, whereas the latter showed low or undetectable levels. AF-derived CTCs frequently formed multicellular aggregates, potentially leading to underestimation by automated counting. An optimized protocol for DNA extraction from post-processing CellSearch cartridges enabled successful downstream NGS analysis from CTC-enriched AF fractions. Tumor-specific TP53 mutations identified in AF-derived CTC-enriched fractions showed complete concordance with matched tumor tissue in all analyzed cases, supporting the feasibility of using these fractions for molecular characterization of the tumor. No significant associations were observed between AF-derived CTC burden and CA125, PCI, progression-free survival (PFS), or overall survival (OS), although higher CTC levels were associated with a trend toward shorter PFS. Compared to PB, AF is a richer source of CTCs in HGSOC. Importantly, AF-derived CellSearch fractions enabled reliable molecular profiling through downstream NGS analysis, suggesting that this approach may be exploited to enrich for tumor-poor peritoneal washings usually considered for staging IC HGSOC. The complete mutational concordance between AF-derived CTCs and matched tumor tissue supports the biological validity of this approach and highlights its potential as a minimally invasive liquid biopsy for tumor characterization and longitudinal disease monitoring in advanced HGSOC.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmacy and Biotechnology (FABIT), University of Bologna, Bologna, Italy.",
-        "Solid Tumor Molecular Pathology Laboratory, IRCCS Azienda Ospedaliero-Universitaria di, Bologna, Italy.",
-        "Division of Oncologic Gynecology, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy.",
-        "Department of Medical and Surgical Sciences (DIMEC), University of Bologna, Bologna, Italy.",
-        "Centre for Applied Biomedical Research (CRBA), University of Bologna, Bologna, Italy.",
-        "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy.",
-        "Clinical Pharmacology Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy."
-      ],
-      "doi": "10.1016/j.jlb.2026.100491",
-      "date": "2026-08-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750947/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42755408",
+      "date": "2026-09-18",
+      "title": "Nature-Inspired Histidine and Guanidine Modification of Magnetic Nanoparticles for Urinary DNA Liquid Biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755408/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Small methods，PMID 为 42755408。",
+      "report": "Urinary cell-free DNA (cfDNA) is a promising substrate for non-invasive liquid biopsy analysis and biomarker detection. However, the lack of standardized pre-analytical workflows and the intrinsic challenges associated with isolating highly dilute and fragment...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42754719",
+      "date": "2026-09-18",
+      "title": "Characterizing intradural spinal metastasis in the metastatic cascade: clinical course, dissemination timing, and molecular features in 69 patients.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754719/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42754719。",
+      "report": "Metastatic cancers to the central nervous system (CNS) usually affect the brain, but a small and clinically significant portion also affect the intradural spinal space. Here, we characterize the molecular features of metastatic intradural spinal disease and de...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42754133",
       "date": "2026-09-17",
@@ -980,34 +1046,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42715312",
-      "date": "2026-09-09",
-      "title": "A systematic comparison of single-cell perturbation response prediction models.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42715312/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42715312。",
-      "report": "Predicting single-cell transcriptional responses to perturbations is central to dissecting gene regulation and accelerating therapeutic design, yet the field lacks a rigorous, task-spanning assessment of model behavior. We present a large-scale benchmark of 13...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42741841",
       "date": "2026-09-07",
       "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
@@ -1077,134 +1115,96 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42751249",
-      "date": "2026-09-02",
-      "title": "AI-driven radiomics and radiogenomics: supporting the assessment and differentiation of pseudoprogression in cellular immunotherapy for glioblastoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42755134",
+      "date": "2026-09-01",
+      "title": "Oxylipins-Omics Combine With Single-Molecule Analysis Identifies 13(S)-HODE Positive Extracellular Vesicles as a Diagnostic Biomarker for AFP-Negative Hepatocellular Carcinoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751249/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755134/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
+        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42751249。",
-      "report": "Glioblastoma (GBM) is the most aggressive type of primary brain tumour in adults, and after treatment, it is also difficult to know whether a person's health has improved. Pseudoprogression (PsP), particularly following radiotherapy and combination therapy wit...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42755134。",
+      "report": "Efficient diagnostic biomarkers enable early detection of hepatocellular carcinoma (HCC), which improves survival. Circulating extracellular vesicles (EVs) in plasma, as a noninvasive diagnostic carrier, have caused widely concern. Here, a novel oxylipidomic p...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42750980",
-      "date": "2026-09-02",
-      "title": "Multimodal medical diagnosis: a mini review of LLM-vision fusion models in low-resource healthcare settings.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42754836",
+      "date": "2026-08-25",
+      "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750980/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Healthcare AI",
-        "Medical LLM"
+        "Medical LLM",
+        "Multi-omics"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "临床",
+        "监管",
         "医疗 AI",
-        "临床决策支持"
+        "临床决策支持",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42750980。",
-      "report": "Recent advances in large language models (LLMs) and vision transformers have enabled multimodal systems that integrate clinical text with medical imaging for diagnostic decision-making. While these systems show promising results on benchmark datasets in well-r...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
+      "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42745879",
-      "date": "2026-09-01",
-      "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
+      "id": "pubmed-42754580",
+      "date": "2026-08-20",
+      "title": "Accelerating protein design by scaling experimental characterization.",
       "entity": "AI Drug Discovery Research",
       "primaryCategory": "AI Drug Discovery",
       "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "AI for Biology",
         "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM",
         "Drug Screening"
       ],
       "tags": [
         "AI 制药",
         "蛋白设计",
         "分子生成",
-        "医疗 AI",
-        "临床决策支持",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in chemistry，PMID 为 42745879。",
-      "report": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capabi...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42750947",
-      "date": "2026-08-31",
-      "title": "CellSearch-based isolation of circulating tumor cells from ascitic fluid enables molecular characterization of ovarian cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42750947。",
-      "report": "High-grade serous tubo-ovarian cancer (HGSOC) frequently presents with malignant ascites, a biologically relevant compartment rich in tumor cells. While circulating tumor cells (CTCs) in peripheral blood (PB) are often scarce, ascitic fluid (AF) may represent...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42754580。",
+      "report": "Recent advances in de novo protein design have greatly outpaced standard protein biochemistry workflows, making experimental validation a bottleneck. Here, we describe workflows to address the scale, speed and reproducibility of common in vitro protein testing...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

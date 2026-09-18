@@ -4,6 +4,66 @@
   "asOfDate": "2026-09-18",
   "evidence": [
     {
+      "id": "evidence-pubmed-42755408",
+      "signalId": "pubmed-42755408",
+      "companyIds": [],
+      "publishedAt": "2026-09-18",
+      "snapshotDate": "2026-09-18",
+      "title": "Nature-Inspired Histidine and Guanidine Modification of Magnetic Nanoparticles for Urinary DNA Liquid Biopsy.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755408/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Small methods，PMID 为 42755408。",
+      "report": "Urinary cell-free DNA (cfDNA) is a promising substrate for non-invasive liquid biopsy analysis and biomarker detection. However, the lack of standardized pre-analytical workflows and the intrinsic challenges associated with isolating highly dilute and fragment...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42754719",
+      "signalId": "pubmed-42754719",
+      "companyIds": [],
+      "publishedAt": "2026-09-18",
+      "snapshotDate": "2026-09-18",
+      "title": "Characterizing intradural spinal metastasis in the metastatic cascade: clinical course, dissemination timing, and molecular features in 69 patients.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754719/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42754719。",
+      "report": "Metastatic cancers to the central nervous system (CNS) usually affect the brain, but a small and clinically significant portion also affect the intradural spinal space. Here, we characterize the molecular features of metastatic intradural spinal disease and de...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42754133",
       "signalId": "pubmed-42754133",
       "companyIds": [],
@@ -580,34 +640,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42715312",
-      "signalId": "pubmed-42715312",
-      "companyIds": [],
-      "publishedAt": "2026-09-09",
-      "snapshotDate": "2026-09-18",
-      "title": "A systematic comparison of single-cell perturbation response prediction models.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42715312/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42715312。",
-      "report": "Predicting single-cell transcriptional responses to perturbations is central to dissecting gene regulation and accelerating therapeutic design, yet the field lacks a rigorous, task-spanning assessment of model behavior. We present a large-scale benchmark of 13...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001434265-000143426526000123",
       "signalId": "sec-0001434265-000143426526000123",
       "companyIds": [
@@ -894,104 +926,31 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42751249",
-      "signalId": "pubmed-42751249",
-      "companyIds": [],
-      "publishedAt": "2026-09-02",
-      "snapshotDate": "2026-09-18",
-      "title": "AI-driven radiomics and radiogenomics: supporting the assessment and differentiation of pseudoprogression in cellular immunotherapy for glioblastoma.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751249/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42751249。",
-      "report": "Glioblastoma (GBM) is the most aggressive type of primary brain tumour in adults, and after treatment, it is also difficult to know whether a person's health has improved. Pseudoprogression (PsP), particularly following radiotherapy and combination therapy wit...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42750980",
-      "signalId": "pubmed-42750980",
-      "companyIds": [],
-      "publishedAt": "2026-09-02",
-      "snapshotDate": "2026-09-18",
-      "title": "Multimodal medical diagnosis: a mini review of LLM-vision fusion models in low-resource healthcare settings.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750980/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42750980。",
-      "report": "Recent advances in large language models (LLMs) and vision transformers have enabled multimodal systems that integrate clinical text with medical imaging for diagnostic decision-making. While these systems show promising results on benchmark datasets in well-r...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42745879",
-      "signalId": "pubmed-42745879",
+      "id": "evidence-pubmed-42755134",
+      "signalId": "pubmed-42755134",
       "companyIds": [],
       "publishedAt": "2026-09-01",
       "snapshotDate": "2026-09-18",
-      "title": "DDA: a traceable multi-agent framework for automated structure-based drug design.",
+      "title": "Oxylipins-Omics Combine With Single-Molecule Analysis Identifies 13(S)-HODE Positive Extracellular Vesicles as a Diagnostic Biomarker for AFP-Negative Hepatocellular Carcinoma.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745879/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755134/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM",
-        "Drug Screening"
+        "Biotech",
+        "Precision Oncology"
       ],
       "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持",
-        "药筛"
+        "biotech",
+        "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in chemistry，PMID 为 42745879。",
-      "report": "Structure-Based Drug Design (SBDD) is a key computational paradigm that uses protein structural information to design and optimize small molecules with desired binding properties. Existing SBDD methods mainly focus on molecular design and often lack the capabi...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42755134。",
+      "report": "Efficient diagnostic biomarkers enable early detection of hepatocellular carcinoma (HCC), which improves survival. Circulating extracellular vesicles (EVs) in plasma, as a noninvasive diagnostic carrier, have caused widely concern. Here, a novel oxylipidomic p...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1026,36 +985,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42750947",
-      "signalId": "pubmed-42750947",
-      "companyIds": [],
-      "publishedAt": "2026-08-31",
-      "snapshotDate": "2026-09-18",
-      "title": "CellSearch-based isolation of circulating tumor cells from ascitic fluid enables molecular characterization of ovarian cancer.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750947/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42750947。",
-      "report": "High-grade serous tubo-ovarian cancer (HGSOC) frequently presents with malignant ascites, a biologically relevant compartment rich in tumor cells. While circulating tumor cells (CTCs) in peripheral blood (PB) are often scarce, ascitic fluid (AF) may represent...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001651308-000165130826000025",
       "signalId": "sec-0001651308-000165130826000025",
       "companyIds": [
@@ -1086,6 +1015,71 @@
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42754836",
+      "signalId": "pubmed-42754836",
+      "companyIds": [],
+      "publishedAt": "2026-08-25",
+      "snapshotDate": "2026-09-18",
+      "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM",
+        "Multi-omics"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
+      "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42754580",
+      "signalId": "pubmed-42754580",
+      "companyIds": [],
+      "publishedAt": "2026-08-20",
+      "snapshotDate": "2026-09-18",
+      "title": "Accelerating protein design by scaling experimental characterization.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42754580。",
+      "report": "Recent advances in de novo protein design have greatly outpaced standard protein biochemistry workflows, making experimental validation a bottleneck. Here, we describe workflows to address the scale, speed and reproducibility of common in vitro protein testing...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT07769710",
