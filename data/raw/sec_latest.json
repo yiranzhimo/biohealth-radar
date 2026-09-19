@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-09-18T20:57:34.663307+00:00",
+  "capturedAt": "2026-09-19T04:42:50.523250+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-09-04",
-    "end": "2026-09-18"
+    "start": "2026-09-05",
+    "end": "2026-09-19"
   },
   "forms": [
     "10-K",
@@ -288,81 +288,6 @@
       "cik": "0001434265",
       "secName": "GENMAB A/S",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm"
-    },
-    {
-      "filingDate": "2026-09-04",
-      "reportDate": "2026-09-04",
-      "acceptanceDateTime": "2026-09-04T21:00:39.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "000-19125",
-      "filmNumber": "261362732",
-      "items": "7.01,8.01,9.01",
-      "size": 181066,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ef20081690_8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001140361-26-035802",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/ef20081690_8k.htm"
-    },
-    {
-      "filingDate": "2026-09-04",
-      "reportDate": "2026-09-04",
-      "acceptanceDateTime": "2026-09-04T20:06:30.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-37766",
-      "filmNumber": "261362180",
-      "items": "1.01,2.03,7.01,9.01",
-      "size": 236207,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d110798d8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-383645",
-      "companyId": "intellia",
-      "companyName": "Intellia Therapeutics",
-      "companyDirections": [
-        "Gene Editing"
-      ],
-      "secTicker": "NTLA",
-      "cik": "0001652130",
-      "secName": "Intellia Therapeutics, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm"
-    },
-    {
-      "filingDate": "2026-09-04",
-      "reportDate": "2026-09-03",
-      "acceptanceDateTime": "2026-09-04T10:01:59.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "000-19125",
-      "filmNumber": "261360083",
-      "items": "7.01,8.01,9.01",
-      "size": 206926,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ef20081649_8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001140361-26-035657",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
     }
   ],
   "signals": [
@@ -549,99 +474,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0001434265-26-000116 for Genmab, Form 6-K, filed on 2026-09-08.",
       "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000114036126035802",
-      "date": "2026-09-04",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/ef20081690_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-035802 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-09-04.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001652130-000119312526383645",
-      "date": "2026-09-04",
-      "title": "Intellia Therapeutics filed Form 8-K",
-      "entity": "Intellia Therapeutics",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526383645/d110798d8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Gene Editing"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "NTLA"
-      ],
-      "companyIds": [
-        "intellia"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-383645 for Intellia Therapeutics, Form 8-K, filed on 2026-09-04.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000114036126035657",
-      "date": "2026-09-04",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-035657 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-09-04.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
