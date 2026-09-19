@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 623,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 51,
+    "failedSourceCount": 52,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -56969,17 +56969,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
-            "text": "Natera and Angiex Partner to Assess Response to Investigational Nuclear-Delivered Antibody-Drug Conjugate™ Using Signatera™",
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
             "textOriginal": "New Publication Establishes Strong Clinical Validation of Signatera™ for MRD Assessment in Lymphoma",
             "text": "New Publication Establishes Strong Clinical Validation of Signatera™ for MRD Assessment in Lymphoma",
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
+            "evidenceId": "evidence-company-natera-official-c52c94faf769",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56987,7 +56979,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
+            "evidenceId": "evidence-company-natera-official-c52c94faf769",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Largest MRD Study in Lung Cancer Highlights Strong Prognostic Value for Signatera™",
+            "text": "Largest MRD Study in Lung Cancer Highlights Strong Prognostic Value for Signatera™",
+            "evidenceId": "evidence-company-natera-official-c52c94faf769",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56995,15 +56995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
+            "evidenceId": "evidence-company-natera-official-c52c94faf769",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57015,11 +57007,19 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.natera.com/oncology/",
             "needsReview": true,
             "claimType": "Report"
+          },
+          {
+            "textOriginal": "Watch now to learn more about Natera’s oncology suite of products.",
+            "text": "立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
+            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
+            "sourceUrl": "https://www.natera.com/oncology/",
+            "needsReview": true,
+            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-4269dd66f7b7",
+          "evidence-company-natera-official-c52c94faf769",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57031,14 +57031,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-4269dd66f7b7",
-            "date": "2026-09-02",
+            "id": "event-evidence-company-natera-official-c52c94faf769",
+            "date": "2026-09-19",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
+            "evidenceId": "evidence-company-natera-official-c52c94faf769",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -57098,7 +57098,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-02",
+        "lastEvidenceDate": "2026-09-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -57107,14 +57107,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-4269dd66f7b7",
-          "date": "2026-09-02",
+          "id": "event-evidence-company-natera-official-c52c94faf769",
+          "date": "2026-09-19",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-4269dd66f7b7",
+          "evidenceId": "evidence-company-natera-official-c52c94faf769",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -58670,6 +58670,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -58682,6 +58683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
