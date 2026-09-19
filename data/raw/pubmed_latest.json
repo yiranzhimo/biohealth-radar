@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-19T04:42:41.806449+00:00",
+  "capturedAt": "2026-09-19T11:06:47.431308+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-19"
   },
   "pmids": [
+    "42760864",
+    "42760531",
+    "42760490",
     "42759888",
     "42759695",
     "42759679",
-    "42759512",
-    "42759511",
-    "42759506",
     "42758091",
     "42754836",
     "42753692",
@@ -32,14 +32,70 @@
     "42754580",
     "42753517",
     "42751666",
+    "42760578",
     "42760248",
     "42759923",
     "42759922",
     "42759059",
-    "42758527",
-    "42758211"
+    "42758527"
   ],
   "records": [
+    {
+      "pmid": "42760864",
+      "title": "Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.",
+      "abstract": "The olfactory mucosa serves as both a sensory organ and an immune barrier to protect against bacterial and viral invasion and other insults. It is unclear how different types of olfactory mucosal cells coordinate and contribute to these two functions. We set out to reveal the critical roles of a subset of microvillous cells of the mucosa, olfactory tuft cells, in protecting and reconstructing this vital olfactory sensory organ. We first validated the expression of canonical gustatory signalling proteins and other molecular markers in olfactory tuft cells. Genetic disruption of the Gng13 and Trpm5 genes that encode the two gustatory signalling proteins, G protein subunit Gγ13 and transient receptor potential ion channel Trpm5, respectively, resulted in elevated basal inflammation and enhanced activation of the quiescent stem cells-horizontal basal cells (HBCs) in the mucosa. Nasal infection of H1N1 influenza virus further exacerbated the inflammation and delayed the resolution of inflammation in the mutant mucosa, including more immune cell infiltration, augmented cytokine production and cell death, increased HBC proliferation and direct differentiation into tuft cells, and prolonged olfactory tuft cell hyperplasia. Cytokine treatment of the cultured olfactory epithelial organoids indicated that the cytokines that were found to be elevated in the mutant mucosa, including interleukin-4 (IL-4), IL-13 and interferon-γ (INF-γ), are able to stimulate HBC activation. Together, our results indicate that olfactory tuft cells play an important role in maintaining the baseline inflammation under the steady-state condition, and altering inflammatory magnitude and modulating HBC activation and differentiation in the olfactory mucosa following the viral infection. Our findings shed light on new roles of olfactory tuft cells in innate immune response, quiescent stem cell activation and neuroimmune interactions, and provide novel therapeutic targets for preventing and treating stem cell-related olfactory disorders such as chronic rhinosinusitis and long COVID.",
+      "journal": "Cell proliferation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, China.",
+        "Institute of Immunology and Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+      ],
+      "doi": "10.1111/cpr.70281",
+      "date": "2026-09-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760864/"
+    },
+    {
+      "pmid": "42760531",
+      "title": "NheABC is a pH-dependent cytotoxin that targets mitochondria and contributes to the virulence of Bacillus cereus in wound infections.",
+      "abstract": "Members of the Bacillus cereus group are Gram-positive, spore-forming, facultative anaerobic bacteria widely distributed in the environment. Pathogenic B. cereus group strains have been linked to a range of illnesses and infections, including severe non-gastrointestinal infections, such as wound infections. In the present study, we show that, among the pore-forming toxin (PFT)-producing bacterial strains tested, B. cereus group strain 75/95 induced pronounced membrane permeabilization in epithelial cells, prompting us to investigate the contribution of its tripartite NheABC toxin to host cell damage. NheABC exhibited potent cell membrane permeability in 2D epithelial cell cultures as well as in 3D spheroids and intestinal organoids, with prominent effects on the cell membrane and mitochondria. Functional analysis using liposome leakage assays demonstrated that cardiolipin (CL) and phosphatidylethanolamine (PE) promote NheABC-mediated membrane permeabilization, suggesting that membrane lipid composition contributes to NheABC activity and mitochondrial damage. Moreover, using erythrocytes and epithelial cells as model systems, we further demonstrated that the cytolytic activity of NheABC is pH-dependent and is markedly reduced under acidic conditions (pH 5.5). This pH dependence was independently confirmed using liposome leakage assays. Importantly, NheABC enhanced bacterial colonization and the local inflammatory response in a murine model of wound infection. Overall, our study highlights the critical role of mitochondria and pH in regulating NheABC-mediated cytolytic activity in mammalian cells, which may lead to the development of novel therapeutic strategies for managing B. cereus group-related gastrointestinal and non-gastrointestinal infections.",
+      "journal": "Cell communication and signaling : CCS",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Biology, Umeå University, Umeå, Sweden.",
+        "Umeå Centre for Microbial Research (UCMR), Umeå University, Umeå, Sweden.",
+        "Department of Clinical Microbiology, SciLifeLab, Umeå University, Umeå, Sweden.",
+        "Laboratory for Molecular Infection Medicine Sweden (MIMS), Umeå University, Umeå, Sweden.",
+        "Department of Paraclinical Sciences, Faculty of Veterinary Medicine, Norwegian University of Life Sciences, Ås, Norway.",
+        "Integrated Science Lab (IceLab), Umeå University, Umeå, Sweden.",
+        "Division of Dermatology and Venereology, Department of Clinical Sciences, Lund University, Lund, Sweden.",
+        "Department of Molecular Biology, Umeå University, Umeå, Sweden. aftab.nadeem@umu.se.",
+        "Umeå Centre for Microbial Research (UCMR), Umeå University, Umeå, Sweden. aftab.nadeem@umu.se."
+      ],
+      "doi": "10.1186/s12964-026-03235-x",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760531/"
+    },
+    {
+      "pmid": "42760490",
+      "title": "Biosurfactant-Based Interventions for Improving Lung Function and Controlling Inflammation.",
+      "abstract": "Biosurfactants are promising biotechnological compounds for respiratory diseases due to their ability to act as antimicrobials, antivirals, and anti-inflammatories, as well as their capacity to reduce pulmonary surface tension. In vitro evidence shows that molecules such as surfactin, rhamnolipids, sophorolipids, and MELs can partially mimic natural pulmonary surfactant, promote alveolar stabilization, and improve respiratory mechanics. Furthermore, these compounds modulate essential inflammatory pathways, including NF-κB, MAPK, and inflammasomes (NLRP3 and AIM2), leading to decreased production of the pro-inflammatory cytokines IL-1β, TNF-α, and IL-6. Activity against Pseudomonas aeruginosa, Staphylococcus aureus, Mycobacterium tuberculosis, respiratory fungi, and enveloped viruses support their use as therapeutic agents in infectious or inflammatory conditions of the respiratory tract. Despite their potential, several challenges persist, particularly the high production costs, difficulties in structural standardization, the limited stability of inhalable forms, and the lack of clinical trials evaluating safety and efficacy in humans. The development of more advanced disease prediction models, such as pulmonary organoids and \"lung-on-a-chip\" systems, emerges as an essential path for translational evaluation. Thus, although many obstacles remain, this body of evidence demonstrates that biosurfactants represent an innovative and promising platform for improving lung function or modulating inflammatory processes in various respiratory diseases.",
+      "journal": "Pharmaceutical research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Post-Graduation Program in Health Sciences, Santo Amaro University, Professor Eneas de Siqueira Neto Street, 340. Jardim das Imbuias, São Paulo, SP, 04829-300, Brazil.",
+        "Post-Graduation Program in Health Sciences, Santo Amaro University, Professor Eneas de Siqueira Neto Street, 340. Jardim das Imbuias, São Paulo, SP, 04829-300, Brazil. prteixeira@prof.unisa.br."
+      ],
+      "doi": "10.1007/s11095-026-04202-4",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760490/"
+    },
     {
       "pmid": "42759888",
       "title": "Patient-Derived 3D Cell Models as New Approach Methodologies: Applications, Advances, and Challenges for Increased-Throughput Assays.",
@@ -103,84 +159,6 @@
       "doi": "10.1016/j.jep.2026.122368",
       "date": "2026-09-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759679/"
-    },
-    {
-      "pmid": "42759512",
-      "title": "Glutamine metabolism as a rheostat of CD4+ T cell pathogenic function in metabolic dysfunction-associated steatotic liver disease.",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) severity is independently linked with pathogenic CD4+ T cell responses and skewed hepatic glutamine (Gln) metabolism. Whether these processes interact to drive disease progression remains unclear. Here, we identify hepatic Gln depletion as a key feature of steatohepatitis that is linked with increased hepatic CD4+ T cell inflammation and hepatocellular damage in humans. In complementary mouse models, both total hepatic and hepatic CD4+ T cell Gln levels were similarly reduced. Restoration of hepatic Gln through supplementation selectively restrained hepatic CD4+ T cell inflammatory programs and alleviated hepatocellular damage and disease severity. Mechanistically, T cell-intrinsic Gls1-mediated glutaminolysis limited O-GlcNAcylation to dampen pathogenic CD4+ T cell inflammation. Importantly, Gln treatment dampened CD4+ T cell-mediated injury in human liver organoids. Together, these findings establish hepatic CD4+ T cell-intrinsic Gln metabolism as a critical rheostat of pathogenic inflammation in MASLD and invoke metabolism-targeted strategies to restrict disease progression.",
-      "journal": "Cell metabolism",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Medical Scientist Training Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Division of Immunobiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Summer Undergraduate Research Fellowship Program, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, CO 80045, USA.",
-        "Pathobiology and Molecular Medicine Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Center for Autoimmune Liver Disease, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Biomedical Informatics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Allergy and Immunology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Ben May Department for Cancer Research and Ludwig Center at the University of Chicago, Chicago, IL 60637, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Pathology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Pediatric General and Thoracic Surgery, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Center for Stem Cell & Organoid Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Graduate School of Medicine and Premium Research Institute for Human Metaverse Medicine (WPI-PRIMe), The University of Osaka, Suita, Osaka 565-0871, Japan; Human Biology Research Unit, Institute of Integrated Research, Institute of Science Tokyo (Science Tokyo), Bunkyo-ku, Tokyo 113-8510, Japan; Center for Stem Cell & Organoid Medicine, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Gastroenterology, Hepatology, and Nutrition, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA.",
-        "Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Division of Immunobiology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; Immunology Graduate Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Medical Scientist Training Program, University of Cincinnati College of Medicine, Cincinnati, OH 45229, USA; Center for Inflammation and Tolerance, Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA. Electronic address: senad.divanovic@cchmc.org."
-      ],
-      "doi": "10.1016/j.cmet.2026.08.018",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759512/"
-    },
-    {
-      "pmid": "42759511",
-      "title": "Temporal regulation of progenitor lineage progression and output by NFIs underlying human neocortical malformation.",
-      "abstract": "Nuclear factor I (NFI) misexpressions in humans are associated with severe brain malformations, yet the underlying mechanisms remain poorly understood. Here, we show that NFIs regulate the broad lineage progression and lifespan of radial glial progenitors (RGPs), thereby bidirectionally controlling neocortical development. Human cerebral organoids carrying patient-mimicking NFI mutations exhibit expression-level-dependent bidirectional impairments in RGP temporal development, coinciding with patient phenotypes. In mouse models, selective removal of NFIs leads to a dramatic protraction of RGP lineage progression and lifespan, excessive progeny output, and cortical overgrowth and abnormal folding, whereas overexpression of NFIs accelerates RGP lineage progression, resulting in developmental-stage-dependent precocious production of diverse neural progenies. Moreover, NFIs exhibit positive autoregulation and progressive increase in expression and regulate distinct temporal-specific targets underlying RGP lineage progression. These results suggest that NFIs act as evolutionarily conserved key global temporal regulators of RGP lineage progression and neocortical development.",
-      "journal": "Neuron",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "New Cornerstone Science Laboratory, IDG/McGovern Institute for Brain Research, Tsinghua-Peking Center for Life Sciences, State Key Laboratory of Membrane Biology, Beijing Frontier Center of Biological Structure, Beijing Advanced Innovation Center for Structural Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China; Advanced Model Animal Research Center, Department of Biotechnology and Biomedicine, Zhejiang Key Laboratory of Multiomics and Molecular Enzymology, Yangtze Delta Region Institute of Tsinghua University, Jiaxing, Zhejiang 314006, China; Developmental Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
-        "IDG/McGovern Institute for Brain Research, State Key Laboratory of Molecular Oncology, MOE Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing Frontier Research Center for Biological Structure, School of Pharmaceutical Sciences, Tsinghua University, Beijing 100084, China.",
-        "Division of Developmental Biology and Center for Stem Cell and Organoid Medicine (CuSTOM), Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA.",
-        "New Cornerstone Science Laboratory, IDG/McGovern Institute for Brain Research, Tsinghua-Peking Center for Life Sciences, State Key Laboratory of Membrane Biology, Beijing Frontier Center of Biological Structure, Beijing Advanced Innovation Center for Structural Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China.",
-        "Division of Developmental Biology and Center for Stem Cell and Organoid Medicine (CuSTOM), Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; University of Cincinnati Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA.",
-        "Bernard and Irene Schwartz Center for Biomedical Imaging, Department of Radiology, New York University School of Medicine, New York, NY 10016, USA.",
-        "Developmental Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
-        "New Cornerstone Science Laboratory, IDG/McGovern Institute for Brain Research, Tsinghua-Peking Center for Life Sciences, State Key Laboratory of Membrane Biology, Beijing Frontier Center of Biological Structure, Beijing Advanced Innovation Center for Structural Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China; College of Life Sciences, Nankai University, Tianjin 300071, China.",
-        "StarlightBio LLC, Columbus, OH 43065, USA.",
-        "Department of Neurosurgery, Huashan Hospital, Institute for Translational Brain Research, State Key Laboratory of Brain Function and Disorders, MOE Frontiers Center for Brain Science, Fudan University, Shanghai 200032, China.",
-        "Department of Biochemistry, Program in Genetics, Genomics and Bioinformatics, State University of New York at Buffalo, Buffalo, NY 14203, USA.",
-        "Department of Neuroscience, Washington University in St Louis School of Medicine, St Louis, MO 63110, USA.",
-        "Division of Developmental Biology and Center for Stem Cell and Organoid Medicine (CuSTOM), Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, USA; University of Cincinnati Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA. Electronic address: jason.tchieu@cchmc.org.",
-        "IDG/McGovern Institute for Brain Research, State Key Laboratory of Molecular Oncology, MOE Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing Frontier Research Center for Biological Structure, School of Pharmaceutical Sciences, Tsinghua University, Beijing 100084, China. Electronic address: yinqingl@tsinghua.edu.cn.",
-        "New Cornerstone Science Laboratory, IDG/McGovern Institute for Brain Research, Tsinghua-Peking Center for Life Sciences, State Key Laboratory of Membrane Biology, Beijing Frontier Center of Biological Structure, Beijing Advanced Innovation Center for Structural Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China. Electronic address: shisonghai@mail.tsinghua.edu.cn."
-      ],
-      "doi": "10.1016/j.neuron.2026.08.021",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759511/"
-    },
-    {
-      "pmid": "42759506",
-      "title": "Characterization of circulating neoantigen-specific T cell responses and public T cell receptors shaping immune memory in Lynch syndrome carriers.",
-      "abstract": "Lynch syndrome (LS), a common inherited genetic condition predisposing to cancer, provides a unique model to study immune surveillance at the earliest stages of tumorigenesis. A hallmark of LS carcinogenesis is the generation of highly immunogenic neoantigens, yet the transcriptomic states of the T cells that recognize them remain poorly understood. Here, we characterize neoantigen-specific T cells from LS carriers using functional assays, single-cell RNA/T cell receptor (TCR) sequencing, and repertoire integration with existing large datasets. Recurrent neoantigens elicit strong immune responses, with neoantigen-specific T cells mediating cytotoxicity against tumor organoids. Single-cell analysis reveals oligoclonal expansions spanning effector and memory states with enrichment for exhausted subsets among cancer survivors and retention of polyfunctional effectors in cancer-free carriers. Cross-cohort analysis identifies public TCR clonotypes in circulation that overlap with pre-cancer and tumor tissue repertoires. Together, these findings define the architecture of circulating neoantigen-specific immune memory in LS and highlight public TCRs as candidates for immune monitoring and immunoprevention.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Clinical Cancer Prevention, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
-        "Institute of Immunology, Medical University of Vienna, Vienna, Austria.",
-        "Department of Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
-        "Department of Clinical Cancer Prevention, The University of Texas MD Anderson Cancer Center, Houston, TX, USA; Department of GI Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA. Electronic address: evilar@mdanderson.org."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103057",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759506/"
     },
     {
       "pmid": "42758091",
@@ -418,6 +396,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42751666/"
     },
     {
+      "pmid": "42760578",
+      "title": "Integrated longitudinal analysis of ctDNA, radiologic response, and tumor volume reveals spatial and temporal heterogeneity in advanced melanoma.",
+      "abstract": "In advanced melanoma, longitudinal disease monitoring remains limited by infrequent biomarker assessment and predominantly categorical imaging readouts. Although circulating tumor DNA (ctDNA) correlates with tumor burden, its behavior under high-frequency sampling and its relationship to quantitative metastatic tumor volume are poorly defined. Clarifying these dynamics is essential to establishing ctDNA as a clinically actionable tool for real-time treatment monitoring. We retrospectively analyzed 42 patients with unresectable stage III/IV melanoma treated with immune checkpoint inhibitors. Plasma ctDNA was quantified longitudinally across 241 time points using a UMI-based amplicon next-generation sequencing (NGS) assay detecting BRAF, EGFR, KRAS, NRAS, and PIK3CA. We paired ctDNA measurements with radiologic staging and correlated them with response categories (n = 99 time points) and volumetric tumor burden (n = 73 time points) using nonparametric statistics and receiver operating characteristic (ROC) analyses, including stratification by the ctDNA-imaging time interval and descriptive assessment of discordant patterns. ctDNA levels were significantly associated with radiologic response according to RECIST 1.1, increasing across worsening response categories (Spearman ρ = 0.31, 95% CI 0.20-0.52, p = 0.002). Discriminative performance for identifying progression was moderate (AUC = 0.69). Threshold analyses demonstrated a sensitivity-specificity trade-off, with higher ctDNA levels providing greater specificity (e.g. ≥25 mutant molecules (MM)/mL: specificity ≥ 83%, sensitivity ≤ 30%), while lower thresholds showed limited sensitivity and specificity (e.g. 1-2 MM/mL: ~56% each). ctDNA concentrations were positively associated with total tumor volume (ρ = 0.46, p < 0.0001), with stronger correlations observed for temporally aligned measurements (0-30 days: ρ = 0.56). In contrast, dynamic changes in ctDNA were not significantly correlated with changes in tumor volume (ρ = 0.20, p = 0.25). Organ-associated analyses demonstrated marked heterogeneity in ctDNA shedding, with stronger associations in lymph node and peritoneal metastases and limited detectability in lung, liver, and brain metastases. Concordance between ctDNA dynamics and radiologic response was high in responding disease (CR/PR: 85.0%) but lower in stable or progressive disease (72.9%), with discordant cases associated with tumor heterogeneity, timing differences, and treatment-related factors. ctDNA reflects radiologic disease status and tumor burden, with increasing levels observed as response worsens. Despite heterogeneity in ctDNA shedding across metastatic sites, its significant correlation with tumor volume, particularly when closely timed to imaging, supports the potential value of ctDNA as a complementary biomarker for longitudinal disease monitoring while highlighting important biological and methodological factors that influence its clinical interpretation.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Tumor Biology, Fleur Hiege Center for Skin Cancer Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. i.heidrich@uke.de.",
+        "Department of Dermatology and Venereology, Fleur Hiege Center for Skin Cancer Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. i.heidrich@uke.de.",
+        "Mildred Scheel Cancer Career Center HaTriCS4, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. i.heidrich@uke.de.",
+        "Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "Department of Dermatology and Venereology, Fleur Hiege Center for Skin Cancer Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "Institute of Tumor Biology, Fleur Hiege Center for Skin Cancer Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+      ],
+      "doi": "10.1186/s12967-026-08899-0",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760578/"
+    },
+    {
       "pmid": "42760248",
       "title": "A phase IIa study of the anti-PD-L1 antibody avelumab in relapsed/refractory PTCL: The AVAIL-T trial.",
       "abstract": "Peripheral T-cell lymphomas (PTCL) are rare chemoresistant malignancies with poor outcomes, necessitating novel therapies. The programmed death-1 (PD-1)/programmed death ligand 1 (PD-L1) axis is frequently overexpressed in PTCL and represents a potential therapeutic target; however, PD-L1 inhibition has not been explored. We conducted a phase IIa trial evaluating avelumab, an anti-PD-L1 antibody, in relapsed/refractory PTCL. The primary end-point was overall response. Translational substudies included PD-L1 expression, circulating tumour DNA and baseline mass cytometry in a subset of patients. Of 35 recruited patients, 32 initiated treatment, although 13 discontinued early due to progression before the 3-month evaluation. Intention-to-treat analysis showed an overall response rate of 14.3%, median progression-free survival of 2.8 months (95% confidence interval [CI]; 1.8-3.4) and median overall survival of 10.3 months (95% CI; 6.0-12.3). In the five responding patients, median duration of response was not reached (12-month duration of response [DoR] rate 60% [95% CI; 13-88]). In a subset of patients, mass cytometry revealed marked perturbations in circulating T-cell subsets. Pathogenic variants detected in cell-free deoxyribonucleic acid (DNA) underscore the utility of liquid biopsy in PTCL, and longitudinal analysis revealed clonal dynamics. While avelumab demonstrated durable responses in a minority, most patients progressed early. Further studies are needed to define mechanisms of response and develop predictive biomarkers to guide strategies.",
@@ -530,29 +528,97 @@
       "doi": "10.1530/ERC-26-0323",
       "date": "2026-09-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758527/"
-    },
-    {
-      "pmid": "42758211",
-      "title": "[Update on anal dysplasia and anal cancer].",
-      "abstract": "Anal dysplasia and anal cancers are predominantly caused by high-risk types of the human papillomavirus. Lesions are mostly asymptomatic and disproportionately affect high-risk populations such as people living with HIV, women with a history of vulvar (pre)cancer, and long-term immunosuppressed individuals. For these risk groups, the incidence of anal cancer is up to 100 times higher, which is why screening is recommended in the S2k guideline completed in 2024. However, it should be noted that two-thirds of anal cancers occur in older women without HIV, for whom scalable screening strategies do not yet exist due to a lack of feasible triaging methods. The ANCHOR study provided crucial evidence that timely diagnosis and treatment of high-grade anal dysplasia can significantly reduce the risk of anal cancer. To diagnose anal dysplasia, the German-Austrian guidelines recommend a two-stage process: after initial triaging using medical history, cytology, and HPV typing, high-resolution anoscopy (HRA) with biopsy represents the gold standard for diagnosis. Therapeutically, destructive methods (such as electrocautery or trichloroacetic acid) and local immunomodulatory therapies (imiquimod) are used. Cure rates after a single treatment session are relatively low at 10-30%; multiple treatment cycles are often necessary to clear high-grade anal dysplasia. Combining different therapeutic modalities is frequently a feasible strategy. For advanced anal cancer, recent studies such as POD1UM-303/InterAACT‑2 (immunotherapy with retifanlimab), as well as procedures like plasma HPV-ctDNA measurement (liquid biopsy) and dose-escalated/sparing radiation therapy, show promising results and give a perspective for the ongoing revision of the S3 guideline on anal cancer.",
-      "journal": "Dermatologie (Heidelberg, Germany)",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Universitätsklinik für Dermatologie, Medizinische Universität Wien, Wien, Österreich. david.chromy@meduniwien.ac.at.",
-        "Institut für Virologie, Nationales Referenzzentrum für Papillom- und Polyomaviren, Universität zu Köln, Köln, Deutschland. david.chromy@meduniwien.ac.at.",
-        "Institut für Virologie, Nationales Referenzzentrum für Papillom- und Polyomaviren, Universität zu Köln, Köln, Deutschland.",
-        "Klinik für Dermatologie, Venerologie und Allergologie, HELIOS St. Elisabeth Klinik Oberhausen, Universität Witten-Herdecke, Oberhausen, Deutschland."
-      ],
-      "doi": "10.1007/s00105-026-05778-z",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758211/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42760864",
+      "date": "2026-09-19",
+      "title": "Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760864/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell proliferation，PMID 为 42760864。",
+      "report": "The olfactory mucosa serves as both a sensory organ and an immune barrier to protect against bacterial and viral invasion and other insults. It is unclear how different types of olfactory mucosal cells coordinate and contribute to these two functions. We set o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42760531",
+      "date": "2026-09-18",
+      "title": "NheABC is a pH-dependent cytotoxin that targets mitochondria and contributes to the virulence of Bacillus cereus in wound infections.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760531/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42760531。",
+      "report": "Members of the Bacillus cereus group are Gram-positive, spore-forming, facultative anaerobic bacteria widely distributed in the environment. Pathogenic B. cereus group strains have been linked to a range of illnesses and infections, including severe non-gastro...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42760490",
+      "date": "2026-09-18",
+      "title": "Biosurfactant-Based Interventions for Improving Lung Function and Controlling Inflammation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760490/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmaceutical research，PMID 为 42760490。",
+      "report": "Biosurfactants are promising biotechnological compounds for respiratory diseases due to their ability to act as antimicrobials, antivirals, and anti-inflammatories, as well as their capacity to reduce pulmonary surface tension. In vitro evidence shows that mol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42759888",
       "date": "2026-09-18",
@@ -653,94 +719,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42759679。",
       "report": "Batri-7 (BT-7) is a classic Mongolian herbal formula traditionally valued for its anti-inflammatory properties. It has been utilized within Mongolian medicine for gastrointestinal disorders and inflammatory conditions, suggesting its potential therapeutic valu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42759512",
-      "date": "2026-09-18",
-      "title": "Glutamine metabolism as a rheostat of CD4+ T cell pathogenic function in metabolic dysfunction-associated steatotic liver disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759512/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell metabolism，PMID 为 42759512。",
-      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) severity is independently linked with pathogenic CD4+ T cell responses and skewed hepatic glutamine (Gln) metabolism. Whether these processes interact to drive disease progression remains unclear...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42759511",
-      "date": "2026-09-18",
-      "title": "Temporal regulation of progenitor lineage progression and output by NFIs underlying human neocortical malformation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759511/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 42759511。",
-      "report": "Nuclear factor I (NFI) misexpressions in humans are associated with severe brain malformations, yet the underlying mechanisms remain poorly understood. Here, we show that NFIs regulate the broad lineage progression and lifespan of radial glial progenitors (RGP...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42759506",
-      "date": "2026-09-18",
-      "title": "Characterization of circulating neoantigen-specific T cell responses and public T cell receptors shaping immune memory in Lynch syndrome carriers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759506/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42759506。",
-      "report": "Lynch syndrome (LS), a common inherited genetic condition predisposing to cancer, provides a unique model to study immune surveillance at the earliest stages of tumorigenesis. A hallmark of LS carcinogenesis is the generation of highly immunogenic neoantigens,...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -982,38 +960,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42758211",
-      "date": "2026-09-18",
-      "title": "[Update on anal dysplasia and anal cancer].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758211/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Dermatologie (Heidelberg, Germany)，PMID 为 42758211。",
-      "report": "Anal dysplasia and anal cancers are predominantly caused by high-risk types of the human papillomavirus. Lesions are mostly asymptomatic and disproportionately affect high-risk populations such as people living with HIV, women with a history of vulvar (pre)can...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42758091",
       "date": "2026-09-17",
       "title": "Beyond the drug-centric view: Advancing AI virtual cell platforms for environmental perturbation modelling.",
@@ -1115,6 +1061,36 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical and molecular hepatology，PMID 为 42749352。",
       "report": "``Single-cell and spatial atlases describe the healthy and diseased liver at high resolution, including lobular hepatocyte zonation, fibrotic macrophage-stellate niches, cholangiocyte reactions, immune remodeling, and hepatocellular carcinoma ecosystems. These...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42760578",
+      "date": "2026-09-17",
+      "title": "Integrated longitudinal analysis of ctDNA, radiologic response, and tumor volume reveals spatial and temporal heterogeneity in advanced melanoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760578/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42760578。",
+      "report": "In advanced melanoma, longitudinal disease monitoring remains limited by infrequent biomarker assessment and predominantly categorical imaging readouts. Although circulating tumor DNA (ctDNA) correlates with tumor burden, its behavior under high-frequency samp...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

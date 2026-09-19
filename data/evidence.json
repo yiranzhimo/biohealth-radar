@@ -4,6 +4,94 @@
   "asOfDate": "2026-09-19",
   "evidence": [
     {
+      "id": "evidence-pubmed-42760864",
+      "signalId": "pubmed-42760864",
+      "companyIds": [],
+      "publishedAt": "2026-09-19",
+      "snapshotDate": "2026-09-19",
+      "title": "Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760864/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell proliferation，PMID 为 42760864。",
+      "report": "The olfactory mucosa serves as both a sensory organ and an immune barrier to protect against bacterial and viral invasion and other insults. It is unclear how different types of olfactory mucosal cells coordinate and contribute to these two functions. We set o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42760531",
+      "signalId": "pubmed-42760531",
+      "companyIds": [],
+      "publishedAt": "2026-09-18",
+      "snapshotDate": "2026-09-19",
+      "title": "NheABC is a pH-dependent cytotoxin that targets mitochondria and contributes to the virulence of Bacillus cereus in wound infections.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760531/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42760531。",
+      "report": "Members of the Bacillus cereus group are Gram-positive, spore-forming, facultative anaerobic bacteria widely distributed in the environment. Pathogenic B. cereus group strains have been linked to a range of illnesses and infections, including severe non-gastro...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42760490",
+      "signalId": "pubmed-42760490",
+      "companyIds": [],
+      "publishedAt": "2026-09-18",
+      "snapshotDate": "2026-09-19",
+      "title": "Biosurfactant-Based Interventions for Improving Lung Function and Controlling Inflammation.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760490/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Pharmaceutical research，PMID 为 42760490。",
+      "report": "Biosurfactants are promising biotechnological compounds for respiratory diseases due to their ability to act as antimicrobials, antivirals, and anti-inflammatories, as well as their capacity to reduce pulmonary surface tension. In vitro evidence shows that mol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42759888",
       "signalId": "pubmed-42759888",
       "companyIds": [],
@@ -103,94 +191,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42759679。",
       "report": "Batri-7 (BT-7) is a classic Mongolian herbal formula traditionally valued for its anti-inflammatory properties. It has been utilized within Mongolian medicine for gastrointestinal disorders and inflammatory conditions, suggesting its potential therapeutic valu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42759512",
-      "signalId": "pubmed-42759512",
-      "companyIds": [],
-      "publishedAt": "2026-09-18",
-      "snapshotDate": "2026-09-19",
-      "title": "Glutamine metabolism as a rheostat of CD4+ T cell pathogenic function in metabolic dysfunction-associated steatotic liver disease.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759512/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell metabolism，PMID 为 42759512。",
-      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) severity is independently linked with pathogenic CD4+ T cell responses and skewed hepatic glutamine (Gln) metabolism. Whether these processes interact to drive disease progression remains unclear...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42759511",
-      "signalId": "pubmed-42759511",
-      "companyIds": [],
-      "publishedAt": "2026-09-18",
-      "snapshotDate": "2026-09-19",
-      "title": "Temporal regulation of progenitor lineage progression and output by NFIs underlying human neocortical malformation.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759511/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 42759511。",
-      "report": "Nuclear factor I (NFI) misexpressions in humans are associated with severe brain malformations, yet the underlying mechanisms remain poorly understood. Here, we show that NFIs regulate the broad lineage progression and lifespan of radial glial progenitors (RGP...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42759506",
-      "signalId": "pubmed-42759506",
-      "companyIds": [],
-      "publishedAt": "2026-09-18",
-      "snapshotDate": "2026-09-19",
-      "title": "Characterization of circulating neoantigen-specific T cell responses and public T cell receptors shaping immune memory in Lynch syndrome carriers.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42759506/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42759506。",
-      "report": "Lynch syndrome (LS), a common inherited genetic condition predisposing to cancer, provides a unique model to study immune surveillance at the earliest stages of tumorigenesis. A hallmark of LS carcinogenesis is the generation of highly immunogenic neoantigens,...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -432,38 +432,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42758211",
-      "signalId": "pubmed-42758211",
-      "companyIds": [],
-      "publishedAt": "2026-09-18",
-      "snapshotDate": "2026-09-19",
-      "title": "[Update on anal dysplasia and anal cancer].",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758211/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Dermatologie (Heidelberg, Germany)，PMID 为 42758211。",
-      "report": "Anal dysplasia and anal cancers are predominantly caused by high-risk types of the human papillomavirus. Lesions are mostly asymptomatic and disproportionately affect high-risk populations such as people living with HIV, women with a history of vulvar (pre)can...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42758091",
       "signalId": "pubmed-42758091",
       "companyIds": [],
@@ -565,6 +533,36 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical and molecular hepatology，PMID 为 42749352。",
       "report": "``Single-cell and spatial atlases describe the healthy and diseased liver at high resolution, including lobular hepatocyte zonation, fibrotic macrophage-stellate niches, cholangiocyte reactions, immune remodeling, and hepatocellular carcinoma ecosystems. These...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42760578",
+      "signalId": "pubmed-42760578",
+      "companyIds": [],
+      "publishedAt": "2026-09-17",
+      "snapshotDate": "2026-09-19",
+      "title": "Integrated longitudinal analysis of ctDNA, radiologic response, and tumor volume reveals spatial and temporal heterogeneity in advanced melanoma.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760578/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42760578。",
+      "report": "In advanced melanoma, longitudinal disease monitoring remains limited by infrequent biomarker assessment and predominantly categorical imaging readouts. Although circulating tumor DNA (ctDNA) correlates with tumor burden, its behavior under high-frequency samp...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
