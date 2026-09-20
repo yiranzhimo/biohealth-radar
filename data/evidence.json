@@ -120,36 +120,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42762149",
-      "signalId": "pubmed-42762149",
-      "companyIds": [],
-      "publishedAt": "2026-09-18",
-      "snapshotDate": "2026-09-20",
-      "title": "Bladder Large Cell Neuroendocrine Carcinoma(LCNEC): A Case Report of Exfoliated Cytology and Pathological Characteristics.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762149/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42762149。",
-      "report": "Primary large cell neuroendocrine carcinoma (LCNEC) of the bladder is an extremely rare and highly aggressive malignancy with a poor prognosis, bringing major challenges to clinical diagnosis and treatment. We report the case of a 77-year-old man who presented...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42758213",
       "signalId": "pubmed-42758213",
       "companyIds": [],
@@ -435,6 +405,38 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42745547。",
       "report": "Conventional drug perturbation prediction models typically employ end-to-end encoder-decoder architectures, directly mapping control samples and perturbation conditions to post-perturbation gene expression profiles. However, these approaches widely overlook th...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42763649",
+      "signalId": "pubmed-42763649",
+      "companyIds": [],
+      "publishedAt": "2026-09-15",
+      "snapshotDate": "2026-09-20",
+      "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
+      "eventType": "Clinical Study",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763649/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": false,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 OncoTargets and therapy，PMID 为 42763649。",
+      "report": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured n...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -757,36 +759,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in sociology，PMID 为 42761487。",
       "report": "Sociological systems theory offers a rich vocabulary for meaning, observation, and communication, but that vocabulary has proven difficult to translate into executable, testable, and revisable procedures. This gap has become more consequential as large languag...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42761421",
-      "signalId": "pubmed-42761421",
-      "companyIds": [],
-      "publishedAt": "2026-09-04",
-      "snapshotDate": "2026-09-20",
-      "title": "ctDNA-based detection of residual disease: implications for management of non-metastatic NSCLC.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761421/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42761421。",
-      "report": "Despite advancements in perioperative and consolidative immunotherapy in early-stage to locally advanced non-small cell lung cancer (NSCLC), recurrence rates remain substantial. In this context, liquid biopsy has transformed the oncological landscape by enabli...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -3176,6 +3148,46 @@
       "report": "Cell-based immune therapy using modified macrophages is a promising therapeutic approach in breast cancer. The objective of this cohort study is to collect tumor samples to develop patients' derived organoids to test the antitumor activity of newly developed C...",
       "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models。登记状态和设计字段不能直接证明疗效或安全性。",
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+    },
+    {
+      "id": "evidence-pubmed-42763512",
+      "signalId": "pubmed-42763512",
+      "companyIds": [],
+      "publishedAt": "2026-03-12",
+      "snapshotDate": "2026-09-20",
+      "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763512/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 In vitro models，PMID 为 42763512。",
+      "report": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-clinicaltrials-NCT05134779",

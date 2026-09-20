@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-20T04:58:44.709251+00:00",
+  "capturedAt": "2026-09-20T11:31:36.938379+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-20"
   },
   "pmids": [
+    "42763512",
     "42763139",
     "42762974",
     "42762962",
     "42762499",
     "42762459",
-    "42762149",
     "42758091",
     "42754836",
     "42753692",
@@ -32,14 +32,32 @@
     "42757549",
     "42754580",
     "42753517",
+    "42763649",
     "42763264",
     "42763154",
     "42761776",
     "42761668",
-    "42761487",
-    "42761421"
+    "42761487"
   ],
   "records": [
+    {
+      "pmid": "42763512",
+      "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
+      "abstract": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a reliance on Matrigel. Derived from mouse sarcoma, Matrigel presents inherent limitations, including an undefined composition, significant batch-to-batch variability, potential biosafety risks, and an inability to faithfully mimic the native tissue microenvironment. These limitations severely restrict the application of organoids in regenerative medicine and precision medicine. To overcome these barriers, tissue-specific decellularized extracellular matrix (dECM) has emerged as a superior alternative. Decellularized ECM is derived from native tissues through physical, chemical, or enzymatic removal of cellular components while preserving the intact 3D architecture, tissue-specific protein composition (matrisome), and bioactive signaling molecules of the native extracellular matrix. By preserving the complex 3D architecture, tissue-specific biochemical composition, and critical biological signals of the native ECM, dECM provides a more biomimetic niche for organoid culture. This review begins by examining the anatomical and functional characteristics of the gastrointestinal tract, establishing the physiological context for organoid modeling. This review first outlines the limitations of traditional matrices and establishes the role of the ECM as an active regulator of the stem cell niche. We then detail the preparation process of gastrointestinal dECM, analyzing the selection and optimization of decellularization methods and their impact on the scaffold's biological and mechanical properties. Critical analysis of dECM's mechanical properties reveals that while decellularization may reduce initial matrix stiffness compared to native tissue, appropriate crosslinking and concentration optimization can restore biomechanical integrity while maintaining biochemical fidelity-addressing a key advantage over Matrigel, which lacks both tunability and tissue specificity. Furthermore, we highlight the superiority of dECM in promoting the formation, maturation, and function of gastrointestinal organoids (e.g., stomach, intestine, colon). The review also summarizes recent advances in the application of dECM-cultured gastrointestinal organoids in disease modeling (e.g., inflammatory bowel disease, gastrointestinal cancers, infectious diseases), high-throughput drug screening, personalized medicine, and regenerative medicine (e.g., tissue repair and transplantation). We compare dECM-based matrices with emerging polymer bioinks, highlighting that while synthetic materials offer greater control over mechanical properties, they cannot replicate the complex biochemical signaling and growth factor reservoirs inherent to native ECM-a limitation that current bioengineering approaches continue to address through hybrid formulations. Finally, we discuss current challenges in dECM technology-such as standardization, scalable production, and complexity reconstruction-and envision future directions involving its integration with emerging technologies like 3D bioprinting, microfluidic chips, and multicellular co-culture systems. Such integrated approaches will catalyze the development of more physiologically relevant and functionally robust in vitro gastrointestinal models, opening new avenues for basic research and clinical translation.",
+      "journal": "In vitro models",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "R&D Department of 3D printing, Department of Gastrointestinal Surgery, Digestive Medicine Center, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107 China.",
+        "School of Medicine, Sun Yat-sen University, Shenzhen, 518107 China.",
+        "Scientific Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107 China."
+      ],
+      "doi": "10.1007/s44164-025-00103-9",
+      "date": "2026-03-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763512/"
+    },
     {
       "pmid": "42763139",
       "title": "Resolving drug uptake heterogeneity in 3D organ on chip models via live single-cell microsampling and ion mobility mass spectrometry.",
@@ -129,28 +147,6 @@
       "doi": "10.1016/j.xpro.2026.104847",
       "date": "2026-09-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762459/"
-    },
-    {
-      "pmid": "42762149",
-      "title": "Bladder Large Cell Neuroendocrine Carcinoma(LCNEC): A Case Report of Exfoliated Cytology and Pathological Characteristics.",
-      "abstract": "Primary large cell neuroendocrine carcinoma (LCNEC) of the bladder is an extremely rare and highly aggressive malignancy with a poor prognosis, bringing major challenges to clinical diagnosis and treatment. We report the case of a 77-year-old man who presented with recurrent gross hematuria for more than 8 months, accompanied by urinary frequency, urinary urgency, and lumbosacral pain. Imaging revealed a large soft-tissue mass on the posterior bladder wall without pathognomonic imaging findings. Urine exfoliative cytology revealed atypical tumor cells with large cellular size, high nucleocytoplasmic ratio, scant cytoplasm, and marked nuclear atypia. Given the advanced age and multiple underlying comorbidities, the patient underwent transurethral resection of the bladder tumor. Histopathologically, the tumor was arranged in diffuse sheets with organoid architecture, composed of large polygonal cells with prominent atypia, active mitosis, focal necrosis, and intravascular tumor thrombi. Immunohistochemically, CK-Pan showed a paranuclear punctate expression pattern; neuroendocrine markers INSM1, Syn, and CD56 were diffusely positive; Ki-67 showed a high proliferation index; and P53 displayed diffuse strong expression. The final diagnosis of primary bladder LCNEC was confirmed by integrated morphological and immunohistochemical findings, with preoperative contrast-enhanced CT defining an advanced clinical stage of cT3N0M0 (American Joint Committee on Cancer, AJCC 8th edition). The patient received postoperative adjuvant chemotherapy, and tumor recurrence was identified at the 3-month follow-up with a stable general condition during the observational period. This case indicates that bladder LCNEC lacks specific clinical and imaging manifestations. Urine exfoliative cytology is a valuable non-invasive ancillary tool for detecting high-grade malignant cells in the urinary tract, whereas combining histopathology and immunohistochemistry remains the gold standard for definitive diagnosis. Surgical resection combined with individualized chemotherapy constitutes the main therapeutic regimen, and close long-term follow-up is indispensable for this highly aggressive tumor. Further clinical studies are required to optimize therapeutic strategies and improve patient prognosis.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Case Reports",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Liuyang Hospital of Traditional Chinese Medicine.",
-        "Chaoyang Branch of Libo County People's Hospital Medical Community.",
-        "People's Hospital of Dafang.",
-        "Wuzhou Red Cross Hospital.",
-        "Liuyang Hospital of Traditional Chinese Medicine; 619992026@qq.com.",
-        "Fujian Pingtan Comprehensive Experimental Area Hospital; 17746092907@163.com."
-      ],
-      "doi": "10.3791/71325",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762149/"
     },
     {
       "pmid": "42758091",
@@ -390,6 +386,37 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753517/"
     },
     {
+      "pmid": "42763649",
+      "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
+      "abstract": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured narrative review synthesizes evidence from PubMed/MEDLINE, Embase, ClinicalTrials.gov, and major oncology conference proceedings, covering stage I-III CRC and selected patients with resected or ablated oligometastatic stage IV disease. We review tumor-informed and tumor-agnostic assay strategies, postoperative sampling, serial versus landmark testing, low-shedding disease, clonal hematopoiesis, and major prospective and randomized studies. Postoperative ctDNA positivity consistently identifies patients at substantially increased risk of recurrence, while serial ctDNA dynamics provide additional prognostic information. In stage II colon cancer, the randomized DYNAMIC trial showed that a ctDNA-guided strategy reduced adjuvant chemotherapy use without compromising long-term recurrence outcomes. By contrast, DYNAMIC-III did not establish non-inferiority for ctDNA-guided de-escalation and showed no recurrence-free survival benefit from conventional chemotherapy escalation in ctDNA-positive stage III disease. The Phase III ALTAIR trial likewise did not meet its pre specified primary disease-free survival endpoint for treatment of molecular relapse with trifluridine/tipiracil. Current professional guidance therefore supports a cautious distinction between clinical validity and clinical utility: ctDNA can inform prognosis, counseling, and clinical-trial eligibility, but should not routinely replace standard surveillance or independently determine treatment escalation or de-escalation outside evidence-based indications or clinical trials. Future progress requires harmonized assays, randomized demonstration of outcome benefit, and prospective validation of integrated ctDNA, pathology, transcriptomic, and AI-derived risk models.",
+      "journal": "OncoTargets and therapy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Burjeel Cancer Institute, Burjeel Medical City, Abu Dhabi, United Arab Emirates.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.",
+        "Nexomic, Dublin, Ireland.",
+        "College of Medicine, Ras Al Khaimah Medical and Health Sciences University, Ras Al Khaimah, United Arab Emirates.",
+        "College of Medicine, Gulf Medical University, Ajman, United Arab Emirates.",
+        "Emirates Oncology Society, Dubai, United Arab Emirates.",
+        "College of Medicine, University of Sharjah, Sharjah, United Arab Emirates.",
+        "Department of Medical Oncology, Mediclinic City Hospital, Dubai, United Arab Emirates.",
+        "Department of Medical Oncology, Dubai Hospital, Dubai Health, Dubai, United Arab Emirates.",
+        "Clemenceau Medical Center Dubai, Healthcare City 2, Dubai, United Arab Emirates.",
+        "College of Pharmacy, University of Sharjah, Sharjah, United Arab Emirates.",
+        "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates.",
+        "Health Research Centre, Jazan University, Jazan, Saudi Arabia.",
+        "Hematology-Oncology Department, Faculty of Medicine, Saint Joseph University, Beirut, Lebanon.",
+        "Section of GI Oncology, Houston Methodist Cancer Center, Houston Methodist Hospital, Houston, TX, USA.",
+        "Department of Gastroenterology and Hepatology, Faculty of Medicine, The University of Jordan, Amman, Jordan."
+      ],
+      "doi": "10.2147/OTT.S619488",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763649/"
+    },
+    {
       "pmid": "42763264",
       "title": "Integrated Urine and Plasma DNA Analysis for Molecular Staging of Upper Tract Urothelial Carcinoma.",
       "abstract": "Current clinical risk stratification for determining neoadjuvant chemotherapy (NAC) usage in nonmetastatic upper tract urothelial carcinoma (UTUC) is frequently inaccurate. This uncertainty leads to suboptimal patient selection, often resulting in either overtreatment of low-stage disease or missed opportunities for NAC in advanced cases. This study evaluates the prognostic performance of urine tumor DNA (utDNA) and plasma circulating tumor DNA (ctDNA) testing as a tool for improving the diagnostic staging and clinical management of UTUC. A total of 41 patients who underwent surgical extirpation for localized UTUC were evaluated using utDNA and ctDNA. Prognostic performance of utDNA and ctDNA testing was compared to standard-of-care (SOC) risk assessment and pathology at surgery. The primary analysis was validation of utDNA TP53 mutation and ctDNA status as predictors of muscle-invasive UTUC. A total of 21 (51%) patients had muscle-invasive UTUC. Univariable logistic regression identified molecular staging (utDNA TP53 and ctDNA status) as a strong predictor of muscle-invasive disease (odds ratio [OR] 9.6, p = 0.002) and the only significant predictor by multivariable analysis (OR 8.5, p = 0.004). When combined with SOC diagnostic staging (biopsy and imaging), molecular staging had significantly better specificity (70% vs 25%) and postive predictive value (74% vs 53%) compared to SOC risk factors (high-grade biopsy and cytology) for identifying muscle-invasive disease, with equivalent sensitivity (81% vs 81%) and negative predictive value (78% vs 56%, p = 0.15). Composite liquid biopsy testing can significantly enhance noninvasive staging of UTUC. Improved staging and prognostic classification can improve personalized risk assessment and treatment intensification.",
@@ -481,24 +508,6 @@
       "doi": "10.3389/fsoc.2026.1871301",
       "date": "2026-09-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761487/"
-    },
-    {
-      "pmid": "42761421",
-      "title": "ctDNA-based detection of residual disease: implications for management of non-metastatic NSCLC.",
-      "abstract": "Despite advancements in perioperative and consolidative immunotherapy in early-stage to locally advanced non-small cell lung cancer (NSCLC), recurrence rates remain substantial. In this context, liquid biopsy has transformed the oncological landscape by enabling the non-invasive detection of tumor-derived components, including DNA, cells, and proteins, from biological fluids. Although plasma-based circulating tumor DNA (ctDNA) analysis is routinely used in metastatic NSCLC to identify actionable genomic alterations at diagnosis and mechanisms of acquired resistance to targeted therapies, its application in non-metastatic disease represents a pivotal challenge. Leveraging minimal residual disease (MRD) detection through ctDNA offers the potential for early risk stratification, enabling the identification of patients who may benefit from treatment escalation, such as intensified adjuvant or consolidative regimens, while sparing low-risk patients from unnecessary toxicity through de-escalation strategies. This review summarizes the biological and technological foundations underlying ctDNA-based MRD detection, including tumor-informed and non-tumor-informed approaches, and examines the current evidence supporting its clinical utility in non-metastatic NSCLC. We also highlight key technical and clinical challenges and discuss future perspectives to optimize integration of ctDNA MRD assessment into routine clinical practice.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Medical Oncology, Centre Léon Bérard, Lyon, France.",
-        "Univ Lyon, Claude Bernard Lyon 1 University, Institut national de la santé et de la recherche médicale (INSERM) 1052, Centre national de la recherche scientifique (CNRS) 5286, Centre Léon Bérard, Cancer Research Center of Lyon, Lyon, France.",
-        "Department of Biopathology, Centre Léon Bérard, Lyon, France."
-      ],
-      "doi": "10.3389/fonc.2026.1951454",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761421/"
     }
   ],
   "signals": [
@@ -616,36 +625,6 @@
       "fact": "PubMed 记录显示该文献收录于 European urology oncology，PMID 为 42763264。",
       "report": "Current clinical risk stratification for determining neoadjuvant chemotherapy (NAC) usage in nonmetastatic upper tract urothelial carcinoma (UTUC) is frequently inaccurate. This uncertainty leads to suboptimal patient selection, often resulting in either overt...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42762149",
-      "date": "2026-09-18",
-      "title": "Bladder Large Cell Neuroendocrine Carcinoma(LCNEC): A Case Report of Exfoliated Cytology and Pathological Characteristics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762149/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42762149。",
-      "report": "Primary large cell neuroendocrine carcinoma (LCNEC) of the bladder is an extremely rare and highly aggressive malignancy with a poor prognosis, bringing major challenges to clinical diagnosis and treatment. We report the case of a 77-year-old man who presented...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -937,6 +916,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42763649",
+      "date": "2026-09-15",
+      "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763649/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 OncoTargets and therapy，PMID 为 42763649。",
+      "report": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured n...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42741841",
       "date": "2026-09-07",
       "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
@@ -1035,36 +1046,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in sociology，PMID 为 42761487。",
       "report": "Sociological systems theory offers a rich vocabulary for meaning, observation, and communication, but that vocabulary has proven difficult to translate into executable, testable, and revisable procedures. This gap has become more consequential as large languag...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42761421",
-      "date": "2026-09-04",
-      "title": "ctDNA-based detection of residual disease: implications for management of non-metastatic NSCLC.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761421/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42761421。",
-      "report": "Despite advancements in perioperative and consolidative immunotherapy in early-stage to locally advanced non-small cell lung cancer (NSCLC), recurrence rates remain substantial. In this context, liquid biopsy has transformed the oncological landscape by enabli...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1255,6 +1236,46 @@
       "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42763139。",
       "report": "Three-dimensional (3D) cancer cell models, such as spheroids, organoids, and organ-on-chip systems, provide more physiologically relevant conditions by preserving native cell-cell and cell-matrix interactions. However, analytical techniques that maintain and a...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42763512",
+      "date": "2026-03-12",
+      "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763512/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 In vitro models，PMID 为 42763512。",
+      "report": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
