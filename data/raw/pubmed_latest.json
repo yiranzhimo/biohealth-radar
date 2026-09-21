@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-20T20:53:27.000069+00:00",
+  "capturedAt": "2026-09-21T05:03:37.178655+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,28 +10,28 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-20",
-    "end": "2026-09-20"
+    "start": "2025-09-21",
+    "end": "2026-09-21"
   },
   "pmids": [
+    "42764197",
+    "42764106",
     "42763512",
     "42763139",
     "42762974",
     "42762962",
-    "42762499",
-    "42762459",
     "42758091",
     "42754836",
     "42753692",
     "42749352",
     "42745547",
     "42741841",
+    "42764027",
     "42763120",
     "42758213",
     "42758048",
     "42757549",
     "42754580",
-    "42753517",
     "42763649",
     "42763264",
     "42763154",
@@ -40,6 +40,39 @@
     "42761487"
   ],
   "records": [
+    {
+      "pmid": "42764197",
+      "title": "Artificial intelligence virtual cells as a new paradigm in nephrology: from multiomics integration to clinical translation.",
+      "abstract": "Kidney diseases remain heterogeneous and mechanistically complex, and current experimental models only partially capture patient-specific dynamics. We advance artificial-intelligence virtual cells (AIVCs) as a translational framework that learns cross-modal representations of renal cell states, performs high-throughput in silico perturbations, and improves via experiment-in-the-loop updates with organoid and real-world readouts. We outline a methodological pathway-data, representation, intervention, evaluation, deployment-anchored to atlas-grade tissue references (e.g., Kidney Precision Medicine Project) and complementary Human Cell Atlas resources, paired molecular-clinical cohorts, and minimally invasive urinary modalities to enable longitudinal, patient-centered modeling. AIVCs complement physical cells: molecular signals are harmonized into uncertainty-calibrated latent states; counterfactual simulations explore dose-time-context responses; and multicellular interactions are formalized as testable niche dynamics. To address competence and trust, we adopt a risk-proportionate verification-validation-uncertainty perspective aligned with contemporary guidance, emphasizing multisite external validation, counterfactual validity on held-out perturbations, probabilistic calibration with decision utility, and subgroup fairness auditing. Clinically, we map opportunities across mechanism reconstruction, individualized treatment-response prediction, nephrotoxicity triage, trial emulation, and routes toward kidney digital twins. Finally, we propose a practical AIVC-organoid partnership-simulate → experiment → validate → iterate-to prioritize hypotheses, shrink the experimental search space, and link mechanistic evidence to bedside decisions. By integrating representation learning, virtual experimentation, and continual updating with interoperable data standards and governance, AIVCs offer an actionable roadmap for precision nephrology.",
+      "journal": "Kidney research and clinical practice",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Nephrology, The Affiliated Hospital of Qingdao University, Qingdao, China.",
+        "Department of Nephrology, The Affiliated Hospital of Qingdao University, Qingdao, China. jiangwei866@qdu.edu.cn."
+      ],
+      "doi": "10.23876/j.krcp.25.316",
+      "date": "2026-02-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764197/"
+    },
+    {
+      "pmid": "42764106",
+      "title": "Panvascular Aging: The Pioneer Organ Hypothesis, Research Models and Future Directions.",
+      "abstract": "Traditional vascular aging research has predominantly focused on isolated pathologies in single vascular beds, which fails to explain the synchronized functional decline of multiple organ systems that defines organismal aging. While the panvascular aging paradigm has emerged as a transformative framework for understanding systemic aging, the field remains fragmented by inconsistent phenotypic definitions, arbitrary model selection, and a critical disconnect between basic mechanistic insights and clinical translation. Recent landmark investigations-including single-cell transcriptomic profiling of primate arterial aging, comprehensive multi-omics analyses of 30 tissues across the lifespan in non-human primates, and the development of the first human vascular organoid model of premature aging-have provided compelling molecular and temporal evidence supporting the pioneer organ hypothesis of aging. These studies suggest that the integrated circulatory network may represent an important regulatory hub influencing systemic aging trajectories, with the aortic arch exhibiting accelerated molecular alterations initiating as early as the third decade of life, preceding functional deterioration in all other visceral organs. Senescence propagates globally via vascular-specific secretory factors, extracellular vesicles (EVs), and impaired protein translation efficiency, driving synchronous dysfunction across the entire circulatory tree. This review addresses three critical unmet needs in the field. First, it establishes the first minimum diagnostic criteria for panvascular aging phenotypes, aligned with the latest VascAgeNet (Network for Research in Vascular Ageing) consensus, to prevent conceptual dilution and standardize cross-study comparisons. Second, it develops a problem-oriented model selection matrix that integrates cutting-edge three-dimensional human vascular organoids, multi-organ chip systems, and non-human primate models, providing actionable guidance for preclinical research design. Third, it systematically delineates the hierarchical mechanistic cascade by which panvascular aging drives multi-organ functional decline, identifies conserved core regulators of vascular senescence, and outlines a subtype-specific translational roadmap for vascular rejuvenation. By synthesizing fragmented knowledge into a cohesive, evidence-based framework, this work bridges the gap between basic research and clinical practice, and accelerates the implementation of the global VascAgeNet Roadmap.",
+      "journal": "Ageing research reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Cardiology, Shanghai East Hospital.",
+        "Department of Cell Biology, Tongji University School of Medicine, Shanghai 200331, China. Electronic address: yycui@tongji.edu.cn."
+      ],
+      "doi": "10.1016/j.arr.2026.103378",
+      "date": "2026-09-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764106/"
+    },
     {
       "pmid": "42763512",
       "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
@@ -112,41 +145,6 @@
       "doi": "10.1016/j.canlet.2026.218845",
       "date": "2026-09-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762962/"
-    },
-    {
-      "pmid": "42762499",
-      "title": "Targeting epithelial IFN-I signaling restores barrier integrity in anti-TNF refractory Crohn's disease.",
-      "abstract": "Type I interferons (IFN-Is) are central regulators of intestinal epithelial homeostasis, yet their role in driving epithelial dysfunction and therapeutic non-response in Crohn's disease (CD) remains poorly defined. Here, we investigated epithelial tumor necrosis factor (TNF)-IFN-I crosstalk as a previously unrecognized contributor to anti-TNF non-response in CD. We analyzed human intestinal biopsies, single-cell RNA sequencing data from CD donors, and used murine TNFR1-deficient and patient-derived organoids exposed to inflammatory cytokines and clinically relevant treatments. Colonic epithelia from anti-TNF non-responders (NR-CD) showed enrichment of IFN-I genes associated with epithelial stress, impaired regeneration, and inflammatory cytokine production. Using patient-derived and murine TNFR1-deficient organoids, we demonstrated that TNF signaling sustains epithelial IFN-I responses linked to immune regulation and antiviral pathways, establishing a mechanistic connection between chronic TNF signaling and epithelial barrier failure. Low-dose butyrate (0.1 mM) suppressed cytokine-induced IFN-I genes and enhanced epithelial turnover in non-IBD and responder CD (R-CD) organoids but did not rescue the apoptosis and defective repair characteristic of NR-CD organoids. Notably, anti-IFN-I antibody treatment selectively attenuated IFN-I signaling and restored epithelial integrity in NR-CD organoids, identifying epithelial IFN-I blockade as a novel therapeutic rescue strategy for anti-TNF refractory disease. TNF-IFN-I crosstalk drives epithelial dysfunction in CD. Elevated epithelial IFN-I genes distinguish anti-TNF non-responders and underlie differential therapeutic responses. Together, this work supports integration of epithelial IFN-I gene expression and patient-derived ex vivo functional testing into treatment decisions for CD patients.",
-      "journal": "Journal of Crohn's & colitis",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Microbiology and Immunology, Division of Health Sciences, University of Otago, Dunedin, Otago, New Zealand.",
-        "Division of Pediatric Gastroenterology and Nutrition, The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, United States.",
-        "Department of Pediatrics, School of Medicine, University of California San Diego, La Jolla, CA, United States.",
-        "Department of Medicine, Division of Health Sciences, University of Otago, Dunedin, Otago, New Zealand.",
-        "Department of Medicine, Gastroenterology, Health New Zealand, Dunedin, Otago, New Zealand."
-      ],
-      "doi": "10.1093/ecco-jcc/jjag140",
-      "date": "2026-09-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762499/"
-    },
-    {
-      "pmid": "42762459",
-      "title": "Protocol for paired isolation and characterization of migrating cancer cell subpopulations in 3D hypoxic microenvironments.",
-      "abstract": "Paired isolation and characterization in 3D hypoxic microenvironments (HyPIC-3D) is a platform for delineating migratory heterogeneity among cancer cell subpopulations within 3D hypoxic tumor microenvironments. Here, we present the protocol for implementing HyPIC-3D using standard laboratory and computational resources. We describe the steps to perform migration assays with cancer spheroids, collect paired non-migrated and migrated subpopulations, and characterize their heterogeneous phenotypes through quantitative imaging, molecular, and cellular analyses. This protocol has potential for applications in diverse 3D migration contexts. For complete details on the use and execution of this protocol, please refer to Schito and Rey-Keim1.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "UCD School of Medicine and UCD Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, D04 C7X2 Dublin, Ireland. Electronic address: luana.schito@ucd.ie.",
-        "UCD School of Medicine and UCD Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Belfield, D04 C7X2 Dublin, Ireland. Electronic address: sergio.rey@ucd.ie."
-      ],
-      "doi": "10.1016/j.xpro.2026.104847",
-      "date": "2026-09-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762459/"
     },
     {
       "pmid": "42758091",
@@ -266,6 +264,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42741841/"
     },
     {
+      "pmid": "42764027",
+      "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
+      "abstract": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production remains limited by the low catalytic efficiency of carboxyl methyltransferases, insufficient intracellular supply of S-adenosylmethionine (SAM), and severe product volatilization during fermentation. In this study, we systematically screened salicylate carboxymethyltransferase and identified CbSAMT as a relatively efficient catalyst for salicylic acid (SA). To further improve catalytic performance, we engineered CbSAMT through fusion-protein design. Remarkably, the catalytic efficiency of 7 × His-CbSAMT was 12-fold higher than that of the wild-type. Molecular dynamics simulations and computational analyses revealed that the polyhistidine tag reshaped the catalytic microenvironment by remodeling the hydrogen-bonding network and reducing the distance between SA and key substrate-positioning residues, thereby enhancing substrate binding and catalytic turnover. To further enhance MeSA biosynthesis, we reinforced intracellular SAM regeneration and established an in situ two-phase fermentation system using n-dodecane as the extractant to alleviate product volatilization. Finally, fed-batch fermentation achieved a MeSA titer of 5.12 g/L, representing the highest production level reported to date. Collectively, this study highlights the potential of polyhistidine tags in enzyme engineering and provides an efficient platform for the biosynthesis of volatile methylated natural products.",
+      "journal": "Bioresource technology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China; Beijing Advanced Innovation Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "Beijing Laboratory of Biomedical Materials, and College of Materials Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. Electronic address: shenxl@mail.buct.edu.cn."
+      ],
+      "doi": "10.1016/j.biortech.2026.135886",
+      "date": "2026-09-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/"
+    },
+    {
       "pmid": "42763120",
       "title": "Computational methods for alternative proteins.",
       "abstract": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nutritional challenges associated with conventional livestock production. However, designing and optimizing alternative proteins requires deep understanding of molecular structures, biochemical properties, and production processes. Computational biology has emerged as a powerful approach to address these challenges by enabling predictive modeling, data-driven protein engineering, and large-scale bioinformatic analyses. This chapter provides a comprehensive overview of computational methods applied in alternative protein research and development. Key approaches discussed include sequence-based bioinformatics, structural modeling, molecular simulations, protein design algorithms, machine learning techniques, metabolic modeling, and process simulation. The chapter further explores how these computational frameworks support discovery of novel protein sources, optimization of functional properties, and scaling of industrial production processes. Challenges and future research directions are also discussed, particularly the integration of artificial intelligence, multi-omics data, and digital twin technologies for food manufacturing. Computational technologies are expected to play a pivotal role in shaping next-generation protein foods by accelerating innovation, reducing development costs, and enabling sustainable protein production systems.",
@@ -368,22 +384,6 @@
       "doi": "10.1038/s41467-026-76740-9",
       "date": "2026-08-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/"
-    },
-    {
-      "pmid": "42753517",
-      "title": "Efflux pump gene ABCA as targets for deep learning-based de novo inhibitors in invasive aspergillosis caused by Aspergillus fumigatus.",
-      "abstract": "This study aims to design and evaluate novel therapeutic binders targeting the ATP-binding region of the AbcA efflux transporter protein in Aspergillus fumigatus. By inhibiting ATP binding, these binders seek to prevent AbcA-mediated azole resistance and restore the effectiveness of antifungal treatments. The research employed a variety of computational modeling and deep learning techniques, such as multiple sequence alignment (MSA) to identify conserved regions, particularly the ATP-binding site. A de novo sequence and structure of the protein was predicted using Protein Generator based on the consensus conserved region, and 60 de novo protein sequences were designed with ProteinMPNN. To enhance intracellular delivery, cell-penetrating peptide (CPP) motifs were added, and their potential was assessed using C2Pred. Allergenicity was evaluated using AllerCatPro, and thermal stability was predicted with DeepSTABp to shortlisted top ten highly thermally stable de novo binders among 7200 generated binders. The de novo sequences were modelled using OmegaFold and subjected to energy minimization. Molecular docking was performed to analyze interactions between the abcA protein and the designed inhibitors, and binding energies were assessed using the GRAMM algorithm and PDBSum. Molecular dynamics simulations using Maestro indicated that the abcA-2795 complex exhibited the most stable conformation. The binding sites of the de novo binders were found to encompass the ATP-binding and transmembrane domains of the AbcA protein. In conclusion, the study successfully designed and evaluated de novo binders targeting the ATP-binding domain of AbcA in Aspergillus fumigatus. The binder abcA-2795 exhibited promising characteristics, including non-allergenicity, cell penetration potential, and high thermal stability, suggesting its potential as an effective inhibitor of fungal drug resistance. Further experimental validation is required to confirm the efficacy and safety of these binders in clinical settings.",
-      "journal": "Computational biology and chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq.",
-        "Biotechnology Department, College of Science, University of Anbar, Ramadi, Anbar, Iraq. Electronic address: ahmed.suleiman@uoanbar.edu.iq."
-      ],
-      "doi": "10.1016/j.compbiolchem.2026.109410",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753517/"
     },
     {
       "pmid": "42763649",
@@ -512,6 +512,76 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42764106",
+      "date": "2026-09-20",
+      "title": "Panvascular Aging: The Pioneer Organ Hypothesis, Research Models and Future Directions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764106/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42764106。",
+      "report": "Traditional vascular aging research has predominantly focused on isolated pathologies in single vascular beds, which fails to explain the synchronized functional decline of multiple organ systems that defines organismal aging. While the panvascular aging parad...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42764027",
+      "date": "2026-09-20",
+      "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
+      "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42762974",
       "date": "2026-09-19",
       "title": "Pregnane X receptor deletion induces a lean phenotype in chow-fed mice through a liver-ileum-muscle axis involving 6α-hydroxylated bile acids and Fgf15.",
@@ -567,34 +637,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42762962。",
       "report": "Endometriosis is a chronic, estrogen-dependent inflammatory disease that, despite its benign histology, displays several cancer-relevant features, including clonal expansion, somatic alteration-associated lesion evolution, tissue invasion, apoptosis resistance...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42762459",
-      "date": "2026-09-19",
-      "title": "Protocol for paired isolation and characterization of migrating cancer cell subpopulations in 3D hypoxic microenvironments.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762459/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42762459。",
-      "report": "Paired isolation and characterization in 3D hypoxic microenvironments (HyPIC-3D) is a platform for delineating migratory heterogeneity among cancer cell subpopulations within 3D hypoxic tumor microenvironments. Here, we present the protocol for implementing Hy...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -853,39 +895,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42753517",
-      "date": "2026-09-16",
-      "title": "Efflux pump gene ABCA as targets for deep learning-based de novo inhibitors in invasive aspergillosis caused by Aspergillus fumigatus.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753517/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42753517。",
-      "report": "This study aims to design and evaluate novel therapeutic binders targeting the ATP-binding region of the AbcA efflux transporter protein in Aspergillus fumigatus. By inhibiting ATP binding, these binders seek to prevent AbcA-mediated azole resistance and resto...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42745547",
       "date": "2026-09-15",
       "title": "scBalFlow: A Staged Flow Matching Framework for Imbalanced Single-Cell Drug Perturbation Prediction.",
@@ -1046,38 +1055,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in sociology，PMID 为 42761487。",
       "report": "Sociological systems theory offers a rich vocabulary for meaning, observation, and communication, but that vocabulary has proven difficult to translate into executable, testable, and revisable procedures. This gap has become more consequential as large languag...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42762499",
-      "date": "2026-09-03",
-      "title": "Targeting epithelial IFN-I signaling restores barrier integrity in anti-TNF refractory Crohn's disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762499/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of Crohn's & colitis，PMID 为 42762499。",
-      "report": "Type I interferons (IFN-Is) are central regulators of intestinal epithelial homeostasis, yet their role in driving epithelial dysfunction and therapeutic non-response in Crohn's disease (CD) remains poorly defined. Here, we investigated epithelial tumor necros...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1276,6 +1253,44 @@
       "fact": "PubMed 记录显示该文献收录于 In vitro models，PMID 为 42763512。",
       "report": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42764197",
+      "date": "2026-02-13",
+      "title": "Artificial intelligence virtual cells as a new paradigm in nephrology: from multiomics integration to clinical translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764197/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Kidney research and clinical practice，PMID 为 42764197。",
+      "report": "Kidney diseases remain heterogeneous and mechanistically complex, and current experimental models only partially capture patient-specific dynamics. We advance artificial-intelligence virtual cells (AIVCs) as a translational framework that learns cross-modal re...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
