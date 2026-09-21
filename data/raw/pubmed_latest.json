@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-21T05:03:37.178655+00:00",
+  "capturedAt": "2026-09-21T12:56:06.758124+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-21"
   },
   "pmids": [
-    "42764197",
-    "42764106",
-    "42763512",
-    "42763139",
-    "42762974",
-    "42762962",
+    "42765106",
+    "42764951",
+    "42764940",
+    "42764884",
+    "42764557",
+    "42764523",
     "42758091",
     "42754836",
     "42753692",
@@ -32,119 +32,130 @@
     "42758048",
     "42757549",
     "42754580",
+    "42764875",
+    "42764713",
     "42763649",
     "42763264",
     "42763154",
-    "42761776",
-    "42761668",
-    "42761487"
+    "42761776"
   ],
   "records": [
     {
-      "pmid": "42764197",
-      "title": "Artificial intelligence virtual cells as a new paradigm in nephrology: from multiomics integration to clinical translation.",
-      "abstract": "Kidney diseases remain heterogeneous and mechanistically complex, and current experimental models only partially capture patient-specific dynamics. We advance artificial-intelligence virtual cells (AIVCs) as a translational framework that learns cross-modal representations of renal cell states, performs high-throughput in silico perturbations, and improves via experiment-in-the-loop updates with organoid and real-world readouts. We outline a methodological pathway-data, representation, intervention, evaluation, deployment-anchored to atlas-grade tissue references (e.g., Kidney Precision Medicine Project) and complementary Human Cell Atlas resources, paired molecular-clinical cohorts, and minimally invasive urinary modalities to enable longitudinal, patient-centered modeling. AIVCs complement physical cells: molecular signals are harmonized into uncertainty-calibrated latent states; counterfactual simulations explore dose-time-context responses; and multicellular interactions are formalized as testable niche dynamics. To address competence and trust, we adopt a risk-proportionate verification-validation-uncertainty perspective aligned with contemporary guidance, emphasizing multisite external validation, counterfactual validity on held-out perturbations, probabilistic calibration with decision utility, and subgroup fairness auditing. Clinically, we map opportunities across mechanism reconstruction, individualized treatment-response prediction, nephrotoxicity triage, trial emulation, and routes toward kidney digital twins. Finally, we propose a practical AIVC-organoid partnership-simulate → experiment → validate → iterate-to prioritize hypotheses, shrink the experimental search space, and link mechanistic evidence to bedside decisions. By integrating representation learning, virtual experimentation, and continual updating with interoperable data standards and governance, AIVCs offer an actionable roadmap for precision nephrology.",
-      "journal": "Kidney research and clinical practice",
+      "pmid": "42765106",
+      "title": "Label-free ultraviolet photoacoustic microscopy for multiscale structural phenotyping of epithelial morphogenesis in organoid-derived intestinal epithelial wrinkle tissue.",
+      "abstract": "Mechanical wrinkling of epithelial tissues encodes key features of tissue morphogenesis and mechanotransductive responses, yet its quantitative, multiscale characterization remains challenging in organoid-based in vitro models due to reliance on fluorescence labelling and sectioning. Here, we develop label-free ultraviolet photoacoustic microscopy (UV-PAM) for multiscale imaging and quantitative analysis of human organoid-derived epithelial wrinkle tissues. By exploiting intrinsic nucleic-acid absorption at 266 nm, UV-PAM visualizes wrinkle structures and nuclear morphology without labeling or sectioning. Using morphomechanically defined wrinkle tissues, we identify multiscale signatures, including wrinkle wavelength, wrinkle index, and strain-induced nuclear elongation and redistribution. UV-PAM further captures chemically induced epithelial stress, revealing degradation of wrinkle structure and nuclear morphology. In a proof-of-concept dataset comprising two untreated and two DTT-treated specimens, integration of these intrinsic signatures with deep learning enabled patch-level discrimination between untreated and chemically perturbed wrinkle tissues on held-out field of views (FOVs), with training and test FOVs obtained from the same specimens. These results establish UV-PAM as a label-free platform for multiscale imaging of epithelial morphogenesis and preliminary computational phenotyping.",
+      "journal": "Photoacoustics",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Nephrology, The Affiliated Hospital of Qingdao University, Qingdao, China.",
-        "Department of Nephrology, The Affiliated Hospital of Qingdao University, Qingdao, China. jiangwei866@qdu.edu.cn."
+        "Department of Biophysics, Department of MetaBioHealth, Department of Biopharmaceutical Convergence, Institute of Quantum Biophysics, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of Mechanical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
+        "Department of Cogno-Mechatronics Engineering, Pusan National University, Busan 46241, Republic of Korea.",
+        "Department of Medical Science, School of Medicine, CHA University, Seongnam, Republic of Korea.",
+        "Graduate School of Convergence Science and Technology, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
+        "Division of Interdisciplinary Bioscience & Bioengineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea."
       ],
-      "doi": "10.23876/j.krcp.25.316",
-      "date": "2026-02-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764197/"
+      "doi": "10.1016/j.pacs.2026.100875",
+      "date": "2026-08-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765106/"
     },
     {
-      "pmid": "42764106",
-      "title": "Panvascular Aging: The Pioneer Organ Hypothesis, Research Models and Future Directions.",
-      "abstract": "Traditional vascular aging research has predominantly focused on isolated pathologies in single vascular beds, which fails to explain the synchronized functional decline of multiple organ systems that defines organismal aging. While the panvascular aging paradigm has emerged as a transformative framework for understanding systemic aging, the field remains fragmented by inconsistent phenotypic definitions, arbitrary model selection, and a critical disconnect between basic mechanistic insights and clinical translation. Recent landmark investigations-including single-cell transcriptomic profiling of primate arterial aging, comprehensive multi-omics analyses of 30 tissues across the lifespan in non-human primates, and the development of the first human vascular organoid model of premature aging-have provided compelling molecular and temporal evidence supporting the pioneer organ hypothesis of aging. These studies suggest that the integrated circulatory network may represent an important regulatory hub influencing systemic aging trajectories, with the aortic arch exhibiting accelerated molecular alterations initiating as early as the third decade of life, preceding functional deterioration in all other visceral organs. Senescence propagates globally via vascular-specific secretory factors, extracellular vesicles (EVs), and impaired protein translation efficiency, driving synchronous dysfunction across the entire circulatory tree. This review addresses three critical unmet needs in the field. First, it establishes the first minimum diagnostic criteria for panvascular aging phenotypes, aligned with the latest VascAgeNet (Network for Research in Vascular Ageing) consensus, to prevent conceptual dilution and standardize cross-study comparisons. Second, it develops a problem-oriented model selection matrix that integrates cutting-edge three-dimensional human vascular organoids, multi-organ chip systems, and non-human primate models, providing actionable guidance for preclinical research design. Third, it systematically delineates the hierarchical mechanistic cascade by which panvascular aging drives multi-organ functional decline, identifies conserved core regulators of vascular senescence, and outlines a subtype-specific translational roadmap for vascular rejuvenation. By synthesizing fragmented knowledge into a cohesive, evidence-based framework, this work bridges the gap between basic research and clinical practice, and accelerates the implementation of the global VascAgeNet Roadmap.",
-      "journal": "Ageing research reviews",
+      "pmid": "42764951",
+      "title": "Dual-modal tumor-selective benzofuran tracer integrating real-time imaging and anticancer effects.",
+      "abstract": "Microtubule-targeting agents remain a cornerstone of cancer therapy; however, few compounds can simultaneously visualize intratumoral distribution and correlate pharmacodynamics with therapeutic response. Here, we describe BF-04, a Benzofuran-derived microtubule destabilizer that circumvents multidrug resistance and integrates anticancer efficacy with dual-modality imaging. Chemical conjugation with the Cyanine 5 fluorescent dye (Cy5) and Zirconium-89 (89Zr) provided high-contrast, real-time fluorescence and Positron emission tomography (PET) signals without the need for antibody or nanoparticle carriers, enabling direct monitoring of drug distribution and retention in tumors. Importantly, BF-04 exhibited tumor-selective accumulation independent of labeling, confirming a scaffold-driven targeting mechanism with strong translational potential for image-guided therapy. Mechanistically, BF-04 induced microtubule depolymerization, mitotic arrest, and apoptosis across multiple cancer cell lines and patient-derived organoids (PDOs). In vivo studies demonstrated selective tumor uptake and robust growth suppression with minimal systemic toxicity. Collectively, these findings establish BF-04 as a promising theranostic platform that combines potent microtubule disruption with real-time imaging to facilitate precision cancer therapy.",
+      "journal": "Acta pharmaceutica Sinica. B",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Chemical Biology Research Center, Korea Research Institute of Bioscience and Biotechnology. Cheongju 28116, Republic of Korea.",
+        "Division of Bioconvergence Analysis, Korea Basic Science Institute, Cheongju 28119, Republic of Korea.",
+        "Division of Emerging Virus and Vector Research, National Institute of Health, Korea Disease Control and Prevention Agency, Cheongju 28159, Republic of Korea.",
+        "Department of Biomolecular Science, Korea National University of Science and Technology, Daejeon 34113, Republic of Korea.",
+        "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Cheongju 28116, Republic of Korea.",
+        "Medical Science Substantiation Center, Korea Cancer Center Hospital, Korea Institute of Radiological and Medical Sciences, Seoul 01812, Republic of Korea.",
+        "Department of Surgery, Korea Cancer Center Hospital, Korea Institute of Radiological and Medical Sciences, Seoul 01812, Republic of Korea.",
+        "Department of Biochemistry, Chungbuk National University College of Medicine, Cheongju 28644, Republic of Korea."
+      ],
+      "doi": "10.1016/j.apsb.2026.06.012",
+      "date": "2026-06-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764951/"
+    },
+    {
+      "pmid": "42764940",
+      "title": "Emerging organoids and organoids-on-chip platforms for translational development of antibody‒drug conjugates and next-generation bioconjugates.",
+      "abstract": "The rapid evolution of antibody‒drug conjugates (ADCs) and emerging X-drug conjugates (XDCs) has revolutionized targeted cancer therapy, yet their clinical translation is severely bottlenecked by the lack of human-relevant preclinical models. To bridge this translational gap, patient-derived organoids and organoids-on-chip (OoC) platforms recapitulate key features of human tumor biology, offering powerful tools for investigating cancer heterogeneity and improving the predictive evaluation of bioconjugated therapeutics. In this review, we systematically summarize the current landscape and challenges of ADCs and XDCs development across existing preclinical models, critically discuss the concepts, biological principles and application potential of organoid- and OoC-based systems, and highlight recent global policy developments and collaborative initiatives shaping their translational implementation. Finally, we highlight key challenges and future perspectives for leveraging organoids and OoCs in the druggability assessment, optimization, and translational development of ADCs and XDCs.",
+      "journal": "Acta pharmaceutica Sinica. B",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "State Key Laboratory of Cardiology, Shanghai East Hospital.",
-        "Department of Cell Biology, Tongji University School of Medicine, Shanghai 200331, China. Electronic address: yycui@tongji.edu.cn."
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs/Institute of Pharmaceutical Analysis, College of Pharmacy, Jinan University, Guangzhou 510632, China.",
+        "Laboratory of Tissue Plasticity in Health and Disease, Cluster of Stem Cell and Developmental Biology, Department of Development and Regeneration, KU Leuven, Leuven 3000, Belgium.",
+        "School of Engineering, Westlake University, Hangzhou 310024, China.",
+        "Imagine Institut, INSERM U1163, Paris Cite University, Paris 75015, France.",
+        "Department of Biomedical Engineering, School of Medicine, The Chinese University of Hong Kong (Shenzhen), Shenzhen 518172, China."
       ],
-      "doi": "10.1016/j.arr.2026.103378",
+      "doi": "10.1016/j.apsb.2026.05.032",
+      "date": "2026-06-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764940/"
+    },
+    {
+      "pmid": "42764884",
+      "title": "Nanomaterial-mediated functional remodeling of antigen-presenting cells: A novel strategy to break tumor immune escape.",
+      "abstract": "With the cross-integration of nanotechnology and immunology, nanomaterials have shown great potential in tumor treatment. This review begins with the nanomaterials have unique advantages in reshaping the tumor immune microenvironment (TIME), including improving targeting, enhancing stability, increasing delivery efficiency, achieving controllable release, and endowing a multi-functional integrated platform. We then systematically reviews the recently research progress on the multi-mechanism regulation of antigen-presenting cells (APCs) by nanomaterials: (1) In the aspect of dendritic cell activation, we focus on the breakthrough achievements such as the activation of immune responses through the generation of immune signal complexes and the promotion of tumor neoantigen presentation; (2) In the field of macrophage reprogramming, we analyze the applications of nanomaterials in inducing macrophage polarization, improving the anti-tumor phagocytosis of macrophages, blocking macrophage autophagy, and enhancing the synergy of immune cells; (3) In the regulation of B cells, we explore the mechanism by which nanomaterials enhance the germinal center response and thereby exert anti-tumor immune effects. This article further discusses key challenges in clinical translation, including the dynamic fate of nanomaterials in complex TIME and the balance between immunogenicity and efficacy, and proposes future directions for accelerating clinical translation through computer-aided design (such as AI prediction of nanomaterial-immune cell interaction networks) and organ-on-a-chip evaluation systems. This review provides a theoretical framework and technical route for the development of next-generation tumor immunonanomedicines.",
+      "journal": "Acta pharmaceutica Sinica. B",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang 110122, China.",
+        "Liaoning Key Laboratory of Molecular Targeted Anti-tumor Drug Development and Evaluation, China Medical University, Shenyang 110122, China."
+      ],
+      "doi": "10.1016/j.apsb.2026.06.038",
+      "date": "2026-06-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764884/"
+    },
+    {
+      "pmid": "42764557",
+      "title": "Targeting the Brain: Are Nanodrugs Ready for Clinical Translation in CNS Disorders?",
+      "abstract": "Although significant progress has been made in nanotechnology, the clinical translation of central nervous system (CNS) therapeutics has been limited. While engineered nanocarriers have greatly enhanced blood-brain barrier (BBB) transport, there is now growing evidence that enhanced brain delivery is not sufficient for therapeutic success. Based on this, it is suggested that the key obstacle to translation is now the poor engagement of the molecule at the BBB, its intracellular pharmacology, and its pharmacodynamic response. This perspective underscores the evolving paradigm shift from delivery-based nanomedicine to target-based precision pharmacology where therapeutic engagement is quantified by target occupancy, pathway modulation in the context of disease, and translational relevance to the human condition. This integration of validated disease biology and intelligent delivery design can now be achieved through the advent of new technologies such as artificial intelligence (AI), systems pharmacology, receptor-guided engineering of nanocarriers, spatial multi-omics, brain organoids, and BBB-on-chip technologies. This target-oriented approach is expected to facilitate clinical reproducibility and accelerate the development of safer, more effective, and individualized nanotherapeutics for CNS diseases.",
+      "journal": "Current drug targets",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, Chandigarh College of Technology, Chandigarh Group of Colleges, Landran, Mohali, Punjab, India.",
+        "Department of Physiology & Pharmacology, College of Medicine, Taipei Medical University, Taipei, 110301, Taiwan."
+      ],
+      "doi": "10.2174/0113894501515112260901061515",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764557/"
+    },
+    {
+      "pmid": "42764523",
+      "title": "Muscle Organoids and Organs-on-Chips: A 15-Year Global Bibliometric Perspective.",
+      "abstract": "Muscle organoids and Organs-on-Chips (OoCs) have emerged as advanced strategies in regenerative medicine and preclinical investigation for muscular diseases. Here, we aim to conduct a comprehensive bibliometric analysis to reveal the global research trends and their evolution in these fields. We retrieved studies on muscle organoids and OoCs published between 2010 and 2025 were retrieved from the Web of Science Core Collection (WoSCC), Scopus, and PubMed databases. Quantitative mapping of publication trends, academic impact, and research hotspots was conducted using R-bibliometrix, VOSviewer, and CiteSpace. A total of 2,083 articles (cardiac, n = 990; smooth, n = 921; and skeletal, n = 261, subgroups are nonexclusive categories) were included. Global publications have expanded rapidly since 2016, achieving an average annual growth rate of 26.0% and peaking in 2025. The United States and China emerged as leading countries in both publication and citation numbers, and Harvard University took the lead among different institutions. Thematic analysis revealed a developmental trajectory evolving from fundamental material engineering (e.g., biosensors) toward functional validation (e.g., drug screening) and sophisticated microenvironment reconstruction (e.g., vascularization and barrier functions). Furthermore, multidimensional metrics suggested a synchronized pattern of academic impact and developmental focus across all three muscle types. This bibliometric analysis reveals a thematic evolution in research priorities, moving beyond generic microfluidic design to addressing systemic tissue engineering bottlenecks, specifically perfusable vascularization, neuromuscular innervation, and multilineage maturation. These findings offer a bibliometric overview that can inform future efforts toward platform standardization, high-throughput screening, and clinical translation for muscular diseases.",
+      "journal": "Tissue engineering. Part B, Reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Rehabilitation Medicine, The Third Affiliated Hospital, Southern Medical University, Guangzhou, China.",
+        "School of Pharmaceutical Sciences, Southern Medical University, Guangdong, China.",
+        "Division of Orthopaedic Surgery, Department of Orthopaedics, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
+        "Clinical Research Centre, Zhujiang Hospital, Southern Medical University, Guangzhou, China.",
+        "Department of Biomedical Engineering, The Chinese University of Hong Kong, Shatin, China.",
+        "School of Rehabilitation Medicine, Southern Medical University, Guangzhou, China.",
+        "Department of Orthopaedic Surgery, Chongqing Municipal Health Commission Key Laboratory of Musculoskeletal Regeneration and Translational Medicine, Orthopaedic Research Laboratory of Chongqing Medical University, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
+      ],
+      "doi": "10.1177/19373368261486378",
       "date": "2026-09-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764106/"
-    },
-    {
-      "pmid": "42763512",
-      "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
-      "abstract": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a reliance on Matrigel. Derived from mouse sarcoma, Matrigel presents inherent limitations, including an undefined composition, significant batch-to-batch variability, potential biosafety risks, and an inability to faithfully mimic the native tissue microenvironment. These limitations severely restrict the application of organoids in regenerative medicine and precision medicine. To overcome these barriers, tissue-specific decellularized extracellular matrix (dECM) has emerged as a superior alternative. Decellularized ECM is derived from native tissues through physical, chemical, or enzymatic removal of cellular components while preserving the intact 3D architecture, tissue-specific protein composition (matrisome), and bioactive signaling molecules of the native extracellular matrix. By preserving the complex 3D architecture, tissue-specific biochemical composition, and critical biological signals of the native ECM, dECM provides a more biomimetic niche for organoid culture. This review begins by examining the anatomical and functional characteristics of the gastrointestinal tract, establishing the physiological context for organoid modeling. This review first outlines the limitations of traditional matrices and establishes the role of the ECM as an active regulator of the stem cell niche. We then detail the preparation process of gastrointestinal dECM, analyzing the selection and optimization of decellularization methods and their impact on the scaffold's biological and mechanical properties. Critical analysis of dECM's mechanical properties reveals that while decellularization may reduce initial matrix stiffness compared to native tissue, appropriate crosslinking and concentration optimization can restore biomechanical integrity while maintaining biochemical fidelity-addressing a key advantage over Matrigel, which lacks both tunability and tissue specificity. Furthermore, we highlight the superiority of dECM in promoting the formation, maturation, and function of gastrointestinal organoids (e.g., stomach, intestine, colon). The review also summarizes recent advances in the application of dECM-cultured gastrointestinal organoids in disease modeling (e.g., inflammatory bowel disease, gastrointestinal cancers, infectious diseases), high-throughput drug screening, personalized medicine, and regenerative medicine (e.g., tissue repair and transplantation). We compare dECM-based matrices with emerging polymer bioinks, highlighting that while synthetic materials offer greater control over mechanical properties, they cannot replicate the complex biochemical signaling and growth factor reservoirs inherent to native ECM-a limitation that current bioengineering approaches continue to address through hybrid formulations. Finally, we discuss current challenges in dECM technology-such as standardization, scalable production, and complexity reconstruction-and envision future directions involving its integration with emerging technologies like 3D bioprinting, microfluidic chips, and multicellular co-culture systems. Such integrated approaches will catalyze the development of more physiologically relevant and functionally robust in vitro gastrointestinal models, opening new avenues for basic research and clinical translation.",
-      "journal": "In vitro models",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "R&D Department of 3D printing, Department of Gastrointestinal Surgery, Digestive Medicine Center, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107 China.",
-        "School of Medicine, Sun Yat-sen University, Shenzhen, 518107 China.",
-        "Scientific Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, 518107 China."
-      ],
-      "doi": "10.1007/s44164-025-00103-9",
-      "date": "2026-03-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763512/"
-    },
-    {
-      "pmid": "42763139",
-      "title": "Resolving drug uptake heterogeneity in 3D organ on chip models via live single-cell microsampling and ion mobility mass spectrometry.",
-      "abstract": "Three-dimensional (3D) cancer cell models, such as spheroids, organoids, and organ-on-chip systems, provide more physiologically relevant conditions by preserving native cell-cell and cell-matrix interactions. However, analytical techniques that maintain and assess the intrinsic heterogeneity of these systems have lagged behind their biological complexity. Current approaches either rely on live imaging, which lacks biochemical depth, or destructive, high-content assays like RNA sequencing and mass spectrometry imaging, which require either fixative agents or freezing the 3D model before analysis. The key problem addressed here is the lack of methods that integrate live imaging with high-resolution biochemical analysis at the single-cell level. We developed an integrated platform that bridges this gap by combining live imaging of a 3D cancer model with microsampling and mass spectrometry-based whole single-cell analysis. Using a vascularized organ-on-chip system cultured with HepG2 hepatocellular carcinoma cells under a drug gradient, we demonstrated the platform's ability to capture heterogeneous uptake of the drug Tamoxifen. By modifying the physical barriers of a commercial organ-on-a-chip platform for precise capillary-based microsampling, introducing a single-cell preparation technique to mitigate matrix interference from Matrigel, and incorporating High-field Asymmetric Waveform Ion Mobility Spectrometry (FAIMS), we reduced matrix contamination and enhanced signal-to-noise ratios. This workflow enables non-destructive linkage between dynamic imaging data and single-cell biochemical profiles, preserving the spatial and temporal integrity of 3D tumor models. This platform enables capillary-based single-cell isolation and metabolomic analysis of individual cells from live 3D tumor microenvironments, overcoming limitations of current imaging and molecular methods. By integrating live microscopy with sensitive single-cell mass spectrometry, it offers a new route to investigate cellular heterogeneity, specifically with respect to drug distribution and therapeutic responses in realistic cancer models, advancing translational and preclinical cancer research.",
-      "journal": "Analytica chimica acta",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [],
-      "doi": "10.1016/j.aca.2026.346065",
-      "date": "2026-08-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763139/"
-    },
-    {
-      "pmid": "42762974",
-      "title": "Pregnane X receptor deletion induces a lean phenotype in chow-fed mice through a liver-ileum-muscle axis involving 6α-hydroxylated bile acids and Fgf15.",
-      "abstract": "The pregnane X receptor (Pxr; Nr1i2) plays a role in metabolic regulation. However, its contribution to systemic energy homeostasis under physiological conditions remains unclear. Here, we investigated the metabolic consequences of Nr1i2 deficiency in chow-fed mice. Phenotyping was performed in adult whole-body Nr1i2 knockout (Nr1i2-/-) chow-fed mice and their wild-type littermates. Body composition, metabolic parameters, skeletal muscle mass and myofiber size were assessed. Ileal gene expression, circulating Fgf15 levels, and bile acid composition were analyzed. Intestinal-specific Nr1i2-/- mice were generated to evaluate the contribution of intestinal Pxr signaling. Mechanistic studies were conducted in HT29 cells and mouse ileal organoids. Chow-fed Nr1i2-/- mice displayed a lean phenotype with reduced adiposity, improved insulin sensitivity, and increased skeletal muscle mass and myofiber size compared with wild-type mice. This phenotype was associated with strong induction of ileal Fgf15 gene expression and elevated circulating Fgf15 levels. Intestinal-specific Nr1i2 deletion did not reproduce the metabolic or muscular phenotype, indicating that intestinal Pxr loss alone is insufficient. Nr1i2 deficiency was associated with remodeling of the hepatic bile acid pathway and enrichment of specific taurine-conjugated and 6α-hydroxylated bile acids in the ileum. In vitro, these bile acids enhanced FGF19 expression through FXR-related canonical and non-canonical mechanisms, supporting a mechanistic link between bile acid remodeling and increased Fgf15/19 signaling. These findings provide the first evidence that, under standard dietary conditions, loss of Pxr induces a lean phenotype, promotes reduced adiposity together with remodeling of bile acid pool, increased Fgf15 production and enhanced skeletal muscle mass.",
-      "journal": "Molecular metabolism",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Université Lyon1, CarMeN Laboratory, INSERM, INRAE, Pierre Bénite, France. Electronic address: Berengere.benoit@univ-lyon1.fr.",
-        "Université Lyon1, CarMeN Laboratory, INSERM, INRAE, Pierre Bénite, France.",
-        "Université Lyon1, CarMeN Laboratory, INSERM, INRAE, Pierre Bénite, France; Metanutribiota platform, Centre de Biologie et de Pathologie, Hospices Civils de Lyon, Groupement Hospitalier Sud, Pierre Bénite, France.",
-        "Sorbonne Université, Saint Antoine Research Center, INSERM UMR 938, Département de Métabolomique Clinique, Hôpital Saint Antoine, AP-HP Sorbonne Université, Paris, France.",
-        "Department of Biology, University of Bergen, Bergen, Norway; Department of Molecular Medicine, Institute of Basic Medical Sciences, Faculty of Medicine, University of Oslo, Oslo, Norway."
-      ],
-      "doi": "10.1016/j.molmet.2026.102442",
-      "date": "2026-09-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762974/"
-    },
-    {
-      "pmid": "42762962",
-      "title": "Endometriosis from Initiation to Innovation: Immune Microenvironments, Clonal Lesion Biology, and the Emerging Therapeutic Pipeline.",
-      "abstract": "Endometriosis is a chronic, estrogen-dependent inflammatory disease that, despite its benign histology, displays several cancer-relevant features, including clonal expansion, somatic alteration-associated lesion evolution, tissue invasion, apoptosis resistance, immune evasion, angiogenesis, fibrosis, and metabolic adaptation. These features are particularly important in ovarian endometriosis, where recurrent hemorrhage, iron-driven oxidative stress, and chronic inflammatory remodeling may promote malignant transformation. This review examines endometriosis through an oncologic framework by integrating current evidence on disease initiation, clonal lesion evolution, and the peritoneal, ovarian, and deep-infiltrating microenvironments. We discuss how epithelial, stromal, immune, endothelial, mesothelial, and neural components cooperate to support lesion survival, dissemination, vascularization, fibrosis, neuroinflammation, and treatment resistance. Particular attention is given to cancer-associated molecular programs, including PI3K-AKT-mTOR, RAS-MAPK, WNT/β-catenin, hypoxia, oxidative-stress, inflammatory, and epigenetic signaling, and their relationship to endometriosis-associated ovarian cancer. We also critically evaluate animal models, organoids, three-dimensional scaffolds, and microfluidic systems for their ability to reproduce lesion heterogeneity, microenvironmental interactions, therapeutic responses, and malignant progression. Finally, we assess current and emerging therapeutic strategies, emphasizing non-hormonal interventions directed against inflammatory, immune, fibrotic, angiogenic, metabolic, and oncogenic vulnerabilities, together with biomarker-guided and fertility-sparing approaches. Viewing endometriosis as a cancer-relevant inflammatory and clonal disease may reveal actionable mechanisms for precision treatment and interception of endometriosis-associated malignancy.",
-      "journal": "Cancer letters",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Evestra, Inc, San Antonio, TX, USA.",
-        "Department of Medical Education, Texas Tech University Health Science Center El Paso, TX, USA.",
-        "Environmental and Occupational Health Sciences, University of Texas Houston, El Paso, TX, USA.",
-        "Department of Physicochemical Drug Analysis, Jagiellonian University Medical College, Cracow, Poland.",
-        "Department of Molecular and Translational Medicine, Texas Tech University Health Science Center El Paso, TX, USA.",
-        "VaRi Biosciences, Berlin, Germany.",
-        "Department of Biochemistry and Molecular Biology, University of Nebraska Medical Center, Omaha, NE, USA.",
-        "Department of Molecular and Translational Medicine, Texas Tech University Health Science Center El Paso, TX, USA. Electronic address: hbhaskar@ttep.edu."
-      ],
-      "doi": "10.1016/j.canlet.2026.218845",
-      "date": "2026-09-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762962/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764523/"
     },
     {
       "pmid": "42758091",
@@ -386,6 +397,39 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/"
     },
     {
+      "pmid": "42764875",
+      "title": "Upregulated lncRNA AK058003 in Tumor-Educated Platelets and Plasma as Liquid Biopsy Biomarkers for Esophageal Cancer.",
+      "abstract": "Esophageal cancer (EC) ranks thirteenth in incidence and seventh in cancer-related mortality worldwide in 2024, with an estimated 494,000 new cases and 442,000 deaths, and esophageal squamous cell carcinoma (ESCC) remains the predominant histological subtype in China. Endoscopic biopsy and serum markers (SCCA, CA 19-9, CEA) have limited sensitivity or are invasive. This study evaluated the diagnostic potential of platelet and plasma lncRNA AK058003 in EC. Platelet and plasma lncRNA AK058003 expression was quantified by quantitative real-time PCR in 64 EC patients and 64 healthy controls. Diagnostic performance was assessed by ROC curve analysis. Correlations with clinicopathological parameters were analyzed. Tumor-educated platelet (TEP) and plasma lncRNA AK058003 were significantly upregulated in EC patients (P = 0.0042 and P < 0.0001, respectively). Plasma lncRNA AK058003 showed an AUC of 0.83 (sensitivity 82.8%, specificity 76.6%), whereas TEP lncRNA AK058003 yielded an AUC of 0.65 (sensitivity 64.1%, specificity 60.9%). TEP lncRNA AK058003 expression was significantly higher in T3-T4 than T1-T2 stages (P = 0.0025) and correlated with tumor size (P = 0.0017). Both TEP and plasma lncRNA AK058003 were significantly upregulated in EC. Plasma lncRNA AK058003 demonstrated promising diagnostic performance (AUC 0.83, sensitivity 82.8%, specificity 76.6%), while TEP lncRNA AK058003 overexpression correlated with tumor size, supporting their potential as non-invasive liquid-biopsy biomarkers for EC diagnosis.",
+      "journal": "Cancer management and research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, People's Republic of China.",
+        "Department of Laboratory Medicine, Zuxi Renming Hospital (Taihe Medical Center), Hubei University of Medicine, Shiyan, People's Republic of China.",
+        "Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 430022, People's Republic of China."
+      ],
+      "doi": "10.2147/CMAR.S643641",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764875/"
+    },
+    {
+      "pmid": "42764713",
+      "title": "IPMN beyond the cyst: toward a broader framework of pancreatic and systemic cancer susceptibility.",
+      "abstract": "Intraductal papillary mucinous neoplasms (IPMNs) are established precursor lesions of pancreatic ductal adenocarcinoma (PDAC). Although current guidelines primarily focus on lesion morphology, emerging evidence suggests that IPMN may also be associated with broader pancreatic and extrapancreatic cancer risk. This review examines pancreatic field cancerization, including concomitant and metachronous PDACs that may arise independently of the index IPMN. We evaluate reported associations between IPMN and extrapancreatic malignancies, including colorectal, gastric, and breast cancers, while considering surveillance bias, age, shared environmental factors, and hereditary susceptibility. We further discuss germline pathogenic variants, including BRCA1/2, PALB2, and ATM, and identify clinical features that may support risk-adapted genetic assessment. Emerging approaches, including liquid biopsy, radiomics, artificial intelligence, and multi-omics, are evaluated as potential tools for individualized surveillance. IPMN may represent more than an isolated pancreatic precursor lesion and may identify selected patients with broader cancer susceptibility. However, current evidence is predominantly observational and does not establish causality. Future management should complement established guidelines with risk-adapted, patient-centered assessment. Emerging technologies may refine individualized risk stratification but require prospective validation before routine clinical implementation.",
+      "journal": "Expert review of gastroenterology & hepatology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Gastroenterological Surgery, Kochi Health Sciences Center."
+      ],
+      "doi": "10.1080/17474124.2026.2737415",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764713/"
+    },
+    {
       "pmid": "42763649",
       "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
       "abstract": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured narrative review synthesizes evidence from PubMed/MEDLINE, Embase, ClinicalTrials.gov, and major oncology conference proceedings, covering stage I-III CRC and selected patients with resected or ablated oligometastatic stage IV disease. We review tumor-informed and tumor-agnostic assay strategies, postoperative sampling, serial versus landmark testing, low-shedding disease, clonal hematopoiesis, and major prospective and randomized studies. Postoperative ctDNA positivity consistently identifies patients at substantially increased risk of recurrence, while serial ctDNA dynamics provide additional prognostic information. In stage II colon cancer, the randomized DYNAMIC trial showed that a ctDNA-guided strategy reduced adjuvant chemotherapy use without compromising long-term recurrence outcomes. By contrast, DYNAMIC-III did not establish non-inferiority for ctDNA-guided de-escalation and showed no recurrence-free survival benefit from conventional chemotherapy escalation in ctDNA-positive stage III disease. The Phase III ALTAIR trial likewise did not meet its pre specified primary disease-free survival endpoint for treatment of molecular relapse with trifluridine/tipiracil. Current professional guidance therefore supports a cautious distinction between clinical validity and clinical utility: ctDNA can inform prognosis, counseling, and clinical-trial eligibility, but should not routinely replace standard surveillance or independently determine treatment escalation or de-escalation outside evidence-based indications or clinical trials. Future progress requires harmonized assays, randomized demonstration of outcome benefit, and prospective validation of integrated ctDNA, pathology, transcriptomic, and AI-derived risk models.",
@@ -477,77 +521,69 @@
       "doi": "10.3389/fonc.2026.1940181",
       "date": "2026-09-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761776/"
-    },
-    {
-      "pmid": "42761668",
-      "title": "Significance of next-generation sequencing in the era of targeted therapy for biliary tract cancer: an analysis at a single institution.",
-      "abstract": "Treatment approaches for biliary tract cancer (BTC) vary widely. Genomic profiling through next-generation sequencing (NGS) has made it possible to apply precision medicine in the management of BTC. This retrospective observational study aimed to evaluate the implementation of treatments based on identified genomic mutations and their clinical significance in patients with BTC in Japan, where NGS is covered by health insurance. We conducted a retrospective analysis of 65 patients with unresectable or recurrent BTC who underwent comprehensive genomic profiling at a single institution between November 2019 and October 2024. Genomic mutations were classified according to the ESMO Scale for Clinical Actionability of molecular Targets (ESCAT) scale. Overall survival (OS) was estimated using the Kaplan-Meier method and compared using the log-rank test. Among the 65 patients, clinically relevant genomic mutations classified using the ESCAT scale were identified in 47 patients, and clinically treatable genomic mutations were identified in 13 patients. Six patients ultimately received mutation-guided therapy, including fibroblast growth factor receptor inhibitors and pembrolizumab. The median time from specimen submission to review by the expert panel was 26 (range, 16-40) days. No significant difference in OS was observed based on the site of the primary tumor (log-rank test, P = 0.5804). Although clinically actionable genomic mutations were identified in one-fifth of patients, < 10% ultimately received treatment based on those findings, highlighting a gap between genomic profiling and treatment implementation. In contrast, with the increasing number of available therapies, access to precision treatment for patients with BTC may improve in the future through a combination of early adoption of NGS and the complementary use of liquid biopsy when tissue is unavailable.",
-      "journal": "Exploration of targeted anti-tumor therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Surgery, Tohoku University Graduate School of Medicine, Sendai 980-8574, Japan.",
-        "Division of Hepato-Biliary and Pancreatic Surgery, Tohoku Medical and Pharmaceutical University, Sendai 983-8536, Japan."
-      ],
-      "doi": "10.37349/etat.2026.1002402",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761668/"
-    },
-    {
-      "pmid": "42761487",
-      "title": "From information to existence: the Information-Meaning-Existence (IBE) framework as a meta-method for second-order observation.",
-      "abstract": "Sociological systems theory offers a rich vocabulary for meaning, observation, and communication, but that vocabulary has proven difficult to translate into executable, testable, and revisable procedures. This gap has become more consequential as large language models are increasingly used to read, summarize, and simulate social-scientific discourse without any shared standard for distinguishing genuine semantic stabilization from fluent but ungrounded continuation. This paper introduces the Information-Meaning-Existence (IBE) framework, which reconstructs Luhmannian second-order observation as a validation architecture. A coherence index tracks whether actualized meaning-relations remain viable as their context changes, and a companion diagnostic identifies when that viability collapses-distinguishing collapse as failure from collapse as a precondition for new distinctions. The framework specifies how its central quantities could be computed from text using existing embedding-based and information-theoretic methods, disambiguates several senses in which a meaning-structure can be said to \"exist,\" and extends the coherence index to register cases in which apparent stability is sustained by structural power rather than genuine resonance. A concluding discussion confronts this coherence-centered vocabulary with dialectical accounts of development in which contradiction, not coherence, drives change, and uses that confrontation to recalibrate the framework's own claims. The paper specifies what an empirical pilot would require to calibrate and test the framework, and explicitly states that absent such calibration, its present status is proto-scientific.",
-      "journal": "Frontiers in sociology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Independent Researcher, Bergheim, Germany."
-      ],
-      "doi": "10.3389/fsoc.2026.1871301",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761487/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42764106",
+      "id": "pubmed-42764713",
+      "date": "2026-09-21",
+      "title": "IPMN beyond the cyst: toward a broader framework of pancreatic and systemic cancer susceptibility.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764713/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42764713。",
+      "report": "Intraductal papillary mucinous neoplasms (IPMNs) are established precursor lesions of pancreatic ductal adenocarcinoma (PDAC). Although current guidelines primarily focus on lesion morphology, emerging evidence suggests that IPMN may also be associated with br...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42764523",
       "date": "2026-09-20",
-      "title": "Panvascular Aging: The Pioneer Organ Hypothesis, Research Models and Future Directions.",
+      "title": "Muscle Organoids and Organs-on-Chips: A 15-Year Global Bibliometric Perspective.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764106/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764523/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42764106。",
-      "report": "Traditional vascular aging research has predominantly focused on isolated pathologies in single vascular beds, which fails to explain the synchronized functional decline of multiple organ systems that defines organismal aging. While the panvascular aging parad...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part B, Reviews，PMID 为 42764523。",
+      "report": "Muscle organoids and Organs-on-Chips (OoCs) have emerged as advanced strategies in regenerative medicine and preclinical investigation for muscular diseases. Here, we aim to conduct a comprehensive bibliometric analysis to reveal the global research trends and...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -579,64 +615,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
       "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42762974",
-      "date": "2026-09-19",
-      "title": "Pregnane X receptor deletion induces a lean phenotype in chow-fed mice through a liver-ileum-muscle axis involving 6α-hydroxylated bile acids and Fgf15.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762974/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular metabolism，PMID 为 42762974。",
-      "report": "The pregnane X receptor (Pxr; Nr1i2) plays a role in metabolic regulation. However, its contribution to systemic energy homeostasis under physiological conditions remains unclear. Here, we investigated the metabolic consequences of Nr1i2 deficiency in chow-fed...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42762962",
-      "date": "2026-09-19",
-      "title": "Endometriosis from Initiation to Innovation: Immune Microenvironments, Clonal Lesion Biology, and the Emerging Therapeutic Pipeline.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42762962/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42762962。",
-      "report": "Endometriosis is a chronic, estrogen-dependent inflammatory disease that, despite its benign histology, displays several cancer-relevant features, including clonal expansion, somatic alteration-associated lesion evolution, tissue invasion, apoptosis resistance...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -761,36 +739,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42761668",
-      "date": "2026-09-18",
-      "title": "Significance of next-generation sequencing in the era of targeted therapy for biliary tract cancer: an analysis at a single institution.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761668/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Exploration of targeted anti-tumor therapy，PMID 为 42761668。",
-      "report": "Treatment approaches for biliary tract cancer (BTC) vary widely. Genomic profiling through next-generation sequencing (NGS) has made it possible to apply precision medicine in the management of BTC. This retrospective observational study aimed to evaluate the...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42758091",
       "date": "2026-09-17",
       "title": "Beyond the drug-centric view: Advancing AI virtual cell platforms for environmental perturbation modelling.",
@@ -895,6 +843,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42764875",
+      "date": "2026-09-16",
+      "title": "Upregulated lncRNA AK058003 in Tumor-Educated Platelets and Plasma as Liquid Biopsy Biomarkers for Esophageal Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764875/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer management and research，PMID 为 42764875。",
+      "report": "Esophageal cancer (EC) ranks thirteenth in incidence and seventh in cancer-related mortality worldwide in 2024, with an estimated 494,000 new cases and 442,000 deaths, and esophageal squamous cell carcinoma (ESCC) remains the predominant histological subtype i...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42745547",
       "date": "2026-09-15",
       "title": "scBalFlow: A Staged Flow Matching Framework for Imbalanced Single-Cell Drug Perturbation Prediction.",
@@ -954,6 +932,36 @@
       "fact": "PubMed 记录显示该文献收录于 OncoTargets and therapy，PMID 为 42763649。",
       "report": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured n...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42764557",
+      "date": "2026-09-11",
+      "title": "Targeting the Brain: Are Nanodrugs Ready for Clinical Translation in CNS Disorders?",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764557/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current drug targets，PMID 为 42764557。",
+      "report": "Although significant progress has been made in nanotechnology, the clinical translation of central nervous system (CNS) therapeutics has been limited. While engineered nanocarriers have greatly enhanced blood-brain barrier (BBB) transport, there is now growing...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1026,38 +1034,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42761487",
-      "date": "2026-09-04",
-      "title": "From information to existence: the Information-Meaning-Existence (IBE) framework as a meta-method for second-order observation.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761487/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in sociology，PMID 为 42761487。",
-      "report": "Sociological systems theory offers a rich vocabulary for meaning, observation, and communication, but that vocabulary has proven difficult to translate into executable, testable, and revisable procedures. This gap has become more consequential as large languag...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1123,6 +1099,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42765106",
+      "date": "2026-08-24",
+      "title": "Label-free ultraviolet photoacoustic microscopy for multiscale structural phenotyping of epithelial morphogenesis in organoid-derived intestinal epithelial wrinkle tissue.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765106/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Photoacoustics，PMID 为 42765106。",
+      "report": "Mechanical wrinkling of epithelial tissues encodes key features of tissue morphogenesis and mechanotransductive responses, yet its quantitative, multiscale characterization remains challenging in organoid-based in vitro models due to reliance on fluorescence l...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42754580",
       "date": "2026-08-20",
       "title": "Accelerating protein design by scaling experimental characterization.",
@@ -1184,113 +1188,93 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42763139",
-      "date": "2026-08-03",
-      "title": "Resolving drug uptake heterogeneity in 3D organ on chip models via live single-cell microsampling and ion mobility mass spectrometry.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763139/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42763139。",
-      "report": "Three-dimensional (3D) cancer cell models, such as spheroids, organoids, and organ-on-chip systems, provide more physiologically relevant conditions by preserving native cell-cell and cell-matrix interactions. However, analytical techniques that maintain and a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42763512",
-      "date": "2026-03-12",
-      "title": "Decellularized extracellular matrix for gastrointestinal organoid culture: a comprehensive review.",
+      "id": "pubmed-42764884",
+      "date": "2026-06-24",
+      "title": "Nanomaterial-mediated functional remodeling of antigen-presenting cells: A novel strategy to break tumor immune escape.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763512/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764884/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 In vitro models，PMID 为 42763512。",
-      "report": "Gastrointestinal organoids, as advanced three-dimensional (3D) in vitro culture models, have revolutionized our understanding of organ development, disease pathophysiology, and therapeutic responses. However, their clinical translation is largely hampered by a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764884。",
+      "report": "With the cross-integration of nanotechnology and immunology, nanomaterials have shown great potential in tumor treatment. This review begins with the nanomaterials have unique advantages in reshaping the tumor immune microenvironment (TIME), including improvin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42764197",
-      "date": "2026-02-13",
-      "title": "Artificial intelligence virtual cells as a new paradigm in nephrology: from multiomics integration to clinical translation.",
+      "id": "pubmed-42764940",
+      "date": "2026-06-11",
+      "title": "Emerging organoids and organoids-on-chip platforms for translational development of antibody‒drug conjugates and next-generation bioconjugates.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764940/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764940。",
+      "report": "The rapid evolution of antibody‒drug conjugates (ADCs) and emerging X-drug conjugates (XDCs) has revolutionized targeted cancer therapy, yet their clinical translation is severely bottlenecked by the lack of human-relevant preclinical models. To bridge this tr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42764951",
+      "date": "2026-06-10",
+      "title": "Dual-modal tumor-selective benzofuran tracer integrating real-time imaging and anticancer effects.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764197/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764951/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Diagnostics",
-        "Precision Medicine"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "诊断",
-        "精准医疗"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Kidney research and clinical practice，PMID 为 42764197。",
-      "report": "Kidney diseases remain heterogeneous and mechanistically complex, and current experimental models only partially capture patient-specific dynamics. We advance artificial-intelligence virtual cells (AIVCs) as a translational framework that learns cross-modal re...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764951。",
+      "report": "Microtubule-targeting agents remain a cornerstone of cancer therapy; however, few compounds can simultaneously visualize intratumoral distribution and correlate pharmacodynamics with therapeutic response. Here, we describe BF-04, a Benzofuran-derived microtubu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

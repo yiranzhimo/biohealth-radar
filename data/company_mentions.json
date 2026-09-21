@@ -4,95 +4,47 @@
   "asOfDate": "2026-09-21",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0dfca3bd985053fc",
-      "observedName": "BEYOND GENOMiX SA, AG, Ltd",
-      "normalizedName": "beyond genomix",
+      "id": "mention-clinicaltrials-0c5b01536def104c",
+      "observedName": "Global Alliance for Regenerative Medicine",
+      "normalizedName": "global alliance for regenerative medicine",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07404969",
-      "sourceDate": "2026-04-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07404969",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07443826",
+      "sourceDate": "2026-07-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "Healthcare AI",
+        "Medical AI",
         "Recruiting",
-        "biomarker",
+        "临床决策支持",
         "临床试验",
-        "衰老"
+        "医疗 AI",
+        "基因治疗",
+        "基因编辑"
       ],
       "activitySignals": [
         "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Biological Aging Hallmarks-Guided Integrative TCM and Conventional Medicine in Post-Treatment Unexplained Female Infertility"
-    },
-    {
-      "id": "mention-clinicaltrials-0e4489f153138e02",
-      "observedName": "Janssen Pharmaceutical K.K.",
-      "normalizedName": "janssen pharmaceutical k k",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00985959",
-      "sourceDate": "2013-12-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00985959",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Cell Therapy",
-        "Clinical Trials",
-        "Oncology",
-        "临床试验",
-        "细胞治疗",
-        "肿瘤"
-      ],
-      "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of JNJ-26866138 (Bortezomib) in Untreated Multiple Myeloma Patients Who Are Not Candidates for Hematopoietic Stem Cell Transplant (HSCT)"
+      "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
     },
     {
-      "id": "mention-clinicaltrials-a67be6eee56ce8c3",
-      "observedName": "Fertisuisse Ltd, SA, AG",
-      "normalizedName": "fertisuisse",
+      "id": "mention-clinicaltrials-1797b1946e72073c",
+      "observedName": "Janssen Scientific Affairs, LLC",
+      "normalizedName": "janssen scientific affairs",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07404969",
-      "sourceDate": "2026-04-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07404969",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Recruiting",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Biological Aging Hallmarks-Guided Integrative TCM and Conventional Medicine in Post-Treatment Unexplained Female Infertility"
-    },
-    {
-      "id": "mention-clinicaltrials-c3f89644a3673086",
-      "observedName": "Sunstar, Inc.",
-      "normalizedName": "sunstar",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04105569",
-      "sourceDate": "2020-08-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04105569",
+      "sourceRecordId": "NCT02964585",
+      "sourceDate": "2022-12-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02964585",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -100,69 +52,98 @@
         "临床试验"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Atlas of Experimental Gingivitis in Humans"
+      "contextTitle": "Role of Canagliflozin on CD34+ Cells in Patients With Type 2 Diabetes"
     },
     {
-      "id": "mention-clinicaltrials-f0f9a6fd350dda5a",
-      "observedName": "Hangzhou Newhorizon Health Technology Co., Ltd.",
-      "normalizedName": "hangzhou newhorizon health technology",
+      "id": "mention-clinicaltrials-481a7e046254cf53",
+      "observedName": "Known Medicine, Inc.",
+      "normalizedName": "known medicine",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05338073",
+      "sourceDate": "2023-04-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05338073",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "KM3D Multicenter Cancer Consortium: Predicting Patient Response Using 3D Cell Culture Models"
+    },
+    {
+      "id": "mention-clinicaltrials-5e3ee9ac00bf89c3",
+      "observedName": "Shanghai OneTar Biomedicine Co., Ltd.",
+      "normalizedName": "shanghai onetar biomedicine",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05613283",
-      "sourceDate": "2023-12-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
+      "sourceRecordId": "NCT05352165",
+      "sourceDate": "2022-04-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05352165",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "The Clinical Efficacy of Drug Sensitive Neoadjuvant Chemotherapy Based on Organoid Versus Traditional Neoadjuvant Chemotherapy in Advanced Rectal Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-cae6ff1205e97c98",
+      "observedName": "Unlimited Biotechnology LLC",
+      "normalizedName": "unlimited biotechnology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07443826",
+      "sourceDate": "2026-07-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "Healthcare AI",
+        "Medical AI",
         "Recruiting",
-        "中国",
+        "临床决策支持",
         "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
+        "医疗 AI",
+        "基因治疗",
+        "基因编辑"
       ],
       "activitySignals": [
-        "active_trial"
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
       ],
-      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
-    },
-    {
-      "id": "mention-clinicaltrials-fa41e599881c89f4",
-      "observedName": "BeijingNewBiorayTechnologyCo.,Ltd.",
-      "normalizedName": "beijingnewbioraytechnologyco",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05613283",
-      "sourceDate": "2023-12-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Recruiting",
-        "中国",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
-      ],
-      "activitySignals": [
-        "active_trial"
-      ],
-      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+      "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
