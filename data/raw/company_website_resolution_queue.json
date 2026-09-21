@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-20T08:37:33+00:00",
-  "count": 591,
+  "capturedAt": "2026-09-21T08:59:42+00:00",
+  "count": 592,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -311,6 +311,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-acomhal-research",
+      "name": "Acomhal Research, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409740",
+      "identifiers": {
+        "nihIpf": [
+          "10041657"
+        ],
+        "uei": [
+          "QCZ3GLF8WNP5"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "biotechnology"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-acotec",
       "name": "Acotec",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
@@ -375,6 +393,23 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-actuated-medical",
+      "name": "Actuated Medical, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11252698",
+      "identifiers": {
+        "nihIpf": [
+          "10013439"
+        ],
+        "uei": [
+          "VG84D4KN5LR5"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -651,6 +686,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-aeton-therapeutics",
+      "name": "Aeton Therapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11323824",
+      "identifiers": {
+        "nihIpf": [
+          "10049789"
+        ],
+        "uei": [
+          "MC2DMP4NVUC7"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-agentix",
       "name": "Agentix Corp.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001603345",
@@ -719,6 +774,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-agonox",
+      "name": "Agonox, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11408886",
+      "identifiers": {
+        "nihIpf": [
+          "10031691"
+        ],
+        "uei": [
+          "YNKLZNLCCE85"
+        ]
+      },
+      "sourceTypes": [
+        "biotechnology"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-aibotics",
       "name": "Aibotics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001763329",
@@ -766,6 +838,24 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-aivocode",
+      "name": "Aivocode, Llp",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11403170",
+      "identifiers": {
+        "nihIpf": [
+          "10038623"
+        ],
+        "uei": [
+          "TLPZZJEMNND1"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -851,24 +941,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aldatu-biosciences",
-      "name": "Aldatu Biosciences, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11316507",
-      "identifiers": {
-        "nihIpf": [
-          "10036337"
-        ],
-        "uei": [
-          "N29WVC3UJCB9"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -971,6 +1043,24 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-allander-biotechnologies",
+      "name": "Allander Biotechnologies, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11321353",
+      "identifiers": {
+        "nihIpf": [
+          "10043479"
+        ],
+        "uei": [
+          "J8KMX54WRJM9"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -1145,25 +1235,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-alveolus-bio",
-      "name": "Alveolus Bio, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314239",
-      "identifiers": {
-        "nihIpf": [
-          "10073669"
-        ],
-        "uei": [
-          "CZDCV9W7CRC4"
-        ]
-      },
-      "sourceTypes": [
-        "Organoids & Disease Models",
-        "Precision Diagnostics",
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-alvotech",
       "name": "Alvotech",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001898416",
@@ -1266,6 +1337,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-amissa",
+      "name": "Amissa, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11316421",
+      "identifiers": {
+        "nihIpf": [
+          "10055417"
+        ],
+        "uei": [
+          "UQ8FJSDQQQF6"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "cell therapy",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-amneal-pharmaceuticals",
       "name": "Amneal Pharmaceuticals, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001723128",
@@ -1296,25 +1387,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-amplified-sciences",
-      "name": "Amplified Sciences Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11438471",
-      "identifiers": {
-        "nihIpf": [
-          "10056120"
-        ],
-        "uei": [
-          "RCKST9F41YA6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -1400,25 +1472,6 @@
       },
       "sourceTypes": [
         "In Vitro and In Vivo Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-andson-biotech",
-      "name": "Andson Biotech Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11407222",
-      "identifiers": {
-        "nihIpf": [
-          "10069521"
-        ],
-        "uei": [
-          "JN6BFBRSN5K7"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "biotechnology",
-        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -2035,25 +2088,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-athna-biotech",
-      "name": "Athna Biotech, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314266",
-      "identifiers": {
-        "nihIpf": [
-          "10056104"
-        ],
-        "uei": [
-          "LBCCTS71U2N4"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-atossa-therapeutics",
       "name": "Atossa Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001488039",
@@ -2343,25 +2377,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-bacstitch-dna",
-      "name": "Bacstitch Dna Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11401254",
-      "identifiers": {
-        "nihIpf": [
-          "10070992"
-        ],
-        "uei": [
-          "K6ZEC3LCEKE1"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-bao-pharma",
       "name": "Bao Pharma",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en",
@@ -2464,6 +2479,27 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bellwethers",
+      "name": "Bellwethers Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410331",
+      "identifiers": {
+        "nihIpf": [
+          "10075739"
+        ],
+        "uei": [
+          "XV3NP1RSMHM7"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001808898",
@@ -2562,25 +2598,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-biagon",
-      "name": "Biagon, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409876",
-      "identifiers": {
-        "nihIpf": [
-          "10083239"
-        ],
-        "uei": [
-          "KC22MJKDF1R1"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -3044,6 +3061,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-biotherapeutics",
+      "name": "Biotherapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11419642",
+      "identifiers": {
+        "nihIpf": [
+          "10030530"
+        ],
+        "uei": [
+          "DKZNEQL174E3"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "biotechnology",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-biovie",
       "name": "Biovie Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001580149",
@@ -3129,21 +3166,20 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-blacksmith-medicines",
-      "name": "Blacksmith Medicines, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11410176",
+      "companyId": "candidate-blood-cell-technologies",
+      "name": "Blood Cell Technologies, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11457446",
       "identifiers": {
         "nihIpf": [
-          "10034771"
+          "10037989"
         ],
         "uei": [
-          "ZCWKWSWHAJD6"
+          "HH9LT9M9B3N4"
         ]
       },
       "sourceTypes": [
-        "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
+        "AI Drug Discovery",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -3161,6 +3197,27 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-bmseed",
+      "name": "Bmseed, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11311188",
+      "identifiers": {
+        "nihIpf": [
+          "10033533"
+        ],
+        "uei": [
+          "NS86CTFW6J47"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "Precision Diagnostics",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -3195,6 +3252,23 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
+      "identifiers": {
+        "nihIpf": [
+          "10091062"
+        ],
+        "uei": [
+          "XUNHXKKMFJ63"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -3624,6 +3698,46 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cansera",
+      "name": "Cansera, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409312",
+      "identifiers": {
+        "nihIpf": [
+          "10052673"
+        ],
+        "uei": [
+          "KS4JGG27K1M6"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "biotechnology",
+        "cell therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-capienda-biotech",
+      "name": "Capienda Biotech, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
+      "identifiers": {
+        "nihIpf": [
+          "10049147"
+        ],
+        "uei": [
+          "EGF7MDLBABC6"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "biotechnology",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869",
@@ -3637,6 +3751,25 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-cardiac-rsk3-inhibitors",
+      "name": "Cardiac Rsk3 Inhibitors, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11292808",
+      "identifiers": {
+        "nihIpf": [
+          "10039821"
+        ],
+        "uei": [
+          "D38ER7T7B8L8"
+        ]
+      },
+      "sourceTypes": [
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -3811,6 +3944,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cell-preservation-services",
+      "name": "Cell Preservation Services, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11311406",
+      "identifiers": {
+        "nihIpf": [
+          "10004118"
+        ],
+        "uei": [
+          "M2G2AJQ88SL5"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "biotechnology"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-cell-source",
       "name": "Cell Source, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001569340",
@@ -3879,6 +4030,27 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
+      "identifiers": {
+        "nihIpf": [
+          "10048774"
+        ],
+        "uei": [
+          "M34JNT47EKK3"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Gene Editing / Gene Therapy",
+        "RNA Therapeutics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001752828",
@@ -3913,6 +4085,25 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cereus-diagnostics",
+      "name": "Cereus Diagnostics Corp.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11401239",
+      "identifiers": {
+        "nihIpf": [
+          "10079453"
+        ],
+        "uei": [
+          "ZQYGNNNXSHS6"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-cero-therapeutics-holdings",
       "name": "Cero Therapeutics Holdings, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001870404",
@@ -3930,6 +4121,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cerovations",
+      "name": "Cerovations, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/10646176",
+      "identifiers": {
+        "nihIpf": [
+          "10052828"
+        ],
+        "uei": [
+          "WB4JGBGKLCA1"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-cervomed",
       "name": "CervoMed Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001053691",
@@ -3943,25 +4151,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cfd-research",
-      "name": "Cfd Research Corporation",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11406698",
-      "identifiers": {
-        "nihIpf": [
-          "2805101"
-        ],
-        "uei": [
-          "V3KCP1HNFM33"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -4374,20 +4563,21 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-corami-biotech",
-      "name": "Corami Biotech Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11395638",
+      "companyId": "candidate-constantiam-biosciences",
+      "name": "Constantiam Biosciences Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11406172",
       "identifiers": {
         "nihIpf": [
-          "10088855"
+          "10066504"
         ],
         "uei": [
-          "V4UYGDK9NEB3"
+          "PJYLYX1ED6V4"
         ]
       },
       "sourceTypes": [
+        "AI Drug Discovery",
         "Precision Diagnostics",
-        "biotechnology"
+        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -4439,24 +4629,6 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cryocrate",
-      "name": "Cryocrate, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11417248",
-      "identifiers": {
-        "nihIpf": [
-          "10032735"
-        ],
-        "uei": [
-          "MXHXWLBMUZL7"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -4614,6 +4786,25 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cytoagents",
+      "name": "Cytoagents, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11418976",
+      "identifiers": {
+        "nihIpf": [
+          "10056107"
+        ],
+        "uei": [
+          "CCEZCKNKL9M4"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-dbv-technologies-s-a",
       "name": "DBV Technologies S.A.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001613780",
@@ -4699,25 +4890,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-dnali-data-technologies",
-      "name": "Dnali Data Technologies, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409237",
-      "identifiers": {
-        "nihIpf": [
-          "10067033"
-        ],
-        "uei": [
-          "D1GNGHBC83Q6"
-        ]
-      },
-      "sourceTypes": [
-        "Gene Editing / Gene Therapy",
-        "Precision Diagnostics",
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-dualitybio",
       "name": "Dualitybio",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9606&sc_lang=en",
@@ -4749,26 +4921,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-ecogenome",
-      "name": "Ecogenome LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11407343",
-      "identifiers": {
-        "nihIpf": [
-          "10065639"
-        ],
-        "uei": [
-          "VLV8KECKA5Y9"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "RNA Therapeutics",
-        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -4843,7 +4995,7 @@
     {
       "companyId": "candidate-electronic-biosciences",
       "name": "Electronic Biosciences, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11343472",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11414822",
       "identifiers": {
         "nihIpf": [
           "10008060"
@@ -4857,6 +5009,7 @@
         "Cell Therapy",
         "Precision Diagnostics",
         "RNA Therapeutics",
+        "biotechnology",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
@@ -4896,21 +5049,40 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-embiosys",
-      "name": "Embiosys Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11418087",
+      "companyId": "candidate-endios-bio",
+      "name": "Endios Bio, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11408359",
       "identifiers": {
         "nihIpf": [
-          "10071863"
+          "10090113"
         ],
         "uei": [
-          "Q9PEK2FTD4H6"
+          "EUA8B6E2TJF5"
         ]
       },
       "sourceTypes": [
-        "Precision Diagnostics",
+        "Organoids & Disease Models",
+        "RNA Therapeutics",
         "cell therapy",
         "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-enfuego-therapeutics",
+      "name": "Enfuego Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11407293",
+      "identifiers": {
+        "nihIpf": [
+          "10054616"
+        ],
+        "uei": [
+          "N4XYELPNM224"
+        ]
+      },
+      "sourceTypes": [
+        "RNA Therapeutics",
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -4983,26 +5155,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-evrys-bio",
-      "name": "Evrys Bio, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11364197",
-      "identifiers": {
-        "nihIpf": [
-          "10032382"
-        ],
-        "uei": [
-          "TM98GAF3Z6Q6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-exelixis",
       "name": "Exelixis, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000939767",
@@ -5071,24 +5223,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-fimbrion-therapeutics",
-      "name": "Fimbrion Therapeutics, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11412466",
-      "identifiers": {
-        "nihIpf": [
-          "10032167"
-        ],
-        "uei": [
-          "N9RQX3G4EH54"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-fitlife-brands",
       "name": "Fitlife Brands, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001374328",
@@ -5106,6 +5240,67 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-foli-bio",
+      "name": "Foli Bio Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314303",
+      "identifiers": {
+        "nihIpf": [
+          "10080111"
+        ],
+        "uei": [
+          "MXWVDZNBK5L1"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "biotechnology"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-foragr-medicines",
+      "name": "Foragr Medicines, Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11315143",
+      "identifiers": {
+        "nihIpf": [
+          "10083244"
+        ],
+        "uei": [
+          "CLEQGYM6VKY3"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "RNA Therapeutics",
+        "cell therapy",
+        "drug discovery",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-function-therapeutics",
+      "name": "Function Therapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11415152",
+      "identifiers": {
+        "nihIpf": [
+          "10069439"
+        ],
+        "uei": [
+          "DMN7SCPC2TR5"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Organoids & Disease Models",
+        "cell therapy",
+        "drug discovery",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-functional-brands",
       "name": "Functional Brands Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001837254",
@@ -5119,25 +5314,6 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-fzata",
-      "name": "Fzata, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11312101",
-      "identifiers": {
-        "nihIpf": [
-          "10040649"
-        ],
-        "uei": [
-          "SLGDVHJS1Y85"
-        ]
-      },
-      "sourceTypes": [
-        "Antibody / ADC",
-        "cell therapy",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5208,6 +5384,26 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-gentibio",
+      "name": "Gentibio, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11394173",
+      "identifiers": {
+        "nihIpf": [
+          "10089556"
+        ],
+        "uei": [
+          "HNHTFLZ9U5D4"
+        ]
+      },
+      "sourceTypes": [
+        "Organoids & Disease Models",
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5327,6 +5523,24 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-haima-therapeutics",
+      "name": "Haima Therapeutics, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11313383",
+      "identifiers": {
+        "nihIpf": [
+          "10042766"
+        ],
+        "uei": [
+          "JKZPL4NA9V21"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -5535,25 +5749,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-hydrogene-therapeutics",
-      "name": "Hydrogene Therapeutics Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11405804",
-      "identifiers": {
-        "nihIpf": [
-          "10073609"
-        ],
-        "uei": [
-          "RYZ8N8S6TNR5"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-idexx-laboratories-inc-de",
       "name": "Idexx Laboratories Inc /De",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000874716",
@@ -5567,25 +5762,6 @@
       },
       "sourceTypes": [
         "In Vitro and In Vivo Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-ihealthscreen",
-      "name": "Ihealthscreen, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11399767",
-      "identifiers": {
-        "nihIpf": [
-          "10040082"
-        ],
-        "uei": [
-          "WPASL8LAZTJ4"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5620,6 +5796,25 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-imagenomix",
+      "name": "Imagenomix Corp.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11312149",
+      "identifiers": {
+        "nihIpf": [
+          "10090797"
+        ],
+        "uei": [
+          "WB3ZA2P5QNF3"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -5845,7 +6040,6 @@
         "AI Drug Discovery",
         "Organoids & Disease Models",
         "Precision Diagnostics",
-        "cell therapy",
         "drug discovery"
       ],
       "status": "needs_official_domain"
@@ -5919,26 +6113,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-innotech-precision-medicine",
-      "name": "Innotech Precision Medicine, Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11350268",
-      "identifiers": {
-        "nihIpf": [
-          "10061518"
-        ],
-        "uei": [
-          "E4LRXHW2EKS5"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "RNA Therapeutics",
-        "molecular diagnostics"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-innovent-bio",
       "name": "Innovent Bio",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1801&sc_lang=en",
@@ -6007,25 +6181,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-integral-molecular",
-      "name": "Integral Molecular",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11397464",
-      "identifiers": {
-        "nihIpf": [
-          "4419201"
-        ],
-        "uei": [
-          "DY9KSWE8EJB8"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-intensity-therapeutics",
       "name": "Intensity Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001567264",
@@ -6073,24 +6228,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-iveena-delivery-systems",
-      "name": "Iveena Delivery Systems, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11402067",
-      "identifiers": {
-        "nihIpf": [
-          "10019752"
-        ],
-        "uei": [
-          "EQ3KNDP93M27"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6214,43 +6351,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-kephera-diagnostics",
-      "name": "Kephera Diagnostics, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11417199",
-      "identifiers": {
-        "nihIpf": [
-          "10044686"
-        ],
-        "uei": [
-          "LJFNSE6NM648"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "RNA Therapeutics",
-        "molecular diagnostics"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-keylicon-biosciences",
-      "name": "Keylicon Biosciences Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11406435",
-      "identifiers": {
-        "nihIpf": [
-          "10083524"
-        ],
-        "uei": [
-          "UXSKUT48A7W3"
-        ]
-      },
-      "sourceTypes": [
-        "RNA Therapeutics",
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-keymed-bio",
       "name": "Keymed Bio",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2162&sc_lang=en",
@@ -6302,24 +6402,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-koi-biotherapeutics",
-      "name": "Koi Biotherapeutics Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11391052",
-      "identifiers": {
-        "nihIpf": [
-          "10080445"
-        ],
-        "uei": [
-          "QCVXY1DEA743"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-krystal-biotech",
       "name": "Krystal Biotech, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001711279",
@@ -6337,20 +6419,22 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-kubanda-cryotherapy",
-      "name": "Kubanda Cryotherapy, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11405001",
+      "companyId": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
       "identifiers": {
         "nihIpf": [
-          "10053389"
+          "10065823"
         ],
         "uei": [
-          "VKVEU52JTWK6"
+          "JCZPXLMQQ2D1"
         ]
       },
       "sourceTypes": [
+        "Cell Therapy",
         "Precision Diagnostics",
-        "molecular diagnostics"
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6559,26 +6643,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-luminary-therapeutics",
-      "name": "Luminary Therapeutics, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11421504",
-      "identifiers": {
-        "nihIpf": [
-          "10056556"
-        ],
-        "uei": [
-          "MNKBAEZHWJS1"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "RNA Therapeutics",
-        "biotechnology",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-luzhu-biotech",
       "name": "Luzhu Biotech",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2480&sc_lang=en",
@@ -6615,7 +6679,7 @@
     {
       "companyId": "candidate-mabswitch",
       "name": "Mabswitch, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11405623",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11313251",
       "identifiers": {
         "nihIpf": [
           "10066360"
@@ -6625,8 +6689,7 @@
         ]
       },
       "sourceTypes": [
-        "Antibody / ADC",
-        "cell therapy",
+        "Cell Therapy",
         "gene therapy"
       ],
       "status": "needs_official_domain"
@@ -6645,6 +6708,24 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-maia-biotechnology",
+      "name": "Maia Biotechnology, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11411298",
+      "identifiers": {
+        "nihIpf": [
+          "10090226"
+        ],
+        "uei": [
+          "NPLUZJSWA853"
+        ]
+      },
+      "sourceTypes": [
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6748,27 +6829,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-merlin-biotech",
-      "name": "Merlin Biotech Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11253906",
-      "identifiers": {
-        "nihIpf": [
-          "10074897"
-        ],
-        "uei": [
-          "U33SZN8R3966"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics",
-        "cell therapy",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6892,25 +6952,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-molecular-intelligence",
-      "name": "Molecular Intelligence LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11382186",
-      "identifiers": {
-        "nihIpf": [
-          "10088455"
-        ],
-        "uei": [
-          "MQTZJB8QMKR7"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "biotechnology",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-molecular-partners",
       "name": "Molecular Partners AG",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001745114",
@@ -6924,24 +6965,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-montani-biotechnologies",
-      "name": "Montani Biotechnologies, Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11315302",
-      "identifiers": {
-        "nihIpf": [
-          "10090763"
-        ],
-        "uei": [
-          "ZD8TZNSU7HD8"
-        ]
-      },
-      "sourceTypes": [
-        "RNA Therapeutics",
-        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -6997,21 +7020,19 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-mucommune",
-      "name": "Mucommune, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11316654",
+      "companyId": "candidate-myosin-therapeutics",
+      "name": "Myosin Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11387631",
       "identifiers": {
         "nihIpf": [
-          "10038635"
+          "10064818"
         ],
         "uei": [
-          "NWVPL2L4JMN8"
+          "MLH1HUK133H3"
         ]
       },
       "sourceTypes": [
-        "Cell Therapy",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -7152,6 +7173,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-numentus-technologies",
+      "name": "Numentus Technologies Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409249",
+      "identifiers": {
+        "nihIpf": [
+          "10063089"
+        ],
+        "uei": [
+          "HGYJGDEE8CM6"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy",
+        "molecular diagnostics"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-nutra-pharma",
       "name": "Nutra Pharma Corp",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001119643",
@@ -7288,24 +7329,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-onvagus",
-      "name": "Onvagus, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11313729",
-      "identifiers": {
-        "nihIpf": [
-          "10077443"
-        ],
-        "uei": [
-          "TAM1RGZDPEK4"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-opthea",
       "name": "Opthea Ltd",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001815620",
@@ -7323,40 +7346,21 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-oralbiolife",
-      "name": "Oralbiolife Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11312068",
+      "companyId": "candidate-opus-genetics",
+      "name": "Opus Genetics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409872",
       "identifiers": {
         "nihIpf": [
-          "10074117"
+          "10076450"
         ],
         "uei": [
-          "TAFMBDJPRX49"
+          "YD2GB4S983V9"
         ]
       },
       "sourceTypes": [
-        "AI Drug Discovery",
-        "Organoids & Disease Models",
-        "Precision Diagnostics",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-orlucent",
-      "name": "Orlucent, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11410547",
-      "identifiers": {
-        "nihIpf": [
-          "10022461"
-        ],
-        "uei": [
-          "T3BTHTDCKLM1"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "molecular diagnostics"
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7443,25 +7447,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Cell Therapy",
-        "drug discovery",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-pavaj-vascular",
-      "name": "Pavaj Vascular Corporation",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11405688",
-      "identifiers": {
-        "nihIpf": [
-          "10070816"
-        ],
-        "uei": [
-          "UAQRBA244HM7"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7585,23 +7571,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-proda-biotech",
-      "name": "Proda Biotech, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409793",
-      "identifiers": {
-        "nihIpf": [
-          "10031466"
-        ],
-        "uei": [
-          "KMRLL3EPWVK5"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-prokidney",
       "name": "Prokidney Corp.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001850270",
@@ -7649,6 +7618,26 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-proteovista",
+      "name": "Proteovista, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409383",
+      "identifiers": {
+        "nihIpf": [
+          "10026976"
+        ],
+        "uei": [
+          "GYNUUKETC8F4"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "RNA Therapeutics",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7768,8 +7757,7 @@
       },
       "sourceTypes": [
         "AI Drug Discovery",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7859,25 +7847,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-repeat-rna-therapeutics",
-      "name": "Repeat Rna Therapeutics Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11315150",
-      "identifiers": {
-        "nihIpf": [
-          "10087457"
-        ],
-        "uei": [
-          "GVFHSMPEMSK8"
-        ]
-      },
-      "sourceTypes": [
-        "RNA Therapeutics",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-repligen",
       "name": "Repligen Corp",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000730272",
@@ -7908,6 +7877,24 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-respirerx-pharmaceuticals",
+      "name": "Respirerx Pharmaceuticals Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11420545",
+      "identifiers": {
+        "nihIpf": [
+          "10084154"
+        ],
+        "uei": [
+          "HWS8C3MQDTH7"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7946,22 +7933,19 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-romix-biosciences",
-      "name": "Romix Biosciences Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11309523",
+      "companyId": "candidate-rock-immune",
+      "name": "Rock Immune, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11310680",
       "identifiers": {
         "nihIpf": [
-          "10089568"
+          "10080599"
         ],
         "uei": [
-          "HLDTKXGK5SF6"
+          "M35ZNF9XP8Q7"
         ]
       },
       "sourceTypes": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "RNA Therapeutics",
-        "cell therapy",
+        "biotechnology",
         "gene therapy"
       ],
       "status": "needs_official_domain"
@@ -8001,6 +7985,25 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-sanaria",
+      "name": "Sanaria, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11255658",
+      "identifiers": {
+        "nihIpf": [
+          "10000312"
+        ],
+        "uei": [
+          "YLF2SS2NYGC5"
+        ]
+      },
+      "sourceTypes": [
+        "RNA Therapeutics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-sangamo-therapeutics",
       "name": "Sangamo Therapeutics, Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001001233",
@@ -8031,24 +8034,6 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-scarab-genomics",
-      "name": "Scarab Genomics, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11393769",
-      "identifiers": {
-        "nihIpf": [
-          "10000373"
-        ],
-        "uei": [
-          "S4XQJDL7DN15"
-        ]
-      },
-      "sourceTypes": [
-        "RNA Therapeutics",
-        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -8121,23 +8106,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-selsym-biotech",
-      "name": "Selsym Biotech, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11408188",
-      "identifiers": {
-        "nihIpf": [
-          "10059697"
-        ],
-        "uei": [
-          "G522J2NEDHD2"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-senti-biosciences-holdings",
       "name": "Senti Biosciences Holdings, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001854270",
@@ -8151,6 +8119,25 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-serinus-biosciences",
+      "name": "Serinus Biosciences Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11405775",
+      "identifiers": {
+        "nihIpf": [
+          "10076020"
+        ],
+        "uei": [
+          "GXN5LB1QD3R3"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8169,9 +8156,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "cell therapy",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8206,6 +8191,27 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-single-helix-bio",
+      "name": "Single Helix Bio, Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11406803",
+      "identifiers": {
+        "nihIpf": [
+          "10097307"
+        ],
+        "uei": [
+          "R8DKG1FYV7Q1"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "RNA Therapeutics",
+        "biotechnology",
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -8257,10 +8263,8 @@
       },
       "sourceTypes": [
         "AI Drug Discovery",
-        "Cell Therapy",
         "Organoids & Disease Models",
         "Precision Diagnostics",
-        "biotechnology",
         "drug discovery"
       ],
       "status": "needs_official_domain"
@@ -8351,26 +8355,26 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-spirify-pharma",
-      "name": "Spirify Pharma Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11420511",
+      "companyId": "candidate-sonalasense",
+      "name": "Sonalasense Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11408427",
       "identifiers": {
         "nihIpf": [
-          "10074074"
+          "10056236"
         ],
         "uei": [
-          "ENCWEHHQ4LA7"
+          "LC3GHFGF2KK1"
         ]
       },
       "sourceTypes": [
-        "drug discovery"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
     {
       "companyId": "candidate-spring-mill-pharma",
       "name": "Spring Mill Pharma Incorporated",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314526",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11315103",
       "identifiers": {
         "nihIpf": [
           "10092640"
@@ -8381,28 +8385,27 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
-        "cell therapy",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-stemsynergy-therapeutics",
-      "name": "Stemsynergy Therapeutics, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409930",
+      "companyId": "candidate-stem-pharm",
+      "name": "Stem Pharm, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11316026",
       "identifiers": {
         "nihIpf": [
-          "10020810"
+          "10038710"
         ],
         "uei": [
-          "WVEMHJFUNJ97"
+          "YTLQLAJ53CB7"
         ]
       },
       "sourceTypes": [
+        "AI Drug Discovery",
         "Cell Therapy",
+        "Organoids & Disease Models",
         "Precision Diagnostics",
-        "biotechnology",
         "drug discovery"
       ],
       "status": "needs_official_domain"
@@ -8595,24 +8598,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-tex-immunetics",
-      "name": "Tex Immunetics Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314038",
-      "identifiers": {
-        "nihIpf": [
-          "10090876"
-        ],
-        "uei": [
-          "HD66ZD1FDHJ9"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-tfa-therapeutics",
       "name": "TFA Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001885680",
@@ -8664,20 +8649,20 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-trampoline-pharma",
-      "name": "Trampoline Pharma, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11315490",
+      "companyId": "candidate-ting-therapeutics",
+      "name": "Ting Therapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11380822",
       "identifiers": {
         "nihIpf": [
-          "10062608"
+          "10055005"
         ],
         "uei": [
-          "QAE3GETX9Z88"
+          "F5R2ZH3HCHB5"
         ]
       },
       "sourceTypes": [
-        "Cell Therapy",
-        "biotechnology"
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8818,6 +8803,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11204793",
+      "identifiers": {
+        "nihIpf": [
+          "10073837"
+        ],
+        "uei": [
+          "TVNLCARQLKC8"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000896264",
@@ -8903,24 +8906,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-veramorph",
-      "name": "Veramorph, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11457452",
-      "identifiers": {
-        "nihIpf": [
-          "10047392"
-        ],
-        "uei": [
-          "JZD1YYDDCLP5"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-vericel",
       "name": "Vericel Corp",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000887359",
@@ -8934,6 +8919,24 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-via-therapeutics",
+      "name": "Via Therapeutics, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11316113",
+      "identifiers": {
+        "nihIpf": [
+          "10038939"
+        ],
+        "uei": [
+          "YHRZATLXKL46"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8985,6 +8988,24 @@
       },
       "sourceTypes": [
         "In Vitro and In Vivo Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-virtus-therapeutics",
+      "name": "Virtus Therapeutics Corporation",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11408936",
+      "identifiers": {
+        "nihIpf": [
+          "10064084"
+        ],
+        "uei": [
+          "GAT6WK9MLGR3"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -9193,6 +9214,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-xosomix",
+      "name": "Xosomix LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410609",
+      "identifiers": {
+        "nihIpf": [
+          "10062583"
+        ],
+        "uei": [
+          "KCWEJH659NZ9"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "RNA Therapeutics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-xuanzhubio",
       "name": "Xuanzhubio",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en",
@@ -9206,26 +9247,6 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-xylyx-bio",
-      "name": "Xylyx Bio, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11413845",
-      "identifiers": {
-        "nihIpf": [
-          "10048733"
-        ],
-        "uei": [
-          "N2N9KL2Y52X1"
-        ]
-      },
-      "sourceTypes": [
-        "Organoids & Disease Models",
-        "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },

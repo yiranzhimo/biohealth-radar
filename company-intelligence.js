@@ -2,20 +2,20 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "schemaVersion": "1.0",
   "asOfDate": "2026-09-21",
   "summary": {
-    "profileCount": 623,
+    "profileCount": 624,
     "evidenceCount": 904,
     "programCandidateCount": 0,
-    "companyCandidateCount": 597,
+    "companyCandidateCount": 598,
     "companyMentionCount": 666,
-    "companyUniverseCount": 623,
-    "autoAcceptedCandidateCount": 591,
+    "companyUniverseCount": 624,
+    "autoAcceptedCandidateCount": 592,
     "humanReviewCandidateCount": 6
   },
   "discoverySummary": {
     "mentionCount": 666,
-    "candidateCount": 597,
+    "candidateCount": 598,
     "corroboratedCount": 2,
-    "identifiedCount": 587,
+    "identifiedCount": 588,
     "needsReviewCount": 8,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
@@ -28,17 +28,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
     }
   },
   "candidateReviewSummary": {
-    "reviewCount": 597,
-    "automaticCount": 597,
-    "acceptedCount": 591,
+    "reviewCount": 598,
+    "automaticCount": 598,
+    "acceptedCount": 592,
     "needsHumanCount": 6,
     "rejectedCount": 0,
     "mergedCount": 0
   },
   "profileCoverage": {
-    "profileCount": 623,
-    "companyReportedCount": 622,
-    "withEvidenceCount": 623,
+    "profileCount": 624,
+    "companyReportedCount": 578,
+    "withEvidenceCount": 579,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
     "failedSourceCount": 51,
@@ -2618,6 +2618,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-acomhal-research",
+      "name": "Acomhal Research, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11409740",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10041657"
+          ],
+          "uei": [
+            "QCZ3GLF8WNP5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-acotec",
       "name": "Acotec",
       "asOfDate": "2026-09-21",
@@ -3138,6 +3209,76 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001652935"
         }
       ]
+    },
+    {
+      "companyId": "candidate-actuated-medical",
+      "name": "Actuated Medical, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11252698",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10013439"
+          ],
+          "uei": [
+            "VG84D4KN5LR5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "cell therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-acumen-pharmaceuticals",
@@ -5172,6 +5313,79 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-aeton-therapeutics",
+      "name": "Aeton Therapeutics, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11323824",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10049789"
+          ],
+          "uei": [
+            "MC2DMP4NVUC7"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Platform / Therapeutics",
+        "directions": [
+          "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-agentix",
       "name": "Agentix Corp.",
       "asOfDate": "2026-09-21",
@@ -5680,6 +5894,76 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-agonox",
+      "name": "Agonox, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11408886",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10031691"
+          ],
+          "uei": [
+            "YNKLZNLCCE85"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-aibotics",
       "name": "Aibotics, Inc.",
       "asOfDate": "2026-09-21",
@@ -6073,6 +6357,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
         }
       ]
+    },
+    {
+      "companyId": "candidate-aivocode",
+      "name": "Aivocode, Llp",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11403170",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10038623"
+          ],
+          "uei": [
+            "TLPZZJEMNND1"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "molecular diagnostics"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-akanda",
@@ -6844,101 +7199,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-alaunos-therapeutics-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001107421"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-aldatu-biosciences",
-      "name": "Aldatu Biosciences, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11316507",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10036337"
-          ],
-          "uei": [
-            "N29WVC3UJCB9"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-aldatu-biosciences-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-            "date": "2026-08-18",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11316507"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-          "date": "2026-08-18",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-aldatu-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316507"
         }
       ]
     },
@@ -7723,6 +7983,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001520262"
         }
       ]
+    },
+    {
+      "companyId": "candidate-allander-biotechnologies",
+      "name": "Allander Biotechnologies, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11321353",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10043479"
+          ],
+          "uei": [
+            "J8KMX54WRJM9"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-allarity-therapeutics",
@@ -9396,102 +9727,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-alveolus-bio",
-      "name": "Alveolus Bio, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314239",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10073669"
-          ],
-          "uei": [
-            "CZDCV9W7CRC4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-alveolus-bio-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-alveolus-bio-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-alveolus-bio-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314239"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-alveolus-bio-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-alveolus-bio-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314239"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-alvotech",
       "name": "Alvotech",
       "asOfDate": "2026-09-21",
@@ -10254,6 +10489,79 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-amissa",
+      "name": "Amissa, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11316421",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10055417"
+          ],
+          "uei": [
+            "UQ8FJSDQQQF6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "cell therapy",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, cell therapy, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-amneal-pharmaceuticals",
       "name": "Amneal Pharmaceuticals, Inc.",
       "asOfDate": "2026-09-21",
@@ -10504,102 +10812,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-amphastar-pharmaceuticals-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001297184"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-amplified-sciences",
-      "name": "Amplified Sciences Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11438471",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10056120"
-          ],
-          "uei": [
-            "RCKST9F41YA6"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-amplified-sciences-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-amplified-sciences-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-amplified-sciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11438471"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-amplified-sciences-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-amplified-sciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11438471"
         }
       ]
     },
@@ -11235,102 +11447,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-anbio-biotechnology-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001982708"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-andson-biotech",
-      "name": "Andson Biotech Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11407222",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10069521"
-          ],
-          "uei": [
-            "JN6BFBRSN5K7"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Platform / Therapeutics",
-        "directions": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-andson-biotech-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-andson-biotech-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-andson-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11407222"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-andson-biotech-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-andson-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11407222"
         }
       ]
     },
@@ -16350,102 +16466,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-athna-biotech",
-      "name": "Athna Biotech, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314266",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10056104"
-          ],
-          "uei": [
-            "LBCCTS71U2N4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "biotechnology",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-athna-biotech-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-athna-biotech-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-athna-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314266"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-athna-biotech-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-athna-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314266"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-atossa-therapeutics",
       "name": "Atossa Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
@@ -18852,102 +18872,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-bacstitch-dna",
-      "name": "Bacstitch Dna Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11401254",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10070992"
-          ],
-          "uei": [
-            "K6ZEC3LCEKE1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-bacstitch-dna-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-bacstitch-dna-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-bacstitch-dna-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11401254"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-bacstitch-dna-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-bacstitch-dna-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11401254"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-bao-pharma",
       "name": "Bao Pharma",
       "asOfDate": "2026-09-21",
@@ -19999,6 +19923,80 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-bellwethers",
+      "name": "Bellwethers Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11410331",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10075739"
+          ],
+          "uei": [
+            "XV3NP1RSMHM7"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Organoids & Disease Models, Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
       "asOfDate": "2026-09-21",
@@ -21013,102 +21011,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-bgm-group-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001779578"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-biagon",
-      "name": "Biagon, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409876",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10083239"
-          ],
-          "uei": [
-            "KC22MJKDF1R1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-biagon-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-biagon-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-biagon-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409876"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-biagon-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-biagon-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409876"
         }
       ]
     },
@@ -24598,6 +24500,103 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-biotherapeutics",
+      "name": "Biotherapeutics, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11419642",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10030530"
+          ],
+          "uei": [
+            "DKZNEQL174E3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-biotherapeutics-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-biotherapeutics-official-6701336049be",
+            "date": "2026-08-17",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-biotherapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11310525"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-17",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-biotherapeutics-official-6701336049be",
+          "date": "2026-08-17",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-biotherapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11310525"
+        }
+      ]
+    },
+    {
       "companyId": "candidate-biovie",
       "name": "Biovie Inc.",
       "asOfDate": "2026-09-21",
@@ -25233,24 +25232,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-blacksmith-medicines",
-      "name": "Blacksmith Medicines, Inc.",
+      "companyId": "candidate-blood-cell-technologies",
+      "name": "Blood Cell Technologies, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11410176",
+        "officialUrl": "https://reporter.nih.gov/project-details/11457446",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10034771"
+            "10037989"
           ],
           "uei": [
-            "ZCWKWSWHAJD6"
+            "HH9LT9M9B3N4"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -25259,74 +25258,49 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportPortals": []
       },
       "classification": {
-        "companyType": "Diagnostics / Research Tools",
+        "companyType": "Platform / Therapeutics",
         "directions": [
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
+          "AI Drug Discovery",
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-blacksmith-medicines-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-blacksmith-medicines-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-blacksmith-medicines-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11410176"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-blacksmith-medicines-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-blacksmith-medicines-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11410176"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-blossomhill-therapeutics",
@@ -25454,6 +25428,80 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001839970"
         }
       ]
+    },
+    {
+      "companyId": "candidate-bmseed",
+      "name": "Bmseed, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11311188",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10033533"
+          ],
+          "uei": [
+            "NS86CTFW6J47"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-bolt-biotherapeutics",
@@ -25708,6 +25756,76 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001816815"
         }
       ]
+    },
+    {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11314326",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10091062"
+          ],
+          "uei": [
+            "XUNHXKKMFJ63"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "cell therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-boundless-bio",
@@ -29267,6 +29385,152 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cansera",
+      "name": "Cansera, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11409312",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10052673"
+          ],
+          "uei": [
+            "KS4JGG27K1M6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "cell therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, biotechnology, cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
+      "companyId": "candidate-capienda-biotech",
+      "name": "Capienda Biotech, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11254697",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10049147"
+          ],
+          "uei": [
+            "EGF7MDLBABC6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, biotechnology, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
@@ -29392,6 +29656,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869"
         }
       ]
+    },
+    {
+      "companyId": "candidate-cardiac-rsk3-inhibitors",
+      "name": "Cardiac Rsk3 Inhibitors, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11292808",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10039821"
+          ],
+          "uei": [
+            "D38ER7T7B8L8"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-cardiff-oncology",
@@ -30678,6 +31014,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cell-preservation-services",
+      "name": "Cell Preservation Services, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11311406",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10004118"
+          ],
+          "uei": [
+            "M2G2AJQ88SL5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-cell-source",
       "name": "Cell Source, Inc.",
       "asOfDate": "2026-09-21",
@@ -31186,6 +31593,80 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11314137",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10048774"
+          ],
+          "uei": [
+            "M34JNT47EKK3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "Gene Editing / Gene Therapy",
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Gene Editing / Gene Therapy, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "asOfDate": "2026-09-21",
@@ -31440,6 +31921,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cereus-diagnostics",
+      "name": "Cereus Diagnostics Corp.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11401239",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10079453"
+          ],
+          "uei": [
+            "ZQYGNNNXSHS6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-cero-therapeutics-holdings",
       "name": "Cero Therapeutics Holdings, Inc.",
       "asOfDate": "2026-09-21",
@@ -31567,6 +32120,76 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cerovations",
+      "name": "Cerovations, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/10646176",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10052828"
+          ],
+          "uei": [
+            "WB4JGBGKLCA1"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "cell therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-cervomed",
       "name": "CervoMed Inc.",
       "asOfDate": "2026-09-21",
@@ -31690,102 +32313,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-cervomed-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001053691"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-cfd-research",
-      "name": "Cfd Research Corporation",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11406698",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "2805101"
-          ],
-          "uei": [
-            "V3KCP1HNFM33"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-cfd-research-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-cfd-research-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cfd-research-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11406698"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-cfd-research-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cfd-research-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11406698"
         }
       ]
     },
@@ -34894,24 +35421,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-corami-biotech",
-      "name": "Corami Biotech Inc.",
+      "companyId": "candidate-constantiam-biosciences",
+      "name": "Constantiam Biosciences Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11395638",
+        "officialUrl": "https://reporter.nih.gov/project-details/11406172",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10088855"
+            "10066504"
           ],
           "uei": [
-            "V4UYGDK9NEB3"
+            "PJYLYX1ED6V4"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -34922,71 +35449,48 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Diagnostics / Research Tools",
         "directions": [
+          "AI Drug Discovery",
           "Precision Diagnostics",
-          "biotechnology"
+          "molecular diagnostics"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-corami-biotech-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-corami-biotech-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-corami-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11395638"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-corami-biotech-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-corami-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11395638"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-creative-medical-technology-holdings",
@@ -35610,101 +36114,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-cronos-group-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001656472"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-cryocrate",
-      "name": "Cryocrate, LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11417248",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10032735"
-          ],
-          "uei": [
-            "MXHXWLBMUZL7"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-cryocrate-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-cryocrate-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cryocrate-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11417248"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-cryocrate-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cryocrate-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11417248"
         }
       ]
     },
@@ -36908,6 +37317,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-cytoagents",
+      "name": "Cytoagents, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11418976",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10056107"
+          ],
+          "uei": [
+            "CCEZCKNKL9M4"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-dbv-technologies-s-a",
       "name": "DBV Technologies S.A.",
       "asOfDate": "2026-09-21",
@@ -37557,102 +38038,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-dnali-data-technologies",
-      "name": "Dnali Data Technologies, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409237",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10067033"
-          ],
-          "uei": [
-            "D1GNGHBC83Q6"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Gene Editing / Gene Therapy",
-          "Precision Diagnostics",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-dnali-data-technologies-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-dnali-data-technologies-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-dnali-data-technologies-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409237"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-dnali-data-technologies-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-dnali-data-technologies-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409237"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-dualitybio",
       "name": "Dualitybio",
       "asOfDate": "2026-09-21",
@@ -37918,103 +38303,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-dyadic-international-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001213809"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-ecogenome",
-      "name": "Ecogenome LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11407343",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10065639"
-          ],
-          "uei": [
-            "VLV8KECKA5Y9"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-ecogenome-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-ecogenome-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ecogenome-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11407343"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-ecogenome-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ecogenome-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11407343"
         }
       ]
     },
@@ -38550,7 +38838,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11343472",
+        "officialUrl": "https://reporter.nih.gov/project-details/11414822",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
@@ -38573,6 +38861,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Cell Therapy",
           "Precision Diagnostics",
           "RNA Therapeutics",
+          "biotechnology",
           "molecular diagnostics"
         ],
         "modalities": [],
@@ -38893,102 +39182,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-embiosys",
-      "name": "Embiosys Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11418087",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10071863"
-          ],
-          "uei": [
-            "Q9PEK2FTD4H6"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-embiosys-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-embiosys-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-embiosys-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11418087"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-embiosys-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-embiosys-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11418087"
-        }
-      ]
-    },
-    {
       "companyId": "emulate",
       "name": "Emulate",
       "asOfDate": "2026-09-21",
@@ -39149,6 +39342,150 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://emulatebio.com/products/"
         }
       ]
+    },
+    {
+      "companyId": "candidate-endios-bio",
+      "name": "Endios Bio, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11408359",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10090113"
+          ],
+          "uei": [
+            "EUA8B6E2TJF5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Platform / Therapeutics",
+        "directions": [
+          "Organoids & Disease Models",
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Organoids & Disease Models, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
+      "companyId": "candidate-enfuego-therapeutics",
+      "name": "Enfuego Therapeutics Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11407293",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10054616"
+          ],
+          "uei": [
+            "N4XYELPNM224"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "RNA Therapeutics",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，RNA Therapeutics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-engene-therapeutics",
@@ -39655,103 +39992,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-evaxion-a-s-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001828253"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-evrys-bio",
-      "name": "Evrys Bio, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11364197",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10032382"
-          ],
-          "uei": [
-            "TM98GAF3Z6Q6"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-evrys-bio-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-evrys-bio-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-evrys-bio-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11364197"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-evrys-bio-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-evrys-bio-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11364197"
         }
       ]
     },
@@ -40264,101 +40504,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-fimbrion-therapeutics",
-      "name": "Fimbrion Therapeutics, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11412466",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10032167"
-          ],
-          "uei": [
-            "N9RQX3G4EH54"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Platform / Therapeutics",
-        "directions": [
-          "AI Drug Discovery",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-fimbrion-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-fimbrion-therapeutics-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-fimbrion-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11412466"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-fimbrion-therapeutics-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-fimbrion-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11412466"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-fitlife-brands",
       "name": "Fitlife Brands, Inc.",
       "asOfDate": "2026-09-21",
@@ -40486,6 +40631,226 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-foli-bio",
+      "name": "Foli Bio Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11314303",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10080111"
+          ],
+          "uei": [
+            "MXWVDZNBK5L1"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
+      "companyId": "candidate-foragr-medicines",
+      "name": "Foragr Medicines, Inc",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11315143",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10083244"
+          ],
+          "uei": [
+            "CLEQGYM6VKY3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "cell therapy",
+          "drug discovery",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, cell therapy, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
+      "companyId": "candidate-function-therapeutics",
+      "name": "Function Therapeutics, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11415152",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10069439"
+          ],
+          "uei": [
+            "DMN7SCPC2TR5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Platform / Therapeutics",
+        "directions": [
+          "AI Drug Discovery",
+          "Organoids & Disease Models",
+          "cell therapy",
+          "drug discovery",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Organoids & Disease Models, cell therapy, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-functional-brands",
       "name": "Functional Brands Inc.",
       "asOfDate": "2026-09-21",
@@ -40609,102 +40974,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-functional-brands-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001837254"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-fzata",
-      "name": "Fzata, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11312101",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10040649"
-          ],
-          "uei": [
-            "SLGDVHJS1Y85"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Antibody / ADC",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-fzata-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-fzata-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-fzata-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11312101"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-fzata-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-fzata-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11312101"
         }
       ]
     },
@@ -41487,6 +41756,103 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-genscript-bio-official-f8d781aee7ac",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1548&sc_lang=en"
+        }
+      ]
+    },
+    {
+      "companyId": "candidate-gentibio",
+      "name": "Gentibio, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11394173",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10089556"
+          ],
+          "uei": [
+            "HNHTFLZ9U5D4"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-gentibio-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
+            "date": "2026-08-31",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-08-31",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
+          "date": "2026-08-31",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
         }
       ]
     },
@@ -42634,6 +43000,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
         }
       ]
+    },
+    {
+      "companyId": "candidate-haima-therapeutics",
+      "name": "Haima Therapeutics, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11313383",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10042766"
+          ],
+          "uei": [
+            "JKZPL4NA9V21"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-halozyme-therapeutics",
@@ -44411,102 +44848,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-hydrogene-therapeutics",
-      "name": "Hydrogene Therapeutics Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11405804",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10073609"
-          ],
-          "uei": [
-            "RYZ8N8S6TNR5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-hydrogene-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-hydrogene-therapeutics-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-hydrogene-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11405804"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-hydrogene-therapeutics-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-hydrogene-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405804"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-idexx-laboratories-inc-de",
       "name": "Idexx Laboratories Inc /De",
       "asOfDate": "2026-09-21",
@@ -44630,102 +44971,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-idexx-laboratories-inc-de-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000874716"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-ihealthscreen",
-      "name": "Ihealthscreen, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11399767",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10040082"
-          ],
-          "uei": [
-            "WPASL8LAZTJ4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-ihealthscreen-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-ihealthscreen-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ihealthscreen-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11399767"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-ihealthscreen-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ihealthscreen-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11399767"
         }
       ]
     },
@@ -45261,6 +45506,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001835579"
         }
       ]
+    },
+    {
+      "companyId": "candidate-imagenomix",
+      "name": "Imagenomix Corp.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11312149",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10090797"
+          ],
+          "uei": [
+            "WB3ZA2P5QNF3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "molecular diagnostics"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-immatics-n-v",
@@ -46829,7 +47146,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "AI Drug Discovery",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "cell therapy",
           "drug discovery"
         ],
         "modalities": [],
@@ -47428,103 +47744,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-innogen-official-9c4d7bc6b10e",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2591&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-innotech-precision-medicine",
-      "name": "Innotech Precision Medicine, Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11350268",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10061518"
-          ],
-          "uei": [
-            "E4LRXHW2EKS5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-innotech-precision-medicine-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-innotech-precision-medicine-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-innotech-precision-medicine-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11350268"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-innotech-precision-medicine-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-innotech-precision-medicine-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11350268"
         }
       ]
     },
@@ -48224,102 +48443,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-instil-bio-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001789769"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-integral-molecular",
-      "name": "Integral Molecular",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11397464",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "4419201"
-          ],
-          "uei": [
-            "DY9KSWE8EJB8"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-integral-molecular-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-integral-molecular-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-integral-molecular-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11397464"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-integral-molecular-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-integral-molecular-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11397464"
         }
       ]
     },
@@ -49246,101 +49369,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-iovance-biotherapeutics-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001425205"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-iveena-delivery-systems",
-      "name": "Iveena Delivery Systems, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11402067",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10019752"
-          ],
-          "uei": [
-            "EQ3KNDP93M27"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-iveena-delivery-systems-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-iveena-delivery-systems-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-iveena-delivery-systems-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11402067"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-iveena-delivery-systems-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-iveena-delivery-systems-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11402067"
         }
       ]
     },
@@ -50290,197 +50318,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-kephera-diagnostics",
-      "name": "Kephera Diagnostics, LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11417199",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10044686"
-          ],
-          "uei": [
-            "LJFNSE6NM648"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-kephera-diagnostics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-kephera-diagnostics-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-kephera-diagnostics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11417199"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-kephera-diagnostics-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-kephera-diagnostics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11417199"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-keylicon-biosciences",
-      "name": "Keylicon Biosciences Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11406435",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10083524"
-          ],
-          "uei": [
-            "UXSKUT48A7W3"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-keylicon-biosciences-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-keylicon-biosciences-official-6701336049be",
-            "date": "2026-08-18",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-keylicon-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11406435"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-keylicon-biosciences-official-6701336049be",
-          "date": "2026-08-18",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-keylicon-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11406435"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-keymed-bio",
       "name": "Keymed Bio",
       "asOfDate": "2026-09-21",
@@ -50890,101 +50727,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-koi-biotherapeutics",
-      "name": "Koi Biotherapeutics Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11391052",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10080445"
-          ],
-          "uei": [
-            "QCVXY1DEA743"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-koi-biotherapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-koi-biotherapeutics-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-koi-biotherapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11391052"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-koi-biotherapeutics-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-koi-biotherapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11391052"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-krystal-biotech",
       "name": "Krystal Biotech, Inc.",
       "asOfDate": "2026-09-21",
@@ -51112,24 +50854,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-kubanda-cryotherapy",
-      "name": "Kubanda Cryotherapy, Inc.",
+      "companyId": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11405001",
+        "officialUrl": "https://reporter.nih.gov/project-details/11416294",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10053389"
+            "10065823"
           ],
           "uei": [
-            "VKVEU52JTWK6"
+            "JCZPXLMQQ2D1"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -51140,71 +50882,49 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Diagnostics / Research Tools",
         "directions": [
+          "Cell Therapy",
           "Precision Diagnostics",
-          "molecular diagnostics"
+          "cell therapy",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-kubanda-cryotherapy-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-kubanda-cryotherapy-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-kubanda-cryotherapy-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11405001"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-kubanda-cryotherapy-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-kubanda-cryotherapy-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405001"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-kymera-therapeutics",
@@ -53120,103 +52840,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-luminary-therapeutics",
-      "name": "Luminary Therapeutics, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11421504",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10056556"
-          ],
-          "uei": [
-            "MNKBAEZHWJS1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Cell Therapy",
-          "RNA Therapeutics",
-          "biotechnology",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-luminary-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-luminary-therapeutics-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-luminary-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11421504"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-luminary-therapeutics-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-luminary-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11421504"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-luzhu-biotech",
       "name": "Luzhu Biotech",
       "asOfDate": "2026-09-21",
@@ -53508,7 +53131,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11405623",
+        "officialUrl": "https://reporter.nih.gov/project-details/11313251",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
@@ -53527,8 +53150,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Antibody / ADC",
-          "cell therapy",
+          "Cell Therapy",
           "gene therapy"
         ],
         "modalities": [],
@@ -53734,6 +53356,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2493&sc_lang=en"
         }
       ]
+    },
+    {
+      "companyId": "candidate-maia-biotechnology",
+      "name": "Maia Biotechnology, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11411298",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10090226"
+          ],
+          "uei": [
+            "NPLUZJSWA853"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "biotechnology",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-mannatech",
@@ -54509,104 +54202,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-meiragtx-holdings-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001735438"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-merlin-biotech",
-      "name": "Merlin Biotech Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11253906",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10074897"
-          ],
-          "uei": [
-            "U33SZN8R3966"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Cell Therapy",
-          "Gene Editing / Gene Therapy",
-          "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-merlin-biotech-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-merlin-biotech-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-merlin-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11253906"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-merlin-biotech-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-merlin-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11253906"
         }
       ]
     },
@@ -55985,102 +55580,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-molecular-intelligence",
-      "name": "Molecular Intelligence LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11382186",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10088455"
-          ],
-          "uei": [
-            "MQTZJB8QMKR7"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Platform / Therapeutics",
-        "directions": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-molecular-intelligence-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-molecular-intelligence-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-molecular-intelligence-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11382186"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-molecular-intelligence-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-molecular-intelligence-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11382186"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-molecular-partners",
       "name": "Molecular Partners AG",
       "asOfDate": "2026-09-21",
@@ -56204,101 +55703,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-molecular-partners-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001745114"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-montani-biotechnologies",
-      "name": "Montani Biotechnologies, Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11315302",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10090763"
-          ],
-          "uei": [
-            "ZD8TZNSU7HD8"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-montani-biotechnologies-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-montani-biotechnologies-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-montani-biotechnologies-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11315302"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-montani-biotechnologies-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-montani-biotechnologies-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315302"
         }
       ]
     },
@@ -56698,24 +56102,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-mucommune",
-      "name": "Mucommune, LLC",
+      "companyId": "candidate-myosin-therapeutics",
+      "name": "Myosin Therapeutics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11316654",
+        "officialUrl": "https://reporter.nih.gov/project-details/11387631",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10038635"
+            "10064818"
           ],
           "uei": [
-            "NWVPL2L4JMN8"
+            "MLH1HUK133H3"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -56726,72 +56130,46 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Cell Therapy",
-          "cell therapy",
-          "gene therapy"
+          "biotechnology"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-mucommune-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-mucommune-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-mucommune-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11316654"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-mucommune-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-mucommune-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316654"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-myriad-genetics",
@@ -58062,6 +57440,79 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001000694"
         }
       ]
+    },
+    {
+      "companyId": "candidate-numentus-technologies",
+      "name": "Numentus Technologies Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11409249",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10063089"
+          ],
+          "uei": [
+            "HGYJGDEE8CM6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy",
+          "molecular diagnostics"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy, gene therapy, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "nurix",
@@ -59465,101 +58916,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-onvagus",
-      "name": "Onvagus, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11313729",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10077443"
-          ],
-          "uei": [
-            "TAM1RGZDPEK4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-onvagus-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-onvagus-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-onvagus-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11313729"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-onvagus-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-onvagus-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11313729"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-opthea",
       "name": "Opthea Ltd",
       "asOfDate": "2026-09-21",
@@ -59687,24 +59043,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-oralbiolife",
-      "name": "Oralbiolife Inc",
+      "companyId": "candidate-opus-genetics",
+      "name": "Opus Genetics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11312068",
+        "officialUrl": "https://reporter.nih.gov/project-details/11409872",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10074117"
+            "10076450"
           ],
           "uei": [
-            "TAFMBDJPRX49"
+            "YD2GB4S983V9"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -59713,170 +59069,50 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportPortals": []
       },
       "classification": {
-        "companyType": "Diagnostics / Research Tools",
+        "companyType": "Therapeutics",
         "directions": [
-          "AI Drug Discovery",
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "drug discovery"
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-oralbiolife-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-oralbiolife-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-oralbiolife-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11312068"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-oralbiolife-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-oralbiolife-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11312068"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-orlucent",
-      "name": "Orlucent, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11410547",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10022461"
-          ],
-          "uei": [
-            "T3BTHTDCKLM1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-orlucent-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-orlucent-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-orlucent-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11410547"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-orlucent-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-orlucent-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11410547"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-outlook-therapeutics",
@@ -60579,8 +59815,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "directions": [
           "AI Drug Discovery",
           "Cell Therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -60642,100 +59877,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-paulex-bio-official-6701336049be",
           "sourceUrl": "https://reporter.nih.gov/project-details/11405841"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-pavaj-vascular",
-      "name": "Pavaj Vascular Corporation",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11405688",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10070816"
-          ],
-          "uei": [
-            "UAQRBA244HM7"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-pavaj-vascular-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-pavaj-vascular-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-pavaj-vascular-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11405688"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-pavaj-vascular-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-pavaj-vascular-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405688"
         }
       ]
     },
@@ -61657,100 +60798,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-proda-biotech",
-      "name": "Proda Biotech, LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409793",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10031466"
-          ],
-          "uei": [
-            "KMRLL3EPWVK5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-proda-biotech-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-proda-biotech-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-proda-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409793"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-proda-biotech-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-proda-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409793"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-prokidney",
       "name": "Prokidney Corp.",
       "asOfDate": "2026-09-21",
@@ -62130,6 +61177,79 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001359931"
         }
       ]
+    },
+    {
+      "companyId": "candidate-proteovista",
+      "name": "Proteovista, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11409383",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10026976"
+          ],
+          "uei": [
+            "GYNUUKETC8F4"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-q-c-technologies",
@@ -62951,8 +62071,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "companyType": "Platform / Therapeutics",
         "directions": [
           "AI Drug Discovery",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -63911,102 +63030,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-repeat-rna-therapeutics",
-      "name": "Repeat Rna Therapeutics Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11315150",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10087457"
-          ],
-          "uei": [
-            "GVFHSMPEMSK8"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-repeat-rna-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-repeat-rna-therapeutics-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-repeat-rna-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11315150"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-repeat-rna-therapeutics-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-repeat-rna-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315150"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-repligen",
       "name": "Repligen Corp",
       "asOfDate": "2026-09-21",
@@ -64259,6 +63282,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001737953"
         }
       ]
+    },
+    {
+      "companyId": "candidate-respirerx-pharmaceuticals",
+      "name": "Respirerx Pharmaceuticals Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11420545",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10084154"
+          ],
+          "uei": [
+            "HWS8C3MQDTH7"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Platform / Therapeutics",
+        "directions": [
+          "AI Drug Discovery",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "retro-biosciences",
@@ -64676,24 +63770,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-romix-biosciences",
-      "name": "Romix Biosciences Inc.",
+      "companyId": "candidate-rock-immune",
+      "name": "Rock Immune, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11309523",
+        "officialUrl": "https://reporter.nih.gov/project-details/11310680",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10089568"
+            "10080599"
           ],
           "uei": [
-            "HLDTKXGK5SF6"
+            "M35ZNF9XP8Q7"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -64702,76 +63796,49 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportPortals": []
       },
       "classification": {
-        "companyType": "Diagnostics / Research Tools",
+        "companyType": "Therapeutics",
         "directions": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "cell therapy",
+          "biotechnology",
           "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-romix-biosciences-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-romix-biosciences-official-6701336049be",
-            "date": "2026-08-17",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-romix-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11309523"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-17",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-romix-biosciences-official-6701336049be",
-          "date": "2026-08-17",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-romix-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11309523"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-sab-biotherapeutics",
@@ -65026,6 +64093,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001770121"
         }
       ]
+    },
+    {
+      "companyId": "candidate-sanaria",
+      "name": "Sanaria, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11255658",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10000312"
+          ],
+          "uei": [
+            "YLF2SS2NYGC5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-sangamo-therapeutics",
@@ -65292,101 +64431,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-sbp-group-official-f8d781aee7ac",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1177&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-scarab-genomics",
-      "name": "Scarab Genomics, LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11393769",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10000373"
-          ],
-          "uei": [
-            "S4XQJDL7DN15"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-scarab-genomics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-scarab-genomics-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-scarab-genomics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11393769"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-scarab-genomics-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-scarab-genomics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11393769"
         }
       ]
     },
@@ -65899,100 +64943,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-selsym-biotech",
-      "name": "Selsym Biotech, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11408188",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10059697"
-          ],
-          "uei": [
-            "G522J2NEDHD2"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-selsym-biotech-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-selsym-biotech-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-selsym-biotech-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11408188"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-selsym-biotech-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-selsym-biotech-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11408188"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-senti-biosciences-holdings",
       "name": "Senti Biosciences Holdings, Inc.",
       "asOfDate": "2026-09-21",
@@ -66120,6 +65070,78 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-serinus-biosciences",
+      "name": "Serinus Biosciences Inc",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11405775",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10076020"
+          ],
+          "uei": [
+            "GXN5LB1QD3R3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-shy-therapeutics",
       "name": "Shy Therapeutics, LLC",
       "asOfDate": "2026-09-21",
@@ -66150,9 +65172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -66486,6 +65506,80 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-single-helix-bio",
+      "name": "Single Helix Bio, Inc",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11406803",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10097307"
+          ],
+          "uei": [
+            "R8DKG1FYV7Q1"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, biotechnology, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-sinomab-bio",
       "name": "Sinomab Bio",
       "asOfDate": "2026-09-21",
@@ -66797,10 +65891,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "companyType": "Diagnostics / Research Tools",
         "directions": [
           "AI Drug Discovery",
-          "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
           "drug discovery"
         ],
         "modalities": [],
@@ -67530,24 +66622,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-spirify-pharma",
-      "name": "Spirify Pharma Inc",
+      "companyId": "candidate-sonalasense",
+      "name": "Sonalasense Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11420511",
+        "officialUrl": "https://reporter.nih.gov/project-details/11408427",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10074074"
+            "10056236"
           ],
           "uei": [
-            "ENCWEHHQ4LA7"
+            "LC3GHFGF2KK1"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -67558,70 +66650,46 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "drug discovery"
+          "cell therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-spirify-pharma-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-spirify-pharma-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-spirify-pharma-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11420511"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-spirify-pharma-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-spirify-pharma-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11420511"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-spring-mill-pharma",
@@ -67633,7 +66701,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314526",
+        "officialUrl": "https://reporter.nih.gov/project-details/11315103",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
@@ -67653,9 +66721,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "companyType": "Diagnostics / Research Tools",
         "directions": [
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -67721,24 +66787,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-stemsynergy-therapeutics",
-      "name": "Stemsynergy Therapeutics, Inc.",
+      "companyId": "candidate-stem-pharm",
+      "name": "Stem Pharm, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409930",
+        "officialUrl": "https://reporter.nih.gov/project-details/11316026",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10020810"
+            "10038710"
           ],
           "uei": [
-            "WVEMHJFUNJ97"
+            "YTLQLAJ53CB7"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -67749,73 +66815,50 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classification": {
         "companyType": "Diagnostics / Research Tools",
         "directions": [
+          "AI Drug Discovery",
           "Cell Therapy",
+          "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
           "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-stemsynergy-therapeutics-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-stemsynergy-therapeutics-official-6701336049be",
-            "date": "2026-09-07",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-stemsynergy-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409930"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-07",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-stemsynergy-therapeutics-official-6701336049be",
-          "date": "2026-09-07",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-stemsynergy-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409930"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "sumitomo-pharma",
@@ -69580,101 +68623,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-tex-immunetics",
-      "name": "Tex Immunetics Inc",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314038",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10090876"
-          ],
-          "uei": [
-            "HD66ZD1FDHJ9"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-tex-immunetics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-tex-immunetics-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-tex-immunetics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314038"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-tex-immunetics-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-tex-immunetics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314038"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-tfa-therapeutics",
       "name": "TFA Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
@@ -70070,24 +69018,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-trampoline-pharma",
-      "name": "Trampoline Pharma, Inc.",
+      "companyId": "candidate-ting-therapeutics",
+      "name": "Ting Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": null,
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11315490",
+        "officialUrl": "https://reporter.nih.gov/project-details/11380822",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
           "nihIpf": [
-            "10062608"
+            "10055005"
           ],
           "uei": [
-            "QAE3GETX9Z88"
+            "F5R2ZH3HCHB5"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
@@ -70096,73 +69044,49 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportPortals": []
       },
       "classification": {
-        "companyType": "Therapeutics",
+        "companyType": "Diagnostics / Research Tools",
         "directions": [
-          "Cell Therapy",
-          "biotechnology"
+          "Precision Diagnostics",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-trampoline-pharma-official-6701336049be"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-trampoline-pharma-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-trampoline-pharma-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11315490"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-trampoline-pharma-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-trampoline-pharma-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315490"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-transcenta",
@@ -71237,6 +70161,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11204793",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10073837"
+          ],
+          "uei": [
+            "TVNLCARQLKC8"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
       "asOfDate": "2026-09-21",
@@ -71886,101 +70881,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
-      "companyId": "candidate-veramorph",
-      "name": "Veramorph, LLC",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11457452",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10047392"
-          ],
-          "uei": [
-            "JZD1YYDDCLP5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-veramorph-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-veramorph-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-veramorph-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11457452"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-veramorph-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-veramorph-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11457452"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-vericel",
       "name": "Vericel Corp",
       "asOfDate": "2026-09-21",
@@ -72106,6 +71006,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000887359"
         }
       ]
+    },
+    {
+      "companyId": "candidate-via-therapeutics",
+      "name": "Via Therapeutics, LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11316113",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10038939"
+          ],
+          "uei": [
+            "YHRZATLXKL46"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-vigonvita",
@@ -72501,6 +71472,77 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001885827"
         }
       ]
+    },
+    {
+      "companyId": "candidate-virtus-therapeutics",
+      "name": "Virtus Therapeutics Corporation",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11408936",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10064084"
+          ],
+          "uei": [
+            "GAT6WK9MLGR3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-visen-pharma",
@@ -74097,6 +73139,79 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ]
     },
     {
+      "companyId": "candidate-xosomix",
+      "name": "Xosomix LLC",
+      "asOfDate": "2026-09-21",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11410609",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10062583"
+          ],
+          "uei": [
+            "KCWEJH659NZ9"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "xtalpi",
       "name": "XtalPi",
       "asOfDate": "2026-09-21",
@@ -74403,103 +73518,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-xuanzhubio-official-9c4d7bc6b10e",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-xylyx-bio",
-      "name": "Xylyx Bio, Inc.",
-      "asOfDate": "2026-09-21",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11413845",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10048733"
-          ],
-          "uei": [
-            "N2N9KL2Y52X1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-xylyx-bio-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-xylyx-bio-official-6701336049be",
-            "date": "2026-09-14",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-xylyx-bio-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11413845"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-14",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-xylyx-bio-official-6701336049be",
-          "date": "2026-09-14",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-xylyx-bio-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11413845"
         }
       ]
     },
@@ -80382,7 +79400,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80465,7 +79483,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80558,7 +79576,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80643,7 +79661,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80736,7 +79754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80811,7 +79829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -80834,7 +79852,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001650648"
@@ -80868,7 +79886,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650648&owner=exclude&hidefilings=0",
           "externalId": "0001650648",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -80892,7 +79910,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -80919,7 +79937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001946563"
@@ -80953,7 +79971,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001946563&owner=exclude&hidefilings=0",
           "externalId": "0001946563",
           "contextTitle": "Pharmaceutical Preparations"
@@ -80977,7 +79995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81004,7 +80022,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001651625"
@@ -81038,7 +80056,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651625&owner=exclude&hidefilings=0",
           "externalId": "0001651625",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81062,7 +80080,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81089,7 +80107,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001771910"
@@ -81123,7 +80141,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771910&owner=exclude&hidefilings=0",
           "externalId": "0001771910",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81147,7 +80165,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81174,7 +80192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001837607"
@@ -81208,7 +80226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837607&owner=exclude&hidefilings=0",
           "externalId": "0001837607",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81232,7 +80250,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81259,7 +80277,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000946644"
@@ -81293,7 +80311,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946644&owner=exclude&hidefilings=0",
           "externalId": "0000946644",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -81317,7 +80335,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81344,7 +80362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001880438"
@@ -81378,7 +80396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001880438&owner=exclude&hidefilings=0",
           "externalId": "0001880438",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81402,7 +80420,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81429,7 +80447,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001671858"
@@ -81463,7 +80481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671858&owner=exclude&hidefilings=0",
           "externalId": "0001671858",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81487,7 +80505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81514,7 +80532,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001774857"
@@ -81548,7 +80566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001774857&owner=exclude&hidefilings=0",
           "externalId": "0001774857",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81572,7 +80590,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81599,7 +80617,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001703057"
@@ -81633,7 +80651,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001703057&owner=exclude&hidefilings=0",
           "externalId": "0001703057",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81657,7 +80675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81684,7 +80702,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001551152"
@@ -81718,7 +80736,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&owner=exclude&hidefilings=0",
           "externalId": "0001551152",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81742,7 +80760,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81769,7 +80787,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000001800"
@@ -81803,7 +80821,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000001800&owner=exclude&hidefilings=0",
           "externalId": "0000001800",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81827,7 +80845,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81854,7 +80872,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000318306"
@@ -81888,7 +80906,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318306&owner=exclude&hidefilings=0",
           "externalId": "0000318306",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81912,7 +80930,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81939,7 +80957,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001956827"
@@ -81973,7 +80991,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001956827&owner=exclude&hidefilings=0",
           "externalId": "0001956827",
           "contextTitle": "Pharmaceutical Preparations"
@@ -81997,7 +81015,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82024,7 +81042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001893219"
@@ -82058,7 +81076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001893219&owner=exclude&hidefilings=0",
           "externalId": "0001893219",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -82082,7 +81100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82109,7 +81127,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001173313"
@@ -82143,7 +81161,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001173313&owner=exclude&hidefilings=0",
           "externalId": "0001173313",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82167,7 +81185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82194,7 +81212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001070494"
@@ -82228,7 +81246,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001070494&owner=exclude&hidefilings=0",
           "externalId": "0001070494",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82252,7 +81270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82279,7 +81297,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001850767"
@@ -82313,7 +81331,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850767&owner=exclude&hidefilings=0",
           "externalId": "0001850767",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82337,7 +81355,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82364,7 +81382,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000949858"
@@ -82398,7 +81416,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&owner=exclude&hidefilings=0",
           "externalId": "0000949858",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -82422,7 +81440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82449,7 +81467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001557746"
@@ -82483,7 +81501,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557746&owner=exclude&hidefilings=0",
           "externalId": "0001557746",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82507,7 +81525,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82534,7 +81552,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001781174"
@@ -82568,7 +81586,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781174&owner=exclude&hidefilings=0",
           "externalId": "0001781174",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82592,7 +81610,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82619,7 +81637,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001388320"
@@ -82653,7 +81671,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001388320&owner=exclude&hidefilings=0",
           "externalId": "0001388320",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82677,7 +81695,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82704,7 +81722,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001652935"
@@ -82738,7 +81756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652935&owner=exclude&hidefilings=0",
           "externalId": "0001652935",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82762,7 +81780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82789,7 +81807,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001576885"
@@ -82823,7 +81841,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001576885&owner=exclude&hidefilings=0",
           "externalId": "0001576885",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -82847,7 +81865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82874,7 +81892,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001736243"
@@ -82908,7 +81926,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736243&owner=exclude&hidefilings=0",
           "externalId": "0001736243",
           "contextTitle": "Pharmaceutical Preparations"
@@ -82932,7 +81950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82959,7 +81977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001818838"
@@ -82993,7 +82011,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818838&owner=exclude&hidefilings=0",
           "externalId": "0001818838",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83017,7 +82035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83044,7 +82062,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001621227"
@@ -83078,7 +82096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621227&owner=exclude&hidefilings=0",
           "externalId": "0001621227",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -83102,7 +82120,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83129,7 +82147,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001938571"
@@ -83163,7 +82181,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001938571&owner=exclude&hidefilings=0",
           "externalId": "0001938571",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -83187,7 +82205,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83214,7 +82232,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001478320"
@@ -83248,7 +82266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001478320&owner=exclude&hidefilings=0",
           "externalId": "0001478320",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -83272,7 +82290,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83299,7 +82317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001891512"
@@ -83333,7 +82351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001891512&owner=exclude&hidefilings=0",
           "externalId": "0001891512",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83357,7 +82375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83384,7 +82402,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001574232"
@@ -83418,7 +82436,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001574232&owner=exclude&hidefilings=0",
           "externalId": "0001574232",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83442,7 +82460,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83469,7 +82487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001160420"
@@ -83503,7 +82521,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001160420&owner=exclude&hidefilings=0",
           "externalId": "0001160420",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -83527,7 +82545,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83554,7 +82572,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001513525"
@@ -83588,7 +82606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001513525&owner=exclude&hidefilings=0",
           "externalId": "0001513525",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83612,7 +82630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83639,7 +82657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001720580"
@@ -83673,7 +82691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720580&owner=exclude&hidefilings=0",
           "externalId": "0001720580",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83697,7 +82715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83724,7 +82742,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001726711"
@@ -83758,7 +82776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001726711&owner=exclude&hidefilings=0",
           "externalId": "0001726711",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83782,7 +82800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83809,7 +82827,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-09-01",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001944552"
@@ -83843,7 +82861,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944552&owner=exclude&hidefilings=0",
           "externalId": "0001944552",
           "contextTitle": "Pharmaceutical Preparations"
@@ -83867,7 +82885,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83894,7 +82912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001368514"
@@ -83928,7 +82946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001368514&owner=exclude&hidefilings=0",
           "externalId": "0001368514",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -83952,7 +82970,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83979,7 +82997,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001603345"
@@ -84013,7 +83031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603345&owner=exclude&hidefilings=0",
           "externalId": "0001603345",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -84037,7 +83055,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84064,7 +83082,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001098972"
@@ -84098,7 +83116,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098972&owner=exclude&hidefilings=0",
           "externalId": "0001098972",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -84122,7 +83140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84149,7 +83167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001439222"
@@ -84183,7 +83201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001439222&owner=exclude&hidefilings=0",
           "externalId": "0001439222",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84207,7 +83225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84234,7 +83252,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002020932"
@@ -84268,7 +83286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020932&owner=exclude&hidefilings=0",
           "externalId": "0002020932",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -84292,7 +83310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84319,7 +83337,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001763329"
@@ -84353,7 +83371,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001763329&owner=exclude&hidefilings=0",
           "externalId": "0001763329",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -84377,7 +83395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84404,7 +83422,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001888014"
@@ -84438,7 +83456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001888014&owner=exclude&hidefilings=0",
           "externalId": "0001888014",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -84462,7 +83480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84489,7 +83507,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001541157"
@@ -84523,7 +83541,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001541157&owner=exclude&hidefilings=0",
           "externalId": "0001541157",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84547,7 +83565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84574,7 +83592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001517022"
@@ -84608,7 +83626,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001517022&owner=exclude&hidefilings=0",
           "externalId": "0001517022",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84632,7 +83650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84659,7 +83677,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002035832"
@@ -84693,7 +83711,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035832&owner=exclude&hidefilings=0",
           "externalId": "0002035832",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84717,7 +83735,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84744,7 +83762,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001107421"
@@ -84778,7 +83796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001107421&owner=exclude&hidefilings=0",
           "externalId": "0001107421",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84802,7 +83820,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84829,7 +83847,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001341235"
@@ -84863,7 +83881,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341235&owner=exclude&hidefilings=0",
           "externalId": "0001341235",
           "contextTitle": "Pharmaceutical Preparations"
@@ -84887,7 +83905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84914,7 +83932,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001653087"
@@ -84948,7 +83966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653087&owner=exclude&hidefilings=0",
           "externalId": "0001653087",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -84972,7 +83990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84999,7 +84017,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001799448"
@@ -85033,7 +84051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001799448&owner=exclude&hidefilings=0",
           "externalId": "0001799448",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -85057,7 +84075,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85084,7 +84102,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-07",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001520262"
@@ -85118,7 +84136,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001520262&owner=exclude&hidefilings=0",
           "externalId": "0001520262",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85142,7 +84160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85169,7 +84187,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001860657"
@@ -85203,7 +84221,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860657&owner=exclude&hidefilings=0",
           "externalId": "0001860657",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85227,7 +84245,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85254,7 +84272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001737287"
@@ -85288,7 +84306,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737287&owner=exclude&hidefilings=0",
           "externalId": "0001737287",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -85312,7 +84330,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85339,7 +84357,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001655923"
@@ -85373,7 +84391,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655923&owner=exclude&hidefilings=0",
           "externalId": "0001655923",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -85397,7 +84415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85424,7 +84442,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001850902"
@@ -85458,7 +84476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850902&owner=exclude&hidefilings=0",
           "externalId": "0001850902",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -85482,7 +84500,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85509,7 +84527,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001601936"
@@ -85543,7 +84561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001601936&owner=exclude&hidefilings=0",
           "externalId": "0001601936",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85567,7 +84585,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85594,7 +84612,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001131343"
@@ -85628,7 +84646,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001131343&owner=exclude&hidefilings=0",
           "externalId": "0001131343",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85652,7 +84670,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85679,7 +84697,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001326190"
@@ -85713,7 +84731,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326190&owner=exclude&hidefilings=0",
           "externalId": "0001326190",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85737,7 +84755,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85764,7 +84782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001999480"
@@ -85798,7 +84816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001999480&owner=exclude&hidefilings=0",
           "externalId": "0001999480",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85822,7 +84840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85849,7 +84867,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001847367"
@@ -85883,7 +84901,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847367&owner=exclude&hidefilings=0",
           "externalId": "0001847367",
           "contextTitle": "Pharmaceutical Preparations"
@@ -85907,7 +84925,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85934,7 +84952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001898416"
@@ -85968,7 +84986,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001898416&owner=exclude&hidefilings=0",
           "externalId": "0001898416",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -85992,7 +85010,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86019,7 +85037,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001810182"
@@ -86053,7 +85071,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001810182&owner=exclude&hidefilings=0",
           "externalId": "0001810182",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86077,7 +85095,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86104,7 +85122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001677077"
@@ -86138,7 +85156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677077&owner=exclude&hidefilings=0",
           "externalId": "0001677077",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86162,7 +85180,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86189,7 +85207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000897448"
@@ -86223,7 +85241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000897448&owner=exclude&hidefilings=0",
           "externalId": "0000897448",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86247,7 +85265,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86274,7 +85292,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-17",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001098009"
@@ -86308,7 +85326,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098009&owner=exclude&hidefilings=0",
           "externalId": "0001098009",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86332,7 +85350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86359,7 +85377,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000318154"
@@ -86393,7 +85411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&owner=exclude&hidefilings=0",
           "externalId": "0000318154",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -86417,7 +85435,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86444,7 +85462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001723128"
@@ -86478,7 +85496,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723128&owner=exclude&hidefilings=0",
           "externalId": "0001723128",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86502,7 +85520,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86529,7 +85547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001297184"
@@ -86563,7 +85581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001297184&owner=exclude&hidefilings=0",
           "externalId": "0001297184",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86587,7 +85605,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86614,7 +85632,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001658551"
@@ -86648,7 +85666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658551&owner=exclude&hidefilings=0",
           "externalId": "0001658551",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86672,7 +85690,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86699,7 +85717,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001370053"
@@ -86733,7 +85751,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001370053&owner=exclude&hidefilings=0",
           "externalId": "0001370053",
           "contextTitle": "Pharmaceutical Preparations"
@@ -86757,7 +85775,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86784,7 +85802,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001314052"
@@ -86818,7 +85836,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001314052&owner=exclude&hidefilings=0",
           "externalId": "0001314052",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -86842,7 +85860,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86869,7 +85887,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001982708"
@@ -86903,7 +85921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001982708&owner=exclude&hidefilings=0",
           "externalId": "0001982708",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -86927,7 +85945,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86954,7 +85972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001815974"
@@ -86988,7 +86006,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815974&owner=exclude&hidefilings=0",
           "externalId": "0001815974",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87012,7 +86030,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87039,7 +86057,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001023024"
@@ -87073,7 +86091,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001023024&owner=exclude&hidefilings=0",
           "externalId": "0001023024",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87097,7 +86115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87124,7 +86142,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000715446"
@@ -87158,7 +86176,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000715446&owner=exclude&hidefilings=0",
           "externalId": "0000715446",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87182,7 +86200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87209,7 +86227,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001528115"
@@ -87243,7 +86261,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001528115&owner=exclude&hidefilings=0",
           "externalId": "0001528115",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87267,7 +86285,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87294,7 +86312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001477845"
@@ -87328,7 +86346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001477845&owner=exclude&hidefilings=0",
           "externalId": "0001477845",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87352,7 +86370,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87379,7 +86397,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001894525"
@@ -87413,7 +86431,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894525&owner=exclude&hidefilings=0",
           "externalId": "0001894525",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87437,7 +86455,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87464,7 +86482,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001745648"
@@ -87498,7 +86516,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745648&owner=exclude&hidefilings=0",
           "externalId": "0001745648",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87522,7 +86540,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87549,7 +86567,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001944885"
@@ -87583,7 +86601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944885&owner=exclude&hidefilings=0",
           "externalId": "0001944885",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87607,7 +86625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87634,7 +86652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001781983"
@@ -87668,7 +86686,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781983&owner=exclude&hidefilings=0",
           "externalId": "0001781983",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87692,7 +86710,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87719,7 +86737,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001671584"
@@ -87753,7 +86771,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671584&owner=exclude&hidefilings=0",
           "externalId": "0001671584",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87777,7 +86795,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87804,7 +86822,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001398733"
@@ -87838,7 +86856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001398733&owner=exclude&hidefilings=0",
           "externalId": "0001398733",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87862,7 +86880,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87889,7 +86907,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001447028"
@@ -87923,7 +86941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001447028&owner=exclude&hidefilings=0",
           "externalId": "0001447028",
           "contextTitle": "Pharmaceutical Preparations"
@@ -87947,7 +86965,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87974,7 +86992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001768224"
@@ -88008,7 +87026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768224&owner=exclude&hidefilings=0",
           "externalId": "0001768224",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88032,7 +87050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88059,7 +87077,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001724521"
@@ -88093,7 +87111,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&owner=exclude&hidefilings=0",
           "externalId": "0001724521",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88117,7 +87135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88144,7 +87162,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001787306"
@@ -88178,7 +87196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787306&owner=exclude&hidefilings=0",
           "externalId": "0001787306",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88202,7 +87220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88229,7 +87247,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001437402"
@@ -88263,7 +87281,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&owner=exclude&hidefilings=0",
           "externalId": "0001437402",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88287,7 +87305,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88314,7 +87332,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001697862"
@@ -88348,7 +87366,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697862&owner=exclude&hidefilings=0",
           "externalId": "0001697862",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -88372,7 +87390,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88399,7 +87417,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000921114"
@@ -88433,7 +87451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000921114&owner=exclude&hidefilings=0",
           "externalId": "0000921114",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -88457,7 +87475,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88484,7 +87502,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001868279"
@@ -88518,7 +87536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&owner=exclude&hidefilings=0",
           "externalId": "0001868279",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88542,7 +87560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88569,7 +87587,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000879407"
@@ -88603,7 +87621,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879407&owner=exclude&hidefilings=0",
           "externalId": "0000879407",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88627,7 +87645,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88654,7 +87672,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001621221"
@@ -88688,7 +87706,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001621221&owner=exclude&hidefilings=0",
           "externalId": "0001621221",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88712,7 +87730,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88739,7 +87757,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001817241"
@@ -88773,7 +87791,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817241&owner=exclude&hidefilings=0",
           "externalId": "0001817241",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -88797,7 +87815,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88824,7 +87842,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001756390"
@@ -88858,7 +87876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756390&owner=exclude&hidefilings=0",
           "externalId": "0001756390",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -88882,7 +87900,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88909,7 +87927,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001612042"
@@ -88943,7 +87961,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001612042&owner=exclude&hidefilings=0",
           "externalId": "0001612042",
           "contextTitle": "Pharmaceutical Preparations"
@@ -88967,7 +87985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88994,7 +88012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002023311"
@@ -89028,7 +88046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023311&owner=exclude&hidefilings=0",
           "externalId": "0002023311",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89052,7 +88070,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89079,7 +88097,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001969766"
@@ -89113,7 +88131,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001969766&owner=exclude&hidefilings=0",
           "externalId": "0001969766",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -89137,7 +88155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89164,7 +88182,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000926617"
@@ -89198,7 +88216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000926617&owner=exclude&hidefilings=0",
           "externalId": "0000926617",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -89222,7 +88240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89249,7 +88267,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001847345"
@@ -89283,7 +88301,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847345&owner=exclude&hidefilings=0",
           "externalId": "0001847345",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89307,7 +88325,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89334,7 +88352,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001426800"
@@ -89368,7 +88386,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001426800&owner=exclude&hidefilings=0",
           "externalId": "0001426800",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89392,7 +88410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89419,7 +88437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000901832"
@@ -89453,7 +88471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&owner=exclude&hidefilings=0",
           "externalId": "0000901832",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89477,7 +88495,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89504,7 +88522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001604464"
@@ -89538,7 +88556,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001604464&owner=exclude&hidefilings=0",
           "externalId": "0001604464",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -89562,7 +88580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89589,7 +88607,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001593899"
@@ -89623,7 +88641,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&owner=exclude&hidefilings=0",
           "externalId": "0001593899",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89647,7 +88665,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89674,7 +88692,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001488039"
@@ -89708,7 +88726,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001488039&owner=exclude&hidefilings=0",
           "externalId": "0001488039",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89732,7 +88750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89759,7 +88777,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002093101"
@@ -89793,7 +88811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002093101&owner=exclude&hidefilings=0",
           "externalId": "0002093101",
           "contextTitle": "Pharmaceutical Preparations"
@@ -89817,7 +88835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89844,7 +88862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002058707"
@@ -89878,7 +88896,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002058707&owner=exclude&hidefilings=0",
           "externalId": "0002058707",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -89902,7 +88920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89929,7 +88947,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001501796"
@@ -89963,7 +88981,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501796&owner=exclude&hidefilings=0",
           "externalId": "0001501796",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -89987,7 +89005,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90014,7 +89032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001600620"
@@ -90048,7 +89066,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001600620&owner=exclude&hidefilings=0",
           "externalId": "0001600620",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90072,7 +89090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90099,7 +89117,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001683541"
@@ -90133,7 +89151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683541&owner=exclude&hidefilings=0",
           "externalId": "0001683541",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -90157,7 +89175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90184,7 +89202,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001534120"
@@ -90218,7 +89236,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534120&owner=exclude&hidefilings=0",
           "externalId": "0001534120",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90242,7 +89260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90269,7 +89287,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001540171"
@@ -90303,7 +89321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001540171&owner=exclude&hidefilings=0",
           "externalId": "0001540171",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90327,7 +89345,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90354,7 +89372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001644963"
@@ -90388,7 +89406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001644963&owner=exclude&hidefilings=0",
           "externalId": "0001644963",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90412,7 +89430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90439,7 +89457,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001355736"
@@ -90473,7 +89491,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001355736&owner=exclude&hidefilings=0",
           "externalId": "0001355736",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90497,7 +89515,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90524,7 +89542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001514946"
@@ -90558,7 +89576,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514946&owner=exclude&hidefilings=0",
           "externalId": "0001514946",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90582,7 +89600,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90609,7 +89627,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001579428"
@@ -90643,7 +89661,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579428&owner=exclude&hidefilings=0",
           "externalId": "0001579428",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90667,7 +89685,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90694,7 +89712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001847462"
@@ -90728,7 +89746,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001847462&owner=exclude&hidefilings=0",
           "externalId": "0001847462",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -90752,7 +89770,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90779,7 +89797,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001385818"
@@ -90813,7 +89831,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001385818&owner=exclude&hidefilings=0",
           "externalId": "0001385818",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90837,7 +89855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90864,7 +89882,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001701478"
@@ -90898,7 +89916,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701478&owner=exclude&hidefilings=0",
           "externalId": "0001701478",
           "contextTitle": "Pharmaceutical Preparations"
@@ -90922,7 +89940,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90949,7 +89967,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001779578"
@@ -90983,7 +90001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001779578&owner=exclude&hidefilings=0",
           "externalId": "0001779578",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91007,7 +90025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91034,7 +90052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000842023"
@@ -91068,7 +90086,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000842023&owner=exclude&hidefilings=0",
           "externalId": "0000842023",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -91092,7 +90110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91119,7 +90137,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001828185"
@@ -91153,7 +90171,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828185&owner=exclude&hidefilings=0",
           "externalId": "0001828185",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91177,7 +90195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91204,7 +90222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000885590"
@@ -91238,7 +90256,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000885590&owner=exclude&hidefilings=0",
           "externalId": "0000885590",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91262,7 +90280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91289,7 +90307,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002094256"
@@ -91323,7 +90341,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002094256&owner=exclude&hidefilings=0",
           "externalId": "0002094256",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91347,7 +90365,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91374,7 +90392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001889109"
@@ -91408,7 +90426,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001889109&owner=exclude&hidefilings=0",
           "externalId": "0001889109",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91432,7 +90450,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91459,7 +90477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001808898"
@@ -91493,7 +90511,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001808898&owner=exclude&hidefilings=0",
           "externalId": "0001808898",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91517,7 +90535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91544,7 +90562,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001851651"
@@ -91578,7 +90596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851651&owner=exclude&hidefilings=0",
           "externalId": "0001851651",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91602,7 +90620,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91629,7 +90647,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001409197"
@@ -91663,7 +90681,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409197&owner=exclude&hidefilings=0",
           "externalId": "0001409197",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91687,7 +90705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91714,7 +90732,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001464165"
@@ -91748,7 +90766,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001464165&owner=exclude&hidefilings=0",
           "externalId": "0001464165",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91772,7 +90790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91799,7 +90817,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001677940"
@@ -91833,7 +90851,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001677940&owner=exclude&hidefilings=0",
           "externalId": "0001677940",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91857,7 +90875,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91884,7 +90902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002023658"
@@ -91918,7 +90936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023658&owner=exclude&hidefilings=0",
           "externalId": "0002023658",
           "contextTitle": "Pharmaceutical Preparations"
@@ -91942,7 +90960,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91969,7 +90987,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001761612"
@@ -92003,7 +91021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761612&owner=exclude&hidefilings=0",
           "externalId": "0001761612",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92027,7 +91045,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92054,7 +91072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001723059"
@@ -92088,7 +91106,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723059&owner=exclude&hidefilings=0",
           "externalId": "0001723059",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92112,7 +91130,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92139,7 +91157,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001133818"
@@ -92173,7 +91191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133818&owner=exclude&hidefilings=0",
           "externalId": "0001133818",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92197,7 +91215,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92224,7 +91242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001709941"
@@ -92258,7 +91276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001709941&owner=exclude&hidefilings=0",
           "externalId": "0001709941",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92282,7 +91300,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92309,7 +91327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001826892"
@@ -92343,7 +91361,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826892&owner=exclude&hidefilings=0",
           "externalId": "0001826892",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -92367,7 +91385,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92394,7 +91412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000925741"
@@ -92428,7 +91446,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000925741&owner=exclude&hidefilings=0",
           "externalId": "0000925741",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -92452,7 +91470,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92479,7 +91497,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001498403"
@@ -92513,7 +91531,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001498403&owner=exclude&hidefilings=0",
           "externalId": "0001498403",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92537,7 +91555,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92564,7 +91582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001776985"
@@ -92598,7 +91616,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&owner=exclude&hidefilings=0",
           "externalId": "0001776985",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -92622,7 +91640,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92649,7 +91667,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001658678"
@@ -92683,7 +91701,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658678&owner=exclude&hidefilings=0",
           "externalId": "0001658678",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -92707,7 +91725,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92734,7 +91752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001720893"
@@ -92768,7 +91786,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001720893&owner=exclude&hidefilings=0",
           "externalId": "0001720893",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92792,7 +91810,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92819,7 +91837,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001575142"
@@ -92853,7 +91871,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001575142&owner=exclude&hidefilings=0",
           "externalId": "0001575142",
           "contextTitle": "Pharmaceutical Preparations"
@@ -92877,7 +91895,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92904,7 +91922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000882796"
@@ -92938,7 +91956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882796&owner=exclude&hidefilings=0",
           "externalId": "0000882796",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -92962,7 +91980,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92989,7 +92007,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001643918"
@@ -93023,7 +92041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001643918&owner=exclude&hidefilings=0",
           "externalId": "0001643918",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93047,7 +92065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93074,7 +92092,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001858685"
@@ -93108,7 +92126,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858685&owner=exclude&hidefilings=0",
           "externalId": "0001858685",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93132,7 +92150,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93159,7 +92177,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000875045"
@@ -93193,7 +92211,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&owner=exclude&hidefilings=0",
           "externalId": "0000875045",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -93217,7 +92235,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93244,7 +92262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001723464"
@@ -93278,7 +92296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723464&owner=exclude&hidefilings=0",
           "externalId": "0001723464",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93302,7 +92320,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93329,7 +92347,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001935979"
@@ -93363,7 +92381,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001935979&owner=exclude&hidefilings=0",
           "externalId": "0001935979",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93387,7 +92405,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93414,7 +92432,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001048477"
@@ -93448,7 +92466,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&owner=exclude&hidefilings=0",
           "externalId": "0001048477",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93472,7 +92490,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93499,7 +92517,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001840439"
@@ -93533,7 +92551,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840439&owner=exclude&hidefilings=0",
           "externalId": "0001840439",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93557,7 +92575,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93584,7 +92602,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000073290"
@@ -93618,7 +92636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000073290&owner=exclude&hidefilings=0",
           "externalId": "0000073290",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -93642,7 +92660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93669,7 +92687,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-09-01",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001091326"
@@ -93703,7 +92721,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001091326&owner=exclude&hidefilings=0",
           "externalId": "0001091326",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93727,7 +92745,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93754,7 +92772,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001580149"
@@ -93788,7 +92806,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580149&owner=exclude&hidefilings=0",
           "externalId": "0001580149",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93812,7 +92830,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93839,7 +92857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001445815"
@@ -93873,7 +92891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001445815&owner=exclude&hidefilings=0",
           "externalId": "0001445815",
           "contextTitle": "Pharmaceutical Preparations"
@@ -93897,7 +92915,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93924,7 +92942,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001701541"
@@ -93958,7 +92976,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001701541&owner=exclude&hidefilings=0",
           "externalId": "0001701541",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -93982,7 +93000,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94009,7 +93027,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002000775"
@@ -94043,7 +93061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000775&owner=exclude&hidefilings=0",
           "externalId": "0002000775",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -94067,7 +93085,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94094,7 +93112,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001839970"
@@ -94128,7 +93146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839970&owner=exclude&hidefilings=0",
           "externalId": "0001839970",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94152,7 +93170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94179,7 +93197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001641281"
@@ -94213,7 +93231,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001641281&owner=exclude&hidefilings=0",
           "externalId": "0001641281",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94237,7 +93255,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94264,7 +93282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001816815"
@@ -94298,7 +93316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816815&owner=exclude&hidefilings=0",
           "externalId": "0001816815",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -94322,7 +93340,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94349,7 +93367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001782303"
@@ -94383,7 +93401,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001782303&owner=exclude&hidefilings=0",
           "externalId": "0001782303",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94407,7 +93425,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94434,7 +93452,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001137883"
@@ -94468,7 +93486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137883&owner=exclude&hidefilings=0",
           "externalId": "0001137883",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -94492,7 +93510,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94519,7 +93537,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002131524"
@@ -94553,7 +93571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131524&owner=exclude&hidefilings=0",
           "externalId": "0002131524",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94577,7 +93595,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94604,7 +93622,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001610820"
@@ -94638,7 +93656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001610820&owner=exclude&hidefilings=0",
           "externalId": "0001610820",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94662,7 +93680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94689,7 +93707,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001869105"
@@ -94723,7 +93741,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869105&owner=exclude&hidefilings=0",
           "externalId": "0001869105",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94747,7 +93765,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94774,7 +93792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001743881"
@@ -94808,7 +93826,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001743881&owner=exclude&hidefilings=0",
           "externalId": "0001743881",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94832,7 +93850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94859,7 +93877,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001827401"
@@ -94893,7 +93911,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001827401&owner=exclude&hidefilings=0",
           "externalId": "0001827401",
           "contextTitle": "Pharmaceutical Preparations"
@@ -94917,7 +93935,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94944,7 +93962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000014272"
@@ -94978,7 +93996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&owner=exclude&hidefilings=0",
           "externalId": "0000014272",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95002,7 +94020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95029,7 +94047,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001829247"
@@ -95063,7 +94081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829247&owner=exclude&hidefilings=0",
           "externalId": "0001829247",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95087,7 +94105,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95114,7 +94132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000724445"
@@ -95148,7 +94166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000724445&owner=exclude&hidefilings=0",
           "externalId": "0000724445",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -95172,7 +94190,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95199,7 +94217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000831609"
@@ -95233,7 +94251,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000831609&owner=exclude&hidefilings=0",
           "externalId": "0000831609",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -95257,7 +94275,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95284,7 +94302,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001962738"
@@ -95318,7 +94336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001962738&owner=exclude&hidefilings=0",
           "externalId": "0001962738",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95342,7 +94360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95369,7 +94387,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001776073"
@@ -95403,7 +94421,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776073&owner=exclude&hidefilings=0",
           "externalId": "0001776073",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -95427,7 +94445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95454,7 +94472,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001896212"
@@ -95488,7 +94506,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896212&owner=exclude&hidefilings=0",
           "externalId": "0001896212",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95512,7 +94530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95539,7 +94557,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001991792"
@@ -95573,7 +94591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001991792&owner=exclude&hidefilings=0",
           "externalId": "0001991792",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -95597,7 +94615,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95624,7 +94642,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001343009"
@@ -95658,7 +94676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001343009&owner=exclude&hidefilings=0",
           "externalId": "0001343009",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95682,7 +94700,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95709,7 +94727,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001729427"
@@ -95743,7 +94761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729427&owner=exclude&hidefilings=0",
           "externalId": "0001729427",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95767,7 +94785,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95794,7 +94812,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001759138"
@@ -95828,7 +94846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759138&owner=exclude&hidefilings=0",
           "externalId": "0001759138",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -95852,7 +94870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95879,7 +94897,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001937993"
@@ -95913,7 +94931,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001937993&owner=exclude&hidefilings=0",
           "externalId": "0001937993",
           "contextTitle": "Pharmaceutical Preparations"
@@ -95937,7 +94955,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95964,7 +94982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001534133"
@@ -95998,7 +95016,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534133&owner=exclude&hidefilings=0",
           "externalId": "0001534133",
           "contextTitle": "Pharmaceutical Preparations"
@@ -96022,7 +95040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96049,7 +95067,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001855485"
@@ -96083,7 +95101,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855485&owner=exclude&hidefilings=0",
           "externalId": "0001855485",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -96107,7 +95125,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96134,7 +95152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001736730"
@@ -96168,7 +95186,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001736730&owner=exclude&hidefilings=0",
           "externalId": "0001736730",
           "contextTitle": "Pharmaceutical Preparations"
@@ -96192,7 +95210,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96219,7 +95237,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-02",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001536196"
@@ -96253,7 +95271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001536196&owner=exclude&hidefilings=0",
           "externalId": "0001536196",
           "contextTitle": "Pharmaceutical Preparations"
@@ -96277,7 +95295,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96304,7 +95322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001841387"
@@ -96338,7 +95356,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001841387&owner=exclude&hidefilings=0",
           "externalId": "0001841387",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -96362,7 +95380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96389,7 +95407,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001879270"
@@ -96423,7 +95441,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001879270&owner=exclude&hidefilings=0",
           "externalId": "0001879270",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -96447,7 +95465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96474,7 +95492,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001081938"
@@ -96508,7 +95526,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001081938&owner=exclude&hidefilings=0",
           "externalId": "0001081938",
           "contextTitle": "Pharmaceutical Preparations"
@@ -96532,7 +95550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96559,7 +95577,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001737927"
@@ -96593,7 +95611,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737927&owner=exclude&hidefilings=0",
           "externalId": "0001737927",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -96617,7 +95635,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96644,7 +95662,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001133869"
@@ -96678,7 +95696,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133869&owner=exclude&hidefilings=0",
           "externalId": "0001133869",
           "contextTitle": "Pharmaceutical Preparations"
@@ -96702,7 +95720,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96729,7 +95747,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001213037"
@@ -96763,7 +95781,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213037&owner=exclude&hidefilings=0",
           "externalId": "0001213037",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -96787,7 +95805,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96814,7 +95832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001870144"
@@ -96848,7 +95866,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870144&owner=exclude&hidefilings=0",
           "externalId": "0001870144",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -96872,7 +95890,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96899,7 +95917,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001702123"
@@ -96933,7 +95951,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001702123&owner=exclude&hidefilings=0",
           "externalId": "0001702123",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -96957,7 +95975,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96984,7 +96002,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001619856"
@@ -97018,7 +96036,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001619856&owner=exclude&hidefilings=0",
           "externalId": "0001619856",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97042,7 +96060,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97069,7 +96087,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001453687"
@@ -97103,7 +96121,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001453687&owner=exclude&hidefilings=0",
           "externalId": "0001453687",
           "contextTitle": "Pharmaceutical Preparations"
@@ -97127,7 +96145,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97154,7 +96172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000725363"
@@ -97188,7 +96206,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000725363&owner=exclude&hidefilings=0",
           "externalId": "0000725363",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97212,7 +96230,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97239,7 +96257,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001569340"
@@ -97273,7 +96291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001569340&owner=exclude&hidefilings=0",
           "externalId": "0001569340",
           "contextTitle": "Pharmaceutical Preparations"
@@ -97297,7 +96315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97324,7 +96342,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000744218"
@@ -97358,7 +96376,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&owner=exclude&hidefilings=0",
           "externalId": "0000744218",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -97382,7 +96400,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97409,7 +96427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001279704"
@@ -97443,7 +96461,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001279704&owner=exclude&hidefilings=0",
           "externalId": "0001279704",
           "contextTitle": "Pharmaceutical Preparations"
@@ -97467,7 +96485,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97494,7 +96512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001627281"
@@ -97528,7 +96546,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627281&owner=exclude&hidefilings=0",
           "externalId": "0001627281",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97552,7 +96570,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97579,7 +96597,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001752828"
@@ -97613,7 +96631,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001752828&owner=exclude&hidefilings=0",
           "externalId": "0001752828",
           "contextTitle": "Pharmaceutical Preparations"
@@ -97637,7 +96655,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97664,7 +96682,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001850119"
@@ -97698,7 +96716,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850119&owner=exclude&hidefilings=0",
           "externalId": "0001850119",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97722,7 +96740,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97749,7 +96767,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001870404"
@@ -97783,7 +96801,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001870404&owner=exclude&hidefilings=0",
           "externalId": "0001870404",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97807,7 +96825,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97834,7 +96852,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001053691"
@@ -97868,7 +96886,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001053691&owner=exclude&hidefilings=0",
           "externalId": "0001053691",
           "contextTitle": "Pharmaceutical Preparations"
@@ -97892,7 +96910,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97919,7 +96937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000771856"
@@ -97953,7 +96971,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000771856&owner=exclude&hidefilings=0",
           "externalId": "0000771856",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -97977,7 +96995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98004,7 +97022,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001134765"
@@ -98038,7 +97056,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001134765&owner=exclude&hidefilings=0",
           "externalId": "0001134765",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -98062,7 +97080,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98089,7 +97107,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001534248"
@@ -98123,7 +97141,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534248&owner=exclude&hidefilings=0",
           "externalId": "0001534248",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98147,7 +97165,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98174,7 +97192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001310630"
@@ -98208,7 +97226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001310630&owner=exclude&hidefilings=0",
           "externalId": "0001310630",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -98232,7 +97250,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98259,7 +97277,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001106644"
@@ -98293,7 +97311,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001106644&owner=exclude&hidefilings=0",
           "externalId": "0001106644",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98317,7 +97335,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98344,7 +97362,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001723980"
@@ -98378,7 +97396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723980&owner=exclude&hidefilings=0",
           "externalId": "0001723980",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98402,7 +97420,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98429,7 +97447,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001862150"
@@ -98463,7 +97481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001862150&owner=exclude&hidefilings=0",
           "externalId": "0001862150",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98487,7 +97505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98514,7 +97532,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001851484"
@@ -98548,7 +97566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001851484&owner=exclude&hidefilings=0",
           "externalId": "0001851484",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98572,7 +97590,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98599,7 +97617,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001506251"
@@ -98633,7 +97651,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001506251&owner=exclude&hidefilings=0",
           "externalId": "0001506251",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98657,7 +97675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98684,7 +97702,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001892500"
@@ -98718,7 +97736,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001892500&owner=exclude&hidefilings=0",
           "externalId": "0001892500",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98742,7 +97760,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98769,7 +97787,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001822791"
@@ -98803,7 +97821,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001822791&owner=exclude&hidefilings=0",
           "externalId": "0001822791",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98827,7 +97845,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98854,7 +97872,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001768446"
@@ -98888,7 +97906,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001768446&owner=exclude&hidefilings=0",
           "externalId": "0001768446",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98912,7 +97930,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98939,7 +97957,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001412486"
@@ -98973,7 +97991,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001412486&owner=exclude&hidefilings=0",
           "externalId": "0001412486",
           "contextTitle": "Pharmaceutical Preparations"
@@ -98997,7 +98015,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99024,7 +98042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001455365"
@@ -99058,7 +98076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455365&owner=exclude&hidefilings=0",
           "externalId": "0001455365",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99082,7 +98100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99109,7 +98127,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001512762"
@@ -99143,7 +98161,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512762&owner=exclude&hidefilings=0",
           "externalId": "0001512762",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99167,7 +98185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99194,7 +98212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001738021"
@@ -99228,7 +98246,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001738021&owner=exclude&hidefilings=0",
           "externalId": "0001738021",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99252,7 +98270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99279,7 +98297,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001119774"
@@ -99313,7 +98331,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119774&owner=exclude&hidefilings=0",
           "externalId": "0001119774",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99337,7 +98355,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99364,7 +98382,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001187953"
@@ -99398,7 +98416,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001187953&owner=exclude&hidefilings=0",
           "externalId": "0001187953",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99422,7 +98440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99449,7 +98467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001832928"
@@ -99483,7 +98501,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832928&owner=exclude&hidefilings=0",
           "externalId": "0001832928",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -99507,7 +98525,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99534,7 +98552,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001656472"
@@ -99568,7 +98586,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001656472&owner=exclude&hidefilings=0",
           "externalId": "0001656472",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -99592,7 +98610,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99619,7 +98637,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001789972"
@@ -99653,7 +98671,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789972&owner=exclude&hidefilings=0",
           "externalId": "0001789972",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99677,7 +98695,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99704,7 +98722,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001756770"
@@ -99738,7 +98756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001756770&owner=exclude&hidefilings=0",
           "externalId": "0001756770",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -99762,7 +98780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99789,7 +98807,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001400271"
@@ -99823,7 +98841,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400271&owner=exclude&hidefilings=0",
           "externalId": "0001400271",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99847,7 +98865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99874,7 +98892,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001108205"
@@ -99908,7 +98926,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001108205&owner=exclude&hidefilings=0",
           "externalId": "0001108205",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -99932,7 +98950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99959,7 +98977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000768408"
@@ -99993,7 +99011,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000768408&owner=exclude&hidefilings=0",
           "externalId": "0000768408",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -100017,7 +99035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100044,7 +99062,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001613780"
@@ -100078,7 +99096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001613780&owner=exclude&hidefilings=0",
           "externalId": "0001613780",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100102,7 +99120,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100129,7 +99147,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001813814"
@@ -100163,7 +99181,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001813814&owner=exclude&hidefilings=0",
           "externalId": "0001813814",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -100187,7 +99205,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100214,7 +99232,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001714899"
@@ -100248,7 +99266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001714899&owner=exclude&hidefilings=0",
           "externalId": "0001714899",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100272,7 +99290,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100299,7 +99317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002000684"
@@ -100333,7 +99351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000684&owner=exclude&hidefilings=0",
           "externalId": "0002000684",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -100357,7 +99375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100384,7 +99402,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001213809"
@@ -100418,7 +99436,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001213809&owner=exclude&hidefilings=0",
           "externalId": "0001213809",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100442,7 +99460,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100469,7 +99487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001650664"
@@ -100503,7 +99521,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650664&owner=exclude&hidefilings=0",
           "externalId": "0001650664",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100527,7 +99545,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100554,7 +99572,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001861123"
@@ -100588,7 +99606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001861123&owner=exclude&hidefilings=0",
           "externalId": "0001861123",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100612,7 +99630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100639,7 +99657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-09-01",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002088082"
@@ -100673,7 +99691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002088082&owner=exclude&hidefilings=0",
           "externalId": "0002088082",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100697,7 +99715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100724,7 +99742,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001035354"
@@ -100758,7 +99776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001035354&owner=exclude&hidefilings=0",
           "externalId": "0001035354",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100782,7 +99800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100809,7 +99827,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001708527"
@@ -100843,7 +99861,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001708527&owner=exclude&hidefilings=0",
           "externalId": "0001708527",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100867,7 +99885,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100894,7 +99912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001638097"
@@ -100928,7 +99946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001638097&owner=exclude&hidefilings=0",
           "externalId": "0001638097",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -100952,7 +99970,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100979,7 +99997,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001844417"
@@ -101013,7 +100031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001844417&owner=exclude&hidefilings=0",
           "externalId": "0001844417",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101037,7 +100055,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101064,7 +100082,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001828253"
@@ -101098,7 +100116,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828253&owner=exclude&hidefilings=0",
           "externalId": "0001828253",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101122,7 +100140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101149,7 +100167,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000939767"
@@ -101183,7 +100201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000939767&owner=exclude&hidefilings=0",
           "externalId": "0000939767",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101207,7 +100225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101234,7 +100252,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002010788"
@@ -101268,7 +100286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002010788&owner=exclude&hidefilings=0",
           "externalId": "0002010788",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101292,7 +100310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101319,7 +100337,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001434316"
@@ -101353,7 +100371,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001434316&owner=exclude&hidefilings=0",
           "externalId": "0001434316",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101377,7 +100395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101404,7 +100422,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001211583"
@@ -101438,7 +100456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001211583&owner=exclude&hidefilings=0",
           "externalId": "0001211583",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101462,7 +100480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101489,7 +100507,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001374328"
@@ -101523,7 +100541,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001374328&owner=exclude&hidefilings=0",
           "externalId": "0001374328",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -101547,7 +100565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101574,7 +100592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001837254"
@@ -101608,7 +100626,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001837254&owner=exclude&hidefilings=0",
           "externalId": "0001837254",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -101632,7 +100650,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101659,7 +100677,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001838716"
@@ -101693,7 +100711,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838716&owner=exclude&hidefilings=0",
           "externalId": "0001838716",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101717,7 +100735,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101744,7 +100762,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000882095"
@@ -101778,7 +100796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&owner=exclude&hidefilings=0",
           "externalId": "0000882095",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101802,7 +100820,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101829,7 +100847,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001830214"
@@ -101863,7 +100881,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830214&owner=exclude&hidefilings=0",
           "externalId": "0001830214",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -101887,7 +100905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101914,7 +100932,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001848731"
@@ -101948,7 +100966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001848731&owner=exclude&hidefilings=0",
           "externalId": "0001848731",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -101972,7 +100990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101999,7 +101017,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001420108"
@@ -102033,7 +101051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001420108&owner=exclude&hidefilings=0",
           "externalId": "0001420108",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -102057,7 +101075,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102084,7 +101102,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001392449"
@@ -102118,7 +101136,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001392449&owner=exclude&hidefilings=0",
           "externalId": "0001392449",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102142,7 +101160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102169,7 +101187,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001907223"
@@ -102203,7 +101221,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907223&owner=exclude&hidefilings=0",
           "externalId": "0001907223",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102227,7 +101245,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102254,7 +101272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001159036"
@@ -102288,7 +101306,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001159036&owner=exclude&hidefilings=0",
           "externalId": "0001159036",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102312,7 +101330,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102339,7 +101357,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001630176"
@@ -102373,7 +101391,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001630176&owner=exclude&hidefilings=0",
           "externalId": "0001630176",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -102397,7 +101415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102424,7 +101442,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002114044"
@@ -102458,7 +101476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114044&owner=exclude&hidefilings=0",
           "externalId": "0002114044",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102482,7 +101500,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102509,7 +101527,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001818382"
@@ -102543,7 +101561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818382&owner=exclude&hidefilings=0",
           "externalId": "0001818382",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102567,7 +101585,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102594,7 +101612,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001792030"
@@ -102628,7 +101646,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792030&owner=exclude&hidefilings=0",
           "externalId": "0001792030",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -102652,7 +101670,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102679,7 +101697,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000874716"
@@ -102713,7 +101731,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874716&owner=exclude&hidefilings=0",
           "externalId": "0000874716",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -102737,7 +101755,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102764,7 +101782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001835579"
@@ -102798,7 +101816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001835579&owner=exclude&hidefilings=0",
           "externalId": "0001835579",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102822,7 +101840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102849,7 +101867,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001809196"
@@ -102883,7 +101901,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001809196&owner=exclude&hidefilings=0",
           "externalId": "0001809196",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -102907,7 +101925,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102934,7 +101952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000811641"
@@ -102968,7 +101986,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811641&owner=exclude&hidefilings=0",
           "externalId": "0000811641",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -102992,7 +102010,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103019,7 +102037,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001326110"
@@ -103053,7 +102071,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326110&owner=exclude&hidefilings=0",
           "externalId": "0001326110",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103077,7 +102095,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103104,7 +102122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001671927"
@@ -103138,7 +102156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671927&owner=exclude&hidefilings=0",
           "externalId": "0001671927",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103162,7 +102180,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103189,7 +102207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001764013"
@@ -103223,7 +102241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001764013&owner=exclude&hidefilings=0",
           "externalId": "0001764013",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103247,7 +102265,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103274,7 +102292,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001740279"
@@ -103308,7 +102326,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001740279&owner=exclude&hidefilings=0",
           "externalId": "0001740279",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103332,7 +102350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103359,7 +102377,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001750149"
@@ -103393,7 +102411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750149&owner=exclude&hidefilings=0",
           "externalId": "0001750149",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103417,7 +102435,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103444,7 +102462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002007919"
@@ -103478,7 +102496,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007919&owner=exclude&hidefilings=0",
           "externalId": "0002007919",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103502,7 +102520,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103529,7 +102547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001711754"
@@ -103563,7 +102581,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711754&owner=exclude&hidefilings=0",
           "externalId": "0001711754",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103587,7 +102605,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103614,7 +102632,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001598599"
@@ -103648,7 +102666,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001598599&owner=exclude&hidefilings=0",
           "externalId": "0001598599",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103672,7 +102690,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103699,7 +102717,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001642380"
@@ -103733,7 +102751,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001642380&owner=exclude&hidefilings=0",
           "externalId": "0001642380",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -103757,7 +102775,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103784,7 +102802,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001789769"
@@ -103818,7 +102836,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&owner=exclude&hidefilings=0",
           "externalId": "0001789769",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103842,7 +102860,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103869,7 +102887,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001567264"
@@ -103903,7 +102921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001567264&owner=exclude&hidefilings=0",
           "externalId": "0001567264",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -103927,7 +102945,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103954,7 +102972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001832038"
@@ -103988,7 +103006,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&owner=exclude&hidefilings=0",
           "externalId": "0001832038",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104012,7 +103030,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104039,7 +103057,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001425205"
@@ -104073,7 +103091,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001425205&owner=exclude&hidefilings=0",
           "externalId": "0001425205",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104097,7 +103115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104124,7 +103142,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001788028"
@@ -104158,7 +103176,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001788028&owner=exclude&hidefilings=0",
           "externalId": "0001788028",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104182,7 +103200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104209,7 +103227,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001909747"
@@ -104243,7 +103261,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001909747&owner=exclude&hidefilings=0",
           "externalId": "0001909747",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -104267,7 +103285,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104294,7 +103312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001754068"
@@ -104328,7 +103346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754068&owner=exclude&hidefilings=0",
           "externalId": "0001754068",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104352,7 +103370,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104379,7 +103397,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001468748"
@@ -104413,7 +103431,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&owner=exclude&hidefilings=0",
           "externalId": "0001468748",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104437,7 +103455,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104464,7 +103482,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001711279"
@@ -104498,7 +103516,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711279&owner=exclude&hidefilings=0",
           "externalId": "0001711279",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104522,7 +103540,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104549,7 +103567,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001815442"
@@ -104583,7 +103601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815442&owner=exclude&hidefilings=0",
           "externalId": "0001815442",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104607,7 +103625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104634,7 +103652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001994702"
@@ -104668,7 +103686,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001994702&owner=exclude&hidefilings=0",
           "externalId": "0001994702",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104692,7 +103710,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104719,7 +103737,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001815776"
@@ -104753,7 +103771,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815776&owner=exclude&hidefilings=0",
           "externalId": "0001815776",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -104777,7 +103795,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104804,7 +103822,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001521036"
@@ -104838,7 +103856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001521036&owner=exclude&hidefilings=0",
           "externalId": "0001521036",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -104862,7 +103880,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104889,7 +103907,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001711141"
@@ -104923,7 +103941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001711141&owner=exclude&hidefilings=0",
           "externalId": "0001711141",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -104947,7 +103965,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104974,7 +103992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001620463"
@@ -105008,7 +104026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001620463&owner=exclude&hidefilings=0",
           "externalId": "0001620463",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105032,7 +104050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105059,7 +104077,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001907108"
@@ -105093,7 +104111,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001907108&owner=exclude&hidefilings=0",
           "externalId": "0001907108",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105117,7 +104135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105144,7 +104162,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001971387"
@@ -105178,7 +104196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001971387&owner=exclude&hidefilings=0",
           "externalId": "0001971387",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105202,7 +104220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105229,7 +104247,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000876343"
@@ -105263,7 +104281,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876343&owner=exclude&hidefilings=0",
           "externalId": "0000876343",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105287,7 +104305,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105314,7 +104332,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001056358"
@@ -105348,7 +104366,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001056358&owner=exclude&hidefilings=0",
           "externalId": "0001056358",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -105372,7 +104390,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105399,7 +104417,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001522767"
@@ -105433,7 +104451,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001522767&owner=exclude&hidefilings=0",
           "externalId": "0001522767",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -105457,7 +104475,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105484,7 +104502,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001842295"
@@ -105518,7 +104536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001842295&owner=exclude&hidefilings=0",
           "externalId": "0001842295",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105542,7 +104560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105569,7 +104587,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001593984"
@@ -105603,7 +104621,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593984&owner=exclude&hidefilings=0",
           "externalId": "0001593984",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -105627,7 +104645,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105654,7 +104672,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001735438"
@@ -105688,7 +104706,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001735438&owner=exclude&hidefilings=0",
           "externalId": "0001735438",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105712,7 +104730,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105739,7 +104757,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001345099"
@@ -105773,7 +104791,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001345099&owner=exclude&hidefilings=0",
           "externalId": "0001345099",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105797,7 +104815,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105824,7 +104842,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001785279"
@@ -105858,7 +104876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001785279&owner=exclude&hidefilings=0",
           "externalId": "0001785279",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105882,7 +104900,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105909,7 +104927,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001840229"
@@ -105943,7 +104961,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001840229&owner=exclude&hidefilings=0",
           "externalId": "0001840229",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -105967,7 +104985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105994,7 +105012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001745114"
@@ -106028,7 +105046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745114&owner=exclude&hidefilings=0",
           "externalId": "0001745114",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106052,7 +105070,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106079,7 +105097,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001826457"
@@ -106113,7 +105131,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826457&owner=exclude&hidefilings=0",
           "externalId": "0001826457",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106137,7 +105155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106164,7 +105182,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000836564"
@@ -106198,7 +105216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000836564&owner=exclude&hidefilings=0",
           "externalId": "0000836564",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106222,7 +105240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106249,7 +105267,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000899923"
@@ -106283,7 +105301,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000899923&owner=exclude&hidefilings=0",
           "externalId": "0000899923",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -106307,7 +105325,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106334,7 +105352,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002100835"
@@ -106368,7 +105386,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100835&owner=exclude&hidefilings=0",
           "externalId": "0002100835",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -106392,7 +105410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106419,7 +105437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000787253"
@@ -106453,7 +105471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&owner=exclude&hidefilings=0",
           "externalId": "0000787253",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -106477,7 +105495,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106504,7 +105522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000711377"
@@ -106538,7 +105556,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000711377&owner=exclude&hidefilings=0",
           "externalId": "0000711377",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -106562,7 +105580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106589,7 +105607,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001885522"
@@ -106623,7 +105641,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&owner=exclude&hidefilings=0",
           "externalId": "0001885522",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106647,7 +105665,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106674,7 +105692,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000914475"
@@ -106708,7 +105726,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000914475&owner=exclude&hidefilings=0",
           "externalId": "0000914475",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106732,7 +105750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106759,7 +105777,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001512886"
@@ -106793,7 +105811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512886&owner=exclude&hidefilings=0",
           "externalId": "0001512886",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -106817,7 +105835,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106844,7 +105862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001386570"
@@ -106878,7 +105896,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001386570&owner=exclude&hidefilings=0",
           "externalId": "0001386570",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -106902,7 +105920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106929,7 +105947,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001000694"
@@ -106963,7 +105981,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000694&owner=exclude&hidefilings=0",
           "externalId": "0001000694",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -106987,7 +106005,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107014,7 +106032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001119643"
@@ -107048,7 +106066,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001119643&owner=exclude&hidefilings=0",
           "externalId": "0001119643",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -107072,7 +106090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107099,7 +106117,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001018735"
@@ -107133,7 +106151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018735&owner=exclude&hidefilings=0",
           "externalId": "0001018735",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -107157,7 +106175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107184,7 +106202,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001849296"
@@ -107218,7 +106236,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849296&owner=exclude&hidefilings=0",
           "externalId": "0001849296",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107242,7 +106260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107269,7 +106287,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001372299"
@@ -107303,7 +106321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&owner=exclude&hidefilings=0",
           "externalId": "0001372299",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107327,7 +106345,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107354,7 +106372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001882782"
@@ -107388,7 +106406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001882782&owner=exclude&hidefilings=0",
           "externalId": "0001882782",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107412,7 +106430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107439,7 +106457,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001815620"
@@ -107473,7 +106491,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815620&owner=exclude&hidefilings=0",
           "externalId": "0001815620",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107497,7 +106515,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107524,7 +106542,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001649989"
@@ -107558,7 +106576,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649989&owner=exclude&hidefilings=0",
           "externalId": "0001649989",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107582,7 +106600,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107609,7 +106627,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001357459"
@@ -107643,7 +106661,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357459&owner=exclude&hidefilings=0",
           "externalId": "0001357459",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107667,7 +106685,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107694,7 +106712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001552189"
@@ -107728,7 +106746,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001552189&owner=exclude&hidefilings=0",
           "externalId": "0001552189",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -107752,7 +106770,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107779,7 +106797,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001787297"
@@ -107813,7 +106831,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001787297&owner=exclude&hidefilings=0",
           "externalId": "0001787297",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107837,7 +106855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107864,7 +106882,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001919246"
@@ -107898,7 +106916,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001919246&owner=exclude&hidefilings=0",
           "externalId": "0001919246",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -107922,7 +106940,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107949,7 +106967,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001157075"
@@ -107983,7 +107001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001157075&owner=exclude&hidefilings=0",
           "externalId": "0001157075",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108007,7 +107025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108034,7 +107052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001158780"
@@ -108068,7 +107086,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001158780&owner=exclude&hidefilings=0",
           "externalId": "0001158780",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108092,7 +107110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108119,7 +107137,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001357874"
@@ -108153,7 +107171,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001357874&owner=exclude&hidefilings=0",
           "externalId": "0001357874",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108177,7 +107195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108204,7 +107222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001894562"
@@ -108238,7 +107256,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001894562&owner=exclude&hidefilings=0",
           "externalId": "0001894562",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108262,7 +107280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108289,7 +107307,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001850270"
@@ -108323,7 +107341,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850270&owner=exclude&hidefilings=0",
           "externalId": "0001850270",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108347,7 +107365,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108374,7 +107392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001006281"
@@ -108408,7 +107426,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001006281&owner=exclude&hidefilings=0",
           "externalId": "0001006281",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108432,7 +107450,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108459,7 +107477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001359931"
@@ -108493,7 +107511,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001359931&owner=exclude&hidefilings=0",
           "externalId": "0001359931",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108517,7 +107535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108544,7 +107562,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001321834"
@@ -108578,7 +107596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001321834&owner=exclude&hidefilings=0",
           "externalId": "0001321834",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -108602,7 +107620,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108629,7 +107647,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001015820"
@@ -108663,7 +107681,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001015820&owner=exclude&hidefilings=0",
           "externalId": "0001015820",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108687,7 +107705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108714,7 +107732,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001906324"
@@ -108748,7 +107766,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001906324&owner=exclude&hidefilings=0",
           "externalId": "0001906324",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -108772,7 +107790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108799,7 +107817,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001662774"
@@ -108833,7 +107851,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001662774&owner=exclude&hidefilings=0",
           "externalId": "0001662774",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108857,7 +107875,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108884,7 +107902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001590877"
@@ -108918,7 +107936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001590877&owner=exclude&hidefilings=0",
           "externalId": "0001590877",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -108942,7 +107960,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108969,7 +107987,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001415397"
@@ -109003,7 +108021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001415397&owner=exclude&hidefilings=0",
           "externalId": "0001415397",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -109027,7 +108045,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109054,7 +108072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001829667"
@@ -109088,7 +108106,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001829667&owner=exclude&hidefilings=0",
           "externalId": "0001829667",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -109112,7 +108130,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109139,7 +108157,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001812364"
@@ -109173,7 +108191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001812364&owner=exclude&hidefilings=0",
           "externalId": "0001812364",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109197,7 +108215,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109224,7 +108242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000730272"
@@ -109258,7 +108276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730272&owner=exclude&hidefilings=0",
           "externalId": "0000730272",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109282,7 +108300,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109309,7 +108327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001737953"
@@ -109343,7 +108361,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001737953&owner=exclude&hidefilings=0",
           "externalId": "0001737953",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109367,7 +108385,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109394,7 +108412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001628171"
@@ -109428,7 +108446,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628171&owner=exclude&hidefilings=0",
           "externalId": "0001628171",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109452,7 +108470,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109479,7 +108497,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001833214"
@@ -109513,7 +108531,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001833214&owner=exclude&hidefilings=0",
           "externalId": "0001833214",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109537,7 +108555,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109564,7 +108582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002070534"
@@ -109598,7 +108616,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070534&owner=exclude&hidefilings=0",
           "externalId": "0002070534",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109622,7 +108640,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109649,7 +108667,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001766600"
@@ -109683,7 +108701,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001766600&owner=exclude&hidefilings=0",
           "externalId": "0001766600",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -109707,7 +108725,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109734,7 +108752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001770121"
@@ -109768,7 +108786,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001770121&owner=exclude&hidefilings=0",
           "externalId": "0001770121",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109792,7 +108810,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109819,7 +108837,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001001233"
@@ -109853,7 +108871,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001001233&owner=exclude&hidefilings=0",
           "externalId": "0001001233",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109877,7 +108895,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109904,7 +108922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001727196"
@@ -109938,7 +108956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001727196&owner=exclude&hidefilings=0",
           "externalId": "0001727196",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -109962,7 +108980,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109989,7 +109007,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001820190"
@@ -110023,7 +109041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001820190&owner=exclude&hidefilings=0",
           "externalId": "0001820190",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110047,7 +109065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110074,7 +109092,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001611747"
@@ -110108,7 +109126,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001611747&owner=exclude&hidefilings=0",
           "externalId": "0001611747",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110132,7 +109150,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110159,7 +109177,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001853921"
@@ -110193,7 +109211,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001853921&owner=exclude&hidefilings=0",
           "externalId": "0001853921",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110217,7 +109235,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110244,7 +109262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001854270"
@@ -110278,7 +109296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001854270&owner=exclude&hidefilings=0",
           "externalId": "0001854270",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110302,7 +109320,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110329,7 +109347,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0002022416"
@@ -110363,7 +109381,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002022416&owner=exclude&hidefilings=0",
           "externalId": "0002022416",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110387,7 +109405,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110414,7 +109432,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001707502"
@@ -110448,7 +109466,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001707502&owner=exclude&hidefilings=0",
           "externalId": "0001707502",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110472,7 +109490,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110499,7 +109517,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001824893"
@@ -110533,7 +109551,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824893&owner=exclude&hidefilings=0",
           "externalId": "0001824893",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110557,7 +109575,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110584,7 +109602,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001382101"
@@ -110618,7 +109636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001382101&owner=exclude&hidefilings=0",
           "externalId": "0001382101",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110642,7 +109660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110669,7 +109687,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001562733"
@@ -110703,7 +109721,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001562733&owner=exclude&hidefilings=0",
           "externalId": "0001562733",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -110727,7 +109745,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110754,7 +109772,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001885680"
@@ -110788,7 +109806,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885680&owner=exclude&hidefilings=0",
           "externalId": "0001885680",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -110812,7 +109830,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110839,7 +109857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001783328"
@@ -110873,7 +109891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001783328&owner=exclude&hidefilings=0",
           "externalId": "0001783328",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -110897,7 +109915,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110924,7 +109942,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001586554"
@@ -110958,7 +109976,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001586554&owner=exclude&hidefilings=0",
           "externalId": "0001586554",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -110982,7 +110000,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111009,7 +110027,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001819790"
@@ -111043,7 +110061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819790&owner=exclude&hidefilings=0",
           "externalId": "0001819790",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111067,7 +110085,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111094,7 +110112,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001806310"
@@ -111128,7 +110146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001806310&owner=exclude&hidefilings=0",
           "externalId": "0001806310",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111152,7 +110170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111179,7 +110197,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001681087"
@@ -111213,7 +110231,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001681087&owner=exclude&hidefilings=0",
           "externalId": "0001681087",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111237,7 +110255,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111264,7 +110282,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001858848"
@@ -111298,7 +110316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001858848&owner=exclude&hidefilings=0",
           "externalId": "0001858848",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111322,7 +110340,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111349,7 +110367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001860871"
@@ -111383,7 +110401,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001860871&owner=exclude&hidefilings=0",
           "externalId": "0001860871",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111407,7 +110425,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111434,7 +110452,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001731348"
@@ -111468,7 +110486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001731348&owner=exclude&hidefilings=0",
           "externalId": "0001731348",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -111492,7 +110510,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111519,7 +110537,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000888721"
@@ -111553,7 +110571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000888721&owner=exclude&hidefilings=0",
           "externalId": "0000888721",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -111577,7 +110595,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111604,7 +110622,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001754195"
@@ -111638,7 +110656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001754195&owner=exclude&hidefilings=0",
           "externalId": "0001754195",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -111662,7 +110680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111689,7 +110707,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001581280"
@@ -111723,7 +110741,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001581280&owner=exclude&hidefilings=0",
           "externalId": "0001581280",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111747,7 +110765,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111774,7 +110792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000896264"
@@ -111808,7 +110826,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896264&owner=exclude&hidefilings=0",
           "externalId": "0000896264",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -111832,7 +110850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111859,7 +110877,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.9,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001836564"
@@ -111893,7 +110911,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001836564&owner=exclude&hidefilings=0",
           "externalId": "0001836564",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -111917,7 +110935,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111944,7 +110962,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000072444"
@@ -111978,7 +110996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000072444&owner=exclude&hidefilings=0",
           "externalId": "0000072444",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112002,7 +111020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112029,7 +111047,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001649094"
@@ -112063,7 +111081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&owner=exclude&hidefilings=0",
           "externalId": "0001649094",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112087,7 +111105,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112114,7 +111132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000887359"
@@ -112148,7 +111166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000887359&owner=exclude&hidefilings=0",
           "externalId": "0000887359",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112172,7 +111190,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112199,7 +111217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001706431"
@@ -112233,7 +111251,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&owner=exclude&hidefilings=0",
           "externalId": "0001706431",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112257,7 +111275,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112284,7 +111302,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001885827"
@@ -112318,7 +111336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885827&owner=exclude&hidefilings=0",
           "externalId": "0001885827",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -112342,7 +111360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112369,7 +111387,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000727510"
@@ -112403,7 +111421,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000727510&owner=exclude&hidefilings=0",
           "externalId": "0000727510",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112427,7 +111445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112454,7 +111472,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001497253"
@@ -112488,7 +111506,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001497253&owner=exclude&hidefilings=0",
           "externalId": "0001497253",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112512,7 +111530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112539,7 +111557,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000093314"
@@ -112573,7 +111591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000093314&owner=exclude&hidefilings=0",
           "externalId": "0000093314",
           "contextTitle": "In Vitro and In Vivo Diagnostic Substances"
@@ -112597,7 +111615,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112624,7 +111642,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001817229"
@@ -112658,7 +111676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817229&owner=exclude&hidefilings=0",
           "externalId": "0001817229",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112682,7 +111700,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112709,7 +111727,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001640266"
@@ -112743,7 +111761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640266&owner=exclude&hidefilings=0",
           "externalId": "0001640266",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112767,7 +111785,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112794,7 +111812,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0000946486"
@@ -112828,7 +111846,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000946486&owner=exclude&hidefilings=0",
           "externalId": "0000946486",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112852,7 +111870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112879,7 +111897,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001501697"
@@ -112913,7 +111931,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501697&owner=exclude&hidefilings=0",
           "externalId": "0001501697",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -112937,7 +111955,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112964,7 +111982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001557376"
@@ -112998,7 +112016,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557376&owner=exclude&hidefilings=0",
           "externalId": "0001557376",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -113022,7 +112040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113049,7 +112067,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001101026"
@@ -113083,7 +112101,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001101026&owner=exclude&hidefilings=0",
           "externalId": "0001101026",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -113107,7 +112125,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113134,7 +112152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001855644"
@@ -113168,7 +112186,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855644&owner=exclude&hidefilings=0",
           "externalId": "0001855644",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -113192,7 +112210,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113219,7 +112237,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001339970"
@@ -113253,7 +112271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001339970&owner=exclude&hidefilings=0",
           "externalId": "0001339970",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -113277,7 +112295,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113304,7 +112322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001819253"
@@ -113338,7 +112356,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819253&owner=exclude&hidefilings=0",
           "externalId": "0001819253",
           "contextTitle": "Medicinal Chemicals and Botanical Products"
@@ -113362,7 +112380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113389,7 +112407,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.98,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
-      "lastSeenAt": "2026-09-20",
+      "lastSeenAt": "2026-09-21",
       "identifiers": {
         "cik": [
           "0001980845"
@@ -113423,7 +112441,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceType": "SEC",
           "sourceName": "SEC EDGAR",
           "sourceRole": "biotech_sic_filer",
-          "sourceDate": "2026-09-20",
+          "sourceDate": "2026-09-21",
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001980845&owner=exclude&hidefilings=0",
           "externalId": "0001980845",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
@@ -113447,7 +112465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113532,7 +112550,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113620,7 +112638,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113708,7 +112726,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113796,7 +112814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113884,7 +112902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -113972,7 +112990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114060,7 +113078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114148,7 +113166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114236,7 +113254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114324,7 +113342,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114412,7 +113430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114500,7 +113518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114588,7 +113606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114676,7 +113694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114764,7 +113782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114852,7 +113870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114940,7 +113958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115028,7 +114046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115116,7 +114134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115204,7 +114222,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115292,7 +114310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115380,7 +114398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115468,7 +114486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115556,7 +114574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115644,7 +114662,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115732,7 +114750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115835,7 +114853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -115925,7 +114943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116013,7 +115031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116101,7 +115119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116189,7 +115207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116277,7 +115295,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116365,7 +115383,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116453,7 +115471,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116541,7 +115559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116629,7 +115647,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116717,7 +115735,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116805,7 +115823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116893,7 +115911,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116981,7 +115999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117069,7 +116087,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117157,7 +116175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117245,7 +116263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117333,7 +116351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117421,7 +116439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117509,7 +116527,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117597,7 +116615,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117685,7 +116703,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117773,7 +116791,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117861,7 +116879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117964,7 +116982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -118054,7 +117072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118142,7 +117160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118230,7 +117248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118318,7 +117336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118406,7 +117424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118494,7 +117512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118582,7 +117600,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118670,7 +117688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118758,7 +117776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118846,7 +117864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118934,7 +117952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119022,7 +118040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119110,7 +118128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119198,7 +118216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119286,7 +118304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119374,7 +118392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119462,7 +118480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119550,7 +118568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119638,7 +118656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119726,7 +118744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119814,7 +118832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119902,7 +118920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119990,7 +119008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120078,7 +119096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120166,7 +119184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120254,7 +119272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120342,7 +119360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120430,7 +119448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120518,7 +119536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120606,7 +119624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120694,7 +119712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120782,7 +119800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120870,7 +119888,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120958,7 +119976,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121046,7 +120064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121134,7 +120152,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121222,7 +120240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121310,7 +120328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121398,7 +120416,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121486,7 +120504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121574,7 +120592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121662,7 +120680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121750,7 +120768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121838,7 +120856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121926,7 +120944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122014,7 +121032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122102,7 +121120,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122190,7 +121208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122278,7 +121296,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122366,7 +121384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122462,7 +121480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122556,7 +121574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122650,7 +121668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122744,7 +121762,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122838,7 +121856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122932,7 +121950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123026,7 +122044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123120,7 +122138,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123214,7 +122232,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123308,7 +122326,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123402,7 +122420,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123496,7 +122514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123590,7 +122608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123684,7 +122702,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123778,7 +122796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123872,7 +122890,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123966,7 +122984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124060,7 +123078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124154,7 +123172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124248,7 +123266,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124342,7 +123360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124436,7 +123454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124530,7 +123548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124624,7 +123642,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124718,7 +123736,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124812,7 +123830,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124906,7 +123924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125000,7 +124018,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125094,7 +124112,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125188,7 +124206,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125282,7 +124300,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125376,7 +124394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125470,7 +124488,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125564,7 +124582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125658,7 +124676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125752,7 +124770,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125846,7 +124864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125940,7 +124958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126034,7 +125052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126128,7 +125146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126222,7 +125240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126316,7 +125334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126410,7 +125428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126504,7 +125522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126598,7 +125616,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126692,7 +125710,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126786,7 +125804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126880,7 +125898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126974,7 +125992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126991,34 +126009,34 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-aldatu-biosciences",
-      "name": "Aldatu Biosciences, Inc.",
+      "id": "candidate-acomhal-research",
+      "name": "Acomhal Research, Inc.",
       "aliases": [
-        "ALDATU BIOSCIENCES, INC."
+        "ACOMHAL RESEARCH, INC."
       ],
-      "normalizedName": "aldatu biosciences",
+      "normalizedName": "acomhal research",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-02",
-      "lastSeenAt": "2026-09-02",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10036337"
+          "10041657"
         ],
         "uei": [
-          "N29WVC3UJCB9"
+          "QCZ3GLF8WNP5"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
+          "Cell Therapy",
+          "biotechnology"
         ],
         "themes": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
+          "Cell Therapy",
+          "biotechnology"
         ],
         "tags": []
       },
@@ -127031,22 +126049,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-74f23d8ce4fb6081"
+        "mention-nih-ab6e8ff4dae2991d"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-02",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316507",
-          "externalId": "11316507",
-          "contextTitle": "PANDAA for universal, pan-lineage molecular detection of filoviruses to enable rapid epidemic response."
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409740",
+          "externalId": "11409740",
+          "contextTitle": "Alphavirus vector-mediated expression of a connexin43 mimetic peptide in glioblastoma therapy"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-aldatu-biosciences",
-        "candidateInputHash": "9d8dbfd8fdddf5100a5a088a39235775c7dbcb6dad2fa0f93c5d0dd09a4c1b26",
+        "candidateId": "candidate-acomhal-research",
+        "candidateInputHash": "f60411300c4fcb85581595e1e812726bd40502c2f3cd31af7b9cff8d3a8fac0d",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127062,54 +126080,50 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10036337"
+            "10041657"
           ],
           "uei": [
-            "N29WVC3UJCB9"
+            "QCZ3GLF8WNP5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-74f23d8ce4fb6081"
+          "mention-nih-ab6e8ff4dae2991d"
         ]
       }
     },
     {
-      "id": "candidate-alveolus-bio",
-      "name": "Alveolus Bio, Inc.",
+      "id": "candidate-actuated-medical",
+      "name": "Actuated Medical, Inc.",
       "aliases": [
-        "ALVEOLUS BIO, INC."
+        "ACTUATED MEDICAL, INC."
       ],
-      "normalizedName": "alveolus bio",
+      "normalizedName": "actuated medical",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10073669"
+          "10013439"
         ],
         "uei": [
-          "CZDCV9W7CRC4"
+          "VG84D4KN5LR5"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
           "cell therapy"
         ],
         "themes": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
           "cell therapy"
         ],
         "tags": []
@@ -127123,22 +126137,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-482fda484a4bc8e2"
+        "mention-nih-2d507b323d3907e0"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314239",
-          "externalId": "11314239",
-          "contextTitle": "An Inhaled Live Biotherapeutic for Influenza Viral Infection"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11252698",
+          "externalId": "11252698",
+          "contextTitle": "Vibration-integrated Lancing System to Reduce Stress, Pain Response, Heel Damage and Developmental Harm from Recurring Heel Sticks in Neonates"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-alveolus-bio",
-        "candidateInputHash": "9c0c64d86a43115cd6961a13a146f881326cf8fd6c545ecf3f4f777708bf91a5",
+        "candidateId": "candidate-actuated-medical",
+        "candidateInputHash": "719ffb429447d51f0d106b6a5453811630e4da2319b790089e6f710e8c72283d",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127154,53 +126168,233 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10073669"
+            "10013439"
           ],
           "uei": [
-            "CZDCV9W7CRC4"
+            "VG84D4KN5LR5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-482fda484a4bc8e2"
+          "mention-nih-2d507b323d3907e0"
         ]
       }
     },
     {
-      "id": "candidate-amplified-sciences",
-      "name": "Amplified Sciences Inc",
+      "id": "candidate-aeton-therapeutics",
+      "name": "Aeton Therapeutics, Inc.",
       "aliases": [
-        "AMPLIFIED SCIENCES INC"
+        "AETON THERAPEUTICS, INC."
       ],
-      "normalizedName": "amplified sciences",
+      "normalizedName": "aeton therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10056120"
+          "10049789"
         ],
         "uei": [
-          "RCKST9F41YA6"
+          "MC2DMP4NVUC7"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-30329e30166f123d"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11323824",
+          "externalId": "11323824",
+          "contextTitle": "Human CGAS inhibitors to treat neurodegeneration in Alzheimer's disease"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-aeton-therapeutics",
+        "candidateInputHash": "16e7e95524a0eca7a01fa8aee0a65c9bd0c3849344d33b4bd3db1aaf9286469c",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10049789"
+          ],
+          "uei": [
+            "MC2DMP4NVUC7"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-30329e30166f123d"
+        ]
+      }
+    },
+    {
+      "id": "candidate-agonox",
+      "name": "Agonox, Inc.",
+      "aliases": [
+        "AGONOX, INC."
+      ],
+      "normalizedName": "agonox",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10031691"
+        ],
+        "uei": [
+          "YNKLZNLCCE85"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "biotechnology"
+        ],
+        "themes": [
+          "biotechnology"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-080ec90964b1b653"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408886",
+          "externalId": "11408886",
+          "contextTitle": "Enriching and expanding tumor-reactive CD8 T-cells to treat breast cancer"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-agonox",
+        "candidateInputHash": "899e1e19802a6803ef76dcd3036e18f8f0448a4096e3b1b4e93c8f3a300c3077",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10031691"
+          ],
+          "uei": [
+            "YNKLZNLCCE85"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-080ec90964b1b653"
+        ]
+      }
+    },
+    {
+      "id": "candidate-aivocode",
+      "name": "Aivocode, Llp",
+      "aliases": [
+        "AIVOCODE, LLP"
+      ],
+      "normalizedName": "aivocode",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.76,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-16",
+      "lastSeenAt": "2026-09-16",
+      "identifiers": {
+        "nihIpf": [
+          "10038623"
+        ],
+        "uei": [
+          "TLPZZJEMNND1"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
           "Precision Diagnostics",
           "molecular diagnostics"
         ],
         "themes": [
-          "AI Drug Discovery",
           "Precision Diagnostics",
           "molecular diagnostics"
         ],
@@ -127215,22 +126409,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-76cdcc21ca9c016a"
+        "mention-nih-6ba2026f0a340213"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11438471",
-          "externalId": "11438471",
-          "contextTitle": "Validation of a Dysplasia Grading Assay for Precancerous Pancreatic Cystic Lesions"
+          "sourceDate": "2026-09-16",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11403170",
+          "externalId": "11403170",
+          "contextTitle": "Early Detection of Alzheimer’s Disease Using a Novel ImmunoPET Conjugate"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-amplified-sciences",
-        "candidateInputHash": "994f6893f59f9d44c71625fe0e3440b13d12977228baa7b90411e4123973c315",
+        "candidateId": "candidate-aivocode",
+        "candidateInputHash": "86187fc63b27dcb3a564543597336508bcb165bfe53eef2d5d96acc4e80fba81",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127246,147 +126440,53 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10056120"
+            "10038623"
           ],
           "uei": [
-            "RCKST9F41YA6"
+            "TLPZZJEMNND1"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-76cdcc21ca9c016a"
+          "mention-nih-6ba2026f0a340213"
         ]
       }
     },
     {
-      "id": "candidate-andson-biotech",
-      "name": "Andson Biotech Inc.",
+      "id": "candidate-allander-biotechnologies",
+      "name": "Allander Biotechnologies, Inc.",
       "aliases": [
-        "ANDSON BIOTECH INC."
+        "ALLANDER BIOTECHNOLOGIES, INC."
       ],
-      "normalizedName": "andson biotech",
+      "normalizedName": "allander biotechnologies",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
+      "firstSeenAt": "2026-09-14",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10069521"
+          "10043479"
         ],
         "uei": [
-          "JN6BFBRSN5K7"
+          "J8KMX54WRJM9"
         ]
       },
       "classificationHints": {
         "directions": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
+          "Precision Diagnostics",
+          "biotechnology"
         ],
         "themes": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-fc2fd73d4ed507ce"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11407222",
-          "externalId": "11407222",
-          "contextTitle": "Development of an Automated Sample Preparation Platform for High Throughput Mass Spectrometry Characterization of Biotherapeutics"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-andson-biotech",
-        "candidateInputHash": "1379d32a5bbbdbf52036ffccb5f12c6970c742e2b2fa38968355fe69fc24be72",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10069521"
-          ],
-          "uei": [
-            "JN6BFBRSN5K7"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-fc2fd73d4ed507ce"
-        ]
-      }
-    },
-    {
-      "id": "candidate-athna-biotech",
-      "name": "Athna Biotech, Inc.",
-      "aliases": [
-        "ATHNA BIOTECH, INC."
-      ],
-      "normalizedName": "athna biotech",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-07",
-      "lastSeenAt": "2026-09-10",
-      "identifiers": {
-        "nihIpf": [
-          "10056104"
-        ],
-        "uei": [
-          "LBCCTS71U2N4"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "biotechnology",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "themes": [
-          "biotechnology",
-          "cell therapy",
-          "gene therapy"
+          "Precision Diagnostics",
+          "biotechnology"
         ],
         "tags": []
       },
@@ -127399,32 +126499,32 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 2,
       "mentionIds": [
-        "mention-nih-217d83b00ace2b9a",
-        "mention-nih-b6f5d42c42e0b2ea"
+        "mention-nih-014163a42b3df038",
+        "mention-nih-d00cd1e8c6d8590f"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314266",
-          "externalId": "11314266",
-          "contextTitle": "Development of a salt-based nanomedicine for non-muscle invasive bladder cancer"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11321353",
+          "externalId": "11321353",
+          "contextTitle": "cGMP manufacturing the clinical batch of oral gel drug for treating oral mucositis in cancer patients"
         },
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-07",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11399125",
-          "externalId": "11399125",
-          "contextTitle": "Development of a radiation-activatable nanoparticle for lung cancer therapy"
+          "sourceDate": "2026-09-14",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11411493",
+          "externalId": "11411493",
+          "contextTitle": "First-in-human clinical trial of proprietary oral gel to treat radiation-induced oral mucositis in cancer patients"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-athna-biotech",
-        "candidateInputHash": "2e4b80ad45ddafbfe02d3e9e95de48daa91f9c401df51c8b2a1c782d478361b2",
+        "candidateId": "candidate-allander-biotechnologies",
+        "candidateInputHash": "387454a58755b16e95818769ba5f900094f5fbe1cc56cd8cfa5b889d53e39d0f",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127440,54 +126540,432 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10056104"
+            "10043479"
           ],
           "uei": [
-            "LBCCTS71U2N4"
+            "J8KMX54WRJM9"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-217d83b00ace2b9a",
-          "mention-nih-b6f5d42c42e0b2ea"
+          "mention-nih-014163a42b3df038",
+          "mention-nih-d00cd1e8c6d8590f"
         ]
       }
     },
     {
-      "id": "candidate-bacstitch-dna",
-      "name": "Bacstitch Dna Inc.",
+      "id": "candidate-amissa",
+      "name": "Amissa, Inc.",
       "aliases": [
-        "BACSTITCH DNA INC."
+        "AMISSA, INC."
       ],
-      "normalizedName": "bacstitch dna",
+      "normalizedName": "amissa",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10070992"
+          "10055417"
         ],
         "uei": [
-          "K6ZEC3LCEKE1"
+          "UQ8FJSDQQQF6"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "cell therapy",
           "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
+          "Precision Diagnostics",
+          "cell therapy",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-164513d02686add8"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316421",
+          "externalId": "11316421",
+          "contextTitle": "SMART-HRT: Smartwatch-Based Monitoring and Real-Time Tracking for Optimizing Hormone Replacement Therapy Efficacy in Menopause."
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-amissa",
+        "candidateInputHash": "5c54c18a8763127dfb062896f1269007c394cee78d3e7b428c74dec65f275d48",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10055417"
+          ],
+          "uei": [
+            "UQ8FJSDQQQF6"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-164513d02686add8"
+        ]
+      }
+    },
+    {
+      "id": "candidate-bellwethers",
+      "name": "Bellwethers Inc.",
+      "aliases": [
+        "BELLWETHERS INC."
+      ],
+      "normalizedName": "bellwethers",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10075739"
+        ],
+        "uei": [
+          "XV3NP1RSMHM7"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "themes": [
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-52cf91df11cb8641"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11410331",
+          "externalId": "11410331",
+          "contextTitle": "Rejuvenis: A Partially Reprogramming Small Molecule Drug for Brain Rejuvenation and Alzheimer's Disease Therapy"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-bellwethers",
+        "candidateInputHash": "1e849f9a5233e510741bcac1c8d9b45dcbb5c2828fd1177258757630581c9899",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10075739"
+          ],
+          "uei": [
+            "XV3NP1RSMHM7"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-52cf91df11cb8641"
+        ]
+      }
+    },
+    {
+      "id": "candidate-biotherapeutics",
+      "name": "Biotherapeutics, Inc.",
+      "aliases": [
+        "BIOTHERAPEUTICS, INC."
+      ],
+      "normalizedName": "biotherapeutics",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10030530"
+        ],
+        "uei": [
+          "DKZNEQL174E3"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-f9ea65faddaa29a1"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11419642",
+          "externalId": "11419642",
+          "contextTitle": "A First-in-class Topical Immunoregulatory Therapeutic for Psoriasis"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-biotherapeutics",
+        "candidateInputHash": "00901c1632045d163fd5b0044d3357358444a2c2a30cc4cd7a8358cdbb8062b4",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10030530"
+          ],
+          "uei": [
+            "DKZNEQL174E3"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-f9ea65faddaa29a1"
+        ]
+      }
+    },
+    {
+      "id": "candidate-blood-cell-technologies",
+      "name": "Blood Cell Technologies, LLC",
+      "aliases": [
+        "BLOOD CELL TECHNOLOGIES, LLC"
+      ],
+      "normalizedName": "blood cell technologies",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10037989"
+        ],
+        "uei": [
+          "HH9LT9M9B3N4"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-8f98a764c0a4505b"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11457446",
+          "externalId": "11457446",
+          "contextTitle": "Development of Second Generation BLVRB Inhibitors for Treating Chemotherapy Induced Thrombocytopenia"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-blood-cell-technologies",
+        "candidateInputHash": "cde3648d723c8daabdd3797fecba0d5d10613644104938ca5f0e7dde99043a98",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10037989"
+          ],
+          "uei": [
+            "HH9LT9M9B3N4"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-8f98a764c0a4505b"
+        ]
+      }
+    },
+    {
+      "id": "candidate-bmseed",
+      "name": "Bmseed, LLC",
+      "aliases": [
+        "BMSEED, LLC"
+      ],
+      "normalizedName": "bmseed",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10033533"
+        ],
+        "uei": [
+          "NS86CTFW6J47"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
+          "Precision Diagnostics",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Cell Therapy",
+          "Organoids & Disease Models",
           "Precision Diagnostics",
           "drug discovery"
         ],
@@ -127502,22 +126980,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-07e128f24dd7cffc"
+        "mention-nih-48d5473d15a7b00e"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11401254",
-          "externalId": "11401254",
-          "contextTitle": "Hierarchical in vivo assembly for rapid and high-throughput construction of long DNA sequences"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11311188",
+          "externalId": "11311188",
+          "contextTitle": "The first adaptable 3D-formfitting microelectrode array for organoid-based models of neurological and neurodegenerative diseases"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-bacstitch-dna",
-        "candidateInputHash": "ccb7bb204c81757b321c1e62afd419846ba8d7bea9c7ae4cf2110a0b35f964b5",
+        "candidateId": "candidate-bmseed",
+        "candidateInputHash": "65a96e74bce1eb792b4ce1fb81a19aa6a0b2ddb71603d72256071d20eaa1bb62",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127533,54 +127011,238 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10070992"
+            "10033533"
           ],
           "uei": [
-            "K6ZEC3LCEKE1"
+            "NS86CTFW6J47"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-07e128f24dd7cffc"
+          "mention-nih-48d5473d15a7b00e"
         ]
       }
     },
     {
-      "id": "candidate-biagon",
-      "name": "Biagon, Inc.",
+      "id": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
       "aliases": [
-        "BIAGON, INC."
+        "BONESTRONG THERAPEUTICS INC."
       ],
-      "normalizedName": "biagon",
+      "normalizedName": "bonestrong therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-09",
-      "lastSeenAt": "2026-09-09",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10083239"
+          "10091062"
         ],
         "uei": [
-          "KC22MJKDF1R1"
+          "XUNHXKKMFJ63"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "cell therapy"
+        ],
+        "themes": [
+          "cell therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-a55280a8ca2dc9b0"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314326",
+          "externalId": "11314326",
+          "contextTitle": "Dual Acting Bone Defenders for Inhibiting Cancer Mediated Bone Destruction"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-bonestrong-therapeutics",
+        "candidateInputHash": "9742652469e4444b632c763f9b471d93192caa9887791ab1d3485f0dbcf38066",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10091062"
+          ],
+          "uei": [
+            "XUNHXKKMFJ63"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-a55280a8ca2dc9b0"
+        ]
+      }
+    },
+    {
+      "id": "candidate-cansera",
+      "name": "Cansera, Inc.",
+      "aliases": [
+        "CANSERA, INC."
+      ],
+      "normalizedName": "cansera",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10052673"
+        ],
+        "uei": [
+          "KS4JGG27K1M6"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "biotechnology",
+          "cell therapy"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "cell therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-b6125c41f41b7102"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409312",
+          "externalId": "11409312",
+          "contextTitle": "CellLogic: Deep Learning Identification and Characterization of Rare Events in Fluorescent Whole Slide Imaging"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cansera",
+        "candidateInputHash": "7f8862ceb099e9dd9b74e492e0d5c9707b2f98dd65194b4edc1d700f46192c81",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10052673"
+          ],
+          "uei": [
+            "KS4JGG27K1M6"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-b6125c41f41b7102"
+        ]
+      }
+    },
+    {
+      "id": "candidate-capienda-biotech",
+      "name": "Capienda Biotech, LLC",
+      "aliases": [
+        "CAPIENDA BIOTECH, LLC"
+      ],
+      "normalizedName": "capienda biotech",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10049147"
+        ],
+        "uei": [
+          "EGF7MDLBABC6"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
           "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "biotechnology",
           "drug discovery"
         ],
         "tags": []
@@ -127594,22 +127256,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-b690aacc56666714"
+        "mention-nih-0434172c478a75ac"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-09",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409876",
-          "externalId": "11409876",
-          "contextTitle": "Discovering Biased Antagonists of CXCR2 as Drug Leads for Acute Lung Injury"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11254697",
+          "externalId": "11254697",
+          "contextTitle": "High-throughput kinetic system for small-molecule drug discovery"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-biagon",
-        "candidateInputHash": "836f44ca6209d866e8a770ed01fae86e3a49dbecdcfb154cc05d28de298c65a3",
+        "candidateId": "candidate-capienda-biotech",
+        "candidateInputHash": "6a0e7b7b950ff11c39fc02b2fc118342e377386db58f77d5f92801ec2830b1ea",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127625,43 +127287,321 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10083239"
+            "10049147"
           ],
           "uei": [
-            "KC22MJKDF1R1"
+            "EGF7MDLBABC6"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-b690aacc56666714"
+          "mention-nih-0434172c478a75ac"
         ]
       }
     },
     {
-      "id": "candidate-blacksmith-medicines",
-      "name": "Blacksmith Medicines, Inc.",
+      "id": "candidate-cardiac-rsk3-inhibitors",
+      "name": "Cardiac Rsk3 Inhibitors, LLC",
       "aliases": [
-        "BLACKSMITH MEDICINES, INC."
+        "CARDIAC RSK3 INHIBITORS, LLC"
       ],
-      "normalizedName": "blacksmith medicines",
+      "normalizedName": "cardiac rsk3 inhibitors",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10034771"
+          "10039821"
         ],
         "uei": [
-          "ZCWKWSWHAJD6"
+          "D38ER7T7B8L8"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "themes": [
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-a53923acff861f39"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11292808",
+          "externalId": "11292808",
+          "contextTitle": "CRI-103 gene therapy as Investigational New Drug for Dilated Cardiomyopathy"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cardiac-rsk3-inhibitors",
+        "candidateInputHash": "e37dfc3d9b6201b57f3f8631db1b24f8bc60bf337b626c1b9be56c954b61a41b",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10039821"
+          ],
+          "uei": [
+            "D38ER7T7B8L8"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-a53923acff861f39"
+        ]
+      }
+    },
+    {
+      "id": "candidate-cell-preservation-services",
+      "name": "Cell Preservation Services, Inc.",
+      "aliases": [
+        "CELL PRESERVATION SERVICES, INC."
+      ],
+      "normalizedName": "cell preservation services",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-16",
+      "lastSeenAt": "2026-09-16",
+      "identifiers": {
+        "nihIpf": [
+          "10004118"
+        ],
+        "uei": [
+          "M2G2AJQ88SL5"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Cell Therapy",
+          "biotechnology"
+        ],
+        "themes": [
+          "Cell Therapy",
+          "biotechnology"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-f2c3a9843d0c2102"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-16",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11311406",
+          "externalId": "11311406",
+          "contextTitle": "Improving Human Hematopoietic Progenitor Cell Cryopreservation using Anti-aging, Nature-inspired and Stress Modulation Formulations"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cell-preservation-services",
+        "candidateInputHash": "76c8e83d96c88f9ebff88abc30cce0f7e70d876f5a5b999128b6658c5bedddc4",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10004118"
+          ],
+          "uei": [
+            "M2G2AJQ88SL5"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-f2c3a9843d0c2102"
+        ]
+      }
+    },
+    {
+      "id": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "aliases": [
+        "CELLFE INC."
+      ],
+      "normalizedName": "cellfe",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10048774"
+        ],
+        "uei": [
+          "M34JNT47EKK3"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Cell Therapy",
+          "Gene Editing / Gene Therapy",
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "themes": [
+          "Cell Therapy",
+          "Gene Editing / Gene Therapy",
+          "RNA Therapeutics",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-75a7e3a7f7963adc"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314137",
+          "externalId": "11314137",
+          "contextTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cellfe",
+        "candidateInputHash": "5b53384ba1101918d6d60ec9c4c4480025fe70d8c70a54b8b1e573befe81fcb7",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10048774"
+          ],
+          "uei": [
+            "M34JNT47EKK3"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-75a7e3a7f7963adc"
+        ]
+      }
+    },
+    {
+      "id": "candidate-cereus-diagnostics",
+      "name": "Cereus Diagnostics Corp.",
+      "aliases": [
+        "CEREUS DIAGNOSTICS CORP."
+      ],
+      "normalizedName": "cereus diagnostics",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10079453"
+        ],
+        "uei": [
+          "ZQYGNNNXSHS6"
         ]
       },
       "classificationHints": {
@@ -127686,22 +127626,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-c864d913273bda20"
+        "mention-nih-a64844dda9ef310f"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11410176",
-          "externalId": "11410176",
-          "contextTitle": "Combination of a novel selective FEN1 metallonuclease inhibitor with Olaparib for the treatment of PARP-resistant ovarian cancers"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11401239",
+          "externalId": "11401239",
+          "contextTitle": "Lung Cancer FAST (Fragment Analysis, SNP, and Translocations) Testing"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-blacksmith-medicines",
-        "candidateInputHash": "ba4bf814c312769fb8c64f210b568f11495a956cf3aeb30f7089ade1804b34b3",
+        "candidateId": "candidate-cereus-diagnostics",
+        "candidateInputHash": "b4dd0dec867fcd0c36c94cffc656b43c0d10ebed078da12e7d7b96fc0bfe7b85",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -127717,420 +127657,142 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10034771"
+            "10079453"
           ],
           "uei": [
-            "ZCWKWSWHAJD6"
+            "ZQYGNNNXSHS6"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-c864d913273bda20"
+          "mention-nih-a64844dda9ef310f"
         ]
       }
     },
     {
-      "id": "candidate-cfd-research",
-      "name": "Cfd Research Corporation",
+      "id": "candidate-cerovations",
+      "name": "Cerovations, LLC",
       "aliases": [
-        "CFD RESEARCH CORPORATION"
+        "CEROVATIONS, LLC"
       ],
-      "normalizedName": "cfd research",
+      "normalizedName": "cerovations",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
+      "firstSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-18",
       "identifiers": {
         "nihIpf": [
-          "2805101"
+          "10052828"
         ],
         "uei": [
-          "V3KCP1HNFM33"
+          "WB4JGBGKLCA1"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "cell therapy"
+        ],
+        "themes": [
+          "cell therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-6b485ae1a519b8ab"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-18",
+          "sourceUrl": "https://reporter.nih.gov/project-details/10646176",
+          "externalId": "10646176",
+          "contextTitle": "Pilot Clinical Study to Assess Safety and Efficacy of External Ventricular Drainage with Cerebrospinal Fluid Water Removal Osmotherapy for Traumatic Brain Injury-Induced Cerebral Edema"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cerovations",
+        "candidateInputHash": "1c823f04c7d8d46b32e0d0718899073f3415b0bac3a8fa303fcd69e34f698d49",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10052828"
+          ],
+          "uei": [
+            "WB4JGBGKLCA1"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-6b485ae1a519b8ab"
+        ]
+      }
+    },
+    {
+      "id": "candidate-constantiam-biosciences",
+      "name": "Constantiam Biosciences Inc.",
+      "aliases": [
+        "CONSTANTIAM BIOSCIENCES INC."
+      ],
+      "normalizedName": "constantiam biosciences",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10066504"
+        ],
+        "uei": [
+          "PJYLYX1ED6V4"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "themes": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-28b99f93009d4182"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11406698",
-          "externalId": "11406698",
-          "contextTitle": "FertiliChip: An Innovative Fallopian Tube-on-Chip Model for Women's Reproductive Health Research"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-cfd-research",
-        "candidateInputHash": "50f38d14a8cf6e33048bd8c0151432508be4861bb090500191cd422d73e101b5",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "2805101"
-          ],
-          "uei": [
-            "V3KCP1HNFM33"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-28b99f93009d4182"
-        ]
-      }
-    },
-    {
-      "id": "candidate-corami-biotech",
-      "name": "Corami Biotech Inc.",
-      "aliases": [
-        "CORAMI BIOTECH INC."
-      ],
-      "normalizedName": "corami biotech",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-09",
-      "lastSeenAt": "2026-09-09",
-      "identifiers": {
-        "nihIpf": [
-          "10088855"
-        ],
-        "uei": [
-          "V4UYGDK9NEB3"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Precision Diagnostics",
-          "biotechnology"
-        ],
-        "themes": [
-          "Precision Diagnostics",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-b84d8700366fc3bc"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-09",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11395638",
-          "externalId": "11395638",
-          "contextTitle": "Minimally Invasive Local Delivery of Cardiac Gene Therapy"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-corami-biotech",
-        "candidateInputHash": "9b7dfc3d591563359713eafcb4628a54d946ce430428432af477ee2aefeba9dc",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10088855"
-          ],
-          "uei": [
-            "V4UYGDK9NEB3"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-b84d8700366fc3bc"
-        ]
-      }
-    },
-    {
-      "id": "candidate-cryocrate",
-      "name": "Cryocrate, LLC",
-      "aliases": [
-        "CRYOCRATE, LLC"
-      ],
-      "normalizedName": "cryocrate",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10032735"
-        ],
-        "uei": [
-          "MXHXWLBMUZL7"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-3bc08e40f4bffe75"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11417248",
-          "externalId": "11417248",
-          "contextTitle": "Novel Biocompatible, High-Throughput Cryopreservation Medium and Method for Enhanced Post-Thaw Migration and Cytotoxicity of NK Cells"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-cryocrate",
-        "candidateInputHash": "53a85940d0f1f9e81e5392932bb05aa7525af2d9eee7b2211468594974e83704",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10032735"
-          ],
-          "uei": [
-            "MXHXWLBMUZL7"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-3bc08e40f4bffe75"
-        ]
-      }
-    },
-    {
-      "id": "candidate-dnali-data-technologies",
-      "name": "Dnali Data Technologies, Inc.",
-      "aliases": [
-        "DNALI DATA TECHNOLOGIES, INC."
-      ],
-      "normalizedName": "dnali data technologies",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
-      "identifiers": {
-        "nihIpf": [
-          "10067033"
-        ],
-        "uei": [
-          "D1GNGHBC83Q6"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Gene Editing / Gene Therapy",
-          "Precision Diagnostics",
-          "biotechnology"
-        ],
-        "themes": [
-          "Gene Editing / Gene Therapy",
-          "Precision Diagnostics",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-3047f5d58fce7800"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409237",
-          "externalId": "11409237",
-          "contextTitle": "Unbiased amplification of single stranded DNA oligos across versatile application spaces"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-dnali-data-technologies",
-        "candidateInputHash": "83607599fe7f528718e1fa5546f2985577f723d799cf79aeeaa960b4996595c7",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10067033"
-          ],
-          "uei": [
-            "D1GNGHBC83Q6"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-3047f5d58fce7800"
-        ]
-      }
-    },
-    {
-      "id": "candidate-ecogenome",
-      "name": "Ecogenome LLC",
-      "aliases": [
-        "ECOGENOME LLC"
-      ],
-      "normalizedName": "ecogenome",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10065639"
-        ],
-        "uei": [
-          "VLV8KECKA5Y9"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
           "molecular diagnostics"
         ],
         "themes": [
-          "Cell Therapy",
+          "AI Drug Discovery",
           "Precision Diagnostics",
-          "RNA Therapeutics",
           "molecular diagnostics"
         ],
         "tags": []
@@ -128144,22 +127806,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-c218930ceb85c17d"
+        "mention-nih-48e26f65a254524b"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11407343",
-          "externalId": "11407343",
-          "contextTitle": "Developing a DACH1 specific detection assay that predicts therapy response in advanced prostate cancer."
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11406172",
+          "externalId": "11406172",
+          "contextTitle": "Leveraging high-throughput functional data for assessment of Alzheimer's risk"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-ecogenome",
-        "candidateInputHash": "720c6264b43b809568f5167412007f5bb4bb94906e79ae0edac6cee2f8710733",
+        "candidateId": "candidate-constantiam-biosciences",
+        "candidateInputHash": "0633a0df9f024189f3d0ad7db271ec616a5f682ea6cbf2397119a86dfae16778",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128175,21 +127837,113 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10065639"
+            "10066504"
           ],
           "uei": [
-            "VLV8KECKA5Y9"
+            "PJYLYX1ED6V4"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-c218930ceb85c17d"
+          "mention-nih-48e26f65a254524b"
+        ]
+      }
+    },
+    {
+      "id": "candidate-cytoagents",
+      "name": "Cytoagents, Inc.",
+      "aliases": [
+        "CYTOAGENTS, INC."
+      ],
+      "normalizedName": "cytoagents",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10056107"
+        ],
+        "uei": [
+          "CCEZCKNKL9M4"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Cell Therapy",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "themes": [
+          "Cell Therapy",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-6ad8f32233ef2e57"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11418976",
+          "externalId": "11418976",
+          "contextTitle": "CTO1681 to prevent and mitigate cytokine release syndrome in multiple myeloma patients receiving CAR T-cell therapy"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-cytoagents",
+        "candidateInputHash": "d67a11cfa6c1196e156fce6dfd6946c848f72cf8c19151251f39979ee5747f01",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10056107"
+          ],
+          "uei": [
+            "CCEZCKNKL9M4"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-6ad8f32233ef2e57"
         ]
       }
     },
@@ -128205,7 +127959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-14",
       "identifiers": {
         "nihIpf": [
           "10008060"
@@ -128220,6 +127974,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Cell Therapy",
           "Precision Diagnostics",
           "RNA Therapeutics",
+          "biotechnology",
           "molecular diagnostics"
         ],
         "themes": [
@@ -128227,6 +127982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Cell Therapy",
           "Precision Diagnostics",
           "RNA Therapeutics",
+          "biotechnology",
           "molecular diagnostics"
         ],
         "tags": []
@@ -128238,11 +127994,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "NIH"
       ],
       "sourceCount": 1,
-      "mentionCount": 1,
+      "mentionCount": 2,
       "mentionIds": [
+        "mention-nih-08fc06bd957e7ef9",
         "mention-nih-926a591e25bd1e72"
       ],
       "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-14",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11414822",
+          "externalId": "11414822",
+          "contextTitle": "Enabling Protein Sequencing Through Friction-Mediated Nanopore Transport"
+        },
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
@@ -128255,7 +128021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-electronic-biosciences",
-        "candidateInputHash": "6bfced9fa8d10e709e44169c0c08fed0e361980d64135dfce3e6e4d0c52fa958",
+        "candidateInputHash": "5d0841e7b6264cb61c08202ad33f0b1a9c86b6befb0370d15fb56b3fe942f51d",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128271,7 +128037,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128285,39 +128051,42 @@ window.BHR_COMPANY_INTELLIGENCE = {
           ]
         },
         "evidenceMentionIds": [
+          "mention-nih-08fc06bd957e7ef9",
           "mention-nih-926a591e25bd1e72"
         ]
       }
     },
     {
-      "id": "candidate-embiosys",
-      "name": "Embiosys Inc.",
+      "id": "candidate-endios-bio",
+      "name": "Endios Bio, Inc.",
       "aliases": [
-        "EMBIOSYS INC."
+        "ENDIOS BIO, INC."
       ],
-      "normalizedName": "embiosys",
+      "normalizedName": "endios bio",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-18",
       "identifiers": {
         "nihIpf": [
-          "10071863"
+          "10090113"
         ],
         "uei": [
-          "Q9PEK2FTD4H6"
+          "EUA8B6E2TJF5"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Precision Diagnostics",
+          "Organoids & Disease Models",
+          "RNA Therapeutics",
           "cell therapy",
           "gene therapy"
         ],
         "themes": [
-          "Precision Diagnostics",
+          "Organoids & Disease Models",
+          "RNA Therapeutics",
           "cell therapy",
           "gene therapy"
         ],
@@ -128332,22 +128101,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-8a16e19c9fc73faf"
+        "mention-nih-ee4475bf9ba895f2"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11418087",
-          "externalId": "11418087",
-          "contextTitle": "CuRrEnT: Capecitabine in RCB2/3 with a wearable induced Electric field device in Triple Negative Breast Cancer"
+          "sourceDate": "2026-09-18",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408359",
+          "externalId": "11408359",
+          "contextTitle": "Development of antisense oligonucleotides against PEG10 in the fight against ALS-FTD"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-embiosys",
-        "candidateInputHash": "4b2a87cb985cc99bc7a13d63dfb66e26a065fc6efd2b04e183b11a302e576942",
+        "candidateId": "candidate-endios-bio",
+        "candidateInputHash": "df7afe1716b50c8ceee36ef43d23325c1a96ce7aabe46a99f67e3b30bde3966f",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128363,56 +128132,240 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10071863"
+            "10090113"
           ],
           "uei": [
-            "Q9PEK2FTD4H6"
+            "EUA8B6E2TJF5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-8a16e19c9fc73faf"
+          "mention-nih-ee4475bf9ba895f2"
         ]
       }
     },
     {
-      "id": "candidate-evrys-bio",
-      "name": "Evrys Bio, Inc.",
+      "id": "candidate-enfuego-therapeutics",
+      "name": "Enfuego Therapeutics Inc.",
       "aliases": [
-        "EVRYS BIO, INC."
+        "ENFUEGO THERAPEUTICS INC."
       ],
-      "normalizedName": "evrys bio",
+      "normalizedName": "enfuego therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-14",
+      "lastSeenAt": "2026-09-14",
       "identifiers": {
         "nihIpf": [
-          "10032382"
+          "10054616"
         ],
         "uei": [
-          "TM98GAF3Z6Q6"
+          "N4XYELPNM224"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "RNA Therapeutics",
+          "biotechnology"
+        ],
+        "themes": [
+          "RNA Therapeutics",
+          "biotechnology"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-3ddb9d8a6382e9ee"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-14",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11407293",
+          "externalId": "11407293",
+          "contextTitle": "Overcoming Adaptive KRAS Inhibitor Resistance with Ligand-Directed KRAS G12V-panTEAD Chimeras"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-enfuego-therapeutics",
+        "candidateInputHash": "e24231f2fe419ba69c44c4f553490f1325dcf7e543e139bfe665c32fa9a966cc",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10054616"
+          ],
+          "uei": [
+            "N4XYELPNM224"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-3ddb9d8a6382e9ee"
+        ]
+      }
+    },
+    {
+      "id": "candidate-foli-bio",
+      "name": "Foli Bio Inc.",
+      "aliases": [
+        "FOLI BIO INC."
+      ],
+      "normalizedName": "foli bio",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10080111"
+        ],
+        "uei": [
+          "MXWVDZNBK5L1"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "themes": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-eebf9a1be51e23b8"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314303",
+          "externalId": "11314303",
+          "contextTitle": "Development of fecal exfoliome sequencing as a multi-omics approach for gut health management"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-foli-bio",
+        "candidateInputHash": "416a64c815f443cafe891d68fddded7f0e2918249ee8d76d643ec91f2e8b8d7a",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10080111"
+          ],
+          "uei": [
+            "MXWVDZNBK5L1"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-eebf9a1be51e23b8"
+        ]
+      }
+    },
+    {
+      "id": "candidate-foragr-medicines",
+      "name": "Foragr Medicines, Inc",
+      "aliases": [
+        "FORAGR MEDICINES, INC"
+      ],
+      "normalizedName": "foragr medicines",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10083244"
+        ],
+        "uei": [
+          "CLEQGYM6VKY3"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "RNA Therapeutics",
           "cell therapy",
+          "drug discovery",
           "gene therapy"
         ],
         "themes": [
           "AI Drug Discovery",
           "Precision Diagnostics",
+          "RNA Therapeutics",
           "cell therapy",
+          "drug discovery",
           "gene therapy"
         ],
         "tags": []
@@ -128426,22 +128379,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-b6a7feaf8334fee2"
+        "mention-nih-adbfb9376e654468"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11364197",
-          "externalId": "11364197",
-          "contextTitle": "Development of a host-targeted antiviral as a chronic hepatitis B therapeutic with potential to achieve a functional cure"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11315143",
+          "externalId": "11315143",
+          "contextTitle": "Progression of RNA-targeted small molecules to treat Alzheimer's disease"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-evrys-bio",
-        "candidateInputHash": "10e62bfff04e1a1bdfb15a61938c5eb16b823a2185a328065da04f3d6bda146f",
+        "candidateId": "candidate-foragr-medicines",
+        "candidateInputHash": "141b6eef5581025452d087aafdbeab2fec8404634955c2db943efaad6dac4e56",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128457,53 +128410,59 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10032382"
+            "10083244"
           ],
           "uei": [
-            "TM98GAF3Z6Q6"
+            "CLEQGYM6VKY3"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-b6a7feaf8334fee2"
+          "mention-nih-adbfb9376e654468"
         ]
       }
     },
     {
-      "id": "candidate-fimbrion-therapeutics",
-      "name": "Fimbrion Therapeutics, Inc.",
+      "id": "candidate-function-therapeutics",
+      "name": "Function Therapeutics, Inc.",
       "aliases": [
-        "FIMBRION THERAPEUTICS, INC."
+        "FUNCTION THERAPEUTICS, INC."
       ],
-      "normalizedName": "fimbrion therapeutics",
+      "normalizedName": "function therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
+      "firstSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-18",
       "identifiers": {
         "nihIpf": [
-          "10032167"
+          "10069439"
         ],
         "uei": [
-          "N9RQX3G4EH54"
+          "DMN7SCPC2TR5"
         ]
       },
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
-          "drug discovery"
+          "Organoids & Disease Models",
+          "cell therapy",
+          "drug discovery",
+          "gene therapy"
         ],
         "themes": [
           "AI Drug Discovery",
-          "drug discovery"
+          "Organoids & Disease Models",
+          "cell therapy",
+          "drug discovery",
+          "gene therapy"
         ],
         "tags": []
       },
@@ -128516,22 +128475,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-8d36c1a2c2cb52e5"
+        "mention-nih-5300539180dfbc32"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11412466",
-          "externalId": "11412466",
-          "contextTitle": "Thiazolino-Pyridone Compounds as Novel Antimycobacterial Drugs for Tuberculosis"
+          "sourceDate": "2026-09-18",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11415152",
+          "externalId": "11415152",
+          "contextTitle": "Parmodulins without Abuse Potential for the Treatment of Neuropathic Pain"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-fimbrion-therapeutics",
-        "candidateInputHash": "3cf217cb5ea0da26665cff3399119602e4d1f718cb406d38aab9f1346ace2d8f",
+        "candidateId": "candidate-function-therapeutics",
+        "candidateInputHash": "bf3223c93ce7205675ac722496f0e2a85b8feb23597497bcf5634fbd2cd8b03a",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128547,113 +128506,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10032167"
+            "10069439"
           ],
           "uei": [
-            "N9RQX3G4EH54"
+            "DMN7SCPC2TR5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-8d36c1a2c2cb52e5"
-        ]
-      }
-    },
-    {
-      "id": "candidate-fzata",
-      "name": "Fzata, Inc.",
-      "aliases": [
-        "FZATA, INC."
-      ],
-      "normalizedName": "fzata",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
-      "identifiers": {
-        "nihIpf": [
-          "10040649"
-        ],
-        "uei": [
-          "SLGDVHJS1Y85"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Antibody / ADC",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "themes": [
-          "Antibody / ADC",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-b4392ce5176db7a8"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11312101",
-          "externalId": "11312101",
-          "contextTitle": "Development of a Dual-Action Oral Immunotherapy for Clostridioides difficile Prevention"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-fzata",
-        "candidateInputHash": "440b531191290d4847c3ed7c875889bfd4f5d4a555e3aacc8df461ff87f6c28a",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10040649"
-          ],
-          "uei": [
-            "SLGDVHJS1Y85"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-b4392ce5176db7a8"
+          "mention-nih-5300539180dfbc32"
         ]
       }
     },
@@ -128731,7 +128598,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128750,33 +128617,35 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-hydrogene-therapeutics",
-      "name": "Hydrogene Therapeutics Inc",
+      "id": "candidate-gentibio",
+      "name": "Gentibio, Inc.",
       "aliases": [
-        "HYDROGENE THERAPEUTICS INC"
+        "GENTIBIO, INC."
       ],
-      "normalizedName": "hydrogene therapeutics",
+      "normalizedName": "gentibio",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10073609"
+          "10089556"
         ],
         "uei": [
-          "RYZ8N8S6TNR5"
+          "HNHTFLZ9U5D4"
         ]
       },
       "classificationHints": {
         "directions": [
+          "Organoids & Disease Models",
           "Precision Diagnostics",
           "cell therapy",
           "gene therapy"
         ],
         "themes": [
+          "Organoids & Disease Models",
           "Precision Diagnostics",
           "cell therapy",
           "gene therapy"
@@ -128792,22 +128661,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-0a44ffe8797a0dbd"
+        "mention-nih-ace0de2081558f2c"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405804",
-          "externalId": "11405804",
-          "contextTitle": "Developing Hydrodynamic Injection through Biliary System for the Treatment of Wilson's Disease"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11394173",
+          "externalId": "11394173",
+          "contextTitle": "An allogeneic and gut specific Engineered T regulatory cell therapy for the treatment of Inflammatory Bowel Disease"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-hydrogene-therapeutics",
-        "candidateInputHash": "7a053e2f210b5c0e536b79459635ac20291fcb2c3bdd0007e26b8fbec63e50c5",
+        "candidateId": "candidate-gentibio",
+        "candidateInputHash": "96f96e7faec573008681338413f966a7c7c293656895d547b1e4532fbaa99c85",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128823,55 +128692,53 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10073609"
+            "10089556"
           ],
           "uei": [
-            "RYZ8N8S6TNR5"
+            "HNHTFLZ9U5D4"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-0a44ffe8797a0dbd"
+          "mention-nih-ace0de2081558f2c"
         ]
       }
     },
     {
-      "id": "candidate-ihealthscreen",
-      "name": "Ihealthscreen, Inc.",
+      "id": "candidate-haima-therapeutics",
+      "name": "Haima Therapeutics, LLC",
       "aliases": [
-        "IHEALTHSCREEN, INC."
+        "HAIMA THERAPEUTICS, LLC"
       ],
-      "normalizedName": "ihealthscreen",
+      "normalizedName": "haima therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10040082"
+          "10042766"
         ],
         "uei": [
-          "WPASL8LAZTJ4"
+          "JKZPL4NA9V21"
         ]
       },
       "classificationHints": {
         "directions": [
-          "AI Drug Discovery",
           "Precision Diagnostics",
-          "gene therapy"
+          "biotechnology"
         ],
         "themes": [
-          "AI Drug Discovery",
           "Precision Diagnostics",
-          "gene therapy"
+          "biotechnology"
         ],
         "tags": []
       },
@@ -128884,22 +128751,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-b23bdfab74103ba8"
+        "mention-nih-dc4064665596ef37"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11399767",
-          "externalId": "11399767",
-          "contextTitle": "A Model for Predicting 2-Year Risk of Incident Late Age-related Macular Degeneration"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11313383",
+          "externalId": "11313383",
+          "contextTitle": "Commercialization Strategy for an Intravenous Hemostatic Nanotechnology for Bleeding Management"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-ihealthscreen",
-        "candidateInputHash": "242081b06e046d0cd452b2bd0b7d659f0f211709dd10a06f6dfdc8476e7a295f",
+        "candidateId": "candidate-haima-therapeutics",
+        "candidateInputHash": "762729ec0ec5d26efd055eddfa271583b18471ca79cce62b267d5348a568e7a3",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -128915,21 +128782,113 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10040082"
+            "10042766"
           ],
           "uei": [
-            "WPASL8LAZTJ4"
+            "JKZPL4NA9V21"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-b23bdfab74103ba8"
+          "mention-nih-dc4064665596ef37"
+        ]
+      }
+    },
+    {
+      "id": "candidate-imagenomix",
+      "name": "Imagenomix Corp.",
+      "aliases": [
+        "IMAGENOMIX CORP."
+      ],
+      "normalizedName": "imagenomix",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10090797"
+        ],
+        "uei": [
+          "WB3ZA2P5QNF3"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "molecular diagnostics"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "molecular diagnostics"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-941eda8d249e349e"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11312149",
+          "externalId": "11312149",
+          "contextTitle": "Analytical Variables and Clinical Utility of AKT1 Mutation Prediction in Breast Cancer Using Deep Learning on Histopathology Images"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-imagenomix",
+        "candidateInputHash": "4a1b2d7b26ac9d4ed4f9c874d687079e8807c1034ca0c5015c9ab2b9c7025d79",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10090797"
+          ],
+          "uei": [
+            "WB3ZA2P5QNF3"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-941eda8d249e349e"
         ]
       }
     },
@@ -129007,7 +128966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129051,14 +129010,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "AI Drug Discovery",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "cell therapy",
           "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "cell therapy",
           "drug discovery"
         ],
         "tags": []
@@ -129087,7 +129044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-inlighta-biosciences",
-        "candidateInputHash": "c285d03e8be0ad8ae9f169d8d74a6b0938f660edb7353edb9cd0fd28277c35d9",
+        "candidateInputHash": "e650f36441abc5a294bf41ad7fcc51fff50bb94dc1112b0d405a6b0b6b8a06bb",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -129103,7 +129060,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129122,675 +129079,37 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-innotech-precision-medicine",
-      "name": "Innotech Precision Medicine, Inc",
+      "id": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
       "aliases": [
-        "INNOTECH PRECISION MEDICINE, INC"
+        "KURE CELLS INC"
       ],
-      "normalizedName": "innotech precision medicine",
+      "normalizedName": "kure cells",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10061518"
+          "10065823"
         ],
         "uei": [
-          "E4LRXHW2EKS5"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "themes": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-5381a8c8904f9d4f"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11350268",
-          "externalId": "11350268",
-          "contextTitle": "Integrated Multiomics Diagnostics at the Point of Care for Healthy Living"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-innotech-precision-medicine",
-        "candidateInputHash": "a3b89db451af2edf489bbc83db1476f5df56fd0a4d2724b1ef8e9666e6e7227f",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10061518"
-          ],
-          "uei": [
-            "E4LRXHW2EKS5"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-5381a8c8904f9d4f"
-        ]
-      }
-    },
-    {
-      "id": "candidate-integral-molecular",
-      "name": "Integral Molecular",
-      "aliases": [
-        "INTEGRAL MOLECULAR"
-      ],
-      "normalizedName": "integral molecular",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.76,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-08",
-      "lastSeenAt": "2026-09-08",
-      "identifiers": {
-        "nihIpf": [
-          "4419201"
-        ],
-        "uei": [
-          "DY9KSWE8EJB8"
+          "JCZPXLMQQ2D1"
         ]
       },
       "classificationHints": {
         "directions": [
           "Cell Therapy",
           "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-0e268ec7e7905075"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-08",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11397464",
-          "externalId": "11397464",
-          "contextTitle": "Specificity Screening Drug Development Tool for Biotherapeutic Safety"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-integral-molecular",
-        "candidateInputHash": "8b793f9cf0dd1ff9e3b22201c1a08f75c9b8ef4a652a3987396eff2dde86b1f6",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "4419201"
-          ],
-          "uei": [
-            "DY9KSWE8EJB8"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-0e268ec7e7905075"
-        ]
-      }
-    },
-    {
-      "id": "candidate-iveena-delivery-systems",
-      "name": "Iveena Delivery Systems, Inc.",
-      "aliases": [
-        "IVEENA DELIVERY SYSTEMS, INC."
-      ],
-      "normalizedName": "iveena delivery systems",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
-      "identifiers": {
-        "nihIpf": [
-          "10019752"
-        ],
-        "uei": [
-          "EQ3KNDP93M27"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "themes": [
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-cdbef6f0947f45cb"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11402067",
-          "externalId": "11402067",
-          "contextTitle": "Topical Eyedrops Increasing Lysyl Oxidase and Dopamine Activity to Control Myopia"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-iveena-delivery-systems",
-        "candidateInputHash": "b646ba2c6bf1b503023fb79da3caef44cec80095d1bffc014fb0ed75707e9596",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10019752"
-          ],
-          "uei": [
-            "EQ3KNDP93M27"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-cdbef6f0947f45cb"
-        ]
-      }
-    },
-    {
-      "id": "candidate-kephera-diagnostics",
-      "name": "Kephera Diagnostics, LLC",
-      "aliases": [
-        "KEPHERA DIAGNOSTICS, LLC"
-      ],
-      "normalizedName": "kephera diagnostics",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10044686"
-        ],
-        "uei": [
-          "LJFNSE6NM648"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "themes": [
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "molecular diagnostics"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-957e59fc7e5be947"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11417199",
-          "externalId": "11417199",
-          "contextTitle": "Peptide-based ELISA for laboratory diagnosis of sarcoidosis"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-kephera-diagnostics",
-        "candidateInputHash": "1df9d63c35e57cfc8ee9c6e5c293404bd97dbc4f035ad00cad0d81535c26d1f3",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10044686"
-          ],
-          "uei": [
-            "LJFNSE6NM648"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-957e59fc7e5be947"
-        ]
-      }
-    },
-    {
-      "id": "candidate-keylicon-biosciences",
-      "name": "Keylicon Biosciences Inc",
-      "aliases": [
-        "KEYLICON BIOSCIENCES INC"
-      ],
-      "normalizedName": "keylicon biosciences",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-07",
-      "lastSeenAt": "2026-09-07",
-      "identifiers": {
-        "nihIpf": [
-          "10083524"
-        ],
-        "uei": [
-          "UXSKUT48A7W3"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "themes": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-2306e1b56b842410"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-07",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11406435",
-          "externalId": "11406435",
-          "contextTitle": "Improving the Stability of saRNA LNP Formulations To Overcome Cold Chain Challenges"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-keylicon-biosciences",
-        "candidateInputHash": "f9090c0adb1299e17b7e75518d1783312848cface55e0d40daa5f3f579526eb6",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10083524"
-          ],
-          "uei": [
-            "UXSKUT48A7W3"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-2306e1b56b842410"
-        ]
-      }
-    },
-    {
-      "id": "candidate-koi-biotherapeutics",
-      "name": "Koi Biotherapeutics Inc.",
-      "aliases": [
-        "KOI BIOTHERAPEUTICS INC."
-      ],
-      "normalizedName": "koi biotherapeutics",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
-      "identifiers": {
-        "nihIpf": [
-          "10080445"
-        ],
-        "uei": [
-          "QCVXY1DEA743"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-0a4ccacc422002a6"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11391052",
-          "externalId": "11391052",
-          "contextTitle": "Revolutionizing CAR T-cell Therapy: Enhancing Activity and Persistence of CAR T-cell by Developing a CAR-Enhancer Platform"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-koi-biotherapeutics",
-        "candidateInputHash": "2b6a1ba3d0c9192b0713d5465d917cb4819219a97ef64b9458d1a080a12b19f7",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10080445"
-          ],
-          "uei": [
-            "QCVXY1DEA743"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-0a4ccacc422002a6"
-        ]
-      }
-    },
-    {
-      "id": "candidate-kubanda-cryotherapy",
-      "name": "Kubanda Cryotherapy, Inc.",
-      "aliases": [
-        "KUBANDA CRYOTHERAPY, INC."
-      ],
-      "normalizedName": "kubanda cryotherapy",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-02",
-      "lastSeenAt": "2026-09-02",
-      "identifiers": {
-        "nihIpf": [
-          "10053389"
-        ],
-        "uei": [
-          "VKVEU52JTWK6"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "themes": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-8e1e0ae8a4e93cba"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-02",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405001",
-          "externalId": "11405001",
-          "contextTitle": "Low Cost Carbon Dioxide-Based Cryoablation for Breast Cancer Treatment in Low Resource Settings"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-kubanda-cryotherapy",
-        "candidateInputHash": "a8a205e1727402c3c6a5febb3f1e00d5da37503c1909f366bea44fd9c77e87dd",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10053389"
-          ],
-          "uei": [
-            "VKVEU52JTWK6"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-8e1e0ae8a4e93cba"
-        ]
-      }
-    },
-    {
-      "id": "candidate-luminary-therapeutics",
-      "name": "Luminary Therapeutics, Inc.",
-      "aliases": [
-        "LUMINARY THERAPEUTICS, INC."
-      ],
-      "normalizedName": "luminary therapeutics",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
-      "identifiers": {
-        "nihIpf": [
-          "10056556"
-        ],
-        "uei": [
-          "MNKBAEZHWJS1"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "RNA Therapeutics",
-          "biotechnology",
+          "cell therapy",
           "gene therapy"
         ],
         "themes": [
           "Cell Therapy",
-          "RNA Therapeutics",
-          "biotechnology",
+          "Precision Diagnostics",
+          "cell therapy",
           "gene therapy"
         ],
         "tags": []
@@ -129804,22 +129123,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-b93896a277d043ba"
+        "mention-nih-dbe5f193727591f6"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11421504",
-          "externalId": "11421504",
-          "contextTitle": "Allogeneic BAFF Ligand Based CAR T Cells as a Novel Therapy for B Cell Malignancies"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11416294",
+          "externalId": "11416294",
+          "contextTitle": "Ultra-fast manufactured CAR-T therapy"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-luminary-therapeutics",
-        "candidateInputHash": "7a3201fb0f1434678d5e3623291b9e4c6f68a68b1d3d4d6255d0e6871de5f7ff",
+        "candidateId": "candidate-kure-cells",
+        "candidateInputHash": "de6a8e5eb5fdb93281c9f8ee4e678c3346dd0482836ce865e28817c9ee8bd22f",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -129835,21 +129154,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10056556"
+            "10065823"
           ],
           "uei": [
-            "MNKBAEZHWJS1"
+            "JCZPXLMQQ2D1"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-b93896a277d043ba"
+          "mention-nih-dbe5f193727591f6"
         ]
       }
     },
@@ -129865,7 +129184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
       "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
           "10066360"
@@ -129876,13 +129195,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "classificationHints": {
         "directions": [
-          "Antibody / ADC",
-          "cell therapy",
+          "Cell Therapy",
           "gene therapy"
         ],
         "themes": [
-          "Antibody / ADC",
-          "cell therapy",
+          "Cell Therapy",
           "gene therapy"
         ],
         "tags": []
@@ -129896,22 +129213,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-811e8c8dc2826db1"
+        "mention-nih-24976857f7b26310"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405623",
-          "externalId": "11405623",
-          "contextTitle": "Affinity-tunable Antibody Drug Conjugate (ADC) against High-Grade Serous Ovarian Cancer"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11313251",
+          "externalId": "11313251",
+          "contextTitle": "Remote-Controlled PC-CAR T-Cell Therapy for Hard-to-Treat Solid Tumors"
         }
       ],
       "intakeReview": {
         "candidateId": "candidate-mabswitch",
-        "candidateInputHash": "6143b4f099a73b0603d97abfbd081e0bb0b534a2e7ee80275669e3201de5fc11",
+        "candidateInputHash": "bef2c776a5c70550f18835f70db1a150372658439faaeb890f165aa20cac2ddc",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -129927,7 +129244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129941,44 +129258,38 @@ window.BHR_COMPANY_INTELLIGENCE = {
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-811e8c8dc2826db1"
+          "mention-nih-24976857f7b26310"
         ]
       }
     },
     {
-      "id": "candidate-merlin-biotech",
-      "name": "Merlin Biotech Inc",
+      "id": "candidate-maia-biotechnology",
+      "name": "Maia Biotechnology, Inc.",
       "aliases": [
-        "MERLIN BIOTECH INC"
+        "MAIA BIOTECHNOLOGY, INC."
       ],
-      "normalizedName": "merlin biotech",
+      "normalizedName": "maia biotechnology",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10074897"
+          "10090226"
         ],
         "uei": [
-          "U33SZN8R3966"
+          "NPLUZJSWA853"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
-          "Gene Editing / Gene Therapy",
-          "RNA Therapeutics",
-          "cell therapy",
+          "biotechnology",
           "gene therapy"
         ],
         "themes": [
-          "Cell Therapy",
-          "Gene Editing / Gene Therapy",
-          "RNA Therapeutics",
-          "cell therapy",
+          "biotechnology",
           "gene therapy"
         ],
         "tags": []
@@ -129992,22 +129303,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-88e405fbfe562681"
+        "mention-nih-b85db6d7a1331d25"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11253906",
-          "externalId": "11253906",
-          "contextTitle": "Investigating Enhanced Activity of MER-101 in HPV+ Head and Neck Cancer"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11411298",
+          "externalId": "11411298",
+          "contextTitle": "Novel Telomere-Targeting Therapy for Advanced Non-Small Cell Lung Cancer"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-merlin-biotech",
-        "candidateInputHash": "ad4a857536b77dda3fc8b5a1b2d7935f113c0c69615954e8fbac97d6b99da0c6",
+        "candidateId": "candidate-maia-biotechnology",
+        "candidateInputHash": "c189f4421097d16872dca9fbdc0c10bfc66e431c575990db36ceaaa573497f08",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130023,144 +129334,50 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10074897"
+            "10090226"
           ],
           "uei": [
-            "U33SZN8R3966"
+            "NPLUZJSWA853"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-88e405fbfe562681"
+          "mention-nih-b85db6d7a1331d25"
         ]
       }
     },
     {
-      "id": "candidate-molecular-intelligence",
-      "name": "Molecular Intelligence LLC",
+      "id": "candidate-myosin-therapeutics",
+      "name": "Myosin Therapeutics Inc.",
       "aliases": [
-        "MOLECULAR INTELLIGENCE LLC"
+        "MYOSIN THERAPEUTICS INC."
       ],
-      "normalizedName": "molecular intelligence",
+      "normalizedName": "myosin therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-08",
-      "lastSeenAt": "2026-09-08",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10088455"
+          "10064818"
         ],
         "uei": [
-          "MQTZJB8QMKR7"
+          "MLH1HUK133H3"
         ]
       },
       "classificationHints": {
         "directions": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "themes": [
-          "AI Drug Discovery",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-cef30b3bd8968ab5"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-08",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11382186",
-          "externalId": "11382186",
-          "contextTitle": "Modeling Receptor-ligand interactions for Drug Discoveryfrom Cryo-EM data using AI"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-molecular-intelligence",
-        "candidateInputHash": "806f71c2ea69e43197cc078010568afff9725991e6b7a0af93924bc85cf574cb",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10088455"
-          ],
-          "uei": [
-            "MQTZJB8QMKR7"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-cef30b3bd8968ab5"
-        ]
-      }
-    },
-    {
-      "id": "candidate-montani-biotechnologies",
-      "name": "Montani Biotechnologies, Inc",
-      "aliases": [
-        "MONTANI BIOTECHNOLOGIES, INC"
-      ],
-      "normalizedName": "montani biotechnologies",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-09",
-      "lastSeenAt": "2026-09-09",
-      "identifiers": {
-        "nihIpf": [
-          "10090763"
-        ],
-        "uei": [
-          "ZD8TZNSU7HD8"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "RNA Therapeutics",
           "biotechnology"
         ],
         "themes": [
-          "RNA Therapeutics",
           "biotechnology"
         ],
         "tags": []
@@ -130174,22 +129391,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-1f17361f7b95426d"
+        "mention-nih-3f6e74d79391dc9b"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-09",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315302",
-          "externalId": "11315302",
-          "contextTitle": "Optimization of mRNA genetic adjuvant for immunotherapy"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11387631",
+          "externalId": "11387631",
+          "contextTitle": "Phase 0/I dose escalation trial of MT-125 monotherapy in recurrent high-grade gliomas"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-montani-biotechnologies",
-        "candidateInputHash": "42ccf9abcb415d06184a1ad6f915ac00b29775304cba1ff2daca28f97589bd03",
+        "candidateId": "candidate-myosin-therapeutics",
+        "candidateInputHash": "ec8d5996c2d42c0d9d911a7b36f81a7c21e54da20bcf926822adea12cc1306af",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130205,55 +129422,57 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10090763"
+            "10064818"
           ],
           "uei": [
-            "ZD8TZNSU7HD8"
+            "MLH1HUK133H3"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-1f17361f7b95426d"
+          "mention-nih-3f6e74d79391dc9b"
         ]
       }
     },
     {
-      "id": "candidate-mucommune",
-      "name": "Mucommune, LLC",
+      "id": "candidate-numentus-technologies",
+      "name": "Numentus Technologies Inc.",
       "aliases": [
-        "MUCOMMUNE, LLC"
+        "NUMENTUS TECHNOLOGIES INC."
       ],
-      "normalizedName": "mucommune",
+      "normalizedName": "numentus technologies",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10038635"
+          "10063089"
         ],
         "uei": [
-          "NWVPL2L4JMN8"
+          "HGYJGDEE8CM6"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
+          "Precision Diagnostics",
           "cell therapy",
-          "gene therapy"
+          "gene therapy",
+          "molecular diagnostics"
         ],
         "themes": [
-          "Cell Therapy",
+          "Precision Diagnostics",
           "cell therapy",
-          "gene therapy"
+          "gene therapy",
+          "molecular diagnostics"
         ],
         "tags": []
       },
@@ -130266,22 +129485,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-124ab04413fab80b"
+        "mention-nih-5a65273f2f931132"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316654",
-          "externalId": "11316654",
-          "contextTitle": "SBIR: In vivo engineering of dual CD19/CD138 CAR-T cells for treatment of Systemic Lupus Erythematosus"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409249",
+          "externalId": "11409249",
+          "contextTitle": "Highly Multiplexed Extracellular Vesicle Analysis for Alzheimer's Disease"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-mucommune",
-        "candidateInputHash": "0ed04505f73918e6079d1c8594c6a755815a5342fdcb0a1773f0a572e031ed00",
+        "candidateId": "candidate-numentus-technologies",
+        "candidateInputHash": "6374bc97975eb24fa2fe1defbc07a28f0b364c232c76aa18cf784c9b8323709b",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130297,21 +129516,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10038635"
+            "10063089"
           ],
           "uei": [
-            "NWVPL2L4JMN8"
+            "HGYJGDEE8CM6"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-124ab04413fab80b"
+          "mention-nih-5a65273f2f931132"
         ]
       }
     },
@@ -130385,7 +129604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130404,34 +129623,36 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-onvagus",
-      "name": "Onvagus, Inc.",
+      "id": "candidate-opus-genetics",
+      "name": "Opus Genetics Inc.",
       "aliases": [
-        "ONVAGUS, INC."
+        "OPUS GENETICS INC."
       ],
-      "normalizedName": "onvagus",
+      "normalizedName": "opus genetics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10077443"
+          "10076450"
         ],
         "uei": [
-          "TAM1RGZDPEK4"
+          "YD2GB4S983V9"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Precision Diagnostics",
-          "cell therapy"
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
         ],
         "themes": [
-          "Precision Diagnostics",
-          "cell therapy"
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
         ],
         "tags": []
       },
@@ -130444,22 +129665,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-c780703545dc08da"
+        "mention-nih-9f90b0494cc4ba09"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11313729",
-          "externalId": "11313729",
-          "contextTitle": "Neuromodulation of the Gut-Brain Axis to Treat Cancer-Associated Cachexia"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409872",
+          "externalId": "11409872",
+          "contextTitle": "Development of OPGx-NMNAT1 as a gene therapy for NMNAT1 associated LCA."
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-onvagus",
-        "candidateInputHash": "adb585e5d82c56e3fe38bfb78bc1d986b07b4bc1b65d1bd9c7230884bed7ee73",
+        "candidateId": "candidate-opus-genetics",
+        "candidateInputHash": "269a8ea60b3594815b59c5d0599e308fe86f5bbda23b7d8edce1c9c96e82a8e7",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130475,205 +129696,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10077443"
+            "10076450"
           ],
           "uei": [
-            "TAM1RGZDPEK4"
+            "YD2GB4S983V9"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-c780703545dc08da"
-        ]
-      }
-    },
-    {
-      "id": "candidate-oralbiolife",
-      "name": "Oralbiolife Inc",
-      "aliases": [
-        "ORALBIOLIFE INC"
-      ],
-      "normalizedName": "oralbiolife",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-09",
-      "lastSeenAt": "2026-09-09",
-      "identifiers": {
-        "nihIpf": [
-          "10074117"
-        ],
-        "uei": [
-          "TAFMBDJPRX49"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "AI Drug Discovery",
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "themes": [
-          "AI Drug Discovery",
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-076c5477320ae4de"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-09",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11312068",
-          "externalId": "11312068",
-          "contextTitle": "Bone and soft tissue responses to a hydrogel with piezoelectric potential in conservative non-surgical peri-implantitis treatment"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-oralbiolife",
-        "candidateInputHash": "9a55dcda5f4815190fa672b22904b08e960916cca40bf057b06c39c6f5eb7064",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10074117"
-          ],
-          "uei": [
-            "TAFMBDJPRX49"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-076c5477320ae4de"
-        ]
-      }
-    },
-    {
-      "id": "candidate-orlucent",
-      "name": "Orlucent, Inc.",
-      "aliases": [
-        "ORLUCENT, INC."
-      ],
-      "normalizedName": "orlucent",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-03",
-      "lastSeenAt": "2026-09-03",
-      "identifiers": {
-        "nihIpf": [
-          "10022461"
-        ],
-        "uei": [
-          "T3BTHTDCKLM1"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "themes": [
-          "Precision Diagnostics",
-          "molecular diagnostics"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-7989b703d97b161d"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-03",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11410547",
-          "externalId": "11410547",
-          "contextTitle": "Development of Manufacturing Controls for ORL1: A Fluorescent Imaging Agent for In Vivo Molecular Imaging of Melanomas"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-orlucent",
-        "candidateInputHash": "3fc69a0db2e199572c618558aa05ba9273968c0227183d6d7f0867504d663fea",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10022461"
-          ],
-          "uei": [
-            "T3BTHTDCKLM1"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-7989b703d97b161d"
+          "mention-nih-9f90b0494cc4ba09"
         ]
       }
     },
@@ -130702,14 +129739,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "directions": [
           "AI Drug Discovery",
           "Cell Therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
           "Cell Therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "tags": []
       },
@@ -130737,7 +129772,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-paulex-bio",
-        "candidateInputHash": "97e97a0d5f8b7793a82f9067079ef167d70ef99b75d4ee77cf0dfc6cea40f591",
+        "candidateInputHash": "16fe200b549caa686c72ba33761cf0c406267138c811aa6534621399248bb601",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130753,7 +129788,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130772,32 +129807,38 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-pavaj-vascular",
-      "name": "Pavaj Vascular Corporation",
+      "id": "candidate-proteovista",
+      "name": "Proteovista, LLC",
       "aliases": [
-        "PAVAJ VASCULAR CORPORATION"
+        "PROTEOVISTA, LLC"
       ],
-      "normalizedName": "pavaj vascular",
+      "normalizedName": "proteovista",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-02",
-      "lastSeenAt": "2026-09-02",
+      "firstSeenAt": "2026-09-16",
+      "lastSeenAt": "2026-09-16",
       "identifiers": {
         "nihIpf": [
-          "10070816"
+          "10026976"
         ],
         "uei": [
-          "UAQRBA244HM7"
+          "GYNUUKETC8F4"
         ]
       },
       "classificationHints": {
         "directions": [
-          "biotechnology"
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "drug discovery"
         ],
         "themes": [
-          "biotechnology"
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "drug discovery"
         ],
         "tags": []
       },
@@ -130810,22 +129851,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-699fbd0049a4faf0"
+        "mention-nih-f34bf81bc83a8550"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-02",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405688",
-          "externalId": "11405688",
-          "contextTitle": "Role of nanoparticle mediated drug delivery in preventing arteriovenous fistula stenosis"
+          "sourceDate": "2026-09-16",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409383",
+          "externalId": "11409383",
+          "contextTitle": "Development of the High-Density SNAP-Dimer Microarray for Functional Analysis of Dimeric Protein Complexes"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-pavaj-vascular",
-        "candidateInputHash": "d48be34d5426d56a394a1231c435a23454e9464e9db0dad09508e9fe56924056",
+        "candidateId": "candidate-proteovista",
+        "candidateInputHash": "2efa2b64e048bafc9e35defca87f64a26daa5c3546f8466e047e12c02abb264c",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -130841,109 +129882,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10070816"
+            "10026976"
           ],
           "uei": [
-            "UAQRBA244HM7"
+            "GYNUUKETC8F4"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-699fbd0049a4faf0"
-        ]
-      }
-    },
-    {
-      "id": "candidate-proda-biotech",
-      "name": "Proda Biotech, LLC",
-      "aliases": [
-        "PRODA BIOTECH, LLC"
-      ],
-      "normalizedName": "proda biotech",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10031466"
-        ],
-        "uei": [
-          "KMRLL3EPWVK5"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "biotechnology"
-        ],
-        "themes": [
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-f62a7d7a1e816834"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409793",
-          "externalId": "11409793",
-          "contextTitle": "Development of a new combination therapy for pancreatic ductal adenocarcinoma treatment"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-proda-biotech",
-        "candidateInputHash": "f5ddf5d359eb8b08240dad9760a322ca6f75c1454a4359d502edfc6987b75917",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10031466"
-          ],
-          "uei": [
-            "KMRLL3EPWVK5"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-f62a7d7a1e816834"
+          "mention-nih-f34bf81bc83a8550"
         ]
       }
     },
@@ -130971,13 +129924,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "tags": []
       },
@@ -131005,7 +129956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-rallidae-therapeutics",
-        "candidateInputHash": "e63b070edaa443f8896917e03c6b887f4597d243580eb2c249d52f34aaa1965d",
+        "candidateInputHash": "0f935ccaec1ca6ca51711667e5597c7f97fdcc364287473e6053c2c35fbb442a",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131021,7 +129972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131040,24 +129991,204 @@ window.BHR_COMPANY_INTELLIGENCE = {
       }
     },
     {
-      "id": "candidate-repeat-rna-therapeutics",
-      "name": "Repeat Rna Therapeutics Inc",
+      "id": "candidate-respirerx-pharmaceuticals",
+      "name": "Respirerx Pharmaceuticals Inc.",
       "aliases": [
-        "REPEAT RNA THERAPEUTICS INC"
+        "RESPIRERX PHARMACEUTICALS INC."
       ],
-      "normalizedName": "repeat rna therapeutics",
+      "normalizedName": "respirerx pharmaceuticals",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-14",
+      "lastSeenAt": "2026-09-14",
       "identifiers": {
         "nihIpf": [
-          "10087457"
+          "10084154"
         ],
         "uei": [
-          "GVFHSMPEMSK8"
+          "HWS8C3MQDTH7"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-2a55e1af6aefe1ea"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-14",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11420545",
+          "externalId": "11420545",
+          "contextTitle": "Development of a novel, preferring potentiator of GABAA receptor for treatment of epilepsy"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-respirerx-pharmaceuticals",
+        "candidateInputHash": "ff27c5e168336d2c4231ba79b2aa5c06f2277dc9419549acb78cbfd4274b0563",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10084154"
+          ],
+          "uei": [
+            "HWS8C3MQDTH7"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-2a55e1af6aefe1ea"
+        ]
+      }
+    },
+    {
+      "id": "candidate-rock-immune",
+      "name": "Rock Immune, Inc.",
+      "aliases": [
+        "ROCK IMMUNE, INC."
+      ],
+      "normalizedName": "rock immune",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10080599"
+        ],
+        "uei": [
+          "M35ZNF9XP8Q7"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "biotechnology",
+          "gene therapy"
+        ],
+        "themes": [
+          "biotechnology",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-f91611e7281e28ef"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11310680",
+          "externalId": "11310680",
+          "contextTitle": "Bivalent CD47 Immunotoxin for Targeted Therapy of T-Cell Acute Lymphoblastic Leukemia"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-rock-immune",
+        "candidateInputHash": "6a8137f29adbd7dd673585ec3293dcfdf54a85405085b4910a933b3e6590f663",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10080599"
+          ],
+          "uei": [
+            "M35ZNF9XP8Q7"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-f91611e7281e28ef"
+        ]
+      }
+    },
+    {
+      "id": "candidate-sanaria",
+      "name": "Sanaria, Inc.",
+      "aliases": [
+        "SANARIA, INC."
+      ],
+      "normalizedName": "sanaria",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-18",
+      "identifiers": {
+        "nihIpf": [
+          "10000312"
+        ],
+        "uei": [
+          "YLF2SS2NYGC5"
         ]
       },
       "classificationHints": {
@@ -131082,22 +130213,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-123e962b46c5292c"
+        "mention-nih-228a20273d154275"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315150",
-          "externalId": "11315150",
-          "contextTitle": "Development of novel small molecules to treat myotonic dystrophy"
+          "sourceDate": "2026-09-18",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11255658",
+          "externalId": "11255658",
+          "contextTitle": "New cryovials with integral septum for cryopreservation of PfSPZ vaccine and PfSPZ challenge products."
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-repeat-rna-therapeutics",
-        "candidateInputHash": "9b22d5965bb449ab661bcf778b585475c76d3dcaa54a07fe6db30d90237875ce",
+        "candidateId": "candidate-sanaria",
+        "candidateInputHash": "1ff0a82b6e34752b4c6fbf8c90def6cd9f679d224a86de65839adb4001c30d39",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131113,59 +130244,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10087457"
+            "10000312"
           ],
           "uei": [
-            "GVFHSMPEMSK8"
+            "YLF2SS2NYGC5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-123e962b46c5292c"
+          "mention-nih-228a20273d154275"
         ]
       }
     },
     {
-      "id": "candidate-romix-biosciences",
-      "name": "Romix Biosciences Inc.",
+      "id": "candidate-serinus-biosciences",
+      "name": "Serinus Biosciences Inc",
       "aliases": [
-        "ROMIX BIOSCIENCES INC."
+        "SERINUS BIOSCIENCES INC"
       ],
-      "normalizedName": "romix biosciences",
+      "normalizedName": "serinus biosciences",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10089568"
+          "10076020"
         ],
         "uei": [
-          "HLDTKXGK5SF6"
+          "GXN5LB1QD3R3"
         ]
       },
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
+          "AI Drug Discovery",
           "Precision Diagnostics",
-          "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
+          "drug discovery"
         ],
         "themes": [
-          "Cell Therapy",
+          "AI Drug Discovery",
           "Precision Diagnostics",
-          "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
+          "drug discovery"
         ],
         "tags": []
       },
@@ -131178,22 +130305,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-a11af30e530b603d"
+        "mention-nih-4d5fdf4582511951"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11309523",
-          "externalId": "11309523",
-          "contextTitle": "A New Method to Comprehensively Profile Cell-Free RNA"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11405775",
+          "externalId": "11405775",
+          "contextTitle": "A massively parallel cell-based platform for the rational discovery of molecular glues"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-romix-biosciences",
-        "candidateInputHash": "6cf0a5e53597df4089626dd059fd410e05aeb0afca6bf8c975262636bc150534",
+        "candidateId": "candidate-serinus-biosciences",
+        "candidateInputHash": "03ed238f9720cff2f038944626b8ce4abf2dcda24f4b00ebe9d47d8fe9692c5d",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131209,199 +130336,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10089568"
+            "10076020"
           ],
           "uei": [
-            "HLDTKXGK5SF6"
+            "GXN5LB1QD3R3"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-a11af30e530b603d"
-        ]
-      }
-    },
-    {
-      "id": "candidate-scarab-genomics",
-      "name": "Scarab Genomics, LLC",
-      "aliases": [
-        "SCARAB GENOMICS, LLC"
-      ],
-      "normalizedName": "scarab genomics",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10000373"
-        ],
-        "uei": [
-          "S4XQJDL7DN15"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "themes": [
-          "RNA Therapeutics",
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-f53b23a6486b08ae"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11393769",
-          "externalId": "11393769",
-          "contextTitle": "An improved low-endotoxin Clean Genome E. coli strain for production of biological products"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-scarab-genomics",
-        "candidateInputHash": "b0cfc0f81dae57e3e037dffa450ee5c9a0ee9cb9062ca249b6a5e5b29760f0f7",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10000373"
-          ],
-          "uei": [
-            "S4XQJDL7DN15"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-f53b23a6486b08ae"
-        ]
-      }
-    },
-    {
-      "id": "candidate-selsym-biotech",
-      "name": "Selsym Biotech, Inc.",
-      "aliases": [
-        "SELSYM BIOTECH, INC."
-      ],
-      "normalizedName": "selsym biotech",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-04",
-      "lastSeenAt": "2026-09-04",
-      "identifiers": {
-        "nihIpf": [
-          "10059697"
-        ],
-        "uei": [
-          "G522J2NEDHD2"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "biotechnology"
-        ],
-        "themes": [
-          "biotechnology"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-6fae3f6660332650"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-04",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11408188",
-          "externalId": "11408188",
-          "contextTitle": "SymClot: synthetic platelet mimetic particles for point of injury care after trauma"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-selsym-biotech",
-        "candidateInputHash": "00bc88467a0c601cdab82d090b6e2c1c5c5c4cb7426963b0f99ffa2675a4e40b",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10059697"
-          ],
-          "uei": [
-            "G522J2NEDHD2"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-6fae3f6660332650"
+          "mention-nih-4d5fdf4582511951"
         ]
       }
     },
@@ -131430,16 +130379,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "tags": []
       },
@@ -131467,7 +130412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-shy-therapeutics",
-        "candidateInputHash": "657e3d71fd5a8935000c1adc597176466f394845e9c64303e9f30329772d3fb9",
+        "candidateInputHash": "fcd6452d1b28a88863ca5c6edbe043ba7bff8595ed67b2ee1565c833c927aad8",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131483,7 +130428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131498,6 +130443,102 @@ window.BHR_COMPANY_INTELLIGENCE = {
         },
         "evidenceMentionIds": [
           "mention-nih-a75539ae930a8238"
+        ]
+      }
+    },
+    {
+      "id": "candidate-single-helix-bio",
+      "name": "Single Helix Bio, Inc",
+      "aliases": [
+        "SINGLE HELIX BIO, INC"
+      ],
+      "normalizedName": "single helix bio",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10097307"
+        ],
+        "uei": [
+          "R8DKG1FYV7Q1"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "themes": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "RNA Therapeutics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-e21f6ac33ddcbad6"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11406803",
+          "externalId": "11406803",
+          "contextTitle": "AI-Powered Optimization of RNA-Directed Therapeutics to Restore Brain Glucose in Alzheimer's Disease"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-single-helix-bio",
+        "candidateInputHash": "053d2fb2f609e8204c19366ada39a27752629d14655e7ccc1630f1f01b350ded",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10097307"
+          ],
+          "uei": [
+            "R8DKG1FYV7Q1"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-e21f6ac33ddcbad6"
         ]
       }
     },
@@ -131525,117 +130566,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classificationHints": {
         "directions": [
           "AI Drug Discovery",
-          "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
           "drug discovery"
         ],
         "themes": [
           "AI Drug Discovery",
-          "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
-          "drug discovery"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 2,
-      "mentionIds": [
-        "mention-nih-15625a51781d4f85",
-        "mention-nih-1ddcf26074e70620"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11316610",
-          "externalId": "11316610",
-          "contextTitle": "Development and Validation of Data Standards and Computational Methods for Large Scale Metabolomics Data Analysis for Data Driven Drug Discovery"
-        },
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-07",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11406764",
-          "externalId": "11406764",
-          "contextTitle": "Preclinical development of a novel therapeutic for Parkinson's disease"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-sinopia-biosciences",
-        "candidateInputHash": "6af85ba8b766389f3f32a912f03624a4c95c8404090bd2dc279d041bb417c179",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10032761"
-          ],
-          "uei": [
-            "YAZGZHHKK821"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-15625a51781d4f85",
-          "mention-nih-1ddcf26074e70620"
-        ]
-      }
-    },
-    {
-      "id": "candidate-spirify-pharma",
-      "name": "Spirify Pharma Inc",
-      "aliases": [
-        "SPIRIFY PHARMA INC"
-      ],
-      "normalizedName": "spirify pharma",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-08",
-      "lastSeenAt": "2026-09-08",
-      "identifiers": {
-        "nihIpf": [
-          "10074074"
-        ],
-        "uei": [
-          "ENCWEHHQ4LA7"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "drug discovery"
-        ],
-        "themes": [
           "drug discovery"
         ],
         "tags": []
@@ -131649,22 +130587,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-fea7e495246cdf23"
+        "mention-nih-15625a51781d4f85"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-08",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11420511",
-          "externalId": "11420511",
-          "contextTitle": "HNK analog identification and characterization as an approach to non-opioid analgesics"
+          "sourceDate": "2026-09-10",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316610",
+          "externalId": "11316610",
+          "contextTitle": "Development and Validation of Data Standards and Computational Methods for Large Scale Metabolomics Data Analysis for Data Driven Drug Discovery"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-spirify-pharma",
-        "candidateInputHash": "50846e878414a30c5d890625e361b22d0006d678e6ea50ad8abc3b03f19d2027",
+        "candidateId": "candidate-sinopia-biosciences",
+        "candidateInputHash": "e94ff68c1b39a6affe7e81019dc9332d7040171c9615b4ed1c66a066c687ec78",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131680,21 +130618,109 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10074074"
+            "10032761"
           ],
           "uei": [
-            "ENCWEHHQ4LA7"
+            "YAZGZHHKK821"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-fea7e495246cdf23"
+          "mention-nih-15625a51781d4f85"
+        ]
+      }
+    },
+    {
+      "id": "candidate-sonalasense",
+      "name": "Sonalasense Inc",
+      "aliases": [
+        "SONALASENSE INC"
+      ],
+      "normalizedName": "sonalasense",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10056236"
+        ],
+        "uei": [
+          "LC3GHFGF2KK1"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "cell therapy"
+        ],
+        "themes": [
+          "cell therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-b9a41cffdb29f854"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408427",
+          "externalId": "11408427",
+          "contextTitle": "Sonodynamic therapy using MRI-guided focused ultrasound in combination with 5-aminolevulinic acid to treat recurrent glioblastoma multiforme"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-sonalasense",
+        "candidateInputHash": "957eea97b2a8224b811859fae43dbc4de8cf3c7f6c58723d7fdefd8c21d3b917",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10056236"
+          ],
+          "uei": [
+            "LC3GHFGF2KK1"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-b9a41cffdb29f854"
         ]
       }
     },
@@ -131722,15 +130748,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "classificationHints": {
         "directions": [
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "themes": [
           "Precision Diagnostics",
-          "cell therapy",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "tags": []
       },
@@ -131741,21 +130763,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "NIH"
       ],
       "sourceCount": 1,
-      "mentionCount": 2,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-a40d08211aff7420",
-        "mention-nih-ff81f0a003d71a83"
+        "mention-nih-a40d08211aff7420"
       ],
       "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314526",
-          "externalId": "11314526",
-          "contextTitle": "Novel Cyclic Boronate Cell Wall Inhibitors Targeting Carbapenem-Resistant Acinetobacter baumannii"
-        },
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
@@ -131768,7 +130780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       ],
       "intakeReview": {
         "candidateId": "candidate-spring-mill-pharma",
-        "candidateInputHash": "f557b1c68d3931499c16c5dd5c4657a1d1acce5166d3623c1b522e9f5b311478",
+        "candidateInputHash": "037eaa7885b353762898e1cf3defa88174856d9b04b110b58463b29f8a2f05b8",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131784,7 +130796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131798,43 +130810,44 @@ window.BHR_COMPANY_INTELLIGENCE = {
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-a40d08211aff7420",
-          "mention-nih-ff81f0a003d71a83"
+          "mention-nih-a40d08211aff7420"
         ]
       }
     },
     {
-      "id": "candidate-stemsynergy-therapeutics",
-      "name": "Stemsynergy Therapeutics, Inc.",
+      "id": "candidate-stem-pharm",
+      "name": "Stem Pharm, Inc.",
       "aliases": [
-        "STEMSYNERGY THERAPEUTICS, INC."
+        "STEM PHARM, INC."
       ],
-      "normalizedName": "stemsynergy therapeutics",
+      "normalizedName": "stem pharm",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-02",
-      "lastSeenAt": "2026-09-02",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10020810"
+          "10038710"
         ],
         "uei": [
-          "WVEMHJFUNJ97"
+          "YTLQLAJ53CB7"
         ]
       },
       "classificationHints": {
         "directions": [
+          "AI Drug Discovery",
           "Cell Therapy",
+          "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
           "drug discovery"
         ],
         "themes": [
+          "AI Drug Discovery",
           "Cell Therapy",
+          "Organoids & Disease Models",
           "Precision Diagnostics",
-          "biotechnology",
           "drug discovery"
         ],
         "tags": []
@@ -131848,22 +130861,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-a223736d667c305a"
+        "mention-nih-270f0671f282cdd4"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-02",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409930",
-          "externalId": "11409930",
-          "contextTitle": "Development of novel WNT inhibitors to treat colorectal cancers"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316026",
+          "externalId": "11316026",
+          "contextTitle": "Alzheimer's Disease Drug Discovery Using a Human Organoid Model of Neuroinflammation"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-stemsynergy-therapeutics",
-        "candidateInputHash": "361e6950324a79f5376ac1d8c6613a4bd6d5752316d3f5c14aa80c90de6c0821",
+        "candidateId": "candidate-stem-pharm",
+        "candidateInputHash": "682d61f1987bf32939592f8e727444be136d97ea8588ce37c376c19a62bb4f33",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131879,52 +130892,52 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10020810"
+            "10038710"
           ],
           "uei": [
-            "WVEMHJFUNJ97"
+            "YTLQLAJ53CB7"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-a223736d667c305a"
+          "mention-nih-270f0671f282cdd4"
         ]
       }
     },
     {
-      "id": "candidate-tex-immunetics",
-      "name": "Tex Immunetics Inc",
+      "id": "candidate-ting-therapeutics",
+      "name": "Ting Therapeutics, Inc.",
       "aliases": [
-        "TEX IMMUNETICS INC"
+        "TING THERAPEUTICS, INC."
       ],
-      "normalizedName": "tex immunetics",
+      "normalizedName": "ting therapeutics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10090876"
+          "10055005"
         ],
         "uei": [
-          "HD66ZD1FDHJ9"
+          "F5R2ZH3HCHB5"
         ]
       },
       "classificationHints": {
         "directions": [
-          "cell therapy",
+          "Precision Diagnostics",
           "gene therapy"
         ],
         "themes": [
-          "cell therapy",
+          "Precision Diagnostics",
           "gene therapy"
         ],
         "tags": []
@@ -131938,22 +130951,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-a75257057d21d2e0"
+        "mention-nih-841ab4459268e90d"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314038",
-          "externalId": "11314038",
-          "contextTitle": "Immune Checkpoint Blockade Therapy to Treat Chronic Bone and Joint Infections"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11380822",
+          "externalId": "11380822",
+          "contextTitle": "Therapeutics to prevent aminoglycoside-induced hearing loss"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-tex-immunetics",
-        "candidateInputHash": "9af04abbb0c21e016afd5d08509c12fedad58d0a4bd58b646f9930aa4a4f610e",
+        "candidateId": "candidate-ting-therapeutics",
+        "candidateInputHash": "57985ad3e44ece01cb795df507193800052d7e7aff0527562b10edecbb03eedb",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -131969,52 +130982,232 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10090876"
+            "10055005"
           ],
           "uei": [
-            "HD66ZD1FDHJ9"
+            "F5R2ZH3HCHB5"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-a75257057d21d2e0"
+          "mention-nih-841ab4459268e90d"
         ]
       }
     },
     {
-      "id": "candidate-trampoline-pharma",
-      "name": "Trampoline Pharma, Inc.",
+      "id": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
       "aliases": [
-        "TRAMPOLINE PHARMA, INC."
+        "UP ONCOLYTICS, INC."
       ],
-      "normalizedName": "trampoline pharma",
+      "normalizedName": "up oncolytics",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10062608"
+          "10073837"
         ],
         "uei": [
-          "QAE3GETX9Z88"
+          "TVNLCARQLKC8"
         ]
       },
       "classificationHints": {
         "directions": [
           "Cell Therapy",
-          "biotechnology"
+          "gene therapy"
         ],
         "themes": [
           "Cell Therapy",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-5ae269f085e1325f"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11204793",
+          "externalId": "11204793",
+          "contextTitle": "Validation of a novel treatment for glioblastoma using oncolytic Zika virus"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-up-oncolytics",
+        "candidateInputHash": "4021ce5e6b272f1c44f0bc88b0e27710187a3d31e98a04eb47a6642f3de5b395",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10073837"
+          ],
+          "uei": [
+            "TVNLCARQLKC8"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-5ae269f085e1325f"
+        ]
+      }
+    },
+    {
+      "id": "candidate-via-therapeutics",
+      "name": "Via Therapeutics, LLC",
+      "aliases": [
+        "VIA THERAPEUTICS, LLC"
+      ],
+      "normalizedName": "via therapeutics",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10038939"
+        ],
+        "uei": [
+          "YHRZATLXKL46"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Precision Diagnostics",
+          "gene therapy"
+        ],
+        "themes": [
+          "Precision Diagnostics",
+          "gene therapy"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
+      ],
+      "sourceTypes": [
+        "NIH"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-nih-9f2317937422bfe4"
+      ],
+      "sources": [
+        {
+          "sourceType": "NIH",
+          "sourceName": "NIH RePORTER",
+          "sourceRole": "for_profit_award_recipient",
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316113",
+          "externalId": "11316113",
+          "contextTitle": "Development of dermal targeting formulations for squamous cell carcinoma"
+        }
+      ],
+      "intakeReview": {
+        "candidateId": "candidate-via-therapeutics",
+        "candidateInputHash": "ab16bf884b9fb4288471a63bc74cb9a68b8123ed1681b9184446bf4d8246fbce",
+        "decision": "accepted",
+        "decisionMode": "automatic",
+        "humanReviewRequired": false,
+        "universeEligible": true,
+        "identityStatus": "verified",
+        "biotechStatus": "supported",
+        "profileStatus": "official_sources_pending",
+        "reviewScore": 0.91,
+        "reviewReasons": [
+          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
+          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
+        ],
+        "flags": [
+          "official_business_profile_pending"
+        ],
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
+        "policyVersion": "company-intake-v3",
+        "sourceTypes": [
+          "NIH"
+        ],
+        "stableIdentifiers": {
+          "nihIpf": [
+            "10038939"
+          ],
+          "uei": [
+            "YHRZATLXKL46"
+          ]
+        },
+        "evidenceMentionIds": [
+          "mention-nih-9f2317937422bfe4"
+        ]
+      }
+    },
+    {
+      "id": "candidate-virtus-therapeutics",
+      "name": "Virtus Therapeutics Corporation",
+      "aliases": [
+        "VIRTUS THERAPEUTICS CORPORATION"
+      ],
+      "normalizedName": "virtus therapeutics",
+      "status": "identified",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.84,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
+      "identifiers": {
+        "nihIpf": [
+          "10064084"
+        ],
+        "uei": [
+          "GAT6WK9MLGR3"
+        ]
+      },
+      "classificationHints": {
+        "directions": [
+          "Precision Diagnostics",
+          "biotechnology"
+        ],
+        "themes": [
+          "Precision Diagnostics",
           "biotechnology"
         ],
         "tags": []
@@ -132028,22 +131221,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-d69f4c545c805d02"
+        "mention-nih-bbafe8a1495e3fbd"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11315490",
-          "externalId": "11315490",
-          "contextTitle": "Development of a Universal Next Generation T Cell Receptor Cancer Therapy: Preclinical Proof-of-Concept and Optimization"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
+          "externalId": "11408936",
+          "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-trampoline-pharma",
-        "candidateInputHash": "c304bc11468e55e2cf50796580d3bebaa4ca4496d7c4737a1746e3b446ed9f19",
+        "candidateId": "candidate-virtus-therapeutics",
+        "candidateInputHash": "8f737bc1382f662b20c8a7957ae5cbbd4c3bd10e8b9398f8c3175ab4777e1369",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -132059,51 +131252,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10062608"
+            "10064084"
           ],
           "uei": [
-            "QAE3GETX9Z88"
+            "GAT6WK9MLGR3"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-d69f4c545c805d02"
+          "mention-nih-bbafe8a1495e3fbd"
         ]
       }
     },
     {
-      "id": "candidate-veramorph",
-      "name": "Veramorph, LLC",
+      "id": "candidate-xosomix",
+      "name": "Xosomix LLC",
       "aliases": [
-        "VERAMORPH, LLC"
+        "XOSOMIX LLC"
       ],
-      "normalizedName": "veramorph",
+      "normalizedName": "xosomix",
       "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.84,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-11",
-      "lastSeenAt": "2026-09-11",
+      "firstSeenAt": "2026-09-17",
+      "lastSeenAt": "2026-09-17",
       "identifiers": {
         "nihIpf": [
-          "10047392"
+          "10062583"
         ],
         "uei": [
-          "JZD1YYDDCLP5"
+          "KCWEJH659NZ9"
         ]
       },
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
+          "RNA Therapeutics",
           "cell therapy",
           "gene therapy"
         ],
         "themes": [
+          "Cell Therapy",
+          "RNA Therapeutics",
           "cell therapy",
           "gene therapy"
         ],
@@ -132118,22 +131315,22 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-nih-36c63a74f6ba6e3b"
+        "mention-nih-a689ea598364435e"
       ],
       "sources": [
         {
           "sourceType": "NIH",
           "sourceName": "NIH RePORTER",
           "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-11",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11457452",
-          "externalId": "11457452",
-          "contextTitle": "Preclinical validation of an effective oral fulvestrant product as the future standard of care endocrine therapy for ER+ metastatic breast cancer"
+          "sourceDate": "2026-09-17",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11410609",
+          "externalId": "11410609",
+          "contextTitle": "Extracellular Vesicle encapsulated Adeno-associated virus (EV-AAV)-mediated delivery of Neurotrophic factor-α1(NF- α1)/Carboxypeptidase E (CPE) gene (EV-AAV-CPE) as a therapy for Alzheimer's Disease."
         }
       ],
       "intakeReview": {
-        "candidateId": "candidate-veramorph",
-        "candidateInputHash": "c2291005dc9abdf50e8e329520376884fe9529b93c0e560088fc79528b156501",
+        "candidateId": "candidate-xosomix",
+        "candidateInputHash": "95f5b6ee6dfebba95f6c0e04437fa6a53f731056e53b850d4a76cf409fe94f99",
         "decision": "accepted",
         "decisionMode": "automatic",
         "humanReviewRequired": false,
@@ -132149,115 +131346,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
+        "reviewedAt": "2026-09-21T08:59:31+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
         ],
         "stableIdentifiers": {
           "nihIpf": [
-            "10047392"
+            "10062583"
           ],
           "uei": [
-            "JZD1YYDDCLP5"
+            "KCWEJH659NZ9"
           ]
         },
         "evidenceMentionIds": [
-          "mention-nih-36c63a74f6ba6e3b"
-        ]
-      }
-    },
-    {
-      "id": "candidate-xylyx-bio",
-      "name": "Xylyx Bio, Inc.",
-      "aliases": [
-        "XYLYX BIO, INC."
-      ],
-      "normalizedName": "xylyx bio",
-      "status": "identified",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.84,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-10",
-      "lastSeenAt": "2026-09-10",
-      "identifiers": {
-        "nihIpf": [
-          "10048733"
-        ],
-        "uei": [
-          "N2N9KL2Y52X1"
-        ]
-      },
-      "classificationHints": {
-        "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "themes": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "NIH RePORTER 将该实体列为 biotech 相关项目的营利性获资助机构。"
-      ],
-      "sourceTypes": [
-        "NIH"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-nih-57c0c1249d2df6cd"
-      ],
-      "sources": [
-        {
-          "sourceType": "NIH",
-          "sourceName": "NIH RePORTER",
-          "sourceRole": "for_profit_award_recipient",
-          "sourceDate": "2026-09-10",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11413845",
-          "externalId": "11413845",
-          "contextTitle": "Liver fibrosis cell-based assay platform: integrating patient-derived fibrotic liver ECM with primary stellate cells, Kupffer cells, and hepatocytes to accelerate anti-fibrotic drug development"
-        }
-      ],
-      "intakeReview": {
-        "candidateId": "candidate-xylyx-bio",
-        "candidateInputHash": "05cd8eb87ea9152509b0942c00cb1815f839d31616c73a154042bfaf2f877dfe",
-        "decision": "accepted",
-        "decisionMode": "automatic",
-        "humanReviewRequired": false,
-        "universeEligible": true,
-        "identityStatus": "verified",
-        "biotechStatus": "supported",
-        "profileStatus": "official_sources_pending",
-        "reviewScore": 0.91,
-        "reviewReasons": [
-          "NIH RePORTER 提供 UEI 或 NIH IPF，可自动确认营利性获资助机构身份。",
-          "该机构出现在 biotech 主题项目中，满足公司池领域准入条件。"
-        ],
-        "flags": [
-          "official_business_profile_pending"
-        ],
-        "reviewedAt": "2026-09-21T05:03:41.104979+00:00",
-        "policyVersion": "company-intake-v3",
-        "sourceTypes": [
-          "NIH"
-        ],
-        "stableIdentifiers": {
-          "nihIpf": [
-            "10048733"
-          ],
-          "uei": [
-            "N2N9KL2Y52X1"
-          ]
-        },
-        "evidenceMentionIds": [
-          "mention-nih-57c0c1249d2df6cd"
+          "mention-nih-a689ea598364435e"
         ]
       }
     }
