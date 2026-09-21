@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-09-21",
   "summary": {
     "profileCount": 624,
-    "evidenceCount": 904,
+    "evidenceCount": 949,
     "programCandidateCount": 0,
     "companyCandidateCount": 598,
     "companyMentionCount": 666,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 624,
-    "companyReportedCount": 578,
-    "withEvidenceCount": 579,
+    "companyReportedCount": 623,
+    "withEvidenceCount": 624,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 51,
+    "failedSourceCount": 52,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -2621,7 +2621,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-acomhal-research",
       "name": "Acomhal Research, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -2653,40 +2653,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-acomhal-research-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-acomhal-research-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-acomhal-research-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409740"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-acomhal-research-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-acomhal-research-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409740"
+        }
+      ]
     },
     {
       "companyId": "candidate-acotec",
@@ -3214,7 +3238,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-actuated-medical",
       "name": "Actuated Medical, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -3245,40 +3269,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-actuated-medical-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-actuated-medical-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-actuated-medical-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11252698"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-actuated-medical-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-actuated-medical-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11252698"
+        }
+      ]
     },
     {
       "companyId": "candidate-acumen-pharmaceuticals",
@@ -5316,7 +5364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-aeton-therapeutics",
       "name": "Aeton Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -5350,40 +5398,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-aeton-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-aeton-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-aeton-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11323824"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-aeton-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-aeton-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11323824"
+        }
+      ]
     },
     {
       "companyId": "candidate-agentix",
@@ -5897,7 +5969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-agonox",
       "name": "Agonox, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -5928,40 +6000,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-agonox-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-agonox-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-agonox-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11408886"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-agonox-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-agonox-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408886"
+        }
+      ]
     },
     {
       "companyId": "candidate-aibotics",
@@ -6362,7 +6458,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-aivocode",
       "name": "Aivocode, Llp",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -6394,40 +6490,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-aivocode-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-aivocode-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-aivocode-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11403170"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-aivocode-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-aivocode-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11403170"
+        }
+      ]
     },
     {
       "companyId": "candidate-akanda",
@@ -7988,7 +8108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-allander-biotechnologies",
       "name": "Allander Biotechnologies, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -8020,40 +8140,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-allander-biotechnologies-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-allander-biotechnologies-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-allander-biotechnologies-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11321353"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-allander-biotechnologies-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-allander-biotechnologies-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11321353"
+        }
+      ]
     },
     {
       "companyId": "candidate-allarity-therapeutics",
@@ -10492,7 +10636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-amissa",
       "name": "Amissa, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -10526,40 +10670,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, cell therapy, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-amissa-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-amissa-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-amissa-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11316421"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-amissa-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-amissa-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316421"
+        }
+      ]
     },
     {
       "companyId": "candidate-amneal-pharmaceuticals",
@@ -19926,7 +20094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-bellwethers",
       "name": "Bellwethers Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -19961,40 +20129,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Organoids & Disease Models, Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-bellwethers-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-bellwethers-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-bellwethers-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-bellwethers-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-bellwethers-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
+        }
+      ]
     },
     {
       "companyId": "candidate-benitec-biopharma",
@@ -24561,7 +24753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-biotherapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11310525"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
           }
         ],
         "inferences": [],
@@ -24592,7 +24784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-biotherapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11310525"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
         }
       ]
     },
@@ -25235,7 +25427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-blood-cell-technologies",
       "name": "Blood Cell Technologies, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -25267,40 +25459,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-blood-cell-technologies-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-blood-cell-technologies-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-blood-cell-technologies-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11457446"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-blood-cell-technologies-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-blood-cell-technologies-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11457446"
+        }
+      ]
     },
     {
       "companyId": "candidate-blossomhill-therapeutics",
@@ -25433,7 +25649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-bmseed",
       "name": "Bmseed, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -25468,40 +25684,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-bmseed-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-bmseed-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-bmseed-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11311188"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-bmseed-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-bmseed-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11311188"
+        }
+      ]
     },
     {
       "companyId": "candidate-bolt-biotherapeutics",
@@ -25761,7 +26001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-bonestrong-therapeutics",
       "name": "Bonestrong Therapeutics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -25792,40 +26032,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+        }
+      ]
     },
     {
       "companyId": "candidate-boundless-bio",
@@ -29388,7 +29652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cansera",
       "name": "Cansera, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -29422,46 +29686,70 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, biotechnology, cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cansera-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cansera-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cansera-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409312"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cansera-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cansera-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409312"
+        }
+      ]
     },
     {
       "companyId": "candidate-capienda-biotech",
       "name": "Capienda Biotech, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -29495,40 +29783,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, biotechnology, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-capienda-biotech-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-capienda-biotech-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-capienda-biotech-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-capienda-biotech-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-capienda-biotech-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
+        }
+      ]
     },
     {
       "companyId": "candidate-capricor-therapeutics",
@@ -29661,7 +29973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cardiac-rsk3-inhibitors",
       "name": "Cardiac Rsk3 Inhibitors, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -29694,40 +30006,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+        }
+      ]
     },
     {
       "companyId": "candidate-cardiff-oncology",
@@ -31017,7 +31353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cell-preservation-services",
       "name": "Cell Preservation Services, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -31049,40 +31385,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cell-preservation-services-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cell-preservation-services-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cell-preservation-services-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11311406"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cell-preservation-services-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cell-preservation-services-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11311406"
+        }
+      ]
     },
     {
       "companyId": "candidate-cell-source",
@@ -31596,7 +31956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cellfe",
       "name": "Cellfe Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -31631,40 +31991,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Gene Editing / Gene Therapy, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cellfe-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
+        }
+      ]
     },
     {
       "companyId": "candidate-celularity",
@@ -31924,7 +32308,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cereus-diagnostics",
       "name": "Cereus Diagnostics Corp.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -31957,40 +32341,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cereus-diagnostics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cereus-diagnostics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cereus-diagnostics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11401239"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cereus-diagnostics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cereus-diagnostics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11401239"
+        }
+      ]
     },
     {
       "companyId": "candidate-cero-therapeutics-holdings",
@@ -32123,7 +32531,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cerovations",
       "name": "Cerovations, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -32154,40 +32562,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cerovations-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cerovations-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cerovations-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/10646176"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cerovations-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cerovations-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/10646176"
+        }
+      ]
     },
     {
       "companyId": "candidate-cervomed",
@@ -35424,7 +35856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-constantiam-biosciences",
       "name": "Constantiam Biosciences Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -35457,40 +35889,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-constantiam-biosciences-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-constantiam-biosciences-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-constantiam-biosciences-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11406172"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-constantiam-biosciences-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-constantiam-biosciences-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11406172"
+        }
+      ]
     },
     {
       "companyId": "candidate-creative-medical-technology-holdings",
@@ -37320,7 +37776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cytoagents",
       "name": "Cytoagents, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -37353,40 +37809,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cytoagents-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cytoagents-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cytoagents-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11418976"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cytoagents-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cytoagents-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11418976"
+        }
+      ]
     },
     {
       "companyId": "candidate-dbv-technologies-s-a",
@@ -38892,7 +39372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-electronic-biosciences-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11343472"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11414822"
           }
         ],
         "inferences": [],
@@ -38923,7 +39403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-electronic-biosciences-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11343472"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11414822"
         }
       ]
     },
@@ -39347,7 +39827,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-endios-bio",
       "name": "Endios Bio, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -39381,46 +39861,70 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Organoids & Disease Models, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-endios-bio-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-endios-bio-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-endios-bio-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11408359"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-endios-bio-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-endios-bio-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408359"
+        }
+      ]
     },
     {
       "companyId": "candidate-enfuego-therapeutics",
       "name": "Enfuego Therapeutics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -39452,40 +39956,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，RNA Therapeutics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-enfuego-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-enfuego-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-enfuego-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11407293"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-enfuego-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-enfuego-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11407293"
+        }
+      ]
     },
     {
       "companyId": "candidate-engene-therapeutics",
@@ -40634,7 +41162,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-foli-bio",
       "name": "Foli Bio Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -40666,46 +41194,70 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-foli-bio-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-foli-bio-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-foli-bio-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-foli-bio-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-foli-bio-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
+        }
+      ]
     },
     {
       "companyId": "candidate-foragr-medicines",
       "name": "Foragr Medicines, Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -40741,46 +41293,70 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, cell therapy, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-foragr-medicines-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-foragr-medicines-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-foragr-medicines-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-foragr-medicines-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-foragr-medicines-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
+        }
+      ]
     },
     {
       "companyId": "candidate-function-therapeutics",
       "name": "Function Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -40815,40 +41391,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Organoids & Disease Models, cell therapy, drug discovery, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-function-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-function-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-function-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11415152"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-function-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-function-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11415152"
+        }
+      ]
     },
     {
       "companyId": "candidate-functional-brands",
@@ -41821,7 +42421,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11394173"
           }
         ],
         "inferences": [],
@@ -41852,7 +42452,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11400166"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11394173"
         }
       ]
     },
@@ -43005,7 +43605,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-haima-therapeutics",
       "name": "Haima Therapeutics, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -43037,40 +43637,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-haima-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-haima-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-haima-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11313383"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-haima-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-haima-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11313383"
+        }
+      ]
     },
     {
       "companyId": "candidate-halozyme-therapeutics",
@@ -45511,7 +46135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-imagenomix",
       "name": "Imagenomix Corp.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -45544,40 +46168,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-imagenomix-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-imagenomix-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-imagenomix-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11312149"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-imagenomix-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-imagenomix-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11312149"
+        }
+      ]
     },
     {
       "companyId": "candidate-immatics-n-v",
@@ -50857,7 +51505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-kure-cells",
       "name": "Kure Cells Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -50891,40 +51539,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, Precision Diagnostics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-kure-cells-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-kure-cells-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-kure-cells-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-kure-cells-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-kure-cells-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
+        }
+      ]
     },
     {
       "companyId": "candidate-kymera-therapeutics",
@@ -53181,7 +53853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-mabswitch-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11405623"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11313251"
           }
         ],
         "inferences": [],
@@ -53212,7 +53884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-mabswitch-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11405623"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11313251"
         }
       ]
     },
@@ -53361,7 +54033,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-maia-biotechnology",
       "name": "Maia Biotechnology, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -53393,40 +54065,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-maia-biotechnology-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-maia-biotechnology-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-maia-biotechnology-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11411298"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-maia-biotechnology-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-maia-biotechnology-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11411298"
+        }
+      ]
     },
     {
       "companyId": "candidate-mannatech",
@@ -56105,7 +56801,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-myosin-therapeutics",
       "name": "Myosin Therapeutics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -56136,40 +56832,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-myosin-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-myosin-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-myosin-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11387631"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-myosin-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-myosin-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11387631"
+        }
+      ]
     },
     {
       "companyId": "candidate-myriad-genetics",
@@ -57445,7 +58165,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-numentus-technologies",
       "name": "Numentus Technologies Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -57479,40 +58199,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, cell therapy, gene therapy, molecular diagnostics；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-numentus-technologies-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-numentus-technologies-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-numentus-technologies-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409249"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-numentus-technologies-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-numentus-technologies-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409249"
+        }
+      ]
     },
     {
       "companyId": "nurix",
@@ -58121,6 +58865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -58133,6 +58878,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -59046,7 +59792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-opus-genetics",
       "name": "Opus Genetics Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -59079,40 +59825,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-opus-genetics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-opus-genetics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-opus-genetics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409872"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-opus-genetics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-opus-genetics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409872"
+        }
+      ]
     },
     {
       "companyId": "candidate-outlook-therapeutics",
@@ -61182,7 +61952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-proteovista",
       "name": "Proteovista, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -61216,40 +61986,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-proteovista-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-proteovista-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-proteovista-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11409383"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-proteovista-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-proteovista-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11409383"
+        }
+      ]
     },
     {
       "companyId": "candidate-q-c-technologies",
@@ -63287,7 +64081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-respirerx-pharmaceuticals",
       "name": "Respirerx Pharmaceuticals Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -63319,40 +64113,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11420545"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11420545"
+        }
+      ]
     },
     {
       "companyId": "retro-biosciences",
@@ -63773,7 +64591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-rock-immune",
       "name": "Rock Immune, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -63805,40 +64623,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-rock-immune-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-rock-immune-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-rock-immune-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-rock-immune-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-rock-immune-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
+        }
+      ]
     },
     {
       "companyId": "candidate-sab-biotherapeutics",
@@ -64098,7 +64940,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-sanaria",
       "name": "Sanaria, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -64131,40 +64973,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-sanaria-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-sanaria-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-sanaria-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11255658"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-sanaria-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-sanaria-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11255658"
+        }
+      ]
     },
     {
       "companyId": "candidate-sangamo-therapeutics",
@@ -65073,7 +65939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-serinus-biosciences",
       "name": "Serinus Biosciences Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -65106,40 +65972,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-serinus-biosciences-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-serinus-biosciences-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-serinus-biosciences-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11405775"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-serinus-biosciences-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-serinus-biosciences-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11405775"
+        }
+      ]
     },
     {
       "companyId": "candidate-shy-therapeutics",
@@ -65509,7 +66399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-single-helix-bio",
       "name": "Single Helix Bio, Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -65544,40 +66434,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Precision Diagnostics, RNA Therapeutics, biotechnology, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-single-helix-bio-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-single-helix-bio-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-single-helix-bio-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11406803"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-single-helix-bio-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-single-helix-bio-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11406803"
+        }
+      ]
     },
     {
       "companyId": "candidate-sinomab-bio",
@@ -66625,7 +67539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-sonalasense",
       "name": "Sonalasense Inc",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -66656,40 +67570,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-sonalasense-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-sonalasense-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-sonalasense-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11408427"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-sonalasense-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-sonalasense-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408427"
+        }
+      ]
     },
     {
       "companyId": "candidate-spring-mill-pharma",
@@ -66751,7 +67689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-spring-mill-pharma-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314526"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11315103"
           }
         ],
         "inferences": [],
@@ -66782,7 +67720,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-spring-mill-pharma-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314526"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11315103"
         }
       ]
     },
@@ -66790,7 +67728,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-stem-pharm",
       "name": "Stem Pharm, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -66825,40 +67763,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，AI Drug Discovery, Cell Therapy, Organoids & Disease Models, Precision Diagnostics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-stem-pharm-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-stem-pharm-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-stem-pharm-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11316026"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-stem-pharm-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-stem-pharm-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316026"
+        }
+      ]
     },
     {
       "companyId": "sumitomo-pharma",
@@ -69021,7 +69983,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-ting-therapeutics",
       "name": "Ting Therapeutics, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -69053,40 +70015,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-ting-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-ting-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-ting-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-ting-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-ting-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
+        }
+      ]
     },
     {
       "companyId": "candidate-transcenta",
@@ -70164,7 +71150,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-up-oncolytics",
       "name": "Up Oncolytics, Inc.",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -70196,40 +71182,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-up-oncolytics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-up-oncolytics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-up-oncolytics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-up-oncolytics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-up-oncolytics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
+        }
+      ]
     },
     {
       "companyId": "candidate-usana-health-sciences",
@@ -71011,7 +72021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-via-therapeutics",
       "name": "Via Therapeutics, LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -71043,40 +72053,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-via-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-via-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-via-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11316113"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-via-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-via-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11316113"
+        }
+      ]
     },
     {
       "companyId": "candidate-vigonvita",
@@ -71477,7 +72511,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-virtus-therapeutics",
       "name": "Virtus Therapeutics Corporation",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -71509,40 +72543,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Precision Diagnostics, biotechnology；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-virtus-therapeutics-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-virtus-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-virtus-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11408936"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-virtus-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-virtus-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11408936"
+        }
+      ]
     },
     {
       "companyId": "candidate-visen-pharma",
@@ -73142,7 +74200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-xosomix",
       "name": "Xosomix LLC",
       "asOfDate": "2026-09-21",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -73176,40 +74234,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，Cell Therapy, RNA Therapeutics, cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-xosomix-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-xosomix-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-xosomix-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11410609"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-xosomix-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-xosomix-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11410609"
+        }
+      ]
     },
     {
       "companyId": "xtalpi",

@@ -7828,6 +7828,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-acomhal-research-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-acomhal-research"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Acomhal Research, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409740",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
       "signalId": null,
       "companyIds": [
@@ -8051,6 +8097,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-actuated-medical-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-actuated-medical"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Actuated Medical, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11252698",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -9007,6 +9099,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-aeton-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-aeton-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Aeton Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11323824",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-agentix-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -9231,6 +9369,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-agonox-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-agonox"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Agonox, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11408886",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-aibotics-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -9399,6 +9583,52 @@
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
         "Education Centre A centralised education platform, including e-Learning."
       ],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-aivocode-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-aivocode"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Aivocode, Llp — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11403170",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
       "planExcerpts": []
     },
     {
@@ -10112,6 +10342,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-allander-biotechnologies-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-allander-biotechnologies"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Allander Biotechnologies, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11321353",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -11057,6 +11333,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-amissa-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-amissa"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Amissa, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11316421",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -15393,6 +15715,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-bellwethers-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-bellwethers"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Bellwethers Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11410331",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-benitec-biopharma-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -17470,7 +17838,7 @@
       "sourceType": "Company",
       "sourceName": "Biotherapeutics, Inc. — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11310525",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11419642",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -17829,6 +18197,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-blood-cell-technologies-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-blood-cell-technologies"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Blood Cell Technologies, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11457446",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-blossomhill-therapeutics-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -17881,6 +18295,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-bmseed-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-bmseed"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Bmseed, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11311188",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -17993,6 +18453,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been revoked",
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-bonestrong-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Bonestrong Therapeutics Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314326",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -19589,6 +20095,98 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cansera-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cansera"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cansera, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409312",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-capienda-biotech-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-capienda-biotech"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Capienda Biotech, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11254697",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-capricor-therapeutics-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -19641,6 +20239,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cardiac-rsk3-inhibitors"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cardiac Rsk3 Inhibitors, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11292808",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -20250,6 +20894,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cell-preservation-services-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cell-preservation-services"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cell Preservation Services, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11311406",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-cell-source-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -20474,6 +21164,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cellfe-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cellfe"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cellfe Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314137",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-celularity-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -20586,6 +21322,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cereus-diagnostics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cereus-diagnostics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cereus Diagnostics Corp. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11401239",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-cero-therapeutics-holdings-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -20638,6 +21420,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-cerovations-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cerovations"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cerovations, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/10646176",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -22294,6 +23122,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-constantiam-biosciences-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-constantiam-biosciences"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Constantiam Biosciences Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11406172",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-corami-biotech-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -23112,6 +23986,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been revoked",
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-cytoagents-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cytoagents"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cytoagents, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11418976",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -24412,7 +25332,7 @@
       "sourceType": "Company",
       "sourceName": "Electronic Biosciences, Inc. — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11343472",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11414822",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -24437,7 +25357,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -24603,6 +25523,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-endios-bio-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-endios-bio"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Endios Bio, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11408359",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-energybiocode-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -24617,6 +25583,52 @@
       "sourceName": "Energybiocode LLC — Official Website",
       "sourceRole": "official",
       "sourceUrl": "https://reporter.nih.gov/project-details/11311550",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-enfuego-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-enfuego-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Enfuego Therapeutics Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11407293",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -25463,6 +26475,144 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-foli-bio-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-foli-bio"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Foli Bio Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314303",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-foragr-medicines-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-foragr-medicines"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Foragr Medicines, Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315143",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-function-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-function-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Function Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11415152",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-functional-brands-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -25649,7 +26799,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -25890,7 +27040,7 @@
       "sourceType": "Company",
       "sourceName": "Gentibio, Inc. — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11400166",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11394173",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -25915,7 +27065,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -26403,6 +27553,52 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-haima-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-haima-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Haima Therapeutics, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11313383",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -27688,6 +28884,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-imagenomix-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-imagenomix"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Imagenomix Corp. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11312149",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-immatics-n-v-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -28239,7 +29481,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -28443,7 +29685,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -30219,6 +31461,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-kure-cells-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-kure-cells"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Kure Cells Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11416294",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-kymera-therapeutics-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -31399,7 +32687,7 @@
       "sourceType": "Company",
       "sourceName": "Mabswitch, Inc. — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11405623",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11313251",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -31424,7 +32712,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -31505,6 +32793,52 @@
       "sourceName": "Magnetic Tides, Inc. — Official Website",
       "sourceRole": "official",
       "sourceUrl": "https://reporter.nih.gov/project-details/11397366",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-maia-biotechnology-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-maia-biotechnology"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Maia Biotechnology, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11411298",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -32967,6 +34301,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-myosin-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-myosin-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Myosin Therapeutics Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11387631",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-myriad-genetics-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -33687,6 +35067,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-numentus-technologies-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-numentus-technologies"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Numentus Technologies Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409249",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -34464,6 +35890,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-opus-genetics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-opus-genetics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Opus Genetics Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409872",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-oralbiolife-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -35048,7 +36520,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -36036,6 +37508,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-proteovista-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-proteovista"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Proteovista, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409383",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-psychogenics-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -36646,7 +38164,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -37233,6 +38751,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-respirerx-pharmaceuticals-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-respirerx-pharmaceuticals"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Respirerx Pharmaceuticals Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11420545",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-resvita-bio-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -37440,6 +39004,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-rock-immune-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-rock-immune"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Rock Immune, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11310680",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-romix-biosciences-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -37594,6 +39204,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-sanaria-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-sanaria"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Sanaria, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11255658",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -38233,6 +39889,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-serinus-biosciences-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-serinus-biosciences"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Serinus Biosciences Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11405775",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-shanghai-juncell-therapeutics-official-46105bf48674",
       "signalId": null,
       "companyIds": [
@@ -38363,7 +40065,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -38578,6 +40280,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-single-helix-bio-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-single-helix-bio"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Single Helix Bio, Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11406803",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-sinomab-bio-official-9c4d7bc6b10e",
       "signalId": null,
       "companyIds": [
@@ -38734,7 +40482,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -39028,6 +40776,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-sonalasense-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-sonalasense"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Sonalasense Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11408427",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-spirify-pharma-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -39087,7 +40881,53 @@
       "sourceType": "Company",
       "sourceName": "Spring Mill Pharma Incorporated — Official Website",
       "sourceRole": "official",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11314526",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11315103",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-stem-pharm-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-stem-pharm"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Stem Pharm, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11316026",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -40327,6 +42167,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-ting-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-ting-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Ting Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11380822",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-tissuerate-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -41017,6 +42903,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-up-oncolytics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-up-oncolytics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Up Oncolytics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11204793",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-usana-health-sciences-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -41540,6 +43472,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-via-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-via-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Via Therapeutics, LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11316113",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-vigonvita-official-9c4d7bc6b10e",
       "signalId": null,
       "companyIds": [
@@ -41796,6 +43774,52 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-virtus-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-virtus-therapeutics"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Virtus Therapeutics Corporation — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -42578,6 +44602,52 @@
         "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
         "No 8-K filing data for this company in last days"
       ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-xosomix-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-xosomix"
+      ],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-09-21",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Xosomix LLC — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11410609",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -44952,7 +47022,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "29672d512436d3f4febaca59264304b08db18b5434f23f83f38e0ff1b6363b19",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
