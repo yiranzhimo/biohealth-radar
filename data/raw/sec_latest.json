@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-21T12:56:16.310284+00:00",
+  "capturedAt": "2026-09-21T22:01:17.847458+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-09-07",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-09-21",
+      "reportDate": "2026-09-15",
+      "acceptanceDateTime": "2026-09-21T09:05:27.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-40323",
+      "filmNumber": "261392398",
+      "items": "1.01",
+      "size": 138056,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "rxrx-20260915.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001601830-26-000112",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
+    },
     {
       "filingDate": "2026-09-15",
       "reportDate": "2026-09-15",
@@ -291,6 +316,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001601830-000160183026000112",
+      "date": "2026-09-21",
+      "title": "Recursion Pharmaceuticals filed Form 8-K",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000112 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-09-21.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001801198-000117184326006050",
       "date": "2026-09-15",

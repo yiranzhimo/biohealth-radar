@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-21T12:56:06.758124+00:00",
+  "capturedAt": "2026-09-21T22:01:08.440954+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-21"
   },
   "pmids": [
+    "42766730",
+    "42766221",
+    "42765994",
+    "42765769",
     "42765106",
     "42764951",
-    "42764940",
-    "42764884",
-    "42764557",
-    "42764523",
     "42758091",
     "42754836",
     "42753692",
@@ -40,6 +40,77 @@
     "42761776"
   ],
   "records": [
+    {
+      "pmid": "42766730",
+      "title": "Fibroblast-associated TPM2 links cell-matrix remodeling to EMT-Notch signaling and gemcitabine resistance in intrahepatic cholangiocarcinoma.",
+      "abstract": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive liver malignancy with heterogeneous responses to gemcitabine-based chemotherapy. The cellular and microenvironmental programs associated with the gemcitabine response remain incompletely understood. This study aimed to identify tumor microenvironment-associated regulators of gemcitabine response in ICC and evaluate their functional relevance using patient-derived organoids. Four public single-cell RNA sequencing datasets comprising 50,176 cells were integrated with TCGA-based transcriptomic and drug sensitivity analyses. High-dimensional weighted gene co-expression network analysis was used to identify cell type-associated modules. Predicted gemcitabine IC50-related differentially expressed genes were intersected with the fibroblast-associated module genes. Patient-derived ICC organoids were used for gemcitabine sensitivity testing and CRISPR/Cas9-mediated TPM2 knockout validation. Single-cell analysis revealed fibroblast enrichment in ICC, and co-expression analysis identified fibroblast-associated modules enriched in extracellular matrix organization and ECM-receptor interaction. Integrated analysis identified TPM2 as a fibroblast-enriched candidate associated with poor prognosis, activation of epithelial-mesenchymal transition, TGF-β and Notch-related pathways, and dynamic cellular state transitions. Patient-derived ICC organoids retained features of matched tumors and showed distinct gemcitabine sensitivities that were broadly consistent with the clinical imaging responses. In a relatively gemcitabine-resistant organoid model, TPM2 knockout enhanced gemcitabine-induced cytotoxicity and suppressed EMT/ECM-related programs and Notch signaling. These findings identify TPM2-associated cell-matrix remodeling as a potential contributor to gemcitabine resistance in ICC and support patient-derived organoids as a functional platform for studying therapeutic vulnerabilities.",
+      "journal": "Cancer biology & therapy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Fujian Medical University Union Hospital, Fuzhou, Fujian, People's Republic of China.",
+        "Fujian Medical University Union Clinical Medicine College, Fuzhou, Fujian, People's Republic of China.",
+        "Department of Cancer Institute, Fudan University Shanghai Cancer Center, Shanghai, People's Republic of China.",
+        "Department of Radiation Oncology, Fujian Medical University Union Hospital, Fuzhou, Fujian, People's Republic of China."
+      ],
+      "doi": "10.1080/15384047.2026.2725344",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766730/"
+    },
+    {
+      "pmid": "42766221",
+      "title": "Cardiac Organoids for Modeling Congenital Heart Disease: From Genetic Discovery to Therapeutic Screening.",
+      "abstract": "Congenital heart disease (CHD) is the most common birth defect and a leading cause of infant mortality. This review highlights recent advances in human stem cell-derived cardiac organoids and their applications to understand CHD etiology, with a focus on functional genomics and therapeutic discovery. Advances in cardiac organoid engineering have enabled increasingly complex models with enhanced vascularization, diverse cellular lineages, and chamber-specific features that more faithfully mimic the developing heart. Single-cell transcriptomic and epigenomic profiling of organoid differentiation has revealed gene regulatory programs governing cardiogenesis. Machine learning models trained on these datasets provide powerful frameworks for predicting genetic variant effects associated with CHD. Cardiac organoids provide scalable, human-specific platforms for investigating CHD etiology across multiple cell types and disease-relevant developmental stages. Combined with single-cell profiling and machine learning, cardiac organoids offer new opportunities for CHD mechanistic discovery, improved genetic risk prediction, and personalized therapeutic development.",
+      "journal": "Current cardiology reports",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Genetics, Stanford School of Medicine, Stanford, CA, USA.",
+        "Department of Pediatrics Cardiology, Stanford School of Medicine, Stanford, CA, USA.",
+        "Department of Genetics, Stanford School of Medicine, Stanford, CA, USA. caseygifford@stanford.edu.",
+        "Department of Pediatrics Cardiology, Stanford School of Medicine, Stanford, CA, USA. caseygifford@stanford.edu."
+      ],
+      "doi": "10.1007/s11886-026-02418-9",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766221/"
+    },
+    {
+      "pmid": "42765994",
+      "title": "Pathway to Independence - an interview with Swarnabh Bhattacharya (Zico).",
+      "abstract": "Swarnabh Bhattacharya (Zico) is a Principal Investigator at the Saha Institute of Nuclear Physics, India. He was previously a Postdoctoral Research Fellow and later an Instructor at Dana-Farber Cancer Institute and Harvard Medical School, USA. Swarnabh is interested in understanding the intricate processes that govern the maintenance and regeneration of epithelial stem cell populations in the intestine and cornea, using mice, organoids and primary human stem cell culture systems. He is part of the 2026 cohort of fellows of Development's Pathway to Independence programme, which aims to support postdocs in obtaining their first faculty positions. We met with Swarnabh via Teams to discuss his research spanning corneal and intestinal biology, as well as his future plans to understand the epigenetic and molecular programmes that regulate stem cell and daughter cell phenotypes in health and disease.",
+      "journal": "Development (Cambridge, England)",
+      "publicationTypes": [
+        "Interview"
+      ],
+      "affiliations": [],
+      "doi": "10.1242/dev.206103",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765994/"
+    },
+    {
+      "pmid": "42765769",
+      "title": "Millifluidic triMEA organoid platform with stretchable microelectrode arrays for parallel organoid electrophysiology under standardized perfusion.",
+      "abstract": "Organoids enable rigorous studies of neurodevelopment and disease, yet existing platforms often compromise between precise microenvironment control and reliable electrophysiological measurement. The challenge of achieving uniform perfusion alongside multi-well volumetric neural recordings limits parallel functional characterization and technical reproducibility across samples. Here, we present the triMEA millifluidic platform, which integrates three stretchable microelectrode arrays within a single device and delivers uniform perfusion across three independent wells. A single inlet supplies identical perfusion to each well, which stabilizes flow patterns and equalizes mechanical stimuli between chambers. This design facilitates simultaneous, independent electrophysiological recordings from three organoids within a single experimental setup. Using human midbrain organoids as a proof-of-concept biological model, we provide computational and experimental validation of the fluidic profiles and demonstrate electrophysiological recordings across all three wells under continuous perfusion. This platform establishes a reproducible and standardized foundation for parallel organoid interfacing.",
+      "journal": "Lab on a chip",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, South Korea. hyunjoo@snu.ac.kr.",
+        "Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon 34141, South Korea.",
+        "Graduate School of Semiconductor Technology, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, South Korea.",
+        "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Columbia University, New York, NY, USA.",
+        "Stavros Niarchos Foundation Center for Precision Psychiatry and Mental Health, Columbia University, New York, NY, USA.",
+        "Department of Electrical and Computer Engineering, Seoul National University, Seoul 08826, South Korea.",
+        "Department of Brain & Cognitive Sciences, Seoul National University, Seoul 08826, South Korea."
+      ],
+      "doi": "10.1039/d6lc00391e",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765769/"
+    },
     {
       "pmid": "42765106",
       "title": "Label-free ultraviolet photoacoustic microscopy for multiscale structural phenotyping of epithelial morphogenesis in organoid-derived intestinal epithelial wrinkle tissue.",
@@ -81,81 +152,6 @@
       "doi": "10.1016/j.apsb.2026.06.012",
       "date": "2026-06-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764951/"
-    },
-    {
-      "pmid": "42764940",
-      "title": "Emerging organoids and organoids-on-chip platforms for translational development of antibody‒drug conjugates and next-generation bioconjugates.",
-      "abstract": "The rapid evolution of antibody‒drug conjugates (ADCs) and emerging X-drug conjugates (XDCs) has revolutionized targeted cancer therapy, yet their clinical translation is severely bottlenecked by the lack of human-relevant preclinical models. To bridge this translational gap, patient-derived organoids and organoids-on-chip (OoC) platforms recapitulate key features of human tumor biology, offering powerful tools for investigating cancer heterogeneity and improving the predictive evaluation of bioconjugated therapeutics. In this review, we systematically summarize the current landscape and challenges of ADCs and XDCs development across existing preclinical models, critically discuss the concepts, biological principles and application potential of organoid- and OoC-based systems, and highlight recent global policy developments and collaborative initiatives shaping their translational implementation. Finally, we highlight key challenges and future perspectives for leveraging organoids and OoCs in the druggability assessment, optimization, and translational development of ADCs and XDCs.",
-      "journal": "Acta pharmaceutica Sinica. B",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Bioactive Molecules and Druggability Assessment/Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs/Institute of Pharmaceutical Analysis, College of Pharmacy, Jinan University, Guangzhou 510632, China.",
-        "Laboratory of Tissue Plasticity in Health and Disease, Cluster of Stem Cell and Developmental Biology, Department of Development and Regeneration, KU Leuven, Leuven 3000, Belgium.",
-        "School of Engineering, Westlake University, Hangzhou 310024, China.",
-        "Imagine Institut, INSERM U1163, Paris Cite University, Paris 75015, France.",
-        "Department of Biomedical Engineering, School of Medicine, The Chinese University of Hong Kong (Shenzhen), Shenzhen 518172, China."
-      ],
-      "doi": "10.1016/j.apsb.2026.05.032",
-      "date": "2026-06-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764940/"
-    },
-    {
-      "pmid": "42764884",
-      "title": "Nanomaterial-mediated functional remodeling of antigen-presenting cells: A novel strategy to break tumor immune escape.",
-      "abstract": "With the cross-integration of nanotechnology and immunology, nanomaterials have shown great potential in tumor treatment. This review begins with the nanomaterials have unique advantages in reshaping the tumor immune microenvironment (TIME), including improving targeting, enhancing stability, increasing delivery efficiency, achieving controllable release, and endowing a multi-functional integrated platform. We then systematically reviews the recently research progress on the multi-mechanism regulation of antigen-presenting cells (APCs) by nanomaterials: (1) In the aspect of dendritic cell activation, we focus on the breakthrough achievements such as the activation of immune responses through the generation of immune signal complexes and the promotion of tumor neoantigen presentation; (2) In the field of macrophage reprogramming, we analyze the applications of nanomaterials in inducing macrophage polarization, improving the anti-tumor phagocytosis of macrophages, blocking macrophage autophagy, and enhancing the synergy of immune cells; (3) In the regulation of B cells, we explore the mechanism by which nanomaterials enhance the germinal center response and thereby exert anti-tumor immune effects. This article further discusses key challenges in clinical translation, including the dynamic fate of nanomaterials in complex TIME and the balance between immunogenicity and efficacy, and proposes future directions for accelerating clinical translation through computer-aided design (such as AI prediction of nanomaterial-immune cell interaction networks) and organ-on-a-chip evaluation systems. This review provides a theoretical framework and technical route for the development of next-generation tumor immunonanomedicines.",
-      "journal": "Acta pharmaceutica Sinica. B",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmacology, School of Pharmacy, China Medical University, Shenyang 110122, China.",
-        "Liaoning Key Laboratory of Molecular Targeted Anti-tumor Drug Development and Evaluation, China Medical University, Shenyang 110122, China."
-      ],
-      "doi": "10.1016/j.apsb.2026.06.038",
-      "date": "2026-06-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764884/"
-    },
-    {
-      "pmid": "42764557",
-      "title": "Targeting the Brain: Are Nanodrugs Ready for Clinical Translation in CNS Disorders?",
-      "abstract": "Although significant progress has been made in nanotechnology, the clinical translation of central nervous system (CNS) therapeutics has been limited. While engineered nanocarriers have greatly enhanced blood-brain barrier (BBB) transport, there is now growing evidence that enhanced brain delivery is not sufficient for therapeutic success. Based on this, it is suggested that the key obstacle to translation is now the poor engagement of the molecule at the BBB, its intracellular pharmacology, and its pharmacodynamic response. This perspective underscores the evolving paradigm shift from delivery-based nanomedicine to target-based precision pharmacology where therapeutic engagement is quantified by target occupancy, pathway modulation in the context of disease, and translational relevance to the human condition. This integration of validated disease biology and intelligent delivery design can now be achieved through the advent of new technologies such as artificial intelligence (AI), systems pharmacology, receptor-guided engineering of nanocarriers, spatial multi-omics, brain organoids, and BBB-on-chip technologies. This target-oriented approach is expected to facilitate clinical reproducibility and accelerate the development of safer, more effective, and individualized nanotherapeutics for CNS diseases.",
-      "journal": "Current drug targets",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biotechnology, Chandigarh College of Technology, Chandigarh Group of Colleges, Landran, Mohali, Punjab, India.",
-        "Department of Physiology & Pharmacology, College of Medicine, Taipei Medical University, Taipei, 110301, Taiwan."
-      ],
-      "doi": "10.2174/0113894501515112260901061515",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764557/"
-    },
-    {
-      "pmid": "42764523",
-      "title": "Muscle Organoids and Organs-on-Chips: A 15-Year Global Bibliometric Perspective.",
-      "abstract": "Muscle organoids and Organs-on-Chips (OoCs) have emerged as advanced strategies in regenerative medicine and preclinical investigation for muscular diseases. Here, we aim to conduct a comprehensive bibliometric analysis to reveal the global research trends and their evolution in these fields. We retrieved studies on muscle organoids and OoCs published between 2010 and 2025 were retrieved from the Web of Science Core Collection (WoSCC), Scopus, and PubMed databases. Quantitative mapping of publication trends, academic impact, and research hotspots was conducted using R-bibliometrix, VOSviewer, and CiteSpace. A total of 2,083 articles (cardiac, n = 990; smooth, n = 921; and skeletal, n = 261, subgroups are nonexclusive categories) were included. Global publications have expanded rapidly since 2016, achieving an average annual growth rate of 26.0% and peaking in 2025. The United States and China emerged as leading countries in both publication and citation numbers, and Harvard University took the lead among different institutions. Thematic analysis revealed a developmental trajectory evolving from fundamental material engineering (e.g., biosensors) toward functional validation (e.g., drug screening) and sophisticated microenvironment reconstruction (e.g., vascularization and barrier functions). Furthermore, multidimensional metrics suggested a synchronized pattern of academic impact and developmental focus across all three muscle types. This bibliometric analysis reveals a thematic evolution in research priorities, moving beyond generic microfluidic design to addressing systemic tissue engineering bottlenecks, specifically perfusable vascularization, neuromuscular innervation, and multilineage maturation. These findings offer a bibliometric overview that can inform future efforts toward platform standardization, high-throughput screening, and clinical translation for muscular diseases.",
-      "journal": "Tissue engineering. Part B, Reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Rehabilitation Medicine, The Third Affiliated Hospital, Southern Medical University, Guangzhou, China.",
-        "School of Pharmaceutical Sciences, Southern Medical University, Guangdong, China.",
-        "Division of Orthopaedic Surgery, Department of Orthopaedics, Nanfang Hospital, Southern Medical University, Guangzhou, China.",
-        "Clinical Research Centre, Zhujiang Hospital, Southern Medical University, Guangzhou, China.",
-        "Department of Biomedical Engineering, The Chinese University of Hong Kong, Shatin, China.",
-        "School of Rehabilitation Medicine, Southern Medical University, Guangzhou, China.",
-        "Department of Orthopaedic Surgery, Chongqing Municipal Health Commission Key Laboratory of Musculoskeletal Regeneration and Translational Medicine, Orthopaedic Research Laboratory of Chongqing Medical University, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China."
-      ],
-      "doi": "10.1177/19373368261486378",
-      "date": "2026-09-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764523/"
     },
     {
       "pmid": "42758091",
@@ -423,7 +419,7 @@
         "Review"
       ],
       "affiliations": [
-        "Department of Gastroenterological Surgery, Kochi Health Sciences Center."
+        "Department of Gastroenterological Surgery, Kochi Health Sciences Center, Kochi City, Japan."
       ],
       "doi": "10.1080/17474124.2026.2737415",
       "date": "2026-09-21",
@@ -525,6 +521,134 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42766730",
+      "date": "2026-09-21",
+      "title": "Fibroblast-associated TPM2 links cell-matrix remodeling to EMT-Notch signaling and gemcitabine resistance in intrahepatic cholangiocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer biology & therapy，PMID 为 42766730。",
+      "report": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive liver malignancy with heterogeneous responses to gemcitabine-based chemotherapy. The cellular and microenvironmental programs associated with the gemcitabine response remain incompletely understood. This s...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42766221",
+      "date": "2026-09-21",
+      "title": "Cardiac Organoids for Modeling Congenital Heart Disease: From Genetic Discovery to Therapeutic Screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766221/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current cardiology reports，PMID 为 42766221。",
+      "report": "Congenital heart disease (CHD) is the most common birth defect and a leading cause of infant mortality. This review highlights recent advances in human stem cell-derived cardiac organoids and their applications to understand CHD etiology, with a focus on funct...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42765994",
+      "date": "2026-09-21",
+      "title": "Pathway to Independence - an interview with Swarnabh Bhattacharya (Zico).",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765994/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42765994。",
+      "report": "Swarnabh Bhattacharya (Zico) is a Principal Investigator at the Saha Institute of Nuclear Physics, India. He was previously a Postdoctoral Research Fellow and later an Instructor at Dana-Farber Cancer Institute and Harvard Medical School, USA. Swarnabh is inte...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42765769",
+      "date": "2026-09-21",
+      "title": "Millifluidic triMEA organoid platform with stretchable microelectrode arrays for parallel organoid electrophysiology under standardized perfusion.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765769/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42765769。",
+      "report": "Organoids enable rigorous studies of neurodevelopment and disease, yet existing platforms often compromise between precise microenvironment control and reliable electrophysiological measurement. The challenge of achieving uniform perfusion alongside multi-well...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42764713",
       "date": "2026-09-21",
       "title": "IPMN beyond the cyst: toward a broader framework of pancreatic and systemic cancer susceptibility.",
@@ -554,36 +678,6 @@
       "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42764713。",
       "report": "Intraductal papillary mucinous neoplasms (IPMNs) are established precursor lesions of pancreatic ductal adenocarcinoma (PDAC). Although current guidelines primarily focus on lesion morphology, emerging evidence suggests that IPMN may also be associated with br...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42764523",
-      "date": "2026-09-20",
-      "title": "Muscle Organoids and Organs-on-Chips: A 15-Year Global Bibliometric Perspective.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764523/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue engineering. Part B, Reviews，PMID 为 42764523。",
-      "report": "Muscle organoids and Organs-on-Chips (OoCs) have emerged as advanced strategies in regenerative medicine and preclinical investigation for muscular diseases. Here, we aim to conduct a comprehensive bibliometric analysis to reveal the global research trends and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -935,36 +1029,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42764557",
-      "date": "2026-09-11",
-      "title": "Targeting the Brain: Are Nanodrugs Ready for Clinical Translation in CNS Disorders?",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764557/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current drug targets，PMID 为 42764557。",
-      "report": "Although significant progress has been made in nanotechnology, the clinical translation of central nervous system (CNS) therapeutics has been limited. While engineered nanocarriers have greatly enhanced blood-brain barrier (BBB) transport, there is now growing...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42741841",
       "date": "2026-09-07",
       "title": "A transcription factor regulatory atlas for activity inference and perturbation prediction.",
@@ -1185,66 +1249,6 @@
       "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42763154。",
       "report": "The sensitive, point-of-care detection of acute myeloid leukemia (AML)-derived exosomes is essential for non-invasive diagnosis and therapy monitoring, but remains technically challenging. Here we report a colorimetric biosensor based on a dual -aptamer-initia...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42764884",
-      "date": "2026-06-24",
-      "title": "Nanomaterial-mediated functional remodeling of antigen-presenting cells: A novel strategy to break tumor immune escape.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764884/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764884。",
-      "report": "With the cross-integration of nanotechnology and immunology, nanomaterials have shown great potential in tumor treatment. This review begins with the nanomaterials have unique advantages in reshaping the tumor immune microenvironment (TIME), including improvin...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42764940",
-      "date": "2026-06-11",
-      "title": "Emerging organoids and organoids-on-chip platforms for translational development of antibody‒drug conjugates and next-generation bioconjugates.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764940/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764940。",
-      "report": "The rapid evolution of antibody‒drug conjugates (ADCs) and emerging X-drug conjugates (XDCs) has revolutionized targeted cancer therapy, yet their clinical translation is severely bottlenecked by the lack of human-relevant preclinical models. To bridge this tr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

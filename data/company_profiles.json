@@ -63255,6 +63255,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001601830-000160183026000112",
           "evidence-company-recursion-pipeline-3a8b1fbea31f",
           "evidence-company-recursion-official-9d4aad28daa7",
           "evidence-company-recursion-investor_relations-885ef40aa332",
@@ -63265,6 +63266,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001601830-000160183026000112",
+            "date": "2026-09-21",
+            "title": "Recursion Pharmaceuticals filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001601830-000160183026000112",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
+          },
           {
             "id": "event-evidence-company-recursion-pipeline-3a8b1fbea31f",
             "date": "2026-09-16",
@@ -63308,17 +63320,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000098",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001601830-000160183026000097",
-            "date": "2026-08-05",
-            "title": "Recursion Pharmaceuticals filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001601830-000160183026000097",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000097/rxrx-20260805.htm"
           }
         ],
         "inferences": [],
@@ -63329,12 +63330,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-16",
+        "lastEvidenceDate": "2026-09-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63343,6 +63344,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001601830-000160183026000112",
+          "date": "2026-09-21",
+          "title": "Recursion Pharmaceuticals filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001601830-000160183026000112",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
+        },
         {
           "id": "event-evidence-company-recursion-pipeline-3a8b1fbea31f",
           "date": "2026-09-16",
