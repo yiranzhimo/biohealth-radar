@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-21T08:59:42+00:00",
-  "count": 592,
+  "capturedAt": "2026-09-22T08:36:11+00:00",
+  "count": 591,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -2390,23 +2390,6 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-barinthus-biotherapeutics",
-      "name": "Barinthus Biotherapeutics plc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001828185",
-      "identifiers": {
-        "cik": [
-          "0001828185"
-        ],
-        "ticker": [
-          "BRNS"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
@@ -8470,7 +8453,7 @@
           "0001562733"
         ],
         "ticker": [
-          "SNYR"
+          "SNYRQ"
         ]
       },
       "sourceTypes": [
