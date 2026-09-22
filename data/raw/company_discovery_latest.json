@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-22T11:45:51.224595+00:00",
+  "capturedAt": "2026-09-22T17:00:49.404763+00:00",
   "summary": {
-    "mentionCount": 664,
-    "candidateCount": 596,
+    "mentionCount": 667,
+    "candidateCount": 598,
     "corroboratedCount": 2,
     "identifiedCount": 587,
-    "needsReviewCount": 7,
-    "knownCompanyMentionCount": 15,
+    "needsReviewCount": 9,
+    "knownCompanyMentionCount": 16,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 5,
+      "ClinicalTrials": 8,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,47 +20,129 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0c5b01536def104c",
-      "observedName": "Global Alliance for Regenerative Medicine",
-      "normalizedName": "global alliance for regenerative medicine",
+      "id": "mention-clinicaltrials-0832b043e191f502",
+      "observedName": "Regeneron Pharmaceuticals",
+      "normalizedName": "regeneron pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07443826",
-      "sourceDate": "2026-07-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07393282",
+      "sourceDate": "2026-09-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07393282",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "Healthcare AI",
-        "Medical AI",
         "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "基因治疗",
-        "基因编辑"
+        "临床试验"
       ],
       "activitySignals": [
         "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
+      "contextTitle": "A Study to Compare Linvoseltamab and Daratumumab Treatment in High-Risk Smoldering Multiple Myeloma (HR-SMM)"
     },
     {
-      "id": "mention-clinicaltrials-1797b1946e72073c",
-      "observedName": "Janssen Scientific Affairs, LLC",
-      "normalizedName": "janssen scientific affairs",
+      "id": "mention-clinicaltrials-81e0752aa4d0324b",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02964585",
-      "sourceDate": "2022-12-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02964585",
+      "sourceRecordId": "NCT02311582",
+      "sourceDate": "2025-05-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02311582",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "MK-3475 in Combination With MRI-guided Laser Ablation in Recurrent Malignant Gliomas"
+    },
+    {
+      "id": "mention-clinicaltrials-94012fd858c309a2",
+      "observedName": "Hamilton Health Sciences Corporation",
+      "normalizedName": "hamilton health sciences",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06648239",
+      "sourceDate": "2026-05-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Medical AI",
+        "Precision Medicine",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "精准医疗",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
+    },
+    {
+      "id": "mention-clinicaltrials-9f9a075b8d0efa1e",
+      "observedName": "SEngine Precision Medicine, Inc.",
+      "normalizedName": "sengine precision medicine",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04561453",
+      "sourceDate": "2025-07-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Organoids",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-a69ffa583f50d835",
+      "observedName": "Precigen, Inc",
+      "normalizedName": "precigen",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03409627",
+      "sourceDate": "2020-12-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -71,95 +153,89 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Role of Canagliflozin on CD34+ Cells in Patients With Type 2 Diabetes"
+      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
     },
     {
-      "id": "mention-clinicaltrials-481a7e046254cf53",
-      "observedName": "Known Medicine, Inc.",
-      "normalizedName": "known medicine",
+      "id": "mention-clinicaltrials-c7890d06b01d23be",
+      "observedName": "Triple-Gene, LLC",
+      "normalizedName": "triple gene",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05338073",
-      "sourceDate": "2023-04-24",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05338073",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "KM3D Multicenter Cancer Consortium: Predicting Patient Response Using 3D Cell Culture Models"
-    },
-    {
-      "id": "mention-clinicaltrials-5e3ee9ac00bf89c3",
-      "observedName": "Shanghai OneTar Biomedicine Co., Ltd.",
-      "normalizedName": "shanghai onetar biomedicine",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05352165",
-      "sourceDate": "2022-04-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05352165",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "The Clinical Efficacy of Drug Sensitive Neoadjuvant Chemotherapy Based on Organoid Versus Traditional Neoadjuvant Chemotherapy in Advanced Rectal Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-cae6ff1205e97c98",
-      "observedName": "Unlimited Biotechnology LLC",
-      "normalizedName": "unlimited biotechnology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07443826",
-      "sourceDate": "2026-07-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
+      "sourceRecordId": "NCT03409627",
+      "sourceDate": "2020-12-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "基因治疗",
-        "基因编辑"
+        "临床试验"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
+      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+    },
+    {
+      "id": "mention-clinicaltrials-d452c5d797ec573c",
+      "observedName": "Natera, Inc.",
+      "normalizedName": "natera",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04561453",
+      "sourceDate": "2025-07-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
+      "knownCompanyIds": [
+        "natera"
+      ],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Organoids",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-f0144d463299b4ff",
+      "observedName": "Intrexon Corporation",
+      "normalizedName": "intrexon",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03409627",
+      "sourceDate": "2020-12-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44040,41 +44116,43 @@
       ]
     },
     {
-      "id": "candidate-known-medicine",
-      "name": "Known Medicine, Inc.",
+      "id": "candidate-hamilton-health-sciences",
+      "name": "Hamilton Health Sciences Corporation",
       "aliases": [
-        "Known Medicine, Inc."
+        "Hamilton Health Sciences Corporation"
       ],
-      "normalizedName": "known medicine",
+      "normalizedName": "hamilton health sciences",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2023-04-24",
-      "lastSeenAt": "2023-04-24",
+      "firstSeenAt": "2026-05-11",
+      "lastSeenAt": "2026-05-11",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Advanced Disease Models",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
+          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
+          "Precision Medicine",
+          "临床决策支持",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "医疗 AI",
+          "精准医疗",
+          "诊断"
         ],
         "themes": [
-          "Advanced Disease Models",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
+          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
+          "Precision Medicine",
+          "临床决策支持",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "医疗 AI",
+          "精准医疗",
+          "诊断"
         ],
         "tags": []
       },
@@ -44087,60 +44165,44 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-481a7e046254cf53"
+        "mention-clinicaltrials-94012fd858c309a2"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2023-04-24",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05338073",
-          "externalId": "NCT05338073",
-          "contextTitle": "KM3D Multicenter Cancer Consortium: Predicting Patient Response Using 3D Cell Culture Models"
+          "sourceDate": "2026-05-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+          "externalId": "NCT06648239",
+          "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
         }
       ]
     },
     {
-      "id": "candidate-unlimited-biotechnology",
-      "name": "Unlimited Biotechnology LLC",
+      "id": "candidate-regeneron-pharmaceuticals",
+      "name": "Regeneron Pharmaceuticals",
       "aliases": [
-        "Unlimited Biotechnology LLC"
+        "Regeneron Pharmaceuticals"
       ],
-      "normalizedName": "unlimited biotechnology",
+      "normalizedName": "regeneron pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-07-13",
-      "lastSeenAt": "2026-07-13",
+      "firstSeenAt": "2026-09-15",
+      "lastSeenAt": "2026-09-15",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "Healthcare AI",
-          "Medical AI",
           "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "基因治疗",
-          "基因编辑"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "Healthcare AI",
-          "Medical AI",
           "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "基因治疗",
-          "基因编辑"
+          "临床试验"
         ],
         "tags": []
       },
@@ -44153,17 +44215,65 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-cae6ff1205e97c98"
+        "mention-clinicaltrials-0832b043e191f502"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-07-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
-          "externalId": "NCT07443826",
-          "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
+          "sourceDate": "2026-09-15",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07393282",
+          "externalId": "NCT07393282",
+          "contextTitle": "A Study to Compare Linvoseltamab and Daratumumab Treatment in High-Risk Smoldering Multiple Myeloma (HR-SMM)"
+        }
+      ]
+    },
+    {
+      "id": "candidate-triple-gene",
+      "name": "Triple-Gene, LLC",
+      "aliases": [
+        "Triple-Gene, LLC"
+      ],
+      "normalizedName": "triple gene",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2020-12-04",
+      "lastSeenAt": "2020-12-04",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-c7890d06b01d23be"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2020-12-04",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+          "externalId": "NCT03409627",
+          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
         }
       ]
     },
@@ -47492,84 +47602,18 @@
       ]
     },
     {
-      "id": "candidate-global-alliance-for-regenerative-medicine",
-      "name": "Global Alliance for Regenerative Medicine",
+      "id": "candidate-intrexon",
+      "name": "Intrexon Corporation",
       "aliases": [
-        "Global Alliance for Regenerative Medicine"
+        "Intrexon Corporation"
       ],
-      "normalizedName": "global alliance for regenerative medicine",
+      "normalizedName": "intrexon",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-07-13",
-      "lastSeenAt": "2026-07-13",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "基因治疗",
-          "基因编辑"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "基因治疗",
-          "基因编辑"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-0c5b01536def104c"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-07-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07443826",
-          "externalId": "NCT07443826",
-          "contextTitle": "CALM-AF-AI: Counteracting Age-related Loss of Muscle With AAV-Follistatin Combined With Angiogenesis-Inducing VEGF Plasmid Gene Therapy"
-        }
-      ]
-    },
-    {
-      "id": "candidate-janssen-scientific-affairs",
-      "name": "Janssen Scientific Affairs, LLC",
-      "aliases": [
-        "Janssen Scientific Affairs, LLC"
-      ],
-      "normalizedName": "janssen scientific affairs",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2022-12-07",
-      "lastSeenAt": "2022-12-07",
+      "firstSeenAt": "2020-12-04",
+      "lastSeenAt": "2020-12-04",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -47591,55 +47635,47 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-1797b1946e72073c"
+        "mention-clinicaltrials-f0144d463299b4ff"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2022-12-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02964585",
-          "externalId": "NCT02964585",
-          "contextTitle": "Role of Canagliflozin on CD34+ Cells in Patients With Type 2 Diabetes"
+          "sourceDate": "2020-12-04",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+          "externalId": "NCT03409627",
+          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
         }
       ]
     },
     {
-      "id": "candidate-shanghai-onetar-biomedicine",
-      "name": "Shanghai OneTar Biomedicine Co., Ltd.",
+      "id": "candidate-merck-sharp-and-dohme",
+      "name": "Merck Sharp & Dohme LLC",
       "aliases": [
-        "Shanghai OneTar Biomedicine Co., Ltd."
+        "Merck Sharp & Dohme LLC"
       ],
-      "normalizedName": "shanghai onetar biomedicine",
+      "normalizedName": "merck sharp and dohme",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2022-04-28",
-      "lastSeenAt": "2022-04-28",
+      "firstSeenAt": "2025-05-29",
+      "lastSeenAt": "2025-05-29",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
-          "Organoids",
           "Precision Oncology",
           "临床试验",
-          "疾病模型",
-          "类器官",
           "肿瘤"
         ],
         "themes": [
-          "Advanced Disease Models",
           "Clinical Trials",
           "Oncology",
-          "Organoids",
           "Precision Oncology",
           "临床试验",
-          "疾病模型",
-          "类器官",
           "肿瘤"
         ],
         "tags": []
@@ -47653,17 +47689,143 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-5e3ee9ac00bf89c3"
+        "mention-clinicaltrials-81e0752aa4d0324b"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2022-04-28",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05352165",
-          "externalId": "NCT05352165",
-          "contextTitle": "The Clinical Efficacy of Drug Sensitive Neoadjuvant Chemotherapy Based on Organoid Versus Traditional Neoadjuvant Chemotherapy in Advanced Rectal Cancer"
+          "sourceDate": "2025-05-29",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02311582",
+          "externalId": "NCT02311582",
+          "contextTitle": "MK-3475 in Combination With MRI-guided Laser Ablation in Recurrent Malignant Gliomas"
+        }
+      ]
+    },
+    {
+      "id": "candidate-precigen",
+      "name": "Precigen, Inc",
+      "aliases": [
+        "Precigen, Inc"
+      ],
+      "normalizedName": "precigen",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2020-12-04",
+      "lastSeenAt": "2020-12-04",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-a69ffa583f50d835"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2020-12-04",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+          "externalId": "NCT03409627",
+          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+        }
+      ]
+    },
+    {
+      "id": "candidate-sengine-precision-medicine",
+      "name": "SEngine Precision Medicine, Inc.",
+      "aliases": [
+        "SEngine Precision Medicine, Inc."
+      ],
+      "normalizedName": "sengine precision medicine",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-07-10",
+      "lastSeenAt": "2025-07-10",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Advanced Disease Models",
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Organoids",
+          "Precision Medicine",
+          "Precision Oncology",
+          "biomarker",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "themes": [
+          "Advanced Disease Models",
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Organoids",
+          "Precision Medicine",
+          "Precision Oncology",
+          "biomarker",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-9f9a075b8d0efa1e"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-07-10",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
+          "externalId": "NCT04561453",
+          "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
         }
       ]
     }
