@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_universe",
-  "asOfDate": "2026-09-21",
+  "asOfDate": "2026-09-22",
   "entities": [
     {
       "id": "10x-genomics",
@@ -71,7 +71,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -135,7 +135,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -196,7 +196,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -257,7 +257,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -318,7 +318,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -382,7 +382,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -446,7 +446,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -507,7 +507,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -568,7 +568,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -629,7 +629,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -690,7 +690,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -751,7 +751,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -812,7 +812,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -873,7 +873,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -934,7 +934,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -995,7 +995,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1056,7 +1056,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1117,7 +1117,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1180,7 +1180,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -1244,7 +1244,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -1308,7 +1308,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1369,7 +1369,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1430,7 +1430,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1491,7 +1491,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -1555,7 +1555,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1616,7 +1616,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1677,7 +1677,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1738,7 +1738,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1799,7 +1799,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1860,7 +1860,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1921,7 +1921,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -1982,7 +1982,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2043,7 +2043,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2104,7 +2104,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2165,7 +2165,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2226,7 +2226,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2287,7 +2287,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2348,7 +2348,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2409,7 +2409,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2470,7 +2470,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2537,7 +2537,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -2601,7 +2601,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2662,7 +2662,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2723,7 +2723,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2784,7 +2784,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2845,7 +2845,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -2909,7 +2909,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -2970,7 +2970,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3031,7 +3031,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -3097,7 +3097,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -3161,7 +3161,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3222,7 +3222,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3283,7 +3283,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3366,7 +3366,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3427,7 +3427,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3488,7 +3488,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3549,7 +3549,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -3613,7 +3613,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3674,7 +3674,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -3738,7 +3738,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3799,7 +3799,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3862,7 +3862,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -3927,7 +3927,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -3988,7 +3988,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4070,7 +4070,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4131,7 +4131,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4192,7 +4192,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -4256,7 +4256,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4317,7 +4317,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4378,7 +4378,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4439,7 +4439,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4519,7 +4519,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4580,7 +4580,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4641,7 +4641,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4702,7 +4702,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4763,7 +4763,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4824,7 +4824,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4885,7 +4885,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -4952,7 +4952,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -5016,7 +5016,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5077,7 +5077,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5138,7 +5138,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5199,7 +5199,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5260,7 +5260,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5321,7 +5321,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5382,7 +5382,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5443,7 +5443,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5504,7 +5504,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5565,7 +5565,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5626,7 +5626,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5687,7 +5687,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5748,7 +5748,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -5812,7 +5812,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5873,7 +5873,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5934,7 +5934,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -5995,7 +5995,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6056,7 +6056,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6117,7 +6117,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6178,7 +6178,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6260,7 +6260,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6321,7 +6321,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6382,7 +6382,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6443,7 +6443,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6504,7 +6504,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6565,7 +6565,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6626,7 +6626,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6687,7 +6687,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6748,7 +6748,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6809,7 +6809,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6870,7 +6870,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -6952,7 +6952,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7013,7 +7013,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7074,7 +7074,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -7138,7 +7138,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7199,7 +7199,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -7263,7 +7263,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7324,7 +7324,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7385,7 +7385,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7446,7 +7446,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7507,7 +7507,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7568,7 +7568,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7629,7 +7629,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7690,7 +7690,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7751,7 +7751,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7812,7 +7812,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7873,7 +7873,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7934,7 +7934,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -7995,7 +7995,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8056,7 +8056,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8138,7 +8138,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8199,7 +8199,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8260,7 +8260,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8321,7 +8321,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8382,7 +8382,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8443,7 +8443,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8504,7 +8504,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8565,7 +8565,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8626,7 +8626,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8687,7 +8687,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -8751,7 +8751,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -8815,7 +8815,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -8876,7 +8876,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -8940,7 +8940,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9001,7 +9001,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9084,7 +9084,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9153,7 +9153,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -9217,7 +9217,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9302,7 +9302,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9363,7 +9363,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9424,7 +9424,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9485,7 +9485,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9546,7 +9546,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9607,7 +9607,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9668,7 +9668,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9729,7 +9729,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9790,7 +9790,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9851,7 +9851,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9912,7 +9912,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -9973,7 +9973,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10034,7 +10034,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10095,7 +10095,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10156,7 +10156,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10217,7 +10217,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -10281,7 +10281,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10342,7 +10342,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -10406,7 +10406,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10467,7 +10467,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10528,7 +10528,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10589,7 +10589,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10650,7 +10650,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -10714,7 +10714,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10775,7 +10775,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10836,7 +10836,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10897,7 +10897,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -10958,7 +10958,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11019,7 +11019,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11080,7 +11080,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -11144,7 +11144,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11205,7 +11205,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11272,7 +11272,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -11336,7 +11336,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11397,7 +11397,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11458,7 +11458,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11519,7 +11519,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11580,7 +11580,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11643,7 +11643,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -11707,7 +11707,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11776,7 +11776,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -11840,7 +11840,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11901,7 +11901,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -11962,7 +11962,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -12026,7 +12026,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12087,7 +12087,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -12151,7 +12151,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12212,7 +12212,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12273,7 +12273,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12334,7 +12334,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12395,7 +12395,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12456,7 +12456,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12517,7 +12517,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -12581,7 +12581,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12642,7 +12642,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -12706,7 +12706,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12767,7 +12767,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12828,7 +12828,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12911,7 +12911,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -12972,7 +12972,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13033,7 +13033,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13113,7 +13113,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13174,7 +13174,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13235,7 +13235,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13296,7 +13296,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -13360,7 +13360,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13421,7 +13421,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13482,7 +13482,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13543,7 +13543,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13610,7 +13610,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -13680,7 +13680,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -13744,7 +13744,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13809,7 +13809,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -13873,7 +13873,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13934,7 +13934,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -13995,7 +13995,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14056,7 +14056,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14117,7 +14117,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -14181,7 +14181,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14242,7 +14242,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14303,7 +14303,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14364,7 +14364,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14425,7 +14425,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14488,7 +14488,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -14552,7 +14552,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14613,7 +14613,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14674,7 +14674,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14735,7 +14735,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14804,7 +14804,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -14868,7 +14868,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14929,7 +14929,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -14994,7 +14994,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -15058,7 +15058,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15119,7 +15119,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -15183,7 +15183,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15244,7 +15244,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15305,7 +15305,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15366,7 +15366,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15427,7 +15427,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15488,7 +15488,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15549,7 +15549,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15610,7 +15610,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15671,7 +15671,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -15735,7 +15735,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15796,7 +15796,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15857,7 +15857,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15918,7 +15918,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -15979,7 +15979,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16040,7 +16040,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16101,7 +16101,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -16165,7 +16165,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -16229,7 +16229,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -16293,7 +16293,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16354,7 +16354,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16415,7 +16415,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16476,7 +16476,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16537,7 +16537,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16598,7 +16598,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16659,7 +16659,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16724,7 +16724,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -16788,7 +16788,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16849,7 +16849,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16932,7 +16932,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -16993,7 +16993,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -17057,7 +17057,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -17121,7 +17121,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -17185,7 +17185,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17246,7 +17246,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17307,7 +17307,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17368,7 +17368,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17429,7 +17429,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -17493,7 +17493,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17558,7 +17558,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -17622,7 +17622,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17683,7 +17683,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17744,7 +17744,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17805,7 +17805,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -17866,7 +17866,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -17933,7 +17933,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -17999,7 +17999,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18060,7 +18060,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -18124,7 +18124,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18185,7 +18185,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18246,7 +18246,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18317,7 +18317,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -18382,7 +18382,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18443,7 +18443,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18529,7 +18529,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -18595,7 +18595,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -18659,7 +18659,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18720,7 +18720,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18781,7 +18781,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18842,7 +18842,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18903,7 +18903,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -18964,7 +18964,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19025,7 +19025,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19086,7 +19086,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19147,7 +19147,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19210,7 +19210,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -19284,7 +19284,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -19356,7 +19356,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -19420,7 +19420,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19485,7 +19485,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -19549,7 +19549,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19610,7 +19610,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -19696,7 +19696,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -19766,7 +19766,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -19830,7 +19830,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19891,7 +19891,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -19952,7 +19952,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20013,7 +20013,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20074,7 +20074,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -20138,7 +20138,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20199,7 +20199,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20284,7 +20284,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -20348,7 +20348,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20409,7 +20409,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -20473,7 +20473,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20537,7 +20537,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20601,7 +20601,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20662,7 +20662,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20726,7 +20726,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -20787,7 +20787,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20851,7 +20851,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20915,7 +20915,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -20998,7 +20998,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21059,7 +21059,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -21123,7 +21123,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21205,7 +21205,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21266,7 +21266,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21331,7 +21331,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -21395,7 +21395,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21456,7 +21456,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21517,7 +21517,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -21581,7 +21581,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21642,7 +21642,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21703,7 +21703,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -21767,7 +21767,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21828,7 +21828,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -21892,7 +21892,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -21957,7 +21957,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -22021,7 +22021,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22082,7 +22082,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22149,7 +22149,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -22213,7 +22213,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22274,7 +22274,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22335,7 +22335,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -22399,7 +22399,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -22463,7 +22463,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -22527,7 +22527,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22588,7 +22588,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -22672,7 +22672,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22755,7 +22755,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22816,7 +22816,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22898,7 +22898,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -22959,7 +22959,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23023,7 +23023,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23084,7 +23084,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -23148,7 +23148,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23212,7 +23212,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23273,7 +23273,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23337,7 +23337,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23398,7 +23398,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23462,7 +23462,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23526,7 +23526,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23587,7 +23587,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23654,7 +23654,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -23718,7 +23718,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23779,7 +23779,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23840,7 +23840,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -23904,7 +23904,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -23965,7 +23965,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -24029,7 +24029,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24112,7 +24112,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24173,7 +24173,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24234,7 +24234,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24295,7 +24295,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24356,7 +24356,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24417,7 +24417,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -24481,7 +24481,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -24545,7 +24545,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -24611,7 +24611,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -24675,7 +24675,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -24741,7 +24741,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -24805,7 +24805,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24866,7 +24866,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24927,7 +24927,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -24991,7 +24991,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -25057,7 +25057,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25118,7 +25118,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25179,7 +25179,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25240,7 +25240,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25301,7 +25301,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -25365,7 +25365,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -25429,7 +25429,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -25513,7 +25513,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25574,7 +25574,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -25660,7 +25660,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25721,7 +25721,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25782,7 +25782,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -25843,7 +25843,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -25907,7 +25907,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -25971,7 +25971,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26054,7 +26054,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26115,7 +26115,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26176,7 +26176,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26237,7 +26237,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26298,7 +26298,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26359,7 +26359,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26420,7 +26420,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26487,7 +26487,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -26573,7 +26573,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26634,7 +26634,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26716,7 +26716,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26777,7 +26777,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -26841,7 +26841,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -26902,7 +26902,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -26966,7 +26966,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27027,7 +27027,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27088,7 +27088,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27153,7 +27153,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -27217,7 +27217,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27299,7 +27299,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27360,7 +27360,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27421,7 +27421,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27486,7 +27486,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -27550,7 +27550,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -27614,7 +27614,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -27678,7 +27678,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27739,7 +27739,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27800,7 +27800,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27861,7 +27861,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27922,7 +27922,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -27983,7 +27983,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28044,7 +28044,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28105,7 +28105,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28172,7 +28172,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -28236,7 +28236,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28297,7 +28297,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28358,7 +28358,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28419,7 +28419,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28480,7 +28480,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -28544,7 +28544,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -28610,7 +28610,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -28674,7 +28674,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28735,7 +28735,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -28821,7 +28821,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28882,7 +28882,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -28943,7 +28943,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29004,7 +29004,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29065,7 +29065,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29128,7 +29128,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -29212,7 +29212,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29273,7 +29273,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -29339,7 +29339,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -29403,7 +29403,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29464,7 +29464,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29529,7 +29529,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -29593,7 +29593,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29654,7 +29654,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -29718,7 +29718,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29779,7 +29779,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29840,7 +29840,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29901,7 +29901,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -29962,7 +29962,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -30027,7 +30027,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -30095,7 +30095,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -30159,7 +30159,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -30220,7 +30220,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -30292,7 +30292,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -30356,7 +30356,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -30420,7 +30420,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -30490,7 +30490,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -30554,7 +30554,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -30618,7 +30618,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -30682,7 +30682,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -30743,7 +30743,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -30804,7 +30804,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -30865,7 +30865,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -30931,7 +30931,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -31003,7 +31003,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -31089,7 +31089,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -31153,7 +31153,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31214,7 +31214,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31275,7 +31275,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31336,7 +31336,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31397,7 +31397,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31458,7 +31458,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31519,7 +31519,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31603,7 +31603,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31664,7 +31664,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -31728,7 +31728,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31789,7 +31789,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31850,7 +31850,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -31914,7 +31914,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -31977,7 +31977,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -32041,7 +32041,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -32105,7 +32105,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -32169,7 +32169,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32230,7 +32230,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32291,7 +32291,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32352,7 +32352,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32413,7 +32413,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -32477,7 +32477,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -32543,7 +32543,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -32607,7 +32607,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32668,7 +32668,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32729,7 +32729,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32790,7 +32790,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32851,7 +32851,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -32915,7 +32915,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -32978,7 +32978,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -33042,7 +33042,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -33106,7 +33106,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33167,7 +33167,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33230,7 +33230,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -33294,7 +33294,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -33358,7 +33358,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33419,7 +33419,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33480,7 +33480,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33541,7 +33541,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33602,7 +33602,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33663,7 +33663,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -33727,7 +33727,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -33788,7 +33788,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -33852,7 +33852,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -33916,7 +33916,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -33980,7 +33980,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -34047,7 +34047,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -34133,7 +34133,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -34197,7 +34197,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -34261,7 +34261,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -34325,7 +34325,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -34386,7 +34386,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -34450,7 +34450,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -34511,7 +34511,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -34570,7 +34570,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34630,7 +34630,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34690,7 +34690,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34750,7 +34750,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34810,7 +34810,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34870,7 +34870,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34930,7 +34930,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -34990,7 +34990,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35050,7 +35050,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35110,7 +35110,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35170,7 +35170,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35230,7 +35230,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35290,7 +35290,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35350,7 +35350,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35410,7 +35410,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35470,7 +35470,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35530,7 +35530,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35590,7 +35590,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35650,7 +35650,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35710,7 +35710,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35770,7 +35770,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35830,7 +35830,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35890,7 +35890,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -35950,7 +35950,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36010,7 +36010,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36070,7 +36070,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36130,7 +36130,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36190,7 +36190,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36250,7 +36250,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36310,7 +36310,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36370,7 +36370,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36430,7 +36430,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36490,7 +36490,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36550,7 +36550,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36610,7 +36610,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36670,7 +36670,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36730,7 +36730,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36790,7 +36790,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36850,7 +36850,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36910,7 +36910,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -36970,7 +36970,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37030,7 +37030,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37090,7 +37090,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37150,7 +37150,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37210,7 +37210,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37270,7 +37270,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37330,7 +37330,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37390,7 +37390,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -37450,7 +37450,7 @@
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-09-21T22:01:12.576437+00:00",
+        "reviewedAt": "2026-09-22T05:05:04.354531+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"

@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-09-21T22:01:17.847458+00:00",
+  "capturedAt": "2026-09-22T05:05:08.515960+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-09-07",
-    "end": "2026-09-21"
+    "start": "2026-09-08",
+    "end": "2026-09-22"
   },
   "forms": [
     "10-K",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-09-21",
       "reportDate": "2026-09-15",
-      "acceptanceDateTime": "2026-09-21T09:05:27.000Z",
+      "acceptanceDateTime": "2026-09-21T13:05:27.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-40323",

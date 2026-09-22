@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-21T22:01:08.440954+00:00",
+  "capturedAt": "2026-09-22T05:05:01.428202+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-21",
-    "end": "2026-09-21"
+    "start": "2025-09-22",
+    "end": "2026-09-22"
   },
   "pmids": [
+    "42767816",
+    "42767452",
+    "42767443",
+    "42767098",
+    "42767017",
     "42766730",
-    "42766221",
-    "42765994",
-    "42765769",
-    "42765106",
-    "42764951",
     "42758091",
     "42754836",
     "42753692",
@@ -32,14 +32,110 @@
     "42758048",
     "42757549",
     "42754580",
+    "42767820",
+    "42767119",
     "42764875",
     "42764713",
     "42763649",
-    "42763264",
-    "42763154",
-    "42761776"
+    "42763264"
   ],
   "records": [
+    {
+      "pmid": "42767816",
+      "title": "Glioblastoma organoids derived from patient tumor tissueas a model for studying extracellular communication and microRNAs in the tumor microenvironment.",
+      "abstract": "Glioblastoma (GBM) is the most aggressive primary brain tumor in adult patients and is characterized by significant cellular heterogeneity and complex interactions between tumor cells and the tumor microenvironment. Extracellular vesicles (EVs) and the microRNAs (miRNAs) they carry are important mediators of intercellular signaling and, at the same time, a potential source of biomarkers useful in the diagnosis of gliomas. Experimental models capable of preserving the biological properties of the original tumor are essential for studying these processes. In this study, we prepared glioblastoma organoids (GBOs) derived from patient tumor tissue and analyzed extracellular miRNAs present in EVs isolated from conditioned media. Concurrently, we analyzed miRNAs contained in EVs isolated from cerebrospinal fluid (CSF) of patients with gliomas of varying degrees of malignancy. A total of 12 GBOs cultures were successfully established, long-term cultured, and cryopreserved. Immunohistochemical analysis confirmed the presence of markers typical of glioblastoma cells (Nestin, GFAP, Sox2). In early-stage organoids, cell populations representing the tumor microenvironment were also detected, including endothelial cells (CD31) and microglia (CD163). In some cases, reactive astrocytes and neurons were also present. Highly abundant miRNAs were identified in EVs isolated from conditioned media of GBO and primary GBM cultures, including hsa-miR-21-5p, members of the let-7 family, hsa-miR-16-5p, hsa-miR-125b-5p, and others. These miRNAs were simultaneously detected in EVs isolated from the CSF of patients with GBM and high-grade gliomas. In contrast, miR-204-5p, which was predominantly present in CSF samples, was minimally represented in EVs from tumor cultures, suggesting a possible origin of this miRNA in non-tumor brain tissue. The presented data support the use of GBOs derived from patient tumor tissue as a suitable model for studying intercellular communication and extracellular signaling in GBM and simultaneously demonstrate the potential of EV-associated miRNAs as biomarkers of the tumor microenvironment.",
+      "journal": "Klinicka onkologie : casopis Ceske a Slovenske onkologicke spolecnosti",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [],
+      "doi": "10.48095/ccko20262S130",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767816/"
+    },
+    {
+      "pmid": "42767452",
+      "title": "Reconstruction of the hematopoietic system using bone marrow, thymus, and spleen organoids: Construction strategies and research advances.",
+      "abstract": "Hematopoietic development and systemic homeostasis depend critically on specific three-dimensional (3D) microenvironments within the bone marrow, thymus, and spleen. Traditional two-dimensional (2D) cultures and animal models frequently fail to recapitulate human physiology due to spatial limitations and interspecies genetic divergence. While 3D organoids offer a compelling alternative, achieving anatomical fidelity and sustaining long-term functionality remain significant bioengineering hurdles. Navigating these challenges, this review synthesizes emerging strategies for constructing high-fidelity hematopoietic organoids. We detail engineered bone marrow constructs tailored to model osteo-vascular niches and sustain hematopoietic stemness, seamlessly paired with thymic platforms reconstructing epithelial microenvironments for directed lymphopoiesis. Shifting to systemic dynamics, we evaluate nascent spleen organoids simulating hemodynamics, erythroid clearance, and extramedullary hematopoiesis. By capturing dynamic circulation, these biomimetic tools establish a transformative paradigm for elucidating hematological mechanisms, accelerating drug screening, and advancing personalized medicine.",
+      "journal": "Life sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Laboratory Animal Science, CAMS & PUMC, National Human Diseases Animal Model Resource Center, National Center of Technology Innovation for Animal Model, State Key Laboratory of Respiratory Health and Multimorbidity, Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education, Beijing, 100021, China.",
+        "Institute of Laboratory Animal Science, CAMS & PUMC, National Human Diseases Animal Model Resource Center, National Center of Technology Innovation for Animal Model, State Key Laboratory of Respiratory Health and Multimorbidity, Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education, Beijing, 100021, China. Electronic address: bailin@pumc.edu.cn."
+      ],
+      "doi": "10.1016/j.lfs.2026.124702",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767452/"
+    },
+    {
+      "pmid": "42767443",
+      "title": "Recent Advances in Alternate Corneal Models for Ophthalmic Safety Testing and Efficacy Studies: A Special Focus on Organ-on-a-Chip, Organoid, and 3D Models.",
+      "abstract": "Accurate assessment of ocular toxicity, drug safety, and therapeutic efficacy remains a significant challenge due to the complex anatomy and physiology of the human cornea. Furthermore, conventional two-dimensional (2D) cell cultures and animal models have key limitations. Recent advances in alternative corneal models-three-dimensional (3D) tissue-engineered constructs, organ-on-chip platforms, corneal organoids, and bio-printed systems have transformed ophthalmic research by offering improved physiological relevance and translational value. These advanced models better recapitulate the multilayered architecture, biomechanical properties, fluid dynamics, and cellular microenvironment of the native cornea, enabling more accurate investigation of drug penetration, toxicity, wound healing, and disease mechanisms. In alignment with current National Institutes of Health (NIH) initiatives promoting the replacement, reduction, and refinement of animal research and the promotion of New Approach Methodologies (NAMs), this review examines emerging corneal models that collectively represent a paradigm shift in ophthalmic research. We first outline conventional in vivo and in vitro corneal models to provide historical context and their limitations, followed by a discussion of next-generation technologies. These include cornea-on-chip systems that integrate microfluidics to represent tear flow, blinking, and biomechanical forces; corneal organoids derived from pluripotent stem cells that offer self-organizing, human-specific platforms for disease modeling and safety assessment; and advances in 3D bioprinting enabling the fabrication of mechanically adjustable corneal constructs. The review also highlights the importance of bioinformatics/artificial intelligence in predicting ocular responses and complementing experimental platforms. Collectively, we emphasize that these alternative, emerging technologies support ethical science, improve translational accuracy, and meet federal regulations while reducing animal testing.",
+      "journal": "Progress in retinal and eye research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Toxicology & Pharmacology, Michigan State University.",
+        "Manipal Academy of Higher Education, Manipal, Karnataka; Centre for Ocular Regeneration, Prof. Brien Holden Eye Research Centre (BHERC), LV Prasad Eye Institute, Hyderabad.",
+        "CSIR-Indian Institute of Toxicology Research, Lucknow.",
+        "Biomaterials and Bioprinting, Cell Biology, HiMedia Laboratories Pvt Ltd.",
+        "Department of Biomedical Engineering, IIT Hyderabad.",
+        "CSIR-Indian Institute of Toxicology Research, Lucknow; Department of Toxicology & Pharmacology, Michigan State University. Electronic address: ashish.dwivedi1@iitr.res.in.",
+        "Centre for Ocular Regeneration, Prof. Brien Holden Eye Research Centre (BHERC), LV Prasad Eye Institute, Hyderabad. Electronic address: viveksingh@lvpei.org.",
+        "Department of Toxicology & Pharmacology, Michigan State University. Electronic address: tewarisi@msu.edu."
+      ],
+      "doi": "10.1016/j.preteyeres.2026.101530",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767443/"
+    },
+    {
+      "pmid": "42767098",
+      "title": "GMPS drives pancreatic cancer progression via suppressing DNA damage, STING activation and cellular senescence.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an extremely aggressive malignancy with scarce viable treatment targets. Metabolic rewiring is a typical characteristic of PDAC, but the roles of many metabolic enzymes remain poorly defined. We integrated DepMap and TCGA data to screen metabolic genes essential for PDAC proliferation and poor prognosis. Expression patterns were validated by immunohistochemistry and western blotting in 97 PDAC tissues and multiple cell lines. Genetic manipulation experiments in PDAC cell lines, organoids, and a patient‑derived xenograft model were performed to assess proliferation and tumor growth. RNA sequencing, proteomics, flow cytometry, SA-β-gal staining, and immunofluorescence were used to investigate underlying mechanisms. Among 2752 metabolic genes, GMPS had the highest hazard ratio and its high expression correlated with worse prognosis. GMPS-high tumors showed increased mutation frequencies of KRAS and TP53, while GMPS-low tumors had higher immune infiltration and drug sensitivity. GMPS protein was elevated in PDAC tissues and cell lines (MIA PaCa-2, Capan-1). GMPS knockdown reduced colony formation, proliferation, organoid growth, and PDX tumor growth, whereas overexpression promoted organoid expansion. Mechanistically, GMPS knockdown induced DNA damage (γH2AX⁺ cells), G1 phase arrest, cellular senescence (upregulation of IL6, MMP2, p21, and increased SA-β-gal staining), and activated the STING-TBK1 pathway. GMPS drives PDAC proliferation by suppressing senescence and STING signaling. GMPS is a promising therapeutic target and prognostic biomarker in PDAC.",
+      "journal": "Translational oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: liyangyi@fudanpci.org.",
+        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: zhangzifeng@fudanpci.org.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: lidingru@fudanpci.org.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: zhoucong@fudanpci.org.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: chenyueyue@fudanpci.org.",
+        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: zhuchunbin@fudanpci.org.",
+        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: yangjianhui@fudanpci.org.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: tangrong@fudanpci.org.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: wangwei@fudanpci.org.",
+        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: yuxianjun@fudan.edu.cn.",
+        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: xujin@fudanpci.org."
+      ],
+      "doi": "10.1016/j.tranon.2026.103044",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767098/"
+    },
+    {
+      "pmid": "42767017",
+      "title": "Effects of commonly used pesticides and their mixtures on the upper airway epithelium using porcine organoid-derived models.",
+      "abstract": "Airborne pesticide contamination can result in widespread respiratory exposure particularly among agricultural workers, yet its impact on respiratory health remains poorly understood. In this study, we assessed the effects of ten commonly used pesticides and the synergist piperonyl butoxide, individually and in mixtures, on the viability of porcine proximal airway epithelial organoid-derived monolayers. Eight of the eleven compounds reduced cell viability, with pendimethalin, glyphosate, cyprodinil and piperonyl butoxide inducing pronounced effects at low concentrations. Mixture exposure caused stronger reductions in viability than individual compounds, consistent with additive toxicity. Transcriptomic analysis of seven selected compounds revealed alterations in pathways related to epithelial barrier integrity, immune signalling, and mucociliary function. These findings indicate that pesticide exposure of the upper airway may impair airway epithelial function and could contribute to respiratory dysfunction, highlighting the need to incorporate inhalation exposure and mixture effects in pesticide risk assessment. Moreover, this study provides a basis for the development of physiologically relevant models and targeted assays to evaluate respiratory effects of environmental pesticide mixtures.",
+      "journal": "Environment international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Host Microbe Interactomics, Wageningen University, Netherlands.",
+        "Institute for Risk Assessment Sciences, Utrecht University, Netherlands.",
+        "Instituto Nacional de Tecnologia Agropecuaria, Argentina.",
+        "Department of Environmental Science, Radboud University, Netherlands."
+      ],
+      "doi": "10.1016/j.envint.2026.110524",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767017/"
+    },
     {
       "pmid": "42766730",
       "title": "Fibroblast-associated TPM2 links cell-matrix remodeling to EMT-Notch signaling and gemcitabine resistance in intrahepatic cholangiocarcinoma.",
@@ -57,101 +153,6 @@
       "doi": "10.1080/15384047.2026.2725344",
       "date": "2026-09-21",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766730/"
-    },
-    {
-      "pmid": "42766221",
-      "title": "Cardiac Organoids for Modeling Congenital Heart Disease: From Genetic Discovery to Therapeutic Screening.",
-      "abstract": "Congenital heart disease (CHD) is the most common birth defect and a leading cause of infant mortality. This review highlights recent advances in human stem cell-derived cardiac organoids and their applications to understand CHD etiology, with a focus on functional genomics and therapeutic discovery. Advances in cardiac organoid engineering have enabled increasingly complex models with enhanced vascularization, diverse cellular lineages, and chamber-specific features that more faithfully mimic the developing heart. Single-cell transcriptomic and epigenomic profiling of organoid differentiation has revealed gene regulatory programs governing cardiogenesis. Machine learning models trained on these datasets provide powerful frameworks for predicting genetic variant effects associated with CHD. Cardiac organoids provide scalable, human-specific platforms for investigating CHD etiology across multiple cell types and disease-relevant developmental stages. Combined with single-cell profiling and machine learning, cardiac organoids offer new opportunities for CHD mechanistic discovery, improved genetic risk prediction, and personalized therapeutic development.",
-      "journal": "Current cardiology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Genetics, Stanford School of Medicine, Stanford, CA, USA.",
-        "Department of Pediatrics Cardiology, Stanford School of Medicine, Stanford, CA, USA.",
-        "Department of Genetics, Stanford School of Medicine, Stanford, CA, USA. caseygifford@stanford.edu.",
-        "Department of Pediatrics Cardiology, Stanford School of Medicine, Stanford, CA, USA. caseygifford@stanford.edu."
-      ],
-      "doi": "10.1007/s11886-026-02418-9",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766221/"
-    },
-    {
-      "pmid": "42765994",
-      "title": "Pathway to Independence - an interview with Swarnabh Bhattacharya (Zico).",
-      "abstract": "Swarnabh Bhattacharya (Zico) is a Principal Investigator at the Saha Institute of Nuclear Physics, India. He was previously a Postdoctoral Research Fellow and later an Instructor at Dana-Farber Cancer Institute and Harvard Medical School, USA. Swarnabh is interested in understanding the intricate processes that govern the maintenance and regeneration of epithelial stem cell populations in the intestine and cornea, using mice, organoids and primary human stem cell culture systems. He is part of the 2026 cohort of fellows of Development's Pathway to Independence programme, which aims to support postdocs in obtaining their first faculty positions. We met with Swarnabh via Teams to discuss his research spanning corneal and intestinal biology, as well as his future plans to understand the epigenetic and molecular programmes that regulate stem cell and daughter cell phenotypes in health and disease.",
-      "journal": "Development (Cambridge, England)",
-      "publicationTypes": [
-        "Interview"
-      ],
-      "affiliations": [],
-      "doi": "10.1242/dev.206103",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765994/"
-    },
-    {
-      "pmid": "42765769",
-      "title": "Millifluidic triMEA organoid platform with stretchable microelectrode arrays for parallel organoid electrophysiology under standardized perfusion.",
-      "abstract": "Organoids enable rigorous studies of neurodevelopment and disease, yet existing platforms often compromise between precise microenvironment control and reliable electrophysiological measurement. The challenge of achieving uniform perfusion alongside multi-well volumetric neural recordings limits parallel functional characterization and technical reproducibility across samples. Here, we present the triMEA millifluidic platform, which integrates three stretchable microelectrode arrays within a single device and delivers uniform perfusion across three independent wells. A single inlet supplies identical perfusion to each well, which stabilizes flow patterns and equalizes mechanical stimuli between chambers. This design facilitates simultaneous, independent electrophysiological recordings from three organoids within a single experimental setup. Using human midbrain organoids as a proof-of-concept biological model, we provide computational and experimental validation of the fluidic profiles and demonstrate electrophysiological recordings across all three wells under continuous perfusion. This platform establishes a reproducible and standardized foundation for parallel organoid interfacing.",
-      "journal": "Lab on a chip",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, South Korea. hyunjoo@snu.ac.kr.",
-        "Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon 34141, South Korea.",
-        "Graduate School of Semiconductor Technology, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, South Korea.",
-        "Mortimer B. Zuckerman Mind Brain and Behavior Institute, Columbia University, New York, NY, USA.",
-        "Stavros Niarchos Foundation Center for Precision Psychiatry and Mental Health, Columbia University, New York, NY, USA.",
-        "Department of Electrical and Computer Engineering, Seoul National University, Seoul 08826, South Korea.",
-        "Department of Brain & Cognitive Sciences, Seoul National University, Seoul 08826, South Korea."
-      ],
-      "doi": "10.1039/d6lc00391e",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765769/"
-    },
-    {
-      "pmid": "42765106",
-      "title": "Label-free ultraviolet photoacoustic microscopy for multiscale structural phenotyping of epithelial morphogenesis in organoid-derived intestinal epithelial wrinkle tissue.",
-      "abstract": "Mechanical wrinkling of epithelial tissues encodes key features of tissue morphogenesis and mechanotransductive responses, yet its quantitative, multiscale characterization remains challenging in organoid-based in vitro models due to reliance on fluorescence labelling and sectioning. Here, we develop label-free ultraviolet photoacoustic microscopy (UV-PAM) for multiscale imaging and quantitative analysis of human organoid-derived epithelial wrinkle tissues. By exploiting intrinsic nucleic-acid absorption at 266 nm, UV-PAM visualizes wrinkle structures and nuclear morphology without labeling or sectioning. Using morphomechanically defined wrinkle tissues, we identify multiscale signatures, including wrinkle wavelength, wrinkle index, and strain-induced nuclear elongation and redistribution. UV-PAM further captures chemically induced epithelial stress, revealing degradation of wrinkle structure and nuclear morphology. In a proof-of-concept dataset comprising two untreated and two DTT-treated specimens, integration of these intrinsic signatures with deep learning enabled patch-level discrimination between untreated and chemically perturbed wrinkle tissues on held-out field of views (FOVs), with training and test FOVs obtained from the same specimens. These results establish UV-PAM as a label-free platform for multiscale imaging of epithelial morphogenesis and preliminary computational phenotyping.",
-      "journal": "Photoacoustics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biophysics, Department of MetaBioHealth, Department of Biopharmaceutical Convergence, Institute of Quantum Biophysics, Sungkyunkwan University, Suwon, Republic of Korea.",
-        "Department of Mechanical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
-        "Department of Cogno-Mechatronics Engineering, Pusan National University, Busan 46241, Republic of Korea.",
-        "Department of Medical Science, School of Medicine, CHA University, Seongnam, Republic of Korea.",
-        "Graduate School of Convergence Science and Technology, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea.",
-        "Division of Interdisciplinary Bioscience & Bioengineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea."
-      ],
-      "doi": "10.1016/j.pacs.2026.100875",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765106/"
-    },
-    {
-      "pmid": "42764951",
-      "title": "Dual-modal tumor-selective benzofuran tracer integrating real-time imaging and anticancer effects.",
-      "abstract": "Microtubule-targeting agents remain a cornerstone of cancer therapy; however, few compounds can simultaneously visualize intratumoral distribution and correlate pharmacodynamics with therapeutic response. Here, we describe BF-04, a Benzofuran-derived microtubule destabilizer that circumvents multidrug resistance and integrates anticancer efficacy with dual-modality imaging. Chemical conjugation with the Cyanine 5 fluorescent dye (Cy5) and Zirconium-89 (89Zr) provided high-contrast, real-time fluorescence and Positron emission tomography (PET) signals without the need for antibody or nanoparticle carriers, enabling direct monitoring of drug distribution and retention in tumors. Importantly, BF-04 exhibited tumor-selective accumulation independent of labeling, confirming a scaffold-driven targeting mechanism with strong translational potential for image-guided therapy. Mechanistically, BF-04 induced microtubule depolymerization, mitotic arrest, and apoptosis across multiple cancer cell lines and patient-derived organoids (PDOs). In vivo studies demonstrated selective tumor uptake and robust growth suppression with minimal systemic toxicity. Collectively, these findings establish BF-04 as a promising theranostic platform that combines potent microtubule disruption with real-time imaging to facilitate precision cancer therapy.",
-      "journal": "Acta pharmaceutica Sinica. B",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Chemical Biology Research Center, Korea Research Institute of Bioscience and Biotechnology. Cheongju 28116, Republic of Korea.",
-        "Division of Bioconvergence Analysis, Korea Basic Science Institute, Cheongju 28119, Republic of Korea.",
-        "Division of Emerging Virus and Vector Research, National Institute of Health, Korea Disease Control and Prevention Agency, Cheongju 28159, Republic of Korea.",
-        "Department of Biomolecular Science, Korea National University of Science and Technology, Daejeon 34113, Republic of Korea.",
-        "Laboratory Animal Resource Center, Korea Research Institute of Bioscience and Biotechnology, Cheongju 28116, Republic of Korea.",
-        "Medical Science Substantiation Center, Korea Cancer Center Hospital, Korea Institute of Radiological and Medical Sciences, Seoul 01812, Republic of Korea.",
-        "Department of Surgery, Korea Cancer Center Hospital, Korea Institute of Radiological and Medical Sciences, Seoul 01812, Republic of Korea.",
-        "Department of Biochemistry, Chungbuk National University College of Medicine, Cheongju 28644, Republic of Korea."
-      ],
-      "doi": "10.1016/j.apsb.2026.06.012",
-      "date": "2026-06-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764951/"
     },
     {
       "pmid": "42758091",
@@ -393,6 +394,41 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754580/"
     },
     {
+      "pmid": "42767820",
+      "title": "What is a liquid biopsy?",
+      "abstract": "",
+      "journal": "Archives of disease in childhood. Education and practice edition",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Children's Brain Tumour Research Centre, University of Nottingham, Nottingham, UK.",
+        "Children's Brain Tumour Research Centre, University of Nottingham, Nottingham, UK Timothy.Ritzmann1@nottingham.ac.uk."
+      ],
+      "doi": "10.1136/archdischild-2026-330809",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767820/"
+    },
+    {
+      "pmid": "42767119",
+      "title": "Multi-omics and molecular biomarkers in breast cancer: a comprehensive review of diagnostic, prognostic, and predictive applications.",
+      "abstract": "Breast cancer continues to be the most commonly diagnosed cancer among women globally and is a primary contributor to cancer-related deaths. While early detection significantly enhances survival rates, currently available serum biomarkers, including CEA and CA15-3, lack sufficient sensitivity and specificity for reliable early-stage breast cancer diagnosis. Multi-omics methodologies, encompassing genomics, epigenomics, transcriptomics, proteomics, and metabolomics, are revolutionizing cancer diagnostics by facilitating the identification of new biomarkers and pathways pertinent to early detection and personalized treatment. Among the newly emerging classes of biomarkers, microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and exosome-derived materials exhibit notable potential, as they reflect the molecular intricacies and dynamic changes of breast tumors in a minimally invasive fashion. In this review, we provide an overview of recent progress in multi-omics approaches and emphasize significant miRNA-, lncRNA-, and exosome-related biomarkers associated with the initiation, progression, and therapeutic response of breast cancer. Additionally, we explore how the amalgamation of these molecular signatures with artificial intelligence and machine learning can improve diagnostic precision, enhance risk stratification in asymptomatic or high-risk populations, and aid in personalized treatment decision-making. Lastly, we identify existing limitations, technical and translational hurdles, and future pathways necessary for the integration of multi-omics and liquid biopsy-based precision diagnostics into standard clinical practice, aiming ultimately to decrease breast cancer-related morbidity and mortality.",
+      "journal": "Cancer treatment and research communications",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Student Research Committee, Abadan University of Medical Sciences, Abadan, Iran.",
+        "Student Research Committee, Iran University of Medical Sciences, Tehran, Iran.",
+        "Department of Medical Biotechnology, Zanjan University of Medical Sciences, Zanjan, Iran.",
+        "Department of Basic Medical Sciences, Faculty of Medicine, Abadan University of Medical Sciences, Abadan, Iran. Electronic address: Alimahmoudi68@yahoo.com."
+      ],
+      "doi": "10.1016/j.ctarc.2026.101454",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767119/"
+    },
+    {
       "pmid": "42764875",
       "title": "Upregulated lncRNA AK058003 in Tumor-Educated Platelets and Plasma as Liquid Biopsy Biomarkers for Esophageal Cancer.",
       "abstract": "Esophageal cancer (EC) ranks thirteenth in incidence and seventh in cancer-related mortality worldwide in 2024, with an estimated 494,000 new cases and 442,000 deaths, and esophageal squamous cell carcinoma (ESCC) remains the predominant histological subtype in China. Endoscopic biopsy and serum markers (SCCA, CA 19-9, CEA) have limited sensitivity or are invasive. This study evaluated the diagnostic potential of platelet and plasma lncRNA AK058003 in EC. Platelet and plasma lncRNA AK058003 expression was quantified by quantitative real-time PCR in 64 EC patients and 64 healthy controls. Diagnostic performance was assessed by ROC curve analysis. Correlations with clinicopathological parameters were analyzed. Tumor-educated platelet (TEP) and plasma lncRNA AK058003 were significantly upregulated in EC patients (P = 0.0042 and P < 0.0001, respectively). Plasma lncRNA AK058003 showed an AUC of 0.83 (sensitivity 82.8%, specificity 76.6%), whereas TEP lncRNA AK058003 yielded an AUC of 0.65 (sensitivity 64.1%, specificity 60.9%). TEP lncRNA AK058003 expression was significantly higher in T3-T4 than T1-T2 stages (P = 0.0025) and correlated with tumor size (P = 0.0017). Both TEP and plasma lncRNA AK058003 were significantly upregulated in EC. Plasma lncRNA AK058003 demonstrated promising diagnostic performance (AUC 0.83, sensitivity 82.8%, specificity 76.6%), while TEP lncRNA AK058003 overexpression correlated with tumor size, supporting their potential as non-invasive liquid-biopsy biomarkers for EC diagnosis.",
@@ -475,51 +511,110 @@
       "doi": "10.1016/j.euo.2026.08.008",
       "date": "2026-09-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763264/"
-    },
-    {
-      "pmid": "42763154",
-      "title": "Dual-aptamer-activated RCA-MOF synergistic platform for visual detection of leukemia-derived exosomes.",
-      "abstract": "The sensitive, point-of-care detection of acute myeloid leukemia (AML)-derived exosomes is essential for non-invasive diagnosis and therapy monitoring, but remains technically challenging. Here we report a colorimetric biosensor based on a dual -aptamer-initiated catalytic cascade, where simultaneous recognition of exosomal markers CD63 and PTK7 by engineered aptamers triggers an in situ rolling circle amplification (RCA) reaction. The resulting RCA product templates the assembly of a metal-organic framework (MOF) nanozyme, which acts as an efficient peroxidase mimic to generate a colorimetric readout. This integrated \"recognition -amplification-transduction\" nanoarchitecture achieves a detection limit of 0.1 ng/mL for PTK7-positive exosomes and successfully discriminates patient serum samples from healthy controls as well as AML-bearing mouse models from healthy mice, with consistent results obtained via UV-vis spectroscopy, visual colorimetry, and smartphone-based grayscale analysis. By synergizing nucleic acid nanotechnology with nanozyme catalysis, this work provides a rapid, equipment-free visual platform for exosome-based liquid biopsy in AML management.",
-      "journal": "Analytica chimica acta",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pediatrics, The Affiliated Hospital of Guizhou Medical University, Guiyang, 550001, PR China.",
-        "Department of Cell Biology and Molecular Medicine, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China.",
-        "Research Center for Basic Sciences of Medicine, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China.",
-        "Department of Pediatrics, The Affiliated Hospital of Guizhou Medical University, Guiyang, 550001, PR China. Electronic address: 469389553@qq.com.",
-        "Department of Cell Biology and Molecular Medicine, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China. Electronic address: wenxjgy@163.com.",
-        "Department of Cell Biology and Molecular Medicine, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China; Engineering Research Center for Molecular Medicine, Key Laboratory of Medical Molecular Biology of Guizhou Province, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China. Electronic address: 362326474@qq.com.",
-        "Department of Cell Biology and Molecular Medicine, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China; Engineering Research Center for Molecular Medicine, Key Laboratory of Medical Molecular Biology of Guizhou Province, School of Basic Medical Sciences, Guizhou Medical University, Guian New District, Guiyang, 561113, PR China. Electronic address: shihai@gmc.edu.cn."
-      ],
-      "doi": "10.1016/j.aca.2026.346094",
-      "date": "2026-08-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763154/"
-    },
-    {
-      "pmid": "42761776",
-      "title": "Alpha particle therapy in glioblastoma: emerging biomarkers, mechanisms of response, and translational opportunities.",
-      "abstract": "Glioblastoma remains the most aggressive primary malignant brain tumor in adults. Disease progression is driven by multiple biological mechanisms, including glioma stem cell persistence, intratumoral heterogeneity, hypoxia-associated treatment resistance, enhanced DNA damage repair, immune evasion, and dynamic interactions within the tumor microenvironment. These factors contribute to therapeutic failure and highlight the need for novel treatment strategies and biomarker-driven approaches guiding patient selection and response assessment. Alpha particle therapy is a promising modality due to it's high linear energy transfer (LET), short tissue range, and potent relative biological effectiveness (RBE), inducing complex DNA damage that is difficult to repair while limiting radiation exposure to surrounding normal tissue. Among emerging platforms, Diffusing Alpha-emitters Radiation Therapy (Alpha DaRT) enables sustained intratumoral delivery of alpha-emitting radionuclides, while targeted alpha therapies employ tumor-specific radiopharmaceuticals to selectively deliver highly cytotoxic radiation to malignant cells. Beyond direct tumor cell killing, accumulating evidence suggests alpha particle therapy targets several biological pathways implicated in glioblastoma progression, including DNA damage response signaling, glioma stem cell survival, hypoxia-driven adaptation, and immune suppression. These mechanisms generated growing interest in the identification of predictive and pharmacodynamic biomarkers capable of guiding treatment selection and monitoring therapeutic response. Candidate biomarkers include DNA repair-associated proteins, stemness-related markers, molecular alterations such as MGMT and IDH status, liquid biopsy analytes, and advanced imaging biomarkers. In this review, we summarize current alpha-emitting therapeutic strategies for glioblastoma, with particular emphasis on Alpha DaRT, and discuss emerging biological mechanisms of response, biomarkers associated with tumor progression and therapeutic sensitivity, and opportunities for biomarker-guided clinical implementation.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, The Ohio State University Wexner Medical Center, Columbus, OH, United States.",
-        "Department of Radiation Oncology, Basaksehir Cam and Sakura City Hospital, Istanbul, Türkiye.",
-        "Department of Radiation Oncology, Mayo Clinic Florida, Jacksonville, FL, United States.",
-        "Department of Radiation Oncology, Lynn Cancer Institute, Baptist Health South Florida, Boca Raton, FL, United States.",
-        "Department of Neurological Surgery, The Ohio State University Wexner Medical Center, Columbus, OH, United States.",
-        "Division of Neuro-Oncology, Department of Neurology, The Ohio State University Wexner Medical Center, Columbus, OH, United States."
-      ],
-      "doi": "10.3389/fonc.2026.1940181",
-      "date": "2026-09-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761776/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42767452",
+      "date": "2026-09-21",
+      "title": "Reconstruction of the hematopoietic system using bone marrow, thymus, and spleen organoids: Construction strategies and research advances.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767452/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42767452。",
+      "report": "Hematopoietic development and systemic homeostasis depend critically on specific three-dimensional (3D) microenvironments within the bone marrow, thymus, and spleen. Traditional two-dimensional (2D) cultures and animal models frequently fail to recapitulate hu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42767443",
+      "date": "2026-09-21",
+      "title": "Recent Advances in Alternate Corneal Models for Ophthalmic Safety Testing and Efficacy Studies: A Special Focus on Organ-on-a-Chip, Organoid, and 3D Models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767443/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Progress in retinal and eye research，PMID 为 42767443。",
+      "report": "Accurate assessment of ocular toxicity, drug safety, and therapeutic efficacy remains a significant challenge due to the complex anatomy and physiology of the human cornea. Furthermore, conventional two-dimensional (2D) cell cultures and animal models have key...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42767098",
+      "date": "2026-09-21",
+      "title": "GMPS drives pancreatic cancer progression via suppressing DNA damage, STING activation and cellular senescence.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767098/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42767098。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) is an extremely aggressive malignancy with scarce viable treatment targets. Metabolic rewiring is a typical characteristic of PDAC, but the roles of many metabolic enzymes remain poorly defined. We integrated DepMap and...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42766730",
       "date": "2026-09-21",
@@ -555,97 +650,63 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42766221",
+      "id": "pubmed-42767820",
       "date": "2026-09-21",
-      "title": "Cardiac Organoids for Modeling Congenital Heart Disease: From Genetic Discovery to Therapeutic Screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "What is a liquid biopsy?",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767820/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Archives of disease in childhood. Education and practice edition，PMID 为 42767820。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42767119",
+      "date": "2026-09-21",
+      "title": "Multi-omics and molecular biomarkers in breast cancer: a comprehensive review of diagnostic, prognostic, and predictive applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766221/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767119/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current cardiology reports，PMID 为 42766221。",
-      "report": "Congenital heart disease (CHD) is the most common birth defect and a leading cause of infant mortality. This review highlights recent advances in human stem cell-derived cardiac organoids and their applications to understand CHD etiology, with a focus on funct...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42765994",
-      "date": "2026-09-21",
-      "title": "Pathway to Independence - an interview with Swarnabh Bhattacharya (Zico).",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765994/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42765994。",
-      "report": "Swarnabh Bhattacharya (Zico) is a Principal Investigator at the Saha Institute of Nuclear Physics, India. He was previously a Postdoctoral Research Fellow and later an Instructor at Dana-Farber Cancer Institute and Harvard Medical School, USA. Swarnabh is inte...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42765769",
-      "date": "2026-09-21",
-      "title": "Millifluidic triMEA organoid platform with stretchable microelectrode arrays for parallel organoid electrophysiology under standardized perfusion.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765769/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42765769。",
-      "report": "Organoids enable rigorous studies of neurodevelopment and disease, yet existing platforms often compromise between precise microenvironment control and reliable electrophysiological measurement. The challenge of achieving uniform perfusion alongside multi-well...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42767119。",
+      "report": "Breast cancer continues to be the most commonly diagnosed cancer among women globally and is a primary contributor to cancer-related deaths. While early detection significantly enhances survival rates, currently available serum biomarkers, including CEA and CA...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -830,6 +891,36 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42757549。",
       "report": "Generative AI has driven remarkable breakthroughs in protein design, enabling the rapid, computationally guided creation of high-affinity binders against diverse targets. While remarkable experimental success has been demonstrated, the confidence metrics used...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42767017",
+      "date": "2026-09-17",
+      "title": "Effects of commonly used pesticides and their mixtures on the upper airway epithelium using porcine organoid-derived models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767017/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42767017。",
+      "report": "Airborne pesticide contamination can result in widespread respiratory exposure particularly among agricultural workers, yet its impact on respiratory health remains poorly understood. In this study, we assessed the effects of ten commonly used pesticides and t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1063,41 +1154,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42761776",
-      "date": "2026-09-04",
-      "title": "Alpha particle therapy in glioblastoma: emerging biomarkers, mechanisms of response, and translational opportunities.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42761776/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Longevity",
-        "Biomarkers",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42761776。",
-      "report": "Glioblastoma remains the most aggressive primary malignant brain tumor in adults. Disease progression is driven by multiple biological mechanisms, including glioma stem cell persistence, intratumoral heterogeneity, hypoxia-associated treatment resistance, enha...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1163,34 +1219,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42765106",
-      "date": "2026-08-24",
-      "title": "Label-free ultraviolet photoacoustic microscopy for multiscale structural phenotyping of epithelial morphogenesis in organoid-derived intestinal epithelial wrinkle tissue.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765106/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Photoacoustics，PMID 为 42765106。",
-      "report": "Mechanical wrinkling of epithelial tissues encodes key features of tissue morphogenesis and mechanotransductive responses, yet its quantitative, multiscale characterization remains challenging in organoid-based in vitro models due to reliance on fluorescence l...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42754580",
       "date": "2026-08-20",
       "title": "Accelerating protein design by scaling experimental characterization.",
@@ -1222,46 +1250,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42763154",
-      "date": "2026-08-07",
-      "title": "Dual-aptamer-activated RCA-MOF synergistic platform for visual detection of leukemia-derived exosomes.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763154/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42763154。",
-      "report": "The sensitive, point-of-care detection of acute myeloid leukemia (AML)-derived exosomes is essential for non-invasive diagnosis and therapy monitoring, but remains technically challenging. Here we report a colorimetric biosensor based on a dual -aptamer-initia...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42764951",
-      "date": "2026-06-10",
-      "title": "Dual-modal tumor-selective benzofuran tracer integrating real-time imaging and anticancer effects.",
+      "id": "pubmed-42767816",
+      "date": "2026-01-01",
+      "title": "Glioblastoma organoids derived from patient tumor tissueas a model for studying extracellular communication and microRNAs in the tumor microenvironment.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764951/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767816/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -1276,8 +1274,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42764951。",
-      "report": "Microtubule-targeting agents remain a cornerstone of cancer therapy; however, few compounds can simultaneously visualize intratumoral distribution and correlate pharmacodynamics with therapeutic response. Here, we describe BF-04, a Benzofuran-derived microtubu...",
+      "fact": "PubMed 记录显示该文献收录于 Klinicka onkologie : casopis Ceske a Slovenske onkologicke spolecnosti，PMID 为 42767816。",
+      "report": "Glioblastoma (GBM) is the most aggressive primary brain tumor in adult patients and is characterized by significant cellular heterogeneity and complex interactions between tumor cells and the tumor microenvironment. Extracellular vesicles (EVs) and the microRN...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
