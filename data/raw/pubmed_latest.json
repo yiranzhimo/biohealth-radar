@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-22T05:05:01.428202+00:00",
+  "capturedAt": "2026-09-22T11:45:46.991553+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-22"
   },
   "pmids": [
+    "42769022",
+    "42768827",
+    "42768826",
+    "42768146",
+    "42768023",
     "42767816",
-    "42767452",
-    "42767443",
-    "42767098",
-    "42767017",
-    "42766730",
     "42758091",
     "42754836",
     "42753692",
@@ -41,6 +41,110 @@
   ],
   "records": [
     {
+      "pmid": "42769022",
+      "title": "Translational Progress of Inorganic Nanotheranostic Platforms for Gynecologic Malignancies: A Narrative Review of Endometrial, Ovarian, and Cervical Cancer Focusing on Fertility Preservation, Biosafety, and Industrial Translation.",
+      "abstract": "Endometrial, ovarian, and cervical cancers differ substantially in epidemiology, anatomy, and unmet clinical need, yet the same inorganic nanomaterial toolbox is often discussed without disease-specific translational context. This narrative review synthesizes preclinical and clinical literature on gold, magnetic, mesoporous silica, carbon-based, and metal-organic framework nanotheranostic platforms identified through PubMed and Web of Science searches from database inception through August 2026, using a structured comparison across endometrial, ovarian, and cervical cancer. Particular attention is given to biosafety, reproductive toxicity, patient-derived organoid (PDO) models, AI-assisted design, manufacturing, and regulatory translation. Clinically, carbon nanoparticle suspensions have direct evidence for sentinel lymph node mapping in endometrial cancer, whereas the strongest ovarian cancer precedents for locoregional and nanomedicine delivery remain non-inorganic, including hyperthermic intraperitoneal chemotherapy and pegylated liposomal doxorubicin. In cervical disease, organic hexaminolevulinate photodynamic therapy for CIN2, approved by China's NMPA in March 2026, provides a relevant local drug-device comparator. We identified no inorganic nanomedicine currently approved specifically for a gynecologic malignancy; ferumoxytol is approved as an intravenous iron replacement product, and AuroLase gold nanoshells remain investigational, with no gynecologic trial identified. Route-matched delivery - intrauterine or hysteroscopic for endometrial cancer, intraperitoneal for ovarian cancer, and topical or intracervical for cervical disease - may therefore be more clinically relevant than increasing platform complexity alone. EC- and OC-derived organoids provide increasingly mature disease models that could support nanotherapeutic screening, but direct nanomedicine validation remains limited, while AI-assisted design is constrained by small heterogeneous datasets and limited external validation. Future progress will depend on reproductive-safety endpoints, appropriately validated PDO models, standardized manufacturing and characterization, and regulatory strategies that clearly distinguish established evidence from preclinical promise.",
+      "journal": "International journal of nanomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynecology, Affiliated Baotou Clinical College of Inner Mongolia Medical University, Baotou, Inner Mongolia, People's Republic of China.",
+        "Department of Obstetrics and Gynecology, Baotou Central Hospital, Baotou, Inner Mongolia, People's Republic of China.",
+        "Department of Pathology, Baotou Central Hospital, Baotou, Inner Mongolia, People's Republic of China."
+      ],
+      "doi": "10.2147/IJN.S642254",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42769022/"
+    },
+    {
+      "pmid": "42768827",
+      "title": "JAG1 c.1615C > T mutation impairs bile duct regeneration but not differentiation in hepatic organoids derived from a patient with Alagille syndrome.",
+      "abstract": "Alagille syndrome (ALGS) is an autosomal dominant disorder caused primarily by mutations in JAG1. Intrahepatic bile duct paucity is the most consistently reported feature of ALGS; however, the mechanisms associated with biliary defects remain unclear. Here, we reverted or introduced the JAG1 c.1615C > T mutation to patient-specific induced pluripotent stem cells (iPSC) or human embryonic stem cells (hESCs) using base editors to generate isogenic cell lines and examine cellular phenotypes associated with this mutation in hepatic organoids. We observed that JAG1 mutant lines showed no significant differences in cholangiocyte differentiation or function compared with the corresponding wild-type lines. By contrast, organoids derived from JAG1 mutant cells showed reduced cell survival, attenuated responsiveness to VEGF stimulation, and abnormal cell polarity. These findings offer a new insight into the biliary pathologies in ALGS and provide theoretical support for future proof-of-concept studies of novel therapeutic approaches for ALGS.",
+      "journal": "Stem cells translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmacy, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China.",
+        "National Research Institute for Family Planning, Beijing 100081, China.",
+        "National Human Genetic Resources Center, Beijing 100081, China.",
+        "Graduate School, Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing 100730, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Shandong Provincial Clinical Research Center for Children's Health and Disease, Jinan 250022, China.",
+        "Neonatology Department, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+      ],
+      "doi": "10.1093/stcltm/szag073",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768827/"
+    },
+    {
+      "pmid": "42768826",
+      "title": "Kidney organoids as a platform to study plasminogen-induced injury and uPA-based therapies.",
+      "abstract": "Urinary plasminogen has been implicated in the progression of proteinuric kidney diseases, yet its direct role in mediating injury along the nephron remains incompletely understood. Experimental models commonly used to study plasminogen-mediated damage are limited by incomplete phenotypic fidelity or interspecies differences, hindering translational relevance. Here, we used kidney organoids generated from H9 human embryonic stem cells to investigate the effects of plasminogen exposure and to evaluate urokinase-type plasminogen activator (uPA) inhibition with amiloride as a therapeutic strategy. Kidney organoids were exposed to plasminogen in the presence or absence of amiloride, and uPA activity was quantified using a fluorescence-based assay. Compartment-specific injury was assessed by confocal microscopy, automated image analysis, and AI-assisted nuclear segmentation, while targeted transcriptomic changes were evaluated using bulk quantitative PCR. Plasminogen exposure induced glomerular injury, characterized by reduced podocalyxin, nephrin, podocin, and WT1 expression, decreased glomerular cell density, and increased apoptosis. Proximal tubules exhibited reduced LTL and megalin expression, with increased KIM-1, whereas distal tubules were relatively preserved. Amiloride effectively inhibited uPA activity and partially restored podocyte and proximal tubular marker expression, but did not prevent apoptosis, indicating incomplete protection against plasminogen-induced injury. These findings support preferential plasminogen-induced injury along the glomerular-proximal tubular axis and highlight the utility of human kidney organoids for modeling this process, while underscoring the need for further validation and broader molecular profiling to strengthen their application in mechanistic studies and therapeutic discovery.",
+      "journal": "Stem cells translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Dr. Barbara T. Murphy Division of Nephrology, Icahn School of Medicine at Mount Sinai, New York, NY, United States.",
+        "Division of Renal-Electrolyte and Hypertension, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, United States."
+      ],
+      "doi": "10.1093/stcltm/szag078",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768826/"
+    },
+    {
+      "pmid": "42768146",
+      "title": "A thioredoxin-Serinc2-lipid signaling axis modulates mood-related behaviors in mice.",
+      "abstract": "Bipolar disorder (BD) shows strong heritability and distinct symptomatic subtypes. However, the molecular basis underlying subtype-specific features remains poorly understood. Here, we identified Serinc2, a BD susceptibility gene encoding a L-serine transporter that regulates membrane lipid synthesis, as a regulator of mood-related behavioral phenotypes. Using patient plasma samples, BD iPSC-derived forebrain organoids, and Serinc2 knockout/overexpression mouse models, we found that Serinc2 expression was increased in bipolar I (BDI) but decreased in bipolar II (BDII); bi-directional manipulation of Serinc2 induced opposite changes in synaptic transmission and depression-related behaviors, accomplied by alterations in PS/SM-dependent redistribution of NMDAR subunits in postsynaptic membranes. Mechanistically, we found that thioredoxin (Txn) bound to the Serinc2 regulatory region and negatively regulate its transcription, and that differential chromatin accessibility of Txn contributed to subtype-associated expression patterns. Together, our results demonstrated a Txn-Serinc2-lipid signaling axis that linked membrane lipid composition to synaptic function and mood-related behaviors, and indicated a potential molecular framework contributing to subtype-specific features of BD.",
+      "journal": "Molecular psychiatry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Membrane Biology, IDG/McGovern Institute for Brain Research, School of Life Sciences, Tsinghua University, Beijing, 100084, China. fuchonglei@163.com.",
+        "Institute of Brain Science and Brain-inspired Research, Shandong First Medical University & Shandong Academy of Medical Sciences, Jinan, 250117, China. fuchonglei@163.com.",
+        "State Key Laboratory of Membrane Biology, IDG/McGovern Institute for Brain Research, School of Life Sciences, Tsinghua University, Beijing, 100084, China.",
+        "Institute of Brain Science and Brain-inspired Research, Shandong First Medical University & Shandong Academy of Medical Sciences, Jinan, 250117, China.",
+        "Jiangsu Key Laboratory of Language and Cognitive Neuroscience, School of Linguistic Sciences and Arts, Jiangsu Collaborative Innovation Center for Language Ability, Jiangsu Normal University, Xuzhou, 221009, China.",
+        "Jiangsu Key Laboratory of Language and Cognitive Neuroscience, School of Linguistic Sciences and Arts, Jiangsu Collaborative Innovation Center for Language Ability, Jiangsu Normal University, Xuzhou, 221009, China. yangym@jsnu.edu.cn.",
+        "Beijing Huilongguan Hospital, Capital Medical University, Peking University Huilongguan Clinical Medical School, Beijing, 100096, China. 13910032541@163.com.",
+        "State Key Laboratory of Membrane Biology, IDG/McGovern Institute for Brain Research, School of Life Sciences, Tsinghua University, Beijing, 100084, China. jyao@mail.tsinghua.edu.cn."
+      ],
+      "doi": "10.1038/s41380-026-03901-z",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768146/"
+    },
+    {
+      "pmid": "42768023",
+      "title": "Author Correction: Single cell transcriptomic profiling of a neuron-astrocyte assembloid tauopathy model.",
+      "abstract": "",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "affiliations": [
+        "Department of Biology, Boston University, Boston, MA, 02215, USA.",
+        "Department of Pharmacology and Experimental Therapeutics, Boston University School of Medicine, Boston, MA, 02118, USA.",
+        "Program in Bioinformatics, Boston University, Boston, MA, 02215, USA.",
+        "Department of Anatomy & Neurobiology, Boston University School of Medicine, Boston, MA, 02118, USA.",
+        "Informatics Group, J. Craig Venter Institute, La Jolla, CA, 92037, USA.",
+        "Department of Neurology, Boston University School of Medicine, Boston, MA, 02118, USA.",
+        "Department of Pharmacology and Experimental Therapeutics, Boston University School of Medicine, Boston, MA, 02118, USA. bwolozin@bu.edu.",
+        "Department of Neurology, Boston University School of Medicine, Boston, MA, 02118, USA. bwolozin@bu.edu.",
+        "Center for Systems Neuroscience, Boston University, Boston, MA, 02118, USA. bwolozin@bu.edu.",
+        "Department of Biology, Boston University, Boston, MA, 02215, USA. csc003@ucsd.edu.",
+        "Program in Bioinformatics, Boston University, Boston, MA, 02215, USA. csc003@ucsd.edu.",
+        "Informatics Group, J. Craig Venter Institute, La Jolla, CA, 92037, USA. csc003@ucsd.edu.",
+        "Department of Psychiatry, University of California San Diego, La Jolla, CA, 92093, USA. csc003@ucsd.edu."
+      ],
+      "doi": "10.1038/s41467-026-77856-8",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768023/"
+    },
+    {
       "pmid": "42767816",
       "title": "Glioblastoma organoids derived from patient tumor tissueas a model for studying extracellular communication and microRNAs in the tumor microenvironment.",
       "abstract": "Glioblastoma (GBM) is the most aggressive primary brain tumor in adult patients and is characterized by significant cellular heterogeneity and complex interactions between tumor cells and the tumor microenvironment. Extracellular vesicles (EVs) and the microRNAs (miRNAs) they carry are important mediators of intercellular signaling and, at the same time, a potential source of biomarkers useful in the diagnosis of gliomas. Experimental models capable of preserving the biological properties of the original tumor are essential for studying these processes. In this study, we prepared glioblastoma organoids (GBOs) derived from patient tumor tissue and analyzed extracellular miRNAs present in EVs isolated from conditioned media. Concurrently, we analyzed miRNAs contained in EVs isolated from cerebrospinal fluid (CSF) of patients with gliomas of varying degrees of malignancy. A total of 12 GBOs cultures were successfully established, long-term cultured, and cryopreserved. Immunohistochemical analysis confirmed the presence of markers typical of glioblastoma cells (Nestin, GFAP, Sox2). In early-stage organoids, cell populations representing the tumor microenvironment were also detected, including endothelial cells (CD31) and microglia (CD163). In some cases, reactive astrocytes and neurons were also present. Highly abundant miRNAs were identified in EVs isolated from conditioned media of GBO and primary GBM cultures, including hsa-miR-21-5p, members of the let-7 family, hsa-miR-16-5p, hsa-miR-125b-5p, and others. These miRNAs were simultaneously detected in EVs isolated from the CSF of patients with GBM and high-grade gliomas. In contrast, miR-204-5p, which was predominantly present in CSF samples, was minimally represented in EVs from tumor cultures, suggesting a possible origin of this miRNA in non-tumor brain tissue. The presented data support the use of GBOs derived from patient tumor tissue as a suitable model for studying intercellular communication and extracellular signaling in GBM and simultaneously demonstrate the potential of EV-associated miRNAs as biomarkers of the tumor microenvironment.",
@@ -52,107 +156,6 @@
       "doi": "10.48095/ccko20262S130",
       "date": "2026-01-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767816/"
-    },
-    {
-      "pmid": "42767452",
-      "title": "Reconstruction of the hematopoietic system using bone marrow, thymus, and spleen organoids: Construction strategies and research advances.",
-      "abstract": "Hematopoietic development and systemic homeostasis depend critically on specific three-dimensional (3D) microenvironments within the bone marrow, thymus, and spleen. Traditional two-dimensional (2D) cultures and animal models frequently fail to recapitulate human physiology due to spatial limitations and interspecies genetic divergence. While 3D organoids offer a compelling alternative, achieving anatomical fidelity and sustaining long-term functionality remain significant bioengineering hurdles. Navigating these challenges, this review synthesizes emerging strategies for constructing high-fidelity hematopoietic organoids. We detail engineered bone marrow constructs tailored to model osteo-vascular niches and sustain hematopoietic stemness, seamlessly paired with thymic platforms reconstructing epithelial microenvironments for directed lymphopoiesis. Shifting to systemic dynamics, we evaluate nascent spleen organoids simulating hemodynamics, erythroid clearance, and extramedullary hematopoiesis. By capturing dynamic circulation, these biomimetic tools establish a transformative paradigm for elucidating hematological mechanisms, accelerating drug screening, and advancing personalized medicine.",
-      "journal": "Life sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Laboratory Animal Science, CAMS & PUMC, National Human Diseases Animal Model Resource Center, National Center of Technology Innovation for Animal Model, State Key Laboratory of Respiratory Health and Multimorbidity, Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education, Beijing, 100021, China.",
-        "Institute of Laboratory Animal Science, CAMS & PUMC, National Human Diseases Animal Model Resource Center, National Center of Technology Innovation for Animal Model, State Key Laboratory of Respiratory Health and Multimorbidity, Key Laboratory of Pathogen Infection Prevention and Control (Peking Union Medical College), Ministry of Education, Beijing, 100021, China. Electronic address: bailin@pumc.edu.cn."
-      ],
-      "doi": "10.1016/j.lfs.2026.124702",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767452/"
-    },
-    {
-      "pmid": "42767443",
-      "title": "Recent Advances in Alternate Corneal Models for Ophthalmic Safety Testing and Efficacy Studies: A Special Focus on Organ-on-a-Chip, Organoid, and 3D Models.",
-      "abstract": "Accurate assessment of ocular toxicity, drug safety, and therapeutic efficacy remains a significant challenge due to the complex anatomy and physiology of the human cornea. Furthermore, conventional two-dimensional (2D) cell cultures and animal models have key limitations. Recent advances in alternative corneal models-three-dimensional (3D) tissue-engineered constructs, organ-on-chip platforms, corneal organoids, and bio-printed systems have transformed ophthalmic research by offering improved physiological relevance and translational value. These advanced models better recapitulate the multilayered architecture, biomechanical properties, fluid dynamics, and cellular microenvironment of the native cornea, enabling more accurate investigation of drug penetration, toxicity, wound healing, and disease mechanisms. In alignment with current National Institutes of Health (NIH) initiatives promoting the replacement, reduction, and refinement of animal research and the promotion of New Approach Methodologies (NAMs), this review examines emerging corneal models that collectively represent a paradigm shift in ophthalmic research. We first outline conventional in vivo and in vitro corneal models to provide historical context and their limitations, followed by a discussion of next-generation technologies. These include cornea-on-chip systems that integrate microfluidics to represent tear flow, blinking, and biomechanical forces; corneal organoids derived from pluripotent stem cells that offer self-organizing, human-specific platforms for disease modeling and safety assessment; and advances in 3D bioprinting enabling the fabrication of mechanically adjustable corneal constructs. The review also highlights the importance of bioinformatics/artificial intelligence in predicting ocular responses and complementing experimental platforms. Collectively, we emphasize that these alternative, emerging technologies support ethical science, improve translational accuracy, and meet federal regulations while reducing animal testing.",
-      "journal": "Progress in retinal and eye research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Toxicology & Pharmacology, Michigan State University.",
-        "Manipal Academy of Higher Education, Manipal, Karnataka; Centre for Ocular Regeneration, Prof. Brien Holden Eye Research Centre (BHERC), LV Prasad Eye Institute, Hyderabad.",
-        "CSIR-Indian Institute of Toxicology Research, Lucknow.",
-        "Biomaterials and Bioprinting, Cell Biology, HiMedia Laboratories Pvt Ltd.",
-        "Department of Biomedical Engineering, IIT Hyderabad.",
-        "CSIR-Indian Institute of Toxicology Research, Lucknow; Department of Toxicology & Pharmacology, Michigan State University. Electronic address: ashish.dwivedi1@iitr.res.in.",
-        "Centre for Ocular Regeneration, Prof. Brien Holden Eye Research Centre (BHERC), LV Prasad Eye Institute, Hyderabad. Electronic address: viveksingh@lvpei.org.",
-        "Department of Toxicology & Pharmacology, Michigan State University. Electronic address: tewarisi@msu.edu."
-      ],
-      "doi": "10.1016/j.preteyeres.2026.101530",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767443/"
-    },
-    {
-      "pmid": "42767098",
-      "title": "GMPS drives pancreatic cancer progression via suppressing DNA damage, STING activation and cellular senescence.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an extremely aggressive malignancy with scarce viable treatment targets. Metabolic rewiring is a typical characteristic of PDAC, but the roles of many metabolic enzymes remain poorly defined. We integrated DepMap and TCGA data to screen metabolic genes essential for PDAC proliferation and poor prognosis. Expression patterns were validated by immunohistochemistry and western blotting in 97 PDAC tissues and multiple cell lines. Genetic manipulation experiments in PDAC cell lines, organoids, and a patient‑derived xenograft model were performed to assess proliferation and tumor growth. RNA sequencing, proteomics, flow cytometry, SA-β-gal staining, and immunofluorescence were used to investigate underlying mechanisms. Among 2752 metabolic genes, GMPS had the highest hazard ratio and its high expression correlated with worse prognosis. GMPS-high tumors showed increased mutation frequencies of KRAS and TP53, while GMPS-low tumors had higher immune infiltration and drug sensitivity. GMPS protein was elevated in PDAC tissues and cell lines (MIA PaCa-2, Capan-1). GMPS knockdown reduced colony formation, proliferation, organoid growth, and PDX tumor growth, whereas overexpression promoted organoid expansion. Mechanistically, GMPS knockdown induced DNA damage (γH2AX⁺ cells), G1 phase arrest, cellular senescence (upregulation of IL6, MMP2, p21, and increased SA-β-gal staining), and activated the STING-TBK1 pathway. GMPS drives PDAC proliferation by suppressing senescence and STING signaling. GMPS is a promising therapeutic target and prognostic biomarker in PDAC.",
-      "journal": "Translational oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: liyangyi@fudanpci.org.",
-        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: zhangzifeng@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: lidingru@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: zhoucong@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: chenyueyue@fudanpci.org.",
-        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: zhuchunbin@fudanpci.org.",
-        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China. Electronic address: yangjianhui@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: tangrong@fudanpci.org.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: wangwei@fudanpci.org.",
-        "Shanghai Pancreatic Cancer Institute, Shanghai, 200032, China; Shanghai Key Laboratory of Precision Medicine for Pancreatic Cancer, Shanghai, 200032, China; Pancreatic Center Institute, Fudan University, Shanghai, 200032, China. Electronic address: yuxianjun@fudan.edu.cn.",
-        "Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 200032, China; Department of Oncology, Shanghai Medical College of Fudan University, Shanghai, 200032, China. Electronic address: xujin@fudanpci.org."
-      ],
-      "doi": "10.1016/j.tranon.2026.103044",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767098/"
-    },
-    {
-      "pmid": "42767017",
-      "title": "Effects of commonly used pesticides and their mixtures on the upper airway epithelium using porcine organoid-derived models.",
-      "abstract": "Airborne pesticide contamination can result in widespread respiratory exposure particularly among agricultural workers, yet its impact on respiratory health remains poorly understood. In this study, we assessed the effects of ten commonly used pesticides and the synergist piperonyl butoxide, individually and in mixtures, on the viability of porcine proximal airway epithelial organoid-derived monolayers. Eight of the eleven compounds reduced cell viability, with pendimethalin, glyphosate, cyprodinil and piperonyl butoxide inducing pronounced effects at low concentrations. Mixture exposure caused stronger reductions in viability than individual compounds, consistent with additive toxicity. Transcriptomic analysis of seven selected compounds revealed alterations in pathways related to epithelial barrier integrity, immune signalling, and mucociliary function. These findings indicate that pesticide exposure of the upper airway may impair airway epithelial function and could contribute to respiratory dysfunction, highlighting the need to incorporate inhalation exposure and mixture effects in pesticide risk assessment. Moreover, this study provides a basis for the development of physiologically relevant models and targeted assays to evaluate respiratory effects of environmental pesticide mixtures.",
-      "journal": "Environment international",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Host Microbe Interactomics, Wageningen University, Netherlands.",
-        "Institute for Risk Assessment Sciences, Utrecht University, Netherlands.",
-        "Instituto Nacional de Tecnologia Agropecuaria, Argentina.",
-        "Department of Environmental Science, Radboud University, Netherlands."
-      ],
-      "doi": "10.1016/j.envint.2026.110524",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767017/"
-    },
-    {
-      "pmid": "42766730",
-      "title": "Fibroblast-associated TPM2 links cell-matrix remodeling to EMT-Notch signaling and gemcitabine resistance in intrahepatic cholangiocarcinoma.",
-      "abstract": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive liver malignancy with heterogeneous responses to gemcitabine-based chemotherapy. The cellular and microenvironmental programs associated with the gemcitabine response remain incompletely understood. This study aimed to identify tumor microenvironment-associated regulators of gemcitabine response in ICC and evaluate their functional relevance using patient-derived organoids. Four public single-cell RNA sequencing datasets comprising 50,176 cells were integrated with TCGA-based transcriptomic and drug sensitivity analyses. High-dimensional weighted gene co-expression network analysis was used to identify cell type-associated modules. Predicted gemcitabine IC50-related differentially expressed genes were intersected with the fibroblast-associated module genes. Patient-derived ICC organoids were used for gemcitabine sensitivity testing and CRISPR/Cas9-mediated TPM2 knockout validation. Single-cell analysis revealed fibroblast enrichment in ICC, and co-expression analysis identified fibroblast-associated modules enriched in extracellular matrix organization and ECM-receptor interaction. Integrated analysis identified TPM2 as a fibroblast-enriched candidate associated with poor prognosis, activation of epithelial-mesenchymal transition, TGF-β and Notch-related pathways, and dynamic cellular state transitions. Patient-derived ICC organoids retained features of matched tumors and showed distinct gemcitabine sensitivities that were broadly consistent with the clinical imaging responses. In a relatively gemcitabine-resistant organoid model, TPM2 knockout enhanced gemcitabine-induced cytotoxicity and suppressed EMT/ECM-related programs and Notch signaling. These findings identify TPM2-associated cell-matrix remodeling as a potential contributor to gemcitabine resistance in ICC and support patient-derived organoids as a functional platform for studying therapeutic vulnerabilities.",
-      "journal": "Cancer biology & therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Oncology, Fujian Medical University Union Hospital, Fuzhou, Fujian, People's Republic of China.",
-        "Fujian Medical University Union Clinical Medicine College, Fuzhou, Fujian, People's Republic of China.",
-        "Department of Cancer Institute, Fudan University Shanghai Cancer Center, Shanghai, People's Republic of China.",
-        "Department of Radiation Oncology, Fujian Medical University Union Hospital, Fuzhou, Fujian, People's Republic of China."
-      ],
-      "doi": "10.1080/15384047.2026.2725344",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766730/"
     },
     {
       "pmid": "42758091",
@@ -515,48 +518,16 @@
   ],
   "signals": [
     {
-      "id": "pubmed-42767452",
-      "date": "2026-09-21",
-      "title": "Reconstruction of the hematopoietic system using bone marrow, thymus, and spleen organoids: Construction strategies and research advances.",
+      "id": "pubmed-42768146",
+      "date": "2026-09-22",
+      "title": "A thioredoxin-Serinc2-lipid signaling axis modulates mood-related behaviors in mice.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767452/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42767452。",
-      "report": "Hematopoietic development and systemic homeostasis depend critically on specific three-dimensional (3D) microenvironments within the bone marrow, thymus, and spleen. Traditional two-dimensional (2D) cultures and animal models frequently fail to recapitulate hu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42767443",
-      "date": "2026-09-21",
-      "title": "Recent Advances in Alternate Corneal Models for Ophthalmic Safety Testing and Efficacy Studies: A Special Focus on Organ-on-a-Chip, Organoid, and 3D Models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767443/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768146/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -573,79 +544,38 @@
         "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Progress in retinal and eye research，PMID 为 42767443。",
-      "report": "Accurate assessment of ocular toxicity, drug safety, and therapeutic efficacy remains a significant challenge due to the complex anatomy and physiology of the human cornea. Furthermore, conventional two-dimensional (2D) cell cultures and animal models have key...",
+      "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42768146。",
+      "report": "Bipolar disorder (BD) shows strong heritability and distinct symptomatic subtypes. However, the molecular basis underlying subtype-specific features remains poorly understood. Here, we identified Serinc2, a BD susceptibility gene encoding a L-serine transporte...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42767098",
+      "id": "pubmed-42768023",
       "date": "2026-09-21",
-      "title": "GMPS drives pancreatic cancer progression via suppressing DNA damage, STING activation and cellular senescence.",
+      "title": "Author Correction: Single cell transcriptomic profiling of a neuron-astrocyte assembloid tauopathy model.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767098/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768023/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42767098。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) is an extremely aggressive malignancy with scarce viable treatment targets. Metabolic rewiring is a typical characteristic of PDAC, but the roles of many metabolic enzymes remain poorly defined. We integrated DepMap and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42766730",
-      "date": "2026-09-21",
-      "title": "Fibroblast-associated TPM2 links cell-matrix remodeling to EMT-Notch signaling and gemcitabine resistance in intrahepatic cholangiocarcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42766730/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
-        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer biology & therapy，PMID 为 42766730。",
-      "report": "Intrahepatic cholangiocarcinoma (ICC) is an aggressive liver malignancy with heterogeneous responses to gemcitabine-based chemotherapy. The cellular and microenvironmental programs associated with the gemcitabine response remain incompletely understood. This s...",
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42768023。",
+      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -803,6 +733,64 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42768827",
+      "date": "2026-09-18",
+      "title": "JAG1 c.1615C > T mutation impairs bile duct regeneration but not differentiation in hepatic organoids derived from a patient with Alagille syndrome.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768827/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells translational medicine，PMID 为 42768827。",
+      "report": "Alagille syndrome (ALGS) is an autosomal dominant disorder caused primarily by mutations in JAG1. Intrahepatic bile duct paucity is the most consistently reported feature of ALGS; however, the mechanisms associated with biliary defects remain unclear. Here, we...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42768826",
+      "date": "2026-09-18",
+      "title": "Kidney organoids as a platform to study plasminogen-induced injury and uPA-based therapies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42768826/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells translational medicine，PMID 为 42768826。",
+      "report": "Urinary plasminogen has been implicated in the progression of proteinuric kidney diseases, yet its direct role in mediating injury along the nephron remains incompletely understood. Experimental models commonly used to study plasminogen-mediated damage are lim...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42758213",
       "date": "2026-09-18",
       "title": "NLA proteins: Master regulators that integrate nutrient homeostasis, stress adaptation, and plant development.",
@@ -891,36 +879,6 @@
       "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 42757549。",
       "report": "Generative AI has driven remarkable breakthroughs in protein design, enabling the rapid, computationally guided creation of high-affinity binders against diverse targets. While remarkable experimental success has been demonstrated, the confidence metrics used...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42767017",
-      "date": "2026-09-17",
-      "title": "Effects of commonly used pesticides and their mixtures on the upper airway epithelium using porcine organoid-derived models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767017/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Environment international，PMID 为 42767017。",
-      "report": "Airborne pesticide contamination can result in widespread respiratory exposure particularly among agricultural workers, yet its impact on respiratory health remains poorly understood. In this study, we assessed the effects of ten commonly used pesticides and t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1025,6 +983,42 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical and molecular hepatology，PMID 为 42749352。",
       "report": "``Single-cell and spatial atlases describe the healthy and diseased liver at high resolution, including lobular hepatocyte zonation, fibrotic macrophage-stellate niches, cholangiocyte reactions, immune remodeling, and hepatocellular carcinoma ecosystems. These...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42769022",
+      "date": "2026-09-16",
+      "title": "Translational Progress of Inorganic Nanotheranostic Platforms for Gynecologic Malignancies: A Narrative Review of Endometrial, Ovarian, and Cervical Cancer Focusing on Fertility Preservation, Biosafety, and Industrial Translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42769022/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42769022。",
+      "report": "Endometrial, ovarian, and cervical cancers differ substantially in epidemiology, anatomy, and unmet clinical need, yet the same inorganic nanomaterial toolbox is often discussed without disease-specific translational context. This narrative review synthesizes...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
