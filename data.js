@@ -1054,6 +1054,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "sec-0001730463-000119312526398045",
+      "date": "2026-09-22",
+      "title": "Autolus Therapeutics filed Form 424B3",
+      "entity": "Autolus Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526398045/d112040d424b3.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "424B3",
+        "AUTL"
+      ],
+      "companyIds": [
+        "autolus"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-398045 for Autolus Therapeutics, Form 424B3, filed on 2026-09-22.",
+      "report": "SEC metadata describes the primary document as: 424B3.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0cc2291e62665063006ab2f1e53f9487d2b5818627d1ea0069",
+        "reviewedAt": "2026-09-22T21:23:47.923553+00:00",
+        "inputHash": "06508b408d0ea5a71a7bedb5692474264fafc7ca69fbcb30658933cec60a9c7f",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信号内容及分类合理，信息分离明确，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，但缺少具体财务或临床细节。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源可靠，证据水平中等"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Prospectus",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "424B3",
+            "AUTL"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-398045 for Autolus Therapeutics, Form 424B3, filed on 2026-09-22.",
+          "report": "SEC metadata describes the primary document as: 424B3.",
+          "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "sec-0001601830-000160183026000112",
       "date": "2026-09-21",
       "title": "Recursion Pharmaceuticals filed Form 8-K",

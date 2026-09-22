@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-22T17:00:53.672882+00:00",
+  "capturedAt": "2026-09-22T21:23:47.692010+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-09-08",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-09-22",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-09-22T16:51:01.000Z",
+      "act": "33",
+      "form": "424B3",
+      "fileNumber": "333-298910",
+      "filmNumber": "261397415",
+      "items": "",
+      "size": 278879,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "d112040d424b3.htm",
+      "primaryDocDescription": "424B3",
+      "accessionNumber": "0001193125-26-398045",
+      "companyId": "autolus",
+      "companyName": "Autolus Therapeutics",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "AUTL",
+      "cik": "0001730463",
+      "secName": "Autolus Therapeutics plc",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526398045/d112040d424b3.htm"
+    },
     {
       "filingDate": "2026-09-21",
       "reportDate": "2026-09-15",
@@ -316,6 +341,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001730463-000119312526398045",
+      "date": "2026-09-22",
+      "title": "Autolus Therapeutics filed Form 424B3",
+      "entity": "Autolus Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526398045/d112040d424b3.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "424B3",
+        "AUTL"
+      ],
+      "companyIds": [
+        "autolus"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-398045 for Autolus Therapeutics, Form 424B3, filed on 2026-09-22.",
+      "report": "SEC metadata describes the primary document as: 424B3.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001601830-000160183026000112",
       "date": "2026-09-21",

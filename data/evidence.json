@@ -100,6 +100,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-sec-0001730463-000119312526398045",
+      "signalId": "sec-0001730463-000119312526398045",
+      "companyIds": [
+        "autolus"
+      ],
+      "publishedAt": "2026-09-22",
+      "snapshotDate": "2026-09-22",
+      "title": "Autolus Therapeutics filed Form 424B3",
+      "eventType": "Offering",
+      "evidenceKind": "Corporate Filing",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526398045/d112040d424b3.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "424B3",
+        "AUTL"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-398045 for Autolus Therapeutics, Form 424B3, filed on 2026-09-22.",
+      "report": "SEC metadata describes the primary document as: 424B3.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
       "id": "evidence-sec-0001601830-000160183026000112",
       "signalId": "sec-0001601830-000160183026000112",
       "companyIds": [
