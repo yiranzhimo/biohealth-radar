@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-23T04:50:40.211691+00:00",
+  "capturedAt": "2026-09-23T11:45:48.954197+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-09-09",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-09-23",
+      "reportDate": "2026-09-23",
+      "acceptanceDateTime": "2026-09-23T06:03:20.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "000-19125",
+      "filmNumber": "261398137",
+      "items": "7.01,8.01,9.01",
+      "size": 187752,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ef20082626_8k.htm",
+      "primaryDocDescription": "CURRENT REPORT FILING",
+      "accessionNumber": "0001140361-26-037371",
+      "companyId": "ionis",
+      "companyName": "Ionis Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "IONS",
+      "cik": "0000874015",
+      "secName": "IONIS PHARMACEUTICALS INC",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_8k.htm"
+    },
     {
       "filingDate": "2026-09-22",
       "reportDate": "",
@@ -291,6 +316,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0000874015-000114036126037371",
+      "date": "2026-09-23",
+      "title": "Ionis Pharmaceuticals filed Form 8-K",
+      "entity": "Ionis Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "IONS"
+      ],
+      "companyIds": [
+        "ionis"
+      ],
+      "fact": "SEC EDGAR lists accession 0001140361-26-037371 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-09-23.",
+      "report": "SEC metadata describes the primary document as: CURRENT REPORT FILING.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001730463-000119312526398045",
       "date": "2026-09-22",

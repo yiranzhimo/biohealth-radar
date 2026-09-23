@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-23T04:50:32.989066+00:00",
+  "capturedAt": "2026-09-23T11:45:40.199457+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,24 +14,24 @@
     "end": "2026-09-23"
   },
   "pmids": [
+    "42774032",
+    "42773706",
+    "42773109",
     "42772966",
     "42772623",
     "42772449",
-    "42772346",
-    "42772182",
-    "42772032",
     "42771879",
     "42758091",
     "42754836",
     "42753692",
     "42749352",
     "42745547",
+    "42773890",
+    "42773138",
     "42771506",
     "42769965",
     "42764027",
     "42763120",
-    "42758213",
-    "42758048",
     "42772256",
     "42771539",
     "42770652",
@@ -40,6 +40,67 @@
     "42769802"
   ],
   "records": [
+    {
+      "pmid": "42774032",
+      "title": "Reporter-guided photoreceptor differentiation in 2D culture using PGP1-hIPSCs: A comparable alternative to 3D organoid systems?",
+      "abstract": "To develop and characterize a xeno-free, two-dimensional (2D) differentiation protocol for directing human induced pluripotent stem cells (hIPSCs) toward photoreceptor (PhR)-like cells, using a live-reporter system and transcriptomic analysis to evaluate lineage fidelity and maturation compared to the three-dimensional (3D) culture paradigm. A CRISPR/Cas9-engineered PGP1 hIPSC line expressing fluorescent reporters for retinal markers (VSX2, BRN3B, and RCVRN) was differentiated in adherent culture using chemically defined media supplemented with small molecules (T3, DAPT, taurine, and retinoic acid). Differentiation was assessed over time by immunocytochemistry, flow cytometry, reverse transcription quantitative polymerase chain reaction, ultrastructural imaging (transmission electron microscopy and scanning electron microscopy), and bulk RNA sequencing. Comparative transcriptomic analysis with 3D retinal organoid data was conducted to evaluate developmental kinetics and pathway enrichment. The 2D protocol reproducibly generated PhR-like cells expressing PhR-associated protein markers, including CRX, NR2F2, RCVRN, THRβ OPSIN-S, OPSN-M/L, and ARR3. Flow cytometric analysis demonstrated 93.6%, 96.2%, and 70.3% of RCVRN, OPSN-M/L, and OPSN-S positive populations at day (D) 42, while up to 97.4% of cells stained positive for RCVRN by D52. Early commitment to a PhR lineage was evident by D30, supported by transcriptional profiles consistent with PhR-like ontogeny. Ultrastructural analyses revealed features of putative inner and outer segments, including developing cilia and disc-like \"whorls\" supported by expression of gap junction protein markers and cilium markers (TMEM138 and CX36). Bulk RNA sequencing demonstrated faithful temporal regulation of PhR gene networks and highlighted accelerated differentiation compared to 3D cultures. This pilot xeno-free 2D differentiation protocol offers a timely and scalable method for generating PhR-like cells from hIPSCs comparable to standard 3D culture systems. The results validate its downstream utility for retinal cell therapy development, high-throughput screening, and transplantation outputs pending further investigation, while supporting the transcriptome dominance model as a framework for evaluating photoreceptor fate acquisition in this culture paradigm.",
+      "journal": "Molecular vision",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Clem Jones Centre for Regenerative Medicine, Faculty of Health Science & Medicine, Bond University, QLD Australia.",
+        "Clear Vision Research Laboratory, The John Curtin School of Medical Research, College of Health and Medicine, The Australian National University, ACT, Australia."
+      ],
+      "doi": "10.63500/mv_v32_232",
+      "date": "2026-06-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42774032/"
+    },
+    {
+      "pmid": "42773706",
+      "title": "Pre-clinical validation of AAV-mediated gene therapy for KCNV2 retinopathy improves visual function and expression in mouse and patient models.",
+      "abstract": "Voltage-gated (Kv) potassium channels are critical for neuronal physiology, and their dysfunction can lead to serious consequences. For example, mutations in the silent modulatory Kv8.2 subunit are known to cause irreversible inherited blindness (KCNV2 retinopathy). This is a currently incurable condition that causes lifelong visual loss, reduced visual acuity, photoaversion, night blindness and abnormal colour vision, alongside a distinctive supernormal electrophysiological (ERG) retinal response to light. In this study, we demonstrate that AAV-mediated gene replacement therapy delivering a codon-optimised human KCNV2 gene subretinally into Kv8.2 knock-out mice significantly restores retinal function. Treated mice exhibited improved ERG responses and correct expression of KCNV2 and its encoded Kv8.2 protein in photoreceptors. Recovery of visually guided scotopic and photopic optomotor responses to wildtype levels was achieved at lower vector doses, highlighting dose-dependent efficacy. Furthermore, treatment of human retinal organoids derived from a KCNV2 patient iPSC line resulted in substantial Kv8.2 protein rescue. This work provides the preclinical proof-of-concept for the safety and therapeutic potential of gene therapy for KCNV2 retinopathy, laying a strong foundation for future clinical trials.",
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Retinal Genomics and Therapy Group, Lions Eye Institute, Perth, WA 6009, Australia; Department of Microbiology and Immunology, Faculty of Medicine, Minia University, Minia 61519, Egypt.",
+        "Retinal Genomics and Therapy Group, Lions Eye Institute, Perth, WA 6009, Australia.",
+        "Centre for Ophthalmology and Visual Science, The University of Western Australia, Perth, WA 6009, Australia.",
+        "Retinal Genomics and Therapy Group, Lions Eye Institute, Perth, WA 6009, Australia; Centre for Ophthalmology and Visual Science, The University of Western Australia, Perth, WA 6009, Australia.",
+        "INSiGENe Pty Ltd, Perth, WA 6163, Australia.",
+        "Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA.",
+        "Macquarie Medical School, Faculty of Medicine, Health and Human Sciences, Macquarie University, Sydney, NSW 2113, Australia; ProHeme Diagnostics Pty Ltd, Sydney, NSW 2109, Australia.",
+        "Stem Cell Medicine Unit Group, Children's Medical Research Institute, Faculty of Medicine and Health, The University of Sydney, Westmead, NSW 2145, Australia.",
+        "Save Sight Institute, University of Sydney, Sydney, NSW 2000, Australia; Eye Genetics Research Unit, Children's Medical Research Institute, The Children's Hospital at Westmead, Westmead, NSW 2145, Australia; Western Sydney Genetics Program, Sydney Children's Hospitals Network, Sydney, NSW 2145, Australia.",
+        "Retinal Genomics and Therapy Group, Lions Eye Institute, Perth, WA 6009, Australia; Centre for Ophthalmology and Visual Science, The University of Western Australia, Perth, WA 6009, Australia; Department of Optometry and Vision Sciences, The University of Melbourne, Carlton 3053, Australia. Electronic address: livia.carvalho@unimelb.edu.au."
+      ],
+      "doi": "10.1016/j.ymthe.2026.09.025",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773706/"
+    },
+    {
+      "pmid": "42773109",
+      "title": "Retinoic acid in health and disease.",
+      "abstract": "Retinoic acid, the active metabolite of vitamin A, is a pleiotropic signaling molecule that integrates developmental, homeostatic, and pathological processes across multiple organ systems. During embryogenesis, RA gradients regulate tissue patterning and lineage commitment, while in adult tissues, RA contributes to epithelial integrity, stem-cell regulation, immune homeostasis, and metabolic balance. Disruption of retinoic acid synthesis, degradation, receptor signaling, or pathway crosstalk underlies a broad spectrum of diseases, including congenital malformations, autoimmune and inflammatory conditions, neurodegenerative disorders, cardiovascular disease, pulmonary and ophthalmic pathologies, and cancer. In the tumor, RA signaling exhibits remarkable plasticity, acting as either a differentiation inducer or a stemness-maintaining factor, depending on genetic, metabolic, and microenvironmental cues. Therapeutically, retinoid-based interventions have revolutionized the treatment of acute promyelocytic leukemia. Still, their broader application has been constrained by resistance mechanisms, pharmacokinetic limitations, tissue-specific effects, and the dual nature of retinoic acid signaling across different disease states. Advances in organoid systems, single-cell and spatial transcriptomics, and multimodal epigenomics are revealing highly localized and cell-type specific retinoid responses, supporting a systems-level model of RA signaling. This framework defines \"retinoid endotypes\" as tissue- and stage-specific states shaped by retinoid metabolic niches, chromatin state, and microenvironmental organization, with potential to guide patient stratification and precision retinoid therapy.",
+      "journal": "Signal transduction and targeted therapy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Experimental and Clinical Medicine, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Interdepartmental Center of Services (CIS), Omics Sciences and Biobank, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Department of Medical and Surgical Sciences, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Medical Genetics Unit, Renato Dulbecco University Hospital, Catanzaro, Italy.",
+        "Department of Experimental and Clinical Medicine, University \"Magna Graecia\", Catanzaro, Italy. gsantamaria@unicz.it.",
+        "Interdepartmental Center of Services (CIS), Omics Sciences and Biobank, University \"Magna Graecia\", Catanzaro, Italy. gsantamaria@unicz.it."
+      ],
+      "doi": "10.1038/s41392-026-03055-y",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773109/"
+    },
     {
       "pmid": "42772966",
       "title": "Asking pragmatic and RAD questions about organoid intelligence.",
@@ -87,62 +148,6 @@
       "doi": "10.1016/j.kint.2026.07.034",
       "date": "2026-09-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772449/"
-    },
-    {
-      "pmid": "42772346",
-      "title": "Modeling pancreatic islet aging: mitochondrial dysfunction and functional rescue in 3D organoids by exogenous mitochondrial delivery.",
-      "abstract": "This study models pancreatic islet aging using 3D organoids derived from senescent rPI-MSCs. This system is characterized by a functional bottleneck where, despite immunofluorescence and qPCR confirming robust insulin and PDX1 upregulation, senescent organoids lack mature glucose-sensing machinery via decreased glucokinase expression. Consequently, dithizone (DTZ) staining and ELISA confirm defective zinc-insulin complexation and depleted insulin secretion. This sensory block culminates in an abolished glucose-stimulated insulin secretion (GSIS) index. Remarkably, exogenous mitochondrial delivery overcomes this metabolic block, rescuing mitochondrial potential and partially mitigating the functional deficits associated with the senescent phenotype.",
-      "journal": "Mitochondrion",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Stem Cell, Institute of Health Sciences, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye; Department of Biotechnology, Cukurova University, 01250 Adana, Turkiye; Biotechnology Research and Application Center, Cukurova University, 01250 Adana, Turkiye.",
-        "Department of Stem Cell, Institute of Health Sciences, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye; Center for Stem Cell and Gene Therapies Research and Practice, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye. Electronic address: gokhanduruksu@gmail.com.",
-        "Center for Stem Cell and Gene Therapies Research and Practice, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye.",
-        "Department of Stem Cell, Institute of Health Sciences, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye; Department of Histology and Embryology, School of Medicine, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye.",
-        "Department of Stem Cell, Institute of Health Sciences, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye; Center for Stem Cell and Gene Therapies Research and Practice, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye; Department of Histology and Embryology, School of Medicine, Kocaeli University, 41001 Izmit, Kocaeli, Turkiye."
-      ],
-      "doi": "10.1016/j.mito.2026.102219",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772346/"
-    },
-    {
-      "pmid": "42772182",
-      "title": "CLDN18.2 targeting enhances chemotherapy sensitivity in pancreatic cancer cells and lung cancer organoids.",
-      "abstract": "Claudin 18 isoform 2 (CLDN18.2) is a therapeutic target in solid tumors, but its contribution to chemotherapy response remains unclear. We examined whether CLDN18.2 targeting increases drug sensitivity and whether this is accompanied by changes in solute carrier family 7 member 11 (SLC7A11) expression. High CLDN18 expression was associated with shorter overall survival in pancreatic adenocarcinoma. In DAN-G cells, two independent CLDN18.2 siRNAs increased sensitivity to 5-fluorouracil. TST001 enhanced cisplatin-induced cytotoxicity in lung cancer patient-derived organoids. CLDN18.2 knockdown also reduced SLC7A11 mRNA, increased sensitivity to Ras-selective lethal 3 (RSL3), and increased RSL3-induced membrane lipid peroxidation. TST001 and IMAB362 reduced SLC7A11 mRNA, and TST001 increased RSL3 sensitivity in KATO III and NUGC4 cells. Confocal images were consistent with IMAB362 internalization and partial lysosomal localization. These findings support CLDN18.2 targeting as an approach to chemotherapy sensitization in the models tested. Reduced SLC7A11 expression and altered lipid-peroxidation responses are possible contributors, but their causal involvement in chemotherapy sensitization remains to be established.",
-      "journal": "Biochemical and biophysical research communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Life Science, Nankai University, Tianjin, China; State Key Laboratory of Medicinal Chemical Biology, Nankai University, Tianjin, China.",
-        "Beijing Institute of Biological Products Co., Ltd., Beijing, China; Institute of Molecular Biology, Nankai University, Tianjin, China.",
-        "Division of Medical Technology, Tianjin Medical University, Tianjin, China.",
-        "College of Life Science, Nankai University, Tianjin, China. Electronic address: 13079903198@163.com.",
-        "College of Life Science, Nankai University, Tianjin, China; State Key Laboratory of Medicinal Chemical Biology, Nankai University, Tianjin, China. Electronic address: 9820250078@nankai.edu.cn."
-      ],
-      "doi": "10.1016/j.bbrc.2026.154610",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772182/"
-    },
-    {
-      "pmid": "42772032",
-      "title": "3D microenvironments for gonadal cell development in domestic cats and dogs.",
-      "abstract": "The development of functional gametes in vitro depends on the ability to recreate the complex gonadal niche that orchestrates germ cell survival, growth and differentiation in vivo. In vitro gametogenesis therefore relies on the design of appropriate three-dimensional (3D) microenvironments capable of providing structural and biochemical support to gonadal cells. These approaches hold considerable promise for fertility and biodiversity preservation, particularly in prepubertal individuals and endangered species. Although complete in vitro follicle growth to the metaphase II oocyte stage has been achieved in rodents and humans and in vitro spermatogenesis has been obtained in murine models, translation to small domestic animals remains challenging. Dogs and cats are of particular interest both as target species and as comparative models for their wild counterparts, but their peculiar reproductive physiology limits the direct application of protocols developed in other mammals. In this context, advanced 3D culture systems, including hydrogel encapsulation, organoids, air-liquid interface platforms, biomimetic scaffolds and microfluidic devices, are being explored to better mimic ovarian and testicular microenvironments. The present review summarizes current advances in 3D microenvironments, with a focus on those designed for gonadal cell culture in small animals, highlighting species-specific challenges, key achievements and future directions toward in vitro gametogenesis.",
-      "journal": "Theriogenology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Dipartimento di Medicina Veterinaria e Scienze Animali (DIVAS), Università degli Studi di Milano, Lodi, 26900, Italy. Electronic address: martina.colombo@unimi.it.",
-        "Dipartimento di Medicina Veterinaria e Scienze Animali (DIVAS), Università degli Studi di Milano, Lodi, 26900, Italy. Electronic address: valeria.vurchio@unimi.it.",
-        "Dipartimento di Medicina Veterinaria e Scienze Animali (DIVAS), Università degli Studi di Milano, Lodi, 26900, Italy. Electronic address: cecilia.luvoni@unimi.it."
-      ],
-      "doi": "10.1016/j.theriogenology.2026.118200",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772032/"
     },
     {
       "pmid": "42771879",
@@ -255,6 +260,48 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745547/"
     },
     {
+      "pmid": "42773890",
+      "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
+      "abstract": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we developed a recombinant decoy receptor protein designed to competitively inhibit IL-21 binding to its receptor. Using the extracellular domain of IL-21R as a scaffold, five key binding-site residues (33, 38, 70, 94, and 130) were mutated with OSPREY software. Computational analyses with GROMACS selected the Q33S, E38D, M70T, L94N, and M130S mutant for its superior structural stability and high binding affinity to IL-21, with binding energy calculations confirming that the mutant successfully maintains the high baseline binding affinity of the wild-type complex. The decoy receptor protein was subsequently expressed recombinantly in E. coli Rosetta-gami. More importantly, the analysis of secondary structure revealed that the protein retained its overall secondary structure after mutagenesis, with slight alterations in alpha-helical content. Finally, the calculation of the KD value using the SPR technique demonstrated that the mutant IL-21R exhibited a 1.4-fold increase in binding affinity compared to the wild-type receptor (KD=50 pM vs. 70 pM for the wild-type), supporting its potential as a competitive IL-21R decoy receptor. Therefore, this decoy receptor could be considered an effective therapeutic agent for blocking IL21 and controlling or preventing the progression of autoimmune and inflammatory diseases.",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran.",
+        "Center for Molecular Medicine, University of Georgia, Athens, Georgia, USA."
+      ],
+      "doi": "10.1080/07391102.2026.2733932",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773890/"
+    },
+    {
+      "pmid": "42773138",
+      "title": "Generative AI designs functional thiolation domains for reprogramming non-ribosomal peptide synthetases.",
+      "abstract": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide synthetases (NRPSs) exemplify this challenge and produce many clinically used therapeutics. Here we integrate pretrained generative models (ESM3, ProteinMPNN and EvoDiff) with design-build-test-learn cycles and data-guided prioritization to generate 76 de novo thiolation (T) domains. We build and test 578 recombinant NRPS variants in vivo spanning minimal, full-length, and hybrid assembly lines. AI-designed T-domains support product formation across architectures, enable catalytically active hybrids at recombined junctions, and increase yields by up to ~3-fold relative to NRPSs carrying the native T-domain. A representative design shows improved soluble expression, refolding, and a 12 °C higher melting temperature, while molecular dynamics simulations indicate preserved global stability but reshaped, state-dependent interdomain contact networks. Together, these results establish generative design as an effective route to context-conditioned engineering and reprogramming of biosynthetic assembly lines.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+        "Center for Bioinformatics, Saarland University, Saarbrücken, Germany.",
+        "Deutsches Zentrum für Infektionsforschung (DZIF), Braunschweig, Germany.",
+        "Department of Molecular Structural Biology, Helmholtz Centre for Infection Research, Braunschweig, Germany.",
+        "Technical University of Munich - Helmholtz AI - Munich Center for Machine Learning (MCML), München, Germany.",
+        "Myria Biosciences AG, Basel, Switzerland.",
+        "Bioprocess Laboratory (BPL), Department of Biosystems Science and Engineering (D-BSSE), Eidgenössische Technische Hochschule (ETH) Zürich, Basel, Switzerland.",
+        "Department of Pharmacy, Saarland University, Saarbrücken, Germany.",
+        "Medical Faculty, Saarland University, Homburg, Germany.",
+        "Spoken Language Systems (LSV), Saarland University, PharmaScienceHub (PSH), Saarbrücken, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany. kenan.bozhueyuek@helmholtz-hips.de.",
+        "Myria Biosciences AG, Basel, Switzerland. kenan.bozhueyuek@helmholtz-hips.de."
+      ],
+      "doi": "10.1038/s41467-026-77963-6",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773138/"
+    },
+    {
       "pmid": "42771506",
       "title": "Programmed inhibition of an innate immune receptor via de novo designed transmembrane proteins.",
       "abstract": "Transmembrane domains of immune complexes transmit precise signals across lipid bilayers. Probing their interactions has the potential to yield mechanistic insights relevant to therapeutic design. However, our capability to generate molecules that bind lipid-embedded sites is limited. Here, we created synthetic polypeptides targeting a prominent mediator of inflammatory signaling directly within membranes, Toll-like receptor 4 (TLR4), and clarify structural principles of its cross-membrane signaling mechanism. Doing so, we test emerging design principles for computationally encoding protein interactions within lipid and validate a protein-protein interaction screening platform for rapid discovery of de novo transmembrane (TM) protein antagonist of inflammatory signaling via this innate immune receptor. Binding the TM domain of TLR4 poses a formidable de novo molecular recognition challenge not yet achieved, given the membrane-spanning region is predominantly apolar and lacks any recognizable interaction motifs (e.g., sticky small residue repeats). Likewise, TLR4's structure-function relationship and key residues for oligomerization and cross-membrane signaling are underdetermined. Our engineering strategy identifies lead synthetic TM proteins that specifically bind TLR4's transmembrane domain and antagonizes NFκB signaling in human cells. These transmembrane-directed chemical probes prove that receptor TM domain interaction geometries are essential for TLR4's cross-membrane conformational coupling, informing a revised structural mechanism to leverage in future drug design of this protein family. This work refines principles for encoding stable interactions in cellular membranes and expands the range of lipid-embedded mechanisms accessible to probe with computationally derived molecules.",
@@ -321,42 +368,6 @@
       "doi": "10.1016/bs.apcsb.2026.08.013",
       "date": "2026-08-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763120/"
-    },
-    {
-      "pmid": "42758213",
-      "title": "NLA proteins: Master regulators that integrate nutrient homeostasis, stress adaptation, and plant development.",
-      "abstract": "As sessile organisms, plants rely on intricate molecular regulatory networks to navigate complex, fluctuating environments and diverse stress conditions. Nitrogen Limitation Adaptation (NLA), a RING-type ubiquitin ligase harboring an SPX domain, has emerged as a central hub integrating plant responses to nutrient availability, pathogen attack, and cold stress. This review provides a systematic overview of the structural features of NLA, with a particular focus on the regulatory role of inositol pyrophosphates (PP-InsPs) in plant phosphorus signaling. We highlight the core functions of NLA in maintaining nitrogen-phosphorus homeostasis and mediating the crosstalk between nutrient status and immune defense. A key mechanism we discuss is the role of maize ZmNLA in \"cold-phosphorus\" trade-off, whereby ZmNLA activates jasmonate signaling to enhance cold tolerance by mediating the ubiquitination and degradation of the signaling repressor ZmJAZ11, while simultaneously restricting phosphate uptake via targeting the phosphate transporter ZmPT4. Notably, the ZmNLAΔ12 variant, which has an impaired PP-InsPs binding site, functionally uncouples this trade-off through structure-guided protein design. Finally, we propose future research directions and discuss the potential for breeding new crop varieties with enhanced stress adaptation and improved nutrient use efficiency.",
-      "journal": "Journal of experimental botany",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Plant Protection and Soil Fertilizer, Hubei Academy of Agricultural Sciences, Key Laboratory of Fertilization from Agricultural Wastes, Ministry of Agriculture and Rural Affairs, Wuhan 430064, China.",
-        "National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China.",
-        "Department of Ecological, Plant and Animal Science, School of Agriculture, Biomedicine & Environment, La Trobe University, Vic 3083, Australia."
-      ],
-      "doi": "10.1093/jxb/erag476",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758213/"
-    },
-    {
-      "pmid": "42758048",
-      "title": "De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.",
-      "abstract": "Artificial metalloenzymes (ArMs) exhibit exceptional selectivity, yet extending their reactivity beyond native cofactors remains a major challenge. While previous designs using native protein scaffolds to incorporate nonnative cofactors have been reported, de novo protein design enables tailored scaffolds that incorporate nonnative cofactors, unlocking transformations inaccessible to natural enzymes. Here, we report the computational design of de novo proteins that bind Mn(salen)-based complexes for asymmetric sulfoxidation. The resulting ArMs outperform the free cofactor, achieving up to 45% yield and an enantiomeric ratio (e.r.) of 26:74 under optimized conditions. A 1.5 Å resolution crystal structure confirms the designed architecture and reveals key secondary-sphere interactions that govern reactivity. Guided by these insights, rational mutagenesis enhanced performance up to 79% yield and an e.r. up to 16:84. This work establishes a general strategy for integrating complex nonnative cofactors into de novo scaffolds, enabling selective catalysts for reactions beyond the reach of natural enzymes.",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Chemistry, University of Texas at Austin, Austin, Texas, USA.",
-        "Department of Chemistry and Biochemistry, St. Mary's College of Maryland, St. Mary's City, Maryland, USA.",
-        "Department of Biochemistry, University of Washington, Seattle, Washington, USA.",
-        "Institute For Protein Design, University of Washington, Seattle, Washington, USA.",
-        "Howard Hughes Medical Institute, University of Washington, Seattle, Washington, USA."
-      ],
-      "doi": "10.1002/anie.5852828",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758048/"
     },
     {
       "pmid": "42772256",
@@ -468,6 +479,99 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42773890",
+      "date": "2026-09-23",
+      "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773890/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of biomolecular structure & dynamics，PMID 为 42773890。",
+      "report": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we de...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42773706",
+      "date": "2026-09-22",
+      "title": "Pre-clinical validation of AAV-mediated gene therapy for KCNV2 retinopathy improves visual function and expression in mouse and patient models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773706/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular therapy : the journal of the American Society of Gene Therapy，PMID 为 42773706。",
+      "report": "Voltage-gated (Kv) potassium channels are critical for neuronal physiology, and their dysfunction can lead to serious consequences. For example, mutations in the silent modulatory Kv8.2 subunit are known to cause irreversible inherited blindness (KCNV2 retinop...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42773109",
+      "date": "2026-09-22",
+      "title": "Retinoic acid in health and disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773109/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42773109。",
+      "report": "Retinoic acid, the active metabolite of vitamin A, is a pleiotropic signaling molecule that integrates developmental, homeostatic, and pathological processes across multiple organ systems. During embryogenesis, RA gradients regulate tissue patterning and linea...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42772966",
       "date": "2026-09-22",
       "title": "Asking pragmatic and RAD questions about organoid intelligence.",
@@ -563,34 +667,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42772346",
-      "date": "2026-09-22",
-      "title": "Modeling pancreatic islet aging: mitochondrial dysfunction and functional rescue in 3D organoids by exogenous mitochondrial delivery.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772346/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Mitochondrion，PMID 为 42772346。",
-      "report": "This study models pancreatic islet aging using 3D organoids derived from senescent rPI-MSCs. This system is characterized by a functional bottleneck where, despite immunofluorescence and qPCR confirming robust insulin and PDX1 upregulation, senescent organoids...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42771879",
       "date": "2026-09-22",
       "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
@@ -616,6 +692,39 @@
       "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
       "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42773138",
+      "date": "2026-09-22",
+      "title": "Generative AI designs functional thiolation domains for reprogramming non-ribosomal peptide synthetases.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773138/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42773138。",
+      "report": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide s...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -709,34 +818,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42772032",
-      "date": "2026-09-21",
-      "title": "3D microenvironments for gonadal cell development in domestic cats and dogs.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772032/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Theriogenology，PMID 为 42772032。",
-      "report": "The development of functional gametes in vitro depends on the ability to recreate the complex gonadal niche that orchestrates germ cell survival, growth and differentiation in vivo. In vitro gametogenesis therefore relies on the design of appropriate three-dim...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42771539",
       "date": "2026-09-21",
       "title": "Neoplasms of the Cervical Spine: Diagnostic Workup and Clinical Decision-making Algorithms.",
@@ -825,100 +906,6 @@
       "fact": "PubMed 记录显示该文献收录于 European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology，PMID 为 42772256。",
       "report": "Colorectal cancer (CRC) surgery has traditionally been planned on the basis of anatomy and histopathology, with relatively standardised procedures applied across biologically heterogeneous disease. In contrast, systemic treatment has progressively incorporated...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42772182",
-      "date": "2026-09-18",
-      "title": "CLDN18.2 targeting enhances chemotherapy sensitivity in pancreatic cancer cells and lung cancer organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42772182/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 42772182。",
-      "report": "Claudin 18 isoform 2 (CLDN18.2) is a therapeutic target in solid tumors, but its contribution to chemotherapy response remains unclear. We examined whether CLDN18.2 targeting increases drug sensitivity and whether this is accompanied by changes in solute carri...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42758213",
-      "date": "2026-09-18",
-      "title": "NLA proteins: Master regulators that integrate nutrient homeostasis, stress adaptation, and plant development.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758213/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of experimental botany，PMID 为 42758213。",
-      "report": "As sessile organisms, plants rely on intricate molecular regulatory networks to navigate complex, fluctuating environments and diverse stress conditions. Nitrogen Limitation Adaptation (NLA), a RING-type ubiquitin ligase harboring an SPX domain, has emerged as...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42758048",
-      "date": "2026-09-18",
-      "title": "De Novo Design and Structural Optimization of Mn(salen)-Based Artificial Metalloenzymes for Asymmetric Sulfoxidation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42758048/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42758048。",
-      "report": "Artificial metalloenzymes (ArMs) exhibit exceptional selectivity, yet extending their reactivity beyond native cofactors remains a major challenge. While previous designs using native protein scaffolds to incorporate nonnative cofactors have been reported, de...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1211,6 +1198,38 @@
       "fact": "PubMed 记录显示该文献收录于 Advances in protein chemistry and structural biology，PMID 为 42763120。",
       "report": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nu...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42774032",
+      "date": "2026-06-22",
+      "title": "Reporter-guided photoreceptor differentiation in 2D culture using PGP1-hIPSCs: A comparable alternative to 3D organoid systems?",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42774032/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular vision，PMID 为 42774032。",
+      "report": "To develop and characterize a xeno-free, two-dimensional (2D) differentiation protocol for directing human induced pluripotent stem cells (hIPSCs) toward photoreceptor (PhR)-like cells, using a live-reporter system and transcriptomic analysis to evaluate linea...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
