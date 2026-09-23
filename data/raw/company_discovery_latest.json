@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-23T11:45:44.064609+00:00",
+  "capturedAt": "2026-09-23T17:09:06.461886+00:00",
   "summary": {
-    "mentionCount": 668,
-    "candidateCount": 599,
+    "mentionCount": 665,
+    "candidateCount": 597,
     "corroboratedCount": 2,
     "identifiedCount": 588,
-    "needsReviewCount": 9,
-    "knownCompanyMentionCount": 16,
+    "needsReviewCount": 7,
+    "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 8,
+      "ClinicalTrials": 5,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,39 +20,75 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0832b043e191f502",
-      "observedName": "Regeneron Pharmaceuticals",
-      "normalizedName": "regeneron pharmaceuticals",
+      "id": "mention-clinicaltrials-3852b59fac8ef833",
+      "observedName": "Incyte Corporation",
+      "normalizedName": "incyte",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07393282",
-      "sourceDate": "2026-09-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07393282",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05453500",
+      "sourceDate": "2026-05-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05453500",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
         "Recruiting",
-        "临床试验"
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study to Compare Linvoseltamab and Daratumumab Treatment in High-Risk Smoldering Multiple Myeloma (HR-SMM)"
+      "contextTitle": "Chemotherapy (DA-EPOCH+/-R) and Targeted Therapy (Tafasitamab) for the Treatment of Newly-Diagnosed Philadelphia Chromosome Negative B Acute Lymphoblastic Leukemia"
     },
     {
-      "id": "mention-clinicaltrials-81e0752aa4d0324b",
-      "observedName": "Merck Sharp & Dohme LLC",
-      "normalizedName": "merck sharp and dohme",
+      "id": "mention-clinicaltrials-89d7d34c144a3c85",
+      "observedName": "Genentech, Inc.",
+      "normalizedName": "genentech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02311582",
-      "sourceDate": "2025-05-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02311582",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04632992",
+      "sourceDate": "2025-01-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04632992",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Study Evaluating Targeted Therapies in Participants Who Have Advanced Solid Tumors With Genomic Alterations or Protein Expression Patterns Predictive of Response"
+    },
+    {
+      "id": "mention-clinicaltrials-994af98ca4b8554f",
+      "observedName": "Shandong New Time Pharmaceutical Co., LTD",
+      "normalizedName": "shandong new time pharmaceutical",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05178836",
+      "sourceDate": "2022-01-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -66,176 +102,63 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "MK-3475 in Combination With MRI-guided Laser Ablation in Recurrent Malignant Gliomas"
+      "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
     },
     {
-      "id": "mention-clinicaltrials-94012fd858c309a2",
-      "observedName": "Hamilton Health Sciences Corporation",
-      "normalizedName": "hamilton health sciences",
+      "id": "mention-clinicaltrials-a30b55754fcaca73",
+      "observedName": "Medicenna Therapeutics, Inc.",
+      "normalizedName": "medicenna therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06648239",
-      "sourceDate": "2026-05-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
+      "sourceRecordId": "NCT05086692",
+      "sourceDate": "2025-07-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
-        "Medical AI",
-        "Precision Medicine",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "精准医疗",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
-    },
-    {
-      "id": "mention-clinicaltrials-9f9a075b8d0efa1e",
-      "observedName": "SEngine Precision Medicine, Inc.",
-      "normalizedName": "sengine precision medicine",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04561453",
-      "sourceDate": "2025-07-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
         "Oncology",
-        "Organoids",
-        "Precision Medicine",
         "Precision Oncology",
-        "biomarker",
+        "Recruiting",
         "临床试验",
-        "疾病模型",
-        "类器官",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "乳腺癌",
+        "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
+      "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
     },
     {
-      "id": "mention-clinicaltrials-a69ffa583f50d835",
-      "observedName": "Precigen, Inc",
-      "normalizedName": "precigen",
+      "id": "mention-clinicaltrials-fccf70c854178a6b",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+      "sourceRecordId": "NCT05086692",
+      "sourceDate": "2025-07-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-c7890d06b01d23be",
-      "observedName": "Triple-Gene, LLC",
-      "normalizedName": "triple gene",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-d452c5d797ec573c",
-      "observedName": "Natera, Inc.",
-      "normalizedName": "natera",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT04561453",
-      "sourceDate": "2025-07-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
-      "knownCompanyIds": [
-        "natera"
-      ],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
         "Oncology",
-        "Organoids",
-        "Precision Medicine",
         "Precision Oncology",
-        "biomarker",
+        "Recruiting",
         "临床试验",
-        "疾病模型",
-        "类器官",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "乳腺癌",
+        "肿瘤"
       ],
       "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-f0144d463299b4ff",
-      "observedName": "Intrexon Corporation",
-      "normalizedName": "intrexon",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+      "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -44192,42 +44115,48 @@
       ]
     },
     {
-      "id": "candidate-hamilton-health-sciences",
-      "name": "Hamilton Health Sciences Corporation",
+      "id": "candidate-genentech",
+      "name": "Genentech, Inc.",
       "aliases": [
-        "Hamilton Health Sciences Corporation"
+        "Genentech, Inc."
       ],
-      "normalizedName": "hamilton health sciences",
+      "normalizedName": "genentech",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-05-11",
-      "lastSeenAt": "2026-05-11",
+      "firstSeenAt": "2025-01-08",
+      "lastSeenAt": "2025-01-08",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
           "Diagnostics",
-          "Healthcare AI",
-          "Medical AI",
+          "Longevity",
+          "Oncology",
           "Precision Medicine",
-          "临床决策支持",
+          "Precision Oncology",
+          "biomarker",
           "临床试验",
-          "医疗 AI",
           "精准医疗",
+          "肿瘤",
+          "衰老",
           "诊断"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
           "Diagnostics",
-          "Healthcare AI",
-          "Medical AI",
+          "Longevity",
+          "Oncology",
           "Precision Medicine",
-          "临床决策支持",
+          "Precision Oncology",
+          "biomarker",
           "临床试验",
-          "医疗 AI",
           "精准医疗",
+          "肿瘤",
+          "衰老",
           "诊断"
         ],
         "tags": []
@@ -44241,44 +44170,52 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-94012fd858c309a2"
+        "mention-clinicaltrials-89d7d34c144a3c85"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-05-11",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06648239",
-          "externalId": "NCT06648239",
-          "contextTitle": "CCTA to Optimize Diagnostic Yield of Invasive Angiography With AI"
+          "sourceDate": "2025-01-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04632992",
+          "externalId": "NCT04632992",
+          "contextTitle": "A Study Evaluating Targeted Therapies in Participants Who Have Advanced Solid Tumors With Genomic Alterations or Protein Expression Patterns Predictive of Response"
         }
       ]
     },
     {
-      "id": "candidate-regeneron-pharmaceuticals",
-      "name": "Regeneron Pharmaceuticals",
+      "id": "candidate-medicenna-therapeutics",
+      "name": "Medicenna Therapeutics, Inc.",
       "aliases": [
-        "Regeneron Pharmaceuticals"
+        "Medicenna Therapeutics, Inc."
       ],
-      "normalizedName": "regeneron pharmaceuticals",
+      "normalizedName": "medicenna therapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-15",
-      "lastSeenAt": "2026-09-15",
+      "firstSeenAt": "2025-07-09",
+      "lastSeenAt": "2025-07-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
           "Recruiting",
-          "临床试验"
+          "临床试验",
+          "乳腺癌",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
           "Recruiting",
-          "临床试验"
+          "临床试验",
+          "乳腺癌",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44291,42 +44228,48 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-0832b043e191f502"
+        "mention-clinicaltrials-a30b55754fcaca73"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-09-15",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07393282",
-          "externalId": "NCT07393282",
-          "contextTitle": "A Study to Compare Linvoseltamab and Daratumumab Treatment in High-Risk Smoldering Multiple Myeloma (HR-SMM)"
+          "sourceDate": "2025-07-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
+          "externalId": "NCT05086692",
+          "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
         }
       ]
     },
     {
-      "id": "candidate-triple-gene",
-      "name": "Triple-Gene, LLC",
+      "id": "candidate-shandong-new-time-pharmaceutical",
+      "name": "Shandong New Time Pharmaceutical Co., LTD",
       "aliases": [
-        "Triple-Gene, LLC"
+        "Shandong New Time Pharmaceutical Co., LTD"
       ],
-      "normalizedName": "triple gene",
+      "normalizedName": "shandong new time pharmaceutical",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
+      "firstSeenAt": "2022-01-05",
+      "lastSeenAt": "2022-01-05",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44339,17 +44282,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-c7890d06b01d23be"
+        "mention-clinicaltrials-994af98ca4b8554f"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+          "sourceDate": "2022-01-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
+          "externalId": "NCT05178836",
+          "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
         }
       ]
     },
@@ -47678,27 +47621,35 @@
       ]
     },
     {
-      "id": "candidate-intrexon",
-      "name": "Intrexon Corporation",
+      "id": "candidate-incyte",
+      "name": "Incyte Corporation",
       "aliases": [
-        "Intrexon Corporation"
+        "Incyte Corporation"
       ],
-      "normalizedName": "intrexon",
+      "normalizedName": "incyte",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
+      "firstSeenAt": "2026-05-11",
+      "lastSeenAt": "2026-05-11",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47711,17 +47662,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-f0144d463299b4ff"
+        "mention-clinicaltrials-3852b59fac8ef833"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+          "sourceDate": "2026-05-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05453500",
+          "externalId": "NCT05453500",
+          "contextTitle": "Chemotherapy (DA-EPOCH+/-R) and Targeted Therapy (Tafasitamab) for the Treatment of Newly-Diagnosed Philadelphia Chromosome Negative B Acute Lymphoblastic Leukemia"
         }
       ]
     },
@@ -47737,21 +47688,25 @@
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
       "firstSeenAt": "2025-05-29",
-      "lastSeenAt": "2025-05-29",
+      "lastSeenAt": "2025-07-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "乳腺癌",
           "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "临床试验",
+          "乳腺癌",
           "肿瘤"
         ],
         "tags": []
@@ -47765,143 +47720,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-81e0752aa4d0324b"
+        "mention-clinicaltrials-fccf70c854178a6b"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-05-29",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02311582",
-          "externalId": "NCT02311582",
-          "contextTitle": "MK-3475 in Combination With MRI-guided Laser Ablation in Recurrent Malignant Gliomas"
-        }
-      ]
-    },
-    {
-      "id": "candidate-precigen",
-      "name": "Precigen, Inc",
-      "aliases": [
-        "Precigen, Inc"
-      ],
-      "normalizedName": "precigen",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a69ffa583f50d835"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-        }
-      ]
-    },
-    {
-      "id": "candidate-sengine-precision-medicine",
-      "name": "SEngine Precision Medicine, Inc.",
-      "aliases": [
-        "SEngine Precision Medicine, Inc."
-      ],
-      "normalizedName": "sengine precision medicine",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-10",
-      "lastSeenAt": "2025-07-10",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Advanced Disease Models",
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Oncology",
-          "Organoids",
-          "Precision Medicine",
-          "Precision Oncology",
-          "biomarker",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "精准医疗",
-          "肿瘤",
-          "衰老",
-          "诊断"
-        ],
-        "themes": [
-          "Advanced Disease Models",
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Oncology",
-          "Organoids",
-          "Precision Medicine",
-          "Precision Oncology",
-          "biomarker",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "精准医疗",
-          "肿瘤",
-          "衰老",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-9f9a075b8d0efa1e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2025-07-10",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04561453",
-          "externalId": "NCT04561453",
-          "contextTitle": "Feasibility Study of Multi-Platform Profiling of Resected Biliary Tract Cancer"
+          "sourceDate": "2025-07-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
+          "externalId": "NCT05086692",
+          "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
         }
       ]
     }
