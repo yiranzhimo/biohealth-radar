@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-22T08:36:11+00:00",
-  "count": 591,
+  "capturedAt": "2026-09-23T08:38:16+00:00",
+  "count": 592,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -512,6 +512,23 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-adarx-pharmaceuticals",
+      "name": "ADARx Pharmaceuticals, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001802369",
+      "identifiers": {
+        "cik": [
+          "0001802369"
+        ],
+        "ticker": [
+          "ADRX"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
