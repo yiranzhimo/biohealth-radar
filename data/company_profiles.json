@@ -45963,7 +45963,6 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-illumina-official-bb85914b1108",
-          "evidence-pubmed-42776741",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
           "evidence-sec-0001110803-000119312526346923",
@@ -45988,17 +45987,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-official-bb85914b1108",
             "sourceUrl": "https://www.illumina.com/"
-          },
-          {
-            "id": "event-pubmed-42776741",
-            "date": "2026-09-01",
-            "title": "Cerebrospinal Fluid miRNA Profiling as a Potential Liquid Biopsy for Vestibular Schwannomas.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-pubmed-42776741",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776741/"
           },
           {
             "id": "event-sec-0001110803-000119312526354010",
@@ -46032,6 +46020,17 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000119312526346923",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
+          },
+          {
+            "id": "event-sec-0001110803-000119312526345802",
+            "date": "2026-08-12",
+            "title": "Illumina filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001110803-000119312526345802",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
           }
         ],
         "inferences": [],
@@ -46041,11 +46040,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 11,
+        "evidenceCount": 10,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 8,
-          "Paper": 1
+          "Filing": 8
         },
         "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
@@ -46065,17 +46063,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-official-bb85914b1108",
           "sourceUrl": "https://www.illumina.com/"
-        },
-        {
-          "id": "event-pubmed-42776741",
-          "date": "2026-09-01",
-          "title": "Cerebrospinal Fluid miRNA Profiling as a Potential Liquid Biopsy for Vestibular Schwannomas.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-pubmed-42776741",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776741/"
         },
         {
           "id": "event-sec-0001110803-000119312526354010",
@@ -46142,6 +46129,17 @@
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
           "sourceUrl": "https://www.illumina.com/systems.html"
+        },
+        {
+          "id": "event-sec-0001110803-000111080326000168",
+          "date": "2026-08-07",
+          "title": "Illumina filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001110803-000111080326000168",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm"
         }
       ]
     },

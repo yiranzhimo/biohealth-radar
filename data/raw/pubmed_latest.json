@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-24T11:53:56.004230+00:00",
+  "capturedAt": "2026-09-24T17:16:24.554883+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,150 +14,115 @@
     "end": "2026-09-24"
   },
   "pmids": [
-    "42778940",
-    "42778607",
-    "42778405",
-    "42778113",
-    "42777921",
-    "42777387",
+    "42780285",
+    "42780132",
+    "42780126",
+    "42780025",
+    "42779865",
+    "42779813",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
     "42753692",
     "42749352",
+    "42779796",
     "42773890",
     "42773138",
     "42771506",
     "42769965",
     "42764027",
-    "42763120",
+    "42780150",
+    "42779998",
+    "42779982",
     "42778830",
     "42777175",
-    "42777092",
-    "42776860",
-    "42776741",
-    "42776739"
+    "42777092"
   ],
   "records": [
     {
-      "pmid": "42778940",
-      "title": "Targeting the DNA-repair chromatin-modifier protein SMYD3 as a novel epigenetics-based therapy for gastric cancer.",
-      "abstract": "SMYD3 is a histone methyltransferase implicated in cancer progression and is overexpressed in several malignancies, including gastric cancer (GC). Building on previous evidence linking SMYD3 to DNA damage repair, we investigated the molecular mechanisms through which SMYD3 regulates double-strand break (DSB) repair in GC and evaluated its therapeutic potential. In silico and in vitro analyses were performed to investigate the interactions between SMYD3 and key homologous recombination (HR) proteins, and to evaluate the ATM-mediated phosphorylation of SMYD3. Functional assays assessed the impact of pharmacological SMYD3 inhibition on HR and non-homologous end joining (NHEJ) repair pathways. Mechanistically, SMYD3 interacted with key HR factors and facilitated chromatin remodeling at damaged sites. ATM phosphorylated SMYD3 at threonine 22, a modification required for HR complex assembly and validated in GC patient samples following neoadjuvant chemotherapy. Inhibition of SMYD3 abolished HR and partially impaired NHEJ. Combined inhibition of SMYD3 and PARP induced synthetic lethality in GC cells, spheroids, and patient-derived organoids, and overcame resistance to olaparib. These findings reveal the ATM-dependent molecular mechanism by which SMYD3 regulates DNA DSB repair, further supporting SMYD3 as a promising therapeutic target for precision oncology strategies in GC.",
-      "journal": "Journal of experimental & clinical cancer research : CR",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy.",
-        "Department of Molecular Medicine, Sapienza University of Rome, Rome, 00161, Italy.",
-        "Core Facility Biobank, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, Italy.",
-        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy. valentina.grossi@irccsdebellis.it.",
-        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy. cristiano.simone@irccsdebellis.it.",
-        "Department of Precision and Regenerative Medicine and Jonic Area (DiMePRe- J), University of Bari Aldo Moro, Bari, Italy. cristiano.simone@irccsdebellis.it."
-      ],
-      "doi": "10.1186/s13046-026-03823-2",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778940/"
-    },
-    {
-      "pmid": "42778607",
-      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis.",
-      "abstract": "Tuberous sclerosis complex (TSC) is a genetic neurodevelopmental disorder characterized by focal brain malformations called cortical tubers, which are associated with severe, intractable epilepsy1. Tubers are thought to result from somatic second-hit mutations that disrupt the TSC1 or TSC2 genes in neural progenitor cells, driving hyperactive mTORC1 signalling2. Glial abnormalities are commonly observed in tubers3; however, whether glia actively cause disease or merely result from chronic seizure activity has remained unclear. To address this question, we used human brain organoid models to track the developmental fate of mutated progenitor cells in the absence of seizures. Here we show, using single-cell transcriptomics and cyclic immunostaining across human brain organoids and resected tuber tissue from patients, that loss of TSC2 biases neural progenitors to differentiate into enlarged, pro-inflammatory reactive astrocytes in a cell autonomous manner. These mutant astrocytes show downregulated glutamate transporter expression, increased inflammatory cytokine secretion and elevated expression of neurodegenerative disease risk genes such as APOE and CLU. Our findings demonstrate that reactive astrocytes emerge as a primary consequence of TSC2 loss. These results implicate glial dysfunction as a driver of TSC pathogenesis and highlight reactive astrocytes as potential therapeutic targets for TSC-related neuropathology.",
-      "journal": "Nature",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Neurosurgery, Lucile Packard Children's Hospital and Stanford University Medical Center, Stanford, CA, USA.",
-        "Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA, USA.",
-        "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA.",
-        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA. bateup@berkeley.edu.",
-        "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA. bateup@berkeley.edu."
-      ],
-      "doi": "10.1038/s41586-026-11054-w",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778607/"
-    },
-    {
-      "pmid": "42778405",
-      "title": "The spatiotemporal ecosystem of gallbladder cancer: From inflamed areas to invasive margins - Integrating biomechanical injury, the bile microenvironment, precursor lineages, and spatial niches.",
-      "abstract": "Gallbladder cancer (GBC) is usually described as the end point of chronic cholelithiasis-associated inflammation, and yet this linear formulation does not explain why only a small fraction of people with gallstones develop cancer, why histologically similar precursor lesions follow different evolutionary routes, or why invasion preferentially advances through anatomically and immunologically distinct interfaces. We propose a spatiotemporal ecosystem model that links five domains: gallstones and reflux as precipitating conditions; bile as a chemically active habitat; resident or transient microorganisms as context-dependent modifiers; metaplastic, biliary intraepithelial and intracholecystic precursor lineages as alternative epithelial trajectories; and stromal-immune niches that select for invasive phenotypes. Evidence from epidemiology, pathology, genomics, organoid and animal models, single-cell sequencing, and spatial profiling is integrated while preserving distinctions between association, mechanism, and clinical prediction. The strongest causal chain currently links prolonged mechanical or reflux injury with cycles of epithelial loss and repair, metaplastic or dysplastic changes, and acquisition of driver alterations. Microbial findings are biologically plausible and increasingly supported by functional Salmonella studies, but most human biliary microbiome datasets remain small and vulnerable to low-biomass contamination and treatment-related confounding. Precursor studies substantiate the existence of both BilIN progression in affected areas and alternative polypoid or BilIN-independent routes, arguing against a single obligatory sequence. Recent single-cell and spatial studies have identified organized, region-specific interactions among malignant epithelial states, macrophages, exhausted CD8 T cells, neutrophils, endothelial cells, fibroblasts, hepatocytes, and nerves at invasive margins. Liver-facing, serosal, perineural, lymphovascular, and nodal interfaces should not be assumed to share one ecology. These data shift the central question from which mutation is present to where a clone resides, which neighboring cells sustain it, and when the niche becomes permissive. The model suggests testable priorities: longitudinal sampling of high-risk gallbladders, paired bile-mucosa profiling with rigorous controls, lineage-resolved multi-section spatial analysis, and boundary-aware biomarkers validated in prospective cohorts.",
-      "journal": "Bioscience trends",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biliary Surgery, Zhongshan Hospital, Fudan University, Shanghai, China.",
-        "Biliary Tract Disease Center of Zhongshan Hospital, Fudan University, Shanghai, China.",
-        "Biliary Tract Disease Institute, Fudan University, Shanghai, China.",
-        "Cancer Center, Zhongshan Hospital, Fudan University, Shanghai, China.",
-        "Shanghai Engineering Research Center of Biliary Tract Minimal Invasive Surgery and Materials, Shanghai, China."
-      ],
-      "doi": "10.5582/bst.2026.01237",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778405/"
-    },
-    {
-      "pmid": "42778113",
-      "title": "Revisiting Culture Conditions of Satellite Cells In Vitro for Skeletal Muscle Regeneration and Therapeutic Applications.",
-      "abstract": "Skeletal muscle fibers are largely post-mitotic in adulthood yet retain robust regenerative capacity through satellite cells (SCs), quiescent muscle stem cells located beneath the basal lamina that are activated after injury, proliferate as myoblasts, differentiate, fuse into myotubes, and mature via tightly regulated cues. Given the burden of muscle-wasting and neuromuscular diseases, including Duchenne muscular dystrophy (DMD) (driven by dystrophin defects and impaired SC function), amyotrophic lateral sclerosis (ALS) (with progressive atrophy and evidence of SC perturbation), and myasthenia gravis (autoimmune neuromuscular junction failure), physiologically relevant and scalable in vitro SC systems are essential for mechanistic studies and future cell-therapy development. This review revisits culture conditions and workflows used to isolate, enrich, and differentiate rodent and human skeletal muscle progenitors, integrating key regenerative signalling (hepatocyte growth factor (HGF)/mesenchymal-epithelial transition factor (c-Met), nitric oxide (NO), fibroblast growth factor (FGF)-mitogen-activated protein kinase (MAPK) modulated by Sprouty-1, insulin-like growth factor (IGF)-driven Akt/mechanistic target of rapamycin (mTOR) hypertrophy, inflammatory cytokines including interleukin-6 (IL-6) signal transducer and activator of transcription 3 (STAT3)-cyclin D1, and differentiation switches involving Notch/Wnt, glycogen synthase kinase 3 (GSK3), and mitogen-activated protein kinase (p38α MAPK)) with practical culture variables. Two principal isolation strategies are compared: explant outgrowth, which preserves tissue architecture and injury-mimicking activation but can be slow and yield-limited without matrix support, and enzymatic dissociation (e.g., collagenase, dispase, pronase, protease XIV), which accelerates release from the basal lamina and supports high-throughput needs but requires optimization to minimize trauma and fibroblast contamination. Across reported protocols, matrix choice (notably Matrigel or poly-L-lysine/Matrigel), differential pre-plating, and medium composition (serum levels, chick embryo extract (CEE), basic fibroblast growth factor (bFGF)) strongly influence SC quiescence, migration, survival, and myotube formation, with high purities achievable (e.g., ~97.6% Pax7+ after explant plus differential adherence; ~90% α7-integrin+/SCA-1-/CD31-/CD45-; up to ~98% after preplating; and ~95% in several optimized workflows) and differentiation occurring within ~1-7 days depending on conditions. The isolation of human SCs is constrained by the limited availability of tissue, inconsistent biopsy quality, and the absence of reliable markers to differentiate SCs from other mononuclear cells. Induced pluripotent stem cell (iPSC)-derived muscle organoids present a patient-specific alternative; however, they predominantly produce fetal-like PAX7+ progenitors instead of mature adult SCs. Overall, explant-based systems best retain physiological fidelity for niche and matrix studies, whereas enzymatic and hybrid approaches maximize efficiency and yield, underscoring that culture strategy should be selected based on the experimental objective rather than presumed universal superiority.",
-      "journal": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Tissue Engineering and Biomicrofluidics Laboratory, School of Biomedical Engineering, Indian Institute of Technology (Banaras Hindu University), Varanasi, Uttar Pradesh 221005, India.",
-        "Tissue Engineering and Biomicrofluidics Laboratory, School of Biomedical Engineering, Indian Institute of Technology (Banaras Hindu University), Varanasi, Uttar Pradesh 221005, India. Electronic address: skmahto.bme@iitbhu.ac.in."
-      ],
-      "doi": "10.1016/j.aanat.2026.153381",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778113/"
-    },
-    {
-      "pmid": "42777921",
-      "title": "Research Progress in Skin Anti-Aging Drugs Based on Core Pathological Drivers.",
-      "abstract": "Skin aging is driven by multiple interconnected pathological processes. However, existing evidence remains fragmented across studies of individual mechanisms and compounds, hindering the discovery of novel targets and the repurposing of established drug targets.This review systematically summarizes the fundamental mechanisms and categorizes current antiaging pharmacological strategies corresponding to these mechanisms, aiming to provide a theoretical framework for future drug development and clinical translation. PubMed/MEDLINE and ClinicalTrials.gov were searched from inception through June 2026 using core and compound-specific strategies. Eligible reports evaluated defined interventions for intrinsic skin aging or photoaging and reported efficacy, mechanistic, or safety outcomes. Of 7,973 records identified, 675 duplicates and 6,933 records were removed during AI-assisted prescreening, leaving 365 for human screening. The final synthesis included 91 reports covering 47 intervention classes. Data were extracted into nine prespecified fields, classified using a five-level evidence hierarchy, and synthesized narratively because heterogeneity precluded meta-analysis. Current evidence indicates that oxidative stress functions not only as an initiating trigger, but a parallel amplifier, and a downstream consequence within the bidirectional feedback loops of mitochondrial dysfunction and other aging mechanisms. It connects multiple aging-related pathways as a central hub. Interventions targeting oxidative stress have demonstrated promising outcomes in both in vitro and in vivo studies. Accordingly, we propose an evidence-stratified, mechanism-to-translation framework integrating skin organoid models, nanoparticle-based delivery systems, and artificial intelligence-driven target screening to guide multimechanism intervention strategies, facilitate targeted drug development, and accelerate precision clinical translation.",
-      "journal": "Ageing research reviews",
+      "pmid": "42780285",
+      "title": "Sex Steroid Hormone Signaling Tunes Metabolic and Neuronal Programs in Human Cortical Development.",
+      "abstract": "Autism spectrum disorder (ASD) exhibits a profound male biased sex ratio. While numerous genes have been implicated in ASD, the functional basis of this sex difference is unclear. One enticing hypothesis is genome-wide transcriptional regulation through estrogens and androgens. While hormone-mediated transcription is well-studied in reproductive tissues, its role in cortical development is poorly defined. Thus, we profiled androgen (AR) and estrogen (ESR1/ESR2) receptor expression in primary human cortex and developmental stage-matched organoid models by single-cell RNA-seq. AR was primarily expressed in radial glia and intermediate progenitors while ESR1/ESR2 was more broadly distributed across multiple cell types of the developing cortex, although with the highest expression in radial glia. To study their genetic effects, we exposed iNeurons and cortical organoids to physiological levels of dihydro-testosterone (DHT) and estradiol (E2). DHT consistently up-regulated oxidative metabolism programs enriched in progenitor cells and down-regulated neuronal maturation pathways, while E2 exhibited a much more attenuated effect. The presence of DHT reduced NTRK2 (TrkB) expression, correlating with expression in developing cortex where NTRK2 had significantly higher expression in progenitor cells of the female cortex, which is also reflected in the increased expression of AR in radial glia. Together, these data indicate that in developing human cortical lineages, sex hormones act as selective, cell-state-dependent modulators that tune metabolic and maturation programs rather than broadly reprogramming the genome. Thus, the effects of variation in transcriptional regulation through estrogens and androgens are likely to be minor, but not absent, in ASD.",
+      "journal": "Research square",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Preprint"
       ],
-      "affiliations": [
-        "Keloid Research Center, Department of Dermatology, Yanbian University Hospital, Yanji 133000,China; Department of Burns and Plastic Surgery, The Fourth Medical Center of Chinese PLA General Hospital,Beijing 100048,China.",
-        "Department of Burns and Plastic Surgery, The Fourth Medical Center of Chinese PLA General Hospital,Beijing 100048,China; Inner Mongolia Medical University,Hohhot 010110,China.",
-        "Keloid Research Center, Department of Dermatology, Yanbian University Hospital, Yanji 133000,China.",
-        "Department of Dermatology, The Fourth Medical Center of Chinese PLA General Hospital, Beijing 100048,China.",
-        "Department of Dermatology, The Third Medical Center of Chinese PLA General Hospital, Beijing 100039,China.",
-        "Beth Israel Deaconess Medical Center, Boston, MA 02215, USA.",
-        "Department of Burns and Plastic Surgery, The Fourth Medical Center of Chinese PLA General Hospital,Beijing 100048,China.",
-        "Department of Burns and Plastic Surgery, The Fourth Medical Center of Chinese PLA General Hospital,Beijing 100048,China. Electronic address: chenyoubai@301hospital.com.cn."
-      ],
-      "doi": "10.1016/j.arr.2026.103375",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777921/"
+      "affiliations": [],
+      "doi": "10.21203/rs.3.rs-10908944/v1",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780285/"
     },
     {
-      "pmid": "42777387",
-      "title": "Solasonine inhibits growth of gastric cancer by targeting FTL-mediated ferroptosis.",
-      "abstract": "Solasonine (SS), a principal bioactive constituent of Solanum nigrum L., has attracted considerable attention due to its pronounced cytotoxic effects on cancer cells. Nevertheless, the precise mechanism of SS against gastric cancer remains inadequately explored. In this study, the therapeutic effects and potential targets of SS against gastric cancer were investigated. The results showed that SS markedly inhibited cell proliferation and promoted cell death in gastric cancer cells. Pharmacological inhibition studies revealed that the antitumor effects of SS predominantly rely on ferroptosis rather than apoptosis, necroptosis, or autophagy. This was corroborated by dysregulation of ferroptosis-related molecular markers, increased intracellular lipid peroxidation (LPO), malondialdehyde (MDA), and Fe2+ levels, and depletion of glutathione (GSH). Proteomic profiling identified ferritin light chain (FTL) as a putative target of SS, which was further supported by molecular docking, molecular dynamics simulation, surface plasmon resonance (SPR), cellular thermal shift assay (CETSA), and western blot. Bioinformatics analyses demonstrated that FTL expression is significantly elevated at both the mRNA and protein levels in gastric cancer tissues. Higher FTL expression correlates with poorer overall survival. Overexpression of FTL in gastric cancer cells promoted the proliferation and mitigated SS-induced ferroptosis. In mice, SS treatment significantly inhibited tumor growth, suppressed FTL protein expression, and induced ferroptosis in gastric cancer xenografts. And the above effects can be rescued by application of a ferroptosis inhibitor. The antitumor activity and ferroptosis induction by SS were further validated using human organoid models. These findings demonstrate that SS inhibits gastric cancer growth by direct binding to FTL and promoting FTL-mediated ferroptosis. This mechanistic insight underscores the clinical applicability of SS for gastric cancer treatment.",
-      "journal": "Bioorganic chemistry",
+      "pmid": "42780132",
+      "title": "Integrative pipeline to profile and target endocrine therapy-insensitive cell populations in ER+ breast cancer.",
+      "abstract": "Up to 40% of patients with estrogen receptor positive breast cancer will experience relapse, either while on endocrine therapy (ET) or after ET is completed. A major contributor to ET failure is the presence of ET-insensitive cell populations within tumors. Here, we developed an analytical pipeline to systematically identify and target these populations by integrating single-cell RNA sequencing of ER+ tumors from the FELINE clinical trial with functional validation in a panel of patient-derived xenograft organoid models. We found that ET-insensitive cells are detected in all tumors regardless of clinical response and exhibit higher transcriptional heterogeneity than ET-sensitive populations. Using our pipeline, we identified and validated new therapeutic options that target patient-specific and shared ET-insensitive populations. Our integrated workflow provides a robust platform for identifying and targeting ET-insensitive cells and offers a translational framework to develop precision medicine approaches to improve outcome in breast cancer patients.",
+      "journal": "bioRxiv : the preprint server for biology",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Preprint"
       ],
-      "affiliations": [
-        "Department of Gastroenterology, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan 250012, China.",
-        "The Affiliated Hospital of Qingdao University, Qingdao Medical College, Qingdao University, Qingdao 266071, China.",
-        "Department of Clinical Laboratory, Qilu Hospital (Qingdao), Cheeloo College of Medicine, Shandong University, Qingdao 266035, China.",
-        "Key Laboratory for Experimental Teratology of Chinese Ministry of Education, Shandong Province Key Laboratory of Infection and Immunity, Department of Pathogen Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China; School of Traditional Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing 210023, China.",
-        "Department of Traditional Medicine, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: wan9b0@163.com.",
-        "Key Laboratory for Experimental Teratology of Chinese Ministry of Education, Shandong Province Key Laboratory of Infection and Immunity, Department of Pathogen Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan 250012, China. Electronic address: yangqing07@sdu.edu.cn."
+      "affiliations": [],
+      "doi": "10.64898/2026.09.10.750719",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780132/"
+    },
+    {
+      "pmid": "42780126",
+      "title": "Brain organoid computing for robotic decision-making.",
+      "abstract": "Biomimicry has inspired the evolution of robotics toward greater autonomy, adaptability, and symbiosis with humans and dynamic environments. However, current robotic systems still face major challenges in recapitulating the high-efficiency decision-making capabilities of the human brain under complex and dynamic conditions. Here, we present Brainobot, a biohybrid robotic system that establishes a brain organoid controller as a high-level robotic decision-making layer for closed-loop embodiment. By leveraging brain organoid reservoir computing, Brainobot interacts with dynamic environments by receiving and processing sensory inputs and generating motor actions. As a proof-of-concept demonstration, Brainobot is implemented in a humanoid robotic system to perform real-world tasks, including object grasping and laser chasing. Interestingly, Brainobot exhibits unique features, including cross-task adaptivity, high computing efficiency, and low energy consumption. Thus, our approach may provide insights for advancing robotic embodiment and understanding biological decision-making.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
       ],
-      "doi": "10.1016/j.bioorg.2026.110571",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777387/"
+      "affiliations": [],
+      "doi": "10.64898/2026.09.09.750426",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780126/"
+    },
+    {
+      "pmid": "42780025",
+      "title": "Extracellular matrix proteoglycans lumican and biglycan promote innate immune signals and viral clearance in HSV-1 infections of mouse corneas.",
+      "abstract": "The extracellular matrix (ECM) regulates innate immunity, but its role in HSV-1 keratitis is unclear. Here, we identify the ECM proteoglycans lumican (Lum) and biglycan (Bgn) as key regulators of early antiviral defense in the cornea. Lum-/- and BgnKO mice showed impaired viral clearance, increased corneal opacity, and worse keratitis than wild-type controls. These defects were associated with reduced early recruitment of neutrophils, monocytes, and plasmacytoid dendritic cells, and blunted induction of pro-inflammatory cytokines, chemokines, and type I interferons. In infected wild-type corneas, Lum and Bgn were upregulated, including in the basal epithelium, where Ccl2 emerged as an early epithelial response that was diminished in knockout mice. In human corneal epithelial cells, recombinant LUM or BGN enhanced HSV-1-induced CCL2 secretion, and human corneal organoids recapitulated epithelial viral tropism and CCL2 induction. Together, these findings identify Lum and Bgn as regulators of epithelial-innate immune crosstalk that promote early antiviral immunity during corneal HSV-1 infection.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "affiliations": [],
+      "doi": "10.64898/2026.09.15.751741",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780025/"
+    },
+    {
+      "pmid": "42779865",
+      "title": "Engineering human myelin microphysiological systems for testing patient treatment response in multiple sclerosis.",
+      "abstract": "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system characterized by neuroinflammation, demyelination, and neurodegeneration, associated with a complex interplay between the innate and adaptive immune systems. Currently, no cure is available for MS, and personalized disease-modifying treatment remains largely limited, partially due to the lack of preclinical human models that can faithfully recapitulate disease pathology and evaluate treatment responses at the individual-patient level. Here, we report a human myelin microphysiological system (myelin MPS) platform that recaptures disease phenotype and treatment response for testing patient treatment response. By culturing neural organoids on 3D-printed devices containing directional microfibers, followed by coculture with oligodendrocyte progenitor cells, 96 myelin MPS models can be generated within a conventional well plate. Using this myelin MPS platform, autologous T cells and monocytes from MS patients induced substantially greater demyelination than those from healthy donors, accompanied by expansion of proinflammatory T-cell subsets and increased myelin uptake by monocytes/macrophages after coculture with these healthy myelinating neural tissues. Integration of imaging and flow-cytometric features distinguished healthy-donor, untreated-MS, responder, and nonresponder profiles following treatment with prednisone, glatiramer acetate, interferon β-1a, or dimethyl fumarate. Thus, the myelin MPS platform provides a scalable, human pathophysiology-relevant platform for functional phenotyping and individualized treatment-response evaluation in MS.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "affiliations": [],
+      "doi": "10.64898/2026.09.12.750449",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779865/"
+    },
+    {
+      "pmid": "42779813",
+      "title": "A lifespan single-cell atlas of the human developing hippocampus benchmarks familial Alzheimer's disease brain organoids.",
+      "abstract": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain regions in AD [2,3]. Human induced pluripotent stem cell (iPSC)-derived brain organoids recapitulate key features of early human brain development and provide a tractable model for studying how fAD mutations perturb neurodevelopmental processes [4]. However, their interpretation is complicated by heterogeneous regional identity, variable maturation state, and cell-type composition across protocols [5,6]. Existing single-cell studies of human hippocampus cover prenatal [7] and postnatal [8-10] stages but do not provide a continuous developmental reference. By elevating the atlas approach in utilizing single-cell RNA-sequencing data, we obtain standardized information on the organoid cell class and type composition and maturation states. Here, we constructed the Human Developing Hippocampus Atlas (HuDeHA), an integrated single-cell reference comprising 658,059 cells spanning post-conceptional week 3 to 15.3 years, and used it to benchmark iPSC-derived brain organoids carrying PSEN1 E280A which is associated with fAD in a large Colombian population. Reference-based mapping revealed altered cellular composition in PSEN1 E280A organoids, including reduced radial glia and increased neural crest-derived neurons. These changes were accompanied by cross-lineage transcriptional alterations, including broad upregulation of the ventral patterning factor MEIS2 and reduced expression of the αβ-binding protein transthyretin (TTR) in choroid-plexus and ependymal-associated populations. Reconstructed neuronal-lineage trajectories showed a shift toward mature states in PSEN1 E280A organoids. Together, these findings establish HuDeHA as a resource for developmental benchmarking of hippocampus-relevant organoid systems and describe cell-lineage-specific developmental changes in PSEN1 E280A organoids that may inform interpretation of early cellular alterations in fAD.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "affiliations": [],
+      "doi": "10.64898/2026.09.18.752796",
+      "date": "2026-09-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779813/"
     },
     {
       "pmid": "42775042",
@@ -273,6 +238,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749352/"
     },
     {
+      "pmid": "42779796",
+      "title": "Latent generative search unlocks de novo design of untapped biomolecular interactions at scale.",
+      "abstract": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging. Such hydrated surfaces and flexible molecules, including carbohydrates, provide few of the hydrophobic contacts favoured by current methods and have largely resisted de novo binders. To address this challenge, here we introduce latent generative search for binder design, a novel framework that uses reward-guided search at inference time to steer the Proteina-Complexa generative model. The model codesigns sequence and structure - generating them together in a continuous latent space - and thereby removes the inverse-folding step on which current methods rely. In a screen of more than one million designs by multiplexed phage display, latent generative search produced more validated binders than every other method tested, its codesigned sequences surpassing post hoc redesign. It delivered high-affinity binders across therapeutic receptors, a viral attachment protein and intracellular signalling targets. Our approach also accessed previously untapped biology, generating the first de novo proteins that bind a free carbohydrate, including one that discriminates between blood-group antigens - a polar, flexible target class beyond the reach of current design methods.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "affiliations": [],
+      "doi": "10.64898/2026.09.12.751118",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779796/"
+    },
+    {
       "pmid": "42773890",
       "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
       "abstract": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we developed a recombinant decoy receptor protein designed to competitively inhibit IL-21 binding to its receptor. Using the extracellular domain of IL-21R as a scaffold, five key binding-site residues (33, 38, 70, 94, and 130) were mutated with OSPREY software. Computational analyses with GROMACS selected the Q33S, E38D, M70T, L94N, and M130S mutant for its superior structural stability and high binding affinity to IL-21, with binding energy calculations confirming that the mutant successfully maintains the high baseline binding affinity of the wild-type complex. The decoy receptor protein was subsequently expressed recombinantly in E. coli Rosetta-gami. More importantly, the analysis of secondary structure revealed that the protein retained its overall secondary structure after mutagenesis, with slight alterations in alpha-helical content. Finally, the calculation of the KD value using the SPR technique demonstrated that the mutant IL-21R exhibited a 1.4-fold increase in binding affinity compared to the wild-type receptor (KD=50 pM vs. 70 pM for the wild-type), supporting its potential as a competitive IL-21R decoy receptor. Therefore, this decoy receptor could be considered an effective therapeutic agent for blocking IL21 and controlling or preventing the progression of autoimmune and inflammatory diseases.",
@@ -366,21 +345,66 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/"
     },
     {
-      "pmid": "42763120",
-      "title": "Computational methods for alternative proteins.",
-      "abstract": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nutritional challenges associated with conventional livestock production. However, designing and optimizing alternative proteins requires deep understanding of molecular structures, biochemical properties, and production processes. Computational biology has emerged as a powerful approach to address these challenges by enabling predictive modeling, data-driven protein engineering, and large-scale bioinformatic analyses. This chapter provides a comprehensive overview of computational methods applied in alternative protein research and development. Key approaches discussed include sequence-based bioinformatics, structural modeling, molecular simulations, protein design algorithms, machine learning techniques, metabolic modeling, and process simulation. The chapter further explores how these computational frameworks support discovery of novel protein sources, optimization of functional properties, and scaling of industrial production processes. Challenges and future research directions are also discussed, particularly the integration of artificial intelligence, multi-omics data, and digital twin technologies for food manufacturing. Computational technologies are expected to play a pivotal role in shaping next-generation protein foods by accelerating innovation, reducing development costs, and enabling sustainable protein production systems.",
-      "journal": "Advances in protein chemistry and structural biology",
+      "pmid": "42780150",
+      "title": "Case Report: Concordance of cerebrospinal fluid-derived circulating tumor DNA with tumor tissue in spinal glioblastoma associated with Lynch syndrome.",
+      "abstract": "Spinal glioblastoma (GBM) is an exceptionally rare entity and poses significant diagnostic challenges due to a substantial risk of neurological morbidity with surgical biopsy. Tissue-based analyses are frequently limited by sampling constraints and tumor heterogeneity. Conventional diagnostic modalities, including MRI and cerebrospinal fluid (CSF) cytology, often lack specificity and sensitivity. Commercially available CSF liquid biopsy platforms offer a minimally invasive approach for detecting tumor-derived cell-free DNA (cfDNA) to enable genomic profiling. We report a case of a 37-year-old male with spinal GBM who underwent prospective CSF cfDNA analysis using Belay Summit™ and GTC Liquid Trace™, yielding a provisional diagnosis of GBM and raising suspicion for Lynch syndrome. Subsequent tissue-based molecular profiling with Tempus™ confirmed the diagnosis of GBM, while germline testing via Ambry Genetics™ established Lynch syndrome. Based on the findings of mismatch repair deficiency and Lynch syndrome, the decision to proceed with immunotherapy was made. CSF cfDNA is a promising ancillary tool for guiding therapy in difficult-to-biopsy cases.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Case Reports",
+        "Journal Article"
       ],
       "affiliations": [
-        "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
-        "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India. Electronic address: ssajithalulu@vit.ac.in."
+        "Department of Neurology, Division of Neuro-oncology, University of California, Irvine, Irvine, CA, United States.",
+        "Chao Family Comprehensive Cancer Center, University of California, Irvine, Irvine, CA, United States.",
+        "The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, United States.",
+        "Department of Neurology, School of Medicine, Johns Hopkins University, Baltimore, MD, United States.",
+        "Department of Neurology, Division of Neuro-Genetics, Chao Family Comprehensive Cancer Center, University of California, Irvine, Irvine, CA, United States.",
+        "Department of Pathology, Division of Neuropathology, University of California, Irvine, Irvine, CA, United States.",
+        "Department of Radiology, Division of Neuroradiology, University of California, Irvine, Irvine, CA, United States.",
+        "Department of Neurosurgery, University of California, Irvine, Irvine, CA, United States.",
+        "Department of Radiation Oncology, University of California, Irvine, Irvine, CA, United States.",
+        "Department of Pediatrics, Division of Genetic and Genomic Medicine, University of California, Irvine, Irvine, CA, United States."
       ],
-      "doi": "10.1016/bs.apcsb.2026.08.013",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763120/"
+      "doi": "10.3389/fonc.2026.1914228",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780150/"
+    },
+    {
+      "pmid": "42779998",
+      "title": "A case of invasive lobular carcinoma with signet-ring-cell differentiation treated with multidisciplinary therapy: a rare case report.",
+      "abstract": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast cancer screening without any subjective symptoms. A mass detected in the upper-outer region of her right breast. Core needle biopsy led to the diagnosis of ILC with SRC of the breast. Positron emission tomography-computed tomography, urine cytology, and upper and lower gastrointestinal endoscopy revealed no abnormal findings, and the disease was diagnosed as cT1cN0M0, Stage I. Immunohistochemical examination showed estrogen receptor (ER)-positive (10%, weak), progesterone receptor (PgR)-negative (0%), human-epidermal growth factor receptor 2 (HER2) score 0, and Ki-67 index of 9.8%, suggesting a luminal B-like subtype. The patient received 4 cycles of epirubicine and cyclophosphamide followed by 4 cycles of docetaxel (DTX) as neoadjuvant chemotherapy (NAC). Because prolonged neutropenia occurred during DTX treatment, temporary treatment interruptions were required; however, all cycles were completed with a relative dose intensity of 80%. As stable disease after completion of NAC, right breast-conserving surgery with sentinel lymph node biopsy was performed. Pathological assessment after neoadjuvant chemotherapy revealed ypT1c (1.8 cm) sN0 (0/1), therapeuthic effect Grade 2b, ER- (0%), PgR- (0%), HER2 0, Ki-67 20% of residual tumor remaining in the breast. Therefore, BRACAnalysis® testing was performed as a companion diagnostic test and was negative. The patient subsequently have received postoperative radiotherapy, and 8 cycles of capecitabine therapy. In our cohort of ILC patients treated at our institution, we also observed cases with gastrointestinal metastases; therefore, attention should be paid to symptoms and findings suggestive of metastasis to these sites as well.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Breast Surgery, Mitsubishi Kyoto Hospital, Kyoto, Japan.",
+        "Department of Medical Oncology, Mitsubishi Kyoto Hospital, Kyoto, Japan.",
+        "Department of Diagnostic Pathology, Mitsubishi Kyoto Hospital, Kyoto, Japan."
+      ],
+      "doi": "10.3389/fonc.2026.1926146",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779998/"
+    },
+    {
+      "pmid": "42779982",
+      "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors.",
+      "abstract": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To evaluate the potential clinical utility of CSF LBx, we analyzed real-world LB testing data from 1391 CSF samples. CSF samples were submitted for clinical testing with various referring diagnoses, including primary brain tumors and metastatic tumors. NGS testing of cell-free DNA and RNA (cfDNA and cfRNA) as well as cellular RNA was performed using a targeted 302-gene DNA panel and a targeted RNA panel encompassing more than 1600 genes. Of all samples, 231 (16.6%) were completely negative for any abnormality, 69 (5.0%) showed findings consistent with clonal hematopoiesis of indeterminate potential (CHIP), 2 (0.1%) demonstrated B-cell clonality alone, and 14 (1.0%) showed chromosomal abnormalities without identified mutations. The remaining 1075 cases (78.4%) were positive for mutations with or without additional abnormalities, consistent with primary or metastatic malignancy. cfRNA levels were extremely low in the majority of cases, with expression levels near zero across a significant number of genes. Nevertheless, cellular and cfRNA were adequate for the detection of fusion genes in 68 cases (4.9%) and CAR-T constructs in 5 cases (0.4%) of lymphoid neoplasms previously treated with CAR-T therapy, including cases in which CAR-T cells were undetectable in peripheral blood. These findings suggest that LBx using combined DNA and RNA NGS testing of CSF is a reliable approach that yields potentially practice-changing clinical information.",
+      "journal": "The journal of liquid biopsy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Genomic Testing Cooperative, United States.",
+        "Washington University, St. Louis, MO, United States.",
+        "Indiana University, Indianapolis, IN, United States.",
+        "John Theurer Cancer Center, Hackensack, NJ, United States.",
+        "Saint John's Cancer Institute, Torrance, CA, United States."
+      ],
+      "doi": "10.1016/j.jlb.2026.100500",
+      "date": "2026-09-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779982/"
     },
     {
       "pmid": "42778830",
@@ -437,157 +461,9 @@
       "doi": "10.1177/03936155261476073",
       "date": "2026-09-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777092/"
-    },
-    {
-      "pmid": "42776860",
-      "title": "Isolation and Purification-Free Digital Single-Small Extracellular Vesicle Biosensing with Scalable Plasmonic Arrays.",
-      "abstract": "Recent advances in plasmonic biosensing and imaging have enabled label-free analysis of single biological nanoparticles. We previously developed PlAsmonic NanOapeRture lAbel-free iMAging (PANORAMA) for isolation and purification-free, digital counting and precise localization of antibody captured, tetraspanin-positive small extracellular vesicles (sEVs), with complementary fluorescence interrogation of surface and intravesicular biomarkers for quantitative molecular profiling. The fact that no isolation and purification is needed represents a crucial advantage because various specificity, efficiency, and time-consumption issues hinder quantitatively reproducible extraction of sEVs from biological fluids. PANORAMA achieves ultrahigh refractive-index sensitivity through arrayed gold nanodisks on invisible substrates (AGNIS) fabricated by nanosphere lithography (NSL). However, despite its simplicity and low cost, NSL is frequently constrained by poor large-area uniformity, which hinders scalable fabrication. Here, we introduce nanosphere settling lithography (NSSL) as an alternative to the gold-standard Langmuir-Blodgett trough (LBT) process, enabling highly uniform, large-area monolayers with reduced process stringency. AGNIS fabricated via NSSL exhibits high refractive-index sensitivity with low spatial variability across 60 mm × 24 mm substrates, sufficient for 60-well in standard 384-well plate format. The platform demonstrates exquisite sensitivity through PANORAMA digital counting and sizing of 25, 50, and 100 nm polystyrene beads, as well as single-vesicle characterization of antibody captured, tetraspanin-positive sEVs derived from H460 lung cancer cells. Combined PANORAMA and fluorescence imaging enables quantitative analysis of microRNA-21 (miR-21)-associated fluorescence among antibody captured sEV-like particles from liver cancer patient plasma, allowing label-free digital counting after selective affinity capture and simultaneous molecular profiling of the captured vesicle subset. Collectively, NSSL enables uniform, high-performance plasmonic biosensing over large areas, providing a scalable and economical pathway for high-throughput, digital analysis of antibody captured single sEVs and translational liquid biopsy applications.",
-      "journal": "ACS sensors",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Electrical and Computer Engineering, University of Houston, 4800 MLK Blvd., Houston, Texas77204, United States.",
-        "Department of Biomedical Engineering, University of Houston, 4800 MLK Blvd., Houston, Texas77204, United States.",
-        "Department of Chemistry, University of Houston, 4800 MLK Blvd., Houston, Texas77204, United States.",
-        "Program of Materials Science and Engineering, University of Houston, 4800 MLK Blvd., Houston, Texas77204, United States."
-      ],
-      "doi": "10.1021/acssensors.6c01933",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776860/"
-    },
-    {
-      "pmid": "42776741",
-      "title": "Cerebrospinal Fluid miRNA Profiling as a Potential Liquid Biopsy for Vestibular Schwannomas.",
-      "abstract": "Background/Objectives: This study aimed to identify a characteristic miRNA expression profile in the CSF of patients diagnosed with vestibular schwannoma and evaluate its potential for tumor assessment. Methods: In this prospective study, 17 CSF and corresponding tumor samples (seven small tumors-SVS and 10 large tumors-LVS) were collected from patients operated on for VS in a Tertiary Academic Center. The miRNA expression was analyzed using high-throughput RNA sequencing (NovaSeq 6000 Illumina). Data were normalized, and a comparative analysis of miRNA expression rankings was performed between VS patients and a public healthy donor dataset. Functional implications were explored using KEGG pathway enrichment analysis. Results: A total of 1633 miRNAs were identified in all CSF samples derived from VS patients. Comparison with healthy donors revealed a moderate ranking correlation (ρ = 0.39), with significant shifts for specific molecules like hsa-miR-766-3p and hsa-miR-182-5p. Only six miRNAs were found to correlate between CSF and tumor tissue, while 16 exhibited a negative correlation. No statistical correlation was found between tumor size and the CSF miRNA profile. KEGG analysis highlighted enriched pathways, including neurotrophin signaling and focal adhesion. Conclusions: The results of our study support the feasibility of miRNA-based CSF liquid biopsy for VS assessment. However, the results of miRNA expression profiling conducted in tumor tissue cannot be directly transferred into CSF sample analyses. Further studies are warranted to explain this phenomenon and to search for reliable miRNA markers of VS progression in the CSF liquid biopsy specimens.",
-      "journal": "Non-coding RNA",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otorhinolaryngology, Head and Neck Surgery, Warsaw Medical University, Banacha 1a st., 02-092 Warsaw, Poland.",
-        "Laboratory of Sequencing, Nencki Institute of Experimental Biology, 02-093 Warsaw, Poland.",
-        "Doctoral School of Molecular Medicine, Medical University of Lodz, 90-647 Lodz, Poland."
-      ],
-      "doi": "10.3390/ncrna12050035",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776741/"
-    },
-    {
-      "pmid": "42776739",
-      "title": "Circulating Cell-Free miR-25-3p Is Upregulated in Brazilian Patients with Prostate Cancer and Contributes to Tumor Aggressiveness.",
-      "abstract": "Background/Objectives: Prostate cancer (PCa) has a high incidence worldwide, yet reliable prognostic biomarkers to distinguish indolent from aggressive forms are lacking. MicroRNAs (miRNAs), a class of small non-coding RNAs, are stable molecules that play an important role in cancer development and can be detected in circulation by non-invasive methods. This study aimed to examine the influence of the cell-free (cf) miRNAs levels on PCa risk and aggressiveness using plasma samples and cell models. Methods: Four overexpressed miRNAs in prostate cancer tissue were selected from The Cancer Genome Atlas database: miR-25-3p, miR-92a-1-5p, miR-92a-2-5p, and miR-148a-3p. Cf-miRNA levels were validated via quantitative reverse transcription polymerase chain reaction (RT-qPCR) in plasma samples from 80 PCa patients and 40 controls in a Brazilian cohort. Clinicopathological associations were analyzed to determine prognostic value. Subsequently, functional analyses were performed using transient transfection of miR-25-3p in the LNCaP cell line, assessing proliferation, migration, invasion, and target gene regulation. Results: Among the miRNAs analyzed, only miR-25-3p was upregulated in the plasma of PCa patients compared to controls (p = 0.013). Patients with International Society of Urological Pathology (ISUP) grade ≥2 presented higher expression levels of miR-25-3p (p = 0.020) compared to patients with ISUP grade 1. Overexpression of miR-25-3p significantly increased cell proliferation, colony formation, migration, and invasion capacity and modulated the expression of BCL2L11, CDH1, CDKN1C, EHZ2, and TP53 genes. Conclusions: miR-25-3p had an oncogenic role in PCa, showing a potential marker to assess PCa development and progression using liquid biopsy.",
-      "journal": "Non-coding RNA",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General Biology, State University of Londrina, Londrina 86057-970, PR, Brazil.",
-        "Rosalind and Morris Goodman Cancer Institute, McGill University, Montreal, QC H3A 1A3, Canada.",
-        "Molecular Oncology Research Center, Barretos Cancer Hospital, Barretos 14784-400, SP, Brazil.",
-        "Londrina Cancer Hospital, Londrina 86015-520, PR, Brazil.",
-        "Department of Biochemistry, McGill University, Montreal, QC H3G 1Y6, Canada.",
-        "Department of Medicine, McGill University, Montreal, QC H4A 3J1, Canada.",
-        "Department of Oncology, McGill University, Montreal, QC H4A 3T2, Canada."
-      ],
-      "doi": "10.3390/ncrna12050033",
-      "date": "2026-08-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776739/"
     }
   ],
   "signals": [
-    {
-      "id": "pubmed-42778607",
-      "date": "2026-09-23",
-      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778607/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42778607。",
-      "report": "Tuberous sclerosis complex (TSC) is a genetic neurodevelopmental disorder characterized by focal brain malformations called cortical tubers, which are associated with severe, intractable epilepsy1. Tubers are thought to result from somatic second-hit mutations...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42778113",
-      "date": "2026-09-23",
-      "title": "Revisiting Culture Conditions of Satellite Cells In Vitro for Skeletal Muscle Regeneration and Therapeutic Applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778113/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft，PMID 为 42778113。",
-      "report": "Skeletal muscle fibers are largely post-mitotic in adulthood yet retain robust regenerative capacity through satellite cells (SCs), quiescent muscle stem cells located beneath the basal lamina that are activated after injury, proliferate as myoblasts, differen...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42777921",
-      "date": "2026-09-23",
-      "title": "Research Progress in Skin Anti-Aging Drugs Based on Core Pathological Drivers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777921/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42777921。",
-      "report": "Skin aging is driven by multiple interconnected pathological processes. However, existing evidence remains fragmented across studies of individual mechanisms and compounds, hindering the discovery of novel targets and the repurposing of established drug target...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
     {
       "id": "pubmed-42773890",
       "date": "2026-09-23",
@@ -708,100 +584,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42776860",
-      "date": "2026-09-23",
-      "title": "Isolation and Purification-Free Digital Single-Small Extracellular Vesicle Biosensing with Scalable Plasmonic Arrays.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776860/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42776860。",
-      "report": "Recent advances in plasmonic biosensing and imaging have enabled label-free analysis of single biological nanoparticles. We previously developed PlAsmonic NanOapeRture lAbel-free iMAging (PANORAMA) for isolation and purification-free, digital counting and prec...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42778405",
-      "date": "2026-09-22",
-      "title": "The spatiotemporal ecosystem of gallbladder cancer: From inflamed areas to invasive margins - Integrating biomechanical injury, the bile microenvironment, precursor lineages, and spatial niches.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778405/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioscience trends，PMID 为 42778405。",
-      "report": "Gallbladder cancer (GBC) is usually described as the end point of chronic cholelithiasis-associated inflammation, and yet this linear formulation does not explain why only a small fraction of people with gallstones develop cancer, why histologically similar pr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42777387",
-      "date": "2026-09-22",
-      "title": "Solasonine inhibits growth of gastric cancer by targeting FTL-mediated ferroptosis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777387/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioorganic chemistry，PMID 为 42777387。",
-      "report": "Solasonine (SS), a principal bioactive constituent of Solanum nigrum L., has attracted considerable attention due to its pronounced cytotoxic effects on cancer cells. Nevertheless, the precise mechanism of SS against gastric cancer remains inadequately explore...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42771879",
       "date": "2026-09-22",
       "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
@@ -891,6 +673,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42779813",
+      "date": "2026-09-20",
+      "title": "A lifespan single-cell atlas of the human developing hippocampus benchmarks familial Alzheimer's disease brain organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779813/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779813。",
+      "report": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42764027",
       "date": "2026-09-20",
       "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
@@ -918,6 +730,93 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
       "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780025",
+      "date": "2026-09-18",
+      "title": "Extracellular matrix proteoglycans lumican and biglycan promote innate immune signals and viral clearance in HSV-1 infections of mouse corneas.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780025/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42780025。",
+      "report": "The extracellular matrix (ECM) regulates innate immunity, but its role in HSV-1 keratitis is unclear. Here, we identify the ECM proteoglycans lumican (Lum) and biglycan (Bgn) as key regulators of early antiviral defense in the cornea. Lum-/- and BgnKO mice sho...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42779865",
+      "date": "2026-09-18",
+      "title": "Engineering human myelin microphysiological systems for testing patient treatment response in multiple sclerosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779865/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779865。",
+      "report": "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system characterized by neuroinflammation, demyelination, and neurodegeneration, associated with a complex interplay between the innate and adaptive immune systems. Currently, no cure is a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42779796",
+      "date": "2026-09-18",
+      "title": "Latent generative search unlocks de novo design of untapped biomolecular interactions at scale.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779796/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779796。",
+      "report": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging. Such hydrated surfaces and flexible molecules, including carbohydrates, provide few of the hydrophobic contac...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1026,6 +925,104 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42780132",
+      "date": "2026-09-16",
+      "title": "Integrative pipeline to profile and target endocrine therapy-insensitive cell populations in ER+ breast cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780132/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42780132。",
+      "report": "Up to 40% of patients with estrogen receptor positive breast cancer will experience relapse, either while on endocrine therapy (ET) or after ET is completed. A major contributor to ET failure is the presence of ET-insensitive cell populations within tumors. He...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780285",
+      "date": "2026-09-15",
+      "title": "Sex Steroid Hormone Signaling Tunes Metabolic and Neuronal Programs in Human Cortical Development.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780285/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Research square，PMID 为 42780285。",
+      "report": "Autism spectrum disorder (ASD) exhibits a profound male biased sex ratio. While numerous genes have been implicated in ASD, the functional basis of this sex difference is unclear. One enticing hypothesis is genome-wide transcriptional regulation through estrog...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780126",
+      "date": "2026-09-15",
+      "title": "Brain organoid computing for robotic decision-making.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780126/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42780126。",
+      "report": "Biomimicry has inspired the evolution of robotics toward greater autonomy, adaptability, and symbiosis with humans and dynamic environments. However, current robotic systems still face major challenges in recapitulating the high-efficiency decision-making capa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42769965",
       "date": "2026-09-15",
       "title": "Constrained diffusion-enabled construction of a highly expressed and robust peptide asparaginyl ligase.",
@@ -1055,33 +1052,95 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42778940",
+      "id": "pubmed-42779982",
       "date": "2026-09-12",
-      "title": "Targeting the DNA-repair chromatin-modifier protein SMYD3 as a novel epigenetics-based therapy for gastric cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778940/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779982/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42778940。",
-      "report": "SMYD3 is a histone methyltransferase implicated in cancer progression and is overexpressed in several malignancies, including gastric cancer (GC). Building on previous evidence linking SMYD3 to DNA damage repair, we investigated the molecular mechanisms throug...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42779982。",
+      "report": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To ev...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780150",
+      "date": "2026-09-09",
+      "title": "Case Report: Concordance of cerebrospinal fluid-derived circulating tumor DNA with tumor tissue in spinal glioblastoma associated with Lynch syndrome.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780150/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42780150。",
+      "report": "Spinal glioblastoma (GBM) is an exceptionally rare entity and poses significant diagnostic challenges due to a substantial risk of neurological morbidity with surgical biopsy. Tissue-based analyses are frequently limited by sampling constraints and tumor heter...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42779998",
+      "date": "2026-09-09",
+      "title": "A case of invasive lobular carcinoma with signet-ring-cell differentiation treated with multidisciplinary therapy: a rare case report.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779998/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42779998。",
+      "report": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast canc...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1123,68 +1182,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42776741",
-      "date": "2026-09-01",
-      "title": "Cerebrospinal Fluid miRNA Profiling as a Potential Liquid Biopsy for Vestibular Schwannomas.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776741/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Non-coding RNA，PMID 为 42776741。",
-      "report": "Background/Objectives: This study aimed to identify a characteristic miRNA expression profile in the CSF of patients diagnosed with vestibular schwannoma and evaluate its potential for tumor assessment. Methods: In this prospective study, 17 CSF and correspond...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42776739",
-      "date": "2026-08-30",
-      "title": "Circulating Cell-Free miR-25-3p Is Upregulated in Brazilian Patients with Prostate Cancer and Contributes to Tumor Aggressiveness.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776739/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Non-coding RNA，PMID 为 42776739。",
-      "report": "Background/Objectives: Prostate cancer (PCa) has a high incidence worldwide, yet reliable prognostic biomarkers to distinguish indolent from aggressive forms are lacking. MicroRNAs (miRNAs), a class of small non-coding RNAs, are stable molecules that play an i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1216,37 +1213,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42763120",
-      "date": "2026-08-25",
-      "title": "Computational methods for alternative proteins.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763120/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advances in protein chemistry and structural biology，PMID 为 42763120。",
-      "report": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nu...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

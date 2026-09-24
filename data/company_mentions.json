@@ -4,15 +4,15 @@
   "asOfDate": "2026-09-24",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-3852b59fac8ef833",
-      "observedName": "Incyte Corporation",
-      "normalizedName": "incyte",
+      "id": "mention-clinicaltrials-6b89488c4da5d2f8",
+      "observedName": "UroGen Pharma Ltd.",
+      "normalizedName": "urogen pharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05453500",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05243550",
       "sourceDate": "2026-05-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05453500",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05243550",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -28,121 +28,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Chemotherapy (DA-EPOCH+/-R) and Targeted Therapy (Tafasitamab) for the Treatment of Newly-Diagnosed Philadelphia Chromosome Negative B Acute Lymphoblastic Leukemia"
-    },
-    {
-      "id": "mention-clinicaltrials-89d7d34c144a3c85",
-      "observedName": "Genentech, Inc.",
-      "normalizedName": "genentech",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04632992",
-      "sourceDate": "2025-01-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04632992",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "biomarker",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Study Evaluating Targeted Therapies in Participants Who Have Advanced Solid Tumors With Genomic Alterations or Protein Expression Patterns Predictive of Response"
-    },
-    {
-      "id": "mention-clinicaltrials-994af98ca4b8554f",
-      "observedName": "Shandong New Time Pharmaceutical Co., LTD",
-      "normalizedName": "shandong new time pharmaceutical",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05178836",
-      "sourceDate": "2022-01-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05178836",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Phase II Study to Evaluate the Efficacy and Safety of F520 Combined With F007 in Patients With RR DLBCL"
-    },
-    {
-      "id": "mention-clinicaltrials-a30b55754fcaca73",
-      "observedName": "Medicenna Therapeutics, Inc.",
-      "normalizedName": "medicenna therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05086692",
-      "sourceDate": "2025-07-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "乳腺癌",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
-    },
-    {
-      "id": "mention-clinicaltrials-fccf70c854178a6b",
-      "observedName": "Merck Sharp & Dohme LLC",
-      "normalizedName": "merck sharp and dohme",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05086692",
-      "sourceDate": "2025-07-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05086692",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "乳腺癌",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Beta-only IL-2 ImmunoTherapY Study"
+      "contextTitle": "A Phase 3 Single-Arm Study of UGN-102 for Treatment of Low-Grade Intermediate-Risk Non-Muscle Invasive Bladder Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
