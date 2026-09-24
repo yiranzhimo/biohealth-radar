@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "akeso",
@@ -623,9 +623,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "arvinas",
@@ -854,9 +854,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -3001,7 +3001,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-09-23T09:28:24+00:00",
+      "nextCheckAt": "2026-10-01T09:28:15+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -3021,20 +3021,19 @@
       ],
       "productExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": [],
-      "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
-      "visibleTextHash": "f66d0b9e81293997d24e7e709421f4f48ba51c549d4e637d7e89c4956d890a56",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "visibleTextHash": "6ee793630aae2b5e0bc0bc79e38dc716db95c7ae6e3796c716e8a0e15cb9c374",
       "visibleTextChars": 8147,
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-10T13:46:20+00:00",
-      "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastChangedAt": "2026-09-24T09:28:15+00:00",
+      "capturedAt": "2026-09-24T09:28:15+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "candidate-abbott-laboratories",
@@ -3640,7 +3639,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-09-23T09:28:24+00:00",
+      "nextCheckAt": "2026-10-01T09:28:15+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -3660,20 +3659,19 @@
       ],
       "productExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": [],
-      "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
-      "visibleTextHash": "f66d0b9e81293997d24e7e709421f4f48ba51c549d4e637d7e89c4956d890a56",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "visibleTextHash": "6ee793630aae2b5e0bc0bc79e38dc716db95c7ae6e3796c716e8a0e15cb9c374",
       "visibleTextChars": 8147,
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-08-10T13:46:20+00:00",
-      "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastChangedAt": "2026-09-24T09:28:15+00:00",
+      "capturedAt": "2026-09-24T09:28:15+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "candidate-acrivon-therapeutics",
@@ -29584,10 +29582,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -30263,9 +30261,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "intellia",
@@ -31385,10 +31383,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-09-23T09:29:32+00:00",
+      "lastCheckedAt": "2026-09-24T09:28:15+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-09-23T09:29:32+00:00"
+      "lastFailureAt": "2026-09-24T09:28:15+00:00"
     },
     {
       "companyId": "recursion",

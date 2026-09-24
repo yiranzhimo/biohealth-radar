@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 624,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 53,
+    "failedSourceCount": 51,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -1011,7 +1011,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
+            "text": "Platform Services Corporate Action Messaging Standardisation",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1019,7 +1027,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1027,7 +1035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1035,7 +1043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1043,7 +1051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1051,28 +1059,27 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-abbisko-official-9c4d7bc6b10e"
+          "evidence-company-candidate-abbisko-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "date": "2026-09-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
           }
         ],
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -1081,24 +1088,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-09-24",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+          "date": "2026-09-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+          "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
         }
       ]
@@ -2773,7 +2779,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
+            "text": "Platform Services Corporate Action Messaging Standardisation",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2781,7 +2795,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2789,7 +2803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2797,7 +2811,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2805,7 +2819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2813,28 +2827,27 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-acotec-official-9c4d7bc6b10e"
+          "evidence-company-candidate-acotec-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-acotec-official-9c4d7bc6b10e",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "date": "2026-09-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
           }
         ],
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -2843,24 +2856,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-09-24",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-acotec-official-9c4d7bc6b10e",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+          "date": "2026-09-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+          "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
         }
       ]

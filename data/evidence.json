@@ -7046,15 +7046,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-abbisko-official-9c4d7bc6b10e",
+      "id": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-abbisko"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-24",
+      "snapshotDate": "2026-09-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Abbisko — Official Website",
@@ -7070,7 +7070,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -7083,9 +7083,9 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -7100,6 +7100,7 @@
       ],
       "productExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": []
@@ -7957,15 +7958,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-acotec-official-9c4d7bc6b10e",
+      "id": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-acotec"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-09-24",
+      "snapshotDate": "2026-09-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Acotec — Official Website",
@@ -7981,7 +7982,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -7994,9 +7995,9 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9c4d7bc6b10e49720a8b7eb072af0b954798d43c9e6d2b4d66284a1df7cc2ef7",
-      "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
+      "changeType": "updated",
+      "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -8011,6 +8012,7 @@
       ],
       "productExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
+        "Platform Services Corporate Action Messaging Standardisation",
         "Education Centre A centralised education platform, including e-Learning."
       ],
       "planExcerpts": []
