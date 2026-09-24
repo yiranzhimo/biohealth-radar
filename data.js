@@ -821,6 +821,150 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "sec-0001801198-000117184326006215",
+      "date": "2026-09-24",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-006215 for Legend Biotech, Form 6-K, filed on 2026-09-24.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_075d6433ed251a5d006ab59771056487d192c6670aab01f50f",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "70c5744bf4329d3dfa300716869c7afcce567bb2d9184bb74619b57010ba1856",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "数据一致，支持出版。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Cell Therapy"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "LEGN"
+          ],
+          "fact": "SEC EDGAR lists accession 0001171843-26-006215 for Legend Biotech, Form 6-K, filed on 2026-09-24.",
+          "report": "SEC metadata describes the primary document as: FORM 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001434265-000143426526000125",
+      "date": "2026-09-24",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_026e611fea07f8b7006ab59775fd1c87d1b0ee140f24c83c09",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "4d5203df971beda8c47fc957bb7deb396b9b27cc97ed85c5896c0a998138a5a9",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该条目符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类正确，符合源数据的描述。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告、推论和未知项清晰分开，证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "GMAB"
+          ],
+          "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "pubmed-42773890",
       "date": "2026-09-23",
       "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
@@ -892,16 +1036,16 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42778830",
+      "id": "pubmed-42781301",
       "date": "2026-09-23",
-      "title": "Electrochemical Biosensors for Circulating Tumor Cells and ctDNA: Emerging Strategies for Precision Oncology.",
+      "title": "An inertial-based spiral device for separating rare tumor cells from liquid biopsies.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778830/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781301/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -916,32 +1060,32 @@ window.BHR_DATA = {
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42778830。",
-      "report": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and...",
+      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42781301。",
+      "report": "Early detection of primary tumors and metastatic processes increases the success of anti-tumor therapies and favors good prognoses. Within the current range of methods available to detect the presence of tumors, liquid biopsy is receiving particular attention...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02719f71579099f1006ab50f641ea487d1bd29e14b20f29329",
-        "reviewedAt": "2026-09-24T11:54:05.812934+00:00",
-        "inputHash": "7fbb255f4e7dfdf2417531f504c6842cf2faaa35e6f2213469f7747fd6c8357f",
+        "responseId": "resp_00a9a7dfeac2e8df006ab5977b935c87d1a093c365c9e2458f",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "047247401455dd22734b66fefeb4e57a53a45e81313c34096054280805df5b14",
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息明确且按类别组织良好。",
+        "reviewSummaryCn": "该记录基于可靠的来源，信息清晰且分类合理。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类合理，符合研究主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "证据水平为中等，符合报告内容。"
         },
         "riskFlags": [
-          "commercial_claim"
+          "diagnostics_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -957,156 +1101,8 @@ window.BHR_DATA = {
             "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42778830。",
-          "report": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42777175",
-      "date": "2026-09-23",
-      "title": "Triple-Negative Transformation in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: Tissue Versus Liquid Biopsy in Two Cases.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777175/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42777175。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01d03a1db2d030f4006ab4ae159ed887d29847dd43b8fd94de",
-        "reviewedAt": "2026-09-24T04:58:43.378838+00:00",
-        "inputHash": "089ef7ad20f133bac289dd7f4123057035e078c6b711903be8d1d5ba0ce47eb0",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献依赖于单一案例研究，缺乏足够的证据支持研究结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类依据和样本规模未提供充分依据，无法支持低证据水平的声明。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献所提供证据水平较低，且未对研究质量进行详细评估。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42777175。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42777092",
-      "date": "2026-09-23",
-      "title": "Molecular biomarkers for early-stage hepatocellular carcinoma: Clinical applications beyond alpha-fetoprotein.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777092/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The International journal of biological markers，PMID 为 42777092。",
-      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related death worldwide, owing to late-stage diagnosis and underlying liver disease that limits curative treatment options. Conventional surveillance and diagnostic strategies relying on imaging...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b8e919e701ab1b7006ab4ae19607c87d29fbe1c71c9505105",
-        "reviewedAt": "2026-09-24T04:58:43.378838+00:00",
-        "inputHash": "9d4de8c7b92d3152fd9c53148d9917855d9da0c7dec3a9a0af8586a8b80b947f",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献提到的早期肝细胞癌分子生物标志物的临床应用，存在对临床结论的暗示，需要进一步审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与文献内容相符，但信誉未尽明确。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但未能明确其可靠性。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The International journal of biological markers，PMID 为 42777092。",
-          "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related death worldwide, owing to late-stage diagnosis and underlying liver disease that limits curative treatment options. Conventional surveillance and diagnostic strategies relying on imaging...",
+          "fact": "PubMed记录显示该文献收录于Bioengineering & translational medicine，PMID为42781301。",
+          "report": "Early detection of primary tumors and metastatic processes increases the success of anti-tumor therapies and favors good prognoses. Within the current range of methods available to detect the presence of tumors, liquid biopsy is receiving particular attention...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -1551,155 +1547,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42779813",
-      "date": "2026-09-20",
-      "title": "A lifespan single-cell atlas of the human developing hippocampus benchmarks familial Alzheimer's disease brain organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779813/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779813。",
-      "report": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_06bf81e0ae4b5c2f006ab55af1a62c87d285828074f21cd422",
-        "reviewedAt": "2026-09-24T17:16:32.463468+00:00",
-        "inputHash": "1c91f32ecaa1c58aaa43a75e9c0f0efcbf491b24075be2dbfa4d97f19829e444",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号内部一致，并且中立地呈现了研究信息，且无临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合所提供元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推断区分清晰，且证据级别适中，符合出版标准。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779813。",
-          "report": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42764027",
-      "date": "2026-09-20",
-      "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
-      "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00a3458a02f1fa16006ab0baba1e3087d0be6f60a0fa6004e5",
-        "reviewedAt": "2026-09-21T05:03:46.520614+00:00",
-        "inputHash": "2776844df6989d10f0a6bca3a36ff2771fd731446b00b076ae43e19b4422a818",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录中所有信息均与源一致，分类合理，无不当临床推论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要分类和子分类符合领域相关文献。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "所述事实、报告和推论均清晰分开，支持证据水平适中。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
-          "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42780025",
       "date": "2026-09-18",
       "title": "Extracellular matrix proteoglycans lumican and biglycan promote innate immune signals and viral clearance in HSV-1 infections of mouse corneas.",
@@ -1909,6 +1756,85 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779796。",
           "report": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging.",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42781320",
+      "date": "2026-09-18",
+      "title": "Therapeutic Potential of Exosomes in Bone Infection: Mechanisms of Action, Engineering Strategies, and Translational Applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781320/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "衰老",
+        "biomarker",
+        "longevity"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42781320。",
+      "report": "Bone infections, including chronic osteomyelitis, implant-associated infection, and infected bone defects, remain among the most refractory challenges in orthopedics, as they involve persistent microbial retention together with defective bone regeneration. The...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c59de2d12d0603e006ab5977f855087d1a3dbfa5f5a2e6e78",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "1075098abe593c4e230e63c577f2487c4e3d4ed7ccbc0bf29d0e49d0c2c556fd",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献综述的主题和分类合理，信息结构清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献主题一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已清晰分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Longevity",
+            "Biomarkers"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "衰老",
+            "biomarker",
+            "longevity"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42781320。",
+          "report": "Bone infections, including chronic osteomyelitis, implant-associated infection, and infected bone defects, remain among the most refractory challenges in orthopedics, as they involve persistent microbial retention together with defective bone regeneration. The...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2617,57 +2543,203 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42779982",
-      "date": "2026-09-12",
-      "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors.",
+      "id": "pubmed-42781149",
+      "date": "2026-09-09",
+      "title": "Advances and prospects of 3D air-liquid interface cultured middle ear epithelial cells and inner ear organoids in otologic diseases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781149/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42781149。",
+      "report": "Hearing loss and vestibular disorders represent major otologic disease challenges. Traditional disease models struggle to accurately mimic human otologic pathologies due to species differences and limited physiological relevance. Recent advancements in otic vi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0742ddeb013b0fc9006ab59784dccc87d1b0f4c934a2e3a7f3",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "ec995b09586b3718c61682a9d50a5a5c9000b435cefb0208de2747a3c51fa46e",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献符合发布要求，信息清晰且结构合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源可靠，证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42781149。",
+          "report": "Hearing loss and vestibular disorders represent major otologic disease challenges. Traditional disease models struggle to accurately mimic human otologic pathologies due to species differences and limited physiological relevance. Recent advancements in otic vi...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42780513",
+      "date": "2026-09-09",
+      "title": "ctDNA and immune biomarker testing for molecular residual disease surveillance and immune stratification in cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780513/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42780513。",
+      "report": "Molecular residual disease (MRD) refers to occult cancer persisting below the detection limit of conventional imaging and is a major source of later relapse. Circulating tumor DNA (ctDNA) provides a minimally invasive molecular surrogate of residual disease, b...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_063018096c3c0dee006ab5978888ec87d197e0dec74372a322",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "44a5371632bbaf2c3726e64522b5535cf8d4927e43d6068710a8ead4224bc426",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，因涉及临床结论和研究质量问题。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持不足，未说明研究质量和临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别偏低，未支持具体健康结论的合理性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42780513。",
+          "report": "Molecular residual disease (MRD) refers to occult cancer persisting below the detection limit of conventional imaging and is a major source of later relapse. Circulating tumor DNA (ctDNA) provides a minimally invasive molecular surrogate of residual disease.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42780346",
+      "date": "2026-09-09",
+      "title": "Editorial: Liquid biopsy biomarkers for cancer detection, treatment monitoring, and clinical outcome prediction.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779982/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780346/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "肿瘤"
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42779982。",
-      "report": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To ev...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42780346。",
+      "report": "Infographic illustrating liquid biopsy as a dynamic window into cancer, highlighting multiple biomarker sources such as tumor cells, DNA, RNA, extracellular vesicles, immune and stromal cells, and platelets. A workflow depicts integrated, longitudinal sampling...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c873f25fc91e2ef006ab55b191e5887d28bfb914432ebb38e",
-        "reviewedAt": "2026-09-24T17:16:32.463468+00:00",
-        "inputHash": "49ba9e89c9c10bb7a10372544965e45efee2fa6bf98b884608b7c5a106143a09",
-        "status": "pass",
+        "responseId": "resp_0b6026998032f635006ab5978cb10087d1bf677edf16e5f217",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "8d5f86aa87febd0ba247fc861ef29bef2945ba85c891afa92c7a8e444176d311",
+        "status": "needs_human",
         "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，无需人工审核。",
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需要人工审查，可能存在支持不足的临床结论或分类问题。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与源数据一致，符合文献主题。"
+          "isSupported": false,
+          "notesCn": "分类支持不足，可能误导为临床结论。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "源数据支持中等证据水平，事实、报告和推断清晰区分。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "基于当前证据，证据水平被评估为中等，未充分支持临床应用。"
         },
         "riskFlags": [
-          "diagnostics_claim",
-          "research_claim"
+          "weak_classification",
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
@@ -2676,15 +2748,17 @@ window.BHR_DATA = {
           "themes": [
             "Diagnostics",
             "Precision Medicine",
-            "Precision Oncology"
+            "Precision Oncology",
+            "Multi-omics"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "肿瘤"
+            "肿瘤",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42779982。",
-          "report": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To ev...",
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42780346。",
+          "report": "Infographic illustrating liquid biopsy as a dynamic window into cancer, highlighting multiple biomarker sources such as tumor cells, DNA, RNA, extracellular vesicles, immune and stromal cells, and platelets. A workflow depicts integrated, longitudinal sampling...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2758,84 +2832,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42780150。",
           "report": "Spinal glioblastoma (GBM) is an exceptionally rare entity and poses significant diagnostic challenges due to a substantial risk of neurological morbidity with surgical biopsy. Tissue-based analyses are frequently limited by sampling constraints and tumor heter...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42779998",
-      "date": "2026-09-09",
-      "title": "A case of invasive lobular carcinoma with signet-ring-cell differentiation treated with multidisciplinary therapy: a rare case report.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779998/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42779998。",
-      "report": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast canc...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_062b72e2738e1925006ab55b27432887d28da50095ce9c59fe",
-        "reviewedAt": "2026-09-24T17:16:32.463468+00:00",
-        "inputHash": "2c645d123cc1fcc8803e1633a0e4d459893793c42bdeca918bf6682458494310",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献为关于一种罕见侵袭性小叶癌的病例报告，内容中没有不当的临床结论。所有信息均已按来源正确分隔。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与证据水平符合来源的数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推理和未知内容均已清晰分隔，符合发布标准。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42779998。",
-          "report": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast canc...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -3071,6 +3067,76 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42775042。",
           "report": "Single-cell perturbation technologies, multimodal omics, spatial profiling, and generative modeling are transforming the virtual cell from a theoretical concept into a practical objective for cell biology. Yet current efforts often emphasize model scale, data...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42781024",
+      "date": "2026-09-08",
+      "title": "Diagnosis and treatment decision of an IDH-mutant glioma through CSF-based cfDNA sequencing.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781024/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology advances，PMID 为 42781024。",
+      "report": "Classification of tumors of the central nervous system currently requires tumor tissue analysis for histology and molecular markers, according to the 2021 WHO Classification of Tumors of the Central Nervous System. Cerebrospinal fluid (CSF)-based cell-free DNA...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09b33d54d20c23b1006ab59790d2b087d1a8fb63a19642d09c",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "0893bf7b8d19554d5ac850d81e7aca9213166960b9da0727c4486b2dd218294f",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献中对肿瘤分类的描述未提供临床结论，需人工审查以确认无误导性内容。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平被评估为中等，需进一步评估相关性和临床应用。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级与所提供信息不匹配，缺乏足够支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Neuro-oncology advances，PMID 为 42781024。",
+          "report": "Classification of tumors of the central nervous system currently requires tumor tissue analysis for histology and molecular markers, according to the 2021 WHO Classification of Tumors of the Central Nervous System. Cerebrospinal fluid (CSF)-based cell-free DNA...",
+          "inference": "该信息可能不够全面，需考虑其他研究的支持性数据。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -8062,6 +8128,76 @@ window.BHR_DATA = {
           "report": "the aim of this study is to establish if there are clinical, radio-graphical and histomorphometrical differences between using Allogenic Demineralized Dentin matrix versus Demineralized Freeze-Dried Bone Allograft (DFDBA) as a clinical application in alveolar...",
           "inference": "该状态和设计字段无法直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42781471",
+      "date": "2026-06-22",
+      "title": "Computational design of 3C-like protease substrate peptide for modular detection of protease activity of coronavirus.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781471/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Engineering in life sciences，PMID 为 42781471。",
+      "report": "The severity of the recent Coronavirus Disease 2019 pandemic stresses the importance of analytical and biosensor research aimed at determining and curbing disease severity. It demanded an easy-to-adapt method to reflect the infectivity of viruses. The critical...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06e436a510705898006ab59796848487d1b4e1ea80d0c84ebe",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "1648608de5d68c334eb2f18ab5737347bf4736e4e12f181ba361368e8384e1d4",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号存在潜在的有效性或安全性结论，需人工审查以确保准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "当前分类与信号内容间存在不明确之处。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评估为中等，但研究质量等因素未得到证实。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Engineering in life sciences，PMID 为 42781471。",
+          "report": "The severity of the recent Coronavirus Disease 2019 pandemic stresses the importance of analytical and biosensor research aimed at determining and curbing disease severity. It demanded an easy-to-adapt method to reflect the infectivity of viruses. The critical...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

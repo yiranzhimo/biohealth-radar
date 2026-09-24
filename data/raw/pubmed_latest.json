@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-24T17:16:24.554883+00:00",
+  "capturedAt": "2026-09-24T21:34:29.752795+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,49 @@
     "end": "2026-09-24"
   },
   "pmids": [
+    "42781149",
     "42780285",
     "42780132",
     "42780126",
     "42780025",
     "42779865",
-    "42779813",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
     "42753692",
     "42749352",
+    "42781471",
     "42779796",
     "42773890",
     "42773138",
     "42771506",
     "42769965",
-    "42764027",
-    "42780150",
-    "42779998",
-    "42779982",
-    "42778830",
-    "42777175",
-    "42777092"
+    "42781320",
+    "42781301",
+    "42781024",
+    "42780513",
+    "42780346",
+    "42780150"
   ],
   "records": [
+    {
+      "pmid": "42781149",
+      "title": "Advances and prospects of 3D air-liquid interface cultured middle ear epithelial cells and inner ear organoids in otologic diseases.",
+      "abstract": "Hearing loss and vestibular disorders represent major otologic disease challenges. Traditional disease models struggle to accurately mimic human otologic pathologies due to species differences and limited physiological relevance. Recent advancements in otic vitro models have provided crucial tools for related research. The core representatives include the middle ear epithelial cell model cultured at the air-liquid interface (ALI) and inner ear organoids. ALI culture of middle ear epithelial cells highly mimics middle ear tissue structure and function, finding applications in drug screening and toxicity assessment. Inner ear organoids facilitate the in vitro generation of functional three-dimensional structures containing hair cells, supporting cells, and neurons, while recapitulating both inner ear development and specific disease phenotypes. This review highlights the origins, research progress, and application prospects of these two model types, aiming to provide references for elucidating otologic disease mechanisms, personalized drug screening, and evaluating gene therapy strategies.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Shandong Key Lab of Complex Medical Intelligence and Aging, School of Special Education and Rehabilitation, Shandong Medical and Pharmaceutical University, Yantai, Shandong, China.",
+        "Department of Rehabilitation Medicine, Yantaishan Hospital, Shandong Medical and Pharmaceutical University, Yantai, Shandong, China."
+      ],
+      "doi": "10.3389/fbioe.2026.1881504",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781149/"
+    },
     {
       "pmid": "42780285",
       "title": "Sex Steroid Hormone Signaling Tunes Metabolic and Neuronal Programs in Human Cortical Development.",
@@ -109,20 +126,6 @@
       "doi": "10.64898/2026.09.12.750449",
       "date": "2026-09-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779865/"
-    },
-    {
-      "pmid": "42779813",
-      "title": "A lifespan single-cell atlas of the human developing hippocampus benchmarks familial Alzheimer's disease brain organoids.",
-      "abstract": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain regions in AD [2,3]. Human induced pluripotent stem cell (iPSC)-derived brain organoids recapitulate key features of early human brain development and provide a tractable model for studying how fAD mutations perturb neurodevelopmental processes [4]. However, their interpretation is complicated by heterogeneous regional identity, variable maturation state, and cell-type composition across protocols [5,6]. Existing single-cell studies of human hippocampus cover prenatal [7] and postnatal [8-10] stages but do not provide a continuous developmental reference. By elevating the atlas approach in utilizing single-cell RNA-sequencing data, we obtain standardized information on the organoid cell class and type composition and maturation states. Here, we constructed the Human Developing Hippocampus Atlas (HuDeHA), an integrated single-cell reference comprising 658,059 cells spanning post-conceptional week 3 to 15.3 years, and used it to benchmark iPSC-derived brain organoids carrying PSEN1 E280A which is associated with fAD in a large Colombian population. Reference-based mapping revealed altered cellular composition in PSEN1 E280A organoids, including reduced radial glia and increased neural crest-derived neurons. These changes were accompanied by cross-lineage transcriptional alterations, including broad upregulation of the ventral patterning factor MEIS2 and reduced expression of the αβ-binding protein transthyretin (TTR) in choroid-plexus and ependymal-associated populations. Reconstructed neuronal-lineage trajectories showed a shift toward mature states in PSEN1 E280A organoids. Together, these findings establish HuDeHA as a resource for developmental benchmarking of hippocampus-relevant organoid systems and describe cell-lineage-specific developmental changes in PSEN1 E280A organoids that may inform interpretation of early cellular alterations in fAD.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.09.18.752796",
-      "date": "2026-09-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779813/"
     },
     {
       "pmid": "42775042",
@@ -238,6 +241,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42749352/"
     },
     {
+      "pmid": "42781471",
+      "title": "Computational design of 3C-like protease substrate peptide for modular detection of protease activity of coronavirus.",
+      "abstract": "The severity of the recent Coronavirus Disease 2019 pandemic stresses the importance of analytical and biosensor research aimed at determining and curbing disease severity. It demanded an easy-to-adapt method to reflect the infectivity of viruses. The critical role of 3C-Like protease (3CLPro) in the replication cycle of coronaviruses, such as SARS-CoV-2, highlights its potential as an effective target correlated with viral activities. In this study, we aimed to develop a modular and orthogonal analytical tool for the detection and quantification of the essential protease component of coronaviruses, focusing on the enzymatic activity of the viral 3CLPro, a key component for coronavirus replication. Our approach leveraged the high sequence conservation of 3CLPro across global coronavirus strains, particularly in its substrate recognition pocket, to computationally design optimal substrate peptides. The designed sequences were orthogonal to any natural viral protein sequences. When incorporated into Gluc or FlipGFP proteins, our designs achieved modular gain-of-signal or loss-of-signal detections of 3CLPro expression levels. These antigen-focused molecular tools could facilitate the screening of effective treatments and quantitative visualization of virus-infected cells.",
+      "journal": "Engineering in life sciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, School of Life Sciences, Tianjin University, Tianjin 300072, China."
+      ],
+      "doi": "10.48130/els-0026-0002",
+      "date": "2026-06-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781471/"
+    },
+    {
       "pmid": "42779796",
       "title": "Latent generative search unlocks de novo design of untapped biomolecular interactions at scale.",
       "abstract": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging. Such hydrated surfaces and flexible molecules, including carbohydrates, provide few of the hydrophobic contacts favoured by current methods and have largely resisted de novo binders. To address this challenge, here we introduce latent generative search for binder design, a novel framework that uses reward-guided search at inference time to steer the Proteina-Complexa generative model. The model codesigns sequence and structure - generating them together in a continuous latent space - and thereby removes the inverse-folding step on which current methods rely. In a screen of more than one million designs by multiplexed phage display, latent generative search produced more validated binders than every other method tested, its codesigned sequences surpassing post hoc redesign. It delivered high-affinity binders across therapeutic receptors, a viral attachment protein and intracellular signalling targets. Our approach also accessed previously untapped biology, generating the first de novo proteins that bind a free carbohydrate, including one that discriminates between blood-group antigens - a polar, flexible target class beyond the reach of current design methods.",
@@ -327,22 +345,96 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42769965/"
     },
     {
-      "pmid": "42764027",
-      "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
-      "abstract": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production remains limited by the low catalytic efficiency of carboxyl methyltransferases, insufficient intracellular supply of S-adenosylmethionine (SAM), and severe product volatilization during fermentation. In this study, we systematically screened salicylate carboxymethyltransferase and identified CbSAMT as a relatively efficient catalyst for salicylic acid (SA). To further improve catalytic performance, we engineered CbSAMT through fusion-protein design. Remarkably, the catalytic efficiency of 7 × His-CbSAMT was 12-fold higher than that of the wild-type. Molecular dynamics simulations and computational analyses revealed that the polyhistidine tag reshaped the catalytic microenvironment by remodeling the hydrogen-bonding network and reducing the distance between SA and key substrate-positioning residues, thereby enhancing substrate binding and catalytic turnover. To further enhance MeSA biosynthesis, we reinforced intracellular SAM regeneration and established an in situ two-phase fermentation system using n-dodecane as the extractant to alleviate product volatilization. Finally, fed-batch fermentation achieved a MeSA titer of 5.12 g/L, representing the highest production level reported to date. Collectively, this study highlights the potential of polyhistidine tags in enzyme engineering and provides an efficient platform for the biosynthesis of volatile methylated natural products.",
-      "journal": "Bioresource technology",
+      "pmid": "42781320",
+      "title": "Therapeutic Potential of Exosomes in Bone Infection: Mechanisms of Action, Engineering Strategies, and Translational Applications.",
+      "abstract": "Bone infections, including chronic osteomyelitis, implant-associated infection, and infected bone defects, remain among the most refractory challenges in orthopedics, as they involve persistent microbial retention together with defective bone regeneration. Their pathogenesis extends beyond bacterial colonization and reflects a complex interplay among pathogen persistence, dysregulated host immunity, sustained inflammation, impaired bone remodeling, vascular insufficiency, and compromised tissue repair. Exosomes have emerged as promising candidates for bone infection management because of their intrinsic biocompatibility, nanoscale delivery capacity, and ability to integrate multiple biological signals. Accumulating evidence indicates that exosomes can modulate inflammatory amplification, macrophage polarization, pyroptosis, oxidative stress, and immune-bone crosstalk through the transfer of functional cargos, including miRNAs, proteins, lipids, and metabolites. In parallel, exosomes participate in osteogenesis, osteoclast regulation, angiogenesis, and extracellular matrix remodeling, thereby supporting reconstruction of the infected bone microenvironment after pathogen control. Recent advances in engineered exosomes, targeted delivery strategies, and exosome-integrated biomaterials, such as hydrogels, scaffolds, and bone cement, further expand their potential as localized multifunctional therapeutic platforms. Beyond treatment, infection-associated alterations in exosome size distribution, concentration, and cargo profiles suggest their value as liquid biopsy tools for early diagnosis, stratification, and dynamic monitoring of therapeutic response. This review systematically summarizes the pathological basis of bone infection, the biological properties of exosomes, and the emerging mechanisms and applications of exosome-based interventions in infected bone disorders. Particular attention is given to natural and engineered exosomes, drug-loading systems, and exosome-biomaterial composites, as well as their diagnostic and monitoring potential. By integrating antibacterial activity, immune remodeling, vascular restoration, and bone regeneration within the continuum of persistent infection, inflammatory destruction, and regenerative failure, we propose that exosomes are more likely to evolve into integrated therapeutic platforms rather than standalone biological agents.",
+      "journal": "International journal of nanomedicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Joint and Sports Medicine Center, Ningbo, Zhejiang, People's Republic of China.",
+        "Ningbo Clinical Research Center for Orthopedics, Sports Medicine & Rehabilitation, Ningbo, Zhejiang, People's Republic of China.",
+        "Department of Trauma Orthopedic Center, Ningbo, Zhejiang, People's Republic of China."
+      ],
+      "doi": "10.2147/IJN.S637313",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781320/"
+    },
+    {
+      "pmid": "42781301",
+      "title": "An inertial-based spiral device for separating rare tumor cells from liquid biopsies.",
+      "abstract": "Early detection of primary tumors and metastatic processes increases the success of anti-tumor therapies and favors good prognoses. Within the current range of methods available to detect the presence of tumors, liquid biopsy is receiving particular attention as it is a minimally invasive and quick procedure. Identification of cancer elements such as circulating tumor cells (CTCs) constitutes valuable information about tumor biology. However, this is a challenging process due to the rarity of those cells in corporal fluids such as blood (CTCs <10 cell/10 mL blood). Microfluidics, an affordable, sensitive, user-friendly and rapidly evolving technology, has significantly provided advances in the detection and isolation of rare cancer cells. One of the main strategies currently employed is the development of inertial focusing devices with spiral geometries. In these systems, hydrodynamic forces are used to focus particles as a function of their size without additional mechanical or electronic equipment. Specifically, the interactions between inertial lift forces and Dean vortices determine the equilibrium position of particles as a function of their size, enhancing their sorting. Here, by combination of viscoelastic and inertial microfluidics approaches, we have developed a spiral device for isolation of CTCs from liquid biopsies. Our device was able to isolate and enrich with high efficiency osteosarcoma cells presented in a low number from whole blood samples. This device constitutes a promising tool for isolation, characterization and potential culture of tumor cells from patient samples and improve personalized medicine.",
+      "journal": "Bioengineering & translational medicine",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
-        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China; Beijing Advanced Innovation Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
-        "Beijing Laboratory of Biomedical Materials, and College of Materials Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
-        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. Electronic address: shenxl@mail.buct.edu.cn."
+        "Biological Sciences and Biotechnologies Unit Nantes Université, CNRS, UMR6286, US2B Nantes France.",
+        "Institut de Cancérologie de l'Ouest Tumor Heterogeneity and Precision Medicine Laboratory Saint-Herblain France.",
+        "CNRS, INSERM, Biosit, UAR 3480 US_S 018, BIM3D Core Facility University of Rennes Rennes France.",
+        "School of Medicine and Population Health University of Sheffield Sheffield UK."
       ],
-      "doi": "10.1016/j.biortech.2026.135886",
-      "date": "2026-09-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/"
+      "doi": "10.1002/btm2.70175",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781301/"
+    },
+    {
+      "pmid": "42781024",
+      "title": "Diagnosis and treatment decision of an IDH-mutant glioma through CSF-based cfDNA sequencing.",
+      "abstract": "Classification of tumors of the central nervous system currently requires tumor tissue analysis for histology and molecular markers, according to the 2021 WHO Classification of Tumors of the Central Nervous System. Cerebrospinal fluid (CSF)-based cell-free DNA (cfDNA) sequencing detects these defining molecular alterations and allows for accurate diagnosis and WHO-analogue tumor classification. We hereby report the case of a female patient with an IDH-mutant glioma, TERT promoter mutant, NEC, in whom IDH1 and TERT promoter mutations were identified in CSF after an initially non-informative tissue histology, then confirmed through tissue-based molecular analysis. The patient was initially treated with vorasidenib, an IDH inhibitor, which was then switched to a procarbazine-CCNU chemotherapy due to clinical worsening under initial therapy. CSF-based cfDNA sequencing is a promising tool for minimally invasive diagnosis of tumors of the CNS in situations in which tissue biopsy is challenging or non-informative.",
+      "journal": "Neuro-oncology advances",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Neurology and Neurooncology Program, National Center for Tumor Diseases, Heidelberg University Hospital, Heidelberg, Germany.",
+        "Department of Neurology, University Hospital Liège, Liège, Belgium.",
+        "Department of Neuropathology, University Hospital Heidelberg, Heidelberg, Germany.",
+        "Clinical Cooperation Unit Neuropathology, German Consortium for Translational Cancer Research (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Clinical Cooperation Unit Neurooncology, German Consortium for Translational Cancer Research (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Neurosurgery, University Hospital Heidelberg, Heidelberg, Germany.",
+        "Department of Neuroradiology, University Hospital Heidelberg, Heidelberg, Germany.",
+        "Section for Computational Neuroimaging, Department of Neuroradiology, Heidelberg University Hospital, Heidelberg, Germany."
+      ],
+      "doi": "10.1093/noajnl/vdag240",
+      "date": "2026-09-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781024/"
+    },
+    {
+      "pmid": "42780513",
+      "title": "ctDNA and immune biomarker testing for molecular residual disease surveillance and immune stratification in cancer.",
+      "abstract": "Molecular residual disease (MRD) refers to occult cancer persisting below the detection limit of conventional imaging and is a major source of later relapse. Circulating tumor DNA (ctDNA) provides a minimally invasive molecular surrogate of residual disease, but its interpretation is influenced by tumor burden, shedding, anatomic site, treatment-related cell death, sampling time, and analytical sensitivity. Immune biomarkers provide complementary information on whether residual disease is being recognized, contained, or permitted to escape by the host immune system. This Mini Review examines how ctDNA and immune biomarker testing can be integrated for MRD surveillance and immune stratification across solid tumors. We summarize tumor-informed and tumor-naïve ctDNA approaches, including mutation-, methylation-, fragmentomic-, and whole-genome-based assays; discuss tissue and blood immune biomarkers such as PD-L1, mismatch repair status, tumor mutational burden, antigen-presentation integrity, T-cell receptor repertoires, cytokines, and suppressive myeloid populations; and review recent evidence from colorectal, lung, urothelial, breast, and melanoma studies. We propose a conceptual, hypothesis-generating framework in which ctDNA reports tumor-derived molecular signal and shedding, whereas immune assays report immune pressure and escape. Joint interpretation may, if prospectively validated, distinguish biologically different MRD states, improve longitudinal risk assessment, and provide a laboratory foundation for biomarker-oriented immunotherapy and cell-therapy studies. However, clinical implementation requires standardized preanalytics, explicit assay limits, paired leukocyte controls, serial sampling, harmonized immune assays, and prospective trials demonstrating clinical utility rather than prognostic association alone.",
+      "journal": "Frontiers in medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Huanghe Science and Technology University, Zhengzhou, Henan, China."
+      ],
+      "doi": "10.3389/fmed.2026.1942673",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780513/"
+    },
+    {
+      "pmid": "42780346",
+      "title": "Editorial: Liquid biopsy biomarkers for cancer detection, treatment monitoring, and clinical outcome prediction.",
+      "abstract": "Infographic illustrating liquid biopsy as a dynamic window into cancer, highlighting multiple biomarker sources such as tumor cells, DNA, RNA, extracellular vesicles, immune and stromal cells, and platelets. A workflow depicts integrated, longitudinal sampling, multi-omics monitoring, data interpretation, and timely decision-making in precision oncology. Clinical impact box lists benefits: better detection, risk stratification, treatment guidance, and outcomes. Banner below states liquid biopsy advances from detecting cancer signals to providing dynamic, actionable insights for guiding oncology and improving care.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Editorial"
+      ],
+      "affiliations": [
+        "Laboratory of Rare Human Circulating Cells (LCCRH), University Medical Centre of Montpellier, Montpellier, France.",
+        "CREEC/CANECEV, MIVEGEC (CREES), University of Montpellier, CNRS, IRD, Montpellier, France.",
+        "European Liquid Biopsy Society (ELBS), Hamburg, Germany.",
+        "Biomarkers and Personalized Approach to Cancer (BIOPAC) Group, Ramón y Cajal Health Research Institute (IRYCIS), Madrid, Spain."
+      ],
+      "doi": "10.3389/fcell.2026.1970074",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780346/"
     },
     {
       "pmid": "42780150",
@@ -368,99 +460,6 @@
       "doi": "10.3389/fonc.2026.1914228",
       "date": "2026-09-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780150/"
-    },
-    {
-      "pmid": "42779998",
-      "title": "A case of invasive lobular carcinoma with signet-ring-cell differentiation treated with multidisciplinary therapy: a rare case report.",
-      "abstract": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast cancer screening without any subjective symptoms. A mass detected in the upper-outer region of her right breast. Core needle biopsy led to the diagnosis of ILC with SRC of the breast. Positron emission tomography-computed tomography, urine cytology, and upper and lower gastrointestinal endoscopy revealed no abnormal findings, and the disease was diagnosed as cT1cN0M0, Stage I. Immunohistochemical examination showed estrogen receptor (ER)-positive (10%, weak), progesterone receptor (PgR)-negative (0%), human-epidermal growth factor receptor 2 (HER2) score 0, and Ki-67 index of 9.8%, suggesting a luminal B-like subtype. The patient received 4 cycles of epirubicine and cyclophosphamide followed by 4 cycles of docetaxel (DTX) as neoadjuvant chemotherapy (NAC). Because prolonged neutropenia occurred during DTX treatment, temporary treatment interruptions were required; however, all cycles were completed with a relative dose intensity of 80%. As stable disease after completion of NAC, right breast-conserving surgery with sentinel lymph node biopsy was performed. Pathological assessment after neoadjuvant chemotherapy revealed ypT1c (1.8 cm) sN0 (0/1), therapeuthic effect Grade 2b, ER- (0%), PgR- (0%), HER2 0, Ki-67 20% of residual tumor remaining in the breast. Therefore, BRACAnalysis® testing was performed as a companion diagnostic test and was negative. The patient subsequently have received postoperative radiotherapy, and 8 cycles of capecitabine therapy. In our cohort of ILC patients treated at our institution, we also observed cases with gastrointestinal metastases; therefore, attention should be paid to symptoms and findings suggestive of metastasis to these sites as well.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Breast Surgery, Mitsubishi Kyoto Hospital, Kyoto, Japan.",
-        "Department of Medical Oncology, Mitsubishi Kyoto Hospital, Kyoto, Japan.",
-        "Department of Diagnostic Pathology, Mitsubishi Kyoto Hospital, Kyoto, Japan."
-      ],
-      "doi": "10.3389/fonc.2026.1926146",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779998/"
-    },
-    {
-      "pmid": "42779982",
-      "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors.",
-      "abstract": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To evaluate the potential clinical utility of CSF LBx, we analyzed real-world LB testing data from 1391 CSF samples. CSF samples were submitted for clinical testing with various referring diagnoses, including primary brain tumors and metastatic tumors. NGS testing of cell-free DNA and RNA (cfDNA and cfRNA) as well as cellular RNA was performed using a targeted 302-gene DNA panel and a targeted RNA panel encompassing more than 1600 genes. Of all samples, 231 (16.6%) were completely negative for any abnormality, 69 (5.0%) showed findings consistent with clonal hematopoiesis of indeterminate potential (CHIP), 2 (0.1%) demonstrated B-cell clonality alone, and 14 (1.0%) showed chromosomal abnormalities without identified mutations. The remaining 1075 cases (78.4%) were positive for mutations with or without additional abnormalities, consistent with primary or metastatic malignancy. cfRNA levels were extremely low in the majority of cases, with expression levels near zero across a significant number of genes. Nevertheless, cellular and cfRNA were adequate for the detection of fusion genes in 68 cases (4.9%) and CAR-T constructs in 5 cases (0.4%) of lymphoid neoplasms previously treated with CAR-T therapy, including cases in which CAR-T cells were undetectable in peripheral blood. These findings suggest that LBx using combined DNA and RNA NGS testing of CSF is a reliable approach that yields potentially practice-changing clinical information.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Genomic Testing Cooperative, United States.",
-        "Washington University, St. Louis, MO, United States.",
-        "Indiana University, Indianapolis, IN, United States.",
-        "John Theurer Cancer Center, Hackensack, NJ, United States.",
-        "Saint John's Cancer Institute, Torrance, CA, United States."
-      ],
-      "doi": "10.1016/j.jlb.2026.100500",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779982/"
-    },
-    {
-      "pmid": "42778830",
-      "title": "Electrochemical Biosensors for Circulating Tumor Cells and ctDNA: Emerging Strategies for Precision Oncology.",
-      "abstract": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and molecular heterogeneity pose analytical challenges that often exceed the sensitivity, specificity, and clinical applicability of conventional platforms. Electrochemical biosensors have emerged as a powerful alternative, distinguished by low detection limits, portability, scalability, and compatibility with point-of-care settings. Unlike previous reviews, this work highlights strategies specifically designed for epithelial-mesenchymal transition (EMT)-associated CTC phenotypes and explores AI- and IoT-enabled implementations for decentralized oncology. A comprehensive evaluation of electrochemical approaches for CTC and ctDNA detection is provided, with emphasis on molecular recognition interfaces, electrode surface engineering, and amperometric, potentiometric, and impedance-based readouts. Recent advances in nanomaterial-enhanced electrodes, aptamer- and antibody-based capture, and nucleic acid-driven amplification, including rolling circle amplification, terminal deoxynucleotidyl transferase (TdT)-mediated polymerization, and DNA nanomachines, are critically examined. Integration with microfluidics, smartphone-based potentiostats, and AI-enhanced analytics for multiplexed profiling is discussed alongside translational challenges such as sensor fouling, matrix interference, fabrication variability, and clinical validation. Emerging solutions, including antifouling surfaces, federated learning frameworks, and ISO-compliant standardization, are outlined to support clinical translation.",
-      "journal": "Annals of biomedical engineering",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Chemistry, Faculty of Science, Kotekli Campus, Mugla Sitki Kocman University, TR48000, Mugla, Turkey.",
-        "Department of Molecular Biology and Genetics, Faculty of Science, Kotekli Campus, Mugla Sitki Kocman University, TR48000, Mugla, Turkey. mehmetvarol@mu.edu.tr."
-      ],
-      "doi": "10.1007/s10439-026-04396-z",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778830/"
-    },
-    {
-      "pmid": "42777175",
-      "title": "Triple-Negative Transformation in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: Tissue Versus Liquid Biopsy in Two Cases.",
-      "abstract": "",
-      "journal": "JCO precision oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Leaders in Oncology Care, London, United Kingdom.",
-        "London Breast Institute, London, United Kingdom.",
-        "Institute for Women's Health, University College London, London, United Kingdom.",
-        "Burjeel Cancer Institute, Burjeel Medical City, Abu Dhabi, UAE.",
-        "Kings College London, London, United Kingdom.",
-        "Datar Cancer Genetics Ltd, Nashik, India.",
-        "Cromwell Hospital, London, United Kingdom."
-      ],
-      "doi": "10.1200/PO-26-00060",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777175/"
-    },
-    {
-      "pmid": "42777092",
-      "title": "Molecular biomarkers for early-stage hepatocellular carcinoma: Clinical applications beyond alpha-fetoprotein.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related death worldwide, owing to late-stage diagnosis and underlying liver disease that limits curative treatment options. Conventional surveillance and diagnostic strategies relying on imaging and alpha-fetoprotein (AFP) lack sufficient sensitivity, particularly for early-stage disease, underscoring the need for more accurate and minimally invasive approaches. Liquid biopsy has emerged as a promising investigational approach for early HCC detection and disease monitoring by enabling analysis of tumor-derived components in circulation. This review summarizes recent advances in liquid biopsy biomarkers for early-stage HCC, including genomic alterations in circulating tumor DNA (ctDNA), DNA methylation markers, circulating microRNAs, exosome-derived non-coding RNAs, and inflammatory markers. Established biomarkers such as AFP, together with complementary biomarkers including PIVKA-II, contribute to HCC risk assessment, while ctDNA alterations, particularly TERT promoter and TP53 mutations, provide insight into early tumorigenesis and molecular heterogeneity. Aberrant methylation of tumor suppressor genes, including RASSF1A, SEPT9, and CDKN2A, represents early molecular events detectable in plasma. Circulating and exosomal microRNAs and long non-coding RNAs (lncRNAs) have demonstrated potential to improve diagnostic accuracy, particularly when incorporated into multi-marker panels. Importantly, these biomarkers vary in their level of clinical validation, ranging from guideline-integrated markers to emerging candidates that still require further standardization and prospective validation. Integrating validated biomarkers with novel epigenetic and RNA-based signatures holds substantial promise for improving early detection, patient stratification, and therapeutic decision-making in HCC.",
-      "journal": "The International journal of biological markers",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy.",
-        "Basic and Translational Oncology Unit, Veneto Institute of Oncology IOV-IRCCS, Padova, Italy.",
-        "Gastroenterology/Multivisceral Transplant Unit, Padua University Hospital, Padova, Italy."
-      ],
-      "doi": "10.1177/03936155261476073",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777092/"
     }
   ],
   "signals": [
@@ -494,76 +493,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42778830",
+      "id": "pubmed-42781301",
       "date": "2026-09-23",
-      "title": "Electrochemical Biosensors for Circulating Tumor Cells and ctDNA: Emerging Strategies for Precision Oncology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778830/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42778830。",
-      "report": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42777175",
-      "date": "2026-09-23",
-      "title": "Triple-Negative Transformation in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: Tissue Versus Liquid Biopsy in Two Cases.",
+      "title": "An inertial-based spiral device for separating rare tumor cells from liquid biopsies.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777175/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42777175。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42777092",
-      "date": "2026-09-23",
-      "title": "Molecular biomarkers for early-stage hepatocellular carcinoma: Clinical applications beyond alpha-fetoprotein.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777092/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781301/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -578,8 +517,8 @@
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The International journal of biological markers，PMID 为 42777092。",
-      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related death worldwide, owing to late-stage diagnosis and underlying liver disease that limits curative treatment options. Conventional surveillance and diagnostic strategies relying on imaging...",
+      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42781301。",
+      "report": "Early detection of primary tumors and metastatic processes increases the success of anti-tumor therapies and favors good prognoses. Within the current range of methods available to detect the presence of tumors, liquid biopsy is receiving particular attention...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -673,67 +612,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42779813",
-      "date": "2026-09-20",
-      "title": "A lifespan single-cell atlas of the human developing hippocampus benchmarks familial Alzheimer's disease brain organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779813/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779813。",
-      "report": "Familial Alzheimer's disease (fAD) is an early-onset form of AD caused by autosomal-dominant variants in APP, PSEN1, or PSEN2, with PSEN1 accounting for most genetically defined cases [1]. The hippocampus is among the earliest and most severely affected brain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42764027",
-      "date": "2026-09-20",
-      "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42764027/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioresource technology，PMID 为 42764027。",
-      "report": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42780025",
       "date": "2026-09-18",
       "title": "Extracellular matrix proteoglycans lumican and biglycan promote innate immune signals and viral clearance in HSV-1 infections of mouse corneas.",
@@ -818,6 +696,39 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42779796。",
       "report": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging. Such hydrated surfaces and flexible molecules, including carbohydrates, provide few of the hydrophobic contac...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42781320",
+      "date": "2026-09-18",
+      "title": "Therapeutic Potential of Exosomes in Bone Infection: Mechanisms of Action, Engineering Strategies, and Translational Applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781320/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "衰老",
+        "biomarker",
+        "longevity"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 42781320。",
+      "report": "Bone infections, including chronic osteomyelitis, implant-associated infection, and infected bone defects, remain among the most refractory challenges in orthopedics, as they involve persistent microbial retention together with defective bone regeneration. The...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1052,32 +963,92 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42779982",
-      "date": "2026-09-12",
-      "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors.",
+      "id": "pubmed-42781149",
+      "date": "2026-09-09",
+      "title": "Advances and prospects of 3D air-liquid interface cultured middle ear epithelial cells and inner ear organoids in otologic diseases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781149/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42781149。",
+      "report": "Hearing loss and vestibular disorders represent major otologic disease challenges. Traditional disease models struggle to accurately mimic human otologic pathologies due to species differences and limited physiological relevance. Recent advancements in otic vi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780513",
+      "date": "2026-09-09",
+      "title": "ctDNA and immune biomarker testing for molecular residual disease surveillance and immune stratification in cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780513/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42780513。",
+      "report": "Molecular residual disease (MRD) refers to occult cancer persisting below the detection limit of conventional imaging and is a major source of later relapse. Circulating tumor DNA (ctDNA) provides a minimally invasive molecular surrogate of residual disease, b...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42780346",
+      "date": "2026-09-09",
+      "title": "Editorial: Liquid biopsy biomarkers for cancer detection, treatment monitoring, and clinical outcome prediction.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779982/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42780346/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "肿瘤"
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42779982。",
-      "report": "Cerebrospinal fluid (CSF) is a relatively accessible biospecimen, and liquid biopsy (LBx) testing using next-generation sequencing (NGS) provides actionable information on genomic abnormalities that can guide clinical decisions and therapeutic selection. To ev...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42780346。",
+      "report": "Infographic illustrating liquid biopsy as a dynamic window into cancer, highlighting multiple biomarker sources such as tumor cells, DNA, RNA, extracellular vesicles, immune and stromal cells, and platelets. A workflow depicts integrated, longitudinal sampling...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1108,38 +1079,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42780150。",
       "report": "Spinal glioblastoma (GBM) is an exceptionally rare entity and poses significant diagnostic challenges due to a substantial risk of neurological morbidity with surgical biopsy. Tissue-based analyses are frequently limited by sampling constraints and tumor heter...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42779998",
-      "date": "2026-09-09",
-      "title": "A case of invasive lobular carcinoma with signet-ring-cell differentiation treated with multidisciplinary therapy: a rare case report.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42779998/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42779998。",
-      "report": "Invasive lobular carcinoma (ILC) with signet-ring-cell (SRC) differentiation of the breast is a relatively rare disease and is reported to frequently metastasize to the gastrointestinal and urinary systems. A 66-year-old woman presented for routine breast canc...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1182,6 +1121,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42781024",
+      "date": "2026-09-08",
+      "title": "Diagnosis and treatment decision of an IDH-mutant glioma through CSF-based cfDNA sequencing.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781024/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology advances，PMID 为 42781024。",
+      "report": "Classification of tumors of the central nervous system currently requires tumor tissue analysis for histology and molecular markers, according to the 2021 WHO Classification of Tumors of the Central Nervous System. Cerebrospinal fluid (CSF)-based cell-free DNA...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1213,6 +1180,34 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42781471",
+      "date": "2026-06-22",
+      "title": "Computational design of 3C-like protease substrate peptide for modular detection of protease activity of coronavirus.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42781471/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Engineering in life sciences，PMID 为 42781471。",
+      "report": "The severity of the recent Coronavirus Disease 2019 pandemic stresses the importance of analytical and biosensor research aimed at determining and curbing disease severity. It demanded an easy-to-adapt method to reflect the infectivity of viruses. The critical...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
