@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-24T04:58:34.825222+00:00",
+  "capturedAt": "2026-09-24T11:53:56.004230+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-24"
   },
   "pmids": [
+    "42778940",
+    "42778607",
     "42778405",
     "42778113",
     "42777921",
     "42777387",
-    "42777084",
-    "42777043",
     "42775042",
     "42771879",
     "42758091",
@@ -32,14 +32,55 @@
     "42769965",
     "42764027",
     "42763120",
+    "42778830",
     "42777175",
     "42777092",
     "42776860",
     "42776741",
-    "42776739",
-    "42776677"
+    "42776739"
   ],
   "records": [
+    {
+      "pmid": "42778940",
+      "title": "Targeting the DNA-repair chromatin-modifier protein SMYD3 as a novel epigenetics-based therapy for gastric cancer.",
+      "abstract": "SMYD3 is a histone methyltransferase implicated in cancer progression and is overexpressed in several malignancies, including gastric cancer (GC). Building on previous evidence linking SMYD3 to DNA damage repair, we investigated the molecular mechanisms through which SMYD3 regulates double-strand break (DSB) repair in GC and evaluated its therapeutic potential. In silico and in vitro analyses were performed to investigate the interactions between SMYD3 and key homologous recombination (HR) proteins, and to evaluate the ATM-mediated phosphorylation of SMYD3. Functional assays assessed the impact of pharmacological SMYD3 inhibition on HR and non-homologous end joining (NHEJ) repair pathways. Mechanistically, SMYD3 interacted with key HR factors and facilitated chromatin remodeling at damaged sites. ATM phosphorylated SMYD3 at threonine 22, a modification required for HR complex assembly and validated in GC patient samples following neoadjuvant chemotherapy. Inhibition of SMYD3 abolished HR and partially impaired NHEJ. Combined inhibition of SMYD3 and PARP induced synthetic lethality in GC cells, spheroids, and patient-derived organoids, and overcame resistance to olaparib. These findings reveal the ATM-dependent molecular mechanism by which SMYD3 regulates DNA DSB repair, further supporting SMYD3 as a promising therapeutic target for precision oncology strategies in GC.",
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy.",
+        "Department of Molecular Medicine, Sapienza University of Rome, Rome, 00161, Italy.",
+        "Core Facility Biobank, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, Italy.",
+        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy. valentina.grossi@irccsdebellis.it.",
+        "Medical Genetics, National Institute of Gastroenterology, IRCCS \"Saverio de Bellis\" Research Hospital, Castellana Grotte, BA, 70013 , Italy. cristiano.simone@irccsdebellis.it.",
+        "Department of Precision and Regenerative Medicine and Jonic Area (DiMePRe- J), University of Bari Aldo Moro, Bari, Italy. cristiano.simone@irccsdebellis.it."
+      ],
+      "doi": "10.1186/s13046-026-03823-2",
+      "date": "2026-09-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778940/"
+    },
+    {
+      "pmid": "42778607",
+      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis.",
+      "abstract": "Tuberous sclerosis complex (TSC) is a genetic neurodevelopmental disorder characterized by focal brain malformations called cortical tubers, which are associated with severe, intractable epilepsy1. Tubers are thought to result from somatic second-hit mutations that disrupt the TSC1 or TSC2 genes in neural progenitor cells, driving hyperactive mTORC1 signalling2. Glial abnormalities are commonly observed in tubers3; however, whether glia actively cause disease or merely result from chronic seizure activity has remained unclear. To address this question, we used human brain organoid models to track the developmental fate of mutated progenitor cells in the absence of seizures. Here we show, using single-cell transcriptomics and cyclic immunostaining across human brain organoids and resected tuber tissue from patients, that loss of TSC2 biases neural progenitors to differentiate into enlarged, pro-inflammatory reactive astrocytes in a cell autonomous manner. These mutant astrocytes show downregulated glutamate transporter expression, increased inflammatory cytokine secretion and elevated expression of neurodegenerative disease risk genes such as APOE and CLU. Our findings demonstrate that reactive astrocytes emerge as a primary consequence of TSC2 loss. These results implicate glial dysfunction as a driver of TSC pathogenesis and highlight reactive astrocytes as potential therapeutic targets for TSC-related neuropathology.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Neurosurgery, Lucile Packard Children's Hospital and Stanford University Medical Center, Stanford, CA, USA.",
+        "Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA, USA.",
+        "Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA.",
+        "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, USA. bateup@berkeley.edu.",
+        "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA. bateup@berkeley.edu."
+      ],
+      "doi": "10.1038/s41586-026-11054-w",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778607/"
+    },
     {
       "pmid": "42778405",
       "title": "The spatiotemporal ecosystem of gallbladder cancer: From inflamed areas to invasive margins - Integrating biomechanical injury, the bile microenvironment, precursor lineages, and spatial niches.",
@@ -117,50 +158,6 @@
       "doi": "10.1016/j.bioorg.2026.110571",
       "date": "2026-09-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777387/"
-    },
-    {
-      "pmid": "42777084",
-      "title": "SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer.",
-      "abstract": "Small cell lung cancer (SCLC) represents the most lethal subtype of lung carcinoma. Platinum-based agents, such as cisplatin and carboplatin, remain the cornerstone of first-line therapy for patients with SCLC, whether administered as chemotherapy alone or in combination with immunotherapy. However, patients frequently develop platinum resistance within a short time frame, leading to therapeutic failure. The molecular mechanisms underlying platinum resistance in SCLC require further investigation, given that effective intervention strategies remain elusive. Through multiomic analysis integrating transcriptomic data from cisplatin-resistant PDX tissues and the IMpower133 SCLC cohort study and translatomic data from SCLC cells, we identified a platinum resistance-associated noncanonical open reading frame derived from MIR7-3HG. This noncanonical ORF encodes an unannotated 128-amino acid protein, designated SCRMP (SCLC cisplatin resistance-associated microprotein). SCRMP was up-regulated in cisplatin-resistant SCLC tissues and cell lines, and its elevated expression strongly correlated with impaired platinum response and unfavorable survival outcomes in patients. CRISPR-Cas9-mediated SCRMP knockout restored cisplatin sensitivity and promoted apoptosis in SCLC cells, platinum-resistant patient-derived organoids in vitro, and patient-derived xenografts in vivo. Mechanistically, SCRMP potentiated platinum resistance by mediating SUMOylation and nuclear translocation of CSNK2B, which stabilized the RBBP4-p300 complex. This stabilization activated transcription of RAD51C and associated DNA damage repair genes through histone acetylation, ultimately promoting therapeutic resistance. Our study systematically elucidates the biological function of SCRMP in SCLC platinum resistance and delineates its specific molecular mechanism in regulating DNA damage repair, thereby providing theoretical foundations and potential intervention strategies for overcoming platinum resistance in SCLC.",
-      "journal": "Science translational medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oncology, Oncology Laboratory of Medical Science and Technology Innovation Center, Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School of Nanjing Medical University, Suzhou, Jiangsu Province, China.",
-        "Department of Transfusion Medicine, Key Laboratory of Jiangxi Province for Transfusion Medicine, First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi Province, China.",
-        "Huzhou Centre Hospital, Affiliated Centre Hospital Huzhou University, Huzhou, Zhejiang Province, China.",
-        "Department of Oncology, Second Affiliated Hospital, Nanjing Medical University, Nanjing, Jiangsu Province, China.",
-        "Department of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Nanjing Medical University, Nanjing, Jiangsu Province, China."
-      ],
-      "doi": "10.1126/scitranslmed.aea5653",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777084/"
-    },
-    {
-      "pmid": "42777043",
-      "title": "RNF43 p.G659fs leads to natural killer cell dysfunction in MSI-high colorectal cancer through PI3K/AKT/mTOR signaling and HLA-E up-regulation.",
-      "abstract": "The RNF43 p.G659fs (RNF43659mut) mutation occurs in 8% of colorectal cancers (CRCs) and is enriched in microsatellite instability-high (MSI-H) tumors. Although RNF43659mut promotes tumor growth through phosphatidylinositol 3-kinase/protein kinase B/mechanistic target of rapamycin (PI3K/AKT/mTOR) activation independent of WNT signaling, its immunologic effects are poorly defined. We show that RNF43659mut shapes an immunosuppressive natural killer (NK) cell landscape in MSI-H CRC. Single-cell RNA sequencing and multiplex immunohistochemistry revealed increased NK cell infiltration in RNF43659mut tumors, yet these cells displayed inhibitory phenotypes. Bulk RNA sequencing and flow cytometry of NK cells cocultured with RNF43659mut isogenic lines and MSI-H patient-derived organoids demonstrated reduced functional NK subsets, decreased activation markers, increased inhibitory receptors, and impaired cytotoxicity. Mechanistically, RNF43659mut-mediated PI3K/AKT activation induced HLA-E expression, suppressing NK cell function. Pharmacological or small interfering RNA-mediated PI3K/AKT inhibition restored NK cell activity and enhanced tumor cell killing. Spatial analysis of MSI-H patient tumors revealed close proximity between NKG2A+NK cells and HLA-E+ tumor cells, which were themselves adjacent to PI3K/AKT-activated tumor cells, highlighting a localized immunosuppressive niche. These findings uncover an immune evasion mechanism in MSI-H CRC, implicating the PI3K/AKT-HLA-E/NKG2A axis as a promising therapeutic target to overcome immunotherapy resistance.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.",
-        "Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
-        "Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA.",
-        "Translational Medicine Research Unit, Medical Research Center Oulu, Oulu University Hospital, and University of Oulu, Oulu, Finland.",
-        "Department of Pathology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.",
-        "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
-        "Division of Integrative Cancer Research, National Cancer Center Research Institute, Tokyo, Japan.",
-        "Harvard Medical School, Boston, MA, USA.",
-        "Department of Medicine, Massachusetts General Hospital Cancer Center, Boston, MA, USA.",
-        "Cancer Immunology and Cancer Epidemiology Programs, Dana-Farber Harvard Cancer Center, Boston, MA, USA.",
-        "Institute of Science Tokyo, Tokyo, Japan."
-      ],
-      "doi": "10.1126/sciadv.adz6907",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777043/"
     },
     {
       "pmid": "42775042",
@@ -386,6 +383,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763120/"
     },
     {
+      "pmid": "42778830",
+      "title": "Electrochemical Biosensors for Circulating Tumor Cells and ctDNA: Emerging Strategies for Precision Oncology.",
+      "abstract": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and molecular heterogeneity pose analytical challenges that often exceed the sensitivity, specificity, and clinical applicability of conventional platforms. Electrochemical biosensors have emerged as a powerful alternative, distinguished by low detection limits, portability, scalability, and compatibility with point-of-care settings. Unlike previous reviews, this work highlights strategies specifically designed for epithelial-mesenchymal transition (EMT)-associated CTC phenotypes and explores AI- and IoT-enabled implementations for decentralized oncology. A comprehensive evaluation of electrochemical approaches for CTC and ctDNA detection is provided, with emphasis on molecular recognition interfaces, electrode surface engineering, and amperometric, potentiometric, and impedance-based readouts. Recent advances in nanomaterial-enhanced electrodes, aptamer- and antibody-based capture, and nucleic acid-driven amplification, including rolling circle amplification, terminal deoxynucleotidyl transferase (TdT)-mediated polymerization, and DNA nanomachines, are critically examined. Integration with microfluidics, smartphone-based potentiostats, and AI-enhanced analytics for multiplexed profiling is discussed alongside translational challenges such as sensor fouling, matrix interference, fabrication variability, and clinical validation. Emerging solutions, including antifouling surfaces, federated learning frameworks, and ISO-compliant standardization, are outlined to support clinical translation.",
+      "journal": "Annals of biomedical engineering",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Faculty of Science, Kotekli Campus, Mugla Sitki Kocman University, TR48000, Mugla, Turkey.",
+        "Department of Molecular Biology and Genetics, Faculty of Science, Kotekli Campus, Mugla Sitki Kocman University, TR48000, Mugla, Turkey. mehmetvarol@mu.edu.tr."
+      ],
+      "doi": "10.1007/s10439-026-04396-z",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778830/"
+    },
+    {
       "pmid": "42777175",
       "title": "Triple-Negative Transformation in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer: Tissue Versus Liquid Biopsy in Two Cases.",
       "abstract": "",
@@ -479,28 +493,39 @@
       "doi": "10.3390/ncrna12050033",
       "date": "2026-08-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776739/"
-    },
-    {
-      "pmid": "42776677",
-      "title": "Evaluating Cell-Free DNA Quantification and Integrity in Breast Cancer Using Fluorometric, Electrophoretic and PCR-Based Platforms.",
-      "abstract": "Cell-free DNA (cfDNA) has emerged as a promising liquid biopsy biomarker; however, differences in analytical methods may influence cfDNA quantification and integrity assessment. This study compared plasma cfDNA concentration and integrity between treatment-naïve breast cancer (BC) patients (n = 100) and healthy controls (HC; n = 70) using complementary analytical platforms. cfDNA concentration was measured by Qubit fluorometry, TapeStation (TS) electrophoretic profiling, and ALU-based quantitative PCR (qPCR). An exploratory genomic DNA (gDNA) correction of Qubit-derived cfDNA concentration was performed using TS-derived fragment-size information. cfDNA integrity was assessed using the ALU-derived DNA Integrity Index (DII (ALU); ALU247/ALU115) and the TS-derived DNA Integrity Index (DII (TS)), and methods were compared for their correlation and agreement. Qubit- and TS-based cfDNA measurements were significantly higher in BC patients than in HC. Among the ALU-based qPCR measures, although ALU115 did not differ significantly between groups, ALU247 and DII (ALU) were significantly higher in BC patients, indicating an enrichment of longer cfDNA fragments. Exploratory gDNA correction did not substantially alter the observed differences. Significant positive correlations were observed among the cfDNA quantification methods. Supporting these findings, agreement analysis demonstrated improved agreement following gDNA correction. In contrast, cfDNA integrity assessment was method-dependent: although DII (ALU) was significantly higher in BC patients, DII (TS) did not differ significantly between groups, and no significant correlation or agreement was observed between the two indices, indicating that the two methods evaluate different lengths of cfDNA fragments. These findings demonstrate that complementary analytical platforms consistently differentiated BC patients from HC based on cfDNA concentration, whereas cfDNA integrity assessment depended on the analytical method employed. Together, these findings provide methodological insights into cfDNA quantification and fragmentation assessment and support the complementary use of fluorometric, electrophoretic, and ALU-based qPCR approaches for comprehensive cfDNA characterization.",
-      "journal": "Methods and protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Molecular Medicine, St. John's Research Institute (SJRI), Bangalore 560034, India.",
-        "Department of Endocrinology, St John's National Academy of Health Sciences (SJMCH), Bangalore 560034, India.",
-        "St. John's Medical College (SJMC), Bangalore 560034, India.",
-        "Department of Surgical Oncology, St John's National Academy of Health Sciences (SJMCH), Bangalore 560034, India.",
-        "Department of Biochemistry, St. John's Medical College (SJMC), Bangalore 560034, India."
-      ],
-      "doi": "10.3390/mps9050124",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776677/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42778607",
+      "date": "2026-09-23",
+      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778607/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42778607。",
+      "report": "Tuberous sclerosis complex (TSC) is a genetic neurodevelopmental disorder characterized by focal brain malformations called cortical tubers, which are associated with severe, intractable epilepsy1. Tubers are thought to result from somatic second-hit mutations...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42778113",
       "date": "2026-09-23",
@@ -564,70 +589,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42777084",
-      "date": "2026-09-23",
-      "title": "SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777084/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science translational medicine，PMID 为 42777084。",
-      "report": "Small cell lung cancer (SCLC) represents the most lethal subtype of lung carcinoma. Platinum-based agents, such as cisplatin and carboplatin, remain the cornerstone of first-line therapy for patients with SCLC, whether administered as chemotherapy alone or in...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42777043",
-      "date": "2026-09-23",
-      "title": "RNF43 p.G659fs leads to natural killer cell dysfunction in MSI-high colorectal cancer through PI3K/AKT/mTOR signaling and HLA-E up-regulation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42777043/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42777043。",
-      "report": "The RNF43 p.G659fs (RNF43659mut) mutation occurs in 8% of colorectal cancers (CRCs) and is enriched in microsatellite instability-high (MSI-H) tumors. Although RNF43659mut promotes tumor growth through phosphatidylinositol 3-kinase/protein kinase B/mechanistic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42773890",
       "date": "2026-09-23",
       "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
@@ -654,6 +615,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of biomolecular structure & dynamics，PMID 为 42773890。",
       "report": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we de...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42778830",
+      "date": "2026-09-23",
+      "title": "Electrochemical Biosensors for Circulating Tumor Cells and ctDNA: Emerging Strategies for Precision Oncology.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778830/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42778830。",
+      "report": "Circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) are pivotal biomarkers in liquid biopsy, providing minimally invasive access to tumor dynamics for monitoring disease progression, treatment response, and resistance. However, their scarcity and...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1064,6 +1055,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42778940",
+      "date": "2026-09-12",
+      "title": "Targeting the DNA-repair chromatin-modifier protein SMYD3 as a novel epigenetics-based therapy for gastric cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42778940/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42778940。",
+      "report": "SMYD3 is a histone methyltransferase implicated in cancer progression and is overexpressed in several malignancies, including gastric cancer (GC). Building on previous evidence linking SMYD3 to DNA damage repair, we investigated the molecular mechanisms throug...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42775042",
       "date": "2026-09-08",
       "title": "Toward trustworthy virtual cells: a roadmap for perturbation-resolved, context-aware, and experimentally validated cell models.",
@@ -1226,36 +1247,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advances in protein chemistry and structural biology，PMID 为 42763120。",
       "report": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nu...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42776677",
-      "date": "2026-08-24",
-      "title": "Evaluating Cell-Free DNA Quantification and Integrity in Breast Cancer Using Fluorometric, Electrophoretic and PCR-Based Platforms.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42776677/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Methods and protocols，PMID 为 42776677。",
-      "report": "Cell-free DNA (cfDNA) has emerged as a promising liquid biopsy biomarker; however, differences in analytical methods may influence cfDNA quantification and integrity assessment. This study compared plasma cfDNA concentration and integrity between treatment-naï...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
