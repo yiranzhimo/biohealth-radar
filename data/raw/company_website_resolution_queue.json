@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-24T08:30:50+00:00",
-  "count": 592,
+  "capturedAt": "2026-09-25T08:52:29+00:00",
+  "count": 590,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -2326,23 +2326,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-ayr-wellness",
-      "name": "Ayr Wellness Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001847462",
-      "identifiers": {
-        "cik": [
-          "0001847462"
-        ],
-        "ticker": [
-          "AYRWF"
-        ]
-      },
-      "sourceTypes": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-aytu-biopharma",
       "name": "Aytu Biopharma, Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001385818",
@@ -4470,23 +4453,6 @@
         ],
         "ticker": [
           "CNSP"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cocrystal-pharma",
-      "name": "Cocrystal Pharma, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001412486",
-      "identifiers": {
-        "cik": [
-          "0001412486"
-        ],
-        "ticker": [
-          "COCP"
         ]
       },
       "sourceTypes": [
