@@ -821,6 +821,145 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42789730",
+      "date": "2026-09-25",
+      "title": "TRAF7 mutations stabilize K/NRAS and hyperactivate MAPK signaling to cause CAFDADD neurodevelopmental defects.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789730/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789730。",
+      "report": "The MAPK-ERK1/2 pathway plays a crucial role in neurodevelopment during embryogenesis, and the hyperactivation of this signaling cascade serves as a pathological hallmark for various neurodevelopmental disorders. Germline variants in TRAF7, encoding a RING-typ...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_048fb478e0fbf4e9006ab6e9dc529c87d2898e0f0328c8d55c",
+        "reviewedAt": "2026-09-25T21:38:35.086478+00:00",
+        "inputHash": "8e62a1f60bc416926eaeb769d199b02ceba8c884dd7df5351e98fef2567a1a0d",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片正确报告了关于TRAF7突变及其对MAPK信号通路的影响，没有经验性结论。分类和证据级别合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合报告内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理清晰分离，证据级别合适。"
+        },
+        "riskFlags": [
+          "medical_advice_risk"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789730。",
+          "report": "The MAPK-ERK1/2 pathway plays a crucial role in neurodevelopment during embryogenesis, and the hyperactivation of this signaling cascade serves as a pathological hallmark for various neurodevelopmental disorders. Germline variants in TRAF7, encoding a RING-typ...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42789533",
+      "date": "2026-09-25",
+      "title": "Targeted lysosomal activation in bladder epithelium enhances clearance of intracellular uropathogenic Escherichia coli.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789533/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PLoS pathogens，PMID 为 42789533。",
+      "report": "Recurrent urinary tract infections (UTIs) are a major clinical burden, driven in part by the ability of uropathogenic Escherichia coli (UPEC) to establish intracellular niches within the bladder epithelium, where bacteria withstand antibiotics and host defense...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00a6a9ddc88bbf3d006ab6e9e01a5887d2a6e0b2f953da979c",
+        "reviewedAt": "2026-09-25T21:38:35.086478+00:00",
+        "inputHash": "9ddbcc4ea6bcc29610e3024ec3cd0ef7c6a3f8a666836faa71690faf927ffc37",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以评估临床结论的支持情况。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类似乎过于宽泛，未能充分支持临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平未达到高质量研究标准。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 PLoS pathogens，PMID 为 42789533。",
+          "report": "Recurrent urinary tract infections (UTIs) are a major clinical burden, driven in part by the ability of uropathogenic Escherichia coli (UPEC) to establish intracellular niches within the bladder epithelium, where bacteria withstand antibiotics and host defense...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42788857",
       "date": "2026-09-25",
       "title": "AI-integrated human-relevant alternatives to animal experimentation in drug development: Toward a predictive translational ecosystem, from in vitro and in silico models to clinical and real-world evidence.",
@@ -1050,70 +1189,72 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42788198",
+      "id": "pubmed-42789724",
       "date": "2026-09-25",
-      "title": "Timing and Dosage of Notch Inhibition and Wnt Activation Enhanced Hair Cell-Like Cell Generation and Stereocilia Elongation in Otic Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788198/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789724/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42788198。",
-      "report": "The modulation of Notch and Wnt signaling was evaluated for its ability to promote the differentiation and maturation of hair cell (HC)-like cells in otic organoids derived from mouse embryonic stem cells (mESCs). Using R1/E mESCs, we generated otic organoids...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789724。",
+      "report": "While protein ubiquitination has been extensively studied, the roles of unanchored ubiquitin and its chains remain less understood, largely due to a lack of specific, high-affinity tools for their enrichment and visualization. To address this, we used high-thr...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_068c0b6df96cc901006ab6ac95662087d2898bf88c4ea6addf",
-        "reviewedAt": "2026-09-25T17:16:50.019784+00:00",
-        "inputHash": "cbbb9f3b2ab2cf78e568151cad8ad9d10c6475bf90e40de92559634c5837a9e2",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信息记录清晰，无不明确结论，符合发布标准。",
+        "responseId": "resp_00ba1156e1c9b192006ab6e9e4714c87d29c12bbb380aa6722",
+        "reviewedAt": "2026-09-25T21:38:35.086478+00:00",
+        "inputHash": "5724a80fd76af740e076d63fafdeee2c7ae301ea3dbc1a9132f475f14e513776",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确保信息的准确性和完整性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合研究内容。"
+          "isSupported": false,
+          "notesCn": "主类别和子类别定位可能不准确。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论区分清晰，证据级别合理。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平分类为中等，但与报告内容支持的包含性不符。"
         },
         "riskFlags": [
-          "insufficient_source"
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Low",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models"
+            "AI for Biology",
+            "Drug Discovery"
           ],
           "tags": [
-            "类器官",
-            "疾病模型"
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Stem cells and development，PMID 为 42788198。",
-          "report": "The modulation of Notch and Wnt signaling was evaluated for its ability to promote the differentiation and maturation of hair cell (HC)-like cells in otic organoids derived from mouse embryonic stem cells (mESCs). Using R1/E mESCs, we generated otic organoids...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789724。",
+          "report": "While protein ubiquitination has been extensively studied, the roles of unanchored ubiquitin and its chains remain less understood, largely due to a lack of specific, high-affinity tools for their enrichment and visualization. To address this, we used high-thr...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1842,86 +1983,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
           "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42773138",
-      "date": "2026-09-22",
-      "title": "Generative AI designs functional thiolation domains for reprogramming non-ribosomal peptide synthetases.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773138/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42773138。",
-      "report": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide s...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_000f4c51cfc4805e006ab3bc0afd1c87d0a7ffdcd413f85f42",
-        "reviewedAt": "2026-09-23T11:45:49.186828+00:00",
-        "inputHash": "0d7e96842bda4b0fffa8773ae11a85e5d52d6b067af98a12744c4ab3283fec0b",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审核以确保准确性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "当前分类与研究内容不完全匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管收录于高可靠性期刊，但证据水平被标记为中等，可能不足以支持该类研究预期。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Healthcare AI",
-            "Medical LLM"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "医疗 AI",
-            "临床决策支持"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42773138。",
-          "report": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide s...",
-          "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2673,88 +2734,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: FORM 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42788004",
-      "date": "2026-09-14",
-      "title": "Integrated chromatin accessibility and transcriptomic profiling provide insights into inflammation-associated endothelial remodeling in capillary malformations.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788004/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell signaling, inflammation and disease，PMID 为 42788004。",
-      "report": "Capillary malformation (CM) is a congenital vascular anomaly yet the regulatory mechanisms driving endothelial remodeling remain incompletely defined. Our previous data have shown that CM lesion-derived induced pluripotent stem cells (iPSCs), their induced ECs...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c136ef5939dea67006ab6aca7fa9487d2960f4ff099f9d7a5",
-        "reviewedAt": "2026-09-25T17:16:50.019784+00:00",
-        "inputHash": "94b8c35cb04f789a01cc7c03c4f7db560b5ad2d6dc2e8f06ef83d6e62560acf6",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的记录清楚地区分了事实、报告和推论，并且没有未经证实的临床结论，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cell signaling, inflammation and disease，PMID 为 42788004。",
-          "report": "Capillary malformation (CM) is a congenital vascular anomaly yet the regulatory mechanisms driving endothelial remodeling remain incompletely defined. Our previous data have shown that CM lesion-derived induced pluripotent stem cells (iPSCs), their induced ECs...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
