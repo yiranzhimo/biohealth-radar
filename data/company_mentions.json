@@ -4,31 +4,111 @@
   "asOfDate": "2026-09-25",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-6b89488c4da5d2f8",
-      "observedName": "UroGen Pharma Ltd.",
-      "normalizedName": "urogen pharma",
+      "id": "mention-clinicaltrials-0b1e53755a01f617",
+      "observedName": "Guangzhou Bio-gene Technology Co., Ltd",
+      "normalizedName": "guangzhou bio gene technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05243550",
-      "sourceDate": "2026-05-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05243550",
+      "sourceRecordId": "NCT07195617",
+      "sourceDate": "2026-05-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07195617",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "临床试验",
+        "精准医疗",
+        "细胞治疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Clinical Study on Evaluating the Safety and Effectiveness of BCMA-GPRC5D CAR-T in Patients With Relapsed/Refractory Multiple Myeloma Who Have Received Third-line or Above Treatment"
+    },
+    {
+      "id": "mention-clinicaltrials-1ae0f1d8ffdd9e0e",
+      "observedName": "Chongqing Kingbiotech Co.,Ltd",
+      "normalizedName": "chongqing kingbiotech",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07528079",
+      "sourceDate": "2026-04-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07528079",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Organoid-based Sensitivity-guided Chemotherapy for Advanced / Refractory Pediatric Tumors"
+    },
+    {
+      "id": "mention-clinicaltrials-47f422679d972d53",
+      "observedName": "Merit Medical Systems, Inc.",
+      "normalizedName": "merit medical systems",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01387932",
+      "sourceDate": "2021-11-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01387932",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
         "临床试验",
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Phase 3 Single-Arm Study of UGN-102 for Treatment of Low-Grade Intermediate-Risk Non-Muscle Invasive Bladder Cancer"
+      "contextTitle": "HepaSphere/Quadrasphere Microspheres for Delivery of Doxorubicin for the Treatment of Hepatocellular Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-e52de86abcd7f06a",
+      "observedName": "CSA Medical, Inc.",
+      "normalizedName": "csa medical",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT02464904",
+      "sourceDate": "2022-02-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02464904",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Intrapleural Cryotherapy for Malignant Pleural Mesothelioma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

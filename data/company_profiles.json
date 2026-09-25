@@ -45245,24 +45245,12 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-pubmed-42786283",
           "evidence-company-hub-organoids-official-1eeafe45faa0"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
-          {
-            "id": "event-pubmed-42786283",
-            "date": "2026-09-24",
-            "title": "Hepatitis B virus protein X promotes survival and loss of hepatocyte identity in a differentiated human liver organoid system.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-pubmed-42786283",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786283/"
-          },
           {
             "id": "event-evidence-company-hub-organoids-official-1eeafe45faa0",
             "date": "2026-09-02",
@@ -45282,12 +45270,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 2,
+        "evidenceCount": 1,
         "evidenceBySourceType": {
-          "Company": 1,
-          "Paper": 1
+          "Company": 1
         },
-        "lastEvidenceDate": "2026-09-24",
+        "lastEvidenceDate": "2026-09-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -45295,17 +45282,6 @@
         ]
       },
       "recentEvents": [
-        {
-          "id": "event-pubmed-42786283",
-          "date": "2026-09-24",
-          "title": "Hepatitis B virus protein X promotes survival and loss of hepatocyte identity in a differentiated human liver organoid system.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-pubmed-42786283",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786283/"
-        },
         {
           "id": "event-evidence-company-hub-organoids-official-1eeafe45faa0",
           "date": "2026-09-02",
