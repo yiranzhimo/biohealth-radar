@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-25T05:03:10.297190+00:00",
+  "capturedAt": "2026-09-25T11:56:30.416036+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,149 +14,157 @@
     "end": "2026-09-25"
   },
   "pmids": [
-    "42785563",
-    "42785530",
-    "42785431",
-    "42785308",
-    "42785297",
-    "42785293",
+    "42786574",
+    "42786507",
+    "42786260",
+    "42786251",
+    "42786283",
+    "42786242",
     "42782810",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
     "42753692",
+    "42786569",
     "42782445",
     "42781471",
     "42779796",
     "42773890",
     "42773138",
-    "42771506",
+    "42786876",
+    "42786871",
+    "42786656",
     "42786081",
     "42785920",
-    "42785357",
-    "42785304",
-    "42785009",
-    "42784010"
+    "42785357"
   ],
   "records": [
     {
-      "pmid": "42785563",
-      "title": "Human brain organoids and neural progenitor cells model Oropouche virus infection and reveal varied responses to antiviral therapies.",
-      "abstract": "",
-      "journal": "Virologica Sinica",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology and Hepatology, Erasmus MC-University Medical Center, 3015 GD, Rotterdam, the Netherlands.",
-        "Department of Developmental Biology, Erasmus MC-University Medical Center, 3015 GD, Rotterdam, the Netherlands.",
-        "Department of Developmental Biology, Erasmus MC-University Medical Center, 3015 GD, Rotterdam, the Netherlands. Electronic address: d.vandenberg@erasmusmc.nl.",
-        "Department of Gastroenterology and Hepatology, Erasmus MC-University Medical Center, 3015 GD, Rotterdam, the Netherlands. Electronic address: q.pan@erasmusmc.nl."
-      ],
-      "doi": "10.1016/j.virs.2026.09.011",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785563/"
-    },
-    {
-      "pmid": "42785530",
-      "title": "Zhuche Pill alleviates DSS-induced colonic epithelial injury in mice: involvement of IL-17/NF-κB and Wnt/β-catenin signaling pathways.",
-      "abstract": "Zhuche Pill (ZCP), a traditional Chinese medicine formula first documented in Qianjin Yaofang during the Tang Dynasty, has been used for centuries to treat dysentery-associated gastrointestinal disorders, including abdominal pain, diarrhea, hematochezia, and tenesmus. Despite the long-standing clinical application of ZCP, the pharmacological basis underlying its therapeutic effects remains incompletely understood. This study aims to evaluate the protective effects of ZCP against colitis and explore its potential underlying mechanisms. The efficacy of ZCP was evaluated in a DSS-induced mouse model of ulcerative colitis (UC), with mesalazine as the positive control. Macroscopic and histological parameters were assessed to evaluate the effects of ZCP on intestinal inflammation and epithelial barrier integrity. To investigate the potential underlying mechanisms, this study integrated Gene Expression Omnibus (GEO) dataset mining, network pharmacology prediction, and RNA-seq transcriptomic profiling, followed by molecular validation in colonic tissues of DSS mice using reverse transcription quantitative PCR (RT-qPCR), Western blotting (WB), and immunofluorescence (IF) staining. In parallel, primary crypt-derived colonic organoids were established as an in vitro UC surrogate model to corroborate the in silico and in vivo findings. Additionally, the chemical composition of ZCP was characterized by ultra-performance liquid chromatography coupled with quadrupole-Orbitrap high-resolution mass spectrometry (UPLC-Q-Orbitrap HRMS). ZCP treatment significantly ameliorated weight loss, diarrhea, and hematochezia in UC mice, as reflected by a reduced disease activity index (DAI) score. Histologically, ZCP attenuated inflammatory cell infiltration and reduced colonic levels of TNF-α, IL-6, and IL-1β, while increasing the expression of the tight junction protein Occludin and the mucin MUC2. Integrative analyses encompassing GEO data mining, network pharmacology, and RNA-seq identified the IL-17/NF-κB and Wnt signaling pathways as prominently implicated in UC pathogenesis. In contrast, ZCP administration was associated with attenuation of IL-17/NF-κBIL-17 signaling and enhancement of Wnt/β-catenin signaling, as evidenced by reduced IL-17RA, ACT1, TRAF6, and a decreased p-p65/p65 ratio, together with increased levels of β-catenin, Cyclin D1, c-Myc, Pcna, Yap1 and Axin2. These alterations were associated with an increased BCL-2/BAX ratio, consistent with reduced epithelial apoptosis and enhanced regenerative responses. Consistent with these in vivo observations, organoid-based in vitro experiments suggested that ZCP downregulated IL-17RA, ACT1, TRAF6 and p-p65, while upregulating ZO-1, Occludin and E-cadherin. Moreover, ZCP treatment was associated with enhanced Wnt/β-catenin signaling and increased numbers of LGR5+ and Ki-67+ cells, consistent with enhanced epithelial regeneration and reduced apoptosis. Finally, UPLC-Q-Orbitrap HRMS identified 90 compounds in ZCP, with berberine and palmatine as the major constituents, providing a phytochemical basis for further investigation. ZCP ameliorates DSS-induced epithelial injury and is associated with attenuation of IL-17/NF-κB inflammatory signaling and enhancement of Wnt/β-catenin-associated regenerative responses.",
-      "journal": "Journal of ethnopharmacology",
+      "pmid": "42786574",
+      "title": "Exploring Australian Public Attitudes Toward Organoid Research and Use: A Cross-Sectional Study.",
+      "abstract": "Organoid technologies offer promising new ways to study human biology and develop innovative therapies. While their scientific potential is clear, public awareness and acceptability remain largely unexplored - critical factors for ethical and equitable implementation. We conducted the first national survey of Australians (N = 502) to assess awareness, knowledge, attitudes, and acceptability of organoid technology. Awareness of stem cells was high, but organoids were largely unfamiliar. After a brief explanatory video, participants appeared to have more accurate conceptual framing (e.g., organoids as \"research tools\" and \"mini-organs\"), though objective knowledge remained limited. There was strong support for organoids, and more people expressed willingness to donate cells for stem cell or organoid research than have previously done so. Acceptability was correlated with attitudes toward animal research, knowledge, and some sociodemographic factors. Overall, public endorsement of organoid technology appears high but conditional, underscoring the need for transparent governance, clear consent, and inclusive communication.",
+      "journal": "Stem cells (Dayton, Ohio)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Shenzhen Bao'an Authentic TCM Therapy hospital, No. 99, Lai'an Road, Xixiang Street, Bao'an District, Shenzhen, 518000, P.R. China; School of Pharmaceutical Science, Guangzhou University of Chinese Medicine, No. 232, Waihuandong Road, Guangzhou 510006, P.R. China.",
-        "School of Pharmaceutical Science, Xiangnan University, Chenzhou, China. No. 889, Chenzhou Avenue, Suxian District, Chenzhou 423099, P.R. China.",
-        "Shenzhen Bao'an Authentic TCM Therapy hospital, No. 99, Lai'an Road, Xixiang Street, Bao'an District, Shenzhen, 518000, P.R. China; School of Pharmaceutical Science, Guangzhou University of Chinese Medicine, No. 232, Waihuandong Road, Guangzhou 510006, P.R. China. Electronic address: ergep53@126.com.",
-        "Pharmacy Department, Zhongshan Hospital of Traditional Chinese Medicine, No. 3 Kangxin Road, West District, Zhongshan 528400, P.R. China. Electronic address: 64460266@qq.com.",
-        "Shenzhen Bao'an Authentic TCM Therapy hospital, No. 99, Lai'an Road, Xixiang Street, Bao'an District, Shenzhen, 518000, P.R. China; School of Pharmaceutical Science, Guangzhou University of Chinese Medicine, No. 232, Waihuandong Road, Guangzhou 510006, P.R. China; Pharmacy Department, Zhongshan Hospital of Traditional Chinese Medicine, No. 3 Kangxin Road, West District, Zhongshan 528400, P.R. China. Electronic address: zhangxj@gzucm.edu.cn."
+        "Stem Cell Medicine Unit, Children's Medical Research Institute, Sydney, NSW, Australia.",
+        "Behavioural Sciences Unit, School of Clinical Medicine, UNSW Medicine & Health, Discipline of Paediatrics and Child Health, Randwick Clinical Campus, UNSW Sydney, Sydney, NSW, Australia.",
+        "Kids Cancer Centre, Sydney Children's Hospital, Randwick, Sydney, Australia.",
+        "Stats Central, Mark Wainwright Analytical Centre, UNSW Sydney, Sydney, NSW, Australia.",
+        "Stem Cell Ethics & Policy Group, Murdoch Children's Research Institute, Melbourne, VIC, Australia.",
+        "Faculty of Medicine, Dentistry and Health Sciences, The University of Melbourne, Melbourne, VIC, Australia.",
+        "Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, Australia."
       ],
-      "doi": "10.1016/j.jep.2026.122392",
+      "doi": "10.1093/stmcls/sxag054",
       "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785530/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786574/"
     },
     {
-      "pmid": "42785431",
-      "title": "Mitochondrial DNA released by Biliary Epithelial Cells enhances inflammation in Biliary Atresia through the cGAS-STING-NF-κB pathway.",
-      "abstract": "Biliary atresia (BA), the leading cause of infant cholangiopathy, features progressive inflammation and fibrosis with undefined pathogenesis. In BA, biliary epithelial cells (BECs) act as both targets and drivers of hepatic inflammation. The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, a cytosolic DNA-sensing system linking cellular stress to inflammation, may contribute to BA pathogenesis. This study investigated whether cGAS-STING activation in BECs promotes disease progression. cGAS-STING expression and localization were assessed in BA and control livers by qRT-PCR, Western blotting, immunohistochemistry and immunofluorescence. Oxidative injury in human intrahepatic BECs (HIBECs) was modeled with H2O2. Mitochondrial DNA (mtDNA) depletion with ethidium bromide (EtBr), cGAS/STING inhibitors (RU.521, H151), and the STING agonist (ADU-S100) were used to investigate mechanisms. Coenzyme Q10 (CoQ10) was evaluated in vitro using biliary organoids and in vivo in a Rhesus rotavirus (RRV)-induced neonatal mouse model of BA. In BA livers, cGAS and STING were unregulated and activated in CK19+ BECs, accompanied by NF-κB activation without detectable IRF3 phosphorylation. HIBECs exposed to H2O2 showed mtDNA release, cGAMP accumulation, STING activation, and p65 phosphorylation, selectively increasing CXCL10 and IL-32, which were markedly attenuated by mtDNA depletion or cGAS/STING inhibition. CoQ10 suppressed the mtDNA-STING-NF-κB axis in vitro, and ameliorated liver injury while improving survival in vivo. mtDNA leakage activates the cGAS-STING-NF-κB pathway in BECs, driving a CXCL10/IL-32-dominant inflammatory response. CoQ10 mitigates this process and injury, supporting cGAS-STING modulation and mitochondrial stabilization as promising therapeutic strategies for BA.",
-      "journal": "Cellular and molecular gastroenterology and hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pediatric Surgery, Children's Hospital of Nanjing Medical University, 72 Guangzhou Road, Nanjing, 210000, Jiangsu Province, China.",
-        "Department of Pediatric Surgery, Children's Hospital of Nanjing Medical University, 72 Guangzhou Road, Nanjing, 210000, Jiangsu Province, China. Electronic address: xiehua3955@126.com.",
-        "Department of Pediatric Surgery, Children's Hospital of Nanjing Medical University, 72 Guangzhou Road, Nanjing, 210000, Jiangsu Province, China. Electronic address: twbcn@163.com."
-      ],
-      "doi": "10.1016/j.jcmgh.2026.101901",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785431/"
-    },
-    {
-      "pmid": "42785308",
-      "title": "HOPX regulates the development and lineage progression of human stem cell-derived outer radial glia-like cells.",
-      "abstract": "Outer radial glia (oRG) are abundant in the human fetal cortex but rare in rodents, yet their molecular regulation remains poorly understood. Although the homeodomain-only protein X (HOPX) is a well-established oRG marker, its functional role in human cortical development remains undefined. Using CRISPR-Cas9 gene editing in human pluripotent stem cells, we show that HOPX loss impairs the expansion and lineage progression of oRG-like cells in two-dimensional neural cultures and three-dimensional cortical organoids. HOPX knockout precursors exhibit reduced proliferation, diminished neurogenesis, and premature differentiation toward astrocytic and oligodendrocytic lineages. HOPX-deficient organoids display reduced outer subventricular zone size, decreased neuronal output, and early gliogenesis. Mechanistically, HOPX loss impairs PI3K-mTOR signaling. Transcriptomic analysis identifies HOPX-regulated programs governing gliogenic competence, mTOR, and Wnt signaling. Together, these findings identify HOPX as an important regulator of oRG-like cell maintenance and the neurogenic-gliogenic balance, providing insight into the molecular programs governing human neural progenitor expansion.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, No.86, Wujin Road, Shanghai 200080, China; Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; The Children's Hospital, National Clinical Research Center for Child Health, School of Medicine, Zhejiang University, Hangzhou 310052, China; The Institute of Translational Medicine, School of Medicine, Zhejiang University, Hangzhou 310029, China.",
-        "Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada; Program in Genetics and Genome Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada.",
-        "Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada.",
-        "Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada.",
-        "Program in Neurosciences and Mental Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada.",
-        "Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada; Program in Neurosciences and Mental Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada.",
-        "Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Program in Neurosciences and Mental Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Department of Physiology, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada.",
-        "Program in Neurosciences and Mental Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Department of Physiology, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada.",
-        "Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada; Program in Genetics and Genome Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada.",
-        "The Children's Hospital, National Clinical Research Center for Child Health, School of Medicine, Zhejiang University, Hangzhou 310052, China; Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada.",
-        "The Children's Hospital, National Clinical Research Center for Child Health, School of Medicine, Zhejiang University, Hangzhou 310052, China; The Institute of Translational Medicine, School of Medicine, Zhejiang University, Hangzhou 310029, China.",
-        "Department of Neurology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, No.86, Wujin Road, Shanghai 200080, China. Electronic address: yunchw@medmail.com.cn.",
-        "Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada; Program in Neurosciences and Mental Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada. Electronic address: julien.muffat@sickkids.ca.",
-        "Program in Developmental, Stem Cell, and Cancer Biology, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, Canada; Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON M5S 1A8, Canada. Electronic address: yun.li@sickkids.ca."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103087",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785308/"
-    },
-    {
-      "pmid": "42785297",
-      "title": "Immunoids: Building immunocompetent organoids from human pluripotent stem cells.",
-      "abstract": "Pluripotent stem cell-derived immunocompetent organoids and assembloids, termed here \"immunoids,\" are becoming important human models for studying immune-tissue interactions. Advances across organ systems now include incorporation of mature and immature immune populations into multiple organoid types, multilineage differentiation, and endogenous immune co-development. Defining standards for immunoid fabrication will be essential for improving physiological modeling and clinical translation. In the coming years, as these platforms mature, immunoids are poised to transform research by advancing our understanding of human development, disease mechanisms, and therapeutic responses, becoming a cornerstone of precision medicine.",
-      "journal": "Cell stem cell",
+      "pmid": "42786507",
+      "title": "Rethinking non-human primate models for emerging viral infections after COVID-19.",
+      "abstract": "Non-human primates (NHPs) retain particular value in emerging viral infection research when questions require integrated analysis of systemic viral kinetics, protective immunity, tissue pathology, or longitudinal outcomes. However, their cost, limited availability, specialized husbandry, and ethical constraints preclude their routine use as default screening platforms. Using severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as a case study, we compare how rhesus macaques, cynomolgus macaques, African green monkeys, baboons, and marmosets have contributed to studies of pathogenesis, vaccine protection, therapeutic efficacy, immune memory, and post-acute outcomes. We emphasize that these species-question relationships cannot be transferred uncritically to future pathogens; model suitability must be re-established according to receptor usage, tissue tropism, disease phenotype, and experimental objective. AI-guided prediction, human organoids, and organ-on-chip systems can support this process by prioritizing variants and candidates, identifying tissue-specific mechanisms, and refining endpoints before NHP studies begin. We therefore propose a question-driven workflow in which computational and human-relevant platforms narrow the evidence gap before fit-for-purpose NHP validation. This strategy can improve interpretability, reproducibility, and alignment with the 3Rs while preserving NHP use for questions that require intact organism-level biology.",
+      "journal": "Laboratory animal research",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Institute for Quantitative Health Science and Engineering, Michigan State University, East Lansing, MI, USA; Department of Biomedical Engineering, Michigan State University, East Lansing, MI, USA; College of Osteopathic Medicine, Michigan State University, East Lansing, MI, USA.",
-        "Institute for Quantitative Health Science and Engineering, Michigan State University, East Lansing, MI, USA; Department of Comparative Medicine and Integrative Biology, Michigan State University, East Lansing, MI, USA; College of Veterinary Medicine, Michigan State University, East Lansing, MI, USA.",
-        "Institute for Quantitative Health Science and Engineering, Michigan State University, East Lansing, MI, USA; Department of Biomedical Engineering, Michigan State University, East Lansing, MI, USA; Department of Microbiology, Genetics and Immunology, Michigan State University, East Lansing, MI, USA.",
-        "Institute for Quantitative Health Science and Engineering, Michigan State University, East Lansing, MI, USA; Department of Biomedical Engineering, Michigan State University, East Lansing, MI, USA. Electronic address: aaguirre@msu.edu."
+        "National Primate Research Centre, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Chungcheongbuk, 28116, Republic of Korea.",
+        "National Primate Research Centre, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Chungcheongbuk, 28116, Republic of Korea. hong75@kribb.re.kr.",
+        "KRIBB School of Bioscience, Korea University of Science & Technology (UST), Daejeon, 34141, Republic of Korea. hong75@kribb.re.kr."
       ],
-      "doi": "10.1016/j.stem.2026.08.016",
+      "doi": "10.1186/s42826-026-00299-1",
       "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785297/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786507/"
     },
     {
-      "pmid": "42785293",
-      "title": "Human-centric preclinical models for CAR T cell therapy in solid tumors: Where patient-derived organoids fit.",
-      "abstract": "Chimeric antigen receptor (CAR) T cell therapy has shown promising activity in solid tumors, yet translational progress remains limited by preclinical models that incompletely capture human tumor biology. Patient-derived organoids (PDOs) preserve key features of human tumors, including cellular heterogeneity and tissue architecture, thereby enabling functional evaluation of CAR T cell targets, next-generation approaches, resistance mechanisms, and selected safety considerations. We discuss how PDOs complement existing preclinical platforms to support CAR T cell development for solid tumors.",
-      "journal": "Cancer cell",
+      "pmid": "42786260",
+      "title": "Disrupted PQBP1-HNRNPU-LINE-1 axis underlies aberrant neurodevelopment in renpenning syndrome.",
+      "abstract": "Mutations in RNA splicing factor PQBP1 cause Renpenning syndrome (RS), yet whether LINE-1 (L1) contributes to RS pathogenesis remains unclear. Here, we generated human forebrain organoids model carrying a novel patient-derived PQBP1 variant (c.28 C > G; p.R10G), and observed impaired neurogenesis in RS organoids. Bulk and single-cell RNA-sequencing revealed that PQBP1 R10G mutation upregulated evolutionarily ancient L1 expression and induced aberrant L1 splicing, resulting in the redundant production of non-canonical L1-containing transcripts. Mechanistically, disrupted PQBP1-HNRNPU interaction by PQBP1 R10G mutation impaired U1/U2 small nuclear ribonucleoprotein (snRNP) recruitment to splicing sites, leading to increased L1-containing intron retention of neurodevelopmental genes, including WDR11. L1 retention reduced canonical WDR11 transcripts and consequently protein expression. Canonical WDR11, not L1-containing isoform, ameliorated the neurodevelopmental deficits of RS organoids. Together, our findings establish the dysregulated PQBP1-HNRNPU-L1 axis as a pathogenic driver of RS and nominate WDR11 as a potential therapeutic target for RS.",
+      "journal": "Molecular psychiatry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Hematology & Hematopoietic Cell Transplantation (T Cell Therapeutics Research Laboratories), City of Hope Beckman Research Institute and Medical Center, Duarte, CA 91010, USA.",
-        "Division of Neurosurgery, City of Hope Beckman Research Institute and Medical Center, Duarte, CA 91010, USA.",
-        "Department of Hematology & Hematopoietic Cell Transplantation (T Cell Therapeutics Research Laboratories), City of Hope Beckman Research Institute and Medical Center, Duarte, CA 91010, USA. Electronic address: cbrown@coh.org."
+        "Department of Neurology, Department of Genetics and Metabolism, Department of Endocrinology, Department of Thoracic and Cardiovascular Surgery, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Disease, Hangzhou, 310052, China.",
+        "The Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, 310029, China.",
+        "Binjiang Institute of Zhejiang University, Hangzhou, 310053, China.",
+        "Zhejiang Key Laboratory of Neonatal Diseases, Hangzhou, 310052, China.",
+        "Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, 310029, China.",
+        "Department of Pediatrics, The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 322000, China.",
+        "The Hospital for Sick Children, 686 Bay Street, Toronto, ON, M5G 0A4, Canada.",
+        "Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON, M5S 1A8, Canada.",
+        "Affiliated Hospital of Chifeng University, Chifeng, 024000, China.",
+        "Department of Neurology, Department of Genetics and Metabolism, Department of Endocrinology, Department of Thoracic and Cardiovascular Surgery, Children's Hospital, Zhejiang University School of Medicine, National Clinical Research Center for Children and Adolescents' Health and Disease, Hangzhou, 310052, China. xuekun_li@zju.edu.cn.",
+        "The Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, 310029, China. xuekun_li@zju.edu.cn.",
+        "Binjiang Institute of Zhejiang University, Hangzhou, 310053, China. xuekun_li@zju.edu.cn.",
+        "Zhejiang Key Laboratory of Neonatal Diseases, Hangzhou, 310052, China. xuekun_li@zju.edu.cn."
       ],
-      "doi": "10.1016/j.ccell.2026.08.011",
+      "doi": "10.1038/s41380-026-03908-6",
       "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785293/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786260/"
+    },
+    {
+      "pmid": "42786251",
+      "title": "Old organoids mimic brain maturation.",
+      "abstract": "",
+      "journal": "Nature reviews. Neuroscience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nature Reviews Neuroscience, . nrn@nature.com."
+      ],
+      "doi": "10.1038/s41583-026-01086-6",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786251/"
+    },
+    {
+      "pmid": "42786283",
+      "title": "Hepatitis B virus protein X promotes survival and loss of hepatocyte identity in a differentiated human liver organoid system.",
+      "abstract": "Hepatitis B virus (HBV) drives hepatocellular carcinoma in part through the activity of its X protein (HBx), yet the mechanisms by which HBx alters hepatocyte function remain incompletely understood. Progress has been limited by the lack of relevant human models that support controlled HBx expression in mature hepatocytes. To address this limitation, here, we use an improved hepatocyte-like organoid (HLO) platform that supports enhanced hepatocyte maturation to investigate HBx function in a differentiated hepatocyte context. Adult stem cell-derived HLOs were differentiated using an optimized protocol to generate hepatocyte-like cells with enhanced maturation and transcriptional similarity to primary liver tissue. HBx function was interrogated using both cognate promoter-driven expression and doxycycline-inducible systems across multiple donor-derived organoid lines. Transcriptomic, pathway, and single-cell imaging analyses were performed to assess the impact of HBx expression on hepatocytes. HBx expression consistently suppressed apoptosis-associated transcripts and reduced expression of core hepatocyte identity genes, including CYP3A4. Pathway analysis revealed downregulation of liver-specific functions, including metabolism, detoxification, complement, and coagulation. At the single-cell level, higher HBx expression was associated with reduced caspase 3/7 activation following apoptotic challenge and decreased hepatocyte marker expression. Functionally, the expression of HBx increased resistance to apoptosis and enhanced the ability of differentiated hepatocyte-like cells to revert to a proliferative state. HBx expression in differentiated human liver organoids reduces apoptosis and impairs hepatocyte identity, consistently across donors and expression systems. Together, these findings support a model in which HBx promotes a survival-permissive state of reduced hepatocyte differentiation. This state may contribute to early HBV-driven tumorigenesis. This HLO platform provides a relevant system to dissect HBV-host interactions and reveals a mechanism by which HBV may prime the liver for malignant transformation. IMPACT AND IMPLICATIONS: Understanding how HBV promotes hepatocellular carcinoma remains a critical challenge, partly due to the lack of physiologically relevant human derived model systems to study HBx function. Using a differentiated adult human liver organoid system, we show that HBx simultaneously suppresses apoptosis and reduces hepatocyte differentiation, providing a mechanistic framework for how HBV may prime hepatocytes for malignant transformation. These findings are particularly relevant for researchers studying HBV pathogenesis and liver cancer, as well as for clinicians aiming to better understand early disease progression. While further validation in more complex multicellular systems is needed, this platform can support the identification of HBx-targeted therapeutic strategies and guide the development of improved adult human derived models for virus-host interaction studies.",
+      "journal": "Cell death and differentiation",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pathology, Erasmus University Medical Center, Rotterdam, The Netherlands.",
+        "HUB Organoids B.V., Utrecht, the Netherlands, part of the Life Science Business of Merck KGaA, Darmstadt, Germany.",
+        "Institute for Fundamental Biomedical Research (IFBR), Biomedical Sciences Research Center \"Alexander Fleming\", Vari, Greece.",
+        "ETH Zurich, Institute of Molecular Health Sciences, Zürich, Schweiz.",
+        "Department of Urology, Erasmus University Medical Center, Rotterdam, The Netherlands.",
+        "Department of Pathology, Erasmus University Medical Center, Rotterdam, The Netherlands. t.mahmoudi@erasmusmc.nl.",
+        "Department of Urology, Erasmus University Medical Center, Rotterdam, The Netherlands. t.mahmoudi@erasmusmc.nl."
+      ],
+      "doi": "10.1038/s41418-026-01877-5",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786283/"
+    },
+    {
+      "pmid": "42786242",
+      "title": "Tutorial: interrogating biology using organoid technologies.",
+      "abstract": "Organoids provide a versatile platform for studying fundamental biology, complementing traditional cell culture and in vivo models. Their unique features, such as self-organization and the possibility for their precise manipulation, have enabled key discoveries in tissue homeostasis, development and disease. This tutorial presents an overview of organoid technologies and protocols across a broad spectrum of applications, from investigating cell fate decisions and cell-cell or cell-microbe interactions to the study of genetic diseases, species evolution and translational/clinical questions. By focusing on adult stem cell-derived intestinal and human pluripotent stem cell-derived brain organoids, we highlight models with distinct characteristics that together reflect the broader spectrum of organoid systems, tissue types and research contexts. For applications not supported by these models, we discuss organoids derived from other tissues. We also outline current challenges in the field and highlight emerging innovations that are promising to shape future directions.",
+      "journal": "Nature protocols",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Molecular Oncology and Functional Genomics, School of Medicine and Health, Technical University of Munich, Munich, Germany. jeroen.bugter@tum.de.",
+        "Center for Translational Cancer Research (TranslaTUM), School of Medicine and Health, Technical University of Munich, Munich, Germany. jeroen.bugter@tum.de.",
+        "Center for Translational Cancer Research (TranslaTUM), School of Medicine and Health, Technical University of Munich, Munich, Germany. simon.schafer@tum.de.",
+        "Department of Psychiatry and Psychotherapy, School of Medicine and Health, Technical University of Munich, Munich, Germany. simon.schafer@tum.de.",
+        "Center for Organoid Systems, Munich Institute for Biomedical Engineering, Technical University of Munich, Garching, Germany. simon.schafer@tum.de.",
+        "Munich Cluster for Systems Neurology (SyNergy), Munich, Germany. simon.schafer@tum.de.",
+        "Institute of Molecular Oncology and Functional Genomics, School of Medicine and Health, Technical University of Munich, Munich, Germany. roland.rad@tum.de.",
+        "Center for Translational Cancer Research (TranslaTUM), School of Medicine and Health, Technical University of Munich, Munich, Germany. roland.rad@tum.de.",
+        "German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany. roland.rad@tum.de."
+      ],
+      "doi": "10.1038/s41596-026-01447-6",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786242/"
     },
     {
       "pmid": "42782810",
@@ -266,6 +274,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/"
     },
     {
+      "pmid": "42786569",
+      "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
+      "abstract": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and the vast conformational diversity of linkers. Existing computational approaches can be broadly divided into structure-based ternary modelling methods and fragment-based linker generation models. Although these approaches have advanced PROTAC design, they typically neglect key physicochemical constraints and linker-length control during the generation process, causing the generated PROTACs to lack balanced structural properties required for effective ternary complex formation with drug-like characteristics. To address these limitations, we propose DesignMaster, a diffusion-based generative framework that explicitly incorporates linker length and physicochemical properties as controllable conditioning signals. DesignMaster employs an E(3)-equivariant graph Transformer with a gated multi-condition fusion module to inject linker length and physicochemical constraints throughout the diffusion process, enabling fine-grained and constraint-aware molecular generation. Experiments on PROTAC-DB 2.0 and 3.0 demonstrate that DesignMaster achieves the best or highly competitive performance across Validity, Uniqueness, and Recovery. The Case study further shows that DesignMaster consistently achieves improved geometric agreement with the reference PROTAC conformations across both the 6W7O and 6HAY complexes, highlighting its potential for practical structure-guided and property-aware PROTAC design. The source code and datasets are available at https://github.com/ABILiLab/DesignMaster.",
+      "journal": "Bioinformatics (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Computer Science, Northwestern Polytechnical University, Xi'an, 710129, Shaanxi, China.",
+        "South Australian immunoGENomics Cancer Institute (SAiGENCI), Adelaide University, Adelaide, 5005, SA, Australia.",
+        "College of Information Engineering, Northwest A&F University, Yangling, 712100, Shaanxi, Australia.",
+        "Adelaide Centre for Epigenetics (ACE), Adelaide University, Adelaide, 5005, SA, Australia.",
+        "Walter and Eliza Hall Institute of Medical Research, Parkville, 3050, Victoria, Australia.",
+        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, 3010, VIC, Australia.",
+        "Department of Microbiology and Immunology, The University of Melbourne, Parkville, 3010, VIC, Australia."
+      ],
+      "doi": "10.1093/bioinformatics/btag714",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/"
+    },
+    {
       "pmid": "42782445",
       "title": "Leveraging Autonomous Biological Oscillators for Directed Evolution of Switchable Proteins.",
       "abstract": "Engineering proteins that can switch between states is of strong interest to biotechnology. These include multi-state transcription factors, membrane receptors, kinases, and synthetic molecular logic gates. While traditional directed evolution approaches excel at optimizing steady-state protein functionalities, they require substantial adaptation to treat transitions in states of proteins. This chapter describes how the emerging regulatory logic of autonomous biological oscillators can be used to impose time-varying selection pressure for evolving switchable proteins. We first review the challenges of evolving switchable proteins and examine past strategies, including fluorescence-activated cell sorting (FACS) screens, alternating chemical selection and counterselection methods, and phage display techniques. We then compare these with \"optovolution,\" an approach recently developed by our lab, which couples a protein's activity to host cell cycle progression and leverages programmable light inputs to drive continuous evolution of proteins. To this end, we explain the design principles underlying the use of an autonomous oscillator for evolution and how it promotes selection for both \"on\" and \"off\" states, as well as switching between them. In a direct comparison with a conventional directed evolution method, we elucidate how optovolution proves more reliable by avoiding evolutionary routes that hinder counterselection. In conclusion we discuss how optovolution opens new avenues for creating proteins with complex logic and dynamic control, complementing latest advances in computational protein design.",
@@ -354,19 +383,59 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773138/"
     },
     {
-      "pmid": "42771506",
-      "title": "Programmed inhibition of an innate immune receptor via de novo designed transmembrane proteins.",
-      "abstract": "Transmembrane domains of immune complexes transmit precise signals across lipid bilayers. Probing their interactions has the potential to yield mechanistic insights relevant to therapeutic design. However, our capability to generate molecules that bind lipid-embedded sites is limited. Here, we created synthetic polypeptides targeting a prominent mediator of inflammatory signaling directly within membranes, Toll-like receptor 4 (TLR4), and clarify structural principles of its cross-membrane signaling mechanism. Doing so, we test emerging design principles for computationally encoding protein interactions within lipid and validate a protein-protein interaction screening platform for rapid discovery of de novo transmembrane (TM) protein antagonist of inflammatory signaling via this innate immune receptor. Binding the TM domain of TLR4 poses a formidable de novo molecular recognition challenge not yet achieved, given the membrane-spanning region is predominantly apolar and lacks any recognizable interaction motifs (e.g., sticky small residue repeats). Likewise, TLR4's structure-function relationship and key residues for oligomerization and cross-membrane signaling are underdetermined. Our engineering strategy identifies lead synthetic TM proteins that specifically bind TLR4's transmembrane domain and antagonizes NFκB signaling in human cells. These transmembrane-directed chemical probes prove that receptor TM domain interaction geometries are essential for TLR4's cross-membrane conformational coupling, informing a revised structural mechanism to leverage in future drug design of this protein family. This work refines principles for encoding stable interactions in cellular membranes and expands the range of lipid-embedded mechanisms accessible to probe with computationally derived molecules.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pmid": "42786876",
+      "title": "The Future of AI in Breast Cancer: Quantum Computing and Next-Gen Algorithms for Precision Oncology.",
+      "abstract": "Breast cancer is still one of the most significant global contributors to cancer-related deaths. Artificial intelligence (AI) applications in imaging, diagnostic imaging and assistance, systemic treatment and personalization, and predictive modeling are all part of the fast-growing field of breast cancer care. This review examined the many applications of AI in cancer care, including prediction, diagnostic work-up, staging, early diagnosis, and therapy response. AI's contributions to radiology include risk assessment models, tomosynthesis-enhanced mammography, and other imaging methods, including MRI and ultrasound. In pathology, AI can improve marker quantification and histological diagnosis, as well as prognostic models, including models for predicting genetic mutations. Realising the potential of AI, however, will not be without challenges that may limit ubiquity in clinical practice. Our review highlights the potentially transformational but presently limited ability of AI to improve breast cancer care. It urges targeted research to eliminate these obstacles and maximize the application of AIsupported solutions to those that impede clinical adoption in the real world. We have been able to demonstrate how AI may enhance diagnostic precision, customize treatment options, and have a favorable impact on patient outcomes from detection to treatment and follow-up care by methodically recording its involvement in radiology and pathology. The effectiveness of AI's influence on breast cancer treatment hinges on cooperation and regulatory compliance.",
+      "journal": "Current drug research reviews",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037."
+        "Department of Pharmacology, Metro College of Pharmacy, Greater Noida, Gautam Budh Nagar, Uttar Pradesh, 201301, India.",
+        "Department of Pharmacology, School of Pharmacy & Research Centre, Sanskriti University, Mathura, Uttar Pradesh, 281401, India."
       ],
-      "doi": "10.1073/pnas.2536559123",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42771506/"
+      "doi": "10.2174/0125899775478789260914150116",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786876/"
+    },
+    {
+      "pmid": "42786871",
+      "title": "Cutting-Edge Diagnostics and Nanotechnology-Enabled Precision Medicine in Hepatocellular Carcinoma: A Comprehensive Review.",
+      "abstract": "Hepatocellular carcinoma (HCC) is one of the largest health burdens in the world because of high mortality rates, low early diagnostic sensitivity, and poor response to conventional treatment. The existing diagnostic and treatment methods tend to be non-specific and linked with systemic toxicity and late cancer detection, which provokes the necessity of more accurate, precision-driven methods. This review analyzes recent developments in HCC diagnosis and treatment, including new biomarkers, liquid biopsy, and nanotechnology-based therapeutic systems. We critically analysed relevant studies on molecular biomarkers, tumour microenvironment targets, and various nanocarrier platforms. Newer biomarkers such as Glypican-3, Exosomal microRNAs, circulating tumour DNA methylation panels, AFP-L3, IFI44L, miR-375, miR-203, and CD19 on tumour-associated macrophages showed better diagnostic sensitivity and specificity. Nanotherapeutics approaches that use lipid-based nanoparticles, polymeric systems, inorganic nanoparticles, metal-based nanoparticles, and carbon-based nanocarriers displayed enhanced therapy delivery, targeting, and therapeutic effects. Liposomes, dendrimers, polymeric nanoparticles, and mesoporous silica nanoparticles had especially promising outcomes. A combination of biomarker-based diagnostics and nanotechnology-based diagnostic delivery systems will enable earlier detection, treatment, and delivery of therapeutic agents, reducing systemic toxicity. The liquid biopsy, multi-omics profiling, and AI-assisted imaging developments further improve the accuracy of diagnosis and personalised treatment. Biomarker-based diagnostics and nanocarrier-based therapeutics are potential solutions to enhance HCC management by improving early diagnosis, treatment outcomes, and prognosis.",
+      "journal": "Anti-cancer agents in medicinal chemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Quality Assurance, School of Pharmacy and Technology Management, SVKM NMIMS Global University, Dhule, Maharashtra, India-424001.",
+        "Department of Formulation, Analytical Research and Development, Aragen Life Sciences, Hyderabad, India.",
+        "Department of external R&D and technical services, Alvogen Inc., 44 Whippany Rd, Suite 300, Morristown, NJ 07960, USA.",
+        "Department of Regulatory Affairs in CMC, STA Pharmaceuticals US LLC, 6114 Nancy Ridge Drive, San Diego, CA 92121, USA."
+      ],
+      "doi": "10.2174/0118715206470187260914042941",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786871/"
+    },
+    {
+      "pmid": "42786656",
+      "title": "Circulating tumour cells for guiding antibody‒drug conjugate therapy: Role of artificial intelligence.",
+      "abstract": "Antibody‒drug conjugates (ADCs) represent a major advance in precision oncology, yet their effectiveness depends critically on adequate target antigen expression. Tumour heterogeneity and dynamic antigen expression during treatment pose major challenges for conventional tissue biopsies used in patient selection. Liquid biopsy components such as circulating tumour cells (CTCs) enable real-time, minimally invasive monitoring of tumour burden, molecular characteristics and target antigen status. This review evaluates the potential of CTC analysis to overcome the key challenges in ADC therapy, including real-time target profiling, enhanced patient stratification and longitudinal monitoring of treatment response. While acknowledging that direct clinical evidence for CTC-guided ADC selection remains limited and prospective validation is still needed, we integrate clinical evidence from CTC-guided trials across different cancer types and propose pragmatic decision-making frameworks to incorporate CTC testing into ADC treatment strategies. We also examine how artificial intelligence (AI) has improved CTC detection accuracy and discuss exploratory AI models for multi-omics integration and hypothetical AI-guided ADC recommendation systems, clearly distinguishing these by their current level of clinical evidence. Liquid biopsy-guided ADC selection has the potential to enable more personalised cancer treatment as CTC technologies advance and standardisation improves.",
+      "journal": "Clinical and translational medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute for Biomedical Materials & Devices, School of Mathematical and Physical Sciences, Faculty of Science, University of Technology Sydney, Sydney, New South Wales, Australia.",
+        "School of Biomedical Engineering, University of Technology Sydney, Sydney, New South Wales, Australia.",
+        "Department of Gynecologic Oncology, Fudan University Shanghai Cancer Center, Fudan University, Shanghai, China.",
+        "Department of Clinical Medicine, Suzhou Labyrinth Biotech Co., Ltd, Suzhou, China.",
+        "Department of Mechanical Engineering, College of Engineering, American University of Sharjah, Sharjah, United Arab Emirates.",
+        "Centre for Biomedical Innovations (CBI), American University of Sharjah, Sharjah, United Arab Emirates."
+      ],
+      "doi": "10.1002/ctm2.70748",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786656/"
     },
     {
       "pmid": "42786081",
@@ -428,80 +497,108 @@
       "doi": "10.2460/ajvr.26.04.0178",
       "date": "2026-09-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785357/"
-    },
-    {
-      "pmid": "42785304",
-      "title": "Genome-wide cell-free DNA methylation profiling via TAPS for moyamoya disease diagnosis and postoperative collateral formation prediction.",
-      "abstract": "Moyamoya disease (MMD) lacks reliable biomarkers for distinguishing it from atherosclerotic cerebrovascular disease (ACVD) and predicting postoperative collateral formation (PCF). Here, we apply low-input, bisulfite-free TET-assisted pyridine borane sequencing to plasma cell-free DNA (cfDNA) from 39 MMD and 37 ACVD patients in the discovery cohort and 40 MMD and 16 ACVD patients in an external multicenter cohort. The same libraries enable the analysis of methylation, fragmentation, end-nucleotide composition, nucleosome positioning, and tissue-of-origin signals. Although global methylation and tissue-of-origin profiles are broadly similar, differentially methylated regions distinguish MMD from ACVD and associate with PCF. A cfDNA methylation model achieves areas under the curve (AUCs) of 0.923 and 0.822 in the discovery and external cohorts, respectively, while a separate model predicts PCF with AUCs of 0.907 and 0.854. These findings provide proof-of-concept evidence for cfDNA methylation profiling as a minimally invasive approach to MMD diagnosis and preoperative assessment, while establishing an epigenomic resource for future studies.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China; Brain Research Center, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China.",
-        "State Key Laboratory of Metabolism and Regulation in Complex Organisms, College of Chemistry and Molecular Sciences, Taikang Center for Life and Medical Sciences, Wuhan University, Wuhan, Hubei 430071, China.",
-        "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China.",
-        "Department of Neurosurgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu 210008, China; Neurosurgical Institute, Nanjing University, Nanjing, Jiangsu 210008, China.",
-        "Department of Neurosurgery, Guangdong Sanjiu Brain Hospital, Guangzhou, Guangdong 510510, China.",
-        "Department of Neurosurgery, Hainan Second People's Hospital, Wuzhishan City, Hainan 572200, China.",
-        "Department of Neurosurgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu 210008, China; Neurosurgical Institute, Nanjing University, Nanjing, Jiangsu 210008, China. Electronic address: wei.li@nju.edu.cn.",
-        "State Key Laboratory of Metabolism and Regulation in Complex Organisms, College of Chemistry and Molecular Sciences, Taikang Center for Life and Medical Sciences, Wuhan University, Wuhan, Hubei 430071, China. Electronic address: liuyibin@whu.edu.cn.",
-        "Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China; Brain Research Center, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China; Medical Research Institute, Wuhan University, Wuhan, Hubei 430071, China; Sino-Italian Ascula Brain Science Joint Laboratory, Zhongnan Hospital of Wuhan University, Wuhan, Hubei 430071, China. Electronic address: li.xiang@whu.edu.cn."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103075",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785304/"
-    },
-    {
-      "pmid": "42785009",
-      "title": "Plasma ATR-FTIR spectroscopy combined with machine learning for nasopharyngeal carcinoma classification.",
-      "abstract": "Nasopharyngeal carcinoma (NPC) is often diagnosed at advanced stages, creating a need for minimally invasive approaches to support detection. This study evaluated plasma attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, combined with machine learning, to distinguish NPC from clinically healthy individuals. Plasma samples from 51 histologically confirmed NPC cases and 51 age- and sex-matched clinically healthy controls were analyzed across 4000-600 cm-1. Differences at 21 spectral peaks were assessed using the Mann-Whitney U test. Seven machine-learning algorithms were evaluated using the full spectrum, fingerprint region, selected peaks, and low-rank spectral representations with repeated cross-validation and exploratory age- and sex-stratified analyses. Thirteen peaks showed significant between-group differences in median absorbance (p < 0.01). Despite substantial overlap in the original spectral distributions, model performance in the complete cohort increased when selected peaks and low-rank spectral representations were used: the best case AUCs were 0.6303 ± 0.0384 for the full spectrum, 0.6330 ± 0.0333 for the fingerprint region, 0.7066 ± 0.0452 for selected peaks, and 0.7404 ± 0.0422 for the low-rank representation. The neural network model achieved the best overall performance using low-rank features, with an accuracy (ACC) of 0.7115 ± 0.0456. Exploratory subgroup estimates varied across age- and sex-defined subsets. However, due to limited subgroup sizes and variability in the performance estimates, interpretation and generalizability was cautioned. Plasma ATR-FTIR spectroscopy combined with machine learning showed moderate discrimination between NPC and clinically healthy controls, with the highest performance obtained using low-rank spectral features and a feedforward neural network. Larger independent cohorts are needed for validation.",
-      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Electrical Engineering, University of the Philippines Los Baños, Laguna, Philippines. Electronic address: rvtomas1@up.edu.ph.",
-        "Department of Biological Sciences, College of Science, University of Santo Tomas, Manila, Philippines; Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines.",
-        "Research Center for the Natural and Applied Sciences, University of Santo Tomas, Manila, Philippines; The Graduate School, University of Santo Tomas, Manila, Philippines.",
-        "Benavides Cancer Institute, University of Santo Tomas Hospital, Manila, Philippines."
-      ],
-      "doi": "10.1016/j.saa.2026.128835",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785009/"
-    },
-    {
-      "pmid": "42784010",
-      "title": "Unexpected Long-Term Survival in Resected Pancreatic Ductal Adenocarcinoma Harboring KRAS G12R with an Ultra-Low-VAF SMAD4 Mutation: A Case Report and Mini-Review.",
-      "abstract": "Background and Clinical Significance: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with a poor prognosis, even in resectable disease. Molecular alterations in the four major driver genes (KRAS, SMAD4, CDKN2A, and TP53) have been associated with disease progression and patient outcomes. However, reliable prognostic biomarkers remain limited, particularly in resected PDAC, where recurrence rates remain high; Case presentation: We report the case of a 71-year-old woman incidentally diagnosed with PDAC carrying KRAS G12R with an ultra-low-variant allele frequency (VAF) SMAD4 mutation, with low baseline neutrophil-to-lymphocyte ratio (NLR) and circulating cell-free DNA (ccfDNA) levels. The patient underwent distal pancreatectomy with splenectomy and portal vein resection with multiple postoperative complications requiring re-intervention. The patient demonstrated excellent tolerance to the therapy, experiencing no significant adverse events and reaching an overall survival of 53 months. Conclusions: This case highlights the potential value of integrating molecular alterations with inflammatory and liquid biopsy biomarkers, including NLR and ccfDNA levels for improving risk stratification in PDAC. A focused review of the literature further supports the need for multimodal prognostic assessment in resected disease.",
-      "journal": "Reports (MDPI)",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Faculty of Medicine, Carol Davila University of Medicine and Pharmacy, 020021 Bucharest, Romania.",
-        "Medical Oncology Department, Fundeni Clinical Institute, 022328 Bucharest, Romania.",
-        "Digestive Diseases and Liver Transplantation Center, Fundeni Clinical Institute, 022328 Bucharest, Romania.",
-        "Center of Excellence in Translational Medicine, Fundeni Clinical Institute, 022328 Bucharest, Romania."
-      ],
-      "doi": "10.3390/reports9030285",
-      "date": "2026-08-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42784010/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42785563",
+      "id": "pubmed-42786574",
       "date": "2026-09-24",
-      "title": "Human brain organoids and neural progenitor cells model Oropouche virus infection and reveal varied responses to antiviral therapies.",
+      "title": "Exploring Australian Public Attitudes Toward Organoid Research and Use: A Cross-Sectional Study.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785563/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786574/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42786574。",
+      "report": "Organoid technologies offer promising new ways to study human biology and develop innovative therapies. While their scientific potential is clear, public awareness and acceptability remain largely unexplored - critical factors for ethical and equitable impleme...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42786507",
+      "date": "2026-09-24",
+      "title": "Rethinking non-human primate models for emerging viral infections after COVID-19.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786507/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Laboratory animal research，PMID 为 42786507。",
+      "report": "Non-human primates (NHPs) retain particular value in emerging viral infection research when questions require integrated analysis of systemic viral kinetics, protective immunity, tissue pathology, or longitudinal outcomes. However, their cost, limited availabi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42786260",
+      "date": "2026-09-24",
+      "title": "Disrupted PQBP1-HNRNPU-LINE-1 axis underlies aberrant neurodevelopment in renpenning syndrome.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786260/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42786260。",
+      "report": "Mutations in RNA splicing factor PQBP1 cause Renpenning syndrome (RS), yet whether LINE-1 (L1) contributes to RS pathogenesis remains unclear. Here, we generated human forebrain organoids model carrying a novel patient-derived PQBP1 variant (c.28 C > G; p.R10G...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42786251",
+      "date": "2026-09-24",
+      "title": "Old organoids mimic brain maturation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786251/",
       "reliability": "High",
       "evidenceLevel": "Low",
       "needsReview": true,
@@ -514,52 +611,56 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Virologica Sinica，PMID 为 42785563。",
+      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Neuroscience，PMID 为 42786251。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42785530",
+      "id": "pubmed-42786283",
       "date": "2026-09-24",
-      "title": "Zhuche Pill alleviates DSS-induced colonic epithelial injury in mice: involvement of IL-17/NF-κB and Wnt/β-catenin signaling pathways.",
+      "title": "Hepatitis B virus protein X promotes survival and loss of hepatocyte identity in a differentiated human liver organoid system.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785530/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786283/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
         "多组学"
       ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42785530。",
-      "report": "Zhuche Pill (ZCP), a traditional Chinese medicine formula first documented in Qianjin Yaofang during the Tang Dynasty, has been used for centuries to treat dysentery-associated gastrointestinal disorders, including abdominal pain, diarrhea, hematochezia, and t...",
+      "companyIds": [
+        "hub-organoids"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cell death and differentiation，PMID 为 42786283。",
+      "report": "Hepatitis B virus (HBV) drives hepatocellular carcinoma in part through the activity of its X protein (HBx), yet the mechanisms by which HBx alters hepatocyte function remain incompletely understood. Progress has been limited by the lack of relevant human mode...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42785431",
+      "id": "pubmed-42786242",
       "date": "2026-09-24",
-      "title": "Mitochondrial DNA released by Biliary Epithelial Cells enhances inflammation in Biliary Atresia through the cGAS-STING-NF-κB pathway.",
+      "title": "Tutorial: interrogating biology using organoid technologies.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785431/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786242/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -572,105 +673,68 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42785431。",
-      "report": "Biliary atresia (BA), the leading cause of infant cholangiopathy, features progressive inflammation and fibrosis with undefined pathogenesis. In BA, biliary epithelial cells (BECs) act as both targets and drivers of hepatic inflammation. The cyclic GMP-AMP syn...",
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42786242。",
+      "report": "Organoids provide a versatile platform for studying fundamental biology, complementing traditional cell culture and in vivo models. Their unique features, such as self-organization and the possibility for their precise manipulation, have enabled key discoverie...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42785308",
+      "id": "pubmed-42786569",
       "date": "2026-09-24",
-      "title": "HOPX regulates the development and lineage progression of human stem cell-derived outer radial glia-like cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785308/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42785308。",
-      "report": "Outer radial glia (oRG) are abundant in the human fetal cortex but rare in rodents, yet their molecular regulation remains poorly understood. Although the homeodomain-only protein X (HOPX) is a well-established oRG marker, its functional role in human cortical...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42786569。",
+      "report": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42785297",
+      "id": "pubmed-42786876",
       "date": "2026-09-24",
-      "title": "Immunoids: Building immunocompetent organoids from human pluripotent stem cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785297/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42785297。",
-      "report": "Pluripotent stem cell-derived immunocompetent organoids and assembloids, termed here \"immunoids,\" are becoming important human models for studying immune-tissue interactions. Advances across organ systems now include incorporation of mature and immature immune...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42785293",
-      "date": "2026-09-24",
-      "title": "Human-centric preclinical models for CAR T cell therapy in solid tumors: Where patient-derived organoids fit.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "The Future of AI in Breast Cancer: Quantum Computing and Next-Gen Algorithms for Precision Oncology.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785293/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786876/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
         "Clinical Evidence",
         "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
         "临床",
         "监管",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42785293。",
-      "report": "Chimeric antigen receptor (CAR) T cell therapy has shown promising activity in solid tumors, yet translational progress remains limited by preclinical models that incompletely capture human tumor biology. Patient-derived organoids (PDOs) preserve key features...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Current drug research reviews，PMID 为 42786876。",
+      "report": "Breast cancer is still one of the most significant global contributors to cancer-related deaths. Artificial intelligence (AI) applications in imaging, diagnostic imaging and assistance, systemic treatment and personalization, and predictive modeling are all pa...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -766,32 +830,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42785304",
-      "date": "2026-09-24",
-      "title": "Genome-wide cell-free DNA methylation profiling via TAPS for moyamoya disease diagnosis and postoperative collateral formation prediction.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785304/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42785304。",
-      "report": "Moyamoya disease (MMD) lacks reliable biomarkers for distinguishing it from atherosclerotic cerebrovascular disease (ACVD) and predicting postoperative collateral formation (PCF). Here, we apply low-input, bisulfite-free TET-assisted pyridine borane sequencing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42773890",
       "date": "2026-09-23",
       "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
@@ -818,6 +856,38 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of biomolecular structure & dynamics，PMID 为 42773890。",
       "report": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we de...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42786871",
+      "date": "2026-09-23",
+      "title": "Cutting-Edge Diagnostics and Nanotechnology-Enabled Precision Medicine in Hepatocellular Carcinoma: A Comprehensive Review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786871/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Anti-cancer agents in medicinal chemistry，PMID 为 42786871。",
+      "report": "Hepatocellular carcinoma (HCC) is one of the largest health burdens in the world because of high mortality rates, low early diagnostic sensitivity, and poor response to conventional treatment. The existing diagnostic and treatment methods tend to be non-specif...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -879,62 +949,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42773138。",
       "report": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide s...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42771506",
-      "date": "2026-09-22",
-      "title": "Programmed inhibition of an innate immune receptor via de novo designed transmembrane proteins.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42771506/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42771506。",
-      "report": "Transmembrane domains of immune complexes transmit precise signals across lipid bilayers. Probing their interactions has the potential to yield mechanistic insights relevant to therapeutic design. However, our capability to generate molecules that bind lipid-e...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42785009",
-      "date": "2026-09-21",
-      "title": "Plasma ATR-FTIR spectroscopy combined with machine learning for nasopharyngeal carcinoma classification.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785009/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 42785009。",
-      "report": "Nasopharyngeal carcinoma (NPC) is often diagnosed at advanced stages, creating a need for minimally invasive approaches to support detection. This study evaluated plasma attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, combined...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1101,6 +1115,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42786656",
+      "date": "2026-09-01",
+      "title": "Circulating tumour cells for guiding antibody‒drug conjugate therapy: Role of artificial intelligence.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786656/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical and translational medicine，PMID 为 42786656。",
+      "report": "Antibody‒drug conjugates (ADCs) represent a major advance in precision oncology, yet their effectiveness depends critically on adequate target antigen expression. Tumour heterogeneity and dynamic antigen expression during treatment pose major challenges for co...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1132,36 +1178,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42784010",
-      "date": "2026-08-25",
-      "title": "Unexpected Long-Term Survival in Resected Pancreatic Ductal Adenocarcinoma Harboring KRAS G12R with an Ultra-Low-VAF SMAD4 Mutation: A Case Report and Mini-Review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42784010/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Reports (MDPI)，PMID 为 42784010。",
-      "report": "Background and Clinical Significance: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with a poor prognosis, even in resectable disease. Molecular alterations in the four major driver genes (KRAS, SMAD4, CDKN2A, and TP53) have been associat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -4,17 +4,167 @@
   "asOfDate": "2026-09-25",
   "evidence": [
     {
-      "id": "evidence-pubmed-42785563",
-      "signalId": "pubmed-42785563",
+      "id": "evidence-sec-0001662579-000162828026063497",
+      "signalId": "sec-0001662579-000162828026063497",
+      "companyIds": [
+        "c4-therapeutics"
+      ],
+      "publishedAt": "2026-09-25",
+      "snapshotDate": "2026-09-25",
+      "title": "C4 Therapeutics filed Form 8-K",
+      "eventType": "Corporate Update",
+      "evidenceKind": "Corporate Filing",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026063497/cccc-20260925.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "CCCC"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-063497 for C4 Therapeutics, Form 8-K, filed on 2026-09-25.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-sec-0001801198-000117184326006229",
+      "signalId": "sec-0001801198-000117184326006229",
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "publishedAt": "2026-09-25",
+      "snapshotDate": "2026-09-25",
+      "title": "Legend Biotech filed Form 6-K",
+      "eventType": "Corporate Update",
+      "evidenceKind": "Corporate Filing",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-006229 for Legend Biotech, Form 6-K, filed on 2026-09-25.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "evidence-pubmed-42786574",
+      "signalId": "pubmed-42786574",
       "companyIds": [],
       "publishedAt": "2026-09-24",
       "snapshotDate": "2026-09-25",
-      "title": "Human brain organoids and neural progenitor cells model Oropouche virus infection and reveal varied responses to antiviral therapies.",
+      "title": "Exploring Australian Public Attitudes Toward Organoid Research and Use: A Cross-Sectional Study.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785563/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786574/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42786574。",
+      "report": "Organoid technologies offer promising new ways to study human biology and develop innovative therapies. While their scientific potential is clear, public awareness and acceptability remain largely unexplored - critical factors for ethical and equitable impleme...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42786507",
+      "signalId": "pubmed-42786507",
+      "companyIds": [],
+      "publishedAt": "2026-09-24",
+      "snapshotDate": "2026-09-25",
+      "title": "Rethinking non-human primate models for emerging viral infections after COVID-19.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786507/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Laboratory animal research，PMID 为 42786507。",
+      "report": "Non-human primates (NHPs) retain particular value in emerging viral infection research when questions require integrated analysis of systemic viral kinetics, protective immunity, tissue pathology, or longitudinal outcomes. However, their cost, limited availabi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42786260",
+      "signalId": "pubmed-42786260",
+      "companyIds": [],
+      "publishedAt": "2026-09-24",
+      "snapshotDate": "2026-09-25",
+      "title": "Disrupted PQBP1-HNRNPU-LINE-1 axis underlies aberrant neurodevelopment in renpenning syndrome.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786260/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Molecular psychiatry，PMID 为 42786260。",
+      "report": "Mutations in RNA splicing factor PQBP1 cause Renpenning syndrome (RS), yet whether LINE-1 (L1) contributes to RS pathogenesis remains unclear. Here, we generated human forebrain organoids model carrying a novel patient-derived PQBP1 variant (c.28 C > G; p.R10G...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42786251",
+      "signalId": "pubmed-42786251",
+      "companyIds": [],
+      "publishedAt": "2026-09-24",
+      "snapshotDate": "2026-09-25",
+      "title": "Old organoids mimic brain maturation.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786251/",
       "reliability": "High",
       "evidenceLevel": "Low",
       "needsReview": true,
@@ -26,56 +176,60 @@
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Virologica Sinica，PMID 为 42785563。",
+      "fact": "PubMed 记录显示该文献收录于 Nature reviews. Neuroscience，PMID 为 42786251。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42785530",
-      "signalId": "pubmed-42785530",
-      "companyIds": [],
+      "id": "evidence-pubmed-42786283",
+      "signalId": "pubmed-42786283",
+      "companyIds": [
+        "hub-organoids"
+      ],
       "publishedAt": "2026-09-24",
       "snapshotDate": "2026-09-25",
-      "title": "Zhuche Pill alleviates DSS-induced colonic epithelial injury in mice: involvement of IL-17/NF-κB and Wnt/β-catenin signaling pathways.",
+      "title": "Hepatitis B virus protein X promotes survival and loss of hepatocyte identity in a differentiated human liver organoid system.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785530/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786283/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
         "多组学"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 42785530。",
-      "report": "Zhuche Pill (ZCP), a traditional Chinese medicine formula first documented in Qianjin Yaofang during the Tang Dynasty, has been used for centuries to treat dysentery-associated gastrointestinal disorders, including abdominal pain, diarrhea, hematochezia, and t...",
+      "fact": "PubMed 记录显示该文献收录于 Cell death and differentiation，PMID 为 42786283。",
+      "report": "Hepatitis B virus (HBV) drives hepatocellular carcinoma in part through the activity of its X protein (HBx), yet the mechanisms by which HBx alters hepatocyte function remain incompletely understood. Progress has been limited by the lack of relevant human mode...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42785431",
-      "signalId": "pubmed-42785431",
+      "id": "evidence-pubmed-42786242",
+      "signalId": "pubmed-42786242",
       "companyIds": [],
       "publishedAt": "2026-09-24",
       "snapshotDate": "2026-09-25",
-      "title": "Mitochondrial DNA released by Biliary Epithelial Cells enhances inflammation in Biliary Atresia through the cGAS-STING-NF-κB pathway.",
-      "eventType": "Research",
+      "title": "Tutorial: interrogating biology using organoid technologies.",
+      "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785431/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786242/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models"
@@ -84,105 +238,68 @@
         "类器官",
         "疾病模型"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42785431。",
-      "report": "Biliary atresia (BA), the leading cause of infant cholangiopathy, features progressive inflammation and fibrosis with undefined pathogenesis. In BA, biliary epithelial cells (BECs) act as both targets and drivers of hepatic inflammation. The cyclic GMP-AMP syn...",
+      "fact": "PubMed 记录显示该文献收录于 Nature protocols，PMID 为 42786242。",
+      "report": "Organoids provide a versatile platform for studying fundamental biology, complementing traditional cell culture and in vivo models. Their unique features, such as self-organization and the possibility for their precise manipulation, have enabled key discoverie...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42785308",
-      "signalId": "pubmed-42785308",
+      "id": "evidence-pubmed-42786569",
+      "signalId": "pubmed-42786569",
       "companyIds": [],
       "publishedAt": "2026-09-24",
       "snapshotDate": "2026-09-25",
-      "title": "HOPX regulates the development and lineage progression of human stem cell-derived outer radial glia-like cells.",
+      "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785308/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42785308。",
-      "report": "Outer radial glia (oRG) are abundant in the human fetal cortex but rare in rodents, yet their molecular regulation remains poorly understood. Although the homeodomain-only protein X (HOPX) is a well-established oRG marker, its functional role in human cortical...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42786569。",
+      "report": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42785297",
-      "signalId": "pubmed-42785297",
+      "id": "evidence-pubmed-42786876",
+      "signalId": "pubmed-42786876",
       "companyIds": [],
       "publishedAt": "2026-09-24",
       "snapshotDate": "2026-09-25",
-      "title": "Immunoids: Building immunocompetent organoids from human pluripotent stem cells.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785297/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42785297。",
-      "report": "Pluripotent stem cell-derived immunocompetent organoids and assembloids, termed here \"immunoids,\" are becoming important human models for studying immune-tissue interactions. Advances across organ systems now include incorporation of mature and immature immune...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42785293",
-      "signalId": "pubmed-42785293",
-      "companyIds": [],
-      "publishedAt": "2026-09-24",
-      "snapshotDate": "2026-09-25",
-      "title": "Human-centric preclinical models for CAR T cell therapy in solid tumors: Where patient-derived organoids fit.",
+      "title": "The Future of AI in Breast Cancer: Quantum Computing and Next-Gen Algorithms for Precision Oncology.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785293/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786876/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
         "Clinical Evidence",
         "Regulatory Watch",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
         "临床",
         "监管",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42785293。",
-      "report": "Chimeric antigen receptor (CAR) T cell therapy has shown promising activity in solid tumors, yet translational progress remains limited by preclinical models that incompletely capture human tumor biology. Patient-derived organoids (PDOs) preserve key features...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Current drug research reviews，PMID 为 42786876。",
+      "report": "Breast cancer is still one of the most significant global contributors to cancer-related deaths. Artificial intelligence (AI) applications in imaging, diagnostic imaging and assistance, systemic treatment and personalization, and predictive modeling are all pa...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -278,32 +395,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42785304",
-      "signalId": "pubmed-42785304",
-      "companyIds": [],
-      "publishedAt": "2026-09-24",
-      "snapshotDate": "2026-09-25",
-      "title": "Genome-wide cell-free DNA methylation profiling via TAPS for moyamoya disease diagnosis and postoperative collateral formation prediction.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785304/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42785304。",
-      "report": "Moyamoya disease (MMD) lacks reliable biomarkers for distinguishing it from atherosclerotic cerebrovascular disease (ACVD) and predicting postoperative collateral formation (PCF). Here, we apply low-input, bisulfite-free TET-assisted pyridine borane sequencing...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001801198-000117184326006215",
       "signalId": "sec-0001801198-000117184326006215",
       "companyIds": [
@@ -392,6 +483,38 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of biomolecular structure & dynamics，PMID 为 42773890。",
       "report": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we de...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42786871",
+      "signalId": "pubmed-42786871",
+      "companyIds": [],
+      "publishedAt": "2026-09-23",
+      "snapshotDate": "2026-09-25",
+      "title": "Cutting-Edge Diagnostics and Nanotechnology-Enabled Precision Medicine in Hepatocellular Carcinoma: A Comprehensive Review.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786871/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Anti-cancer agents in medicinal chemistry，PMID 为 42786871。",
+      "report": "Hepatocellular carcinoma (HCC) is one of the largest health burdens in the world because of high mortality rates, low early diagnostic sensitivity, and poor response to conventional treatment. The existing diagnostic and treatment methods tend to be non-specif...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -487,34 +610,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42771506",
-      "signalId": "pubmed-42771506",
-      "companyIds": [],
-      "publishedAt": "2026-09-22",
-      "snapshotDate": "2026-09-25",
-      "title": "Programmed inhibition of an innate immune receptor via de novo designed transmembrane proteins.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42771506/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42771506。",
-      "report": "Transmembrane domains of immune complexes transmit precise signals across lipid bilayers. Probing their interactions has the potential to yield mechanistic insights relevant to therapeutic design. However, our capability to generate molecules that bind lipid-e...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001730463-000119312526398045",
       "signalId": "sec-0001730463-000119312526398045",
       "companyIds": [
@@ -544,34 +639,6 @@
       "report": "SEC metadata describes the primary document as: 424B3.",
       "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "evidence-pubmed-42785009",
-      "signalId": "pubmed-42785009",
-      "companyIds": [],
-      "publishedAt": "2026-09-21",
-      "snapshotDate": "2026-09-25",
-      "title": "Plasma ATR-FTIR spectroscopy combined with machine learning for nasopharyngeal carcinoma classification.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42785009/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 42785009。",
-      "report": "Nasopharyngeal carcinoma (NPC) is often diagnosed at advanced stages, creating a need for minimally invasive approaches to support detection. This study evaluated plasma attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, combined...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
       "id": "evidence-sec-0001601830-000160183026000112",
@@ -1047,6 +1114,38 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42786656",
+      "signalId": "pubmed-42786656",
+      "companyIds": [],
+      "publishedAt": "2026-09-01",
+      "snapshotDate": "2026-09-25",
+      "title": "Circulating tumour cells for guiding antibody‒drug conjugate therapy: Role of artificial intelligence.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786656/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Clinical and translational medicine，PMID 为 42786656。",
+      "report": "Antibody‒drug conjugates (ADCs) represent a major advance in precision oncology, yet their effectiveness depends critically on adequate target antigen expression. Tumour heterogeneity and dynamic antigen expression during treatment pose major challenges for co...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001682852-000119312526378505",
       "signalId": "sec-0001682852-000119312526378505",
       "companyIds": [
@@ -1141,36 +1240,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42784010",
-      "signalId": "pubmed-42784010",
-      "companyIds": [],
-      "publishedAt": "2026-08-25",
-      "snapshotDate": "2026-09-25",
-      "title": "Unexpected Long-Term Survival in Resected Pancreatic Ductal Adenocarcinoma Harboring KRAS G12R with an Ultra-Low-VAF SMAD4 Mutation: A Case Report and Mini-Review.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42784010/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Reports (MDPI)，PMID 为 42784010。",
-      "report": "Background and Clinical Significance: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with a poor prognosis, even in resectable disease. Molecular alterations in the four major driver genes (KRAS, SMAD4, CDKN2A, and TP53) have been associat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
