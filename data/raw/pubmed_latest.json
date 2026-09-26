@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-25T21:38:27.192665+00:00",
+  "capturedAt": "2026-09-26T05:06:11.884249+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-25",
-    "end": "2026-09-25"
+    "start": "2025-09-26",
+    "end": "2026-09-26"
   },
   "pmids": [
+    "42790590",
+    "42790424",
+    "42790423",
+    "42790210",
+    "42790164",
     "42789730",
-    "42789533",
-    "42788857",
-    "42788713",
-    "42788443",
-    "42788438",
     "42782810",
     "42775042",
     "42771879",
@@ -32,14 +32,105 @@
     "42781471",
     "42779796",
     "42773890",
+    "42791141",
+    "42791062",
     "42787936",
     "42787716",
     "42787516",
-    "42787390",
-    "42786876",
-    "42786871"
+    "42787390"
   ],
   "records": [
+    {
+      "pmid": "42790590",
+      "title": "Dietary choline prevents colitis-driven carcinogenesis via SLC5A7-dependent Notch1 degradation and goblet cell reprogramming.",
+      "abstract": "Chronic inflammation is a major driver of colorectal tumorigenesis, with patients suffering from inflammatory bowel disease (IBD) exhibiting a significantly elevated risk of developing colitis-associated cancer (CAC). Although epidemiological studies link dietary choline to reduced colorectal cancer (CRC) risk, its mechanism in inflammation-driven carcinogenesis remains unclear. Here, we demonstrate that the high-affinity choline transporter SLC5A7 mediates the protective effects of choline against intestinal inflammation and tumor development. Using intestinal epithelial-specific SLC5A7 knockout mice, we found that SLC5A7 deficiency exacerbated dextran sulfate sodium (DSS)-induced colitis and enhanced azoxymethane (AOM)/DSS-driven tumorigenesis. Single-cell RNA sequencing revealed that SLC5A7 loss led to marked goblet cell depletion, impaired mucosal barrier integrity, and increased bacterial invasion. Mechanistically, SLC5A7 directly bound to Notch1 and promoted its proteasomal degradation, thereby relieving Notch1-mediated suppression of goblet cell differentiation. Furthermore, choline supplementation upregulated SLC5A7 expression and inhibited Notch1 signaling in human colonic epithelial cells and intestinal organoids. Critically, all protective effects of dietary choline were abolished in SLC5A7-deficient mice. Our study defines a previously unrecognized pathway-from nutrient intake to epithelial defense-wherein choline activates SLC5A7 to degrade Notch1, promote goblet cell differentiation, and enhance barrier function, thereby suppressing colitis and associated carcinogenesis. These findings establish SLC5A7 as a key nutrient-sensitive regulator of intestinal homeostasis and provide a mechanistic basis for choline-based strategies to prevent IBD and CAC.",
+      "journal": "Mucosal immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China; Department of Gastrointestinal Surgery, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China. Electronic address: dailei2016@scu.edu.cn."
+      ],
+      "doi": "10.1016/j.mucimm.2026.100407",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790590/"
+    },
+    {
+      "pmid": "42790424",
+      "title": "Human iPSC models of myocardial infarction: From injury to repair and therapeutic discovery.",
+      "abstract": "Myocardial infarction (MI) remains a leading cause of death worldwide, and therapies that limit injury, promote repair, and restore cardiac function remain limited. Human induced pluripotent stem cells (hiPSCs) provide a renewable source of patient-specific cardiac cells and have enabled the development of increasingly complex in vitro models that incorporate cardiomyocytes together with supporting stromal and vascular cell types. These models are now being used to study multiple stages of MI pathophysiology and are increasingly being applied in therapeutic discovery and regenerative strategies. In this review, we summarize hiPSC-based cardiac models spanning 2D cultures to advanced 3D tissues, organoids, and heart-on-chip systems, evaluating how well they capture key features of human MI. We further discuss hiPSC applications in therapeutic discovery, drug screening, precision medicine, and regenerative repair. Finally, we highlight priorities for the field, including improved physiological complexity, stronger translational robustness, bioengineering strategies, and integration with multi-omics.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Anatomy and Embryology, Leiden University Medical Center, 2300RCLeiden, the Netherlands; The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, Leiden University Medical Center, 2300RC Leiden, the Netherlands. Electronic address: b.b.johnson@lumc.nl.",
+        "Department of Anatomy and Embryology, Leiden University Medical Center, 2300RCLeiden, the Netherlands; The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, Leiden University Medical Center, 2300RC Leiden, the Netherlands. Electronic address: c.l.mummery@lumc.nl.",
+        "Department of Anatomy and Embryology, Leiden University Medical Center, 2300RCLeiden, the Netherlands; The Novo Nordisk Foundation Center for Stem Cell Medicine, reNEW, Leiden University Medical Center, 2300RC Leiden, the Netherlands. Electronic address: r.p.davis@lumc.nl."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103079",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790424/"
+    },
+    {
+      "pmid": "42790423",
+      "title": "iPSC-derived retinal organoids: Biological insights and progress toward photoreceptor replacement therapy.",
+      "abstract": "Induced pluripotent stem cell (iPSC)-derived retinal organoids (ROs) have emerged as a platform for photoreceptor replacement therapy, supported by two complementary approaches: cone precursor cell transplantation and RO transplantation. Both have demonstrated proof of concept for functional synaptic integration with the host retinal network, with the first clinical application of iPSC-derived RO transplantation conducted in 2020. Key mechanistic insights include the role of the host environment in cone integration, genome editing-based enhancement of host-graft synaptogenesis recapitulating developmental synaptic assembly, and synaptic rewiring capacity in the adult primate retina. Beyond biology, successful clinical translation requires establishing meaningful endpoints that reflect stepwise therapeutic improvement, scalable good manufacturing practice (GMP)-compliant manufacturing including validated preservation protocols, and regulatory frameworks accommodating progenitor-stage cell therapies. Together, these advances offer a realistic path toward vision restoration in patients with currently untreatable retinal degenerative diseases.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan.",
+        "Department of Ophthalmology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China.",
+        "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan. Electronic address: e_lab.mandai@kcho.jp."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103053",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790423/"
+    },
+    {
+      "pmid": "42790210",
+      "title": "An autophagy-modulating strontium-delivery hydrogel for post-myocardial infarction angiogenesis and myocardial repair.",
+      "abstract": "Cardiomyocyte apoptosis and vascular dysfunction after myocardial infarction are major drivers of heart failure progression. In this study, we systematically evaluated the synergistic effects of an engineered hydrogel incorporating decellularized cardiac extracellular matrix (dECM) and SrSiO₃ on myocardial repair through multiple mechanisms. By combining dECM with gelatin methacryloyl (GelMA) and hyaluronic acid methacrylate (HAMA), we developed a photosensitive hydrogel with enhanced biocompatibility and mechanical properties. Following UV polymerization, the hydrogel exhibited controlled degradation and sustained Sr2⁺ release over 28 days. Functionally, released Sr2⁺ promoted endothelial angiogenesis and regulated autophagic homeostasis via the p-mTOR pathway, thereby reducing hypoxia-induced cardiomyocyte apoptosis. In vivo, the Sr2⁺-containing hydrogel significantly improved cardiac function and reduced myocardial fibrosis in infarcted mice. Human cardiac organoid studies further confirmed the autophagy-regulating mechanism of Sr2⁺. Overall, this work presents a promising myocardial repair strategy based on the synergistic effects of angiogenesis promotion, apoptosis inhibition, and autophagy regulation.",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cardiology, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 200062, China.",
+        "Department of GCP Office and Nephrology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, No. 639, Zhizaoju Road, Huangpu District, Shanghai, 200011, China.",
+        "Neocellmed Co., Ltd., Shanghai, China. Electronic address: zhen.qi@neocellmed.com.",
+        "Gansu Provincial Maternity and Child-Care Hospital, Gansu Provincial Central Hospital, Lanzhou, 730070, China. Electronic address: zhao761032@163.com.",
+        "Department of Cardiology, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, 200062, China. Electronic address: liuzongjun1548@shutcm.edu.cn."
+      ],
+      "doi": "10.1016/j.colsurfb.2026.116198",
+      "date": "2026-09-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790210/"
+    },
+    {
+      "pmid": "42790164",
+      "title": "Mitochondria-associated programmed cell death in colorectal cancer: molecular mechanisms, metabolic plasticity, and therapeutic opportunities.",
+      "abstract": "Mitochondria integrate bioenergetics, redox homeostasis, calcium signaling, metabolite synthesis, organelle quality control, innate immune sensing, and regulated cell death. In colorectal cancer (CRC), mitochondrial function is not simply suppressed by aerobic glycolysis; rather, tumor cells dynamically redistribute flux between glycolysis, oxidative phosphorylation, glutaminolysis, fatty-acid metabolism, and the mevalonate pathway to meet stage- and treatment-specific demands. This metabolic plasticity determines whether mitochondrial stress is buffered or converted into a lethal signal. Here, we critically synthesize recent evidence linking mitochondrial bioenergetics, reactive oxygen species (ROS), mitophagy, fusion-fission dynamics, mitochondrial DNA (mtDNA) damage and release, mitochondrial biogenesis, and oncogenic signaling to apoptosis and non-apoptotic forms of programmed cell death, including ferroptosis, pyroptosis, necroptosis, PANoptosis, and cuproptosis. We further discuss mtDNA sensors-cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING), Toll-like receptor 9 (TLR9), NOD-like receptor family pyrin domain-containing 3 (NLRP3), and Z-DNA-binding protein 1 (ZBP1)-as links between mitochondrial injury, tumor-cell death, and antitumor immunity. Particular attention is given to B-cell lymphoma 2 (BCL-2) homology 3 (BH3) mimetics, metabolic inhibitors, patient-derived organoids (PDO), patient-derived organoid xenografts (PDOX), and immunocompetent models. Current evidence supports mitochondria as a therapeutically actionable network, but also reveals major context dependencies related to tumor genotype, cell state, treatment schedule, immune competence, and normal-tissue mitochondrial requirements. Biomarker-guided combinations and model systems that preserve patient heterogeneity will therefore be essential for clinical translation.",
+      "journal": "European journal of cell biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pathology, Xinxiang Key Laboratory of Precision Medicine, The First Affiliated Hospital of Henan Medical University, Xinxiang, 453100, China; Department of Pathology, Henan Medical University, Xinxiang, 453000, China.",
+        "Department of Pathology, Xinxiang Key Laboratory of Precision Medicine, The First Affiliated Hospital of Henan Medical University, Xinxiang, 453100, China; Department of Biochemistry and Molecular Biology, Henan Medical University, Xinxiang, 453000, China. Electronic address: 151043@xxmu.edu.cn.",
+        "Department of Pathology, Xinxiang Key Laboratory of Precision Medicine, The First Affiliated Hospital of Henan Medical University, Xinxiang, 453100, China; Department of Pathology, Henan Medical University, Xinxiang, 453000, China. Electronic address: wnavy200299@163.com."
+      ],
+      "doi": "10.1016/j.ejcb.2026.151575",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790164/"
+    },
     {
       "pmid": "42789730",
       "title": "TRAF7 mutations stabilize K/NRAS and hyperactivate MAPK signaling to cause CAFDADD neurodevelopmental defects.",
@@ -63,88 +154,6 @@
       "doi": "10.1126/sciadv.adw8672",
       "date": "2026-09-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789730/"
-    },
-    {
-      "pmid": "42789533",
-      "title": "Targeted lysosomal activation in bladder epithelium enhances clearance of intracellular uropathogenic Escherichia coli.",
-      "abstract": "Recurrent urinary tract infections (UTIs) are a major clinical burden, driven in part by the ability of uropathogenic Escherichia coli (UPEC) to establish intracellular niches within the bladder epithelium, where bacteria withstand antibiotics and host defenses. The oral bacterial lysate OM-89 (Uro-Vaxom), a clinically approved and globally used therapy for the prevention and management of recurrent UTIs for several decades, reduces recurrence rates, but its cellular mechanisms of action remain incompletely understood. Here, we demonstrate that OM-89 strengthens antimicrobial defenses in bladder epithelial cells and, in combination with antibiotic therapy, limits post-antibiotic bacterial regrowth in epithelial infection models. OM-89 promotes lysosomal acidification and increases lysosomal protease activity in bladder organoids and differentiated epithelial monolayers, thereby directing intracellular UPEC toward degradative compartments. In parallel, OM-89 enhances intracellular accumulation of multiple antibiotic classes. These effects are conserved across distinct UPEC strains and in both murine and human epithelial models. Our findings demonstrate that bladder epithelial antimicrobial pathways can be pharmacologically reinforced to influence treatment outcomes by enhancing intracellular bacterial clearance.",
-      "journal": "PLoS pathogens",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Microbiology and Microtechnology, School of Life Sciences (SV), École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.",
-        "Bioinformatics Competence Centre, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.",
-        "OM Pharma Ltd., Meyrin/Geneva, Switzerland."
-      ],
-      "doi": "10.1371/journal.ppat.1014448",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789533/"
-    },
-    {
-      "pmid": "42788857",
-      "title": "AI-integrated human-relevant alternatives to animal experimentation in drug development: Toward a predictive translational ecosystem, from in vitro and in silico models to clinical and real-world evidence.",
-      "abstract": "Animal experimentation has long been associated with biomedical research and drug development. However, ethical concerns, limited translatability to humans and high clinical attrition rates (> 90%) necessitate a transition toward human-relevant approaches. Although diverse in vitro, in silico and artificial intelligence (AI)-enabled methodologies have emerged, their integration into a unified, regulatory-acceptable framework remains limited. This review proposes an AI-centred, multi-tier decision-support framework, to enable a phased shift toward animal-reduced and, ultimately, animal-free drug development. Human-relevant platforms (e.g. organoids, microphysiological systems (MPS) and 3D bioprinting), are evaluated for their potential to reproduce selected aspects of human pharmacokinetics, toxicity and disease phenotypes. AI-driven strategies, including pharmacokinetic/pharmacodynamic modelling, quantitative systems pharmacology, digital twins and virtual clinical simulations, support the prediction of individualised responses with multi-omics, imaging and real-world data. Special emphasis is placed on neuropharmacology, where AI-integrated human neural models enhance mechanistic understanding and therapeutic optimisation. Human-based approaches, such as microdosing, non-invasive imaging and real-world evidence, provide validation pathways and strengthen translational reliability. Despite progress, challenges related to technical limitations, data integration, cost and regulatory acceptance persist. To address these gaps, we propose the 'AI-orchestrated Human-Relevant Translational Ecosystem' (AI-HRTE), a conceptual framework integrating experimental, computational and clinical data, to support iterative, AI-assisted decision-making. While this framework offers a structured approach to enhance predictive modelling and reduce animal use in line with the Three Rs principles (i.e. replacement, reduction and refinement), its effectiveness remains hypothetical and requires prospective validation.",
-      "journal": "Alternatives to laboratory animals : ATLA",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmacology, Priyadarshini J.L. College of Pharmacy, Nagpur, Maharashtra, India."
-      ],
-      "doi": "10.1177/02611929261492225",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788857/"
-    },
-    {
-      "pmid": "42788713",
-      "title": "Bridging the gap: using organ-on-a-chip technology to evaluate nanoparticle enzyme replacement therapy for lysosomal storage diseases.",
-      "abstract": "Development for lysosomal storage diseases (LSDs) remains challenging because enzyme replacement therapy (ERT) exhibits limited tissue distribution and high immunogenicity. Although nanoparticle encapsulation can improve enzyme delivery, preclinical models inadequately predict human responses. Conventional in vitro assays lack continuous flow and physiological shear stress, potentially promoting artificial nanoparticle accumulation, whereas animal models often fail to reproduce human physiology. Organ-on-a-Chip (OoC) addresses these limitations by recreating in vivo conditions within microfluidic in vitro platforms, thereby supporting realistic cellular metabolism, growth, and intercellular communication. This review examines the potential of OoC platforms to advance nanoparticle-based ERT for LSDs. Engineered microchannels generate dynamic flow and shear stress, enabling assessment of nanoparticle-cell interactions, intracellular trafficking, tissue-barrier crossing, and other critical pharmacological parameters under physiopathologically relevant conditions. Literature published over the past twenty years was identified through PubMed, Scopus, and Web of Science. Nanoparticle functionalization strategies for targeting tissues affected by LSDs and their incorporation into OoC models are also discussed. Despite major challenges, particularly the lack of methodological standardization, integrating OoC systems, patient-derived cells, and nanoparticle-based ERT could transform preclinical research, support personalized medicine, accelerate clinical translation, and help address persistent unmet therapeutic needs among patients with LSDs.",
-      "journal": "Expert opinion on drug delivery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmaceutical Sciences of Ribeirao Preto, University of São Paulo, Ribeirão Preto, Brazil.",
-        "Institute of Chemistry of São Carlos, University of São Paulo, São Carlos, Brazil."
-      ],
-      "doi": "10.1080/17425247.2026.2738648",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788713/"
-    },
-    {
-      "pmid": "42788443",
-      "title": "Stem Cell-Based Strategies for Retinal Cell Restoration.",
-      "abstract": "Retinal degenerative diseases, including age-related macular degeneration, retinitis pigmentosa, diabetic retinopathy, and inherited retinal dystrophies, are among the leading causes of irreversible vision loss and blindness worldwide. Current treatments primarily slow disease progression and are unable to restore lost retinal cells or visual function, highlighting the need for regenerative therapeutic strategies. Stem cell-based therapies have emerged as a promising approach for retinal repair through multiple mechanisms, including retinal cell replacement, stimulation of endogenous regeneration, cellular reprogramming, immunomodulation, and paracrine signaling. This narrative review provides a comprehensive overview of the major stem cell sources investigated for retinal regeneration. In addition, the roles of extracellular vesicles and retinal organoids as emerging therapeutic platforms are discussed. Particular emphasis is placed on comparing the biological rationale, therapeutic potential, current preclinical and clinical evidence, and translational readiness of each approach. Despite encouraging progress, several challenges continue to limit routine clinical application, including poor survival and integration of transplanted cells, immune rejection, tumorigenicity, genomic instability, variability in differentiation efficiency, manufacturing standardization, and long-term safety. Continued advances in stem cell biology, tissue engineering, gene editing, and clinical trial design are expected to accelerate the development of safe and effective regenerative therapies for retinal diseases.",
-      "journal": "Biotechnology journal",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Miramichi EyeNB Centre of Excellence, Miramichi, New Brunswick, Canada."
-      ],
-      "doi": "10.1002/biot.70311",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788443/"
-    },
-    {
-      "pmid": "42788438",
-      "title": "Glioma and ependymoma through the lens of brain development, stem cells, and plasticity.",
-      "abstract": "Brain tumors are increasingly understood as having components of a development organization in which malignant cells leverage neural progenitor programs, lineage hierarchies, and circuit interactions that normally shape the developing brain. This review examines how these principles inform the biology of ependymoma and gliomas across the age spectrum, including H3 K27-altered diffuse midline glioma, H3 G34-mutant diffuse hemispheric glioma, IDH-mutant glioma, and glioblastoma. We highlight how tumor identity reflects developmental timing, regional context, and cell-of-origin competence, while also emphasizing that malignant cells can acquire plasticity beyond their normal counterparts. Across entities, single-cell, spatial, lineage-tracing, and organoid studies reveal progenitor-like compartments that sustain tumor growth, generate heterogeneous malignant states, and interact dynamically with the neural and immune microenvironment. Cancer neuroscience further extends this developmental framework by showing that neuronal activity, synaptic input, and neuromodulatory signaling can regulate tumor proliferation, migration, epigenetic state, and therapeutic response. Together, these findings argue that brain tumors should be viewed not as disorganized cellular masses but as aberrant developmental systems. Defining the developmental dependencies and circuit vulnerabilities of malignant progenitor states may enable more precise therapies that target tumor biology while preserving essential brain function.",
-      "journal": "Neuro-oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pediatric Oncology, Dana-Farber Boston Children's Cancer and Blood Disorders Center, Boston, Massachusetts, USA.",
-        "Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.",
-        "Department of Biological Chemistry, University of California Los Angeles, Los Angeles, California."
-      ],
-      "doi": "10.1093/neuonc/noag200",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788438/"
     },
     {
       "pmid": "42782810",
@@ -357,6 +366,51 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42773890/"
     },
     {
+      "pmid": "42791141",
+      "title": "Emerging advances in multimodal AI in cancer immunotherapy: from multi-scale data integration to clinical decision support.",
+      "abstract": "Immunotherapy is increasingly reshaping the therapeutic landscape of clinical oncology by inducing effective tumor regression and durable responses in various types of human cancers. However, a substantial fraction of patients resist immunotherapy, or even experience relapse after an initial response. Clinically, the conventional biomarkers often exhibit limited predictive accuracy and poor transferability across tumor types. These limitations highlight the urgent need for more robust, data-driven strategies to decipher tumor-immune dynamics and guide personalized treatment. Recently, artificial intelligence (AI) has emerged as a transformative paradigm in immuno-oncology, offering scalable solutions to decode high-dimensional and heterogeneous biomedical data. The evolution of AI can be broadly divided into six key stages: early machine learning (ML) classifiers, unsupervised representation learning, graph-based modeling of cell-cell interactions, multimodal foundation and biomedical language models, reinforcement and active learning paradigms, and AI virtual cells. At the molecular level, AI facilitates the integration of genomics, transcriptomics, proteomics, and spatially resolved single-cell omics, supporting fine-grained reconstruction of the tumor immune microenvironment (TIME). At the clinical interface, the application of deep learning (DL) in liquid biopsy, digital pathology, and radiologic imaging has advanced response prediction, biomarker discovery, and early detection of immune-related adverse events (irAEs), driving personized immunotherapy. This review synthesizes recent progress in AI-guided precision immunotherapy across molecular, cellular, and phenotypic area. By outlining key methodological advances and translational opportunities, we highlight that multimodal AI frameworks can pave the way toward the more interpretable, robust, and individualized immunotherapy strategies for cancer treatment.",
+      "journal": "Science bulletin",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oncology, the Affiliated Hospital, Southwest Medical University, Luzhou 646000, China; Jinfeng Laboratory, Chongqing 401329, China; Department of Gastroenterology & Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing 400042, China; School of Medicine, Chongqing University, Chongqing 400044, China.",
+        "College of Computer and Control Engineering, Northeast Forestry University, Harbin 150040, China.",
+        "Department of Gastroenterology & Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing 400042, China.",
+        "Department of Pathology, Daping Hospital, Army Medical University, Chongqing 400044, China.",
+        "College of Life Science, Chongqing Normal University, Chongqing 401331, China.",
+        "Department of Oncology, the Affiliated Hospital, Southwest Medical University, Luzhou 646000, China; Jinfeng Laboratory, Chongqing 401329, China; Department of Gastroenterology & Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing 400042, China.",
+        "Department of Gastroenterology & Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing 400042, China. Electronic address: zongsheng.he@tmmu.edu.cn.",
+        "Jinfeng Laboratory, Chongqing 401329, China. Electronic address: 15622253439@163.com.",
+        "College of Computer and Control Engineering, Northeast Forestry University, Harbin 150040, China; Department of Computer Science and Technology, Faculty of Computing, Harbin Institute of Technology, Harbin 150001, China. Electronic address: ghwang@hit.edu.cn.",
+        "Institute of Pathology and Southwest Cancer Center, and Key Laboratory of Tumor Immunopathology of Ministry of Education of China, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China. Electronic address: bianxiuwu@263.net.",
+        "Department of Oncology, the Affiliated Hospital, Southwest Medical University, Luzhou 646000, China; Department of Gastroenterology & Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital, Army Medical University (Third Military Medical University), Chongqing 400042, China. Electronic address: wb_tmmu@126.com."
+      ],
+      "doi": "10.1016/j.scib.2026.09.016",
+      "date": "2026-09-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42791141/"
+    },
+    {
+      "pmid": "42791062",
+      "title": "Liquid Biopsy and Multi-Cancer Early Detection Tests for Cancer Screening: A Scoping Review.",
+      "abstract": "Liquid biopsy constitutes a range of tests that use biological fluids to detect cancer. Research is now targeting their use for cancer screening. This is the first review of the evidence on liquid biopsy tests across a range of analytical parameters, biomarkers, and cancer types for cancer screening. A scoping review was conducted using JBI methodology for scoping reviews. MEDLINE and targeted websites were searched for studies published in 2014 or later on the use of liquid biopsy and multi-cancer early detection tests for screening. A total of 104 studies were included, covering a wide range of study designs. Several types of biomarkers (e.g., cell-free DNA, circulating tumor DNA) and analytical parameters were used. Most studies addressed test performance outcomes, while fewer addressed clinical outcomes, implementation considerations, and cost-effectiveness. No empirical studies on cancer-specific mortality were found. A large body of literature was identified that covered a range of cancer types, biomarkers, analytical parameters, and outcomes. Critical gaps in the literature were demonstrated, including evidence on clinical outcomes such as cancer-specific mortality and potential harms that currently preclude the implementation of liquid biopsy tests for cancer screening. Findings of this review can be used to guide the necessary future research.",
+      "journal": "Clinical genetics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Division of Prevention & Screening, Population and Community-Based Care, Ontario Health, Toronto, Ontario, Canada.",
+        "Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada.",
+        "Department of Medicine, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.",
+        "Department of Medicine, University of Toronto, Toronto, Ontario, Canada."
+      ],
+      "doi": "10.1111/cge.70249",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42791062/"
+    },
+    {
       "pmid": "42787936",
       "title": "Circulating tumor DNA tumor fraction as a biomarker in refractory metastatic colorectal cancer: findings from the CAVE-2 GOIM trial.",
       "abstract": "Liquid biopsy guided anti-EGFR rechallenge therapy is gaining ground as a potential option for patient with refractory metastatic colorectal cancer. However, the identification of potential biomarkers to implement patient's stratification is required. The CAVE-2 GOIM trial investigated the role of rechallenge with cetuximab ± avelumab in patients with circulating tumor DNA (ctDNA) (assessed with the FoundationOne Liquid assay) RAS/BRAF wild type (WT) mCRC. Correlation with molecular profile, ctDNA tumor fraction (TF), and clinicopathological characteristics was performed. In patients with \"negative\" compared with \"positive hyperselected\" tumors the overall response rate was 12% vs 3%, median progression free survival (mPFS) mPFS 5.6 months (4.4-6.9) vs 3.65 months (2.8-4.8) (HR 0.61, 95%CI 0.41-0.91; P = 0.0155), median overall survival (mOS) 14.5 months (12.4-19.0) vs 11.6 months (8.5-15.6) (HR0.61, 95% CI 0.40-0.93; P = 0.023). Therefore, we explored potential biomarkers in patients with \"negative hyperselected\" tumors. Remarkably, among the investigated factors at multivariable analysis for PFS and OS only ctDNA TF retained significance. For patients with negative hyperselected tumors with ctDNA TF ≥ 10 compared with patients with ctDNA TF <10% mPFS was 4.8 months (3.4-3.9) vs 5.7 (4.4-6.9) (HR 1.74, 95% CI 1.20-2.53; P = 0.00382) and mOS 11.0 months (8.3-13.0) vs 21.3 months (HR 2.75, 95% CI 1.79-4.23; P = 0.00000418). This data suggests that a higher ctDNA shedding might better refine cancer aggressiveness and metastatic load than tumor burden. Taken together these results highlights the strong prognostic value of ctDNA TF and the potential role for treatment personalization.",
@@ -454,43 +508,109 @@
       "doi": "10.62347/URCI9453",
       "date": "2026-08-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42787390/"
-    },
-    {
-      "pmid": "42786876",
-      "title": "The Future of AI in Breast Cancer: Quantum Computing and Next-Gen Algorithms for Precision Oncology.",
-      "abstract": "Breast cancer is still one of the most significant global contributors to cancer-related deaths. Artificial intelligence (AI) applications in imaging, diagnostic imaging and assistance, systemic treatment and personalization, and predictive modeling are all part of the fast-growing field of breast cancer care. This review examined the many applications of AI in cancer care, including prediction, diagnostic work-up, staging, early diagnosis, and therapy response. AI's contributions to radiology include risk assessment models, tomosynthesis-enhanced mammography, and other imaging methods, including MRI and ultrasound. In pathology, AI can improve marker quantification and histological diagnosis, as well as prognostic models, including models for predicting genetic mutations. Realising the potential of AI, however, will not be without challenges that may limit ubiquity in clinical practice. Our review highlights the potentially transformational but presently limited ability of AI to improve breast cancer care. It urges targeted research to eliminate these obstacles and maximize the application of AIsupported solutions to those that impede clinical adoption in the real world. We have been able to demonstrate how AI may enhance diagnostic precision, customize treatment options, and have a favorable impact on patient outcomes from detection to treatment and follow-up care by methodically recording its involvement in radiology and pathology. The effectiveness of AI's influence on breast cancer treatment hinges on cooperation and regulatory compliance.",
-      "journal": "Current drug research reviews",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmacology, Metro College of Pharmacy, Greater Noida, Gautam Budh Nagar, Uttar Pradesh, 201301, India.",
-        "Department of Pharmacology, School of Pharmacy & Research Centre, Sanskriti University, Mathura, Uttar Pradesh, 281401, India."
-      ],
-      "doi": "10.2174/0125899775478789260914150116",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786876/"
-    },
-    {
-      "pmid": "42786871",
-      "title": "Cutting-Edge Diagnostics and Nanotechnology-Enabled Precision Medicine in Hepatocellular Carcinoma: A Comprehensive Review.",
-      "abstract": "Hepatocellular carcinoma (HCC) is one of the largest health burdens in the world because of high mortality rates, low early diagnostic sensitivity, and poor response to conventional treatment. The existing diagnostic and treatment methods tend to be non-specific and linked with systemic toxicity and late cancer detection, which provokes the necessity of more accurate, precision-driven methods. This review analyzes recent developments in HCC diagnosis and treatment, including new biomarkers, liquid biopsy, and nanotechnology-based therapeutic systems. We critically analysed relevant studies on molecular biomarkers, tumour microenvironment targets, and various nanocarrier platforms. Newer biomarkers such as Glypican-3, Exosomal microRNAs, circulating tumour DNA methylation panels, AFP-L3, IFI44L, miR-375, miR-203, and CD19 on tumour-associated macrophages showed better diagnostic sensitivity and specificity. Nanotherapeutics approaches that use lipid-based nanoparticles, polymeric systems, inorganic nanoparticles, metal-based nanoparticles, and carbon-based nanocarriers displayed enhanced therapy delivery, targeting, and therapeutic effects. Liposomes, dendrimers, polymeric nanoparticles, and mesoporous silica nanoparticles had especially promising outcomes. A combination of biomarker-based diagnostics and nanotechnology-based diagnostic delivery systems will enable earlier detection, treatment, and delivery of therapeutic agents, reducing systemic toxicity. The liquid biopsy, multi-omics profiling, and AI-assisted imaging developments further improve the accuracy of diagnosis and personalised treatment. Biomarker-based diagnostics and nanocarrier-based therapeutics are potential solutions to enhance HCC management by improving early diagnosis, treatment outcomes, and prognosis.",
-      "journal": "Anti-cancer agents in medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmaceutical Quality Assurance, School of Pharmacy and Technology Management, SVKM NMIMS Global University, Dhule, Maharashtra, India-424001.",
-        "Department of Formulation, Analytical Research and Development, Aragen Life Sciences, Hyderabad, India.",
-        "Department of external R&D and technical services, Alvogen Inc., 44 Whippany Rd, Suite 300, Morristown, NJ 07960, USA.",
-        "Department of Regulatory Affairs in CMC, STA Pharmaceuticals US LLC, 6114 Nancy Ridge Drive, San Diego, CA 92121, USA."
-      ],
-      "doi": "10.2174/0118715206470187260914042941",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786871/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42790590",
+      "date": "2026-09-25",
+      "title": "Dietary choline prevents colitis-driven carcinogenesis via SLC5A7-dependent Notch1 degradation and goblet cell reprogramming.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790590/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Mucosal immunology，PMID 为 42790590。",
+      "report": "Chronic inflammation is a major driver of colorectal tumorigenesis, with patients suffering from inflammatory bowel disease (IBD) exhibiting a significantly elevated risk of developing colitis-associated cancer (CAC). Although epidemiological studies link diet...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42790424",
+      "date": "2026-09-25",
+      "title": "Human iPSC models of myocardial infarction: From injury to repair and therapeutic discovery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790424/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42790424。",
+      "report": "Myocardial infarction (MI) remains a leading cause of death worldwide, and therapies that limit injury, promote repair, and restore cardiac function remain limited. Human induced pluripotent stem cells (hiPSCs) provide a renewable source of patient-specific ca...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42790423",
+      "date": "2026-09-25",
+      "title": "iPSC-derived retinal organoids: Biological insights and progress toward photoreceptor replacement therapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790423/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42790423。",
+      "report": "Induced pluripotent stem cell (iPSC)-derived retinal organoids (ROs) have emerged as a platform for photoreceptor replacement therapy, supported by two complementary approaches: cone precursor cell transplantation and RO transplantation. Both have demonstrated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42789730",
       "date": "2026-09-25",
@@ -516,128 +636,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789730。",
       "report": "The MAPK-ERK1/2 pathway plays a crucial role in neurodevelopment during embryogenesis, and the hyperactivation of this signaling cascade serves as a pathological hallmark for various neurodevelopmental disorders. Germline variants in TRAF7, encoding a RING-typ...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42789533",
-      "date": "2026-09-25",
-      "title": "Targeted lysosomal activation in bladder epithelium enhances clearance of intracellular uropathogenic Escherichia coli.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789533/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PLoS pathogens，PMID 为 42789533。",
-      "report": "Recurrent urinary tract infections (UTIs) are a major clinical burden, driven in part by the ability of uropathogenic Escherichia coli (UPEC) to establish intracellular niches within the bladder epithelium, where bacteria withstand antibiotics and host defense...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42788857",
-      "date": "2026-09-25",
-      "title": "AI-integrated human-relevant alternatives to animal experimentation in drug development: Toward a predictive translational ecosystem, from in vitro and in silico models to clinical and real-world evidence.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788857/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Alternatives to laboratory animals : ATLA，PMID 为 42788857。",
-      "report": "Animal experimentation has long been associated with biomedical research and drug development. However, ethical concerns, limited translatability to humans and high clinical attrition rates (> 90%) necessitate a transition toward human-relevant approaches. Alt...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42788713",
-      "date": "2026-09-25",
-      "title": "Bridging the gap: using organ-on-a-chip technology to evaluate nanoparticle enzyme replacement therapy for lysosomal storage diseases.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788713/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug delivery，PMID 为 42788713。",
-      "report": "Development for lysosomal storage diseases (LSDs) remains challenging because enzyme replacement therapy (ERT) exhibits limited tissue distribution and high immunogenicity. Although nanoparticle encapsulation can improve enzyme delivery, preclinical models ina...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42788438",
-      "date": "2026-09-25",
-      "title": "Glioma and ependymoma through the lens of brain development, stem cells, and plasticity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788438/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42788438。",
-      "report": "Brain tumors are increasingly understood as having components of a development organization in which malignant cells leverage neural progenitor programs, lineage hierarchies, and circuit interactions that normally shape the developing brain. This review examin...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -671,6 +669,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42791062",
+      "date": "2026-09-25",
+      "title": "Liquid Biopsy and Multi-Cancer Early Detection Tests for Cancer Screening: A Scoping Review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42791062/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical genetics，PMID 为 42791062。",
+      "report": "Liquid biopsy constitutes a range of tests that use biological fluids to detect cancer. Research is now targeting their use for cancer screening. This is the first review of the evidence on liquid biopsy tests across a range of analytical parameters, biomarker...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42786569",
       "date": "2026-09-24",
       "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
@@ -697,36 +727,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42786569。",
       "report": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42786876",
-      "date": "2026-09-24",
-      "title": "The Future of AI in Breast Cancer: Quantum Computing and Next-Gen Algorithms for Precision Oncology.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786876/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current drug research reviews，PMID 为 42786876。",
-      "report": "Breast cancer is still one of the most significant global contributors to cancer-related deaths. Artificial intelligence (AI) applications in imaging, diagnostic imaging and assistance, systemic treatment and personalization, and predictive modeling are all pa...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -759,38 +759,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42786871",
-      "date": "2026-09-23",
-      "title": "Cutting-Edge Diagnostics and Nanotechnology-Enabled Precision Medicine in Hepatocellular Carcinoma: A Comprehensive Review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786871/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Anti-cancer agents in medicinal chemistry，PMID 为 42786871。",
-      "report": "Hepatocellular carcinoma (HCC) is one of the largest health burdens in the world because of high mortality rates, low early diagnostic sensitivity, and poor response to conventional treatment. The existing diagnostic and treatment methods tend to be non-specif...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42771879",
       "date": "2026-09-22",
       "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
@@ -816,6 +784,64 @@
       "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
       "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42790164",
+      "date": "2026-09-21",
+      "title": "Mitochondria-associated programmed cell death in colorectal cancer: molecular mechanisms, metabolic plasticity, and therapeutic opportunities.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790164/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cell biology，PMID 为 42790164。",
+      "report": "Mitochondria integrate bioenergetics, redox homeostasis, calcium signaling, metabolite synthesis, organelle quality control, innate immune sensing, and regulated cell death. In colorectal cancer (CRC), mitochondrial function is not simply suppressed by aerobic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42790210",
+      "date": "2026-09-20",
+      "title": "An autophagy-modulating strontium-delivery hydrogel for post-myocardial infarction angiogenesis and myocardial repair.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42790210/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42790210。",
+      "report": "Cardiomyocyte apoptosis and vascular dysfunction after myocardial infarction are major drivers of heart failure progression. In this study, we systematically evaluated the synergistic effects of an engineered hydrogel incorporating decellularized cardiac extra...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1078,37 +1104,43 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42788443",
-      "date": "2026-09-01",
-      "title": "Stem Cell-Based Strategies for Retinal Cell Restoration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "id": "pubmed-42791141",
+      "date": "2026-09-08",
+      "title": "Emerging advances in multimodal AI in cancer immunotherapy: from multi-scale data integration to clinical decision support.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788443/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42791141/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Diagnostics",
+        "Precision Medicine",
+        "Healthcare AI",
+        "Medical LLM",
         "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "诊断",
+        "精准医疗",
+        "医疗 AI",
+        "临床决策支持",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biotechnology journal，PMID 为 42788443。",
-      "report": "Retinal degenerative diseases, including age-related macular degeneration, retinitis pigmentosa, diabetic retinopathy, and inherited retinal dystrophies, are among the leading causes of irreversible vision loss and blindness worldwide. Current treatments prima...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42791141。",
+      "report": "Immunotherapy is increasingly reshaping the therapeutic landscape of clinical oncology by inducing effective tumor regression and durable responses in various types of human cancers. However, a substantial fraction of patients resist immunotherapy, or even exp...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
