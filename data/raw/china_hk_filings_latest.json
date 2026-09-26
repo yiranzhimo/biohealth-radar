@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-09-25T08:52:29.477674+00:00",
+  "capturedAt": "2026-09-26T08:40:18.629394+00:00",
   "source": "HKEXnews/CNINFO",
   "records": [
     {
@@ -886,13 +886,6 @@
       "status": "portal_reachable_no_report_links"
     },
     {
-      "companyId": "candidate-5a89d199d059",
-      "companyName": "泽璟制药",
-      "source": "CNINFO",
-      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688266",
-      "status": "portal_reachable_no_report_links"
-    },
-    {
       "companyId": "candidate-28a9294d8677",
       "companyName": "浩欧博",
       "source": "CNINFO",
@@ -1068,5 +1061,14 @@
       "status": "portal_reachable_no_report_links"
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "companyId": "candidate-5a89d199d059",
+      "companyName": "泽璟制药",
+      "source": "CNINFO",
+      "portalUrl": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=688266",
+      "status": "failed",
+      "error": "TimeoutError"
+    }
+  ]
 }
