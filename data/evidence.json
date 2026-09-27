@@ -4040,7 +4040,7 @@
       "publishedAt": "2026-09-25",
       "snapshotDate": "2026-09-25",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -4070,7 +4070,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b9b890765b282fc1fa49951677144223fb6f7bba75401a30fc67e60c4b40ba08",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso 2026 Interim Results: Strong Commercialization Momentum; IO2.0+ Global Strategy Redefining Clinical Standards; Bispecific Advancement in ADC, I&I and Alzheimer's",
@@ -5072,15 +5072,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-c4-therapeutics-official-c14b7471f7ba",
+      "id": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
       "signalId": null,
       "companyIds": [
         "c4-therapeutics"
       ],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-05",
+      "publishedAt": "2026-09-27",
+      "snapshotDate": "2026-09-27",
       "title": "Home - C4 Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "C4 Therapeutics — Official Website",
@@ -5096,7 +5096,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash c14b7471f7ba159a99581b9364fea506414d0ca2c9eefaeabf6d0ba2a5eb29c4.",
+      "fact": "The official page was captured with normalized-content hash ecd9c0ccbcd69e64c7f5edc8aba6718fbfb293b1a27053810039cd72dd031594.",
       "report": "公司官方页面表述：了解靶向蛋白降解。",
       "reportOriginal": "Learn About Targeted Protein Degradation",
       "reportCn": "了解靶向蛋白降解。",
@@ -5109,12 +5109,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "c14b7471f7ba159a99581b9364fea506414d0ca2c9eefaeabf6d0ba2a5eb29c4",
-      "changeType": "unchanged",
+      "contentHash": "ecd9c0ccbcd69e64c7f5edc8aba6718fbfb293b1a27053810039cd72dd031594",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn About Targeted Protein Degradation",
-        "Recent News C4 Therapeutics to Present New Biomarker Data on the Immunomodulatory Effects of Cemsidomide in Combination with Dexamethasone from its Phase 1 Relapsed/Refractory Multiple Myeloma Trial at the 23rd International Myeloma Society (IMS) Annual Meeting",
+        "Recent News C4 Therapeutics Presents New Biomarker Data from the Cemsidomide Phase 1 Trial with Dexamethasone and Phase 1b Trial with Elranatamab (ELREXFIO®) in Relapsed/Refractory Multiple Myeloma at the 23rd International Myeloma Society (IMS) Annual Meeting",
         "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc."
       ],
       "businessExcerpts": [
@@ -46623,15 +46623,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-d1d869ab139d",
+      "id": "evidence-company-legend-biotech-official-77c6e1dbcc58",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-16",
+      "publishedAt": "2026-09-27",
+      "snapshotDate": "2026-09-27",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -46647,7 +46647,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash d1d869ab139d617e71aa7055883365e9f690d0ee9eecb38e730b9d2df056f7f9.",
+      "fact": "The official page was captured with normalized-content hash 77c6e1dbcc58fa01e439b46cf02ec55be43a6eb921b0ca6a37e62e6ec6d9a093.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -46660,8 +46660,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "d1d869ab139d617e71aa7055883365e9f690d0ee9eecb38e730b9d2df056f7f9",
-      "changeType": "unchanged",
+      "contentHash": "77c6e1dbcc58fa01e439b46cf02ec55be43a6eb921b0ca6a37e62e6ec6d9a093",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -46673,13 +46673,13 @@
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
         "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
         "We are an end-to-end cell therapy company.",
-        "Dedicated to quality and driven by excellence, we are committed to improving the lives of patients worldwide."
+        "We focus on diseases that are considered intractable and incurable."
       ],
       "productExcerpts": [
         "Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
         "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
         "We are an end-to-end cell therapy company.",
-        "Our pipeline of cell therapies includes agents across hematologic and solid tumors."
+        "Helping Redefine What is Possible in Cell Therapy"
       ],
       "planExcerpts": []
     },
@@ -46907,7 +46907,7 @@
       "publishedAt": "2026-09-25",
       "snapshotDate": "2026-09-25",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -46937,7 +46937,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "fd2d5dacf706344f25164f5e4a48a7556d95a0e1b706e7d6f465667f45a5df9c",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -47348,15 +47348,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-29672d512436",
+      "id": "evidence-company-nykode-therapeutics-official-bf502f76aad9",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-09-11",
-      "snapshotDate": "2026-09-11",
+      "publishedAt": "2026-09-27",
+      "snapshotDate": "2026-09-27",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -47372,7 +47372,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 29672d512436d3f4febaca59264304b08db18b5434f23f83f38e0ff1b6363b19.",
+      "fact": "The official page was captured with normalized-content hash bf502f76aad98396272b2409238971579be0c206bb25646270ad1a9af00b4d94.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -47385,14 +47385,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "29672d512436d3f4febaca59264304b08db18b5434f23f83f38e0ff1b6363b19",
-      "changeType": "unchanged",
+      "contentHash": "bf502f76aad98396272b2409238971579be0c206bb25646270ad1a9af00b4d94",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
         "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-        "Nykode Therapeutics to Present at the H.C."
+        "Nykode Therapeutics receives ruling from Tax Appeal Board in ..."
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -47463,13 +47463,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-319c0305de3d",
+      "id": "evidence-company-oxford-nanopore-official-c179034c8b37",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-25",
-      "snapshotDate": "2026-09-25",
+      "publishedAt": "2026-09-27",
+      "snapshotDate": "2026-09-27",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -47487,7 +47487,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 319c0305de3d90e3c6d088e96985e4ac60bfe4638f253e4b273afa50bbd47d53.",
+      "fact": "The official page was captured with normalized-content hash c179034c8b378a7f4e6678165549e53f1e18af4000d3f7757e556de11773d0e5.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -47500,14 +47500,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "319c0305de3d90e3c6d088e96985e4ac60bfe4638f253e4b273afa50bbd47d53",
+      "contentHash": "c179034c8b378a7f4e6678165549e53f1e18af4000d3f7757e556de11773d0e5",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology",
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
+        "Search Oxford Nanopore Technologies Which site do you wish to search in?",
+        "VCGS achieves ISO 15189 accreditation for whole genome sequencing using Oxford Nanopore technology"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
