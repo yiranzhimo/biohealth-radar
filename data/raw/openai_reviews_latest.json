@@ -1,8 +1,426 @@
 {
-  "capturedAt": "2026-09-26T21:14:56.597812+00:00",
+  "capturedAt": "2026-09-27T12:09:18.006561+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42800908",
+      "responseId": "resp_0908855d0691d705006ab9076eb8a487d08543391700887226",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以判断研究质量和临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类信息支持度不足，特别是证据水平较低。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管事实、报告和推论分开，证据水平过低，不适合发布。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Annals of pharmacotherapy，PMID 为 42800908。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42799979",
+      "responseId": "resp_0aef8c2d4959709b006ab907727e3887d0933b9eab09715e33",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献的分类合理，信息来源清晰，两者之间的关系未得出临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别符合供给的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Bulletin of experimental biology and medicine，PMID 为 42799979。",
+          "report": "Organoids are a type of three-dimensional cellular constructs comprising cells of various specializations (phenotypes). In contrast to simple cellular spheroids (aggregates), cells within organoids exhibit more complex differentiation and functional characteristics.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42799565",
+      "responseId": "resp_0183d184d75d8a9d006ab90777cb0487d08d42aa1fb5cd8d46",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献综述了精准医疗的转变及其对临床试验设计的影响，但未提供治疗建议或临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告及推论清晰分隔，证据水平合理。"
+        },
+        "riskFlags": [
+          "regulatory_claim",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biopreservation and biobanking，PMID 为 42799565。",
+          "report": "The shift toward precision medicine has transformed clinical trial design and drug delivery, yet persistent gaps in data diversity continue to contribute to health disparities. Broad representation and precision stratification are not competing goals; rather,...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42800682",
+      "responseId": "resp_04f1d2cf7515b4a2006ab9077c3fb887d0915c6df5408f3fa4",
+      "review": {
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息分离清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合数据来源"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平合理，信息来源可靠"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of hepatology，PMID 为 42800682。",
+          "report": "Globally, 350 million people are at risk for HCC. Ultrasound screening is recommended but is limited by poor early-stage sensitivity and low adherence. This study evaluated whether the multi-target HCC blood test (mt-HBT) demonstrates non-inferior sensitivity...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42799247",
+      "responseId": "resp_0ff43d88c3010477006ab90780a0f087d08e5086438d3282af",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献记录准确，分类合理，无临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别适合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献的可靠性高，证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 FASEB bioAdvances，PMID 为 42799247。",
+          "report": "Retinal organoids derived from human induced pluripotent stem cells (hiPSCs) hold significant promise as a tool for advancing our understanding of human retinal development and disease, as well as for the development of therapeutic strategies. However, researc...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42798856",
+      "responseId": "resp_04d2203c8cfc508d006ab90786acb087d0b21705bb36d49211",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该记录存在可能的推论错误，需要人类审查以确保信息准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类部分不准确，缺乏支持该分类的具体证据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被评估为中等，但报告的内容不支持这一点。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Brain communications，PMID 为 42798856。",
+          "report": "SMN-enhancing therapies have improved outcomes in adult late-onset spinal muscular atrophy (loSMA), but minimally invasive biomarkers that reflect systemic disease and treatment effects are lacking.",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42801248",
+      "responseId": "resp_045a57fce36de9ed006ab9078a012c87d0bef2a1aeb1fba02b",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平为中等，信息来源清晰。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42801248。",
+          "report": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biologi...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42798930",
+      "responseId": "resp_0ac0f066465a1dc8006ab9078dab5087d08950687cf808af9e",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献中存在关于循环肿瘤DNA在II期结肠癌中的应用的讨论，但未能支持其有效性的结论。未说明研究的质量和潜在的利益冲突，需要进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "该文献的分类未能反映研究质量或临床结论的可靠性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管文献可靠性高，但证据水平未充分支持实力或临床有效性的声明。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42798930。",
+          "report": "Stage II colon cancer is clinically heterogeneous. Current clinicopathologic risk factors cannot accurately identify patients with residual disease after curative resection. Circulating tumor DNA (ctDNA) has emerged as a promising biomarker for the detection o...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42798990",
+      "responseId": "resp_00a10d4f233fc406006ab90791aea887d08c0cb9d68193c96e",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，因缺乏研究质量和临床阶段信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "AI-enabled Discovery 分类未能合理支持所提供的证据层级。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据层级为中等，但实际研究质量及相关信息不明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Low",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 ACS omega，PMID 为 42798990。",
+          "report": "Serological diagnosis of neglected arboviruses remains hindered by extensive intra-genus cross-reactivity, compromising both assay specificity and epidemiological accuracy. In this study, we focused on yellow fever virus (YFV) as a model system to design and v...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42801212",
+      "responseId": "resp_0e16d08afbc9278b006ab907956b7887d08d9b738ae89c9b48",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录合理，信息清晰且未包含未经支持的临床结论或推荐。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合实体信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献支持的信息与报告分开，证据水平合适。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Longevity",
+            "Biomarkers"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "衰老",
+            "biomarker",
+            "longevity"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biomicrofluidics，PMID 为 42801212。",
+          "report": "Organoids offer a promising alternative in biomedical research and clinical medicine, with better feature recapitulation than 2D cultures. They also have more consistent responses with clinical results when compared to animal models. However, major challenges...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }
