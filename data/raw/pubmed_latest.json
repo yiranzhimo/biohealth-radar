@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-27T21:24:36.185284+00:00",
+  "capturedAt": "2026-09-28T05:30:53.735385+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,108 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-27",
-    "end": "2026-09-27"
+    "start": "2025-09-28",
+    "end": "2026-09-28"
   },
   "pmids": [
+    "42801698",
+    "42801650",
+    "42801519",
+    "42801441",
     "42801248",
     "42801212",
-    "42799979",
-    "42799565",
-    "42799247",
-    "42797915",
     "42782810",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
     "42753692",
+    "42801963",
     "42798990",
     "42797484",
     "42793054",
     "42789724",
     "42786569",
-    "42782445",
+    "42801943",
+    "42801800",
+    "42801547",
     "42800682",
     "42798930",
-    "42798856",
-    "42798416",
-    "42798094",
     "42800908"
   ],
   "records": [
+    {
+      "pmid": "42801698",
+      "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
+      "abstract": "Influenza A virus (IAV) commandeers host transcriptional machinery to replicate, but mechanisms remain elusive. CRISPR screen identifies PARP1 as a proviral factor that binds viral NS1. ATAC‑seq reveals IAV drives PARP1‑dependent chromatin remodeling at promoter‑proximal regions (-100 to +300 bp), linking PARP1 to viral RNA synthesis. Mechanistically, NS1 engages PARP1's helical domain (HD), which alone forms large, irregular condensates with low fluidity, acting as a built‑in rheostat. HD deletion confers high droplet mobility, whereas NS1 binding locks PARP1 into a hyper‑condensed, gel‑like state. This phase transition traps Pol II in prolonged pause by enriching pausing factors (SPT5‑PLD, NELFA, NELFE) and excluding release factors (SPT5‑PRD, AFF4). The paused environment is hijacked for efficient cap‑snatching and viral RNA synthesis. This proviral activity is independent of PARP1's polymerase activity, revealing a non‑canonical mechanism that complements recent reports of PARP1‑mediated antiviral ADP‑ribosylation. Targeting this phase transition, we identify tectochrysin (TEC) and isoferulic acid (IFA), which restore fluidity, reverse pausing, and suppress IAV in mice and lung organoids without toxicity. Our work establishes that NS1 coopts PARP1 phase separation via the HD rheostat to prolong transcriptional pausing, introducing 'phase transition correction' as an antiviral paradigm.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
+        "Guangzhou National Laboratory, Guangzhou, China.",
+        "Guangzhou Key Laboratory for Clinical Rapid Diagnosis and Early Warning of Infectious Diseases, KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, China.",
+        "Engineering Technology Research Center of Intelligent Diagnosis for Infectious Diseases in Guangdong Province, Guangzhou, China.",
+        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, China.",
+        "Macao Institute of Systems Engineering, Macao University of Science and Technology, Macau SAR, China."
+      ],
+      "doi": "10.1002/advs.77883",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801698/"
+    },
+    {
+      "pmid": "42801650",
+      "title": "Copper-Driven Epithelial Barrier Disruption: A Novel Mechanism of COPD Acute Exacerbations Mediated by the TNF-α/ATP7A Axis.",
+      "abstract": "Elevated copper levels are associated with chronic obstructive pulmonary disease (COPD) and susceptibility to acute exacerbations of COPD (AECOPD), but the underlying mechanisms remain unclear. This study aimed to investigate the association between copper levels and AECOPD and elucidate the underlying mechanisms. A cross-sectional analysis of NHANES 2011-2012, a hospital-based case-control study enrolling 30 AECOPD patients and 30 healthy controls, and a one-year prospective follow-up of COPD patients demonstrated that higher serum copper levels were associated with more frequent exacerbations and earlier recurrence. Integrated studies using copper-manipulated COPD mice, zebrafish, lung organoids, and BEAS-2B cells, together with bulk and single-cell RNA sequencing, colorimetric copper quantification, ELISA-based tumor necrosis factor-α (TNF-α) measurement, oxidative stress and mitochondrial functional analyses, and FITC-dextran permeability assays, showed that excess copper induced mitochondrial oxidative stress, tight-junction loss, and epithelial barrier dysfunction. Mechanistic analyses revealed that TNF-α suppressed ATPase copper-transporting alpha (ATP7A) transcription through competition between NF-κB and CREB1 for the shared coactivator CBP, thereby promoting intracellular copper accumulation. ATP7A restoration alleviated epithelial injury, whereas ATP7A silencing abolished the improvement conferred by anti-TNF-α therapy in COPD mice. These findings identify the copper-TNF-α/ATP7A axis as a mechanism underlying AECOPD and a potential therapeutic target.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Respiratory and Critical Care Medicine, The Second People's Hospital of Changzhou, The Third Affiliated Hospital of Nanjing Medical University, Changzhou, China.",
+        "Department of Central Laboratory, The Second People's Hospital of Changzhou, The Third Affiliated Hospital of Nanjing Medical University, Changzhou, China."
+      ],
+      "doi": "10.1002/advs.202519533",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801650/"
+    },
+    {
+      "pmid": "42801519",
+      "title": "3D Nanoprinted Structures Promote Robust Integration of Brain Organoids into Topography-Guided Neuronal Networks.",
+      "abstract": "Two-photon polymerization-based 3D nanoprinting (3DN) is a potent tool for the fabrication of highly specialized cultivation platforms that enable guided neuronal networks. However, despite the design freedom offered by 3DN, specialized cultivation platforms that actively direct brain organoid behavior in terms of positioning, substrate integration, and neurite outgrowth remain largely absent. Here, we address this by 3D nanoprinting slope, funnel, rod, step, and wall structures that facilitate precise and reliable organoid positioning, promote a tight organoid-substrate interface, and determine the direction of neurite outgrowth. Cultivation platforms featuring these structures are fabricated on coverslips to enable cultivation in standard 12-well cultivation plates. Human cortical organoids (hCOs) cultivated on top exhibit firing of action potentials, highlighting the biocompatibility of the 3DN structures. The slopes and funnels guide the hCO settling, the rods are engulfed by the hCOs, and the walls and steps direct neurite outgrowth and cell migration along their edges. Finally, a cultivation platform featuring all structures demonstrates the potential for the controlled co-culture of two brain organoids. The established 3DN structures pave the way for the implementation of brain organoids in guided neuronal networks and thus may increase the applicability of brain organoids for specialized and customizable brain models.",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Hybrid Nanostructures, University of Hamburg, Hamburg, Germany.",
+        "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Discovery Research ScreeningPort, Hamburg, Germany.",
+        "Section/Core Facility Mass Spectrometry and Proteomics, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "The Hamburg Centre for Ultrafast Imaging, Hamburg, Germany.",
+        "Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany."
+      ],
+      "doi": "10.1002/smll.75936",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801519/"
+    },
+    {
+      "pmid": "42801441",
+      "title": "Heterogeneous Spheroid Engineering: Spatial Organization, Fabrication, and Tissue-Specific Design.",
+      "abstract": "Three-dimensional (3D) spheroid models have emerged as advanced in vitro systems that overcome the limitations of conventional two-dimensional (2D) culture by better recapitulating native tissue architecture, cell-cell and cell-extracellular matrix interactions, and physiologically relevant gradients of oxygen, nutrients, and signaling factors, making them valuable platforms for tissue engineering and regenerative medicine. Realizing their full potential, however, requires rational control over cellular composition and spatial organization. In this review, we classify spheroids by cellular composition and spatial organization into single-cell-type and heterogeneous architectures-including mixed, core-shell, assembloid, and embedded co-culture configurations. We then summarize principal fabrication strategies encompassing static methods, dynamic suspension systems, and scaffold-based approaches. Spatially organized heterogeneous spheroids consistently enhance cell survival, paracrine signaling, vascularization, and tissue-specific differentiation relative to single-cell-type counterparts. We discuss applications across musculoskeletal, cardiovascular, nervous, epithelial, hepatic, pancreatic, renal, and urogenital tissues, highlighting how spatial design governs functional outcomes in each context. Spatial organization and fabrication strategy are decisive determinants of spheroid function for regenerative applications. Persistent challenges in vascularization, standardization, and scalable manufacturing must be addressed to enable reliable clinical translation, while emerging engineering approaches offer promising routes toward functional tissue constructs.",
+      "journal": "Tissue engineering and regenerative medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Integrative Engineering, Chung-Ang University, Seoul, 06974, Republic of Korea.",
+        "School of Integrative Engineering, Chung-Ang University, Seoul, 06974, Republic of Korea. heyshoo@cau.ac.kr."
+      ],
+      "doi": "10.1007/s13770-026-00839-9",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801441/"
+    },
     {
       "pmid": "42801248",
       "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
@@ -73,75 +145,6 @@
       "doi": "10.1063/5.0306055",
       "date": "2026-04-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801212/"
-    },
-    {
-      "pmid": "42799979",
-      "title": "Generation of Vascular Organoids from Human iPSCs to Study Neurodegenerative Processes.",
-      "abstract": "Organoids are a type of three-dimensional cellular constructs comprising cells of various specializations (phenotypes). In contrast to simple cellular spheroids (aggregates), cells within organoids exhibit more complex differentiation and functional characteristics. This study describes a protocol for generating vascular organoids incorporating vascular endothelial cells. A step-by-step workflow is presented, detailing the necessary reagents and consumables. Additionally, a method for validating differentiation outcomes using immunofluorescence staining is described. Morphological differences are reported between organoids derived from stem cells of a healthy donor and those from patients with Alzheimer's or Parkinson's disease.",
-      "journal": "Bulletin of experimental biology and medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Russian Center of Neurology and Neurosciences, Moscow, Russia. DMTLiFNV@gmail.com.",
-        "Russian Center of Neurology and Neurosciences, Moscow, Russia.",
-        "Bauman Moscow State Technical University, Moscow, Russia."
-      ],
-      "doi": "10.1007/s10517-026-06736-4",
-      "date": "2026-09-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799979/"
-    },
-    {
-      "pmid": "42799565",
-      "title": "Representative Biobanks as Infrastructure for Equitable Precision Medicine: Implications for Clinical Trials, Artificial Intelligence, and Translational Research.",
-      "abstract": "The shift toward precision medicine has transformed clinical trial design and drug delivery, yet persistent gaps in data diversity continue to contribute to health disparities. Broad representation and precision stratification are not competing goals; rather, representative datasets are the necessary foundation for identifying clinically meaningful molecular, demographic, environmental, and social subgroups. Despite regulatory mandates and advances in molecular biology, artificial intelligence (AI), and adaptive trials, patient datasets remain heavily skewed toward European populations, with chronic underrepresentation of ethnic minorities, rural populations, and socioeconomically disadvantaged groups. These imbalances propagate bias across the translational pipeline, from target discovery and biomarker validation to clinical trial enrollment, contributing to ineffective drug response and higher failure rates in underrepresented groups, and downstream health disparities. This review examines diverse and centralized biobanks as cornerstone infrastructure for addressing challenges arising from lack of representative patient datasets. It traces the evolution of biobanking from large population-based cohorts to disease-specific and integrated models, highlighting landmark successes and persistence limitations such as fragmentation, participation bias, and lack of standardization. Inclusive, disease-focused biobanks improve access to representative biospecimens, enable equitable biomarker discovery, and enhance the performance of Al/machine learning (ML) models by reducing bias ingrained in older datasets due to lack of diversity. Beyond clinical trials, this review highlights the growing role of biobanks in early-stage, patient-centric research through the generation of diverse patient-derived preclinical models, including organoids and explants. Embedding representative patient-derived data and biospecimens at the research and development stage improves the relevance of preclinical findings, supports biomarker discovery across diverse populations, and reduces the risk that downstream clinical development is optimized for historically overrepresented groups. Representative biobanks are not a substitute for inclusive clinical trials, but they are essential upstream infrastructure for making clinical trials, biomarker discovery, AI/ML models, and precision medicine more equitable and scientifically valid.",
-      "journal": "Biopreservation and biobanking",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Massachusetts Life Sciences Center, Waltham, Massachusetts, USA."
-      ],
-      "doi": "10.1177/19475535261475467",
-      "date": "2026-09-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799565/"
-    },
-    {
-      "pmid": "42799247",
-      "title": "A Simple Temperature-Controlled Method for Preserving Viability in Human Pluripotent Stem Cell-Derived Retinal Organoids During Shipment.",
-      "abstract": "Retinal organoids derived from human induced pluripotent stem cells (hiPSCs) hold significant promise as a tool for advancing our understanding of human retinal development and disease, as well as for the development of therapeutic strategies. However, research utilizing hiPSC-derived retinal organoid models has been constrained by logistical challenges. A notable issue is the increasing need for scientific collaboration, as experiments requiring coordination across multiple institutions often rely on the shipping of live tissues. Transporting retinal organoids over long distances without adequate climate control can lead to tissue degradation, which may interfere with histopathological analyses and impact the results of drug screening assays. Retinal organoids are most often shipped either without temperature regulation or with lithium-ion battery-powered ambient environment systems, which are heavily regulated by standard shipping companies, thus raising costs and introducing further logistical complications. In this study, we developed and evaluated a straightforward, cost-effective, and dependable temperature-controlled technology for shipping retinal organoids that can maintain adequate shipping temperature in colder months and decrease temperature fluctuations during shipment year-round, preserving organoid tissue structure and viability.",
-      "journal": "FASEB bioAdvances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Ophthalmology, CellSight Ocular Stem Cell and Regeneration Research Program, Sue Anschutz-Rodgers Eye Center University of Colorado Anschutz School of Medicine Aurora Colorado USA.",
-        "Department of Biology The University of Akron Akron Ohio USA."
-      ],
-      "doi": "10.1096/fba.2026-00043",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799247/"
-    },
-    {
-      "pmid": "42797915",
-      "title": "Modeling Canine Hemangiosarcoma Progression Using Patient-Derived 2.5D Organoids and Orthotopic Xenografts.",
-      "abstract": "Canine hemangiosarcoma (HSA) is a highly aggressive vascular malignancy encountered in veterinary practice and exhibits histopathological and molecular similarities to human angiosarcoma (AS). Despite its clinical importance, the molecular mechanisms driving canine HSA remain poorly understood, limiting the development of effective therapeutic approaches. To address this challenge, we established patient-derived canine HSA 2.5D organoids as a preclinical model. Following validation of lineage-specific marker expression, we evaluated drug responses and performed transcriptomic analyses comparing HSA organoids with nodular hyperplasia (NH) samples to identify molecular alterations associated with malignant transformation. Differential gene expression analysis revealed several genes enriched in HSA, including Phospholipase A and Acyltransferase 3 (PLAAT3), which was significantly upregulated in HSA organoids. Functional studies demonstrated that both siRNA-mediated silencing and pharmacological inhibition of PLAAT3 markedly reduced the invasive capacity of HSA organoid cells while exerting only modest effects on cell proliferation. In addition, orthotopic implantation of HSA 2.5D organoids into the spleens of immunodeficient mice generated xenograft tumors with metastatic behavior and histopathological features closely resembling those of the original canine tumors. Collectively, these results establish a canine HSA 2.5D organoid model and identify PLAAT3 as a candidate molecule associated with the invasive phenotype of canine HSA, providing a valuable platform for investigating disease biology and for future comparative studies of canine HSA and human AS.",
-      "journal": "Veterinary sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Veterinary Pharmacology, Department of Veterinary Medicine, Faculty of Agriculture, Tokyo University of Agriculture and Technology, 3-5-8 Saiwai-Cho, Fuchu, Tokyo 183-8509, Japan.",
-        "AIRDEC Mini Co., Ltd., 1-2-36 Kajino-Cho, Koganei, Tokyo 184-0002, Japan.",
-        "Department of Pharmacology, Faculty of Veterinary Medicine, Benha University, Moshtohor, Toukh 13736, Egypt.",
-        "Faculty of Veterinary Medicine, Mansoura University, Mansoura 35516, Egypt.",
-        "Laboratory of Veterinary Anatomy, Department of Veterinary Medicine, Faculty of Agriculture, Tokyo University of Agriculture and Technology, 3-5-8 Saiwai-Cho, Fuchu, Tokyo 183-8509, Japan.",
-        "Division of Rare Cancer Research, National Cancer Center Research Institute, 5-1-1 Tsukiji, Chuo-Ku, Tokyo 104-0045, Japan."
-      ],
-      "doi": "10.3390/vetsci13090879",
-      "date": "2026-08-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797915/"
     },
     {
       "pmid": "42782810",
@@ -251,6 +254,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/"
     },
     {
+      "pmid": "42801963",
+      "title": "Cytochrome P450 enzymes in the biosynthesis of bioactive diterpenoids from traditional chinese medicinal plants.",
+      "abstract": "Cytochrome P450 enzymes play key catalytic roles in the biosynthesis of diterpenoid natural products from traditional Chinese medicinal plants. Operating through a conserved heme-thiolate catalytic cycle and Compound I-driven oxidation, these enzymes mediate most post-cyclization oxidative tailoring of diterpene scaffolds, including hydroxylation, epoxidation, carbon-skeleton rearrangement, and lactone formation. This review surveys the biosynthetic pathways of seven representative diterpenoids, namely tanshinones, paclitaxel, triptolide, andrographolide, ginkgolides, forskolin, and oridonin, in which sequential site-selective hydroxylation and multifunctional catalysis are recurring features, whereas carbon-skeleton remodeling proceeds through pathway-specific modes, including Wagner-Meerwein methyl migration in triptolide, NIH-shift alkyl migration and dual C-C bond cleavage in ginkgolides, and oxidative oxetane-ring formation in paclitaxel, with lactone ring construction observed in the andrographolide, triptolide, and ginkgolide pathways. Atomic-level studies of representative enzymes CYP76AH1, CYP725A4, TOT1, and TmCYP1 further clarify how substrate recognition, regioselectivity, and catalytic trajectories are governed within the active site, providing a basis for rational enzyme engineering. Finally, the prospects of artificial intelligence-assisted protein design for engineering P450 catalytic elements are discussed, encompassing structure prediction, protein language model-based mutational prescreening, and de novo catalytic-pocket design, along with their potential to facilitate heterologous biosynthesis and the sustainable production of bioactive diterpenoids from medicinal plants.",
+      "journal": "Fitoterapia",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China.",
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: 60030039@sdutcm.edu.cn.",
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: hong_lee123@163.com."
+      ],
+      "doi": "10.1016/j.fitote.2026.107495",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801963/"
+    },
+    {
       "pmid": "42798990",
       "title": "Evolutionary Dynamics-Aware De Novo Design of a Thermostable NS1-Derived Diagnostic Protein for Yellow Fever Virus.",
       "abstract": "Serological diagnosis of neglected arboviruses remains hindered by extensive intra-genus cross-reactivity, compromising both assay specificity and epidemiological accuracy. In this study, we focused on yellow fever virus (YFV) as a model system to design and validate a generalizable de novo protein design framework integrating evolutionary genomics with structural modeling to rationally engineer diagnostic antigens with reduced cross-reactivity and improved cost-effectiveness. Through comprehensive evolutionary mapping over time of the YFV polyprotein, we identified conserved yet discriminatory peptide regions within the NS1 protein and selected one peptide to guide scaffold-based protein design while preserving critical structural constraints. As a complementary strategy to develop antibody alternatives for antigen detection assays, we also implemented an in silico RNA aptamer design pipeline to circumvent the time and cost limitations of conventional in vitro Systematic Evolution of Ligands by EXponential enrichment (SELEX) technique. Nevertheless, NS1-targeting aptamers demonstrated limited sensitivity and specificity upon experimental validation. In contrast, structure-guided design of the NS1-derived protein (YFV-Scaffold) yielded a thermally stable, highly expressible recombinant protein, which demonstrated sensitivity and specificity comparable to those of commercially available full-length NS1 in in-house ELISA assays. Circular dichroism analysis revealed minimal denaturation up to 94 °C and complete recovery of secondary structure upon cooling, underscoring its remarkable structural resilience. Collectively, our results establish an evolutionary dynamics-aware strategy for target-antigen design, providing a scalable platform for the rational design of robust, low-cost diagnostic proteins applicable to a wide range of viral pathogens.",
@@ -348,21 +369,59 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/"
     },
     {
-      "pmid": "42782445",
-      "title": "Leveraging Autonomous Biological Oscillators for Directed Evolution of Switchable Proteins.",
-      "abstract": "Engineering proteins that can switch between states is of strong interest to biotechnology. These include multi-state transcription factors, membrane receptors, kinases, and synthetic molecular logic gates. While traditional directed evolution approaches excel at optimizing steady-state protein functionalities, they require substantial adaptation to treat transitions in states of proteins. This chapter describes how the emerging regulatory logic of autonomous biological oscillators can be used to impose time-varying selection pressure for evolving switchable proteins. We first review the challenges of evolving switchable proteins and examine past strategies, including fluorescence-activated cell sorting (FACS) screens, alternating chemical selection and counterselection methods, and phage display techniques. We then compare these with \"optovolution,\" an approach recently developed by our lab, which couples a protein's activity to host cell cycle progression and leverages programmable light inputs to drive continuous evolution of proteins. To this end, we explain the design principles underlying the use of an autonomous oscillator for evolution and how it promotes selection for both \"on\" and \"off\" states, as well as switching between them. In a direct comparison with a conventional directed evolution method, we elucidate how optovolution proves more reliable by avoiding evolutionary routes that hinder counterselection. In conclusion we discuss how optovolution opens new avenues for creating proteins with complex logic and dynamic control, complementing latest advances in computational protein design.",
-      "journal": "Advances in experimental medicine and biology",
+      "pmid": "42801943",
+      "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
+      "abstract": "Esophageal cancer is increasingly understood as a malignancy shaped not only by local histopathologic change but also by dynamic intercellular communication within the tumor ecosystem. Exosomes and related small extracellular vesicles are secreted by tumor, stromal, endothelial, and immune cells and carry nucleic acids, proteins, lipids, and metabolites that may contribute to tumor growth, invasion, immune escape, metastatic niche formation, and treatment resistance. Their molecular cargo may capture tumor-associated biological changes before overt radiologic or histopathologic progression in selected settings; however, their clinical utility remains constrained by inconsistent isolation methods, heterogeneous cargo profiles, limited prospective validation, and insufficient standardization. This review critically synthesizes current evidence on exosome-mediated communication in esophageal cancer, with emphasis on mechanistic signaling, liquid biopsy, treatment monitoring, and engineered therapeutic delivery. Current data suggest that exosome-associated miRNAs, lncRNAs, circRNAs, proteins, and immune-regulatory molecules are promising candidate biomarkers, but they should currently be regarded as complementary rather than superior to endoscopy, imaging, ctDNA, circulating tumor cells, and clinicopathologic assessment. Engineered exosomes show preclinical promise as delivery vehicles for nucleic acids, immunomodulators, and chemotherapeutics, although their clinical translation in esophageal cancer remains limited by manufacturing reproducibility, biodistribution, safety, dose control, and regulatory requirements. Overall, exosome-based strategies may become part of precision oncology for esophageal cancer only if supported by standardized extracellular-vesicle methodology, prospective multicenter validation, and evidence that exosome-informed decisions improve patient outcomes. CORE TIPS: Emerging evidence suggests that exosomes participate in multiple stages of esophageal cancer biology, including local invasion, immune modulation, lymphatic dissemination, treatment resistance, and candidate biomarker development. Their molecular cargo may provide dynamic biological information before conventional clinical progression becomes apparent in selected studies, but their screening and monitoring value requires prospective head-to-head validation against endoscopy, imaging, ctDNA, circulating tumor cells, and tissue-based biomarkers. Engineered exosomes represent a promising preclinical delivery platform; however, clinical translation depends on standardized isolation and characterization, cargo normalization, batch-to-batch reproducibility, scalable production, and regulatory-quality control. This review therefore emphasizes both translational opportunities and current evidence limitations.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Laboratory of the Physics of Biological Systems, Institute of Physics, EPFL, Lausanne, Switzerland.",
-        "Laboratory of the Physics of Biological Systems, Institute of Physics, EPFL, Lausanne, Switzerland. sahand.rahi@epfl.ch."
+        "Department of Gastrointestinal Surgery, Jingmen People's Hospital, Jingmen 448000, China; Peking University, Peking, China; China Three Gorges University, Yichang 443002, Hubei, China. Electronic address: dushenglin2026@163.com.",
+        "Department of Gastrointestinal Surgery, Jingmen People's Hospital, Jingmen 448000, China."
       ],
-      "doi": "10.1007/978-3-032-36189-9_8",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782445/"
+      "doi": "10.1016/j.cca.2026.122855",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801943/"
+    },
+    {
+      "pmid": "42801800",
+      "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
+      "abstract": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion and the operational complexities of PCR thermal cycling. Herein, we report a bisulfite-free and PCR-free electrochemical nanochannel biosensor that modulates nanoconfined space charge to directly translate discrete epigenetic marks into measurable ion flux. Specifically, rigid DNA tetrahedrons (TDs) are covalently assembled onto anodic aluminum oxide (AAO) nanochannels, providing a sterically unhindered interface for highly efficient cfDNA capture. Target discrimination is achieved via HhaI endonuclease, which selectively cleaves unmethylated cfDNA (UME) while leaving methylated cfDNA (ME) structurally intact due to methylation-induced steric hindrance. The retained ME targets subsequently initiate an in situ hybridization chain reaction (HCR) cascade. Through this isothermal assembly, densely packed polyanionic DNA networks form at the outer surface of the nanochannels, reshaping the local electrostatic field into a high-density negative space-charge layer. This designed space charge enriches cations and reduces the access resistance, yielding a significantly amplified transmembrane ion current. Benefiting from this dual-amplified transduction mechanism, the biosensor achieves a limit of detection of 208 aM with high specificity. Furthermore, this platform successfully discriminated ovarian cancer patients from those with benign gynecological diseases using clinical plasma samples, demonstrating great translational potential for precise epigenetic liquid biopsy.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing Women and Children's Healthcare Hospital, Nanjing, 210004, PR China; Nanjing Key Laboratory of Female Fertility Preservation and Restoration, Nanjing, 210004, PR China.",
+        "School of Environmental and Biological Engineering, Nanjing University of Science and Technology, Nanjing, 210094, PR China.",
+        "School of Environmental and Biological Engineering, Nanjing University of Science and Technology, Nanjing, 210094, PR China. Electronic address: liushi@njust.edu.cn.",
+        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing Women and Children's Healthcare Hospital, Nanjing, 210004, PR China; Nanjing Key Laboratory of Female Fertility Preservation and Restoration, Nanjing, 210004, PR China. Electronic address: xmjia@njmu.edu.cn."
+      ],
+      "doi": "10.1016/j.bios.2026.119266",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/"
+    },
+    {
+      "pmid": "42801547",
+      "title": "Digital PCR for Detecting Loss of BAP1 and MTAP in Pleural Fluids of Mesothelioma Patients: Perspectives in the Diagnosis.",
+      "abstract": "Pleural mesothelioma (PM) often presents loss of BAP1 and MTAP genes. Digital PCR (dPCR) can accurately measure gene copy numbers (CNs). We hypothesized that cell-free DNA (cfDNA) extracted from the supernatant of pleural fluids (SPFs) could allow an efficient detection of these genetic events. BAP1/MTAP CN was measured with dPCR in SPFs and in solid tumor biopsies (STBs) of 37 PM patients. Results were compared with immunohistochemistry (IHC) carried out in STBs. IHC alone detected BAP1/MTAP-losses in 32/37 (86.5%). However, the sensitivity improved to 34/37 (91.9%) when low CN of BAP1/MTAP was included. Among 20 patients presenting SPFs, dPCR alone detected a low CN in 18 samples (sensitivity = 90%). Finally, this two-gene signature was applied on SPFs in a prospective series of six consecutive patients presenting an undefined diagnosis (negative for PM) and two showed reduced CN. After 7 months of follow-up, these subjects were further re-evaluated for the persistence/worsening of the symptoms and were diagnosed for PM. We highlighted dPCR's potential for detecting subtle BAP1/MTAP losses in SPFs of PM patients. This appears as a complementary approach for a more accurate diagnosis in specific contexts, when high-risk patients receive negative results after IHC analysis.",
+      "journal": "Pathology international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Genetics-Department of Biology, University of Pisa, Pisa, Italy.",
+        "CNR Institute of Neuroscience, Pisa, Italy.",
+        "Unit of Pathological Anatomy, University of Pisa, Pisa, Italy.",
+        "Department of Translational Research and of New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy.",
+        "Cardiac, Thoracic, and Vascular Department, Division of Thoracic Surgery, University Hospital of Pisa, Pisa, Italy.",
+        "Department of Surgical, Medical and Molecular Pathology and Critical Care Medicine, University of Pisa, Pisa, Italy."
+      ],
+      "doi": "10.1111/pin.70172",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801547/"
     },
     {
       "pmid": "42800682",
@@ -406,67 +465,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798930/"
     },
     {
-      "pmid": "42798856",
-      "title": "Serum circulating cell-free messenger RNA profile response to risdiplam treatment in adult patients with late-onset spinal muscular atrophy.",
-      "abstract": "SMN-enhancing therapies have improved outcomes in adult late-onset spinal muscular atrophy (loSMA), but minimally invasive biomarkers that reflect systemic disease and treatment effects are lacking. In this retrospective cohort study, we profiled circulating cell-free messenger RNA (ccfmRNA) in serum samples from 17 adults with loSMA type 2 (n = 14) and type 3 (n = 3) and healthy controls (n = 12) using the NanoString neuroimmunology panel before (T0) and after 8-10 (T1) and 12-14 (T2) months of risdiplam treatment. A separate exploratory subgroup of patients switching from nusinersen to risdiplam (n = 7) was analysed at comparable time points. Differential ccfmRNA expression, gene ontology and network analyses were performed. At baseline, adult loSMA showed a distinct inflammatory and stress-related ccfmRNA signature and reduced expression of selected glial- and vascular-associated transcripts compared to controls. Risdiplam partially normalized immune and proteostasis transcripts, whereas glial and vascular modules remained persistently dysregulated. Exploratory subgroup analyses suggested larger transcriptional deviations in type 2 than in type 3, although these findings are limited by small sample size. In switcher patients, additional transcriptional changes involving epigenetic- and lipid-associated pathways were observed and should be regarded as hypothesis-generating. Serum ccfmRNA profiles distinguish adult loSMA from controls and capture risdiplam-associated molecular responses. These findings support the concept that serum ccfmRNA profiling may provide a useful exploratory framework for studying disease-associated and treatment-associated molecular changes in adult loSMA.",
-      "journal": "Brain communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Neurology, Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Medicine Essen, Essen 45147, Germany.",
-        "Department of Neurology, Ruhr University Bochum, BG University Hospital Bergmannsheil, Bochum 44789, Germany.",
-        "BG University Hospital Bergmannsheil, Heimer Institute for Muscle Research, Bochum 44789, Germany.",
-        "Department of Neuropediatrics, Centre for Neuromuscular Disorders in Children, University Children's Hospital Essen, University Medicine Essen, Essen 45147, Germany."
-      ],
-      "doi": "10.1093/braincomms/fcag352",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798856/"
-    },
-    {
-      "pmid": "42798416",
-      "title": "Serum small extracellular vesicle-associated snoRNA panel adds diagnostic value to CEA and CYFRA21-1 for non-small cell lung cancer: an exploratory single-center study.",
-      "abstract": "Circulating small extracellular vesicle (sEV)-associated small nucleolar RNAs (snoRNAs) have emerged as candidate biomarkers because of their stability in biofluids. However, whether these molecular signals provide diagnostic information beyond established serum tumor markers remains uncertain. This study evaluated a four-snoRNA panel and investigated its incremental value when combined with carcinoembryonic antigen (CEA) and cytokeratin-19 fragment (CYFRA21-1) for NSCLC discrimination. This retrospective single-center case-control study included 240 Untreated patients with pathologically or cytologically confirmed NSCLC and 205 healthy controls. A discovery microarray was performed using RNA isolated from the sEV-enriched fraction of three NSCLC samples and three controls. Four candidate snoRNAs (AC007956.1, AC093523.1, AL358875.1, and SNORA51) were subsequently quantified by quantitative reverse-transcription PCR using ΔCt values. Logistic regression models were developed for the four-snoRNA panel, the clinical marker model (CEA plus CYFRA21-1), and the combined six-marker model. Model performance was assessed using repeated stratified 10-fold cross-validation (20 repetitions), training-fold-derived thresholds, 2,000 stratified bootstrap resamples, calibration metrics, paired DeLong comparisons, subgroup analyses, and age/sex-matched sensitivity analyses. The discovery dataset contained 936 analyzable snoRNA probes. Although 134 probes showed nominal differential expression (P < 0.05), none remained significant after false-discovery-rate correction. NSCLC cases were older than controls (62.5 vs. 42.3 years; standardized mean difference, 1.73), whereas sex distributions were comparable. The four-snoRNA model achieved a cross-validated AUC of 0.924 (95% CI, 0.898-0.948), compared with 0.903 (95% CI, 0.874-0.931) for the CEA plus CYFRA21-1 model. The combined six-marker model showed the highest discrimination, with an AUC of 0.970 (95% CI, 0.955-0.983), sensitivity of 87.1%, specificity of 96.6%, calibration intercept of -0.018, calibration slope of 0.923, and Brier score of 0.064. Compared with the clinical model, the six-marker model increased AUC by 0.067 (95% CI, 0.043-0.092; paired DeLong P < 0.001). Model performance remained consistent in stage 0-II disease (AUC, 0.963; 95% CI, 0.940-0.980) and age/sex-matched analyses (AUC, 0.964; 95% CI, 0.941-0.983). No snoRNA marker retained significant associations with clinical characteristics after multiple-testing correction. A serum sEV-associated four-snoRNA panel showed incremental diagnostic value when combined with CEA and CYFRA21-1 in this exploratory NSCLC case-control study. The resulting six-marker model maintained discrimination during repeated internal cross-validation, including analyses restricted to early-stage disease and age/sex-matched cohorts.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Tumor Research and Treatment Center, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, Shandong, China.",
-        "Department of Pharmacy, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, Shandong, China.",
-        "Department of Blood Transfusion, The Affiliated Taian City Central Hospital of Qingdao University, Taian, China.",
-        "Department of Clinical Laboratory Medicine, The First Affiliated Hospital of Shandong First Medical University and Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, China.",
-        "Department of Clinical Laboratory, The Affiliated Taian City Central Hospital of Qingdao University, Taian, China.",
-        "Shandong Provincial Key Medical and Health Laboratory of Anti-drug Resistant Drug Research, Taian City Central Hospital, Taian, China."
-      ],
-      "doi": "10.3389/fonc.2026.1881438",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798416/"
-    },
-    {
-      "pmid": "42798094",
-      "title": "Mapping the global landscape of artificial intelligence in pancreatic cancer research: A bibliometric and visualization analysis.",
-      "abstract": "Artificial intelligence (AI) applications in pancreatic cancer are expanding rapidly, but the field's global structure and emerging priorities remain incompletely characterized. The Web of Science Core Collection was searched through July 5, 2026. English-language original articles and reviews addressing AI in pancreatic cancer were eligible. After manual screening, 583 publications from 1998 to 2026 were analyzed using Biblioshiny, VOSviewer, and CiteSpace to assess publication trends, contributors, collaboration networks, co-citation patterns, keyword evolution, thematic clusters, and citation bursts. Publication output accelerated after 2019 and reached 164 publications in 2025; the lower total in 2026 reflected partial-year coverage. The literature involved 59 countries, 1230 institutions, and 4038 authors. China produced the largest number of publications (n = 222), whereas the United States ranked second (n = 150) and had the highest country-level centrality (0.39). Shanghai Jiao Tong University was the most productive institution (n = 20), while Harvard University had the highest institutional centrality (0.22). Frontiers in Oncology was the most productive journal (n = 32). Influential studies focused on deep learning-based computed tomography, electronic health record-based risk prediction, exosome-based machine learning, and endoscopic ultrasonography. Research themes evolved from neural-network classification and texture analysis toward radiomics, deep learning, early detection, risk prediction, liquid biopsy, tumor biology, treatment-response prediction, and precision oncology. AI research in pancreatic cancer is growing rapidly and becoming increasingly multidisciplinary, although productivity and collaboration remain uneven. Clinical translation will require prospective multicenter validation, representative datasets, transparent reporting, calibration, fairness assessment, workflow evaluation, and evidence of improved patient outcomes.",
-      "journal": "Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Vali-e-Asr Reproductive Health Research Center, Family Research Institute, Tehran University of Medical Sciences, Tehran, Iran.",
-        "Faculty of Educational Sciences, Al-Ahliyya Amman University, Amman, Jordan.",
-        "Department of Management Information Systems, College of Commerce and Business Administration, Dhofar University, Salalah, Oman.",
-        "Department of General Medicine, Sharda University, Knowledge Park III, Greater Noida, India.",
-        "University Institute of Pharma Sciences, Chandigarh University, Mohali, Punjab, India.",
-        "Department of Traumatology, Orthopedics, Neurosurgery and Ophthalmology, Samarkand State Medical University, Samarkand, Uzbekistan.",
-        "Faculty of Medicine, Semmelweis University, Budapest, Hungary.",
-        "Heart and Vascular Center, Semmelweis University, Budapest, Hungary.",
-        "Gastrointestinal and Liver Diseases Research Center, Guilan University of Medical Sciences, Rasht, Iran."
-      ],
-      "doi": "10.1097/MD.0000000000050681",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798094/"
-    },
-    {
       "pmid": "42800908",
       "title": "Five Tools, One Patient: Toward a Common Output Standard for Periprocedural Anticoagulation Decision Support.",
       "abstract": "",
@@ -481,6 +479,193 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42801698",
+      "date": "2026-09-27",
+      "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801698/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42801698。",
+      "report": "Influenza A virus (IAV) commandeers host transcriptional machinery to replicate, but mechanisms remain elusive. CRISPR screen identifies PARP1 as a proviral factor that binds viral NS1. ATAC‑seq reveals IAV drives PARP1‑dependent chromatin remodeling at promot...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42801650",
+      "date": "2026-09-27",
+      "title": "Copper-Driven Epithelial Barrier Disruption: A Novel Mechanism of COPD Acute Exacerbations Mediated by the TNF-α/ATP7A Axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801650/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42801650。",
+      "report": "Elevated copper levels are associated with chronic obstructive pulmonary disease (COPD) and susceptibility to acute exacerbations of COPD (AECOPD), but the underlying mechanisms remain unclear. This study aimed to investigate the association between copper lev...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42801519",
+      "date": "2026-09-27",
+      "title": "3D Nanoprinted Structures Promote Robust Integration of Brain Organoids into Topography-Guided Neuronal Networks.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801519/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42801519。",
+      "report": "Two-photon polymerization-based 3D nanoprinting (3DN) is a potent tool for the fabrication of highly specialized cultivation platforms that enable guided neuronal networks. However, despite the design freedom offered by 3DN, specialized cultivation platforms t...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42801441",
+      "date": "2026-09-27",
+      "title": "Heterogeneous Spheroid Engineering: Spatial Organization, Fabrication, and Tissue-Specific Design.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801441/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Tissue engineering and regenerative medicine，PMID 为 42801441。",
+      "report": "Three-dimensional (3D) spheroid models have emerged as advanced in vitro systems that overcome the limitations of conventional two-dimensional (2D) culture by better recapitulating native tissue architecture, cell-cell and cell-extracellular matrix interaction...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42801963",
+      "date": "2026-09-27",
+      "title": "Cytochrome P450 enzymes in the biosynthesis of bioactive diterpenoids from traditional chinese medicinal plants.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801963/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Fitoterapia，PMID 为 42801963。",
+      "report": "Cytochrome P450 enzymes play key catalytic roles in the biosynthesis of diterpenoid natural products from traditional Chinese medicinal plants. Operating through a conserved heme-thiolate catalytic cycle and Compound I-driven oxidation, these enzymes mediate m...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42801943",
+      "date": "2026-09-27",
+      "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801943/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42801943。",
+      "report": "Esophageal cancer is increasingly understood as a malignancy shaped not only by local histopathologic change but also by dynamic intercellular communication within the tumor ecosystem. Exosomes and related small extracellular vesicles are secreted by tumor, st...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42800908",
       "date": "2026-09-27",
@@ -505,72 +690,6 @@
       "fact": "PubMed 记录显示该文献收录于 The Annals of pharmacotherapy，PMID 为 42800908。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42799979",
-      "date": "2026-09-26",
-      "title": "Generation of Vascular Organoids from Human iPSCs to Study Neurodegenerative Processes.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799979/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bulletin of experimental biology and medicine，PMID 为 42799979。",
-      "report": "Organoids are a type of three-dimensional cellular constructs comprising cells of various specializations (phenotypes). In contrast to simple cellular spheroids (aggregates), cells within organoids exhibit more complex differentiation and functional characteri...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42799565",
-      "date": "2026-09-26",
-      "title": "Representative Biobanks as Infrastructure for Equitable Precision Medicine: Implications for Clinical Trials, Artificial Intelligence, and Translational Research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799565/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biopreservation and biobanking，PMID 为 42799565。",
-      "report": "The shift toward precision medicine has transformed clinical trial design and drug delivery, yet persistent gaps in data diversity continue to contribute to health disparities. Broad representation and precision stratification are not competing goals; rather,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -604,36 +723,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42799247",
-      "date": "2026-09-25",
-      "title": "A Simple Temperature-Controlled Method for Preserving Viability in Human Pluripotent Stem Cell-Derived Retinal Organoids During Shipment.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42799247/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FASEB bioAdvances，PMID 为 42799247。",
-      "report": "Retinal organoids derived from human induced pluripotent stem cells (hiPSCs) hold significant promise as a tool for advancing our understanding of human retinal development and disease, as well as for the development of therapeutic strategies. However, researc...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42789724",
       "date": "2026-09-25",
       "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin.",
@@ -663,65 +752,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42798856",
+      "id": "pubmed-42801800",
       "date": "2026-09-25",
-      "title": "Serum circulating cell-free messenger RNA profile response to risdiplam treatment in adult patients with late-onset spinal muscular atrophy.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798856/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Brain communications，PMID 为 42798856。",
-      "report": "SMN-enhancing therapies have improved outcomes in adult late-onset spinal muscular atrophy (loSMA), but minimally invasive biomarkers that reflect systemic disease and treatment effects are lacking. In this retrospective cohort study, we profiled circulating c...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42798094",
-      "date": "2026-09-25",
-      "title": "Mapping the global landscape of artificial intelligence in pancreatic cancer research: A bibliometric and visualization analysis.",
+      "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798094/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology",
-        "Drug Screening"
+        "Precision Oncology"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤",
-        "药筛"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Medicine，PMID 为 42798094。",
-      "report": "Artificial intelligence (AI) applications in pancreatic cancer are expanding rapidly, but the field's global structure and emerging priorities remain incompletely characterized. The Web of Science Core Collection was searched through July 5, 2026. English-lang...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42801800。",
+      "report": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -971,34 +1028,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42798416",
-      "date": "2026-09-11",
-      "title": "Serum small extracellular vesicle-associated snoRNA panel adds diagnostic value to CEA and CYFRA21-1 for non-small cell lung cancer: an exploratory single-center study.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798416/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42798416。",
-      "report": "Circulating small extracellular vesicle (sEV)-associated small nucleolar RNAs (snoRNAs) have emerged as candidate biomarkers because of their stability in biofluids. However, whether these molecular signals provide diagnostic information beyond established ser...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42775042",
       "date": "2026-09-08",
       "title": "Toward trustworthy virtual cells: a roadmap for perturbation-resolved, context-aware, and experimentally validated cell models.",
@@ -1066,37 +1095,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42797915",
-      "date": "2026-08-27",
-      "title": "Modeling Canine Hemangiosarcoma Progression Using Patient-Derived 2.5D Organoids and Orthotopic Xenografts.",
-      "entity": "Organoid Research",
+      "id": "pubmed-42801547",
+      "date": "2026-09-01",
+      "title": "Digital PCR for Detecting Loss of BAP1 and MTAP in Pleural Fluids of Mesothelioma Patients: Perspectives in the Diagnosis.",
+      "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797915/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801547/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
+        "Biotech",
+        "Precision Oncology"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
+        "biotech",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Veterinary sciences，PMID 为 42797915。",
-      "report": "Canine hemangiosarcoma (HSA) is a highly aggressive vascular malignancy encountered in veterinary practice and exhibits histopathological and molecular similarities to human angiosarcoma (AS). Despite its clinical importance, the molecular mechanisms driving c...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Pathology international，PMID 为 42801547。",
+      "report": "Pleural mesothelioma (PM) often presents loss of BAP1 and MTAP genes. Digital PCR (dPCR) can accurately measure gene copy numbers (CNs). We hypothesized that cell-free DNA (cfDNA) extracted from the supernatant of pleural fluids (SPFs) could allow an efficient...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1193,41 +1216,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biomicrofluidics，PMID 为 42801212。",
       "report": "Organoids offer a promising alternative in biomedical research and clinical medicine, with better feature recapitulation than 2D cultures. They also have more consistent responses with clinical results when compared to animal models. However, major challenges...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42782445",
-      "date": "2026-01-01",
-      "title": "Leveraging Autonomous Biological Oscillators for Directed Evolution of Switchable Proteins.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782445/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advances in experimental medicine and biology，PMID 为 42782445。",
-      "report": "Engineering proteins that can switch between states is of strong interest to biotechnology. These include multi-state transcription factors, membrane receptors, kinases, and synthetic molecular logic gates. While traditional directed evolution approaches excel...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
