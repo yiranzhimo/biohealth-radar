@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-28T05:30:53.735385+00:00",
+  "capturedAt": "2026-09-28T14:04:57.249074+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-28"
   },
   "pmids": [
+    "42802936",
+    "42802413",
     "42801698",
     "42801650",
     "42801519",
     "42801441",
-    "42801248",
-    "42801212",
     "42782810",
     "42775042",
     "42771879",
@@ -32,14 +32,49 @@
     "42793054",
     "42789724",
     "42786569",
+    "42802853",
+    "42802333",
     "42801943",
     "42801800",
     "42801547",
-    "42800682",
-    "42798930",
-    "42800908"
+    "42801248"
   ],
   "records": [
+    {
+      "pmid": "42802936",
+      "title": "Next-generation brain organoids: neural complexity from cellular diversity to functional networks.",
+      "abstract": "Brain organoids, as pioneering three-dimensional (3D) in vitro platforms, have profoundly advanced our understanding of human brain development and disease mechanisms. This review summarizes recent progress in enhancing cellular diversity, structural organization, and functional complexity within brain organoids. A key application of these models lies in disease modelling, encompassing neurodevelopmental and neurodegenerative disorders as well as brain tumours, which enables personalized drug screening and mechanistic studies. Despite persistent challenges related to neuronal maturation, vascularization, reproducibility, and functional integration, we highlight emerging bioengineering strategies, multi-organ integration approaches, and ethical considerations that provide a roadmap for next-generation organoid platforms. Collectively, brain organoids hold transformative potential for both fundamental neuroscience and translational research, bridging critical gaps between conventional experimental models and human-specific pathophysiology.",
+      "journal": "Brain : a journal of neurology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Human Organ Physiopathology Emulation System, State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, 100101, China.",
+        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 10010l, China.",
+        "University of Chinese Academy of Sciences, Beijing, 100049, China.",
+        "Department of Neurology & Innovation Center for Neurological Disorders, Xuanwu Hospital, Capital Medical University, National Center for Neurological Disorders, Beijing 100053, China."
+      ],
+      "doi": "10.1093/brain/awag332",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802936/"
+    },
+    {
+      "pmid": "42802413",
+      "title": "Stem cell morphology defines functional heterogeneity and therapeutic vulnerabilities in glioblastoma.",
+      "abstract": "Glioblastoma (GBM) is an aggressive brain tumor and an unmet clinical need due to its invasiveness and therapy resistance. These features are driven by glioblastoma stem-like cells (GSLCs), which exhibit remarkable functional heterogeneity. While transcriptional profiling has helped define this heterogeneity, it alone does not fully predict cellular behaviors. Because cell morphology is closely linked to function during neurodevelopment, we asked whether integrating morphological and transcriptomic identities could reveal clinically relevant roles of GSLCs. We employed CellShape-seq, a customised spatial transcriptomics platform integrating cell morphology with transcriptome and applied it to patient-derived GBM organoids. To link GSLC transcriptome to function, we combined assembloid invasion assays, calcium imaging, pharmacological perturbations and time-lapse microscopy. We identified three GSLC morphological classes corresponding to distinct transcriptomic states and functional behaviors: nonpolar cells, which show differentiation and therapy sensitivity; elongated cells, which are blood-vessel associated, invasive and chemoresistant; and multipolar cells, which form intercellular networks conveying therapy resistance. Importantly, morphological state remains stable throughout interphase and is readily inherited from mother to daughter cells. However, under pharmacological stress GSLCs show striking morphological plasticity. Namely, Temozolomide treatment is associated with GSLC elongation and branching, while YAP inhibition and gap-junction blockage result in a reduction of elongated and multipolar GSLCs, respectively. Finally, combined targeting of these morphoclass-specific vulnerabilities reduces viability in patient-derived organoids. Our findings demonstrate that cell morphology provides critical insights into GSLC behaviors and establish a rationale for putative morphology-informed therapies to overcome resistance and improve outcomes in GBM.",
+      "journal": "Neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Human Technopole, Milan, Italy.",
+        "Neurosurgery Unit, ASST Ovest Milanese - Legnano Hospital, Legnano, Italy.",
+        "Institute of Genetics and Biomedical Research, UoS of Milan, National Research Council, Milan, Italy."
+      ],
+      "doi": "10.1093/neuonc/noag235",
+      "date": "2026-09-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802413/"
+    },
     {
       "pmid": "42801698",
       "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
@@ -111,40 +146,6 @@
       "doi": "10.1007/s13770-026-00839-9",
       "date": "2026-09-27",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801441/"
-    },
-    {
-      "pmid": "42801248",
-      "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
-      "abstract": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges. This review delineates the evolution of breast cancer DDS from passive carriers to increasingly functional and responsive platforms, focusing on three core dimensions. First, regarding decisive barriers, we dissect the constraints imposed by the three-dimensional collagen network, pH/glutathione (GSH) gradients, and tumor-associated macrophages (TAMs) on drug penetration. These factors not only act as physical and biochemical obstacles but can also be harnessed as endogenous triggers for responsive design. Second, in terms of diversified platforms, we critically evaluate liposomes, polymeric nanoparticles, hydrogels, extracellular vesicles, and antibody-drug conjugates (ADCs). We highlight the potential of solid lipid nanoparticles to address drug resistance, the development of carrier-free delivery enabled by prodrug self-assembly, and the clinical significance of ADCs (eg, T-DXd) in expanding treatment options for HER2-low breast cancer. Third, we examine inter- and intratumoral heterogeneity, metastatic site-specific delivery barriers in the brain, bone, and lung, the multilayered resistance network from efflux pumps to cancer stem cells, and the sequential barriers nanomedicines must traverse from systemic circulation to intracellular targets. We propose three strategic directions: personalized precision delivery integrating liquid biopsy, organoids, and functional imaging to support patient stratification and treatment adaptation; AI-assisted formulation optimization using machine learning to develop material-structure-function predictive models and support data-driven formulation design; and multi-responsive systems leveraging endogenous signals such as pH, GSH, and enzymes, together with exogenous stimuli including light, magnetism, and ultrasound, for spatiotemporally controlled combination therapy. This review summarizes key considerations from biological barriers to clinical translation, emphasizing that alignment of tumor subtype, metastatic site, microenvironmental characteristics, and patient-specific factors may improve the clinical applicability of drug delivery strategies.",
-      "journal": "Drug design, development and therapy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong, Jiangsu Province, People's Republic of China.",
-        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Medical School of Nantong University, Nantong, Jiangsu Province, People's Republic of China."
-      ],
-      "doi": "10.2147/DDDT.S638939",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801248/"
-    },
-    {
-      "pmid": "42801212",
-      "title": "Recent advances in microfluidics and bioelectronics for three-dimensional organoid interfaces.",
-      "abstract": "Organoids offer a promising alternative in biomedical research and clinical medicine, with better feature recapitulation than 2D cultures. They also have more consistent responses with clinical results when compared to animal models. However, major challenges exist in the longevity of culture, the reproducibility of organoid properties, and the development of non-disruptive monitoring methods. Recent advances in materials and microfabrication methods, such as 3D printing and compressive buckling, have enabled three-dimensional (3D) interfaces of microfluidics and bioelectronics to manipulate and monitor these biological models in exciting ways. These advanced systems have great potential for applications in drug delivery, personalized medicine, and disease modeling. We conclude with important future considerations to generate longevity using further technological development in organoid and spheroid models.",
-      "journal": "Biomicrofluidics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Engineering, College of Engineering, University of Connecticut, 260 Glenbrook Rd., Storrs, Connecticut 06269, USA.",
-        "Department of Materials Science and Engineering, College of Engineering, University of Connecticut, 25 King Hill Rd., Storrs, Connecticut 06269, USA.",
-        "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, 2525 Pottsdamer St., Tallahassee, Florida 32310, USA."
-      ],
-      "doi": "10.1063/5.0306055",
-      "date": "2026-04-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801212/"
     },
     {
       "pmid": "42782810",
@@ -369,6 +370,45 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/"
     },
     {
+      "pmid": "42802853",
+      "title": "Recent Advances in Gynaecological Care: Diagnostic Innovations, Therapeutic Strategies, and Patient Outcomes.",
+      "abstract": "Gynaecological care has advanced substantially through innovations in diagnostic imaging, molecular profiling, minimally invasive surgery, fertility preservation, targeted therapies, digital health, and patient-centred care. Despite these developments, major challenges remain, including delayed detection of ovarian and endometrial malignancies, unequal access to advanced technologies, limited long-term validation of emerging interventions, and inadequate integration of quality-of-life outcomes into routine clinical practice. This narrative review aimed to synthesise recent progress in gynaecological care with emphasis on diagnostic innovations, therapeutic strategies, and their influence on patient outcomes. Relevant peer-reviewed literature published between 2018 and 2026 was reviewed using major scientific databases, including PubMed, Scopus, Web of Science, and Google Scholar. The literature indicates that high-resolution ultrasound, MRI, molecular diagnostics, and artificial intelligence are strengthening disease characterisation and risk stratification, while liquid-biopsy approaches remain under investigation for molecular monitoring and other potential clinical applications. Robotic-assisted surgery, fertility-preserving approaches, immunotherapy, PARP inhibitors, and anti-angiogenic therapies are expanding individualised treatment options. Telemedicine, mobile health applications, and patient-reported outcome measures are also improving accessibility, engagement, and holistic care assessment. These advances collectively support a transition toward precision-oriented and patient-responsive gynaecological care. However, high costs, infrastructure limitations, ethical and regulatory concerns, unequal access, and the need for further clinical validation continue to restrict widespread implementation. Continued validation, multidisciplinary collaboration, and equitable healthcare strategies are essential to improve gynaecological outcomes globally.",
+      "journal": "Cureus",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Stree Rog and Prasutitantra, Dr. D.Y. Patil College of Ayurved and Research Center, Pimpri, IND.",
+        "Department of Obstetrics and Gynaecology, Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow, IND.",
+        "Department of Obstetrics and Gynaecology, Government Medical College, Satna, Satna, IND.",
+        "Department of Obstetrics and Gynaecology, The Tamil Nadu Dr. M.G.R. Medical University, Chennai, IND.",
+        "Department of Medicine and Pharmacology, Sumandeep Homeopathic Medical College and Hospital, Sumandeep Vidyapeeth Deemed to be University, Vadodara, IND.",
+        "College of Allied and Healthcare Sciences, Teerthanker Mahaveer University, Moradabad, IND."
+      ],
+      "doi": "10.7759/cureus.115210",
+      "date": "2026-08-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802853/"
+    },
+    {
+      "pmid": "42802333",
+      "title": "Microfluidic approaches to next- generation sequencing library preparation: innovations, clinical integration and point-of-care settings.",
+      "abstract": "Next-generation sequencing (NGS) has revolutionized genomics by enabling high-throughput, cost-effective analysis of nucleic acids for both research and clinical applications. Library preparation remains a bottleneck in sequencing due to high reagent use, labor-intensive workflows, long hands-on times, and susceptibility to human error, despite advancements in sequencing technology. This review emphasizes the latest advancements in microfluidics-based next-generation sequencing (NGS) library preparation, focusing on four specific platform types: continuous-flow systems, droplet microfluidics, digital microfluidics (DMF), and integrated lab-on-chip devices. These innovative technologies significantly reduce reagent consumption by 10 to 200 times, facilitate the creation of high-quality libraries from picogram-scale DNA or even single cells, and automate intricate workflows within enclosed systems. The applications of these technologies in liquid biopsy, pathogen detection, prenatal testing, and epigenomic profiling showcase considerable clinical promise. Challenges such as fabrication complexity, lack of standardization, biofouling, and high instrument costs hinder widespread adoption, particularly in resource-limited settings. However, advancements in AI, thermal control, long-read sequencing, and portable microfluidics are helping to overcome these issues. Microfluidic library preparation has the potential to transform NGS workflows by enhancing automation, reproducibility, and accessibility, thereby facilitating broader applications of genomic sequencing in research, clinical diagnostics, and point-of-care settings.",
+      "journal": "Expert review of molecular diagnostics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India.",
+        "MEMS, Microfluidics and Nanoelectronics (MMNE) Lab, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India.",
+        "Department of Mechanical Engineering, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India."
+      ],
+      "doi": "10.1080/14737159.2026.2741059",
+      "date": "2026-09-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802333/"
+    },
+    {
       "pmid": "42801943",
       "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
       "abstract": "Esophageal cancer is increasingly understood as a malignancy shaped not only by local histopathologic change but also by dynamic intercellular communication within the tumor ecosystem. Exosomes and related small extracellular vesicles are secreted by tumor, stromal, endothelial, and immune cells and carry nucleic acids, proteins, lipids, and metabolites that may contribute to tumor growth, invasion, immune escape, metastatic niche formation, and treatment resistance. Their molecular cargo may capture tumor-associated biological changes before overt radiologic or histopathologic progression in selected settings; however, their clinical utility remains constrained by inconsistent isolation methods, heterogeneous cargo profiles, limited prospective validation, and insufficient standardization. This review critically synthesizes current evidence on exosome-mediated communication in esophageal cancer, with emphasis on mechanistic signaling, liquid biopsy, treatment monitoring, and engineered therapeutic delivery. Current data suggest that exosome-associated miRNAs, lncRNAs, circRNAs, proteins, and immune-regulatory molecules are promising candidate biomarkers, but they should currently be regarded as complementary rather than superior to endoscopy, imaging, ctDNA, circulating tumor cells, and clinicopathologic assessment. Engineered exosomes show preclinical promise as delivery vehicles for nucleic acids, immunomodulators, and chemotherapeutics, although their clinical translation in esophageal cancer remains limited by manufacturing reproducibility, biodistribution, safety, dose control, and regulatory requirements. Overall, exosome-based strategies may become part of precision oncology for esophageal cancer only if supported by standardized extracellular-vesicle methodology, prospective multicenter validation, and evidence that exosome-informed decisions improve patient outcomes. CORE TIPS: Emerging evidence suggests that exosomes participate in multiple stages of esophageal cancer biology, including local invasion, immune modulation, lymphatic dissemination, treatment resistance, and candidate biomarker development. Their molecular cargo may provide dynamic biological information before conventional clinical progression becomes apparent in selected studies, but their screening and monitoring value requires prospective head-to-head validation against endoscopy, imaging, ctDNA, circulating tumor cells, and tissue-based biomarkers. Engineered exosomes represent a promising preclinical delivery platform; however, clinical translation depends on standardized isolation and characterization, cargo normalization, batch-to-batch reproducibility, scalable production, and regulatory-quality control. This review therefore emphasizes both translational opportunities and current evidence limitations.",
@@ -424,61 +464,56 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801547/"
     },
     {
-      "pmid": "42800682",
-      "title": "Multi-target blood test for hepatocellular carcinoma early detection: a cross-sectional analysis of the prospective ALTUS study.",
-      "abstract": "Globally, 350 million people are at risk for HCC. Ultrasound screening is recommended but is limited by poor early-stage sensitivity and low adherence. This study evaluated whether the multi-target HCC blood test (mt-HBT) demonstrates non-inferior sensitivity for early-stage HCC compared with ultrasound and assessed its specificity. This prospective, multicenter study, conducted between July 2021 and June 2025 in the United States, evaluated the performance of the mt-HBT in a head-to-head comparison with standard-of-care ultrasound among adults with cirrhosis or chronic HBV infection who were eligible for routine HCC screening. All participants underwent computed tomography or magnetic resonance imaging as a reference standard. The co-primary outcomes were non-inferiority of mt-HBT to ultrasound for early-stage HCC sensitivity, with sequential testing of superiority, and mt-HBT specificity. A secondary outcome was overall (any-stage) mt-HBT sensitivity. Of 3089 participants, 2293 were evaluable with paired ultrasound and mt-HBT results. Thirty-seven HCCs were identified, with 27 classified as early stage by Milan criteria. Early-stage HCC sensitivities were 66.7% (95% CI, 47.8-81.4%) for mt-HBT and 22.2% (95% CI, 10.6-40.8%) for ultrasound, confirming mt-HBT non-inferiority within the prespecified 5% margin. The specificity for mt-HBT was 81.8% (95% CI, 80.1-83.4%), which did not meet the pre-specified co-primary outcome of 82%. Ultrasound specificity was 98.6% (95% CI, 98.0-99.0%). Any-stage HCC sensitivity was 73.0% (95% CI, 57.0-84.6%) for mt-HBT and 29.7% (95% CI, 17.5-45.8%) for ultrasound. No serious adverse events occurred during the blood collection process. The mt-HBT had higher observed sensitivity than ultrasound for early-stage HCC, with a paired absolute difference of 44.4% (95% CI, 20.2-63.8); however, specificity did not meet the prespecified target. The trial is registered with ClinicalTrials.gov (NCT05064553) IMPACT AND IMPLICATIONS: HCC screening remains limited by the suboptimal sensitivity of ultrasound, particularly among patients with obesity and steatotic liver disease. In this prospective multicenter study, a multi-target HCC blood test demonstrated substantially higher sensitivity for early-stage HCC detection than ultrasound while maintaining favorable screening performance across diverse patient subgroups. These findings are important for clinicians, researchers, and patients because they support further evaluation of blood-based approaches to address known limitations of imaging-based screening.",
-      "journal": "Journal of hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Gastroenterology and Hepatology, Miami VA Medical Center, Miami, FL, USA; Division of Digestive Health and Liver Diseases, Department of Medicine, University of Miami Miller School of Medicine, Miami, FL, USA. Electronic address: Binu.John@va.gov.",
-        "Abbott, Madison, WI, USA.",
-        "Division of Digestive and Liver Diseases, Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA.",
-        "Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA; Karsh Division of Gastroenterology and Hepatology, Cedars-Sinai Medical Center, Los Angeles, CA, USA; Comprehensive Transplant Center, Cedars-Sinai Medical Center, Los Angeles, CA, USA.",
-        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Mayo Clinic, Rochester, MN, USA.",
-        "Department of Radiology, Mayo Clinic, Scottsdale, AZ, USA.",
-        "Department of Internal Medicine, Indiana University, Indianapolis, IN, USA.",
-        "Division of Gastroenterology and Hepatology, Henry Ford Hospital, Detroit, MI, USA."
-      ],
-      "doi": "10.1016/j.jhep.2026.09.011",
-      "date": "2026-09-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42800682/"
-    },
-    {
-      "pmid": "42798930",
-      "title": "Postoperative circulating tumor DNA in stage II colon cancer: biological rationale, clinical evidence, and unresolved challenges.",
-      "abstract": "Stage II colon cancer is clinically heterogeneous. Current clinicopathologic risk factors cannot accurately identify patients with residual disease after curative resection. Circulating tumor DNA (ctDNA) has emerged as a promising biomarker for the detection of minimal residual disease (MRD), defined as microscopic residual tumor burden that remains after curative-intent treatment and is not detectable by conventional imaging, and for postoperative risk stratification. This narrative review summarizes the biological basis, analytical approaches, and clinical evidence regarding ctDNA in stage II colon cancer. We particularly emphasize prospective studies and randomized controlled trials. Postoperative ctDNA positivity is strongly associated with increased recurrence risk and provides superior prognostic stratification compared with conventional clinicopathologic factors. Prospective studies have demonstrated that ctDNA-positive patients experience substantially higher recurrence rates, with the GALAXY study reporting a hazard ratio of 11.99 (95% CI: 8.83-16.27) for disease-free survival among patients with postoperative molecular residual disease. The DYNAMIC trial demonstrated that ctDNA-guided management reduces adjuvant chemotherapy use without compromising recurrence-free survival. However, current evidence suggests an important asymmetry in clinical utility. ctDNA negativity may support treatment de-escalation. In contrast, ctDNA positivity has not yet reliably identified patients who benefit from treatment escalation. ctDNA constitutes a robust prognostic biomarker in stage II colon cancer and supports risk-adapted postoperative management. However, its predictive value for guiding treatment escalation remains unproven. Integration with clinicopathologic and molecular features is essential before routine clinical implementation.",
-      "journal": "Frontiers in oncology",
+      "pmid": "42801248",
+      "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
+      "abstract": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges. This review delineates the evolution of breast cancer DDS from passive carriers to increasingly functional and responsive platforms, focusing on three core dimensions. First, regarding decisive barriers, we dissect the constraints imposed by the three-dimensional collagen network, pH/glutathione (GSH) gradients, and tumor-associated macrophages (TAMs) on drug penetration. These factors not only act as physical and biochemical obstacles but can also be harnessed as endogenous triggers for responsive design. Second, in terms of diversified platforms, we critically evaluate liposomes, polymeric nanoparticles, hydrogels, extracellular vesicles, and antibody-drug conjugates (ADCs). We highlight the potential of solid lipid nanoparticles to address drug resistance, the development of carrier-free delivery enabled by prodrug self-assembly, and the clinical significance of ADCs (eg, T-DXd) in expanding treatment options for HER2-low breast cancer. Third, we examine inter- and intratumoral heterogeneity, metastatic site-specific delivery barriers in the brain, bone, and lung, the multilayered resistance network from efflux pumps to cancer stem cells, and the sequential barriers nanomedicines must traverse from systemic circulation to intracellular targets. We propose three strategic directions: personalized precision delivery integrating liquid biopsy, organoids, and functional imaging to support patient stratification and treatment adaptation; AI-assisted formulation optimization using machine learning to develop material-structure-function predictive models and support data-driven formulation design; and multi-responsive systems leveraging endogenous signals such as pH, GSH, and enzymes, together with exogenous stimuli including light, magnetism, and ultrasound, for spatiotemporally controlled combination therapy. This review summarizes key considerations from biological barriers to clinical translation, emphasizing that alignment of tumor subtype, metastatic site, microenvironmental characteristics, and patient-specific factors may improve the clinical applicability of drug delivery strategies.",
+      "journal": "Drug design, development and therapy",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of General Surgery, Yan'An Hospital Affiliated to Kunming Medical University, Kunming, China.",
-        "Nujiang People's Hospital, Nujiang, China.",
-        "The Key Laboratory of Tumour Immunological Prevention and Treatment of Yunnan Province, Kunming Medical University, Kunming, China."
+        "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong, Jiangsu Province, People's Republic of China.",
+        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Medical School of Nantong University, Nantong, Jiangsu Province, People's Republic of China."
       ],
-      "doi": "10.3389/fonc.2026.1908802",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798930/"
-    },
-    {
-      "pmid": "42800908",
-      "title": "Five Tools, One Patient: Toward a Common Output Standard for Periprocedural Anticoagulation Decision Support.",
-      "abstract": "",
-      "journal": "The Annals of pharmacotherapy",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [],
-      "doi": "10.1177/10600280261489740",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42800908/"
+      "doi": "10.2147/DDDT.S638939",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801248/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42802936",
+      "date": "2026-09-28",
+      "title": "Next-generation brain organoids: neural complexity from cellular diversity to functional networks.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802936/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Brain : a journal of neurology，PMID 为 42802936。",
+      "report": "Brain organoids, as pioneering three-dimensional (3D) in vitro platforms, have profoundly advanced our understanding of human brain development and disease mechanisms. This review summarizes recent progress in enhancing cellular diversity, structural organizat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42801698",
       "date": "2026-09-27",
@@ -631,6 +666,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42802333",
+      "date": "2026-09-27",
+      "title": "Microfluidic approaches to next- generation sequencing library preparation: innovations, clinical integration and point-of-care settings.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802333/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of molecular diagnostics，PMID 为 42802333。",
+      "report": "Next-generation sequencing (NGS) has revolutionized genomics by enabling high-throughput, cost-effective analysis of nucleic acids for both research and clinical applications. Library preparation remains a bottleneck in sequencing due to high reagent use, labo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42801943",
       "date": "2026-09-27",
       "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
@@ -667,59 +730,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42800908",
-      "date": "2026-09-27",
-      "title": "Five Tools, One Patient: Toward a Common Output Standard for Periprocedural Anticoagulation Decision Support.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42800908/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Annals of pharmacotherapy，PMID 为 42800908。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42800682",
+      "id": "pubmed-42802413",
       "date": "2026-09-26",
-      "title": "Multi-target blood test for hepatocellular carcinoma early detection: a cross-sectional analysis of the prospective ALTUS study.",
-      "entity": "Biotech Research",
+      "title": "Stem cell morphology defines functional heterogeneity and therapeutic vulnerabilities in glioblastoma.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42800682/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802413/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
+        "Organoids",
+        "Advanced Disease Models",
         "Precision Oncology",
-        "Drug Screening"
+        "Multi-omics"
       ],
       "tags": [
-        "biotech",
+        "类器官",
+        "疾病模型",
         "肿瘤",
-        "药筛"
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of hepatology，PMID 为 42800682。",
-      "report": "Globally, 350 million people are at risk for HCC. Ultrasound screening is recommended but is limited by poor early-stage sensitivity and low adherence. This study evaluated whether the multi-target HCC blood test (mt-HBT) demonstrates non-inferior sensitivity...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42802413。",
+      "report": "Glioblastoma (GBM) is an aggressive brain tumor and an unmet clinical need due to its invasiveness and therapy resistance. These features are driven by glioblastoma stem-like cells (GSLCs), which exhibit remarkable functional heterogeneity. While transcription...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -811,6 +850,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42771879",
+      "date": "2026-09-22",
+      "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42771879/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
+      "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42801248",
       "date": "2026-09-22",
       "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
@@ -842,34 +909,6 @@
       "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42801248。",
       "report": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biologi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42771879",
-      "date": "2026-09-22",
-      "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42771879/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
-      "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1000,34 +1039,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42798930",
-      "date": "2026-09-11",
-      "title": "Postoperative circulating tumor DNA in stage II colon cancer: biological rationale, clinical evidence, and unresolved challenges.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798930/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42798930。",
-      "report": "Stage II colon cancer is clinically heterogeneous. Current clinicopathologic risk factors cannot accurately identify patients with residual disease after curative resection. Circulating tumor DNA (ctDNA) has emerged as a promising biomarker for the detection o...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42775042",
       "date": "2026-09-08",
       "title": "Toward trustworthy virtual cells: a roadmap for perturbation-resolved, context-aware, and experimentally validated cell models.",
@@ -1123,6 +1134,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42802853",
+      "date": "2026-08-26",
+      "title": "Recent Advances in Gynaecological Care: Diagnostic Innovations, Therapeutic Strategies, and Patient Outcomes.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802853/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42802853。",
+      "report": "Gynaecological care has advanced substantially through innovations in diagnostic imaging, molecular profiling, minimally invasive surgery, fertility preservation, targeted therapies, digital health, and patient-centred care. Despite these developments, major c...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42754836",
       "date": "2026-08-25",
       "title": "scGPA: an LLM-assisted workflow for directional virtual gene perturbation analysis from single-cell transcriptomes.",
@@ -1183,39 +1222,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biomolecules，PMID 为 42793054。",
       "report": "In proteins, tracts compositionally biased by a subset of amino acids are often linked to intrinsic disorder. Such compositionally biased regions (CBRs) are sometimes analyzed for 'sequence complexity' ('information entropy') despite being an unlikely substrat...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42801212",
-      "date": "2026-04-23",
-      "title": "Recent advances in microfluidics and bioelectronics for three-dimensional organoid interfaces.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801212/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomicrofluidics，PMID 为 42801212。",
-      "report": "Organoids offer a promising alternative in biomedical research and clinical medicine, with better feature recapitulation than 2D cultures. They also have more consistent responses with clinical results when compared to animal models. However, major challenges...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
