@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-28T14:04:57.249074+00:00",
+  "capturedAt": "2026-09-28T23:20:05.092561+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,138 +14,161 @@
     "end": "2026-09-28"
   },
   "pmids": [
-    "42802936",
-    "42802413",
-    "42801698",
-    "42801650",
-    "42801519",
-    "42801441",
+    "42804753",
+    "42804731",
+    "42804568",
+    "42804364",
+    "42804341",
+    "42804161",
+    "42804716",
     "42782810",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
-    "42753692",
+    "42803993",
+    "42803306",
     "42801963",
     "42798990",
     "42797484",
     "42793054",
-    "42789724",
-    "42786569",
+    "42803873",
+    "42803760",
     "42802853",
     "42802333",
     "42801943",
-    "42801800",
-    "42801547",
-    "42801248"
+    "42801800"
   ],
   "records": [
     {
-      "pmid": "42802936",
-      "title": "Next-generation brain organoids: neural complexity from cellular diversity to functional networks.",
-      "abstract": "Brain organoids, as pioneering three-dimensional (3D) in vitro platforms, have profoundly advanced our understanding of human brain development and disease mechanisms. This review summarizes recent progress in enhancing cellular diversity, structural organization, and functional complexity within brain organoids. A key application of these models lies in disease modelling, encompassing neurodevelopmental and neurodegenerative disorders as well as brain tumours, which enables personalized drug screening and mechanistic studies. Despite persistent challenges related to neuronal maturation, vascularization, reproducibility, and functional integration, we highlight emerging bioengineering strategies, multi-organ integration approaches, and ethical considerations that provide a roadmap for next-generation organoid platforms. Collectively, brain organoids hold transformative potential for both fundamental neuroscience and translational research, bridging critical gaps between conventional experimental models and human-specific pathophysiology.",
-      "journal": "Brain : a journal of neurology",
+      "pmid": "42804753",
+      "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
+      "abstract": "Chemotherapy is a standard treatment for lung adenocarcinoma (LUAD), yet the efficacy is often limited, highlighting the need to elucidate and the underlying mechanisms of chemoresistance. Given the important role of the tumor microenvironment in LUAD progression, we established a biobank of patient-derived LUAD organoids (LCOs) paired with cancer-associated fibroblasts (CAFs) from treatment naïve tumors and found that co-culture with CAFs reduced drug sensitivity of LCOs. Plasminogen activator urokinase (PLAU) was identified as a specific marker of chemoresistance-associated CAFs linked with poor survival in LUAD patients. Tumor cells induced polarization of fibroblasts toward a PLAU+ chemoresistant state that secreted CXCL5 to upregulate the ER chaperone calmegin (CLGN) in tumor cells. CLGN ablation restored drug sensitivity, whereas CLGN expression was elevated in chemotherapy-resistant LUAD and correlated with pathological progression. Together, these findings identify the PLAU⁺ CAF-CXCL5-CLGN axis that drives LUAD chemoresistance and suggest that CLGN inhibition could be a promising therapeutic strategy to overcome chemoresistance in advanced LUAD.",
+      "journal": "Cancer research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Human Organ Physiopathology Emulation System, State Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing, 100101, China.",
-        "Beijing Institute for Stem Cell and Regenerative Medicine, Beijing 10010l, China.",
-        "University of Chinese Academy of Sciences, Beijing, 100049, China.",
-        "Department of Neurology & Innovation Center for Neurological Disorders, Xuanwu Hospital, Capital Medical University, National Center for Neurological Disorders, Beijing 100053, China."
+        "Guangzhou Laboratory China.",
+        "The Sixth Affiliated Hospital, School of Medicine, South China University of Technology Foshan, Guangdong China.",
+        "Nanchang University China.",
+        "Nanchang University Nanchang China.",
+        "First Affiliated Hospital of Guangzhou Medical University Guangzhou, Guangdong China.",
+        "Guangdong Lung Cancer Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University Guangzhou, Guangdong China.",
+        "Guangzhou Institutes of Biomedicine Guangzhou, Guangdong China.",
+        "Tsinghua University Beijing China."
       ],
-      "doi": "10.1093/brain/awag332",
+      "doi": "10.1158/0008-5472.CAN-26-1323",
       "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802936/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804753/"
     },
     {
-      "pmid": "42802413",
-      "title": "Stem cell morphology defines functional heterogeneity and therapeutic vulnerabilities in glioblastoma.",
-      "abstract": "Glioblastoma (GBM) is an aggressive brain tumor and an unmet clinical need due to its invasiveness and therapy resistance. These features are driven by glioblastoma stem-like cells (GSLCs), which exhibit remarkable functional heterogeneity. While transcriptional profiling has helped define this heterogeneity, it alone does not fully predict cellular behaviors. Because cell morphology is closely linked to function during neurodevelopment, we asked whether integrating morphological and transcriptomic identities could reveal clinically relevant roles of GSLCs. We employed CellShape-seq, a customised spatial transcriptomics platform integrating cell morphology with transcriptome and applied it to patient-derived GBM organoids. To link GSLC transcriptome to function, we combined assembloid invasion assays, calcium imaging, pharmacological perturbations and time-lapse microscopy. We identified three GSLC morphological classes corresponding to distinct transcriptomic states and functional behaviors: nonpolar cells, which show differentiation and therapy sensitivity; elongated cells, which are blood-vessel associated, invasive and chemoresistant; and multipolar cells, which form intercellular networks conveying therapy resistance. Importantly, morphological state remains stable throughout interphase and is readily inherited from mother to daughter cells. However, under pharmacological stress GSLCs show striking morphological plasticity. Namely, Temozolomide treatment is associated with GSLC elongation and branching, while YAP inhibition and gap-junction blockage result in a reduction of elongated and multipolar GSLCs, respectively. Finally, combined targeting of these morphoclass-specific vulnerabilities reduces viability in patient-derived organoids. Our findings demonstrate that cell morphology provides critical insights into GSLC behaviors and establish a rationale for putative morphology-informed therapies to overcome resistance and improve outcomes in GBM.",
-      "journal": "Neuro-oncology",
+      "pmid": "42804731",
+      "title": "Ferret Glandular Myoepithelial Cells Are Multipotent Airway Progenitors with a Secretory Lineage Bias.",
+      "abstract": "Airway submucosal glands (SMGs) play a key role in pulmonary defense by producing mucus and antimicrobial secretions; their dysfunction underlies diseases such as cystic fibrosis (CF) and chronic obstructive pulmonary disease. Murine studies have identified tracheal glandular myoepithelial cells (GMECs) as reserve stem cells, but CFTR-deficient mice lack the intrapulmonary airway glands required to model CF lung disease. In contrast, CFTR-deficient ferrets possess intrapulmonary airway glands, thereby closely recapitulating human CF lung pathology, yet we currently lack models to trace these cells in vivo. We generated an ACTA2 CreER::ROSA mTmG transgenic ferret model to lineage-trace ACTA2-expressing GMECs. We examined GMEC contributions to glandular development and surface airway epithelium (SAE) regeneration following polidocanol injury. Single-cell transcriptomics, organoid, and air-liquid interface (ALI) cultures were utilized to evaluate epithelial differentiation and CFTR-mediated ion transport. Single-cell trajectory models and lineage tracing revealed that ferret GMECs are high-potency multipotent progenitors contributing to the basal, serous, and mucous lineages during gland development. After severe adult airway injury, GMECs recruited to the SAE and regenerated multiple epithelial cell types with a bias towards secretory cells. Despite robust FOXI1+ ionocyte formation, GMEC-derived epithelia exhibited reduced CFTR expression, function, and fluid secretion compared to non-GMEC-derived glandular epithelia. Ferret GMECs are multipotent progenitors and contribute to gland development and airway repair. However, their descendants demonstrate bias toward the specification of secretory cells and CFTRLow ionocytes. This suggests that GMEC-driven repair may result in structurally restored yet functionally compromised epithelia, potentially contributing to mucus retention in muco-obstructive airway diseases.",
+      "journal": "American journal of respiratory cell and molecular biology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Human Technopole, Milan, Italy.",
-        "Neurosurgery Unit, ASST Ovest Milanese - Legnano Hospital, Legnano, Italy.",
-        "Institute of Genetics and Biomedical Research, UoS of Milan, National Research Council, Milan, Italy."
+        "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294.",
+        "Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA 52242, USA.",
+        "Department of Cell Biology, Duke University School of Medicine, Durham, NC 27718, USA.",
+        "Duke Regeneration Center, Duke University, Durham, NC 27710, USA.",
+        "Department of Surgery, Duke University School of Medicine, Durham, NC 27710, USA.",
+        "Department of Pharmacology & Regenerative Medicine, University of Illinois Chicago, Chicago, IL 60612, USA."
       ],
-      "doi": "10.1093/neuonc/noag235",
-      "date": "2026-09-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802413/"
+      "doi": "10.1093/ajrcmb/aanag191",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804731/"
     },
     {
-      "pmid": "42801698",
-      "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
-      "abstract": "Influenza A virus (IAV) commandeers host transcriptional machinery to replicate, but mechanisms remain elusive. CRISPR screen identifies PARP1 as a proviral factor that binds viral NS1. ATAC‑seq reveals IAV drives PARP1‑dependent chromatin remodeling at promoter‑proximal regions (-100 to +300 bp), linking PARP1 to viral RNA synthesis. Mechanistically, NS1 engages PARP1's helical domain (HD), which alone forms large, irregular condensates with low fluidity, acting as a built‑in rheostat. HD deletion confers high droplet mobility, whereas NS1 binding locks PARP1 into a hyper‑condensed, gel‑like state. This phase transition traps Pol II in prolonged pause by enriching pausing factors (SPT5‑PLD, NELFA, NELFE) and excluding release factors (SPT5‑PRD, AFF4). The paused environment is hijacked for efficient cap‑snatching and viral RNA synthesis. This proviral activity is independent of PARP1's polymerase activity, revealing a non‑canonical mechanism that complements recent reports of PARP1‑mediated antiviral ADP‑ribosylation. Targeting this phase transition, we identify tectochrysin (TEC) and isoferulic acid (IFA), which restore fluidity, reverse pausing, and suppress IAV in mice and lung organoids without toxicity. Our work establishes that NS1 coopts PARP1 phase separation via the HD rheostat to prolong transcriptional pausing, introducing 'phase transition correction' as an antiviral paradigm.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42804568",
+      "title": "Modeling Heart Failure With Preserved Ejection Fraction Using Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes.",
+      "abstract": "",
+      "journal": "Circulation",
+      "publicationTypes": [
+        "Letter"
+      ],
+      "affiliations": [
+        "Stanford Cardiovascular Institute, School of Medicine (B.Y., L.R., Y.L., C.T., A.K., Y.D., R.V., M.S., S.R.Z., J.C.W.), Stanford University, CA.",
+        "Division of Cardiovascular Medicine, Department of Medicine (J.C.W.), Stanford University, CA.",
+        "Greenstone Biosciences, Palo Alto, CA (J.C.W.)."
+      ],
+      "doi": "10.1161/CIRCULATIONAHA.126.081881",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804568/"
+    },
+    {
+      "pmid": "42804364",
+      "title": "Protocol for mechanical nuclei dissociation and isolation from frozen tissue and organoids for single-nucleus RNA sequencing.",
+      "abstract": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation, using the GentleMACS Dissociator, serial filtration, and magnetic bead-based nuclei isolation. We then detail nuclei quality control and counting. This approach yields pure single-nucleus suspensions suitable for downstream fixation, cryopreservation, or library preparation across diverse tissue types. For complete details on the use and execution of this protocol, please refer to Guillon et al.1.",
+      "journal": "STAR protocols",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, National Center for Respiratory Medicine, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.",
-        "Guangzhou National Laboratory, Guangzhou, China.",
-        "Guangzhou Key Laboratory for Clinical Rapid Diagnosis and Early Warning of Infectious Diseases, KingMed School of Laboratory Medicine, Guangzhou Medical University, Guangzhou, China.",
-        "Engineering Technology Research Center of Intelligent Diagnosis for Infectious Diseases in Guangdong Province, Guangzhou, China.",
-        "Guangdong Provincial Engineering Research Center for Early Warning and Diagnosis of Respiratory Infectious Diseases, Guangzhou, China.",
-        "Macao Institute of Systems Engineering, Macao University of Science and Technology, Macau SAR, China."
+        "Université de Montreal, Department of Neurosciences, Montreal QC H3T 1J4, Canada; Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada.",
+        "Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada.",
+        "Université de Montreal, Department of Neurosciences, Montreal QC H3T 1J4, Canada; Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada. Electronic address: anthony.flamier@umontreal.ca."
       ],
-      "doi": "10.1002/advs.77883",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801698/"
+      "doi": "10.1016/j.xpro.2026.104855",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804364/"
     },
     {
-      "pmid": "42801650",
-      "title": "Copper-Driven Epithelial Barrier Disruption: A Novel Mechanism of COPD Acute Exacerbations Mediated by the TNF-α/ATP7A Axis.",
-      "abstract": "Elevated copper levels are associated with chronic obstructive pulmonary disease (COPD) and susceptibility to acute exacerbations of COPD (AECOPD), but the underlying mechanisms remain unclear. This study aimed to investigate the association between copper levels and AECOPD and elucidate the underlying mechanisms. A cross-sectional analysis of NHANES 2011-2012, a hospital-based case-control study enrolling 30 AECOPD patients and 30 healthy controls, and a one-year prospective follow-up of COPD patients demonstrated that higher serum copper levels were associated with more frequent exacerbations and earlier recurrence. Integrated studies using copper-manipulated COPD mice, zebrafish, lung organoids, and BEAS-2B cells, together with bulk and single-cell RNA sequencing, colorimetric copper quantification, ELISA-based tumor necrosis factor-α (TNF-α) measurement, oxidative stress and mitochondrial functional analyses, and FITC-dextran permeability assays, showed that excess copper induced mitochondrial oxidative stress, tight-junction loss, and epithelial barrier dysfunction. Mechanistic analyses revealed that TNF-α suppressed ATPase copper-transporting alpha (ATP7A) transcription through competition between NF-κB and CREB1 for the shared coactivator CBP, thereby promoting intracellular copper accumulation. ATP7A restoration alleviated epithelial injury, whereas ATP7A silencing abolished the improvement conferred by anti-TNF-α therapy in COPD mice. These findings identify the copper-TNF-α/ATP7A axis as a mechanism underlying AECOPD and a potential therapeutic target.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42804341",
+      "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
+      "abstract": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling of dissected ADPKD cysts has demonstrated size-based transcriptional heterogeneity, impossible to define in prior single cell analysis, but sampling was neither single cell nor comprehensive to limit downstream transcriptional analysis. 10X Genomics Visium spatial transcriptomics of an autosomal dominant polycystic kidney disease patient sample morphologically recognizes cysts to spatially characterize their ligand-receptor engagement, the signaling pathways of cystic transformation, and candidate cystic anchor genes that are specific and sensitive for cystic epithelia. Anchor gene validation in single nuclear RNA sequencing and cyst bulk RNA sequencing enhanced resolution, extended to cysts of variable size, and corroborated across ADPKD samples, prior to confirmatory confocal microscopy for protein-level localization. The polycystic kidney disease interactome may be enriched for vscular endothelial growth inhibitor-mediated hypoxia, fibrotic extracellular matrix, and proinflammatory transforming growth factor-β (TGF-β), tumor necrosis factor, and interferon-γ signaling. Enhanced ligand-receptor engagement between cysts and fibroblasts suggests Osteopontin and Macrophage migration inhibitory factor signals emanate from cysts and TWEAK, Tenascin-C, and Pleiotrophin signals into cysts. Cystic principal cells, standardized to non-cystic counterparts, implicates Hippo (YAP/TAZ), transforming growth factor-β (TGF-β/SMAD3), and mammalian target of rapamycin (mTORC2/SGK1) signaling in cystic transformation, while pathway analysis newly implicates nicotinic acetylcholine, cadherin, toll-like, and cholecystokinin receptor signaling. Top DEGs of cystic principal cells, interrogated for their specificity for cysts and their consistency across individual samples of single cell and cyst bulk RNA-seq, prioritizes musculin as a cystic anchor gene. Spatial transcriptomics morphologically and transcriptionally characterizes the polycystic kidney disease transcriptome. Ligand-receptor, pathway, and reactome analyses may provide clinically-relevant disease associations that inform mechanistic studies in animal and organoid models. Integrating spatial, single nuclear, and cyst bulk RNA-seq spatially recognizes cysts at single cell resolution, while accounting for size-based heterogeneity of cysts.",
+      "journal": "Kidney360",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Respiratory and Critical Care Medicine, The Second People's Hospital of Changzhou, The Third Affiliated Hospital of Nanjing Medical University, Changzhou, China.",
-        "Department of Central Laboratory, The Second People's Hospital of Changzhou, The Third Affiliated Hospital of Nanjing Medical University, Changzhou, China."
+        "Division of Nephrology and Hypertension, Mayo Clinic, Rochester, MN.",
+        "Division of Nephrology and Hypertension, Mayo Clinic, Jacksonville FL.",
+        "Division of Biochemistry and Molecular Biology, Mayo Clinic, Rochester, MN."
       ],
-      "doi": "10.1002/advs.202519533",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801650/"
+      "doi": "10.34067/KID.0000001371",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/"
     },
     {
-      "pmid": "42801519",
-      "title": "3D Nanoprinted Structures Promote Robust Integration of Brain Organoids into Topography-Guided Neuronal Networks.",
-      "abstract": "Two-photon polymerization-based 3D nanoprinting (3DN) is a potent tool for the fabrication of highly specialized cultivation platforms that enable guided neuronal networks. However, despite the design freedom offered by 3DN, specialized cultivation platforms that actively direct brain organoid behavior in terms of positioning, substrate integration, and neurite outgrowth remain largely absent. Here, we address this by 3D nanoprinting slope, funnel, rod, step, and wall structures that facilitate precise and reliable organoid positioning, promote a tight organoid-substrate interface, and determine the direction of neurite outgrowth. Cultivation platforms featuring these structures are fabricated on coverslips to enable cultivation in standard 12-well cultivation plates. Human cortical organoids (hCOs) cultivated on top exhibit firing of action potentials, highlighting the biocompatibility of the 3DN structures. The slopes and funnels guide the hCO settling, the rods are engulfed by the hCOs, and the walls and steps direct neurite outgrowth and cell migration along their edges. Finally, a cultivation platform featuring all structures demonstrates the potential for the controlled co-culture of two brain organoids. The established 3DN structures pave the way for the implementation of brain organoids in guided neuronal networks and thus may increase the applicability of brain organoids for specialized and customizable brain models.",
-      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "pmid": "42804161",
+      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
+      "abstract": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break repair and trapping PARP on DNA, which impedes replication fork progression and generates lethal double-strand breaks. However, tumor cells can mitigate these effects through activation of alternative DNA repair mechanisms. Here, we investigated the role of translesion synthesis (TLS), a DNA damage tolerance pathway in which specialized polymerases bypass DNA lesions to sustain replication, in mediating PARPi resistance using homologous recombination (HR)-deficient epithelial ovarian cancer cell lines, patient-derived organoids (PDOs), and orthotopic xenograft models. PARPi treatment markedly slowed replication fork progression and activated TLS. Genetic depletion of the TLS scaffold protein REV1 and TLS polymerase η (Polη, encoded by POLH) exacerbated olaparib-induced replication stress, impaired fork restart, and sensitized BRCA1/2-deficient cells to PARPi. Importantly, pharmacological TLS inhibition with JH-RE-06 synergized with olaparib to enhance cytotoxicity in HR-deficient cells and PDOs, while in vivo combination therapy delayed or prevented resistance and achieved sustained tumor regression. Notably, TLS blockade also suppressed the emergence of BRCA2 reversion mutations in BRCA2-mutated ovarian cancer cells and prevented the development of olaparib resistance during chronic olaparib exposure. Collectively, these findings demonstrate that TLS, particularly Polη-dependent bypass, is a critical mechanism enabling replication fork rescue and survival under PARPi therapy. Targeting TLS provides a promising therapeutic strategy to augment PARPi efficacy and prevent resistance in BRCA-deficient ovarian cancer.",
+      "journal": "Cancer research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Center for Hybrid Nanostructures, University of Hamburg, Hamburg, Germany.",
-        "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Discovery Research ScreeningPort, Hamburg, Germany.",
-        "Section/Core Facility Mass Spectrometry and Proteomics, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "The Hamburg Centre for Ultrafast Imaging, Hamburg, Germany.",
-        "Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany."
+        "The Ohio State University Columbus, Ohio United States.",
+        "The Ohio State University columbus United States.",
+        "The Ohio State University Columbus, OH United States.",
+        "University of South Florida United States.",
+        "The Ohio State University Columbus United States."
       ],
-      "doi": "10.1002/smll.75936",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801519/"
+      "doi": "10.1158/0008-5472.CAN-26-1379",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804161/"
     },
     {
-      "pmid": "42801441",
-      "title": "Heterogeneous Spheroid Engineering: Spatial Organization, Fabrication, and Tissue-Specific Design.",
-      "abstract": "Three-dimensional (3D) spheroid models have emerged as advanced in vitro systems that overcome the limitations of conventional two-dimensional (2D) culture by better recapitulating native tissue architecture, cell-cell and cell-extracellular matrix interactions, and physiologically relevant gradients of oxygen, nutrients, and signaling factors, making them valuable platforms for tissue engineering and regenerative medicine. Realizing their full potential, however, requires rational control over cellular composition and spatial organization. In this review, we classify spheroids by cellular composition and spatial organization into single-cell-type and heterogeneous architectures-including mixed, core-shell, assembloid, and embedded co-culture configurations. We then summarize principal fabrication strategies encompassing static methods, dynamic suspension systems, and scaffold-based approaches. Spatially organized heterogeneous spheroids consistently enhance cell survival, paracrine signaling, vascularization, and tissue-specific differentiation relative to single-cell-type counterparts. We discuss applications across musculoskeletal, cardiovascular, nervous, epithelial, hepatic, pancreatic, renal, and urogenital tissues, highlighting how spatial design governs functional outcomes in each context. Spatial organization and fabrication strategy are decisive determinants of spheroid function for regenerative applications. Persistent challenges in vascularization, standardization, and scalable manufacturing must be addressed to enable reliable clinical translation, while emerging engineering approaches offer promising routes toward functional tissue constructs.",
-      "journal": "Tissue engineering and regenerative medicine",
+      "pmid": "42804716",
+      "title": "scLDM: a conditional diffusion framework for single-cell perturbation prediction.",
+      "abstract": "Accurate prediction of single-cell responses to external stimuli is pivotal for deciphering gene regulatory mechanisms and accelerating data-driven drug discovery. However, effectively capturing the complex, non-linear mapping between intrinsic cell states and external stimuli remains an open problem. We propose scLDM, a generative framework based on latent diffusion models for predicting single-cell perturbation responses. scLDM first compresses high-dimensional gene expression into a compact latent space via a variational autoencoder, followed by a conditional diffusion process to generate post-perturbation states, explicitly guided by pre-perturbation cellular state, cell type, and perturbation type. Systematic evaluations on six datasets across diverse biological settings, spanning pharmacological stimulation, viral infection, helminth infection, genetic perturbations, and multi-species immune response contexts, demonstrate that scLDM achieves superior predictive accuracy compared to state-of-the-art methods. Furthermore, the model exhibits strong interpretability, as the learned perturbation embeddings show high functional alignment with known biological mechanisms. Overall, scLDM provides a robust and biologically consistent strategy for in silico perturbation screening. The code is available at https://github.com/samrogers1233/scLDM and archived on Zenodo at https://doi.org/10.5281/zenodo.22658164. Supplementary data are available at Bioinformatics online.",
+      "journal": "Bioinformatics (Oxford, England)",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "School of Integrative Engineering, Chung-Ang University, Seoul, 06974, Republic of Korea.",
-        "School of Integrative Engineering, Chung-Ang University, Seoul, 06974, Republic of Korea. heyshoo@cau.ac.kr."
+        "School of Information, Xiamen University, Xiamen, 361005, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao SAR, 999078, China.",
+        "School of Electronic and Communication Engineering, Shenzhen Polytechnic University, Shenzhen 518055, China.",
+        "Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China, Chengdu, 611731, China."
       ],
-      "doi": "10.1007/s13770-026-00839-9",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801441/"
+      "doi": "10.1093/bioinformatics/btag727",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804716/"
     },
     {
       "pmid": "42782810",
@@ -238,21 +261,38 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/"
     },
     {
-      "pmid": "42753692",
-      "title": "A world model of the virtual cell.",
-      "abstract": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful computational system capable of simulating the activity and behavior of a living cell. Such a system could shift cell biology from trial-and-error experimentation with cell-culture models in the wet lab toward systematic simulation of combinatorial interventions in a digital laboratory. In this paper, we propose the world model as an operational framework for realizing this vision-an emerging AI paradigm that supports action-conditioned simulation, counterfactual reasoning and long-horizon planning in complex dynamic environments. In this formulation, a virtual cell world model (VCWM) represents a persistent cellular state and simulates its evolution under genetic, chemical, environmental, and other biological interventions. In contrast to predictive foundation models optimized for specific tasks or endpoints, a VCWM seeks to model the underlying cellular system, allowing interventions to propagate through an evolving state and generate coherent molecular, structural, interactional, and morphological outcomes over time. We outline an architecture, a data framework, training strategy, and evaluation principles for realizing this vision and discuss how existing biological foundation models can serve as its building blocks. We envisage that VCWMs could transform biological discovery from exhaustive experimental search toward structured navigation of learned cellular worlds, enabling counterfactual exploration, rational intervention design, and ultimately more predictive, designable, and programmable cell biology.",
-      "journal": "Cell",
+      "pmid": "42803993",
+      "title": "Chemical language models for early-stage drug discovery: applications, pitfalls, and future directions.",
+      "abstract": "Attrition rates in clinical drug development remain above 90%, with most failures rooted in inadequate compound quality at the early discovery stage. Chemical language models (CLMs), neural sequence models pretrained on hundreds of millions of SMILES or SELFIES strings under self-supervised language-modeling objectives, have emerged as a versatile tool class across the early-stage pipeline. This review covers their foundations, including molecular representation, tokenization, and recurrent, encoder, decoder, and encoder-decoder families, before examining three application domains: virtual screening, property prediction, and de novo generation. In virtual screening, CLM embeddings retrieved by approximate nearest-neighbor search offer sub-second triage of billion-scale compound libraries, although reported evaluations remain largely retrospective, and pairing CLMs with protein language models extends this to target-aware ranking at comparable scale. In property prediction, sequence-only transformers including ChemBERTa and MolBERT are competitive on ADMET endpoints without consistently surpassing well-tuned descriptor-based and graph-based baselines, and hybrid architectures fusing sequence embeddings with structural priors represent the most promising direction. In de novo generation, reinforcement learning and scaffold-hopping strategies have advanced CLMs into prospective campaigns, with designs confirmed active in cell-based and biochemical assays across nuclear-receptor and lipid-kinase targets. Persistent limitations include poor interpretability and attendant regulatory uncertainty, performance brittleness under distribution shift without calibrated uncertainty estimates, and computational demands concentrated in well-resourced laboratories. Addressing these constraints may depend less on further architectural refinement than on multimodal foundation models, calibrated uncertainty quantification reported as first-class inference outputs, mandatory scaffold-split evaluation protocols, and integration into agentic closed-loop workflows coupling prediction with physics-based simulation and laboratory automation.",
+      "journal": "Journal of computer-aided molecular design",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "GenBio AI, Palo Alto, CA, USA; Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE; Carnegie Mellon University, Pittsburgh, PA, USA. Electronic address: eric.xing@genbio.ai.",
-        "GenBio AI, Palo Alto, CA, USA; Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE. Electronic address: le.song@genbio.ai."
+        "College of Pharmacy, Al Ain University, P.O. Box 112612, Abu Dhabi, United Arab Emirates. Abdallah.abouhajal@gmail.com.",
+        "AAU Health and Biomedical Research Center, Al Ain University, P.O. Box 112612, Abu Dhabi, United Arab Emirates. Abdallah.abouhajal@gmail.com."
       ],
-      "doi": "10.1016/j.cell.2026.08.042",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/"
+      "doi": "10.1007/s10822-026-00946-8",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803993/"
+    },
+    {
+      "pmid": "42803306",
+      "title": "Engineering serum stable protein nanosheets with reduced macrophage uptake.",
+      "abstract": "Here, we engineer self-assembled planar micron-scale protein nanosheets through rational protein design. The protein nanosheets are stable in serum and evade macrophage uptake. These properties enable prolonged extracellular persistence, making them suitable extracellular protein carriers for local therapeutic applications.",
+      "journal": "Chemical communications (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332-0405, USA. julie.champion@chbe.gatech.edu.",
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.",
+        "School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia 30332, USA."
+      ],
+      "doi": "10.1039/d6cc04289a",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803306/"
     },
     {
       "pmid": "42801963",
@@ -329,45 +369,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42793054/"
     },
     {
-      "pmid": "42789724",
-      "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin.",
-      "abstract": "While protein ubiquitination has been extensively studied, the roles of unanchored ubiquitin and its chains remain less understood, largely due to a lack of specific, high-affinity tools for their enrichment and visualization. To address this, we used high-throughput affinity maturation and computational protein design to engineer novel proteins that selectively bind unanchored ubiquitin. We first enhanced the binding affinity of the zinc finger domain of histone deacetylase 6, a natural unanchored ubiquitin binder, by including its unstructured amino-terminal loop and introducing the V1091L mutation. Using RFdiffusion, we then designed 11 novel ubiquitin-binding proteins (UBiPs), among which UBiP10 showed specificity for unanchored ubiquitin. This protein enriched unanchored ubiquitin from cells and influenza A virions and served as a probe to determine its cellular levels, supporting a relative decrease upon proteasome inhibition. Imaging studies with UBiP10 further revealed a novel unanchored ubiquitin coat around aggresomes, illustrating the potential of UBiP10 as a unique tool to study unanchored ubiquitin in cellular regulation.",
-      "journal": "Science advances",
+      "pmid": "42803873",
+      "title": "Applications of circulating tumor DNA in unresectable and advanced non-small cell lung cancer immunotherapy: from stratification to therapeutic guidance.",
+      "abstract": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide. Although immune checkpoint inhibitors (ICIs) have significantly improved outcomes in patients with unresectable stage III and advanced disease, the lack of robust predictive biomarkers continues to limit patient selection and treatment optimization. Circulating tumor DNA (ctDNA) has emerged as a minimally invasive and dynamic biomarker that enables comprehensive tumor profiling. In this review, we summarize recent advances in ctDNA detection technologies, including quantitative PCR, digital PCR, and next-generation sequencing approaches, and discuss their clinical applications in immunotherapy. We highlight the role of ctDNA in pre-treatment stratification to identify patients most likely to benefit, as well as its utility in real-time monitoring of therapeutic response and disease progression. Furthermore, we discuss emerging high-sensitivity techniques and multi-omics integration strategies that may further enhance the precision of ctDNA-based analysis. Overall, ctDNA holds significant potential to refine clinical decision-making and advance personalized immunotherapy in unresectable and advanced NSCLC.",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Friedrich Miescher Institute for Biomedical Research (FMI), Basel, Switzerland.",
-        "Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
-        "Institute of Pharmaceutical Sciences, Department of Chemistry and Applied Biosciences, ETH Zurich, Zurich, Switzerland.",
-        "Max Planck Institute of Colloids and Interfaces, 14476 Potsdam, Germany.",
-        "SERAC Biosciences AG, Basel, Switzerland.",
-        "Faculty of Sciences, University of Basel, Basel, Switzerland."
+        "Department of Pathology, Qingdao Eighth People's Hospital, Qingdao, 266041, Shandong, China.",
+        "Department of Laboratory Medicine, Qingdao Third People's Hospital, Qingdao, 266041, Shandong, China.",
+        "Department of Immunology, School of Basic Medicine, Qingdao, 266071, Shandong, China. zhangbei124@aliyun.com.",
+        "Jiaozhou Central Hospital of Qingdao City, Qingdao, 266300, Shandong, China. weitao2875@163.com."
       ],
-      "doi": "10.1126/sciadv.aec0818",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789724/"
+      "doi": "10.1007/s12094-026-04572-6",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803873/"
     },
     {
-      "pmid": "42786569",
-      "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
-      "abstract": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and the vast conformational diversity of linkers. Existing computational approaches can be broadly divided into structure-based ternary modelling methods and fragment-based linker generation models. Although these approaches have advanced PROTAC design, they typically neglect key physicochemical constraints and linker-length control during the generation process, causing the generated PROTACs to lack balanced structural properties required for effective ternary complex formation with drug-like characteristics. To address these limitations, we propose DesignMaster, a diffusion-based generative framework that explicitly incorporates linker length and physicochemical properties as controllable conditioning signals. DesignMaster employs an E(3)-equivariant graph Transformer with a gated multi-condition fusion module to inject linker length and physicochemical constraints throughout the diffusion process, enabling fine-grained and constraint-aware molecular generation. Experiments on PROTAC-DB 2.0 and 3.0 demonstrate that DesignMaster achieves the best or highly competitive performance across Validity, Uniqueness, and Recovery. The Case study further shows that DesignMaster consistently achieves improved geometric agreement with the reference PROTAC conformations across both the 6W7O and 6HAY complexes, highlighting its potential for practical structure-guided and property-aware PROTAC design. The source code and datasets are available at https://github.com/ABILiLab/DesignMaster.",
-      "journal": "Bioinformatics (Oxford, England)",
+      "pmid": "42803760",
+      "title": "Spotlights on Cervical Cancer: Progression, Diagnosis and Clinical Manifestations, Epidemiology, Treatment Approaches, Role of Artificial Intelligence and Future Directions.",
+      "abstract": "Cervical cancer remains a major cause of illness and death among women worldwide, especially in low- and middle-income countries, where access to vaccination, screening, and advanced treatment is limited. This review offers a comprehensive overview of the current evidence on cervical cancer, covering its epidemiology, molecular progression, clinical manifestations, diagnostic strategies, and emerging therapeutic approaches. It also emphasizes the integration of emerging technologies, particularly artificial intelligence, into cervical cancer screening, diagnosis, prognostic assessment, and treatment planning. In addition, it highlights recent advances in precision medicine, liquid biopsy, targeted therapies, immunotherapy, and nanotechnology-based drug delivery systems, while identifying current challenges and future research priorities. This review article pointed out the recent applied technologies for early diagnosis of cervical cancer e.g., biosensors which can overcome the limitations of immunohistochemistry and biochemical based assays. Therapeutic vaccines have also been developed as an alternative to therapeutic drugs and surgical operations for the prevention of cervical cancer. In addition, targeted delivery and nanotechnology applications in tumor diagnosis, investigation, and management as well as the delivery of HPV vaccines. Artificial intelligence (AI) has demonstrated considerable potential for the early detection of HPV infections and management of cervical cancer through surgical planning via AI-enhanced robotic systems. Cervical cancer research should focus on precision medicine, integrating recent models of artificial intelligence, advanced screening technologies, immunotherapy, and global public health initiatives. Combining these approaches could lead to improving early tumor detection, optimizing treatment outcomes, reducing disease burden, and contributing to eliminating cervical cancer.",
+      "journal": "Drug development and industrial pharmacy",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "School of Computer Science, Northwestern Polytechnical University, Xi'an, 710129, Shaanxi, China.",
-        "South Australian immunoGENomics Cancer Institute (SAiGENCI), Adelaide University, Adelaide, 5005, SA, Australia.",
-        "College of Information Engineering, Northwest A&F University, Yangling, 712100, Shaanxi, Australia.",
-        "Adelaide Centre for Epigenetics (ACE), Adelaide University, Adelaide, 5005, SA, Australia.",
-        "Walter and Eliza Hall Institute of Medical Research, Parkville, 3050, Victoria, Australia.",
-        "Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville, 3010, VIC, Australia.",
-        "Department of Microbiology and Immunology, The University of Melbourne, Parkville, 3010, VIC, Australia."
+        "Department of Industrial Pharmacy, Faculty of Pharmacy, Assiut University, Assiut, 71526, Assiut.",
+        "Faculty of Pharmacy and Drug Reserach, Assiut National University, New Assiut City, Assiut, 11511, Egypt.",
+        "Department of Pharmaceutics, College of Pharmacy, Qassim University, Buraidah 52571, Saudi Arabia.",
+        "Department of Food Science and Human Nutrition, College of Agriculture and Food, Qassim University, Buraydah 51452, Saudi Arabia."
       ],
-      "doi": "10.1093/bioinformatics/btag714",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/"
+      "doi": "10.1080/03639045.2026.2741083",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803760/"
     },
     {
       "pmid": "42802853",
@@ -442,57 +479,20 @@
       "doi": "10.1016/j.bios.2026.119266",
       "date": "2026-09-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/"
-    },
-    {
-      "pmid": "42801547",
-      "title": "Digital PCR for Detecting Loss of BAP1 and MTAP in Pleural Fluids of Mesothelioma Patients: Perspectives in the Diagnosis.",
-      "abstract": "Pleural mesothelioma (PM) often presents loss of BAP1 and MTAP genes. Digital PCR (dPCR) can accurately measure gene copy numbers (CNs). We hypothesized that cell-free DNA (cfDNA) extracted from the supernatant of pleural fluids (SPFs) could allow an efficient detection of these genetic events. BAP1/MTAP CN was measured with dPCR in SPFs and in solid tumor biopsies (STBs) of 37 PM patients. Results were compared with immunohistochemistry (IHC) carried out in STBs. IHC alone detected BAP1/MTAP-losses in 32/37 (86.5%). However, the sensitivity improved to 34/37 (91.9%) when low CN of BAP1/MTAP was included. Among 20 patients presenting SPFs, dPCR alone detected a low CN in 18 samples (sensitivity = 90%). Finally, this two-gene signature was applied on SPFs in a prospective series of six consecutive patients presenting an undefined diagnosis (negative for PM) and two showed reduced CN. After 7 months of follow-up, these subjects were further re-evaluated for the persistence/worsening of the symptoms and were diagnosed for PM. We highlighted dPCR's potential for detecting subtle BAP1/MTAP losses in SPFs of PM patients. This appears as a complementary approach for a more accurate diagnosis in specific contexts, when high-risk patients receive negative results after IHC analysis.",
-      "journal": "Pathology international",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Genetics-Department of Biology, University of Pisa, Pisa, Italy.",
-        "CNR Institute of Neuroscience, Pisa, Italy.",
-        "Unit of Pathological Anatomy, University of Pisa, Pisa, Italy.",
-        "Department of Translational Research and of New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy.",
-        "Cardiac, Thoracic, and Vascular Department, Division of Thoracic Surgery, University Hospital of Pisa, Pisa, Italy.",
-        "Department of Surgical, Medical and Molecular Pathology and Critical Care Medicine, University of Pisa, Pisa, Italy."
-      ],
-      "doi": "10.1111/pin.70172",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801547/"
-    },
-    {
-      "pmid": "42801248",
-      "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
-      "abstract": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges. This review delineates the evolution of breast cancer DDS from passive carriers to increasingly functional and responsive platforms, focusing on three core dimensions. First, regarding decisive barriers, we dissect the constraints imposed by the three-dimensional collagen network, pH/glutathione (GSH) gradients, and tumor-associated macrophages (TAMs) on drug penetration. These factors not only act as physical and biochemical obstacles but can also be harnessed as endogenous triggers for responsive design. Second, in terms of diversified platforms, we critically evaluate liposomes, polymeric nanoparticles, hydrogels, extracellular vesicles, and antibody-drug conjugates (ADCs). We highlight the potential of solid lipid nanoparticles to address drug resistance, the development of carrier-free delivery enabled by prodrug self-assembly, and the clinical significance of ADCs (eg, T-DXd) in expanding treatment options for HER2-low breast cancer. Third, we examine inter- and intratumoral heterogeneity, metastatic site-specific delivery barriers in the brain, bone, and lung, the multilayered resistance network from efflux pumps to cancer stem cells, and the sequential barriers nanomedicines must traverse from systemic circulation to intracellular targets. We propose three strategic directions: personalized precision delivery integrating liquid biopsy, organoids, and functional imaging to support patient stratification and treatment adaptation; AI-assisted formulation optimization using machine learning to develop material-structure-function predictive models and support data-driven formulation design; and multi-responsive systems leveraging endogenous signals such as pH, GSH, and enzymes, together with exogenous stimuli including light, magnetism, and ultrasound, for spatiotemporally controlled combination therapy. This review summarizes key considerations from biological barriers to clinical translation, emphasizing that alignment of tumor subtype, metastatic site, microenvironmental characteristics, and patient-specific factors may improve the clinical applicability of drug delivery strategies.",
-      "journal": "Drug design, development and therapy",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Emergency Medicine, Affiliated Hospital of Nantong University, Nantong, Jiangsu Province, People's Republic of China.",
-        "Jiangsu Key Laboratory of Tissue Engineering and Neuroregeneration, Key Laboratory of Neuroregeneration of Ministry of Education, Co-Innovation Center of Neuroregeneration, Medical School of Nantong University, Nantong, Jiangsu Province, People's Republic of China."
-      ],
-      "doi": "10.2147/DDDT.S638939",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801248/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42802936",
+      "id": "pubmed-42804753",
       "date": "2026-09-28",
-      "title": "Next-generation brain organoids: neural complexity from cellular diversity to functional networks.",
+      "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802936/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804753/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -509,84 +509,78 @@
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Brain : a journal of neurology，PMID 为 42802936。",
-      "report": "Brain organoids, as pioneering three-dimensional (3D) in vitro platforms, have profoundly advanced our understanding of human brain development and disease mechanisms. This review summarizes recent progress in enhancing cellular diversity, structural organizat...",
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804753。",
+      "report": "Chemotherapy is a standard treatment for lung adenocarcinoma (LUAD), yet the efficacy is often limited, highlighting the need to elucidate and the underlying mechanisms of chemoresistance. Given the important role of the tumor microenvironment in LUAD progress...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42801698",
-      "date": "2026-09-27",
-      "title": "NS1-Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication.",
+      "id": "pubmed-42804731",
+      "date": "2026-09-28",
+      "title": "Ferret Glandular Myoepithelial Cells Are Multipotent Airway Progenitors with a Secretory Lineage Bias.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801698/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804731/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42801698。",
-      "report": "Influenza A virus (IAV) commandeers host transcriptional machinery to replicate, but mechanisms remain elusive. CRISPR screen identifies PARP1 as a proviral factor that binds viral NS1. ATAC‑seq reveals IAV drives PARP1‑dependent chromatin remodeling at promot...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42801650",
-      "date": "2026-09-27",
-      "title": "Copper-Driven Epithelial Barrier Disruption: A Novel Mechanism of COPD Acute Exacerbations Mediated by the TNF-α/ATP7A Axis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801650/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42801650。",
-      "report": "Elevated copper levels are associated with chronic obstructive pulmonary disease (COPD) and susceptibility to acute exacerbations of COPD (AECOPD), but the underlying mechanisms remain unclear. This study aimed to investigate the association between copper lev...",
+      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42804731。",
+      "report": "Airway submucosal glands (SMGs) play a key role in pulmonary defense by producing mucus and antimicrobial secretions; their dysfunction underlies diseases such as cystic fibrosis (CF) and chronic obstructive pulmonary disease. Murine studies have identified tr...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42801519",
-      "date": "2026-09-27",
-      "title": "3D Nanoprinted Structures Promote Robust Integration of Brain Organoids into Topography-Guided Neuronal Networks.",
+      "id": "pubmed-42804568",
+      "date": "2026-09-28",
+      "title": "Modeling Heart Failure With Preserved Ejection Fraction Using Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804568/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Circulation，PMID 为 42804568。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42804364",
+      "date": "2026-09-28",
+      "title": "Protocol for mechanical nuclei dissociation and isolation from frozen tissue and organoids for single-nucleus RNA sequencing.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801519/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804364/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -599,39 +593,239 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42801519。",
-      "report": "Two-photon polymerization-based 3D nanoprinting (3DN) is a potent tool for the fabrication of highly specialized cultivation platforms that enable guided neuronal networks. However, despite the design freedom offered by 3DN, specialized cultivation platforms t...",
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42804364。",
+      "report": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation,...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42801441",
-      "date": "2026-09-27",
-      "title": "Heterogeneous Spheroid Engineering: Spatial Organization, Fabrication, and Tissue-Specific Design.",
+      "id": "pubmed-42804341",
+      "date": "2026-09-28",
+      "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801441/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [
+        "10x-genomics"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Kidney360，PMID 为 42804341。",
+      "report": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42804161",
+      "date": "2026-09-28",
+      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804161/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804161。",
+      "report": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42804716",
+      "date": "2026-09-28",
+      "title": "scLDM: a conditional diffusion framework for single-cell perturbation prediction.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804716/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42804716。",
+      "report": "Accurate prediction of single-cell responses to external stimuli is pivotal for deciphering gene regulatory mechanisms and accelerating data-driven drug discovery. However, effectively capturing the complex, non-linear mapping between intrinsic cell states and...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42803993",
+      "date": "2026-09-28",
+      "title": "Chemical language models for early-stage drug discovery: applications, pitfalls, and future directions.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803993/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of computer-aided molecular design，PMID 为 42803993。",
+      "report": "Attrition rates in clinical drug development remain above 90%, with most failures rooted in inadequate compound quality at the early discovery stage. Chemical language models (CLMs), neural sequence models pretrained on hundreds of millions of SMILES or SELFIE...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42803306",
+      "date": "2026-09-28",
+      "title": "Engineering serum stable protein nanosheets with reduced macrophage uptake.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803306/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chemical communications (Cambridge, England)，PMID 为 42803306。",
+      "report": "Here, we engineer self-assembled planar micron-scale protein nanosheets through rational protein design. The protein nanosheets are stable in serum and evade macrophage uptake. These properties enable prolonged extracellular persistence, making them suitable e...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42803873",
+      "date": "2026-09-28",
+      "title": "Applications of circulating tumor DNA in unresectable and advanced non-small cell lung cancer immunotherapy: from stratification to therapeutic guidance.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803873/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue engineering and regenerative medicine，PMID 为 42801441。",
-      "report": "Three-dimensional (3D) spheroid models have emerged as advanced in vitro systems that overcome the limitations of conventional two-dimensional (2D) culture by better recapitulating native tissue architecture, cell-cell and cell-extracellular matrix interaction...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico，PMID 为 42803873。",
+      "report": "Non-small cell lung cancer (NSCLC) remains one of the leading causes of cancer-related mortality worldwide. Although immune checkpoint inhibitors (ICIs) have significantly improved outcomes in patients with unresectable stage III and advanced disease, the lack...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42803760",
+      "date": "2026-09-28",
+      "title": "Spotlights on Cervical Cancer: Progression, Diagnosis and Clinical Manifestations, Epidemiology, Treatment Approaches, Role of Artificial Intelligence and Future Directions.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803760/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Drug development and industrial pharmacy，PMID 为 42803760。",
+      "report": "Cervical cancer remains a major cause of illness and death among women worldwide, especially in low- and middle-income countries, where access to vaccination, screening, and advanced treatment is limited. This review offers a comprehensive overview of the curr...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -730,67 +924,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42802413",
-      "date": "2026-09-26",
-      "title": "Stem cell morphology defines functional heterogeneity and therapeutic vulnerabilities in glioblastoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802413/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42802413。",
-      "report": "Glioblastoma (GBM) is an aggressive brain tumor and an unmet clinical need due to its invasiveness and therapy resistance. These features are driven by glioblastoma stem-like cells (GSLCs), which exhibit remarkable functional heterogeneity. While transcription...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42789724",
-      "date": "2026-09-25",
-      "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789724/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42789724。",
-      "report": "While protein ubiquitination has been extensively studied, the roles of unanchored ubiquitin and its chains remain less understood, largely due to a lack of specific, high-affinity tools for their enrichment and visualization. To address this, we used high-thr...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42801800",
       "date": "2026-09-25",
       "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
@@ -821,35 +954,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42786569",
-      "date": "2026-09-24",
-      "title": "DesignMaster: A Multi-Conditional Diffusion Framework for Rational PROTAC Design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42786569/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42786569。",
-      "report": "Proteolysis-targeting chimeras (PROTACs) enable targeted protein degradation through ternary complex formation with E3 ubiquitin ligase. However, the rational design of PROTACs remains highly challenging due to limited structure-activity relationship data and...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42771879",
       "date": "2026-09-22",
       "title": "Application of aiAtlas Version 1.2 to Simulate Variant Gene Function Restoration and Rescue Thresholds in Rare Diseases: Validation Case Study.",
@@ -875,40 +979,6 @@
       "fact": "PubMed 记录显示该文献收录于 JMIR bioinformatics and biotechnology，PMID 为 42771879。",
       "report": "Xeroderma pigmentosum group D (XPD), caused by ERCC2 gene dysfunction, leads to defective nucleotide excision repair and hypersensitivity to UV radiation. Robust experimental models for variant-level functional assessment remain limited. This study aimed to us...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42801248",
-      "date": "2026-09-22",
-      "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801248/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Drug design, development and therapy，PMID 为 42801248。",
-      "report": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biologi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -973,36 +1043,6 @@
       "fact": "PubMed 记录显示该文献收录于 ALTEX，PMID 为 42758091。",
       "report": "Environmental exposures contribute substantially to global morbidity and mortality, with their biological effects shaped by factors such as dose, exposure duration, life-stage timing, and cumulative or sequential exposure patterns. With rapid advances in AI ba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42753692",
-      "date": "2026-09-17",
-      "title": "A world model of the virtual cell.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753692/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42753692。",
-      "report": "The prospect of an AI-driven digital organism (AIDO), such as a virtual cell, has recently captured growing excitement and imagination across the AI and biology communities. We envision a virtual cell as a multi-modal, multi-scale, dynamic, and stateful comput...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1103,34 +1143,6 @@
       "fact": "PubMed 记录显示该文献收录于 ACS omega，PMID 为 42798990。",
       "report": "Serological diagnosis of neglected arboviruses remains hindered by extensive intra-genus cross-reactivity, compromising both assay specificity and epidemiological accuracy. In this study, we focused on yellow fever virus (YFV) as a model system to design and v...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42801547",
-      "date": "2026-09-01",
-      "title": "Digital PCR for Detecting Loss of BAP1 and MTAP in Pleural Fluids of Mesothelioma Patients: Perspectives in the Diagnosis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801547/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pathology international，PMID 为 42801547。",
-      "report": "Pleural mesothelioma (PM) often presents loss of BAP1 and MTAP genes. Digital PCR (dPCR) can accurately measure gene copy numbers (CNs). We hypothesized that cell-free DNA (cfDNA) extracted from the supernatant of pleural fluids (SPFs) could allow an efficient...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

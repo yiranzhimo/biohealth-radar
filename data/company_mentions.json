@@ -4,73 +4,15 @@
   "asOfDate": "2026-09-28",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0b1e53755a01f617",
-      "observedName": "Guangzhou Bio-gene Technology Co., Ltd",
-      "normalizedName": "guangzhou bio gene technology",
+      "id": "mention-clinicaltrials-7cf493b56701a211",
+      "observedName": "Sellas Life Sciences Group",
+      "normalizedName": "sellas life sciences group",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07195617",
-      "sourceDate": "2026-05-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07195617",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Cell Therapy",
-        "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "临床试验",
-        "精准医疗",
-        "细胞治疗",
-        "肿瘤",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Clinical Study on Evaluating the Safety and Effectiveness of BCMA-GPRC5D CAR-T in Patients With Relapsed/Refractory Multiple Myeloma Who Have Received Third-line or Above Treatment"
-    },
-    {
-      "id": "mention-clinicaltrials-1ae0f1d8ffdd9e0e",
-      "observedName": "Chongqing Kingbiotech Co.,Ltd",
-      "normalizedName": "chongqing kingbiotech",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07528079",
-      "sourceDate": "2026-04-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07528079",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Organoid-based Sensitivity-guided Chemotherapy for Advanced / Refractory Pediatric Tumors"
-    },
-    {
-      "id": "mention-clinicaltrials-47f422679d972d53",
-      "observedName": "Merit Medical Systems, Inc.",
-      "normalizedName": "merit medical systems",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01387932",
-      "sourceDate": "2021-11-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01387932",
+      "sourceRecordId": "NCT01265433",
+      "sourceDate": "2024-10-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01265433",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -84,31 +26,61 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "HepaSphere/Quadrasphere Microspheres for Delivery of Doxorubicin for the Treatment of Hepatocellular Cancer"
+      "contextTitle": "Galinpepimut-S (WT-1 Analog Peptide) Vaccine in Malignant Pleural Mesothelioma After Combined Modality Therapy"
     },
     {
-      "id": "mention-clinicaltrials-e52de86abcd7f06a",
-      "observedName": "CSA Medical, Inc.",
-      "normalizedName": "csa medical",
+      "id": "mention-clinicaltrials-95dc05bc2cd8ead8",
+      "observedName": "Replimune, Inc.",
+      "normalizedName": "replimune",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02464904",
-      "sourceDate": "2022-02-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02464904",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04735978",
+      "sourceDate": "2026-02-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04735978",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "Recruiting",
         "临床试验",
         "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Intrapleural Cryotherapy for Malignant Pleural Mesothelioma"
+      "contextTitle": "Study of RP3 Monotherapy and RP3 in Combination With Nivolumab in Patients With Solid Tumours"
+    },
+    {
+      "id": "mention-clinicaltrials-d817e7e41160caa3",
+      "observedName": "patientMpower Ltd.",
+      "normalizedName": "patientmpower",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07844915",
+      "sourceDate": "2026-09-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07844915",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Artificial Intelligence Enhanced Remote Monitoring in Interstitial Lung Disease"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

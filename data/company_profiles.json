@@ -102,6 +102,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-pubmed-42804341",
           "evidence-company-10x-genomics-investor_relations-4acde96b3042",
           "evidence-company-10x-genomics-pipeline-489854eb7ec1",
           "evidence-company-10x-genomics-official-39cc8ea1066d",
@@ -112,6 +113,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-pubmed-42804341",
+            "date": "2026-09-28",
+            "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-pubmed-42804341",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/"
+          },
           {
             "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
             "date": "2026-09-23",
@@ -155,17 +167,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001770787-000162828026054491",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001770787-000162828026054273",
-            "date": "2026-08-06",
-            "title": "10x Genomics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001770787-000162828026054273",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054273/txg-20260806.htm"
           }
         ],
         "inferences": [],
@@ -176,12 +177,13 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 2,
+          "Paper": 1
         },
-        "lastEvidenceDate": "2026-09-23",
+        "lastEvidenceDate": "2026-09-28",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -190,6 +192,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-pubmed-42804341",
+          "date": "2026-09-28",
+          "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-pubmed-42804341",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/"
+        },
         {
           "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
           "date": "2026-09-23",
