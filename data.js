@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,228 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42805518",
+      "date": "2026-09-28",
+      "title": "Nε-(Carboxymethyl)lysine induces mitochondrial stress, inflammatory activation, and fibrogenic remodelling in multicellular human liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805518/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42805518。",
+      "report": "Advanced glycation end-products (AGEs) accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the contribution of individual AGE species remains poorly defined. We focused on Nε-(carboxymethyl)lysine (CML), a well-characterise...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06d2dfac04ea9d90006abb51631ba887d1a5369199ec6b5866",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "c4d08b6349d8a081dee852fca9e5083e35f92941107c0b8b730d637c1d0232ab",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录准确反映了文献的研究内容，没有提出临床建议或无支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平合乎合理标准。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论之间明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42805518。",
+          "report": "Advanced glycation end-products (AGEs) accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the contribution of individual AGE species remains poorly defined.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42805486",
+      "date": "2026-09-28",
+      "title": "Molecular mechanisms of lipid sensing in human cholecystokinin-secreting enteroendocrine cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805486/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular metabolism，PMID 为 42805486。",
+      "report": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04abbce5ab382344006abb516d70bc87d1bcd6e77cacbf68ed",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "e32155e3233c12da838e6d1c1452cde96cb1f4eaf3cdc43e603c187927d45858",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "资料清晰，分类合理，无临床建议。可以发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular metabolism，PMID 为 42805486。",
+          "report": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribu...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42805310",
+      "date": "2026-09-28",
+      "title": "Autosomal recessive HOXA3 deficiency causes congenital athymia and laryngeal malformation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805310/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of allergy and clinical immunology，PMID 为 42805310。",
+      "report": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09b26568ad6ea070006abb5171f1fc87d1821db125214f6a61",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "f86ae3ca3ad84a3242e95dea7d5fad9ba36a5c79c00aff1629cd6af844e417d5",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布要求，内容合理且一致。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离得当，证据水平合适。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 The Journal of allergy and clinical immunology，PMID 为 42805310。",
+          "report": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42804753",
       "date": "2026-09-28",
       "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
@@ -1030,229 +1252,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Circulation，PMID 为 42804568。",
           "report": "PubMed 记录未提供摘要。",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42804364",
-      "date": "2026-09-28",
-      "title": "Protocol for mechanical nuclei dissociation and isolation from frozen tissue and organoids for single-nucleus RNA sequencing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804364/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42804364。",
-      "report": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0fc8aeb76521dfda006abaf63e755087d1905362cdc8a1d923",
-        "reviewedAt": "2026-09-28T23:20:14.549809+00:00",
-        "inputHash": "18394e09ca2335c82b1b9892554faf7ee91534d78615bec49153ee65395c5eab",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条记录符合发布标准，信息清晰且来源可靠。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合报告的内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间区分明确，证据等级合理。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42804364。",
-          "report": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation,...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42804341",
-      "date": "2026-09-28",
-      "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [
-        "10x-genomics"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Kidney360，PMID 为 42804341。",
-      "report": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0dcc908a707a5598006abaf642fd1087d1aa65ab5bf438b024",
-        "reviewedAt": "2026-09-28T23:20:14.549809+00:00",
-        "inputHash": "dd858ce2851d9a695c179f20704b77ab167591f2538159abb0c658c2d06b2c56",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献条目的内容与来源一致，无需人工审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与研究主题相符"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，证据水平合理"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Kidney360，PMID 为 42804341。",
-          "report": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42804161",
-      "date": "2026-09-28",
-      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804161/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804161。",
-      "report": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00e65cf9ad97da88006abaf647213087d1880c6019fceee4c9",
-        "reviewedAt": "2026-09-28T23:20:14.549809+00:00",
-        "inputHash": "c4da1cba351b8560e60dc685200b1ab7e95308022e64b2afb0b7ce8244df97eb",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号内部一致且中立，可发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，与文献主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平为中等，符合文献内容。"
-        },
-        "riskFlags": [
-          "commercial_claim",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804161。",
-          "report": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break repair mechanisms, thereby sensitizing tumors to DNA damage.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1949,75 +1948,160 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42801800",
-      "date": "2026-09-25",
-      "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "id": "pubmed-42805095",
+      "date": "2026-09-26",
+      "title": "AI-driven drug repurposing: Methods, platforms, and translational applications.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805095/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42801800。",
-      "report": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42805095。",
+      "report": "The conventional drug discovery pipeline is resource-intensive, time-consuming, and characterized by high attrition rates, often requiring more than a decade and billions of dollars to bring a single therapeutic agent to market. Drug repurposing identifying ne...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a10ee5db23c17cf006ab9fbb30cf487d2895a00a303706081",
-        "reviewedAt": "2026-09-28T05:31:00.770165+00:00",
-        "inputHash": "2f408186d5cc7863470666cb6f16c02cd52e91cdb568fcf7a54dec4349e29969",
+        "responseId": "resp_0f4e9801fdb24d22006abb517753b087d1aac1b9704032e853",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "822d30fb9faa20ec8838b3b9f94d61c2e54fede20c03797430a4f5fe3d9bbb5e",
         "status": "needs_human",
-        "confidence": 0.75,
+        "confidence": 0.85,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，因研究质量和结论缺失。",
+        "reviewSummaryCn": "文章主题涉及AI驱动的药物重定位，但缺乏对研究质量和其他关键细节的判断，需要人工审查。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类依据和研究质量不明确，可能引起误解。"
+          "notesCn": "分类依据未充分支持文章的研究质量或临床有效性。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "影响力和证据水平的合理性不清晰，需进一步确认。"
+          "notesCn": "尽管文献来源可靠，但证据级别未能反映相应的研究质量。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42805095。",
+          "report": "The conventional drug discovery pipeline is resource-intensive, time-consuming, and characterized by high attrition rates, often requiring more than a decade and billions of dollars to bring a single therapeutic agent to market. Drug repurposing identifying ne...",
+          "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42804856",
+      "date": "2026-09-25",
+      "title": "Patient willingness to de-escalate adjuvant therapy based on predictive biomarker results in stage IIB-IIID melanoma: A cross-sectional survey.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804856/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42804856。",
+      "report": "Predictive biomarkers such as circulating tumour DNA (ctDNA) and gene expression profiling (GEP) may guide adjuvant melanoma therapy de-escalation by identifying low-recurrence-risk patients. However, their implementation depends on patient willingness to act...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a0b7da62f32d713006abb517d3de087d186c925f6bf7f4122",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "72ea76fb91f383e8ed9da2c05a683925c76a3c3db24a5272a25f9a8afd9659ea",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献中存在对生物标志物的效果推断，需进行人类判断和修正。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不够准确，相关术语的使用需要澄清。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级标为中等，但报告的临床推论存在问题。"
         },
         "riskFlags": [
           "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
           "evidenceLevel": "Medium",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
+            "Biotech",
             "Precision Oncology"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
+            "biotech",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42801800。",
-          "report": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion a...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42804856。",
+          "report": "预测性生物标志物如循环肿瘤DNA (ctDNA) 和基因表达谱 (GEP) 可能通过识别低复发风险患者来指导辅助黑色素瘤疗法的减少。然而，它们的实施依赖于患者的意愿...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2903,86 +2987,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42797484",
-      "date": "2026-09-11",
-      "title": "Integrated Machine Learning and Molecular Simulation-Guided Discovery of Novel Small-Molecule PD-L1 Inhibitors.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797484/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42797484。",
-      "report": "Background/Objectives: The programmed death-1/programmed death-ligand 1 (PD-1/PD-L1) immune checkpoint is a key therapeutic target in cancer immunotherapy, but small-molecule inhibition remains challenging due to its shallow and dynamic interaction interface....",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0524c75e982c9cdd006ab7ad1c330c87d081ce40e212419c17",
-        "reviewedAt": "2026-09-26T11:31:14.376685+00:00",
-        "inputHash": "cea6e95f48f49c969119c849c1185dbb8e446e4b3052fd3568456aabf19d6a35",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录合理，信息分离清晰，无临床建议或不支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类适合与信号内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告、事实和推论已清楚区分。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42797484。",
-          "report": "Background/Objectives: The programmed death-1/programmed death-ligand 1 (PD-1/PD-L1) immune checkpoint is a key therapeutic target in cancer immunotherapy, but small-molecule inhibition remains challenging due to its shallow and dynamic interaction interface....",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000123",
       "date": "2026-09-09",
       "title": "Genmab filed Form 6-K",
@@ -3655,6 +3659,77 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42805700",
+      "date": "2026-09-02",
+      "title": "ArtiSt: An organocatalyst inspired by TPP installed in a steroid-carrying protein creates an artificial Stetterase.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805700/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods in enzymology，PMID 为 42805700。",
+      "report": "The various methods (protein expression, mass spectrometry, chemical synthesis, protein design, engineering, product analysis) presented in this chapter were used to create the first artificial Stetterase constructed from an otherwise inactive protein scaffold...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_03ec3c71484c81d8006abb5182cdf087d1bb4f8f9d2b04c13c",
+        "reviewedAt": "2026-09-29T05:49:22.306896+00:00",
+        "inputHash": "989e24166e7b8083c355816644296afd05394370f352403d6469f8b9116295c1",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该条记录符合出版要求，信息明确且无误导性结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Methods in enzymology，PMID 为 42805700。",
+          "report": "The various methods (protein expression, mass spectrometry, chemical synthesis, protein design, engineering, product analysis) presented in this chapter were used to create the first artificial Stetterase constructed from an otherwise inactive protein scaffold...",
+          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "sec-0001682852-000119312526378505",
       "date": "2026-09-01",
       "title": "Moderna filed Form 8-K",
@@ -3949,77 +4024,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
           "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
           "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42793054",
-      "date": "2026-08-22",
-      "title": "Compositionally Biased Regions Within Structured Protein Domains.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42793054/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomolecules，PMID 为 42793054。",
-      "report": "In proteins, tracts compositionally biased by a subset of amino acids are often linked to intrinsic disorder. Such compositionally biased regions (CBRs) are sometimes analyzed for 'sequence complexity' ('information entropy') despite being an unlikely substrat...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_025638c2b441bdd1006ab7ad3a243887d0907574161423d2fe",
-        "reviewedAt": "2026-09-26T11:31:14.376685+00:00",
-        "inputHash": "a487a3d181e5e837ca0544aee2aa6baa0aaec2bea661d7dd3be04fa112527796",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "所有字段清晰分隔，且没有不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合证据水平。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推论清晰分隔。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomolecules，PMID 为 42793054。",
-          "report": "In proteins, tracts compositionally biased by a subset of amino acids are often linked to intrinsic disorder. Such compositionally biased regions (CBRs) are sometimes analyzed for 'sequence complexity' ('information entropy') despite being an unlikely substrat...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

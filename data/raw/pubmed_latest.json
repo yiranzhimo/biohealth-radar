@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-28T23:20:05.092561+00:00",
+  "capturedAt": "2026-09-29T05:49:13.484817+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,118 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-28",
-    "end": "2026-09-28"
+    "start": "2025-09-29",
+    "end": "2026-09-29"
   },
   "pmids": [
+    "42805518",
+    "42805486",
+    "42805310",
     "42804753",
     "42804731",
     "42804568",
-    "42804364",
-    "42804341",
-    "42804161",
     "42804716",
     "42782810",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
+    "42805700",
+    "42805095",
     "42803993",
     "42803306",
     "42801963",
     "42798990",
-    "42797484",
-    "42793054",
+    "42804856",
     "42803873",
     "42803760",
     "42802853",
     "42802333",
-    "42801943",
-    "42801800"
+    "42801943"
   ],
   "records": [
+    {
+      "pmid": "42805518",
+      "title": "Nε-(Carboxymethyl)lysine induces mitochondrial stress, inflammatory activation, and fibrogenic remodelling in multicellular human liver organoids.",
+      "abstract": "Advanced glycation end-products (AGEs) accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the contribution of individual AGE species remains poorly defined. We focused on Nε-(carboxymethyl)lysine (CML), a well-characterised AGE generated through glycoxidation and lipid peroxidation, and investigated its association with steatotic liver disease and its effects in multicellular liver models. AGE-RAGE pathway activity was analysed in public liver transcriptomic cohorts, and total AGEs and CML were quantified in human liver and serum. Free CML was then used as a defined experimental stimulus in mice, HepG2 2D/3D, and human induced pluripotent stem cell-derived liver organoid (HLO) models. AGE-RAGE pathway activity was associated with steatohepatitis-related features, whereas hepatic CML was selectively elevated in steatotic liver. Oral CML induced AGE-RAGE- and transforming growth factor beta-associated transcriptional changes in mice but minimal histological fibrosis, whereas HepG2 models showed limited CML-associated lipid accumulation. In contrast, HLOs exhibited concentration-dependent lipid accumulation and fibrogenic remodelling. Single-cell and functional analyses further revealed coordinated mitochondrial stress, inflammatory activation, stellate-cell remodelling, and collagen deposition. Selected responses were attenuated by pathway-targeted interventions, and patient serum cytokine and liver proteomic profiles showed partial concordance with HLO-associated signatures. Together, these findings identify hepatic CML as an AGE-related feature of steatotic liver disease and demonstrate coordinated mitochondrial, inflammatory, and fibrogenic responses to CML in multicellular HLOs. These results support the utility of HLOs for investigating AGE-specific mechanisms in human liver pathology.",
+      "journal": "Pharmacological research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Ochang Institute of Biological and Environmental Science, Korea Basic Science Institute (KBSI), Cheongju 28119, Republic of Korea.",
+        "Food Functionality Research Division, Korea Food Research Institute, Jeollabuk-do 55365, Republic of Korea.",
+        "Ochang Institute of Biological and Environmental Science, Korea Basic Science Institute (KBSI), Cheongju 28119, Republic of Korea; Department of Bio-Analytical Science, University of Science and Technology (UST), Daejeon 34113, Republic of Korea.",
+        "Ochang Institute of Biological and Environmental Science, Korea Basic Science Institute (KBSI), Cheongju 28119, Republic of Korea; Department of Chemistry, Chung-Ang University, Seoul 06974, Republic of Korea.",
+        "Department of Internal Medicine, Hanyang University College of Medicine, Seoul 04763, Republic of Korea.",
+        "Department of Translational Medicine, Graduate School of Biomedical Science & Engineering, Hanyang University, Seoul, Republic of Korea.",
+        "Food Functionality Research Division, Korea Food Research Institute, Jeollabuk-do 55365, Republic of Korea; Department of Bio-Analytical Science, University of Science and Technology (UST), Daejeon 34113, Republic of Korea. Electronic address: skha@kfri.re.kr.",
+        "Ochang Institute of Biological and Environmental Science, Korea Basic Science Institute (KBSI), Cheongju 28119, Republic of Korea; Department of Bio-Analytical Science, University of Science and Technology (UST), Daejeon 34113, Republic of Korea. Electronic address: heh4285@kbsi.re.kr."
+      ],
+      "doi": "10.1016/j.phrs.2026.109653",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805518/"
+    },
+    {
+      "pmid": "42805486",
+      "title": "Molecular mechanisms of lipid sensing in human cholecystokinin-secreting enteroendocrine cells.",
+      "abstract": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribution and a lack of reliable CCK-assays. Here we used human intestinal organoids to characterize lipid-sensing mechanisms underlying CCK release. Human duodenal organoids were genetically engineered using CRISPR-Cas9 to insert either the fluorescent protein Venus or the cAMP reporter Epac-S-H187 at the CCK locus. Transcriptomic profiling of CCK-positive and negative cells was performed following fluorescent-activated cell sorting. Intracellular calcium and cAMP as well as CCK-GRAB-sensor secretory responses were assessed during live-cell imaging, and CCK secretion was quantified by LC-MS/MS. To evaluate lipid-sensing pathways, FFAR1, FFAR4, and GPR119 knockout organoids were generated. Transcriptomic analysis identified expression of lipid-sensing GPCRs in I-cells, including FFAR1, FFAR4, FFAR2, GPR119, GPBAR1, OR51E1 and OR51E2. Fatty acids and FFAR1 agonists increased intracellular calcium, whereas agonists of GPBAR1 and GPR119, and short-chain fatty acids elevated cAMP. CCK release was triggered by FFAR1, GPBAR and GPR119 agonists, and fatty acids with chain-length > C8. FFAR1 knockout organoids exhibited impaired Ca2+ and CCK secretory responses to fatty acids, whereas responses of FFAR4 KO organoids were like wild-type. In human I-cells, FFAR1 plays a crucial role in lipid-induced CCK release, whereas FFAR4 appears to be redundant in this context. These findings improve understanding of human CCK physiology and identify potential therapeutic targets for metabolic regulation and appetite control.",
+      "journal": "Molecular metabolism",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: ms2896@cam.ac.uk.",
+        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom.",
+        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: fr222@cam.ac.uk.",
+        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: fmg23@cam.ac.uk."
+      ],
+      "doi": "10.1016/j.molmet.2026.102448",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805486/"
+    },
+    {
+      "pmid": "42805310",
+      "title": "Autosomal recessive HOXA3 deficiency causes congenital athymia and laryngeal malformation.",
+      "abstract": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control spatial body development. The function of human HOXA3 is undefined. We characterize the first human with HOXA3 deficiency and investigate the role of HOXA3 in immune system development. We performed clinical and immunological phenotyping, as well as genetic sequencing. A homozygous nonsense variant in HOXA3 was identified, and functionally validated including RT-PCR, western blot, assessment of transcriptional activity and intracellular localization of HOXA3. We report clinical management and course. The homozygous HOXA3 nonsense variant generates a truncated protein with cytoplasmic retention and reduced transcriptional activity. The clinical phenotype includes craniofacial and cervical anomalies, severe laryngopharyngeal malformation with epiglottic hypoplasia causing dysphagia and aspiration, central breathing disorder, and thymus aplasia. T-cell maturation in artificial thymic organoids (ATO) and recovery after thymus transplantation establish the T-cell defect as non-hematopoietic. Human HOXA3 has non-redundant roles for the development of larynx and thymus. HOXA3 deficiency is a novel, life-threatening multisystem disorder. It is the first human Homeobox-gene disease causing congenital athymia. These findings expand the diagnostic gene panel for patients with a SCID phenotype and indicate epiglottic hypoplasia as a new specific co-morbidity of congenital athymia. Homeobox A3 (HOXA3) deficiency is a novel cause of congenital athymia, characterized by craniofacial and cervical anomalies, and life-threatening laryngeal malformation. Human HOXA3, unlike murine Hoxa3, may be redundant for parathyroid and thyroid gland development. The loss of the homeodomain causes cytoplasmic retention of the HOXA3 protein, leading to reduced transcriptional activity. We describe HOXA3 deficiency as the 8th genetically defined cause of congenital athymia, facilitating life-saving thymus transplantation for future patients. Life-threatening laryngeal malformations provide a clinical diagnostic clue for congenital athymia.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany.",
+        "Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Audiology and Phoniatrics, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Chronically Sick Children, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Pediatric Head & Neck Center, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Medical Genetics and Human Genetics, Augustenburger Platz 1, 13353 Berlin, Germany; Max Planck Institute for Molecular Genetics, Human Molecular Genomics Group, Berlin, Germany.",
+        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin Center for Advanced Therapies (BeCAT), Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute for Medical Immunology, Charité - Universitätsmedizin; Berlin, 10117, Germany, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Labor Berlin GmbH, Department of Human Genetics, Sylter Straße 2, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
+        "German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany; Zuse Visual and Data-centric Computing, Zuse Institute Berlin (ZIB), Takustraße 7, 14195 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany.",
+        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK.",
+        "Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
+        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK; UCL Great Ormond Street Institute of Child Health, Infection Immunity and Inflammation Research & Teaching Department, London, WC1N 3JH, UK.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Endocrinology and Diabetology, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Vivantes Klinikum im Friedrichshain, Children's Hospital, Landsberger Alle 49, 10249 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Neonatology, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Cardiology, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute for Medical Immunology, Charité - Universitätsmedizin; Berlin, 10117, Germany, Augustenburger Platz 1, 13353 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Stem Cell Core, Berlin Institute of Heath, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Chronically Sick Children, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Pediatric Head & Neck Center, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Neurology, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, German Epilepsy Center for Children and Adolescents, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Cell- and Neurobiology, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Center for Lung Research (DZL), partner site Berlin; Berlin, 10117, Germany.",
+        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
+        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Center for Lung Research (DZL), partner site Berlin; Berlin, 10117, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Cluster of Excellence ImmunoPreCept, Augustenburger Platz 1, 13353 Berlin, Germany.",
+        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK; UCL Great Ormond Street Institute of Child Health, Infection Immunity and Inflammation Research & Teaching Department, London, WC1N 3JH, UK. Electronic address: a.kreins@ucl.ac.uk.",
+        "Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA. Electronic address: luigi.notarangelo2@nih.gov.",
+        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany. Electronic address: horst.von-bernuth@charite.de."
+      ],
+      "doi": "10.1016/j.jaci.2026.09.010",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805310/"
+    },
     {
       "pmid": "42804753",
       "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
@@ -98,59 +180,6 @@
       "doi": "10.1161/CIRCULATIONAHA.126.081881",
       "date": "2026-09-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804568/"
-    },
-    {
-      "pmid": "42804364",
-      "title": "Protocol for mechanical nuclei dissociation and isolation from frozen tissue and organoids for single-nucleus RNA sequencing.",
-      "abstract": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation, using the GentleMACS Dissociator, serial filtration, and magnetic bead-based nuclei isolation. We then detail nuclei quality control and counting. This approach yields pure single-nucleus suspensions suitable for downstream fixation, cryopreservation, or library preparation across diverse tissue types. For complete details on the use and execution of this protocol, please refer to Guillon et al.1.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Université de Montreal, Department of Neurosciences, Montreal QC H3T 1J4, Canada; Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada.",
-        "Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada.",
-        "Université de Montreal, Department of Neurosciences, Montreal QC H3T 1J4, Canada; Centre de recherche Azrieli du CHU Sainte-Justine, Montreal QC H3T 1C5, Canada. Electronic address: anthony.flamier@umontreal.ca."
-      ],
-      "doi": "10.1016/j.xpro.2026.104855",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804364/"
-    },
-    {
-      "pmid": "42804341",
-      "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
-      "abstract": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling of dissected ADPKD cysts has demonstrated size-based transcriptional heterogeneity, impossible to define in prior single cell analysis, but sampling was neither single cell nor comprehensive to limit downstream transcriptional analysis. 10X Genomics Visium spatial transcriptomics of an autosomal dominant polycystic kidney disease patient sample morphologically recognizes cysts to spatially characterize their ligand-receptor engagement, the signaling pathways of cystic transformation, and candidate cystic anchor genes that are specific and sensitive for cystic epithelia. Anchor gene validation in single nuclear RNA sequencing and cyst bulk RNA sequencing enhanced resolution, extended to cysts of variable size, and corroborated across ADPKD samples, prior to confirmatory confocal microscopy for protein-level localization. The polycystic kidney disease interactome may be enriched for vscular endothelial growth inhibitor-mediated hypoxia, fibrotic extracellular matrix, and proinflammatory transforming growth factor-β (TGF-β), tumor necrosis factor, and interferon-γ signaling. Enhanced ligand-receptor engagement between cysts and fibroblasts suggests Osteopontin and Macrophage migration inhibitory factor signals emanate from cysts and TWEAK, Tenascin-C, and Pleiotrophin signals into cysts. Cystic principal cells, standardized to non-cystic counterparts, implicates Hippo (YAP/TAZ), transforming growth factor-β (TGF-β/SMAD3), and mammalian target of rapamycin (mTORC2/SGK1) signaling in cystic transformation, while pathway analysis newly implicates nicotinic acetylcholine, cadherin, toll-like, and cholecystokinin receptor signaling. Top DEGs of cystic principal cells, interrogated for their specificity for cysts and their consistency across individual samples of single cell and cyst bulk RNA-seq, prioritizes musculin as a cystic anchor gene. Spatial transcriptomics morphologically and transcriptionally characterizes the polycystic kidney disease transcriptome. Ligand-receptor, pathway, and reactome analyses may provide clinically-relevant disease associations that inform mechanistic studies in animal and organoid models. Integrating spatial, single nuclear, and cyst bulk RNA-seq spatially recognizes cysts at single cell resolution, while accounting for size-based heterogeneity of cysts.",
-      "journal": "Kidney360",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Nephrology and Hypertension, Mayo Clinic, Rochester, MN.",
-        "Division of Nephrology and Hypertension, Mayo Clinic, Jacksonville FL.",
-        "Division of Biochemistry and Molecular Biology, Mayo Clinic, Rochester, MN."
-      ],
-      "doi": "10.34067/KID.0000001371",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/"
-    },
-    {
-      "pmid": "42804161",
-      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
-      "abstract": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break repair and trapping PARP on DNA, which impedes replication fork progression and generates lethal double-strand breaks. However, tumor cells can mitigate these effects through activation of alternative DNA repair mechanisms. Here, we investigated the role of translesion synthesis (TLS), a DNA damage tolerance pathway in which specialized polymerases bypass DNA lesions to sustain replication, in mediating PARPi resistance using homologous recombination (HR)-deficient epithelial ovarian cancer cell lines, patient-derived organoids (PDOs), and orthotopic xenograft models. PARPi treatment markedly slowed replication fork progression and activated TLS. Genetic depletion of the TLS scaffold protein REV1 and TLS polymerase η (Polη, encoded by POLH) exacerbated olaparib-induced replication stress, impaired fork restart, and sensitized BRCA1/2-deficient cells to PARPi. Importantly, pharmacological TLS inhibition with JH-RE-06 synergized with olaparib to enhance cytotoxicity in HR-deficient cells and PDOs, while in vivo combination therapy delayed or prevented resistance and achieved sustained tumor regression. Notably, TLS blockade also suppressed the emergence of BRCA2 reversion mutations in BRCA2-mutated ovarian cancer cells and prevented the development of olaparib resistance during chronic olaparib exposure. Collectively, these findings demonstrate that TLS, particularly Polη-dependent bypass, is a critical mechanism enabling replication fork rescue and survival under PARPi therapy. Targeting TLS provides a promising therapeutic strategy to augment PARPi efficacy and prevent resistance in BRCA-deficient ovarian cancer.",
-      "journal": "Cancer research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "The Ohio State University Columbus, Ohio United States.",
-        "The Ohio State University columbus United States.",
-        "The Ohio State University Columbus, OH United States.",
-        "University of South Florida United States.",
-        "The Ohio State University Columbus United States."
-      ],
-      "doi": "10.1158/0008-5472.CAN-26-1379",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804161/"
     },
     {
       "pmid": "42804716",
@@ -261,6 +290,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/"
     },
     {
+      "pmid": "42805700",
+      "title": "ArtiSt: An organocatalyst inspired by TPP installed in a steroid-carrying protein creates an artificial Stetterase.",
+      "abstract": "The various methods (protein expression, mass spectrometry, chemical synthesis, protein design, engineering, product analysis) presented in this chapter were used to create the first artificial Stetterase constructed from an otherwise inactive protein scaffold and a synthetic thiamine pyrophosphate-inspired organocatalyst. The N-heterocyclic carbene (NHC)-derived organocatalyst was covalently incorporated into engineered protein scaffolds, creating an artificial \"Stetterase\" (ArtiSt). Cysteine residues were strategically introduced into selected scaffolds to enable site-specific bioconjugation of a synthetic NHC bearing a maleimide handle. Scaffold selection and mutagenesis were guided by structural analysis and computational modelling. Recombinant scaffold expression, purification, and optimization of functionalization conditions, generated hybrid catalysts that were evaluated using an intramolecular Stetter reaction as a model transformation. The NHC-functionalized ArtiSt catalyzed the reaction under ambient, aqueous conditions with low catalyst loading, affording modest yields and enantioselectivities. Activity was enhanced more than 20-fold by adopting a more stable protein scaffold, highlighting the critical role of the protein environment in controlling the catalytic behavior of the embedded organocatalyst. The modular platform described here establishes a foundation for optimizing activity and enantioselectivity and provides a general strategy for expanding NHC-mediated transformations within protein environments.",
+      "journal": "Methods in enzymology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Chemistry, University of Edinburgh, King's Buildings, Edinburgh, United Kingdom.",
+        "School of Biological Sciences, University of Edinburgh, King's Buildings, Edinburgh, United Kingdom.",
+        "School of Chemistry, University of Edinburgh, King's Buildings, Edinburgh, United Kingdom. Electronic address: Dominic.Campopiano@ed.ac.uk."
+      ],
+      "doi": "10.1016/bs.mie.2026.07.032",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805700/"
+    },
+    {
+      "pmid": "42805095",
+      "title": "AI-driven drug repurposing: Methods, platforms, and translational applications.",
+      "abstract": "The conventional drug discovery pipeline is resource-intensive, time-consuming, and characterized by high attrition rates, often requiring more than a decade and billions of dollars to bring a single therapeutic agent to market. Drug repurposing identifying new therapeutic indications for approved or investigational drugs offers a pragmatic alternative by leveraging established safety profiles and known pharmacokinetics. Despite growing interest, comprehensive syntheses that span the full spectrum of artificial intelligence (AI) methodologies from classical machine learning (ML) through deep learning (DL), graph neural networks (GNNs), and generative AI while also critically evaluating platforms, validation status, and translational readiness remain limited. This review addresses that gap. A narrative review methodology was employed. Literature was searched across PubMed, Scopus, Web of Science, and Google Scholar using a structured keyword strategy (terms: drug repurposing, AI drug discovery, machine learning, deep learning, graph neural networks, generative AI, reinforcement learning, clinical translation combined with Boolean operators). Studies published between 2018 and 2025 were prioritized, with foundational works included regardless of date. Inclusion criteria encompassed primary research articles, systematic reviews, and platform descriptions reporting AI-based drug repurposing methods or outcomes. Non-English publications, conference abstracts without full text, and purely theoretical works without empirical validation were excluded. We identified and synthesized evidence across six thematic domains: (1) classical ML strategies, including target-based and phenotypic screening; (2) DL architectures, including convolutional and recurrent networks; (3) GNNs for biological network modeling; (4) generative AI and reinforcement learning for de novo molecular design; (5) disease-specific applications in oncology, neurology, and COVID-19; and (6) bioinformatics databases underpinning model development. We explicitly compared ML, DL, GNN, and generative AI approaches in terms of data requirements, interpretability, scalability, and translational readiness and summarized these dimensions in a comparative table. Key platforms reviewed RepurposeDrugs, NeuroCADR, and COVID-19 repurposing frameworks were selected using predefined criteria that emphasized methodological transparency, accessibility, and reported validation. Across approaches, AI models frequently demonstrate strong internal predictive performance in silico, with graph-based and transformer models representing the current state of the art on benchmark datasets. However, external validation, reproducibility, and successful clinical implementation remain comparatively scarce. We therefore place particular emphasis on external cohort validation, prospective and experimental follow-up, and the distinction between computational promise and realized clinical benefit. Persistent challenges include dataset bias, limited model interpretability, regulatory uncertainty, and infrastructure gaps in low-resource settings. AI-driven drug repurposing holds considerable translational promise, but many claims remain preliminary. Interdisciplinary collaboration, shared benchmarks, transparent reporting of negative results, and prospective clinical validation frameworks are essential for realizing the full therapeutic potential of these approaches.",
+      "journal": "Computational biology and chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Bioinformatics and Biosciences, Capital University of Science & Technology (CUST), Islamabad, Pakistan. Electronic address: shankhalidmalik@gmail.com.",
+        "Department of Bioinformatics and Biosciences, Capital University of Science & Technology (CUST), Islamabad, Pakistan."
+      ],
+      "doi": "10.1016/j.compbiolchem.2026.109444",
+      "date": "2026-09-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805095/"
+    },
+    {
       "pmid": "42803993",
       "title": "Chemical language models for early-stage drug discovery: applications, pitfalls, and future directions.",
       "abstract": "Attrition rates in clinical drug development remain above 90%, with most failures rooted in inadequate compound quality at the early discovery stage. Chemical language models (CLMs), neural sequence models pretrained on hundreds of millions of SMILES or SELFIES strings under self-supervised language-modeling objectives, have emerged as a versatile tool class across the early-stage pipeline. This review covers their foundations, including molecular representation, tokenization, and recurrent, encoder, decoder, and encoder-decoder families, before examining three application domains: virtual screening, property prediction, and de novo generation. In virtual screening, CLM embeddings retrieved by approximate nearest-neighbor search offer sub-second triage of billion-scale compound libraries, although reported evaluations remain largely retrospective, and pairing CLMs with protein language models extends this to target-aware ranking at comparable scale. In property prediction, sequence-only transformers including ChemBERTa and MolBERT are competitive on ADMET endpoints without consistently surpassing well-tuned descriptor-based and graph-based baselines, and hybrid architectures fusing sequence embeddings with structural priors represent the most promising direction. In de novo generation, reinforcement learning and scaffold-hopping strategies have advanced CLMs into prospective campaigns, with designs confirmed active in cell-based and biochemical assays across nuclear-receptor and lipid-kinase targets. Persistent limitations include poor interpretability and attendant regulatory uncertainty, performance brittleness under distribution shift without calibrated uncertainty estimates, and computational demands concentrated in well-resourced laboratories. Addressing these constraints may depend less on further architectural refinement than on multimodal foundation models, calibrated uncertainty quantification reported as first-class inference outputs, mandatory scaffold-split evaluation protocols, and integration into agentic closed-loop workflows coupling prediction with physics-based simulation and laboratory automation.",
@@ -336,37 +399,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798990/"
     },
     {
-      "pmid": "42797484",
-      "title": "Integrated Machine Learning and Molecular Simulation-Guided Discovery of Novel Small-Molecule PD-L1 Inhibitors.",
-      "abstract": "Background/Objectives: The programmed death-1/programmed death-ligand 1 (PD-1/PD-L1) immune checkpoint is a key therapeutic target in cancer immunotherapy, but small-molecule inhibition remains challenging due to its shallow and dynamic interaction interface. This study aimed to develop an artificial intelligence (AI)-guided workflow to identify novel small-molecule inhibitors targeting the PD-L1 dimer interface. Methods: A combined computational and experimental approach was established. A support vector regression-genetic algorithm (SVR-GA) model was trained on a dataset of 1385 known PD-L1 inhibitors to predict activity and guide molecular generation. From 470 AI-generated candidates, docking and molecular dynamics (MD) simulations were used for virtual screening. Selected compounds were synthesized and evaluated for PD-1/PD-L1 binding disruption using homogeneous time-resolved fluorescence (HTRF) assays. Cytotoxicity was tested in MDA-MB-231 and 4T1 cell monocultures, and in vivo efficacy was assessed in an immunocompetent 4T1 tumor model. Results: Two hits, PD-L1-Ser and PD-L1-Ser-OEt, were identified. Both disrupted PD-1/PD-L1 binding in HTRF assays, with PD-L1-Ser-OEt showing higher potency (IC50 = 0.2068 μM). Both compounds exhibited limited direct cytotoxicity in cancer cell monocultures, suggesting an immune-mediated mechanism. In the 4T1 syngeneic mouse model, both inhibitors suppressed tumor growth without causing body weight loss. PD-L1-Ser-OEt demonstrated superior antitumor efficacy and elevated serum levels of IFN-γ and IL-4. Conclusions: This AI-guided workflow combining machine-learning-based molecular generation with structure validation is feasible for discovering PD-L1 dimer-interface inhibitors. PD-L1-Ser-OEt represents a promising lead compound for further development as an immune checkpoint inhibitor.",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "pmid": "42804856",
+      "title": "Patient willingness to de-escalate adjuvant therapy based on predictive biomarker results in stage IIB-IIID melanoma: A cross-sectional survey.",
+      "abstract": "Predictive biomarkers such as circulating tumour DNA (ctDNA) and gene expression profiling (GEP) may guide adjuvant melanoma therapy de-escalation by identifying low-recurrence-risk patients. However, their implementation depends on patient willingness to act on test results. This study investigated patient preferences regarding predictive biomarkers. A cross-sectional survey was conducted among consecutive patients with AJCC 8th-edition stages IIB-IIID melanoma at a tertiary centre (N = 159, response rate 80.7%). The self-constructed questionnaire assessed biomarker-related attitudes, including willingness to forgo adjuvant therapy, accuracy thresholds, and undertreatment-overtreatment trade-offs, alongside sociodemographic characteristics. Validated instruments assessed decision-making preferences (Control Preferences Scale), health literacy (HLS-EU-Q16), fear of progression (PA-F-KF), and anxiety (GAD-7). Alongside descriptive analyses, logistic regression examined factors associated with willingness to forgo therapy. Despite limited prior awareness (34.2%), 97.4% considered biomarker research important. Most patients expected personalised therapy (82.3%) as primary benefit and wished to receive prognostic information on adverse events (91.1%) and disease progression (83.5%). Given a favourable five-year test result, 38.0% would forgo adjuvant therapy; 73.3% required ≥ 95% test accuracy. Two-thirds (66.9%) considered undertreatment worse than overtreatment; only 18.3% would accept de-escalation given a 10% false-negative rate. Lower health literacy (OR 0.61, p = 0.045) and an academic degree (OR 2.31, p = 0.037) were associated with willingness to forgo therapy. The latter emerged only after adjustment for health literacy, potentially reflecting a suppression effect. Melanoma patients demonstrate strong interest in biomarkers but demand high accuracy with low tolerance for false-negative predictions. Implementation of biomarker-guided decisions requires targeted patient education addressing predictive uncertainty.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Pharmacy, Jiangsu University, 301 Xuefu Road, Zhenjiang 212013, China.",
-        "Engineering and Technology Institute of Jiangsu University, Zhenjiang 212013, China.",
-        "Department of Obstetrics, Affiliated Hospital of Jiangsu University, No.438 Jiefang Road, Zhenjiang 212001, China.",
-        "Research Center for Intelligent Healthcare and Digital Health Technology, Affiliated Yixing People's Hospital of Jiangsu University, Wuxi 214205, China."
+        "Department of Dermatology and Venerology, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Fleur Hiege Center for Skin Cancer Research, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Mildred Scheel Cancer Career Centre Hamburg (MSNZ), Germany. Electronic address: c.blomen@uke.de.",
+        "Department of Dermatology and Venerology, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.",
+        "Department of Dermatology and Venerology, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany; Fleur Hiege Center for Skin Cancer Research, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.",
+        "Department of Medical Psychology, Centre for Psychosocial Medicine, University Medical Centre Hamburg-Eppendorf, Hamburg, Germany."
       ],
-      "doi": "10.3390/ph19091439",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797484/"
-    },
-    {
-      "pmid": "42793054",
-      "title": "Compositionally Biased Regions Within Structured Protein Domains.",
-      "abstract": "In proteins, tracts compositionally biased by a subset of amino acids are often linked to intrinsic disorder. Such compositionally biased regions (CBRs) are sometimes analyzed for 'sequence complexity' ('information entropy') despite being an unlikely substrate for natural selection per se, and therefore not functionally implicated. Here, an algorithmic strategy applying compositional bias detection was designed to capture the wide diversity of CBRs in structured protein domains (termed 'sCBRs'), ranging from trihomopeptides to >200 residues, with conservation and partner binding as functional lenses. sCBRs are common, with about 1/4th of domains harbouring them, but domains dominated by sCBRs over >50% of their lengths are rare (~1 in 200). Despite general assumptions, very short sCBRs are highly significantly sequence-conserved, and associated with ligand binding, even when common nucleotide/phosphate-binding or glycine-rich cases are disregarded. However, regardless of length, ~50% of cases are evolutionarily dynamic, undergoing clade-specific expansion/contraction. Protein-binding associations include aversions for short (≤16 residues) valine-rich regions in protein interfaces, and enrichments of longer alanine-rich cases (>16 residues). Only ~5% of cases are (at least partly) in intrinsically disordered loops, and are significantly shorter than sCBRs generally. Functional implications of sCBRs are discussed with many examples. The sCBR data might help with hypothesis generation and protein design/engineering.",
-      "journal": "Biomolecules",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biology, McGill University, Montreal, QC H3A 1B1, Canada."
-      ],
-      "doi": "10.3390/biom16091222",
-      "date": "2026-08-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42793054/"
+      "doi": "10.1016/j.ejca.2026.117061",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804856/"
     },
     {
       "pmid": "42803873",
@@ -461,27 +509,99 @@
       "doi": "10.1016/j.cca.2026.122855",
       "date": "2026-09-27",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801943/"
-    },
-    {
-      "pmid": "42801800",
-      "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
-      "abstract": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion and the operational complexities of PCR thermal cycling. Herein, we report a bisulfite-free and PCR-free electrochemical nanochannel biosensor that modulates nanoconfined space charge to directly translate discrete epigenetic marks into measurable ion flux. Specifically, rigid DNA tetrahedrons (TDs) are covalently assembled onto anodic aluminum oxide (AAO) nanochannels, providing a sterically unhindered interface for highly efficient cfDNA capture. Target discrimination is achieved via HhaI endonuclease, which selectively cleaves unmethylated cfDNA (UME) while leaving methylated cfDNA (ME) structurally intact due to methylation-induced steric hindrance. The retained ME targets subsequently initiate an in situ hybridization chain reaction (HCR) cascade. Through this isothermal assembly, densely packed polyanionic DNA networks form at the outer surface of the nanochannels, reshaping the local electrostatic field into a high-density negative space-charge layer. This designed space charge enriches cations and reduces the access resistance, yielding a significantly amplified transmembrane ion current. Benefiting from this dual-amplified transduction mechanism, the biosensor achieves a limit of detection of 208 aM with high specificity. Furthermore, this platform successfully discriminated ovarian cancer patients from those with benign gynecological diseases using clinical plasma samples, demonstrating great translational potential for precise epigenetic liquid biopsy.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing Women and Children's Healthcare Hospital, Nanjing, 210004, PR China; Nanjing Key Laboratory of Female Fertility Preservation and Restoration, Nanjing, 210004, PR China.",
-        "School of Environmental and Biological Engineering, Nanjing University of Science and Technology, Nanjing, 210094, PR China.",
-        "School of Environmental and Biological Engineering, Nanjing University of Science and Technology, Nanjing, 210094, PR China. Electronic address: liushi@njust.edu.cn.",
-        "Department of Gynecology, Women's Hospital of Nanjing Medical University, Nanjing Women and Children's Healthcare Hospital, Nanjing, 210004, PR China; Nanjing Key Laboratory of Female Fertility Preservation and Restoration, Nanjing, 210004, PR China. Electronic address: xmjia@njmu.edu.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119266",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42805518",
+      "date": "2026-09-28",
+      "title": "Nε-(Carboxymethyl)lysine induces mitochondrial stress, inflammatory activation, and fibrogenic remodelling in multicellular human liver organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805518/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42805518。",
+      "report": "Advanced glycation end-products (AGEs) accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the contribution of individual AGE species remains poorly defined. We focused on Nε-(carboxymethyl)lysine (CML), a well-characterise...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42805486",
+      "date": "2026-09-28",
+      "title": "Molecular mechanisms of lipid sensing in human cholecystokinin-secreting enteroendocrine cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805486/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular metabolism，PMID 为 42805486。",
+      "report": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42805310",
+      "date": "2026-09-28",
+      "title": "Autosomal recessive HOXA3 deficiency causes congenital athymia and laryngeal malformation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805310/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The Journal of allergy and clinical immunology，PMID 为 42805310。",
+      "report": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42804753",
       "date": "2026-09-28",
@@ -568,98 +688,6 @@
       "fact": "PubMed 记录显示该文献收录于 Circulation，PMID 为 42804568。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804364",
-      "date": "2026-09-28",
-      "title": "Protocol for mechanical nuclei dissociation and isolation from frozen tissue and organoids for single-nucleus RNA sequencing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804364/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42804364。",
-      "report": "Preserving RNA integrity in complex tissues such as the brain is challenging. Here, we present a protocol for isolating intact nuclei from frozen tissue and organoids for single-nucleus RNA sequencing (snRNA-seq). We describe steps for mechanical dissociation,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804341",
-      "date": "2026-09-28",
-      "title": "The Polycystic Kidney Disease Cyst Transcriptome Defined by Integrating Spatial, Single Nuclear, and Bulk Transcriptomics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804341/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [
-        "10x-genomics"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Kidney360，PMID 为 42804341。",
-      "report": "Autosomal dominant polycystic kidney disease (ADPKD) has been transcriptionally profiled at single cellular resolution, yet dissociation eliminated cyst-defining morphology to preclude a retrograde analysis of the cyst transcriptome. Transcriptional profiling...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804161",
-      "date": "2026-09-28",
-      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804161/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804161。",
-      "report": "Poly(ADP-ribose) polymerase inhibitors (PARPi) exploit synthetic lethality to treat BRCA1/2-mutated ovarian cancer, yet clinical responses are often incomplete and resistance frequently emerges. PARPi exert cytotoxic effects by inhibiting single-strand break r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -924,33 +952,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42801800",
-      "date": "2026-09-25",
-      "title": "Modulating nanoconfined space charge for PCR-free and bisulfite-free detection of cfDNA methylation in ovarian cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "id": "pubmed-42805095",
+      "date": "2026-09-26",
+      "title": "AI-driven drug repurposing: Methods, platforms, and translational applications.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801800/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805095/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42805095。",
+      "report": "The conventional drug discovery pipeline is resource-intensive, time-consuming, and characterized by high attrition rates, often requiring more than a decade and billions of dollars to bring a single therapeutic agent to market. Drug repurposing identifying ne...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42804856",
+      "date": "2026-09-25",
+      "title": "Patient willingness to de-escalate adjuvant therapy based on predictive biomarker results in stage IIB-IIID melanoma: A cross-sectional survey.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804856/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42801800。",
-      "report": "Aberrant DNA methylation in circulating cell-free DNA (cfDNA) represents a critical epigenetic biomarker for noninvasive diagnosis of ovarian cancer. However, conventional methodologies are inherently limited by the destructive nature of bisulfite conversion a...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42804856。",
+      "report": "Predictive biomarkers such as circulating tumour DNA (ctDNA) and gene expression profiling (GEP) may guide adjuvant melanoma therapy de-escalation by identifying low-recurrence-risk patients. However, their implementation depends on patient willingness to act...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1046,39 +1109,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42797484",
-      "date": "2026-09-11",
-      "title": "Integrated Machine Learning and Molecular Simulation-Guided Discovery of Novel Small-Molecule PD-L1 Inhibitors.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42797484/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmaceuticals (Basel, Switzerland)，PMID 为 42797484。",
-      "report": "Background/Objectives: The programmed death-1/programmed death-ligand 1 (PD-1/PD-L1) immune checkpoint is a key therapeutic target in cancer immunotherapy, but small-molecule inhibition remains challenging due to its shallow and dynamic interaction interface....",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42775042",
       "date": "2026-09-08",
       "title": "Toward trustworthy virtual cells: a roadmap for perturbation-resolved, context-aware, and experimentally validated cell models.",
@@ -1146,6 +1176,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42805700",
+      "date": "2026-09-02",
+      "title": "ArtiSt: An organocatalyst inspired by TPP installed in a steroid-carrying protein creates an artificial Stetterase.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805700/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods in enzymology，PMID 为 42805700。",
+      "report": "The various methods (protein expression, mass spectrometry, chemical synthesis, protein design, engineering, product analysis) presented in this chapter were used to create the first artificial Stetterase constructed from an otherwise inactive protein scaffold...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42802853",
       "date": "2026-08-26",
       "title": "Recent Advances in Gynaecological Care: Diagnostic Innovations, Therapeutic Strategies, and Patient Outcomes.",
@@ -1205,35 +1264,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42793054",
-      "date": "2026-08-22",
-      "title": "Compositionally Biased Regions Within Structured Protein Domains.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42793054/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomolecules，PMID 为 42793054。",
-      "report": "In proteins, tracts compositionally biased by a subset of amino acids are often linked to intrinsic disorder. Such compositionally biased regions (CBRs) are sometimes analyzed for 'sequence complexity' ('information entropy') despite being an unlikely substrat...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
