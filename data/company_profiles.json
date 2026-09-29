@@ -39645,6 +39645,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-pubmed-42808604",
           "evidence-company-emulate-pipeline-379202c5c9b2",
           "evidence-company-emulate-official-d4c55aadef02"
         ]
@@ -39652,6 +39653,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-pubmed-42808604",
+            "date": "2026-09-29",
+            "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-pubmed-42808604",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
+          },
           {
             "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
             "date": "2026-09-23",
@@ -39682,11 +39694,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "evidenceBySourceType": {
-          "Company": 2
+          "Company": 2,
+          "Paper": 1
         },
-        "lastEvidenceDate": "2026-09-23",
+        "lastEvidenceDate": "2026-09-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -39694,6 +39707,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-pubmed-42808604",
+          "date": "2026-09-29",
+          "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-pubmed-42808604",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
+        },
         {
           "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
           "date": "2026-09-23",
@@ -42151,6 +42175,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-09-29",
+            "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000127/gmab_20260929x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-09-24",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm",
@@ -42203,14 +42235,6 @@
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000108/gmab-20260630.htm",
             "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-07-15",
-            "title": "Genmab filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm",
-            "source": "SEC EDGAR"
           }
         ],
         "reportPortals": []
@@ -42237,6 +42261,7 @@
         "commercialProducts": [],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000127",
           "evidence-sec-0001434265-000143426526000125",
           "evidence-sec-0001434265-000143426526000123",
           "evidence-sec-0001434265-000143426526000120",
@@ -42251,6 +42276,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000127",
+            "date": "2026-09-29",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000127",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000127/gmab_20260929x6k.htm"
+          },
           {
             "id": "event-sec-0001434265-000143426526000125",
             "date": "2026-09-24",
@@ -42294,17 +42330,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000116",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm"
-          },
-          {
-            "id": "event-sec-0001434265-000143426526000113",
-            "date": "2026-08-12",
-            "title": "Genmab filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001434265-000143426526000113",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm"
           }
         ],
         "inferences": [],
@@ -42314,12 +42339,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 9,
+        "evidenceCount": 10,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 8
+          "Filing": 9
         },
-        "lastEvidenceDate": "2026-09-24",
+        "lastEvidenceDate": "2026-09-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -42327,6 +42352,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000127",
+          "date": "2026-09-29",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000127",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000127/gmab_20260929x6k.htm"
+        },
         {
           "id": "event-sec-0001434265-000143426526000125",
           "date": "2026-09-24",
@@ -42403,17 +42439,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-genmab-official-36144661ef9d",
           "sourceUrl": "https://www.genmab.com/"
-        },
-        {
-          "id": "event-sec-0001434265-000143426526000108",
-          "date": "2026-08-06",
-          "title": "Genmab filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001434265-000143426526000108",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000108/gmab-20260630.htm"
         }
       ]
     },
