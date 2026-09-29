@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-29T05:49:13.484817+00:00",
+  "capturedAt": "2026-09-29T13:00:14.646945+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-09-29"
   },
   "pmids": [
+    "42806865",
+    "42806046",
+    "42805959",
+    "42806331",
+    "42806326",
     "42805518",
-    "42805486",
-    "42805310",
-    "42804753",
-    "42804731",
-    "42804568",
     "42804716",
     "42782810",
     "42775042",
@@ -32,14 +32,126 @@
     "42803306",
     "42801963",
     "42798990",
+    "42806967",
+    "42806515",
     "42804856",
     "42803873",
     "42803760",
-    "42802853",
-    "42802333",
-    "42801943"
+    "42802853"
   ],
   "records": [
+    {
+      "pmid": "42806865",
+      "title": "AARS2-SIRT5-Driven DLD K445 Lactylation Promotes Cuproptosis Resistance in Glioblastoma Stem Cells.",
+      "abstract": "Therapy-resistant glioblastoma stem cells (GSCs) drive tumor progression and recurrence in glioblastoma (GBM). Cuproptosis is a copper-dependent form of regulated cell death triggered by aggregation of lipoylated mitochondrial proteins, but the mechanisms underlying cuproptosis resistance in GSCs remain unclear. Lactylome profiling identifies dihydrolipoamide dehydrogenase (DLD) as a key lactylation target regulating cuproptosis. Mechanistically, lactate-dependent alanyl-tRNA synthetase 2 (AARS2) catalyzes DLD K445 lactylation, while SIRT5 reverses this modification via NAD+-dependent delactylation. DLD K445 lactylation does not disrupt pyruvate dehydrogenase (PDH) complex assembly or DLD stability, but suppresses PDH activity and DLAT lipoylation, limiting copper-triggered DLAT aggregation and cuproptosis. Genetic disruption of DLD K445 lactylation restores DLAT lipoylation and sensitizes GSCs to elesclomol-copper (ES-Cu). Inhibiting lactate metabolism, activating SIRT5, or a cell-penetrating peptide targeting DLD K445 all boost ES-Cu efficacy in patient-derived glioblastoma organoids and intracranial xenografts. Our work establishes DLD K445 lactylation as a metabolic driver of cuproptosis resistance and validates the AARS2-DLD-SIRT5 axis as a druggable therapeutic target for GBM.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
+        "Department of Hematology, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
+        "Institute for Brain Tumors, Jiangsu Key Laboratory of Cancer Biomarkers, Prevention and Treatment, Collaborative Innovation Center for Cancer Personalized Medicine, Nanjing Medical University, Nanjing, China."
+      ],
+      "doi": "10.1002/advs.78046",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806865/"
+    },
+    {
+      "pmid": "42806046",
+      "title": "CPT1A-mediated IDO1 succinylation shapes EGFRvIII-driven resistance to tumor electric field therapy in glioblastoma.",
+      "abstract": "Tumor Electric Field Therapy (TEFT) disrupts mitosis in glioblastoma (GBM), but responses vary markedly among patients. In a retrospective cohort of TEFT-treated GBM, EGFR variant III (EGFRvIII) alteration is associated with shorter progression-free survival, prompting us to investigate a genotype-linked resistance mechanism. TEFT triggers a broadly shared bioenergetic stress response marked by activation of the AMPK-PPARα-CPT1A axis, whereas EGFRvIII primes IDO1 transcription through NF-κB. CPT1A further stabilizes IDO1 by promoting succinylation at lysine 377 through non-canonical LSTase-related activity, thereby limiting TRIM21-dependent ubiquitination and proteasomal degradation. Accumulated IDO1 increases kynurenine production and activates AhR, which upregulates DCLK1 and ARHGEF2 to preserve spindle organization and microtubule dynamics during electric-field exposure. Thus, EGFRvIII converts a general stress-adaptation pathway into a selective cytoprotective program. Genetic or pharmacological disruption of this pathway restores TEFT sensitivity in established and patient-derived GBM cells, organoids, and orthotopic models. Osimertinib suppresses the EGFRvIII-NF-κB-IDO1 arm and enhances TEFT efficacy, while exploratory clinical cases provide preliminary mechanism-informed support for the combination in recurrent EGFR-driven GBM. These findings define a genotype-field convergence mechanism linking metabolic adaptation to mitotic protection and support prospective evaluation of osimertinib plus TEFT.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, China.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, China.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, China.",
+        "School of Rehabilitation, Capital Medical University, Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China. wfybeijing@163.com.",
+        "School of Biological Science and Medical Engineering, Beihang University, Beijing, China. wfybeijing@163.com.",
+        "University of Health and Rehabilitation Sciences, Qingdao, China. wfybeijing@163.com.",
+        "Department of Orthopaedics, Qilu Hospital, Shandong University, Jinan, China. wfybeijing@163.com.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, China. dr.ligang@sdu.edu.cn.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, China. dr.ligang@sdu.edu.cn.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, China. dr.ligang@sdu.edu.cn.",
+        "Shandong Key Laboratory of Brain Health and Function Remodeling, Department of Neurosurgery, Qilu Hospital of Shandong University, Jinan, China. xuehao@sdu.edu.cn.",
+        "Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, China. xuehao@sdu.edu.cn.",
+        "Glioma Comprehensive Diagnosis and Treatment Center, Qilu Hospital of Shandong University, Jinan, China. xuehao@sdu.edu.cn."
+      ],
+      "doi": "10.1038/s41467-026-77927-w",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806046/"
+    },
+    {
+      "pmid": "42805959",
+      "title": "Polymeric alpha-1 antitrypsin perturbs Paneth cell proteostasis and exacerbates intestinal inflammation.",
+      "abstract": "Alpha-1 antitrypsin (AAT) is a serine protease inhibitor that protects tissue from neutrophil elastase and other proteases, particularly in the lung. Mutations in SERPINA1, including the Z mutation, lead to AAT deficiency (AATD), characterized by reduced circulating AAT and increased risk of pulmonary emphysema, liver cirrhosis, and hepatocellular carcinoma. Beyond these well-characterized manifestations, AATD has been associated with panniculitis, rheumatoid arthritis, and glomerulonephritis. Emerging evidence has also suggested a link between AATD and inflammatory bowel diseases (IBDs), although experimental validation is lacking. In this study, we demonstrate that PiZ transgenic mice expressing the polymer-forming ATZ display increased susceptibility to dextran sodium sulfate (DSS)-induced colitis, accompanied by marked Paneth cell abnormalities. The accumulation of polymeric ATZ in Paneth cells is associated with the endoplasmic reticulum (ER) stress response, impaired lysosomal clearance, altered association of Lysozyme-1 (Lyz1) with LC3-containing compartments, and increased Lyz1 secretion. These intestinal alterations were accompanied by changes in microbiota composition, whereas DSS exposure and exogenous lysozyme administration were associated with aggravated intestinal and hepatic pathology. Pharmacological inhibition of ER stress restored crypt homeostasis and normalized Lyz1 secretion. Human Pi*ZZ iPSC-derived intestinal organoids similarly showed ATZ polymer accumulation in secretory epithelial cells and transcriptional alterations involving ER protein processing and epithelial homeostasis. In addition, polymeric ATZ was detected in ileal crypts from a single individual with AATD and intestinal disease. Together, our data reveal a Paneth cell-intrinsic ER stress mechanism linking ATZ accumulation to gut epithelial dysfunction, highlighting a previously underexplored role of the gut-liver axis in AATD.",
+      "journal": "Signal transduction and targeted therapy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy. f.annunziata@tigem.it.",
+        "Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy.",
+        "Scuola Superiore Meridionale (SSM), Genomics and Experimental Medicine Program, Naples, Italy.",
+        "Leibniz Institute on Aging, Fritz Lipmann Institute (FLI), Jena, Germany.",
+        "Gastroenterology Unit, Department of Clinical Medicine and Surgery, Federico II University, Naples, Italy.",
+        "Department of Life Sciences and Systems Biology and Molecular Biotechnology Center, University of Turin, Torino, Italy.",
+        "Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy. pastore@tigem.it.",
+        "Department of Translational Medicine, Medical Genetics, Federico II University, Naples, Italy. pastore@tigem.it."
+      ],
+      "doi": "10.1038/s41392-026-02925-9",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805959/"
+    },
+    {
+      "pmid": "42806331",
+      "title": "Avobenzone induces intestinal injury by targeting ATG14 and impairing mitophagy.",
+      "abstract": "Avobenzone (Avo) is a widely used ultraviolet filter in sunscreens and facial skincare products. In addition to dermal exposure, chronic oral intake may also occur through daily-use products. However, the potential intestinal toxicity of Avo and its underlying mechanisms remain poorly understood. We investigated the intestinal effects of Avo using repeated oral exposure mouse models, the Caco-2 intestinal epithelial cell line, human intestinal organoids, proteomic analysis, and mechanistic assays examining autophagy, mitophagy, mitochondrial stress responses, and Wnt/β-catenin signaling. Administration of Avo (10-40 mg/kg) for two months induced intestinal epithelial injury in mice, as evidenced by reduced crypt number, shortened villi, impaired intestinal epithelial barrier, and decreased intestinal stem cell abundance. Avo also caused mitochondrial dysfunction, oxidative stress, and lipid accumulation. Mechanistically, Avo interacted with ATG14, a key component of the autophagy initiation complex, and promoted CUL3-mediated ubiquitination and proteasomal degradation of ATG14. Loss of ATG14 impaired mitophagy, leading to the accumulation of damaged mitochondria and activation of eIF2α-ATF5-associated mitochondrial unfolded protein response (UPRmt). This mitochondrial stress suppressed Wnt/β-catenin signaling, reduced maintenance of LGR5-positive intestinal stem cells, and ultimately disrupted epithelial regeneration. Importantly, pharmacological induction of autophagy with rapamycin or inhibition of stress signaling with ISRIB alleviated Avo-induced intestinal injury in mice. Similar effects were observed in human intestinal organoids. These findings identify a previously unrecognized intestinal toxicity associated with Avo exposure and suggest that disruption of ATG14-dependent mitophagy and mitochondrial quality control is a key mechanism underlying this effect.",
+      "journal": "Cell communication and signaling : CCS",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Tumor Molecular Biology and State Key Laboratory of Bioactive Molecules and Druggability Assessment, College of Life Science and Technology, Jinan University, Guangzhou, 510632, China.",
+        "Ministry of Education Key Laboratory of Tumor Molecular Biology and State Key Laboratory of Bioactive Molecules and Druggability Assessment, College of Life Science and Technology, Jinan University, Guangzhou, 510632, China. tqyhe@email.jnu.edu.cn.",
+        "Ministry of Education Key Laboratory of Tumor Molecular Biology and State Key Laboratory of Bioactive Molecules and Druggability Assessment, College of Life Science and Technology, Jinan University, Guangzhou, 510632, China. zj6410@jnu.edu.cn.",
+        "Department of Radiology, The First Affiliated Hospital of Jinan University, Guangzhou, 510632, China. zj6410@jnu.edu.cn.",
+        "Ministry of Education Key Laboratory of Tumor Molecular Biology and State Key Laboratory of Bioactive Molecules and Druggability Assessment, College of Life Science and Technology, Jinan University, Guangzhou, 510632, China. wangyang0507@jnu.edu.cn."
+      ],
+      "doi": "10.1186/s12964-026-03211-5",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806331/"
+    },
+    {
+      "pmid": "42806326",
+      "title": "3D bioprinted human vascular organoid sheets promote functional ischemic repair and exhibit adaptive in vivo remodeling.",
+      "abstract": "Ischemic vascular diseases remain a major clinical challenge, creating a need for engineered vascular tissues that can establish functional vascular networks and promote durable tissue repair. Conventional vascular organoids offer limited control over cellular composition and spatial organization, while the fate and adaptive remodeling of graft-derived human vascular cells after transplantation remain poorly understood. Human vascular organoid sheets (hVOS) were constructed by extrusion-based three-dimensional (3D) bioprinting of human pluripotent stem cell (hPSC)-derived endothelial cells (ECs) and smooth muscle cells (SMCs) at a defined ratio within a gelatin methacryloyl (GelMA)-based bioink under chemically defined conditions. Vascular organization and cellular states were characterized using functional assays, immunofluorescence imaging, and single-cell RNA sequencing (scRNA-seq). Therapeutic efficacy and graft remodeling were evaluated in a murine hindlimb ischemia model using laser speckle perfusion imaging, histological analysis, intravital two-photon imaging, and scRNA-seq of recovered graft-derived human cells. Co-bioprinting ECs and SMCs accelerated vascular network formation and generated stable, interconnected vascular structures that underwent progressive maturation during culture. scRNA-seq identified diverse vascular and stromal populations and revealed transcriptional programs associated with vascular maturation, mechanotransduction, and hypoxic adaptation. Following transplantation, hVOS significantly improved blood perfusion, increased limb salvage, and promoted ischemic tissue repair. Intravital imaging detected circulating dextran within GFP-labeled hVOS-derived vascular structures at days 14 and 28, demonstrating perfusion of graft-derived vascular structures by the host circulation. Post-transplantation scRNA-seq revealed substantial adaptive remodeling of graft-derived ECs toward venous-biased and inflammatory states, accompanied by activation of NF-κB- and stress-associated programs. Transplanted SMCs and fibroblasts also exhibited coordinated transcriptional changes associated with wound healing and extracellular matrix remodeling. hVOS provide a reproducible and design-flexible 3D-bioprinted vascular tissue platform that enables controlled multicellular organization and formation of prevascularized constructs while supporting vascular integration and ischemic tissue repair in vivo. Single-cell analyses further reveal substantial adaptive remodeling of graft-derived vascular and stromal cells following transplantation. These findings support hVOS as a versatile platform for vascular regenerative medicine and for investigating the in vivo behavior of engineered human vascular tissues. Graphical abstract illustrating the generation and therapeutic application of human vascular organoid sheets (hVOS). hPSC-derived endothelial cells (hPSC-ECs) and smooth muscle cells (hPSC-SMCs) are precisely organized by 3D bioprinting to generate reproducible hVOS with enhanced vascular maturation driven by cellular, hypoxic, and biomechanical cues. Following transplantation into ischemic tissue, hVOS integrate with the host vasculature and undergo dynamic endothelial remodeling, enhancing perfusion and promoting tissue repair.",
+      "journal": "BMC medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, 100084, Beijing, China.",
+        "SXMU-Tsinghua Collaborative Innovation Center for Frontier Medicine, Taiyuan, China.",
+        "School of Basic Medical Sciences, Shanxi Medical University, Taiyuan, Shanxi Province, China.",
+        "Department of Mechanical Engineering, Tsinghua University, Beijing, China.",
+        "Beijing Key Laboratory of Intelligent Organ Biofabrication and Regenerative Repair, Tsinghua University, Beijing, China.",
+        "AngioTherapeutics Ltd, Beijing, China.",
+        "The First Hospital of Tsinghua University, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Department of General Surgery, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua University, Beijing, China.",
+        "Affiliated Hospital of Hebei Engineering University, The Key Laboratory of Basic Research on Blood Purification Application in Hebei Province, Handan, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, 100084, Beijing, China. jie.na@tsinghua.edu.cn.",
+        "SXMU-Tsinghua Collaborative Innovation Center for Frontier Medicine, Taiyuan, China. jie.na@tsinghua.edu.cn.",
+        "Beijing Key Laboratory of Intelligent Organ Biofabrication and Regenerative Repair, Tsinghua University, Beijing, China. jie.na@tsinghua.edu.cn.",
+        "State Key Laboratory for Complex, Severe and Rare Diseases, Tsinghua University, Beijing, China. jie.na@tsinghua.edu.cn."
+      ],
+      "doi": "10.1186/s12916-026-05256-2",
+      "date": "2026-09-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806326/"
+    },
     {
       "pmid": "42805518",
       "title": "Nε-(Carboxymethyl)lysine induces mitochondrial stress, inflammatory activation, and fibrogenic remodelling in multicellular human liver organoids.",
@@ -61,125 +173,6 @@
       "doi": "10.1016/j.phrs.2026.109653",
       "date": "2026-09-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805518/"
-    },
-    {
-      "pmid": "42805486",
-      "title": "Molecular mechanisms of lipid sensing in human cholecystokinin-secreting enteroendocrine cells.",
-      "abstract": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribution and a lack of reliable CCK-assays. Here we used human intestinal organoids to characterize lipid-sensing mechanisms underlying CCK release. Human duodenal organoids were genetically engineered using CRISPR-Cas9 to insert either the fluorescent protein Venus or the cAMP reporter Epac-S-H187 at the CCK locus. Transcriptomic profiling of CCK-positive and negative cells was performed following fluorescent-activated cell sorting. Intracellular calcium and cAMP as well as CCK-GRAB-sensor secretory responses were assessed during live-cell imaging, and CCK secretion was quantified by LC-MS/MS. To evaluate lipid-sensing pathways, FFAR1, FFAR4, and GPR119 knockout organoids were generated. Transcriptomic analysis identified expression of lipid-sensing GPCRs in I-cells, including FFAR1, FFAR4, FFAR2, GPR119, GPBAR1, OR51E1 and OR51E2. Fatty acids and FFAR1 agonists increased intracellular calcium, whereas agonists of GPBAR1 and GPR119, and short-chain fatty acids elevated cAMP. CCK release was triggered by FFAR1, GPBAR and GPR119 agonists, and fatty acids with chain-length > C8. FFAR1 knockout organoids exhibited impaired Ca2+ and CCK secretory responses to fatty acids, whereas responses of FFAR4 KO organoids were like wild-type. In human I-cells, FFAR1 plays a crucial role in lipid-induced CCK release, whereas FFAR4 appears to be redundant in this context. These findings improve understanding of human CCK physiology and identify potential therapeutic targets for metabolic regulation and appetite control.",
-      "journal": "Molecular metabolism",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: ms2896@cam.ac.uk.",
-        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom.",
-        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: fr222@cam.ac.uk.",
-        "University of Cambridge, Institute of Metabolic Science and MRC Metabolic Research Laboratories, Addenbrooke's Hospital, Cambridge, United Kingdom. Electronic address: fmg23@cam.ac.uk."
-      ],
-      "doi": "10.1016/j.molmet.2026.102448",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805486/"
-    },
-    {
-      "pmid": "42805310",
-      "title": "Autosomal recessive HOXA3 deficiency causes congenital athymia and laryngeal malformation.",
-      "abstract": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control spatial body development. The function of human HOXA3 is undefined. We characterize the first human with HOXA3 deficiency and investigate the role of HOXA3 in immune system development. We performed clinical and immunological phenotyping, as well as genetic sequencing. A homozygous nonsense variant in HOXA3 was identified, and functionally validated including RT-PCR, western blot, assessment of transcriptional activity and intracellular localization of HOXA3. We report clinical management and course. The homozygous HOXA3 nonsense variant generates a truncated protein with cytoplasmic retention and reduced transcriptional activity. The clinical phenotype includes craniofacial and cervical anomalies, severe laryngopharyngeal malformation with epiglottic hypoplasia causing dysphagia and aspiration, central breathing disorder, and thymus aplasia. T-cell maturation in artificial thymic organoids (ATO) and recovery after thymus transplantation establish the T-cell defect as non-hematopoietic. Human HOXA3 has non-redundant roles for the development of larynx and thymus. HOXA3 deficiency is a novel, life-threatening multisystem disorder. It is the first human Homeobox-gene disease causing congenital athymia. These findings expand the diagnostic gene panel for patients with a SCID phenotype and indicate epiglottic hypoplasia as a new specific co-morbidity of congenital athymia. Homeobox A3 (HOXA3) deficiency is a novel cause of congenital athymia, characterized by craniofacial and cervical anomalies, and life-threatening laryngeal malformation. Human HOXA3, unlike murine Hoxa3, may be redundant for parathyroid and thyroid gland development. The loss of the homeodomain causes cytoplasmic retention of the HOXA3 protein, leading to reduced transcriptional activity. We describe HOXA3 deficiency as the 8th genetically defined cause of congenital athymia, facilitating life-saving thymus transplantation for future patients. Life-threatening laryngeal malformations provide a clinical diagnostic clue for congenital athymia.",
-      "journal": "The Journal of allergy and clinical immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany.",
-        "Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Audiology and Phoniatrics, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Chronically Sick Children, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Pediatric Head & Neck Center, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Medical Genetics and Human Genetics, Augustenburger Platz 1, 13353 Berlin, Germany; Max Planck Institute for Molecular Genetics, Human Molecular Genomics Group, Berlin, Germany.",
-        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin Center for Advanced Therapies (BeCAT), Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute for Medical Immunology, Charité - Universitätsmedizin; Berlin, 10117, Germany, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Labor Berlin GmbH, Department of Human Genetics, Sylter Straße 2, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
-        "German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany; Zuse Visual and Data-centric Computing, Zuse Institute Berlin (ZIB), Takustraße 7, 14195 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany.",
-        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK.",
-        "Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
-        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK; UCL Great Ormond Street Institute of Child Health, Infection Immunity and Inflammation Research & Teaching Department, London, WC1N 3JH, UK.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Endocrinology and Diabetology, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Vivantes Klinikum im Friedrichshain, Children's Hospital, Landsberger Alle 49, 10249 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Neonatology, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Cardiology, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute for Medical Immunology, Charité - Universitätsmedizin; Berlin, 10117, Germany, Augustenburger Platz 1, 13353 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Stem Cell Core, Berlin Institute of Heath, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Chronically Sick Children, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Pediatric Head & Neck Center, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Neurology, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, German Epilepsy Center for Children and Adolescents, Augustenburger Platz 1, 13353 Berlin, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Cell- and Neurobiology, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Center for Lung Research (DZL), partner site Berlin; Berlin, 10117, Germany.",
-        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
-        "Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; German Rheumatology Research Centre, a Leibniz Institute (DRFZ), Charitéplatz 1, 10117 Berlin, Germany.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; German Center for Lung Research (DZL), partner site Berlin; Berlin, 10117, Germany; Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Cluster of Excellence ImmunoPreCept, Augustenburger Platz 1, 13353 Berlin, Germany.",
-        "Great Ormond Street Hospital for Children NHS Foundation Trust, Department of Paediatric Immunology and Gene Therapy, London, WC1N 3JH, UK; UCL Great Ormond Street Institute of Child Health, Infection Immunity and Inflammation Research & Teaching Department, London, WC1N 3JH, UK. Electronic address: a.kreins@ucl.ac.uk.",
-        "Laboratory of Clinical Immunology and Microbiology, National Institute of Allergy and Infectious Diseases, National Institutes of Health; Bethesda, 20892, USA. Electronic address: luigi.notarangelo2@nih.gov.",
-        "Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Pediatric Respiratory Medicine, Immunology and Critical Care Medicine, Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Regenerative Therapies (BCRT), Augustenburger Platz 1, 13353 Berlin, Germany; Berlin Institute of Health at Charité - University Medical Center Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Augustenburger Platz 1, 13353 Berlin, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Berlin; 10117 Berlin, Germany; Labor Berlin GmbH, Department of Immunology, Sylter Straße 2, 13353 Berlin, Germany. Electronic address: horst.von-bernuth@charite.de."
-      ],
-      "doi": "10.1016/j.jaci.2026.09.010",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805310/"
-    },
-    {
-      "pmid": "42804753",
-      "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
-      "abstract": "Chemotherapy is a standard treatment for lung adenocarcinoma (LUAD), yet the efficacy is often limited, highlighting the need to elucidate and the underlying mechanisms of chemoresistance. Given the important role of the tumor microenvironment in LUAD progression, we established a biobank of patient-derived LUAD organoids (LCOs) paired with cancer-associated fibroblasts (CAFs) from treatment naïve tumors and found that co-culture with CAFs reduced drug sensitivity of LCOs. Plasminogen activator urokinase (PLAU) was identified as a specific marker of chemoresistance-associated CAFs linked with poor survival in LUAD patients. Tumor cells induced polarization of fibroblasts toward a PLAU+ chemoresistant state that secreted CXCL5 to upregulate the ER chaperone calmegin (CLGN) in tumor cells. CLGN ablation restored drug sensitivity, whereas CLGN expression was elevated in chemotherapy-resistant LUAD and correlated with pathological progression. Together, these findings identify the PLAU⁺ CAF-CXCL5-CLGN axis that drives LUAD chemoresistance and suggest that CLGN inhibition could be a promising therapeutic strategy to overcome chemoresistance in advanced LUAD.",
-      "journal": "Cancer research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Guangzhou Laboratory China.",
-        "The Sixth Affiliated Hospital, School of Medicine, South China University of Technology Foshan, Guangdong China.",
-        "Nanchang University China.",
-        "Nanchang University Nanchang China.",
-        "First Affiliated Hospital of Guangzhou Medical University Guangzhou, Guangdong China.",
-        "Guangdong Lung Cancer Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University Guangzhou, Guangdong China.",
-        "Guangzhou Institutes of Biomedicine Guangzhou, Guangdong China.",
-        "Tsinghua University Beijing China."
-      ],
-      "doi": "10.1158/0008-5472.CAN-26-1323",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804753/"
-    },
-    {
-      "pmid": "42804731",
-      "title": "Ferret Glandular Myoepithelial Cells Are Multipotent Airway Progenitors with a Secretory Lineage Bias.",
-      "abstract": "Airway submucosal glands (SMGs) play a key role in pulmonary defense by producing mucus and antimicrobial secretions; their dysfunction underlies diseases such as cystic fibrosis (CF) and chronic obstructive pulmonary disease. Murine studies have identified tracheal glandular myoepithelial cells (GMECs) as reserve stem cells, but CFTR-deficient mice lack the intrapulmonary airway glands required to model CF lung disease. In contrast, CFTR-deficient ferrets possess intrapulmonary airway glands, thereby closely recapitulating human CF lung pathology, yet we currently lack models to trace these cells in vivo. We generated an ACTA2 CreER::ROSA mTmG transgenic ferret model to lineage-trace ACTA2-expressing GMECs. We examined GMEC contributions to glandular development and surface airway epithelium (SAE) regeneration following polidocanol injury. Single-cell transcriptomics, organoid, and air-liquid interface (ALI) cultures were utilized to evaluate epithelial differentiation and CFTR-mediated ion transport. Single-cell trajectory models and lineage tracing revealed that ferret GMECs are high-potency multipotent progenitors contributing to the basal, serous, and mucous lineages during gland development. After severe adult airway injury, GMECs recruited to the SAE and regenerated multiple epithelial cell types with a bias towards secretory cells. Despite robust FOXI1+ ionocyte formation, GMEC-derived epithelia exhibited reduced CFTR expression, function, and fluid secretion compared to non-GMEC-derived glandular epithelia. Ferret GMECs are multipotent progenitors and contribute to gland development and airway repair. However, their descendants demonstrate bias toward the specification of secretory cells and CFTRLow ionocytes. This suggests that GMEC-driven repair may result in structurally restored yet functionally compromised epithelia, potentially contributing to mucus retention in muco-obstructive airway diseases.",
-      "journal": "American journal of respiratory cell and molecular biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294.",
-        "Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA 52242, USA.",
-        "Department of Cell Biology, Duke University School of Medicine, Durham, NC 27718, USA.",
-        "Duke Regeneration Center, Duke University, Durham, NC 27710, USA.",
-        "Department of Surgery, Duke University School of Medicine, Durham, NC 27710, USA.",
-        "Department of Pharmacology & Regenerative Medicine, University of Illinois Chicago, Chicago, IL 60612, USA."
-      ],
-      "doi": "10.1093/ajrcmb/aanag191",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804731/"
-    },
-    {
-      "pmid": "42804568",
-      "title": "Modeling Heart Failure With Preserved Ejection Fraction Using Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes.",
-      "abstract": "",
-      "journal": "Circulation",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [
-        "Stanford Cardiovascular Institute, School of Medicine (B.Y., L.R., Y.L., C.T., A.K., Y.D., R.V., M.S., S.R.Z., J.C.W.), Stanford University, CA.",
-        "Division of Cardiovascular Medicine, Department of Medicine (J.C.W.), Stanford University, CA.",
-        "Greenstone Biosciences, Palo Alto, CA (J.C.W.)."
-      ],
-      "doi": "10.1161/CIRCULATIONAHA.126.081881",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804568/"
     },
     {
       "pmid": "42804716",
@@ -399,6 +392,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42798990/"
     },
     {
+      "pmid": "42806967",
+      "title": "Tumor-cell PD-L1 expression, mismatch repair status, and survival outcomes in colorectal carcinoma: a retrospective Pakistani cohort study.",
+      "abstract": "Tumor-cell programmed death-ligand 1 (PD-L1) expression has been investigated as a biomarker for colorectal carcinoma (CRC), but the reported positivity rates vary by antibody clone, scoring method, and threshold. Tumor-cell PD-L1 is not a validated companion diagnostic tool for CRC. We assessed whether PD-L1 expression scored with the ZR3 clone functions as a clinicopathological or prognostic biomarker in a Pakistani cohort, using microsatellite instability/mismatch-repair (MSI/MMR) status as the reference biomarker. We retrospectively evaluated 60 patients with CRC diagnosed between 2020 and 2023. PD-L1 expression was assessed using the tumor proportion score (TPS) and ZR3 antibody. MSI was determined using polymerase chain reaction-based fragment analysis, and MMR status was determined using four-protein immunohistochemistry. Associations between binary PD-L1 status and 10 clinicopathological variables were analyzed and adjusted using the Benjamini-Hochberg false discovery rate procedure. Overall survival (OS; n=60), disease-free survival (DFS; n=44), and progression-free survival (PFS; n=16) were the exploratory outcomes. At a TPS threshold of ≥1%, PD-L1 positivity was identified in 43 of 60 tumors (71.7%), including 31 low-positive and 12 high-positive tumors. This rate exceeded that of most CRC TPS series and likely reflected clone- and threshold-specific assay behavior. No clinicopathological variables were associated with binary PD-L1 status after multiplicity correction. MSI-H/dMMR was present in 12 cases (20.0%) and was associated with the three-level PD-L1 category (Fisher-Freeman-Halton p=0.0017; Cramer's V = 0.485), but not with binary positivity (p=0.151); the association was confined to the high-positive group. PD-L1 status was not associated with OS (HR 1.43, 95% CI 0.40-5.05; p=0.580), DFS (HR 0.46, 95% CI 0.15-1.45; p=0.185), or PFS (HR 0.67, 95% CI 0.20-2.20; p=0.505). Older age, rather than PD-L1 status, was associated with mortality (adjusted HR 1.68 per 10 years, 95% CI 1.09-2.57; p=0.018). ZR3-based tumor-cell PD-L1 TPS was not associated with clinicopathological characteristics or survival in this cohort. The high positivity rate should be interpreted as assay-specific, while the enrichment of MSI-H/dMMR tumors in the high-positive tier was consistent with established biology. ZR3-based TPS should remain a research measure and should not independently guide immunotherapy selection; MSI/MMR testing remains the clinically actionable biomarker for CRC.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.",
+        "Department of Pathology, Peshawar Medical College, Riphah International University, Peshawar, Pakistan.",
+        "Department of Medicine, Peshawar Medical College, Riphah International University, Peshawar, Pakistan.",
+        "Department of Oncology, Peshawar Medical College, Riphah International University, Peshawar, Pakistan.",
+        "Department of Anatomy, College of Medicine, Alfaisal University, Riyadh, Saudi Arabia."
+      ],
+      "doi": "10.3389/fonc.2026.1939073",
+      "date": "2026-09-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806967/"
+    },
+    {
+      "pmid": "42806515",
+      "title": "Extracellular vesicles as biomarkers and therapeutic nanocarriers in cancer.",
+      "abstract": "Extracellular vesicles (EVs), including exosomes, microvesicles, and apoptotic bodies, are lipid bilayer-bound nanoparticles secreted by various cell types. EVs mediate intercellular communication by selectively transporting bioactive molecules including proteins, lipids, and nucleic acids. This review comprehensively analyzes EVs biogenesis, classification, and cargo diversity, emphasizing their multifaceted roles in physiological processes and cancer. EVs exhibit intrinsic dual regulatory roles in tumor biology. On the one hand, they promote malignant tumor progression by delivering pro-tumorigenic cargoes and mediating immunosuppressive responses; on the other hand, they can induce anti-tumor immune responses through antigen presentation and immune activation. Beyond these endogenous functions, EVs serve as reliable liquid biopsy biomarkers and versatile therapeutic nanocarriers. Furthermore, engineered EVs enable precise drug delivery in immunotherapy and targeted therapy approaches. Despite their promising clinical potential, major challenges, including the lack of standardized isolation methods and concerns regarding the safety of engineered modifications, remain to be addressed. Future studies should focus on elucidating subtype-specific mechanisms, optimizing therapeutic strategies, and validating clinical efficacy in large-scale trials. EVs represent a promising platform bridging basic research and clinical applications, ushering in a new paradigm of precision medicine for cancer diagnosis and treatment.",
+      "journal": "Chinese medical journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Computer Science and Technology, School of Information Science and Engineering, Shenyang Ligong University, Shenyang, Liaoning 110159, China.",
+        "Department of Anesthesiology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China.",
+        "School of Medical Humanities, China Medical University, Shenyang, Liaoning 110122, China.",
+        "School of Sports, Shenyang Ligong University, Shenyang, Liaoning 110159, China."
+      ],
+      "doi": "10.1097/CM9.0000000000004357",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806515/"
+    },
+    {
       "pmid": "42804856",
       "title": "Patient willingness to de-escalate adjuvant therapy based on predictive biomarker results in stage IIB-IIID melanoma: A cross-sectional survey.",
       "abstract": "Predictive biomarkers such as circulating tumour DNA (ctDNA) and gene expression profiling (GEP) may guide adjuvant melanoma therapy de-escalation by identifying low-recurrence-risk patients. However, their implementation depends on patient willingness to act on test results. This study investigated patient preferences regarding predictive biomarkers. A cross-sectional survey was conducted among consecutive patients with AJCC 8th-edition stages IIB-IIID melanoma at a tertiary centre (N = 159, response rate 80.7%). The self-constructed questionnaire assessed biomarker-related attitudes, including willingness to forgo adjuvant therapy, accuracy thresholds, and undertreatment-overtreatment trade-offs, alongside sociodemographic characteristics. Validated instruments assessed decision-making preferences (Control Preferences Scale), health literacy (HLS-EU-Q16), fear of progression (PA-F-KF), and anxiety (GAD-7). Alongside descriptive analyses, logistic regression examined factors associated with willingness to forgo therapy. Despite limited prior awareness (34.2%), 97.4% considered biomarker research important. Most patients expected personalised therapy (82.3%) as primary benefit and wished to receive prognostic information on adverse events (91.1%) and disease progression (83.5%). Given a favourable five-year test result, 38.0% would forgo adjuvant therapy; 73.3% required ≥ 95% test accuracy. Two-thirds (66.9%) considered undertreatment worse than overtreatment; only 18.3% would accept de-escalation given a 10% false-negative rate. Lower health literacy (OR 0.61, p = 0.045) and an academic degree (OR 2.31, p = 0.037) were associated with willingness to forgo therapy. The latter emerged only after adjustment for health literacy, potentially reflecting a suppression effect. Melanoma patients demonstrate strong interest in biomarkers but demand high accuracy with low tolerance for false-negative predictions. Implementation of biomarker-guided decisions requires targeted patient education addressing predictive uncertainty.",
@@ -474,44 +504,69 @@
       "doi": "10.7759/cureus.115210",
       "date": "2026-08-26",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802853/"
-    },
-    {
-      "pmid": "42802333",
-      "title": "Microfluidic approaches to next- generation sequencing library preparation: innovations, clinical integration and point-of-care settings.",
-      "abstract": "Next-generation sequencing (NGS) has revolutionized genomics by enabling high-throughput, cost-effective analysis of nucleic acids for both research and clinical applications. Library preparation remains a bottleneck in sequencing due to high reagent use, labor-intensive workflows, long hands-on times, and susceptibility to human error, despite advancements in sequencing technology. This review emphasizes the latest advancements in microfluidics-based next-generation sequencing (NGS) library preparation, focusing on four specific platform types: continuous-flow systems, droplet microfluidics, digital microfluidics (DMF), and integrated lab-on-chip devices. These innovative technologies significantly reduce reagent consumption by 10 to 200 times, facilitate the creation of high-quality libraries from picogram-scale DNA or even single cells, and automate intricate workflows within enclosed systems. The applications of these technologies in liquid biopsy, pathogen detection, prenatal testing, and epigenomic profiling showcase considerable clinical promise. Challenges such as fabrication complexity, lack of standardization, biofouling, and high instrument costs hinder widespread adoption, particularly in resource-limited settings. However, advancements in AI, thermal control, long-read sequencing, and portable microfluidics are helping to overcome these issues. Microfluidic library preparation has the potential to transform NGS workflows by enhancing automation, reproducibility, and accessibility, thereby facilitating broader applications of genomic sequencing in research, clinical diagnostics, and point-of-care settings.",
-      "journal": "Expert review of molecular diagnostics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India.",
-        "MEMS, Microfluidics and Nanoelectronics (MMNE) Lab, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India.",
-        "Department of Mechanical Engineering, Birla Institute of Technology and Science (BITS) Pilani, Hyderabad, India."
-      ],
-      "doi": "10.1080/14737159.2026.2741059",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802333/"
-    },
-    {
-      "pmid": "42801943",
-      "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
-      "abstract": "Esophageal cancer is increasingly understood as a malignancy shaped not only by local histopathologic change but also by dynamic intercellular communication within the tumor ecosystem. Exosomes and related small extracellular vesicles are secreted by tumor, stromal, endothelial, and immune cells and carry nucleic acids, proteins, lipids, and metabolites that may contribute to tumor growth, invasion, immune escape, metastatic niche formation, and treatment resistance. Their molecular cargo may capture tumor-associated biological changes before overt radiologic or histopathologic progression in selected settings; however, their clinical utility remains constrained by inconsistent isolation methods, heterogeneous cargo profiles, limited prospective validation, and insufficient standardization. This review critically synthesizes current evidence on exosome-mediated communication in esophageal cancer, with emphasis on mechanistic signaling, liquid biopsy, treatment monitoring, and engineered therapeutic delivery. Current data suggest that exosome-associated miRNAs, lncRNAs, circRNAs, proteins, and immune-regulatory molecules are promising candidate biomarkers, but they should currently be regarded as complementary rather than superior to endoscopy, imaging, ctDNA, circulating tumor cells, and clinicopathologic assessment. Engineered exosomes show preclinical promise as delivery vehicles for nucleic acids, immunomodulators, and chemotherapeutics, although their clinical translation in esophageal cancer remains limited by manufacturing reproducibility, biodistribution, safety, dose control, and regulatory requirements. Overall, exosome-based strategies may become part of precision oncology for esophageal cancer only if supported by standardized extracellular-vesicle methodology, prospective multicenter validation, and evidence that exosome-informed decisions improve patient outcomes. CORE TIPS: Emerging evidence suggests that exosomes participate in multiple stages of esophageal cancer biology, including local invasion, immune modulation, lymphatic dissemination, treatment resistance, and candidate biomarker development. Their molecular cargo may provide dynamic biological information before conventional clinical progression becomes apparent in selected studies, but their screening and monitoring value requires prospective head-to-head validation against endoscopy, imaging, ctDNA, circulating tumor cells, and tissue-based biomarkers. Engineered exosomes represent a promising preclinical delivery platform; however, clinical translation depends on standardized isolation and characterization, cargo normalization, batch-to-batch reproducibility, scalable production, and regulatory-quality control. This review therefore emphasizes both translational opportunities and current evidence limitations.",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Gastrointestinal Surgery, Jingmen People's Hospital, Jingmen 448000, China; Peking University, Peking, China; China Three Gorges University, Yichang 443002, Hubei, China. Electronic address: dushenglin2026@163.com.",
-        "Department of Gastrointestinal Surgery, Jingmen People's Hospital, Jingmen 448000, China."
-      ],
-      "doi": "10.1016/j.cca.2026.122855",
-      "date": "2026-09-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801943/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42806865",
+      "date": "2026-09-29",
+      "title": "AARS2-SIRT5-Driven DLD K445 Lactylation Promotes Cuproptosis Resistance in Glioblastoma Stem Cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806865/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42806865。",
+      "report": "Therapy-resistant glioblastoma stem cells (GSCs) drive tumor progression and recurrence in glioblastoma (GBM). Cuproptosis is a copper-dependent form of regulated cell death triggered by aggregation of lipoylated mitochondrial proteins, but the mechanisms unde...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42805959",
+      "date": "2026-09-29",
+      "title": "Polymeric alpha-1 antitrypsin perturbs Paneth cell proteostasis and exacerbates intestinal inflammation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805959/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42805959。",
+      "report": "Alpha-1 antitrypsin (AAT) is a serine protease inhibitor that protects tissue from neutrophil elastase and other proteases, particularly in the lung. Mutations in SERPINA1, including the Z mutation, lead to AAT deficiency (AATD), characterized by reduced circu...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42805518",
       "date": "2026-09-28",
@@ -540,154 +595,6 @@
       "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42805518。",
       "report": "Advanced glycation end-products (AGEs) accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the contribution of individual AGE species remains poorly defined. We focused on Nε-(carboxymethyl)lysine (CML), a well-characterise...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42805486",
-      "date": "2026-09-28",
-      "title": "Molecular mechanisms of lipid sensing in human cholecystokinin-secreting enteroendocrine cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805486/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular metabolism，PMID 为 42805486。",
-      "report": "Cholecystokinin (CCK) has been implicated in coordinating lipid digestion and satiety. However, the molecular mechanisms underlying nutrient-dependent CCK-release from human I-cells are not well understood, at least in part due to the cells' scattered distribu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42805310",
-      "date": "2026-09-28",
-      "title": "Autosomal recessive HOXA3 deficiency causes congenital athymia and laryngeal malformation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42805310/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of allergy and clinical immunology，PMID 为 42805310。",
-      "report": "Approximately 10% of patients with Severe Combined Immunodeficiency (SCID) phenotype lack a known genetic cause. In particular, the molecular basis of thymic defects is poorly understood. Homeobox (HOX) genes encode conserved transcription factors that control...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804753",
-      "date": "2026-09-28",
-      "title": "A Paired Tumor Organoid-Stroma Biobank Reveals PLAU⁺ Fibroblasts as Drivers of Chemoresistance in Lung Adenocarcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804753/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42804753。",
-      "report": "Chemotherapy is a standard treatment for lung adenocarcinoma (LUAD), yet the efficacy is often limited, highlighting the need to elucidate and the underlying mechanisms of chemoresistance. Given the important role of the tumor microenvironment in LUAD progress...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804731",
-      "date": "2026-09-28",
-      "title": "Ferret Glandular Myoepithelial Cells Are Multipotent Airway Progenitors with a Secretory Lineage Bias.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804731/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42804731。",
-      "report": "Airway submucosal glands (SMGs) play a key role in pulmonary defense by producing mucus and antimicrobial secretions; their dysfunction underlies diseases such as cystic fibrosis (CF) and chronic obstructive pulmonary disease. Murine studies have identified tr...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42804568",
-      "date": "2026-09-28",
-      "title": "Modeling Heart Failure With Preserved Ejection Fraction Using Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804568/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Circulation，PMID 为 42804568。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -795,6 +702,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42806515",
+      "date": "2026-09-28",
+      "title": "Extracellular vesicles as biomarkers and therapeutic nanocarriers in cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806515/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chinese medical journal，PMID 为 42806515。",
+      "report": "Extracellular vesicles (EVs), including exosomes, microvesicles, and apoptotic bodies, are lipid bilayer-bound nanoparticles secreted by various cell types. EVs mediate intercellular communication by selectively transporting bioactive molecules including prote...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42803873",
       "date": "2026-09-28",
       "title": "Applications of circulating tumor DNA in unresectable and advanced non-small cell lung cancer immunotherapy: from stratification to therapeutic guidance.",
@@ -888,70 +829,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42802333",
-      "date": "2026-09-27",
-      "title": "Microfluidic approaches to next- generation sequencing library preparation: innovations, clinical integration and point-of-care settings.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802333/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of molecular diagnostics，PMID 为 42802333。",
-      "report": "Next-generation sequencing (NGS) has revolutionized genomics by enabling high-throughput, cost-effective analysis of nucleic acids for both research and clinical applications. Library preparation remains a bottleneck in sequencing due to high reagent use, labo...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42801943",
-      "date": "2026-09-27",
-      "title": "Exosomal signaling in esophageal cancer: mechanisms, detection, and therapeutic innovations.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801943/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42801943。",
-      "report": "Esophageal cancer is increasingly understood as a malignancy shaped not only by local histopathologic change but also by dynamic intercellular communication within the tumor ecosystem. Exosomes and related small extracellular vesicles are secreted by tumor, st...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42805095",
       "date": "2026-09-26",
       "title": "AI-driven drug repurposing: Methods, platforms, and translational applications.",
@@ -989,6 +866,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42806326",
+      "date": "2026-09-25",
+      "title": "3D bioprinted human vascular organoid sheets promote functional ischemic repair and exhibit adaptive in vivo remodeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 BMC medicine，PMID 为 42806326。",
+      "report": "Ischemic vascular diseases remain a major clinical challenge, creating a need for engineered vascular tissues that can establish functional vascular networks and promote durable tissue repair. Conventional vascular organoids offer limited control over cellular...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42804856",
       "date": "2026-09-25",
       "title": "Patient willingness to de-escalate adjuvant therapy based on predictive biomarker results in stage IIB-IIID melanoma: A cross-sectional survey.",
@@ -1014,6 +921,36 @@
       "fact": "PubMed 记录显示该文献收录于 European journal of cancer (Oxford, England : 1990)，PMID 为 42804856。",
       "report": "Predictive biomarkers such as circulating tumour DNA (ctDNA) and gene expression profiling (GEP) may guide adjuvant melanoma therapy de-escalation by identifying low-recurrence-risk patients. However, their implementation depends on patient willingness to act...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42806046",
+      "date": "2026-09-23",
+      "title": "CPT1A-mediated IDO1 succinylation shapes EGFRvIII-driven resistance to tumor electric field therapy in glioblastoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806046/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42806046。",
+      "report": "Tumor Electric Field Therapy (TEFT) disrupts mitosis in glioblastoma (GBM), but responses vary markedly among patients. In a retrospective cohort of TEFT-treated GBM, EGFR variant III (EGFRvIII) alteration is associated with shorter progression-free survival,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1106,6 +1043,66 @@
       "fact": "PubMed 记录显示该文献收录于 ALTEX，PMID 为 42758091。",
       "report": "Environmental exposures contribute substantially to global morbidity and mortality, with their biological effects shaped by factors such as dose, exposure duration, life-stage timing, and cumulative or sequential exposure patterns. With rapid advances in AI ba...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42806967",
+      "date": "2026-09-14",
+      "title": "Tumor-cell PD-L1 expression, mismatch repair status, and survival outcomes in colorectal carcinoma: a retrospective Pakistani cohort study.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806967/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42806967。",
+      "report": "Tumor-cell programmed death-ligand 1 (PD-L1) expression has been investigated as a biomarker for colorectal carcinoma (CRC), but the reported positivity rates vary by antibody clone, scoring method, and threshold. Tumor-cell PD-L1 is not a validated companion...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42806331",
+      "date": "2026-09-10",
+      "title": "Avobenzone induces intestinal injury by targeting ATG14 and impairing mitophagy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42806331/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42806331。",
+      "report": "Avobenzone (Avo) is a widely used ultraviolet filter in sunscreens and facial skincare products. In addition to dermal exposure, chronic oral intake may also occur through daily-use products. However, the potential intestinal toxicity of Avo and its underlying...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

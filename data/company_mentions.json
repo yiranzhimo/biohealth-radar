@@ -4,83 +4,140 @@
   "asOfDate": "2026-09-29",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7cf493b56701a211",
-      "observedName": "Sellas Life Sciences Group",
-      "normalizedName": "sellas life sciences group",
+      "id": "mention-clinicaltrials-485f221a984cbf20",
+      "observedName": "London School of Hygiene and Tropical Medicine",
+      "normalizedName": "london school of hygiene and tropical medicine",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01265433",
-      "sourceDate": "2024-10-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01265433",
+      "sourceRecordId": "NCT03431597",
+      "sourceDate": "2019-01-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03431597",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Galinpepimut-S (WT-1 Analog Peptide) Vaccine in Malignant Pleural Mesothelioma After Combined Modality Therapy"
+      "contextTitle": "Effectiveness of a Micronutrient Supplement to Lower Plasma Homocysteine MDEG2 Pilot Supplementation Trial"
     },
     {
-      "id": "mention-clinicaltrials-95dc05bc2cd8ead8",
-      "observedName": "Replimune, Inc.",
-      "normalizedName": "replimune",
+      "id": "mention-clinicaltrials-76a7de42b86a9864",
+      "observedName": "Alzheon Inc.",
+      "normalizedName": "alzheon",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04735978",
-      "sourceDate": "2026-02-27",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04735978",
+      "sourceRecordId": "NCT04693520",
+      "sourceDate": "2025-12-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04693520",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Biomarker Effects of ALZ-801 in APOE4 Carriers With Early Alzheimer's Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-baba7727cf5b15c9",
+      "observedName": "Innovis LLC",
+      "normalizedName": "innovis",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06294886",
+      "sourceDate": "2024-03-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Diagnostics",
         "Oncology",
+        "Precision Medicine",
         "Precision Oncology",
-        "Recruiting",
         "临床试验",
-        "肿瘤"
+        "精准医疗",
+        "肿瘤",
+        "诊断"
       ],
       "activitySignals": [
-        "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of RP3 Monotherapy and RP3 in Combination With Nivolumab in Patients With Solid Tumours"
+      "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
     },
     {
-      "id": "mention-clinicaltrials-d817e7e41160caa3",
-      "observedName": "patientMpower Ltd.",
-      "normalizedName": "patientmpower",
+      "id": "mention-clinicaltrials-f0f9a6fd350dda5a",
+      "observedName": "Hangzhou Newhorizon Health Technology Co., Ltd.",
+      "normalizedName": "hangzhou newhorizon health technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07844915",
-      "sourceDate": "2026-09-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07844915",
+      "sourceRecordId": "NCT05613283",
+      "sourceDate": "2023-12-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
         "Recruiting",
-        "临床决策支持",
+        "中国",
         "临床试验",
-        "医疗 AI"
+        "精准医疗",
+        "肿瘤",
+        "诊断"
       ],
       "activitySignals": [
-        "active_trial",
-        "trial_intervention"
+        "active_trial"
       ],
-      "contextTitle": "Artificial Intelligence Enhanced Remote Monitoring in Interstitial Lung Disease"
+      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+    },
+    {
+      "id": "mention-clinicaltrials-fa41e599881c89f4",
+      "observedName": "BeijingNewBiorayTechnologyCo.,Ltd.",
+      "normalizedName": "beijingnewbioraytechnologyco",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05613283",
+      "sourceDate": "2023-12-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial"
+      ],
+      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
