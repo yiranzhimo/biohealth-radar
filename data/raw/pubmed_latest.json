@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-29T22:20:30.619063+00:00",
+  "capturedAt": "2026-09-30T05:39:10.290700+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-09-29",
-    "end": "2026-09-29"
+    "start": "2025-09-30",
+    "end": "2026-09-30"
   },
   "pmids": [
+    "42810594",
+    "42810358",
+    "42810107",
+    "42809120",
     "42808695",
     "42808604",
-    "42808469",
-    "42808136",
-    "42807776",
-    "42807344",
     "42804716",
     "42782810",
     "42775042",
@@ -32,14 +32,93 @@
     "42805095",
     "42803993",
     "42803306",
+    "42810021",
+    "42809935",
     "42807960",
+    "42807776",
     "42807649",
-    "42807637",
-    "42807203",
-    "42807154",
-    "42808638"
+    "42807637"
   ],
   "records": [
+    {
+      "pmid": "42810594",
+      "title": "CODNet models enable real-time assessment of colorectal cancer organoids and uncover the integral role of LTBP2 in the diffuse organoid subtype.",
+      "abstract": "To achieve precise classification of colorectal cancer (CRC) at the patient-derived organoids (PDOs) level, we constructed a real-time CRC PDO assessment system through artificial intelligence (AI) assisted model using an optimized object detection algorithm. We constructed the CODNetV1 model for the identification, feature extraction and drug sensitivity detection of CRC PDOs (mAP of 88.05%). And we optimized CODNetV2 to classify four morphological subtypes of CRC PDOs (mAP of 85.65%). CODNetV1 and CODNetV2 achieved real-time, automated, multi-parameter detection of CRC PDOs, directly facilitating the detection of organoid drug sensitivity and subtype classification. By Integrating analyses of the RNAseq and scRNAseq of different subtype CRC PDOs, we found that LTBP2 was highly expressed in cancer-associated fibroblasts (CAFs) of Diffuse CRC PDOs. As a key regulatory factor, LTBP2 modulates intercellular communication between tumor cells and CAFs. On one hand, CAFs-derived LTBP2 enhances the invasive capacity of CRC PDOs by activating the integrin a6ß4-AKT signaling pathway, and simultaneously increases CXCL11 expression. On the other hand, diffuse CRC PDOs-derived CXCL11 activates the YAP/TEAD2-LTBP2 pathway in CAFs, thus forms a feedback activation loop centered on LTBP2. Collectively, molecular characterization of CRC PDO subtypes at the organoid level identified the important clinical value of LTBP2 in the diagnosis and targeted therapy of highly invasive CRC.",
+      "journal": "Biochimica et biophysica acta. Molecular cell research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
+        "Department of Breast Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China. Electronic address: chengmengmg@163.com.",
+        "Division of Gastroenterology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, 430022, Wuhan, Hubei, China. Electronic address: masterlxy@alumni.sjtu.edu.cn."
+      ],
+      "doi": "10.1016/j.bbamcr.2026.120228",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810594/"
+    },
+    {
+      "pmid": "42810358",
+      "title": "Translational Insights and Clinical Relevance of Glioblastoma 3D In Vitro Models.",
+      "abstract": "Glioblastoma (GBM) remains one of the most aggressive and treatment-resistant brain tumors, highlighting the urgent need for experimental models that can faithfully recapitulate its complex biology. In vitro models are essential tools for investigating GBM biology and for preclinical drug development. Conventional two-dimensional cultures fail to reproduce the three-dimensional organization, cellular heterogeneity, and micro-environmental interactions that influence tumor growth and therapeutic response.&#xD;In vitro GBM models serve as the first step in the translational pipeline, enabling drug screening, mechanistic studies, biomarker discovery, and personalized medicine approaches. Despite their limitations, including a lack of full microenvironmental context and blood-brain barrier (BBB) considerations, these models provide critical insights that inform preclinical animal studies and early-phase clinical trials. This review critically describes the variety of three-dimensional (3D) in vitro models that have been developed, including spheroids, organoids, organ-on-chip systems and describes advantages and drawbacks of these platforms for investigating tumor progression, cell communication, and responses to therapies. Indeed, understanding the strengths and limitations of GBM in vitro models is essential for designing translational studies that can bridge laboratory research with clinical applications. Future advances, including the use of sophisticated bioprinting approaches to generate spatially organized, multilayered microenvironments incorporating diverse cell populations in complex co-culture systems, are anticipated to markedly improve predictive power and therapeutic outcomes in individualized patient care&#xD.",
+      "journal": "Biofabrication",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Baronissi, SA, Fisciano, Please Select, 84084, Italy.",
+        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Fisciano, SA, 84084, Italy.",
+        "Department of Medicine, Surgery and Dentistry, University of Salerno - Baronissi Campus, Via S. Allende, Baronissi, Please Select, 84081, Italy.",
+        "Division of Oncology, Department of Medical and Surgical Sciences for Children & Adults,, Università degli Studi di Modena e Reggio Emilia, via del Pozzo, 71, Modena, Emilia-Romagna, 41121, Italy.",
+        "Department of Medical and Surgical Sciences for Children & Adults, Università degli Studi di Modena e Reggio Emilia, Via del Pozzo, 71, Modena, Emilia-Romagna, 41121, Italy.",
+        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Fisciano, Please Select, 84084, Italy.",
+        "Department of Chemistry and Biology \"A. Zambelli\", University of Salerno, Via Giovanni Paolo II, Fisciano SA, Fisciano, 84084, Italy.",
+        "Dept. of Medicine, Surgery and Dentistry, Universita degli Studi di Salerno Dipartimento di Medicina e Chirurgia, Via S. Allende, \"Scuola Medica Salernitana\", Baronissi Salerno, Italy, Baronissi, 101, 84081, Italy."
+      ],
+      "doi": "10.1088/1758-5090/aeadd0",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810358/"
+    },
+    {
+      "pmid": "42810107",
+      "title": "Post-translational acylation of proteins in colorectal cancer.",
+      "abstract": "Accumulating preclinical evidence indicates that protein acylation, a functionally diverse class of post-translational modifications, is implicated in the regulation of protein stability, enzymatic activity, subcellular localization, molecular interactions, and gene transcription. In colorectal cancer (CRC), this modification family has been linked to proliferation, invasion, metastasis, metabolic reprogramming, therapeutic resistance, and immune escape. This review critically summarizes recent advances in five major acylation types associated with CRC: crotonylation, succinylation, lactylation, acetylation, and palmitoylation. We distinguish histone-mediated transcriptional regulation from the direct functional effects of non-histone acylation, and evaluate the mechanistic evidence linking specific modification sites and regulatory enzymes to CRC phenotypes. We also discuss crosstalk between acylation and other post-translational modifications, current detection strategies, and the proposed translational potential of acylation-associated molecules as biomarkers or therapeutic targets. Most available supporting evidence is derived from cell lines and animal models, whereas validation in patient-derived organoids, independent clinical cohorts, and prospective studies remains incompletely characterized. Establishing causality and defining the clinical relevance of protein acylation in CRC will require further studies integrating site-specific mutagenesis, enzyme perturbation, orthogonal detection methods, and physiologically relevant models. Collectively, the reviewed body of work frames protein acylation as a biologically relevant regulatory axis in CRC, while underscoring that additional rigorous investigation is needed to realize its translational potential.",
+      "journal": "Cancer treatment and research communications",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oncology, Chifeng City Hospital, Chifeng, 024000, China; Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China.",
+        "Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China.",
+        "Department of Oncology, Chifeng City Hospital, Chifeng, 024000, China. Electronic address: cfzhangminghui@163.com.",
+        "Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China. Electronic address: tangjing@hrbmu.edu.cn."
+      ],
+      "doi": "10.1016/j.ctarc.2026.101457",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810107/"
+    },
+    {
+      "pmid": "42809120",
+      "title": "A patient-derived organoid platform for predominantly posterior fossa adult ependymoma: histopathologic preservation, culture-associated transcriptomic remodeling, and in vivo tumorigenicity.",
+      "abstract": "Well-characterized patient-derived models of adult ependymoma (EPN) remain limited. We established a patient-derived organoid (PDO) platform from adult EPN and evaluated its histopathologic and immunophenotypic characteristics, transcriptomic relationship to parental tumors, and in vivo tumorigenicity. Fresh surgical specimens from 22 adult patients with EPN were processed for PDO establishment. Tumor-PDO fidelity was assessed by histology and immunofluorescence. Three matched tumor-PDO pairs underwent RNA sequencing followed by paired differential-expression, gene-set enrichment, microenvironmental signature, and ESTIMATE analyses. Selected PDO models were further evaluated by subcutaneous and intracranial xenografting. PDOs were successfully established from 20 of 22 specimens (90.9%). Established PDOs broadly retained parental tumor morphology and expression of major ependymoma-associated and neural/progenitor markers. Selected morphologic and immunophenotypic features remained detectable during prolonged culture. Transcriptomic profiling of three matched tumor-PDO pairs demonstrated high global expression similarity (Pearson r = 0.84-0.88) together with substantial culture-associated remodeling. Endothelial signatures and ESTIMATE-derived stromal scores were reduced in all three PDOs, whereas other immune and stromal signatures showed patient-specific changes. Paired transcriptomic analysis further identified enrichment of ribosome/translation and oxidative-phosphorylation programs in PDOs, accompanied by reduced cilia- and axoneme-associated programs. Selected PDO-derived models demonstrated tumorigenic capacity in subcutaneous and intracranial settings. Adult EPN can be propagated efficiently as PDOs that retain selected tumor-associated features while undergoing measurable transcriptional and microenvironment-associated adaptation to ex vivo culture. Selected models also retained tumorigenic capacity in vivo. These models provide a complementary experimental platform for studying adult EPN biology.",
+      "journal": "Journal of neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China.",
+        "Hepato-Pancreato-Biliary Center, Beijing Tsinghua Changgung Hospital, Tsinghua University, No. 168 Litang Road, Changping District, Beijing, 102218, China.",
+        "Beijing Institute of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China. chenfeng406@sina.com.",
+        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China. liwenbin@ccmu.edu.cn."
+      ],
+      "doi": "10.1007/s11060-026-05814-x",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809120/"
+    },
     {
       "pmid": "42808695",
       "title": "Single-cell spatial mapping reveals reproducible cell type organization and spatially dependent gene expression in gastruloids.",
@@ -75,84 +154,6 @@
       "doi": "10.1002/advs.202523506",
       "date": "2026-09-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
-    },
-    {
-      "pmid": "42808469",
-      "title": "Expanding Genetic Code to Generate Human Brain Organoids with Both Vasculature and Microglia-Like Cells.",
-      "abstract": "Brain organoids offer an invaluable model system for studying human brain development and disease. However, the establishment of high-fidelity brain organoids with multiple cell lineages, including vasculature and immune cells, remains a huge challenge. Here, we present a new strategy to generate human cerebral organoids with vasculature and microglia-like cells using genetic code expansion technology via site-specific protein engineering. The strategy integrates orthogonal genetic translation machinery in hPSCs, enabling temporal control of ETV2 expression and endothelial differentiation in hPSC-derived cerebral organoids. The vascularized human cerebral organoids (vhCOs) exhibit coordinated development of multiple cell lineages and blood-brain barrier features, and form a perfusable vascular network after being transplanted into immune-deficient mice. Single-nucleus RNA sequencing reveals enhanced neurovascular interactions, multi-brain-regional identities, diverse neuronal subtypes, and specialized endothelial subclusters in vhCOs, closely resembling the human fetal brain. Strikingly, we identify enriched microglia-like cells comprising three distinct subtypes in vhCOs, which contribute to microglia-vascular interactions and synergistically modulate vascular development. Upon Zika virus infection, vhCOs show neurovascular dysfunction and impaired microglia development, offering new insights into viral-induced neurodevelopmental disorders. This study offers a unique platform for producing more valuable brain organoids with vasculature and immune components, opening a new avenue to advance organoid research and applications.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Biomedical Engineering, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei, China.",
-        "Suzhou Institute for Advanced Research, University of Science and Technology of China, Suzhou, China.",
-        "School of Life Sciences, Anhui Medical University, Hefei, China.",
-        "Division of Biotechnology, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China.",
-        "University of Chinese Academy of Sciences, Beijing, China."
-      ],
-      "doi": "10.1002/advs.77668",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808469/"
-    },
-    {
-      "pmid": "42808136",
-      "title": "Hydration-Gated Photoinduced Electron Transfer in BODIPY Dyes.",
-      "abstract": "Fluorescent probes based on photoinduced electron transfer (PET) are widely used to image intracellular environments. Here we report donor-acceptor dyads based on the BODIPY chromophore in which PET is selectively activated upon hydration. Replacing fluorine groups at boron with triethylene glycol (TEG) chains confers aqueous solubility and modulates the electronic properties of the boron-coordinated core, suppressing PET in polar organic solvents while enabling efficient charge separation in water. This switching arises from hydrogen bonding at the alkoxy oxygens, which strengthens the effective acceptor character of the BODIPY, supported by electrochemistry, transient absorption spectroscopy, and DFT calculations. The mechanism is general across dyads incorporating various aromatic donors and BODIPY substitution patterns. The lead compound, 5-TEG, displays hydration-dependent fluorescence lifetimes spanning a 6 ns range. In fluorescence lifetime imaging microscopy (FLIM) of living cells, tumor spheroids, and intestinal organoids, 5-TEG provides high brightness and lifetime contrast, enabling segmentation of subcellular compartments and reporting on microenvironmental differences. These results establish hydration-gated PET as a tunable photophysical mechanism for designing fluorescence probes with lifetime-encoded readouts in complex biological environments.",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Chemical and Biopharmaceutical Sciences, Technological University Dublin, Dublin, Ireland.",
-        "Tissue Engineering and Biomaterials Group, Department of Human Structure and Repair, Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium.",
-        "CNRS, ENS De Lyon, Lyon, France.",
-        "LENS (European Laboratory for Non-Linear Spectroscopy), Firenze, Italy.",
-        "Comprehensive Cancer Centre, School of Cancer and Pharmaceutical Sciences, King's College, London, UK."
-      ],
-      "doi": "10.1002/anie.3726851",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808136/"
-    },
-    {
-      "pmid": "42807776",
-      "title": "Urine-derived induced pluripotent stem cells for non-invasive diagnosis of bladder cancer.",
-      "abstract": "Bladder cancer (BLCA) remains one of the most prevalent and costly malignancies worldwide, largely owing to its high recurrence rate and the invasive nature of conventional surveillance modalities. Induced pluripotent stem cell (iPSC) technology offers a new framework for disease modeling and, potentially, precision diagnostics. Urine provides a non-invasive, renewable source of exfoliated urothelial and renal epithelial cells amenable to direct reprogramming. Here, we review the biological rationale, reprogramming methodology, and diagnostic potential of urine-derived iPSCs (UDiPSCs) in the context of BLCA detection and monitoring. We further discuss the genomic fidelity of UDiPSCs, the extent to which they may retain patient-relevant oncogenic features, their integration with multi-omics platforms, and the translational challenges that must be resolved before clinical deployment. Because reprogramming resets the somatic epigenome and transcriptome, we propose a tiered strategy in which methylation is assessed in parental urinary cells, genomic variants in reprogrammed clones, and transcriptional phenotypes in differentiated derivatives. Compared with urinary tumor DNA methylation panels and urine-derived tumor organoids, which currently exceed cell-based reprogramming approaches in accuracy, cost-effectiveness, and turnaround, UDiPSCs offer a distinct niche: interrogating rare, non-tumorigenic, field-altered urothelial cells that are diluted in bulk urinary DNA and do not form organoids. Collectively, UDiPSC-based platforms provide a plausible route toward non-invasive, personalized BLCA biomarkers, although clinical utility remains to be established through prospective validation.",
-      "journal": "Journal of Cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, 430071, China.",
-        "Human Genetic Resources Preservation Center, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China.",
-        "Laboratory of Precision Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, 430071, China.",
-        "Department of Urology, Hubei Key Laboratory of Urological Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
-        "Brain Glioma Center & Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China.",
-        "Center for Quantitative Biology, School of Life Sciences, Peking University, Beijing, 100871, China.",
-        "Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China."
-      ],
-      "doi": "10.7150/jca.138160",
-      "date": "2026-09-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807776/"
-    },
-    {
-      "pmid": "42807344",
-      "title": "Mismatched and underrepresented: bat-virus diversity and phylogeographic bias in experimental infection studies.",
-      "abstract": "Despite growing interest in bat-virus interactions, experimental infection studies (EIS) remain taxonomically and geographically restricted, limiting inference about bat immunology and zoonotic risk. We performed a systematic literature search (Jan 1900-Jan 2025) and manually curated peer-reviewed primary studies of viral experimental infections in live bats and bat-derived cell lines (BdCL). From 545 candidate records we retained 127 papers (83 live-bat, 44 BdCL), comprising 315 unique bat-virus trials. We categorized host taxonomy, viral family (ICTV), and biogeographical congruence, to quantify temporal trends, taxonomic coverage, and host-virus pairing patterns. Results show stark underrepresentation: only 45 of ~1,500 bat species (3.2%) and 7 of 21 bat families appear in EIS. Pteropodidae, Vespertilionidae, Phyllostomidae, and Molossidae dominate studies, with Rousettus aegyptiacus, Tadarida brasiliensis, and Eptesicus fuscus most frequently trialed. Viral focus is uneven-Rhabdoviridae and Orthomyxoviridae (notably rabies [RABV] and influenza A [IAV]) account for many trials, and filoviruses are overrepresented in Rousettus sp. studies. By 2024, over half (57.8%) of trials used BdCL, and the proportion of live-bat experiments has declined in recent decades. Geographic coverage was uneven: high representation occurred in Arctic-Siberian, Eurasian, and North American regions, whereas Amazonian, Indo-Malayan, Australasian, Papua-Melanesian, and Madagascan regions were poorly represented. These biases constrain inference about host competence, immune diversity, and coevolutionary dynamics and risk overgeneralizing results across Chiroptera. These skews create a \"mix-and-match\" problem in which experimental pairings often do not reflect co-evolved host-virus relationships, limiting inference about host competence, immune tolerance, and zoonotic risk. To improve ecological relevance and generalizability, we recommend expanding taxonomic and geographic sampling, situating more work within virus native ranges, and integrating complementary in vitro and in vivo approaches alongside investments in regional biosafety infrastructure and standardized protocols. Addressing these critical gaps would better resolve the ecological and evolutionary determinants of susceptibility and tolerance in bats, improving mechanistic inference relevant to zoonotic emergence and conservation.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biology, Bucknell University, Lewisburg, PA, United States.",
-        "National Museum of Natural History, Smithsonian Institution, Washington, DC, United States.",
-        "Universidad Autónoma Metropolitana-Lerma, Lerma, Mexico."
-      ],
-      "doi": "10.3389/fimmu.2026.1901431",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807344/"
     },
     {
       "pmid": "42804716",
@@ -369,6 +370,45 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803306/"
     },
     {
+      "pmid": "42810021",
+      "title": "Prognostic value of circulating tumor DNA in treated gastric cancer patients: A systematic review and meta-analysis.",
+      "abstract": "Multiple studies have demonstrated that circulating tumor DNA (ctDNA), a component of liquid biopsy, exhibits strong performance in predicting prognosis across various types of tumors. However, its role in predicting prognosis among gastric cancer patients undergoing treatment remains inconclusive. Therefore, this study aims to investigate the association between ctDNA and prognosis in gastric cancer patients receiving treatment through a meta-analysis. A systematic literature search was conducted in PubMed, Embase, Web of Science, and the Cochrane Library databases, with a search period ranging from the inception of each database to December 7, 2025. Relevant studies meeting the inclusion criteria were carefully selected and included. The primary outcome was the association between ctDNA status and overall survival (OS) in gastric cancer patients receiving treatment. Secondary outcomes included progression-free survival (PFS) and recurrence-free survival (RFS). Subgroup analyses were performed to assess the influence of factors such as ctDNA marker selection methods, ctDNA detection techniques, geographic region, and treatment modalities. A total of 17 primary studies involving 817 patients were included. The results indicated that the ctDNA status in treated gastric cancer patients was significantly associated with overall survival (HR = 3.95 [95% CI: 2.77-5.62]), progression-free survival (HR = 2.53 [95% CI: 1.84-3.47]), and recurrence-free survival (HR = 6.05 [95%CI:3.55-10.3]). Subgroup analyses further demonstrated that ctDNA positivity was associated with poorer overall survival outcomes. ctDNA can serve as an effective prognostic biomarker for gastric cancer patients undergoing treatment, with broad application prospects in future clinical practice.",
+      "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou, PR China.",
+        "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, PR China.",
+        "Department of Surgical Oncology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou, PR China.",
+        "Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou University, Lanzhou, PR China; Research Center for Medical Device Regulatory Science, Lanzhou University, Lanzhou, PR China; Industry Center for Evidence-Based Research and Evaluation Standards in Medical Devices, Lanzhou, Gansu Province, PR China.",
+        "Department of Surgical Oncology, The Second Hospital & Clinical Medical School, Lanzhou University, Lanzhou, PR China; Key Laboratory of the Environmental Oncology of Gansu Province, The Second Hospital & Clinical Medical School, Lanzhou University, PR China. Electronic address: Ldyy_huangzp@lzu.edu.cn."
+      ],
+      "doi": "10.1016/j.ejso.2026.112171",
+      "date": "2026-09-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810021/"
+    },
+    {
+      "pmid": "42809935",
+      "title": "Distinct genomic landscape of non-small cell lung cancer in Bangladeshi patients: Implications for precision oncology in a resource-limited setting.",
+      "abstract": "Non-small cell lung cancer (NSCLC) is a genetically heterogeneous disease with clinically actionable mutations. Analysis of circulating tumor DNA (ctDNA) in plasma using next-generation sequencing (NGS) provides a minimally invasive method for profiling tumor-associated genomic alterations. However, the ctDNA mutational landscapes of Bangladeshi NSCLC patients remain scarce. We enrolled 106 patients with NSCLC and performed targeted NGS of ctDNA, covering a panel of key genes, including EGFR, TP53, KRAS, ERBB2, BRAF, MET, NRAS, PIK3CA, ALK,MAP2K1, and ROS1. Mutations were detected in 85.8% of patients, with TP53, EGFR, and KRAS being the most frequently altered genes. Single gene mutations predominated in females, whereas males exhibited higher rates of multiple concurrent mutations, and KRAS mutations were significantly associated with males. Pathogenic variant c.2155G>A of EGFR was most frequent in the 50-70-year group. The TP53 pathogenic variant c.580G>A was found in 14 patients, and 11 patients showed pathogenic variant c.35G>A in KRAS. The highest number of pathogenic mutations was found in EGFR, followed by TP53, KRAS, ERBB2, BRAF, NRAS, MET, and PIK3CA. No mutation was found in ROS1. Prevalence of EGFR mutations aligns with that in other Asian populations, while frequencies of TP53 and KRAS mutations are consistent with global datasets. The high prevalence of EGFR and TP53 alterations underscores the importance of molecular testing to guide targeted therapy. This is the first comprehensive ctDNA-based genomic landscape for NSCLC in Bangladesh and supports the integration of liquid biopsy into precision oncology strategies in resource-limited settings.",
+      "journal": "Translational oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Asian University for Women, Chattogram, 4000, Bangladesh; The PLACEBiO Lab, Department of Biochemistry and Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh; Department of Biochemistry & Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh. Electronic address: al.amin@auw.edu.",
+        "The Lab Quest AD Limited, North Badda, Dhaka, Bangladesh; The PLACEBiO Lab, Department of Biochemistry and Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh.",
+        "Department of Surgery, Chittagong Medical College Hospital, Chattogram, Bangladesh.",
+        "Department of Pharmacology and Therapeutics, McGill University, Montreal, QC, H3A 0G4, Canada; Department of Biochemistry & Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh.",
+        "The PLACEBiO Lab, Department of Biochemistry and Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh; Department of Biochemistry & Molecular Biology, University of Chittagong, Chattogram, 4331, Bangladesh. Electronic address: parialbmb@cu.ac.bd."
+      ],
+      "doi": "10.1016/j.tranon.2026.103051",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809935/"
+    },
+    {
       "pmid": "42807960",
       "title": "Knowledge Mapping of Human Genetic Variation in Multiomics Biomarker Translation: A Bibliometric Analysis.",
       "abstract": "Human genetic variation and multiomics biomarker translation has emerged as a rapidly developing research field at the intersection of molecular medicine, bioinformatics, and clinical decision-making. This study used bibliometric methods to map its global structure, intellectual base, and thematic evolution. The eligibility framework was deliberately restricted to studies in which inherited or somatic human genetic variation was substantively linked to omics-integrated biomarker discovery, functional interpretation, clinical stratification, or therapeutic response; generic omics studies without a variation-linked translational endpoint were excluded. Publications indexed in Scopus, Web of Science, and PubMed from 2003 to 2025 were retrieved, screened, converted into Web of Science format, and analyzed using CiteSpace, VOSviewer, and the R package bibliometrix. A total of 673 publications were included. The annual output showed sustained acceleration, indicating a transition from exploratory molecular association studies to a more mature translational framework. Research activity was concentrated in a limited number of countries and institutions, led by the United States, with China contributing substantial output but lower citation impact relative to publication volume. The institutional network was dominated by large academic medical centers, national research systems, and oncology-oriented consortia, reflecting the infrastructural demands of biomarker translation. Journal analysis showed a dual structure in which specialized translational and omics journals accounted for much of the current output, whereas the intellectual foundations remained anchored in high-impact journals in genetics, oncology, and clinical medicine. Keyword and overlay analyses revealed a clear thematic shift from pharmacogenetics and single-marker discovery toward genomics-guided, multiomics-integrated, and clinically actionable biomarker models, with recent emphasis on liquid biopsy, heterogeneity, artificial intelligence, machine learning, and the tumor microenvironment. At the variant level, the major translational bottleneck is increasingly the functional connection between DNA-level variation and downstream RNA, protein, pathway, and clinical phenotypes rather than variant detection alone. The literature is therefore increasingly oriented toward externally validated and computationally interpretable biomarker systems, whereas routine clinical implementation remains constrained by functional validation, assay standardization, prospective evaluation, and regulatory requirements.",
@@ -382,6 +422,28 @@
       "doi": "10.1155/humu/5730260",
       "date": "2026-09-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807960/"
+    },
+    {
+      "pmid": "42807776",
+      "title": "Urine-derived induced pluripotent stem cells for non-invasive diagnosis of bladder cancer.",
+      "abstract": "Bladder cancer (BLCA) remains one of the most prevalent and costly malignancies worldwide, largely owing to its high recurrence rate and the invasive nature of conventional surveillance modalities. Induced pluripotent stem cell (iPSC) technology offers a new framework for disease modeling and, potentially, precision diagnostics. Urine provides a non-invasive, renewable source of exfoliated urothelial and renal epithelial cells amenable to direct reprogramming. Here, we review the biological rationale, reprogramming methodology, and diagnostic potential of urine-derived iPSCs (UDiPSCs) in the context of BLCA detection and monitoring. We further discuss the genomic fidelity of UDiPSCs, the extent to which they may retain patient-relevant oncogenic features, their integration with multi-omics platforms, and the translational challenges that must be resolved before clinical deployment. Because reprogramming resets the somatic epigenome and transcriptome, we propose a tiered strategy in which methylation is assessed in parental urinary cells, genomic variants in reprogrammed clones, and transcriptional phenotypes in differentiated derivatives. Compared with urinary tumor DNA methylation panels and urine-derived tumor organoids, which currently exceed cell-based reprogramming approaches in accuracy, cost-effectiveness, and turnaround, UDiPSCs offer a distinct niche: interrogating rare, non-tumorigenic, field-altered urothelial cells that are diluted in bulk urinary DNA and do not form organoids. Collectively, UDiPSC-based platforms provide a plausible route toward non-invasive, personalized BLCA biomarkers, although clinical utility remains to be established through prospective validation.",
+      "journal": "Journal of Cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biological Repositories, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, 430071, China.",
+        "Human Genetic Resources Preservation Center, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China.",
+        "Laboratory of Precision Medicine, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, 430071, China.",
+        "Department of Urology, Hubei Key Laboratory of Urological Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China.",
+        "Brain Glioma Center & Department of Neurosurgery, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China.",
+        "Center for Quantitative Biology, School of Life Sciences, Peking University, Beijing, 100871, China.",
+        "Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 430071, China."
+      ],
+      "doi": "10.7150/jca.138160",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807776/"
     },
     {
       "pmid": "42807649",
@@ -419,55 +481,149 @@
       "doi": "10.3389/fcell.2026.1878092",
       "date": "2026-09-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807637/"
-    },
-    {
-      "pmid": "42807203",
-      "title": "Circulating tumor DNA in appendiceal malignancies: a comprehensive review of clinical applications and limitations.",
-      "abstract": "Appendiceal cancer is a rare and biologically distinct gastrointestinal malignancy characterized by marked molecular heterogeneity and a strong propensity for peritoneal dissemination. Traditional surveillance modalities, including cross-sectional imaging and serum tumor markers, often demonstrate limited sensitivity for detecting residual or recurrent peritoneal disease, creating a need for more effective biomarkers. Circulating tumor DNA (ctDNA) has emerged as a promising noninvasive tool for genomic profiling, prognostication, and disease monitoring across gastrointestinal (GI) cancers. In this review, we synthesize current evidence regarding the application of ctDNA in appendiceal malignancies. Available studies demonstrate high concordance between plasma ctDNA and tissue-based genomic profiling, while longitudinal ctDNA monitoring shows its potential for risk stratification, recurrence detection, and postoperative surveillance, with some studies suggesting improved performance compared with conventional biomarkers. However, the clinical utility of plasma ctDNA is limited by the unique biology of appendiceal cancer, particularly its tendency toward isolated peritoneal spread and pseudomyxoma peritonei (PMP), both of which are associated with reduced systemic tumor DNA shedding and frequent false negative results. We discuss the biological mechanisms underlying these limitations and highlight peritoneal tumor DNA (ptDNA) as a promising complementary biomarker capable of overcoming the peritoneal-vascular barrier through direct sampling of the local tumor microenvironment. Emerging evidence suggests that ptDNA may improve detection of occult peritoneal disease, enhance molecular characterization, and provide prognostic information beyond that obtainable from plasma-based assays alone. While liquid biopsy technologies hold substantial promise for advancing personalized management of appendiceal cancer, prospective validation studies and standardized assay approaches are needed before widespread clinical implementation.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "University of Virginia School of Medicine, Charlottesville, VA, United States.",
-        "Department of Surgery, University of Virginia Health, Charlottesville, VA, United States."
-      ],
-      "doi": "10.3389/fonc.2026.1935036",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807203/"
-    },
-    {
-      "pmid": "42807154",
-      "title": "ctDNA- and cfDNA-based liquid biopsy in bladder cancer and urothelial carcinoma: bibliometric mapping and cross-database coverage analysis, 2008-2025.",
-      "abstract": "Circulating tumour DNA (ctDNA), cell-free DNA (cfDNA) and urinary tumour DNA are increasingly studied in bladder cancer and urothelial carcinoma. We mapped the development, knowledge structure and clinical emphasis of this ctDNA/cfDNA-centred literature and assessed its coverage across three bibliographic databases. Web of Science Core Collection (WoSCC), Scopus and PubMed/MEDLINE were searched on July 31, 2026, for records published in 2008-2025. Reviewer-expanded strategies included liquid biopsy, ctDNA/cfDNA, molecular residual disease, molecular relapse, tumour-informed assays, urinary DNA, methylation, TERT and FGFR3. WoSCC was the primary mapping database; Scopus and PubMed/MEDLINE were coverage comparators. Python, VOSviewer and CiteSpace were used for descriptive and network analyses. Newly retrieved WoSCC records underwent duplicate independent screening and full third-reviewer quality control. The searches retrieved 1,903 WoSCC, 3,201 Scopus and 230 PubMed/MEDLINE records. After WoSCC deduplication and eligibility assessment, 494 records formed the main set and 698 formed a contextual set. The main set received 17,031 citations (median 19; interquartile range 7-42), and annual output reached 82 records in 2025. Scopus covered 456/494 main records and PubMed/MEDLINE covered 93/494. Among 557 newly assessed records, the reviewers initially agreed on 433 (77.7%; Cohen's kappa, 0.620); all records then underwent third-reviewer full-text quality control. The expanded search identifies a larger DNA-focused literature than the original strategy and confirms unequal database coverage. Thematic clusters and citation bursts trace a shift from early methylation-marker research towards ctDNA-based molecular residual disease assessment and perioperative treatment stratification. Bibliometric prominence describes research activity, not diagnostic accuracy, predictive validity or treatment benefit.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "affiliations": [
-        "Department of Urology, Hangzhou Third People's Hospital, Hangzhou, Zhejiang, China."
-      ],
-      "doi": "10.3389/fonc.2026.1906152",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807154/"
-    },
-    {
-      "pmid": "42808638",
-      "title": "Artificial intelligence in nephrology: recent advances.",
-      "abstract": "Artificial intelligence (AI) is moving rapidly from experimental prediction models toward workflow-integrated tools that can support clinical care, education, research, and operational efficiency. Kidney care is particularly well suited to AI because it is data-rich, longitudinal, and multidisciplinary, incorporating laboratory trajectories, medications, imaging, pathology, dialysis machine data, transplant immunology, wearable sensors, and unstructured clinical notes. Recent advances include electronic health record-based models for acute kidney injury prediction, machine-learning approaches for chronic kidney disease progression and diabetic kidney disease risk stratification, automated measurement of total kidney volume in autosomal dominant polycystic kidney disease, quantitative renal pathology, intradialytic event prediction, transplant allograft risk models, AI-enhanced electrocardiography for electrolyte and hypertension-related applications, and large language models for documentation, summarization, patient education, and clinical decision support. However, high discrimination in retrospective datasets has not consistently translated into improved outcomes after clinical deployment. Evidence from AKI alert trials emphasizes that AI must be coupled to actionable workflows, clinician oversight, calibration, and monitoring for bias, safety, and alert burden. Generative AI offers a compelling opportunity to reduce administrative work and restore clinician time, but hallucination, incomplete guideline concordance, and variable safety remain barriers. The next phase of AI in nephrology should prioritize pragmatic validation, transparent governance, human-AI collaboration, and practical applications that improve patient-centered kidney outcomes rather than technology adoption for its own sake.",
-      "journal": "Polish archives of internal medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [],
-      "doi": "10.20452/pamw.17409",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808638/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42810594",
+      "date": "2026-09-29",
+      "title": "CODNet models enable real-time assessment of colorectal cancer organoids and uncover the integral role of LTBP2 in the diffuse organoid subtype.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810594/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular cell research，PMID 为 42810594。",
+      "report": "To achieve precise classification of colorectal cancer (CRC) at the patient-derived organoids (PDOs) level, we constructed a real-time CRC PDO assessment system through artificial intelligence (AI) assisted model using an optimized object detection algorithm....",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42810358",
+      "date": "2026-09-29",
+      "title": "Translational Insights and Clinical Relevance of Glioblastoma 3D In Vitro Models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810358/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42810358。",
+      "report": "Glioblastoma (GBM) remains one of the most aggressive and treatment-resistant brain tumors, highlighting the urgent need for experimental models that can faithfully recapitulate its complex biology. In vitro models are essential tools for investigating GBM bio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42810107",
+      "date": "2026-09-29",
+      "title": "Post-translational acylation of proteins in colorectal cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810107/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42810107。",
+      "report": "Accumulating preclinical evidence indicates that protein acylation, a functionally diverse class of post-translational modifications, is implicated in the regulation of protein stability, enzymatic activity, subcellular localization, molecular interactions, an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42809120",
+      "date": "2026-09-29",
+      "title": "A patient-derived organoid platform for predominantly posterior fossa adult ependymoma: histopathologic preservation, culture-associated transcriptomic remodeling, and in vivo tumorigenicity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809120/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42809120。",
+      "report": "Well-characterized patient-derived models of adult ependymoma (EPN) remain limited. We established a patient-derived organoid (PDO) platform from adult EPN and evaluated its histopathologic and immunophenotypic characteristics, transcriptomic relationship to p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42808695",
       "date": "2026-09-29",
@@ -529,64 +685,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42808469",
-      "date": "2026-09-29",
-      "title": "Expanding Genetic Code to Generate Human Brain Organoids with Both Vasculature and Microglia-Like Cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808469/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42808469。",
-      "report": "Brain organoids offer an invaluable model system for studying human brain development and disease. However, the establishment of high-fidelity brain organoids with multiple cell lineages, including vasculature and immune cells, remains a huge challenge. Here,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42808136",
-      "date": "2026-09-29",
-      "title": "Hydration-Gated Photoinduced Electron Transfer in BODIPY Dyes.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808136/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42808136。",
-      "report": "Fluorescent probes based on photoinduced electron transfer (PET) are widely used to image intracellular environments. Here we report donor-acceptor dyads based on the BODIPY chromophore in which PET is selectively activated upon hydration. Replacing fluorine g...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42808650",
       "date": "2026-09-29",
       "title": "Toward a minimal amino acid alphabet for protein design.",
@@ -613,6 +711,36 @@
       "fact": "PubMed 记录显示该文献收录于 The FEBS journal，PMID 为 42808650。",
       "report": "While proteins are built from 20 canonical amino acids, it is interesting to explore whether proteins can be formed from significantly reduced amino acid alphabets. Our bioinformatics survey of UniProt (more than 250 m sequences) revealed that proteins compose...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42809935",
+      "date": "2026-09-29",
+      "title": "Distinct genomic landscape of non-small cell lung cancer in Bangladeshi patients: Implications for precision oncology in a resource-limited setting.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809935/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42809935。",
+      "report": "Non-small cell lung cancer (NSCLC) is a genetically heterogeneous disease with clinically actionable mutations. Analysis of circulating tumor DNA (ctDNA) in plasma using next-generation sequencing (NGS) provides a minimally invasive method for profiling tumor-...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -793,35 +921,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42808638",
-      "date": "2026-09-25",
-      "title": "Artificial intelligence in nephrology: recent advances.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
+      "id": "pubmed-42810021",
+      "date": "2026-09-23",
+      "title": "Prognostic value of circulating tumor DNA in treated gastric cancer patients: A systematic review and meta-analysis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808638/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810021/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
       ],
       "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持"
+        "诊断",
+        "精准医疗",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Polish archives of internal medicine，PMID 为 42808638。",
-      "report": "Artificial intelligence (AI) is moving rapidly from experimental prediction models toward workflow-integrated tools that can support clinical care, education, research, and operational efficiency. Kidney care is particularly well suited to AI because it is dat...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology，PMID 为 42810021。",
+      "report": "Multiple studies have demonstrated that circulating tumor DNA (ctDNA), a component of liquid biopsy, exhibits strong performance in predicting prognosis across various types of tumors. However, its role in predicting prognosis among gastric cancer patients und...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -917,34 +1043,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42807344",
-      "date": "2026-09-14",
-      "title": "Mismatched and underrepresented: bat-virus diversity and phylogeographic bias in experimental infection studies.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42807344。",
-      "report": "Despite growing interest in bat-virus interactions, experimental infection studies (EIS) remain taxonomically and geographically restricted, limiting inference about bat immunology and zoonotic risk. We performed a systematic literature search (Jan 1900-Jan 20...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42807637",
       "date": "2026-09-14",
       "title": "Immune-related biomarkers in liquid biopsy for cancer: emerging tools for non-invasive precision oncology.",
@@ -973,68 +1071,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42807637。",
       "report": "Liquid biopsy has emerged as a powerful non-invasive tool in precision oncology, providing real-time insights into tumor evolution, host immune responses, and dynamic changes in the tumor immune microenvironment. By enabling minimally invasive sampling, it can...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42807203",
-      "date": "2026-09-14",
-      "title": "Circulating tumor DNA in appendiceal malignancies: a comprehensive review of clinical applications and limitations.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807203/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42807203。",
-      "report": "Appendiceal cancer is a rare and biologically distinct gastrointestinal malignancy characterized by marked molecular heterogeneity and a strong propensity for peritoneal dissemination. Traditional surveillance modalities, including cross-sectional imaging and...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42807154",
-      "date": "2026-09-14",
-      "title": "ctDNA- and cfDNA-based liquid biopsy in bladder cancer and urothelial carcinoma: bibliometric mapping and cross-database coverage analysis, 2008-2025.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807154/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42807154。",
-      "report": "Circulating tumour DNA (ctDNA), cell-free DNA (cfDNA) and urinary tumour DNA are increasingly studied in bladder cancer and urothelial carcinoma. We mapped the development, knowledge structure and clinical emphasis of this ctDNA/cfDNA-centred literature and as...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
