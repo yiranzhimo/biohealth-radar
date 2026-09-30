@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-29T09:53:27+00:00",
+  "capturedAt": "2026-09-30T09:45:46+00:00",
   "count": 591,
   "items": [
     {
@@ -3479,23 +3479,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-burzynski-research-institute",
-      "name": "Burzynski Research Institute Inc",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000724445",
-      "identifiers": {
-        "cik": [
-          "0000724445"
-        ],
-        "ticker": [
-          "BZYR"
-        ]
-      },
-      "sourceTypes": [
-        "In Vitro and In Vivo Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-c21-investments",
       "name": "C21 Investments Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000831609",
@@ -4335,6 +4318,23 @@
         ],
         "ticker": [
           "CTXR"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-city-therapeutics",
+      "name": "City Therapeutics, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002143850",
+      "identifiers": {
+        "cik": [
+          "0002143850"
+        ],
+        "ticker": [
+          "CTY"
         ]
       },
       "sourceTypes": [
