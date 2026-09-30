@@ -39645,7 +39645,6 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-pubmed-42808604",
           "evidence-company-emulate-pipeline-379202c5c9b2",
           "evidence-company-emulate-official-d4c55aadef02"
         ]
@@ -39653,17 +39652,6 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
-          {
-            "id": "event-pubmed-42808604",
-            "date": "2026-09-29",
-            "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-pubmed-42808604",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
-          },
           {
             "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
             "date": "2026-09-23",
@@ -39694,12 +39682,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "evidenceBySourceType": {
-          "Company": 2,
-          "Paper": 1
+          "Company": 2
         },
-        "lastEvidenceDate": "2026-09-29",
+        "lastEvidenceDate": "2026-09-23",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -39707,17 +39694,6 @@
         ]
       },
       "recentEvents": [
-        {
-          "id": "event-pubmed-42808604",
-          "date": "2026-09-29",
-          "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-pubmed-42808604",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
-        },
         {
           "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
           "date": "2026-09-23",
@@ -56709,6 +56685,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001682852-000119312526408289",
           "evidence-company-moderna-official-fd2d5dacf706",
           "evidence-sec-0001682852-000119312526378505",
           "evidence-company-moderna-pipeline-0a111596e2a2",
@@ -56721,6 +56698,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001682852-000119312526408289",
+            "date": "2026-09-30",
+            "title": "Moderna filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001682852-000119312526408289",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337d8k.htm"
+          },
           {
             "id": "event-evidence-company-moderna-official-fd2d5dacf706",
             "date": "2026-09-25",
@@ -56764,17 +56752,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-moderna-investor_relations-7a5ab762d10c",
             "sourceUrl": "https://investors.modernatx.com/"
-          },
-          {
-            "id": "event-sec-0001682852-000168285226000150",
-            "date": "2026-07-31",
-            "title": "Moderna filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001682852-000168285226000150",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm"
           }
         ],
         "inferences": [],
@@ -56784,12 +56761,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 8,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 4
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-09-30",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56797,6 +56774,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001682852-000119312526408289",
+          "date": "2026-09-30",
+          "title": "Moderna filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001682852-000119312526408289",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337d8k.htm"
+        },
         {
           "id": "event-evidence-company-moderna-official-fd2d5dacf706",
           "date": "2026-09-25",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-09-30T09:44:37+00:00",
+  "capturedAt": "2026-09-30T12:42:33.698016+00:00",
   "summary": {
     "mentionCount": 663,
     "candidateCount": 596,
@@ -20,15 +20,74 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-485f221a984cbf20",
-      "observedName": "London School of Hygiene and Tropical Medicine",
-      "normalizedName": "london school of hygiene and tropical medicine",
+      "id": "mention-clinicaltrials-23ff21bdcb260e8b",
+      "observedName": "Genentech, Inc.",
+      "normalizedName": "genentech",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06254911",
+      "sourceDate": "2026-08-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06254911",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Pre-operative Atezolizumab in Patients With Resectable, Human Papillomavirus Related Oropharyngeal Carcinoma"
+    },
+    {
+      "id": "mention-clinicaltrials-6b4708178c2cd247",
+      "observedName": "Skin Analytics Limited",
+      "normalizedName": "skin analytics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03431597",
-      "sourceDate": "2019-01-22",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03431597",
+      "sourceRecordId": "NCT04123678",
+      "sourceDate": "2021-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "DERM Health Economics Study"
+    },
+    {
+      "id": "mention-clinicaltrials-750c06ce7945fe64",
+      "observedName": "Arthrex, Inc.",
+      "normalizedName": "arthrex",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03156543",
+      "sourceDate": "2020-10-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03156543",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -36,124 +95,64 @@
         "临床试验"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Effectiveness of a Micronutrient Supplement to Lower Plasma Homocysteine MDEG2 Pilot Supplementation Trial"
+      "contextTitle": "Microcurrent Dressing to Treat Infections, Before, During and After Surgery"
     },
     {
-      "id": "mention-clinicaltrials-76a7de42b86a9864",
-      "observedName": "Alzheon Inc.",
-      "normalizedName": "alzheon",
+      "id": "mention-clinicaltrials-8ffe2d40d40ab649",
+      "observedName": "Dong-A Pharmaceutical",
+      "normalizedName": "dong a pharmaceutical",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04693520",
-      "sourceDate": "2025-12-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04693520",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT04871321",
+      "sourceDate": "2025-08-26",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04871321",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
         "Longevity",
+        "Oncology",
+        "Precision Oncology",
         "biomarker",
         "临床试验",
+        "肿瘤",
         "衰老"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Biomarker Effects of ALZ-801 in APOE4 Carriers With Early Alzheimer's Disease"
+      "contextTitle": "Biomarker Discovery in Patients With Advanced Biliary Tract Cancer"
     },
     {
-      "id": "mention-clinicaltrials-baba7727cf5b15c9",
-      "observedName": "Innovis LLC",
-      "normalizedName": "innovis",
+      "id": "mention-clinicaltrials-d0b03c8742a6324d",
+      "observedName": "Nested Therapeutics, Inc",
+      "normalizedName": "nested therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06294886",
-      "sourceDate": "2024-03-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
+      "sourceRecordId": "NCT06326411",
+      "sourceDate": "2026-04-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06326411",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
         "Oncology",
-        "Precision Medicine",
         "Precision Oncology",
+        "Recruiting",
         "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
+        "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-f0f9a6fd350dda5a",
-      "observedName": "Hangzhou Newhorizon Health Technology Co., Ltd.",
-      "normalizedName": "hangzhou newhorizon health technology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05613283",
-      "sourceDate": "2023-12-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Recruiting",
-        "中国",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
-      ],
-      "activitySignals": [
-        "active_trial"
-      ],
-      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
-    },
-    {
-      "id": "mention-clinicaltrials-fa41e599881c89f4",
-      "observedName": "BeijingNewBiorayTechnologyCo.,Ltd.",
-      "normalizedName": "beijingnewbioraytechnologyco",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05613283",
-      "sourceDate": "2023-12-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Recruiting",
-        "中国",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
-      ],
-      "activitySignals": [
-        "active_trial"
-      ],
-      "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+      "contextTitle": "A Study to Investigate the Safety and Efficacy of NST-628 Oral Tablets in Subjects With Solid Tumors"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43960,35 +43959,35 @@
       ]
     },
     {
-      "id": "candidate-alzheon",
-      "name": "Alzheon Inc.",
+      "id": "candidate-nested-therapeutics",
+      "name": "Nested Therapeutics, Inc",
       "aliases": [
-        "Alzheon Inc."
+        "Nested Therapeutics, Inc"
       ],
-      "normalizedName": "alzheon",
+      "normalizedName": "nested therapeutics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-12-18",
-      "lastSeenAt": "2025-12-18",
+      "firstSeenAt": "2026-04-20",
+      "lastSeenAt": "2026-04-20",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Biomarkers",
           "Clinical Trials",
-          "Longevity",
-          "biomarker",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
           "临床试验",
-          "衰老"
+          "肿瘤"
         ],
         "themes": [
-          "Biomarkers",
           "Clinical Trials",
-          "Longevity",
-          "biomarker",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
           "临床试验",
-          "衰老"
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44001,56 +44000,56 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-76a7de42b86a9864"
+        "mention-clinicaltrials-d0b03c8742a6324d"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-12-18",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04693520",
-          "externalId": "NCT04693520",
-          "contextTitle": "Biomarker Effects of ALZ-801 in APOE4 Carriers With Early Alzheimer's Disease"
+          "sourceDate": "2026-04-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06326411",
+          "externalId": "NCT06326411",
+          "contextTitle": "A Study to Investigate the Safety and Efficacy of NST-628 Oral Tablets in Subjects With Solid Tumors"
         }
       ]
     },
     {
-      "id": "candidate-innovis",
-      "name": "Innovis LLC",
+      "id": "candidate-skin-analytics",
+      "name": "Skin Analytics Limited",
       "aliases": [
-        "Innovis LLC"
+        "Skin Analytics Limited"
       ],
-      "normalizedName": "innovis",
+      "normalizedName": "skin analytics",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-03-07",
-      "lastSeenAt": "2024-03-07",
+      "firstSeenAt": "2021-08-13",
+      "lastSeenAt": "2021-08-13",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
+          "临床决策支持",
           "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "医疗 AI",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "Diagnostics",
+          "Healthcare AI",
+          "Medical AI",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
+          "临床决策支持",
           "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "医疗 AI",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44063,65 +44062,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-baba7727cf5b15c9"
+        "mention-clinicaltrials-6b4708178c2cd247"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-03-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
-          "externalId": "NCT06294886",
-          "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-london-school-of-hygiene-and-tropical-medicine",
-      "name": "London School of Hygiene and Tropical Medicine",
-      "aliases": [
-        "London School of Hygiene and Tropical Medicine"
-      ],
-      "normalizedName": "london school of hygiene and tropical medicine",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2019-01-22",
-      "lastSeenAt": "2019-01-22",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-485f221a984cbf20"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2019-01-22",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03431597",
-          "externalId": "NCT03431597",
-          "contextTitle": "Effectiveness of a Micronutrient Supplement to Lower Plasma Homocysteine MDEG2 Pilot Supplementation Trial"
+          "sourceDate": "2021-08-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+          "externalId": "NCT04123678",
+          "contextTitle": "DERM Health Economics Study"
         }
       ]
     },
@@ -47499,45 +47450,27 @@
       ]
     },
     {
-      "id": "candidate-beijingnewbioraytechnologyco",
-      "name": "BeijingNewBiorayTechnologyCo.,Ltd.",
+      "id": "candidate-arthrex",
+      "name": "Arthrex, Inc.",
       "aliases": [
-        "BeijingNewBiorayTechnologyCo.,Ltd."
+        "Arthrex, Inc."
       ],
-      "normalizedName": "beijingnewbioraytechnologyco",
+      "normalizedName": "arthrex",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2023-12-21",
-      "lastSeenAt": "2023-12-21",
+      "firstSeenAt": "2020-10-09",
+      "lastSeenAt": "2020-10-09",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "tags": []
       },
@@ -47550,60 +47483,56 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-fa41e599881c89f4"
+        "mention-clinicaltrials-750c06ce7945fe64"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2023-12-21",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
-          "externalId": "NCT05613283",
-          "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+          "sourceDate": "2020-10-09",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03156543",
+          "externalId": "NCT03156543",
+          "contextTitle": "Microcurrent Dressing to Treat Infections, Before, During and After Surgery"
         }
       ]
     },
     {
-      "id": "candidate-hangzhou-newhorizon-health-technology",
-      "name": "Hangzhou Newhorizon Health Technology Co., Ltd.",
+      "id": "candidate-dong-a-pharmaceutical",
+      "name": "Dong-A Pharmaceutical",
       "aliases": [
-        "Hangzhou Newhorizon Health Technology Co., Ltd."
+        "Dong-A Pharmaceutical"
       ],
-      "normalizedName": "hangzhou newhorizon health technology",
+      "normalizedName": "dong a pharmaceutical",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2023-12-21",
-      "lastSeenAt": "2023-12-21",
+      "firstSeenAt": "2025-08-26",
+      "lastSeenAt": "2025-08-26",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
-          "Diagnostics",
+          "Longevity",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "biomarker",
           "临床试验",
-          "精准医疗",
           "肿瘤",
-          "诊断"
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
-          "Diagnostics",
+          "Longevity",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "biomarker",
           "临床试验",
-          "精准医疗",
           "肿瘤",
-          "诊断"
+          "衰老"
         ],
         "tags": []
       },
@@ -47616,17 +47545,81 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-f0f9a6fd350dda5a"
+        "mention-clinicaltrials-8ffe2d40d40ab649"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2023-12-21",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05613283",
-          "externalId": "NCT05613283",
-          "contextTitle": "Primary Cervical Cancer Screening by Self-sampling HPV Test"
+          "sourceDate": "2025-08-26",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04871321",
+          "externalId": "NCT04871321",
+          "contextTitle": "Biomarker Discovery in Patients With Advanced Biliary Tract Cancer"
+        }
+      ]
+    },
+    {
+      "id": "candidate-genentech",
+      "name": "Genentech, Inc.",
+      "aliases": [
+        "Genentech, Inc."
+      ],
+      "normalizedName": "genentech",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-05",
+      "lastSeenAt": "2026-08-05",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-23ff21bdcb260e8b"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-08-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06254911",
+          "externalId": "NCT06254911",
+          "contextTitle": "Pre-operative Atezolizumab in Patients With Resectable, Human Papillomavirus Related Oropharyngeal Carcinoma"
         }
       ]
     }

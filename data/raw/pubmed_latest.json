@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-30T05:39:10.290700+00:00",
+  "capturedAt": "2026-09-30T12:42:30.735964+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,146 +14,149 @@
     "end": "2026-09-30"
   },
   "pmids": [
-    "42810594",
-    "42810358",
-    "42810107",
-    "42809120",
-    "42808695",
-    "42808604",
+    "42812155",
+    "42812152",
+    "42811986",
+    "42811535",
+    "42811363",
+    "42811341",
     "42804716",
     "42782810",
     "42775042",
     "42771879",
     "42758091",
     "42754836",
+    "42811599",
     "42808650",
     "42808050",
     "42805700",
     "42805095",
     "42803993",
-    "42803306",
+    "42811206",
     "42810021",
     "42809935",
     "42807960",
     "42807776",
-    "42807649",
-    "42807637"
+    "42807649"
   ],
   "records": [
     {
-      "pmid": "42810594",
-      "title": "CODNet models enable real-time assessment of colorectal cancer organoids and uncover the integral role of LTBP2 in the diffuse organoid subtype.",
-      "abstract": "To achieve precise classification of colorectal cancer (CRC) at the patient-derived organoids (PDOs) level, we constructed a real-time CRC PDO assessment system through artificial intelligence (AI) assisted model using an optimized object detection algorithm. We constructed the CODNetV1 model for the identification, feature extraction and drug sensitivity detection of CRC PDOs (mAP of 88.05%). And we optimized CODNetV2 to classify four morphological subtypes of CRC PDOs (mAP of 85.65%). CODNetV1 and CODNetV2 achieved real-time, automated, multi-parameter detection of CRC PDOs, directly facilitating the detection of organoid drug sensitivity and subtype classification. By Integrating analyses of the RNAseq and scRNAseq of different subtype CRC PDOs, we found that LTBP2 was highly expressed in cancer-associated fibroblasts (CAFs) of Diffuse CRC PDOs. As a key regulatory factor, LTBP2 modulates intercellular communication between tumor cells and CAFs. On one hand, CAFs-derived LTBP2 enhances the invasive capacity of CRC PDOs by activating the integrin a6ß4-AKT signaling pathway, and simultaneously increases CXCL11 expression. On the other hand, diffuse CRC PDOs-derived CXCL11 activates the YAP/TEAD2-LTBP2 pathway in CAFs, thus forms a feedback activation loop centered on LTBP2. Collectively, molecular characterization of CRC PDO subtypes at the organoid level identified the important clinical value of LTBP2 in the diagnosis and targeted therapy of highly invasive CRC.",
-      "journal": "Biochimica et biophysica acta. Molecular cell research",
+      "pmid": "42812155",
+      "title": "Cancer stem cell programs S-nitrosylation and deubiquitination of FoxP3 protein to promote regulatory T cell differentiation.",
+      "abstract": "Cancer stem cells (CSCs) are critical drivers of tumor progression and therapeutic resistance in non-small cell lung cancer (NSCLC). However, how CSCs remodel the immunosuppressive tumor microenvironment (TME) of NSCLC remains largely unclear. Flow cytometry was performed to evaluate the immunomodulatory effects of NSCLC CSCs on T cell differentiation. RNA-sequencing-based metabolic profiling was conducted to identify pivotal metabolic pathways activated in CSCs. Mitochondrial reactive oxygen species (ROS) encapsulated in CSC-derived exosomes were quantified, and the molecular mechanism by which exosomal ROS modulates intracellular nitric oxide (NO) production and FoxP3 post-translational modifications in T cells was further explored. Patient-derived organoids (PDOs) were utilized as a preclinical model to verify the therapeutic potential of glutamine metabolism targeting. NSCLC CSCs potently induced tumor immunosuppression by promoting regulatory T (Treg) cell differentiation. Mechanistically, hyperactive glutamine metabolism in CSCs substantially increased mitochondrial ROS generation. Exosomal ROS secreted by CSCs was transferred to T cells, thereby elevating intracellular NO synthesis. Increased NO further triggered S-nitrosylation and deubiquitination of FoxP3, which ultimately stabilized FoxP3 expression and facilitated Treg cell differentiation. In NSCLC PDO models, pharmacological inhibition of glutamine metabolism reversed the immunosuppressive T cell phenotype and efficiently suppressed PDO growth. NSCLC CSCs mediate TME immunosuppression via a glutamine metabolism-dependent regulatory axis. Exosomal ROS-initiated FoxP3 post-translational modification is a novel mechanism underlying CSC-driven Treg differentiation. This study reveals an unreported immune evasion pathway in NSCLC and identifies glutamine metabolism as a viable therapeutic target for overcoming tumor immunosuppression.",
+      "journal": "Frontiers in immunology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
-        "Department of Breast Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
-        "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China.",
-        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhengzhou University, 450052, Zhengzhou, Henan, China. Electronic address: chengmengmg@163.com.",
-        "Division of Gastroenterology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, 430022, Wuhan, Hubei, China. Electronic address: masterlxy@alumni.sjtu.edu.cn."
+        "Department of Thoracic Surgery, China-Japan Union Hospital of Jilin University, Jilin University, Changchun, China.",
+        "Jiangsu Key Laboratory of Infection and Immunity, Institutes of Biology and Medical Sciences, Suzhou Medical College of Soochow University, Suzhou, China.",
+        "Department of Cardiology, Nanxishan Hospital of Guangxi Zhuang Autonomous Region, Guilin, China.",
+        "Department of Thoracic Surgery, Central Hospital of Gongzhuling City, Siping, China."
       ],
-      "doi": "10.1016/j.bbamcr.2026.120228",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810594/"
+      "doi": "10.3389/fimmu.2026.1961819",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42812155/"
     },
     {
-      "pmid": "42810358",
-      "title": "Translational Insights and Clinical Relevance of Glioblastoma 3D In Vitro Models.",
-      "abstract": "Glioblastoma (GBM) remains one of the most aggressive and treatment-resistant brain tumors, highlighting the urgent need for experimental models that can faithfully recapitulate its complex biology. In vitro models are essential tools for investigating GBM biology and for preclinical drug development. Conventional two-dimensional cultures fail to reproduce the three-dimensional organization, cellular heterogeneity, and micro-environmental interactions that influence tumor growth and therapeutic response.&#xD;In vitro GBM models serve as the first step in the translational pipeline, enabling drug screening, mechanistic studies, biomarker discovery, and personalized medicine approaches. Despite their limitations, including a lack of full microenvironmental context and blood-brain barrier (BBB) considerations, these models provide critical insights that inform preclinical animal studies and early-phase clinical trials. This review critically describes the variety of three-dimensional (3D) in vitro models that have been developed, including spheroids, organoids, organ-on-chip systems and describes advantages and drawbacks of these platforms for investigating tumor progression, cell communication, and responses to therapies. Indeed, understanding the strengths and limitations of GBM in vitro models is essential for designing translational studies that can bridge laboratory research with clinical applications. Future advances, including the use of sophisticated bioprinting approaches to generate spatially organized, multilayered microenvironments incorporating diverse cell populations in complex co-culture systems, are anticipated to markedly improve predictive power and therapeutic outcomes in individualized patient care&#xD.",
-      "journal": "Biofabrication",
+      "pmid": "42812152",
+      "title": "Co-optation of the regenerative role of type 2 alveolar cells in distal lung repair in mice by terminal airway epithelial cells in humans.",
+      "abstract": "The lung is endowed with extensive regenerative capacity. The principal cell of the lung is the type 1 alveolar epithelial (AT1) cell, which mediates gas exchange. Mouse models implicated surfactant-producing type 2 alveolar epithelial (AT2) cells as facultative stem cells that regenerate AT1 cells after injury through a transitional KRT8 + intermediate. Larger mammals, however, possess terminal and respiratory bronchioles that are lined by alveoli and by epithelial cells that are absent in mice. Here we show, using human pluripotent stem cell-derived lung organoids and comparative computational analysis, a prime role for terminal and respiratory bronchiole cells in AT1 regeneration without AT2 intermediate. Furthermore, cells similar to aberrant basaloid cells, profibrotic elements that accumulate in pulmonary fibrosis, are physiological intermediates in a more rapidly committing trajectory from terminal and respiratory bronchioles to AT1 cells marked by expression of KRT17, are regulated by Hippo and TGFβ signaling, and are transcriptionally distinct from mouse AT2-derived KRT8 + transitional cells. Our findings indicate that terminal and respiratory bronchioles in humans have to a large extent co-opted the regenerative and pathogenic functions of AT2 cells in mice. Efforts to enhance or correct human lung regeneration should therefore focus on facultative airway-derived alveolar progenitors using human models.",
+      "journal": "bioRxiv : the preprint server for biology",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Preprint"
       ],
-      "affiliations": [
-        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Baronissi, SA, Fisciano, Please Select, 84084, Italy.",
-        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Fisciano, SA, 84084, Italy.",
-        "Department of Medicine, Surgery and Dentistry, University of Salerno - Baronissi Campus, Via S. Allende, Baronissi, Please Select, 84081, Italy.",
-        "Division of Oncology, Department of Medical and Surgical Sciences for Children & Adults,, Università degli Studi di Modena e Reggio Emilia, via del Pozzo, 71, Modena, Emilia-Romagna, 41121, Italy.",
-        "Department of Medical and Surgical Sciences for Children & Adults, Università degli Studi di Modena e Reggio Emilia, Via del Pozzo, 71, Modena, Emilia-Romagna, 41121, Italy.",
-        "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, Fisciano, Please Select, 84084, Italy.",
-        "Department of Chemistry and Biology \"A. Zambelli\", University of Salerno, Via Giovanni Paolo II, Fisciano SA, Fisciano, 84084, Italy.",
-        "Dept. of Medicine, Surgery and Dentistry, Universita degli Studi di Salerno Dipartimento di Medicina e Chirurgia, Via S. Allende, \"Scuola Medica Salernitana\", Baronissi Salerno, Italy, Baronissi, 101, 84081, Italy."
-      ],
-      "doi": "10.1088/1758-5090/aeadd0",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810358/"
+      "affiliations": [],
+      "doi": "10.64898/2026.07.27.741036",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42812152/"
     },
     {
-      "pmid": "42810107",
-      "title": "Post-translational acylation of proteins in colorectal cancer.",
-      "abstract": "Accumulating preclinical evidence indicates that protein acylation, a functionally diverse class of post-translational modifications, is implicated in the regulation of protein stability, enzymatic activity, subcellular localization, molecular interactions, and gene transcription. In colorectal cancer (CRC), this modification family has been linked to proliferation, invasion, metastasis, metabolic reprogramming, therapeutic resistance, and immune escape. This review critically summarizes recent advances in five major acylation types associated with CRC: crotonylation, succinylation, lactylation, acetylation, and palmitoylation. We distinguish histone-mediated transcriptional regulation from the direct functional effects of non-histone acylation, and evaluate the mechanistic evidence linking specific modification sites and regulatory enzymes to CRC phenotypes. We also discuss crosstalk between acylation and other post-translational modifications, current detection strategies, and the proposed translational potential of acylation-associated molecules as biomarkers or therapeutic targets. Most available supporting evidence is derived from cell lines and animal models, whereas validation in patient-derived organoids, independent clinical cohorts, and prospective studies remains incompletely characterized. Establishing causality and defining the clinical relevance of protein acylation in CRC will require further studies integrating site-specific mutagenesis, enzyme perturbation, orthogonal detection methods, and physiologically relevant models. Collectively, the reviewed body of work frames protein acylation as a biologically relevant regulatory axis in CRC, while underscoring that additional rigorous investigation is needed to realize its translational potential.",
-      "journal": "Cancer treatment and research communications",
+      "pmid": "42811986",
+      "title": "Targeting Drug-Tolerant Persister Cells in Cancer: Progress From Modeling to Targeting Fragility Studies.",
+      "abstract": "Drug-tolerant persister (DTP) cells are a major cause of cancer treatment failure and tumor relapse. This review provides a systematic summary of recent advances in research on DTP cells in cancer, including their biological features, model systems, and targeting strategies. Current studies show that formation of DTP cells is a complex and dynamic process, involving cell cycle arrest, epigenetic remodeling, and extensive transcriptional and metabolic reprogramming. The drug tolerance of DTP cells arises from a cooperative molecular network that integrates metabolic adaptation, reactivation of key signaling pathways, and resistance to cell death programs. To investigate the DTP state, researchers have developed a variety of in vitro and in vivo models, including patient-derived xenograft (PDX) models, drug-treated cancer cell lines, and organoid systems. These models have become essential tools for identifying vulnerabilities in DTP cells, such as sensitivity to ferroptosis induction, dependence on specific metabolic pathways, and expression of distinct surface antigens. However, the field still faces important challenges. Existing models have limitations in mimicking the complex tumor microenvironment and in capturing the transient nature of DTP cells. In addition, the clinical value of targeting strategies identified with experimental models remains to be validated in large-scale trials. The high level of heterogeneity of DTP cells and the lack of standardized research protocols also hinder the comparison and integration of findings across studies. The future development of more physiologically relevant models, the use of advanced technologies to better characterize DTP cells, and the design of clinical trials aimed at eliminating DTP cells are critical steps in the transition from tumor control to durable cure.",
+      "journal": "Frontiers in bioscience (Landmark edition)",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Oncology, Chifeng City Hospital, Chifeng, 024000, China; Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China.",
-        "Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China.",
-        "Department of Oncology, Chifeng City Hospital, Chifeng, 024000, China. Electronic address: cfzhangminghui@163.com.",
-        "Department of Pathology, School of Basic Medical Sciences, Harbin Medical University, Harbin, 150081, China. Electronic address: tangjing@hrbmu.edu.cn."
+        "Department of Gynecological Oncology, Jiangxi Maternal and Child Health Hospital, 330006 Nanchang, Jiangxi, China.",
+        "Jiangxi Key Laboratory of Cervical Cancer, Jiangxi Maternal and Child Health Hospital, 330006 Nanchang, Jiangxi, China.",
+        "Department of Biochemistry and Molecular Medicine, University of California, Davis, Sacramento, CA 95616, USA.",
+        "Department of Obstetrics and Gynecology, University of California, Davis, Sacramento, CA 95616, USA."
       ],
-      "doi": "10.1016/j.ctarc.2026.101457",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810107/"
+      "doi": "10.31083/FBL49637",
+      "date": "2026-09-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811986/"
     },
     {
-      "pmid": "42809120",
-      "title": "A patient-derived organoid platform for predominantly posterior fossa adult ependymoma: histopathologic preservation, culture-associated transcriptomic remodeling, and in vivo tumorigenicity.",
-      "abstract": "Well-characterized patient-derived models of adult ependymoma (EPN) remain limited. We established a patient-derived organoid (PDO) platform from adult EPN and evaluated its histopathologic and immunophenotypic characteristics, transcriptomic relationship to parental tumors, and in vivo tumorigenicity. Fresh surgical specimens from 22 adult patients with EPN were processed for PDO establishment. Tumor-PDO fidelity was assessed by histology and immunofluorescence. Three matched tumor-PDO pairs underwent RNA sequencing followed by paired differential-expression, gene-set enrichment, microenvironmental signature, and ESTIMATE analyses. Selected PDO models were further evaluated by subcutaneous and intracranial xenografting. PDOs were successfully established from 20 of 22 specimens (90.9%). Established PDOs broadly retained parental tumor morphology and expression of major ependymoma-associated and neural/progenitor markers. Selected morphologic and immunophenotypic features remained detectable during prolonged culture. Transcriptomic profiling of three matched tumor-PDO pairs demonstrated high global expression similarity (Pearson r = 0.84-0.88) together with substantial culture-associated remodeling. Endothelial signatures and ESTIMATE-derived stromal scores were reduced in all three PDOs, whereas other immune and stromal signatures showed patient-specific changes. Paired transcriptomic analysis further identified enrichment of ribosome/translation and oxidative-phosphorylation programs in PDOs, accompanied by reduced cilia- and axoneme-associated programs. Selected PDO-derived models demonstrated tumorigenic capacity in subcutaneous and intracranial settings. Adult EPN can be propagated efficiently as PDOs that retain selected tumor-associated features while undergoing measurable transcriptional and microenvironment-associated adaptation to ex vivo culture. Selected models also retained tumorigenic capacity in vivo. These models provide a complementary experimental platform for studying adult EPN biology.",
-      "journal": "Journal of neuro-oncology",
+      "pmid": "42811535",
+      "title": "KRT13 Drives Pancreatic Cancer Malignancy Via the PI3K/AKT-PPARG Axis While Enhancing Sensitivity to Navitoclax.",
+      "abstract": "BACKGROUND Pancreatic cancer remains one of the most aggressive malignancies, characterized by late diagnosis, limited treatment options, and a dismal prognosis, with a 5-year survival rate consistently below 13%. The molecular mechanisms driving its progression are incompletely understood, highlighting the need to identify novel regulators of oncogenic pathways. This study focused on keratin 13 (KRT13), a cytoskeletal protein, and investigated its role in pancreatic cancer pathogenesis, particularly its regulatory effect on peroxisome proliferator-activated receptor gamma (PPARG) through the PI3K/AKT signaling axis. MATERIAL AND METHODS We integrated in vitro cellular assays with molecular biology approaches and bioinformatic analyses to systematically examine KRT13 expression and function. Pancreatic cancer cell lines were used for functional studies, including proliferation, migration, and pathway modulation experiments. Gene expression levels were assessed via quantitative PCR. Expression of KRT13 was further validated via immunohistochemistry on tissue sections from 85 patients. Public transcriptomic datasets (eg, TCGA) were interrogated to evaluate clinical correlations. Mechanistic insights were gained through pharmacological inhibition and genetic silencing of key pathway components. Further in vitro investigation of drug sensitivity was performed with patient-derived organoids (PDOs). RESULTS KRT13 expression was markedly upregulated in pancreatic tumor tissues compared to adjacent normal samples. This result was also confirmed in a set of 85 clinical samples, showing a strong positive correlation with PPARG levels. Clinically, elevated KRT13 was significantly associated with reduced overall survival (log-rank P<0.001). Importantly, analysis of The Cancer Genome Atlas (TCGA) database revealed that KRT13 expression was significantly associated with tumor TNM stage and other clinical parameters. Functional experiments demonstrated that KRT13 activates the PI3K/AKT signaling cascade, leading to subsequent upregulation of PPARG. This activation promoted pancreatic cancer cell proliferation and migration, effects that were attenuated upon PI3K/AKT pathway inhibition. Drug sensitivity assays using patient-derived organoids (PDOs) demonstrated that KRT13 significantly enhanced the sensitivity of pancreatic cancer to Navitoclax. CONCLUSIONS Our findings establish KRT13 as a critical contributor to pancreatic cancer progression, via the PI3K/AKT-PPARG regulatory axis. These results underscore the potential of KRT13 as a prognostic biomarker and a candidate therapeutic target, offering new insights into the molecular pathogenesis of this lethal disease.",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China.",
-        "Hepato-Pancreato-Biliary Center, Beijing Tsinghua Changgung Hospital, Tsinghua University, No. 168 Litang Road, Changping District, Beijing, 102218, China.",
-        "Beijing Institute of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China.",
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China. chenfeng406@sina.com.",
-        "Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring Road, Beijing, 100070, China. liwenbin@ccmu.edu.cn."
+        "The Second Hospital, Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Department of Pathology, School of Basic Medical Science, Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Department of Biliary and Pancreatic Surgery, The First Hospital, Shanxi Medical University, Taiyuan, Shanxi, China.",
+        "Key Laboratory of Cellular Physiology, Ministry of Education, Shanxi Medical University, Taiyuan, Shanxi, China."
       ],
-      "doi": "10.1007/s11060-026-05814-x",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809120/"
+      "doi": "10.12659/MSM.952797",
+      "date": "2026-09-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811535/"
     },
     {
-      "pmid": "42808695",
-      "title": "Single-cell spatial mapping reveals reproducible cell type organization and spatially dependent gene expression in gastruloids.",
-      "abstract": "Gastruloids are stem-cell-based models that recapitulate key aspects of mammalian gastrulation, including the formation of an anterior-posterior axis. However, we do not have detailed spatial information about gene expression and cell type organization, particularly at the level of individual gastruloids. Here, we report a spatially resolved, single-cell molecular catalog of the transcriptomes of 26 individual gastruloids. We found that cell type composition and tissue-scale spatial organization were largely consistent across gastruloids, but meso-scale patterning of specific cell types varied between samples. Posterior cell types formed distinct, organized clusters, while anterior cell types were more disorganized. To distinguish progressive differentiation from cell type differences, we developed the L-score, a parameter-free quantification of mutually exclusive gene expression. This analysis revealed spatial organization without explicit encoding, recapitulated known cell type relationships, and identified novel gene expression states and spatial subclusters within cell types. We confirmed that in gastruloids, neuromesodermal precursor differentiation occurred through a continuous, spatially coordinated process. We also showed that endothelial precursors exhibited unique spatial organization and had distinct gene expression profiles dependent on their association with anterior somitic or posterior endodermal tissues. This work enables the rigorous use of gastruloids as models for studying the molecular mechanisms underlying mammalian development and tissue organization and introduces new computational tools for analyzing spatially resolved single-cell datasets.",
-      "journal": "eLife",
+      "pmid": "42811363",
+      "title": "Uncovering pan-cancer signatures of chemoresistance.",
+      "abstract": "Chemotherapy resistance remains a formidable challenge in cancer treatment, driving high mortality rates worldwide. Despite significant advancements, it remains unclear whether conserved molecular programs underpin therapy resistance across cancer types. Here, we integrate single-cell RNA sequencing, spatial transcriptomics, regulatory network modeling, transcription factor binding data, and pharmacologic perturbation across multiple cancer types to define a conserved, proliferative chemoresistant tumor state. Contrary to the prevailing notion that resistance arises from quiescent or EMT-like phenotypes, we find that resistant tumor cells display elevated G2/M and S-phase activity, enriched expression of E2F and MYC target genes, and activation of DNA repair and PI3K/AKT signaling pathways. We identify the transcription factor MYC as a central regulator of the resistant state, with progressive activation along the resistance trajectory and focal expression in resistant epithelial niches. A novel MYC target, SRM (Spermidine Synthase), emerges as a conserved effector of resistance, promoting polyamine biosynthesis critical for chromatin stability and metabolic resilience. SRM expression correlates with MYC binding and predicts poor patient survival. Functional validation in cell lines, patient-derived organoids and mouse models demonstrate that pharmacologic inhibition of MYC, SRM, or WNT signalling restores chemotherapy sensitivity, suppresses resistance-associated pathways, and reactivates apoptosis. Spatial and survival analyses confirm the clinical relevance of the MYC-SRM axis, establishing it as a druggable module in treatment-refractory cancers. To our knowledge, this is the first comprehensive study that redefines chemoresistance as a proliferative, MYC-driven state and uncover SRM as a tractable vulnerability, offering new avenues for therapeutic intervention across diverse epithelial malignancies.",
+      "journal": "Genome medicine",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Bioengineering, School of Engineering and Applied Sciences, University of Pennsylvania, Philadelphia, United States.",
-        "Department of Chemistry, School of Arts and Sciences, University of Pennsylvania, Philadelphia, United States.",
-        "Department of Physics and Astronomy, School of Arts and Sciences, University of Pennsylvania, Philadelphia, United States.",
-        "Genetics and Epigenetics, Cell and Molecular Biology Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, United States."
+        "Institute of Molecular Medicine, University of Southern Denmark, Campusvej 55, Odense M, DK-5230, Denmark.",
+        "Division of Translational Radiation Sciences, Department of Radiation Oncology, University of Maryland School of Medicine, Baltimore, MD, 21201, USA.",
+        "University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center, Baltimore, MD, 21201, USA.",
+        "Institute of Molecular Medicine, University of Southern Denmark, Campusvej 55, Odense M, DK-5230, Denmark. tiwari@health.sdu.dk.",
+        "Danish Institute for Advanced Study (DIAS), University of Southern Denmark, Campusvej 55, Odense M, DK-5230, Denmark. tiwari@health.sdu.dk.",
+        "Department of Clinical Genetics, Odense University Hospital, Odense C, DK-5000, Denmark. tiwari@health.sdu.dk.",
+        "Mohamed Bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE. tiwari@health.sdu.dk.",
+        "Wellcome-Wolfson Institute for Experimental Medicine, School of Medicine, Dentistry & Biomedical Science, Queens University Belfast, Belfast, BT9 7BL, UK. tiwari@health.sdu.dk."
       ],
-      "doi": "10.7554/eLife.109268",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808695/"
+      "doi": "10.1186/s13073-026-01763-2",
+      "date": "2026-09-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811363/"
     },
     {
-      "pmid": "42808604",
-      "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
-      "abstract": "Brain organoids are self-organizing 3D aggregates derived from pluripotent stem cells and thus mirror many aspects of human brain development, including gene expression programs, spatial organization, and neuron subtype specification. As a result, these organoids have been used to emulate neurodevelopmental, neuropsychiatric, and neurodegenerative diseases. Yet, their maturation remains fundamentally constrained by diffusion-limited necrosis, incomplete vascularization, limited visualization, and the absence of large-scale circuit integration, which collectively prevent progression beyond the fetal stage. These intrinsic limitations have catalyzed a convergence across microfluidics, biofabrication, imaging, and ethical frameworks, giving rise to a multidisciplinary movement aimed at enhancing organoid viability, reproducibility, and physiological relevance. This perspective examines how these technologies are transforming brain organoids from developmental models into experimentally robust, functional platforms.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42811341",
+      "title": "The YTHDF proteins modulate Alzheimer's disease-associated brain gene signatures.",
+      "abstract": "Gene signatures of Alzheimer's disease (AD) brains reflect the output of a complex interplay of genetic, epigenetic, epi-transcriptomic, and post-transcriptional regulations. To nominate candidate factors modulating these signatures, we developed a machine learning model to integrate cellular and molecular features explaining differential gene expression in AD. Among the features tested, YTHDF proteins, the canonical readers of N6-methyladenosine (m6A) RNA modification, are among the most influential predictors of AD gene signatures. Protein modules containing YTHDFs were downregulated in human AD brains, and knockdown or pharmacological inhibition of YTHDFs in iPSC-derived 2D and 3D neuronal models recapitulated key AD-associated gene signatures. Furthermore, eCLIP-seq revealed altered YTHDF binding to transcripts in AD brains, at both m6A-dependent and m6A-independent sites. Together, these results support an important role for YTHDF proteins in modulating AD-associated gene signatures in the human brain.",
+      "journal": "Molecular neurodegeneration",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Biomedical Engineering, Whiting School of Engineering, Johns Hopkins University, Baltimore, Maryland, USA.",
-        "Department of Biotechnology, Advanced Academic Programs, Krieger School of Arts and Sciences, Johns Hopkins University, Baltimore, Maryland, USA.",
-        "Biosystems and Biomaterials Division, National Institute of Standards and Technology, Gaithersburg, Maryland, USA.",
-        "Department of Neurosurgery, School of Medicine, Johns Hopkins Medicine, Baltimore, Maryland, USA."
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. stasaki@gmail.com.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA.",
+        "Department of Psychiatry, McLean Hospital, Harvard Medical School, Belmont, MA, 02478, USA.",
+        "Department of Chemistry, Department of Biochemistry and Molecular Biology, Institute for Biophysical Dynamics, Howard Hughes Medical Institute, University of Chicago, Chicago, IL, USA.",
+        "Center for RNA Technologies and Therapeutics, Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, 92093, USA.",
+        "Department of Psychiatry, University of California, Davis, CA, 95817, USA.",
+        "VA Northern California Health Care System, Sacramento, CA, 95652, USA.",
+        "Department of Neurology, University of California, Davis, CA, 95817, USA.",
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA, 30322, USA.",
+        "Department of Neurology and the Taub Institute for the Study of Alzheimer's Disease and the Aging Brain, Center for Translational and Computational Neuroimmunology, Columbia University Medical Center, New York, NY, 10032, USA.",
+        "Department of Psychiatry, Upstate Medical University, Syracuse, NY, 13210, USA.",
+        "Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, 60612, USA. yanling_wang@rush.edu."
       ],
-      "doi": "10.1002/advs.202523506",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/"
+      "doi": "10.1186/s13024-026-00986-6",
+      "date": "2026-09-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811341/"
     },
     {
       "pmid": "42804716",
@@ -264,6 +267,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42754836/"
     },
     {
+      "pmid": "42811599",
+      "title": "Ground-state chromophore geometry, not cage size, tracks quantum yield in fluorescent proteins.",
+      "abstract": "A common explanation for brightness variation in fluorescent proteins (FPs) is that tight chromophore cages produce bright proteins. This model predicts that quantum yield should track the dihedral rotational space available to the chromophore. We tested that prediction across 838 FP crystal structures from the Protein Data Bank. For each structure, we scanned the chromophore's two methine-bridge torsions, τ and φ. We measured two features of the chromophore environment: the fraction of torsional space that is sterically accessible, and the angular distance from the deposited chromophore to the nearest planar geometry. The scan shows a consistent family-wide asymmetry. The I-bond, the cis-trans isomerization axis, is clamped in all color classes. The P-bond, the ring-rotation axis, is the variable degree of freedom. Gatekeeper analysis identifies position 203, in avGFP numbering, as the dominant P-bond constraint. It is the first steric barrier in 21% of all sweep events. Cage size does not generally track quantum yield; instead, it primarily reflects chromophore chemistry. Indole-based cyan FPs and acylimine-based red FPs have the tightest cages, while imidazole-based blue FPs have the loosest. In red FPs, quantum yield is associated instead with ground-state chromophore geometry. More twisted crystallographic chromophores are consistently dimmer in red FPs. The scan also shows that rigidity is not a single property. Cage size, ground-state geometry, gatekeeper residues, and thermal immobilization are distinct measures of rigidity, each with a different relationship to quantum yield. Fluorescent-protein design should therefore target local control of chromophore geometry rather than global cage tightening.",
+      "journal": "Biophysical journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Chemistry Department, Connecticut College, New London, CT 06320. Electronic address: mzim@conncoll.edu."
+      ],
+      "doi": "10.1016/j.bpj.2026.09.042",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811599/"
+    },
+    {
       "pmid": "42808650",
       "title": "Toward a minimal amino acid alphabet for protein design.",
       "abstract": "While proteins are built from 20 canonical amino acids, it is interesting to explore whether proteins can be formed from significantly reduced amino acid alphabets. Our bioinformatics survey of UniProt (more than 250 m sequences) revealed that proteins composed of reduced amino acid alphabets are extremely rare among existing proteins. Next, we used computational protein design to design proteins 100 amino acid residues in length composed of all 1013 possible alphabets of 2-10 early amino acids (Ala, Asp, Glu, Gly, Ile, Leu, Pro, Ser, Thr, and Val). Our findings show that small amino acid alphabets preferred simple helices or helix bundles, while larger amino acid alphabets allowed for the design of more complex structures. We verified a protein composed of 8 amino acid types (Ala, Asp, Gly, Leu, Val, Ser, Thr, and Pro) finding it adopts the β-sheet-rich fibronectin type III domain architecture. However, attempts to experimentally verify designs composed of 6 and 4 amino acid types were unsuccessful. Furthermore, we show by computational experiment with experimental validation that inverse folding models, namely ProteinMPNNsol, can stabilize a designed protein within the same eight-amino-acid alphabet. Ultimately, our results show that globular proteins may have formed early in evolution using a minimal amino acid alphabet and that it is possible to design such proteins with interesting properties for biotechnology and synthetic biology.",
@@ -353,21 +371,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803993/"
     },
     {
-      "pmid": "42803306",
-      "title": "Engineering serum stable protein nanosheets with reduced macrophage uptake.",
-      "abstract": "Here, we engineer self-assembled planar micron-scale protein nanosheets through rational protein design. The protein nanosheets are stable in serum and evade macrophage uptake. These properties enable prolonged extracellular persistence, making them suitable extracellular protein carriers for local therapeutic applications.",
-      "journal": "Chemical communications (Cambridge, England)",
+      "pmid": "42811206",
+      "title": "Dual-tetrahedral DNA-enabled strand displacement amplification biosensor for cell imaging and clinical detection of miR-34a-5p in NAFLD.",
+      "abstract": "The clinical diagnosis of nonalcoholic fatty liver disease (NAFLD) remains challenging due to the invasiveness of liver biopsy and the lack of reliable serum biomarkers, particularly for detecting low-abundance, highly homologous microRNAs such as miR-34a-5p. Here, we constructed a dual-tetrahedral DNA nanostructure biosensor (named DTDN) that couples a target-triggered strand displacement reaction with a catalytic feedback amplification circuit within a rigid tetrahedral scaffold. Unlike conventional molecular beacon or linear probe designs, this spatial architecture accelerates recognition kinetics and suppresses false-positive signals from complex biological matrices, allowing the DTDN probe to discriminate miR-34a-5p from single-base mismatched family members and to achieve a detection limit of 500 fM directly in untreated serum. Importantly, the DTDN accurately quantifies circulating miR-34a-5p levels in NAFLD individuals, which correlate significantly with lipid profiles and transaminase levels. Beyond clinical detection, the same design enables high-contrast live-cell imaging for real-time tracking of miR-34a-5p dynamics in hepatocytes under metabolic stress. By overcoming key barriers-low abundance, sequence homology, matrix interference, and lack of non-invasive spatial readouts-this dual-tetrahedral platform offers a translational route for early NAFLD diagnosis and broader miRNA-based liquid biopsy applications.",
+      "journal": "Analytical and bioanalytical chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332-0405, USA. julie.champion@chbe.gatech.edu.",
-        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.",
-        "School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia 30332, USA."
+        "Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang Provincial Key Laboratory of Medical Genetics, Cixi Biomedical Research Institute, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China.",
+        "Division of Pulmonary Medicine, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, 325000, China.",
+        "Division of Pulmonary Medicine, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, 325000, China. wangliangxing@wzhospital.cn.",
+        "Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang Provincial Key Laboratory of Medical Genetics, Cixi Biomedical Research Institute, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. shenzhifa@wmu.edu.cn.",
+        "Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang Provincial Key Laboratory of Medical Genetics, Cixi Biomedical Research Institute, School of Laboratory Medicine and Life Sciences, Wenzhou Medical University, Wenzhou, 325035, China. 15868716861@163.com."
       ],
-      "doi": "10.1039/d6cc04289a",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803306/"
+      "doi": "10.1007/s00216-026-06838-y",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811206/"
     },
     {
       "pmid": "42810021",
@@ -461,76 +481,20 @@
       "doi": "10.7759/cureus.115381",
       "date": "2026-08-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807649/"
-    },
-    {
-      "pmid": "42807637",
-      "title": "Immune-related biomarkers in liquid biopsy for cancer: emerging tools for non-invasive precision oncology.",
-      "abstract": "Liquid biopsy has emerged as a powerful non-invasive tool in precision oncology, providing real-time insights into tumor evolution, host immune responses, and dynamic changes in the tumor immune microenvironment. By enabling minimally invasive sampling, it can overcome several limitations of conventional tissue biopsy. This review summarizes the major biological sources and components of liquid biopsy, including circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomes, and circulating immune cells, and discusses their value as dynamic indicators of interactions during cancer immunotherapy. Particular attention is given to immune-related biomarkers associated with immune checkpoints, immunosuppressive mechanisms, and immune escape, including circulating immune cell populations, and inflammatory cytokine profiles. We further examine their potential applications in predicting treatment response, monitoring immune-related adverse events, assessing minimal residual disease, and detecting acquired resistance. In addition, recent technological advances that are accelerating the clinical translation of liquid biopsy are highlighted, including multi-omics integration, microfluidic platforms. These approaches have improved the sensitivity, accuracy, and multidimensional characterization of tumor- and immune-derived biomarkers. Nevertheless, biological heterogeneity, limited assay standardization, and the lack of large-scale prospective validation studies continue to restrict widespread clinical implementation. Overall, immune-related biomarkers detected through liquid biopsy offer considerable potential for the longitudinal monitoring of the tumor immune microenvironment and may improve non-invasive cancer diagnosis, therapeutic monitoring, and personalized immunotherapy in the era of precision oncology.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Laboratory of Integrative Medicine, First Affiliated Hospital of Dalian Medical University, Dalian, China.",
-        "Graduate School of Dalian Medical University, Dalian Medical University, Dalian, China.",
-        "Department of Dermatology, First Affiliated Hospital of Dalian Medical University, Dalian, China.",
-        "Department of Ultrasound, First Affiliated Hospital of Dalian Medical University, Dalian, China.",
-        "Dalian Dermatology Hospital, Dalian, China."
-      ],
-      "doi": "10.3389/fcell.2026.1878092",
-      "date": "2026-09-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807637/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42810594",
-      "date": "2026-09-29",
-      "title": "CODNet models enable real-time assessment of colorectal cancer organoids and uncover the integral role of LTBP2 in the diffuse organoid subtype.",
+      "id": "pubmed-42811535",
+      "date": "2026-09-30",
+      "title": "KRT13 Drives Pancreatic Cancer Malignancy Via the PI3K/AKT-PPARG Axis While Enhancing Sensitivity to Navitoclax.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810594/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular cell research，PMID 为 42810594。",
-      "report": "To achieve precise classification of colorectal cancer (CRC) at the patient-derived organoids (PDOs) level, we constructed a real-time CRC PDO assessment system through artificial intelligence (AI) assisted model using an optimized object detection algorithm....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42810358",
-      "date": "2026-09-29",
-      "title": "Translational Insights and Clinical Relevance of Glioblastoma 3D In Vitro Models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810358/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811535/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -553,135 +517,38 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42810358。",
-      "report": "Glioblastoma (GBM) remains one of the most aggressive and treatment-resistant brain tumors, highlighting the urgent need for experimental models that can faithfully recapitulate its complex biology. In vitro models are essential tools for investigating GBM bio...",
+      "fact": "PubMed 记录显示该文献收录于 Medical science monitor : international medical journal of experimental and clinical research，PMID 为 42811535。",
+      "report": "BACKGROUND Pancreatic cancer remains one of the most aggressive malignancies, characterized by late diagnosis, limited treatment options, and a dismal prognosis, with a 5-year survival rate consistently below 13%. The molecular mechanisms driving its progressi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42810107",
+      "id": "pubmed-42811599",
       "date": "2026-09-29",
-      "title": "Post-translational acylation of proteins in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42810107/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment and research communications，PMID 为 42810107。",
-      "report": "Accumulating preclinical evidence indicates that protein acylation, a functionally diverse class of post-translational modifications, is implicated in the regulation of protein stability, enzymatic activity, subcellular localization, molecular interactions, an...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42809120",
-      "date": "2026-09-29",
-      "title": "A patient-derived organoid platform for predominantly posterior fossa adult ependymoma: histopathologic preservation, culture-associated transcriptomic remodeling, and in vivo tumorigenicity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Ground-state chromophore geometry, not cage size, tracks quantum yield in fluorescent proteins.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42809120/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811599/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42809120。",
-      "report": "Well-characterized patient-derived models of adult ependymoma (EPN) remain limited. We established a patient-derived organoid (PDO) platform from adult EPN and evaluated its histopathologic and immunophenotypic characteristics, transcriptomic relationship to p...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42808695",
-      "date": "2026-09-29",
-      "title": "Single-cell spatial mapping reveals reproducible cell type organization and spatially dependent gene expression in gastruloids.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808695/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42808695。",
-      "report": "Gastruloids are stem-cell-based models that recapitulate key aspects of mammalian gastrulation, including the formation of an anterior-posterior axis. However, we do not have detailed spatial information about gene expression and cell type organization, partic...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42808604",
-      "date": "2026-09-29",
-      "title": "Transforming Brain Organoids Into Functional Platforms: Convergence of Engineering, Imaging, AI, and Ethics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808604/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [
-        "emulate"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42808604。",
-      "report": "Brain organoids are self-organizing 3D aggregates derived from pluripotent stem cells and thus mirror many aspects of human brain development, including gene expression programs, spatial organization, and neuron subtype specification. As a result, these organo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Biophysical journal，PMID 为 42811599。",
+      "report": "A common explanation for brightness variation in fluorescent proteins (FPs) is that tight chromophore cages produce bright proteins. This model predicts that quantum yield should track the dihedral rotational space available to the chromophore. We tested that...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -711,6 +578,36 @@
       "fact": "PubMed 记录显示该文献收录于 The FEBS journal，PMID 为 42808650。",
       "report": "While proteins are built from 20 canonical amino acids, it is interesting to explore whether proteins can be formed from significantly reduced amino acid alphabets. Our bioinformatics survey of UniProt (more than 250 m sequences) revealed that proteins compose...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42811206",
+      "date": "2026-09-29",
+      "title": "Dual-tetrahedral DNA-enabled strand displacement amplification biosensor for cell imaging and clinical detection of miR-34a-5p in NAFLD.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811206/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Analytical and bioanalytical chemistry，PMID 为 42811206。",
+      "report": "The clinical diagnosis of nonalcoholic fatty liver disease (NAFLD) remains challenging due to the invasiveness of liver biopsy and the lack of reliable serum biomarkers, particularly for detecting low-abundance, highly homologous microRNAs such as miR-34a-5p....",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -816,35 +713,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of computer-aided molecular design，PMID 为 42803993。",
       "report": "Attrition rates in clinical drug development remain above 90%, with most failures rooted in inadequate compound quality at the early discovery stage. Chemical language models (CLMs), neural sequence models pretrained on hundreds of millions of SMILES or SELFIE...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42803306",
-      "date": "2026-09-28",
-      "title": "Engineering serum stable protein nanosheets with reduced macrophage uptake.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42803306/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Chemical communications (Cambridge, England)，PMID 为 42803306。",
-      "report": "Here, we engineer self-assembled planar micron-scale protein nanosheets through rational protein design. The protein nanosheets are stable in serum and evade macrophage uptake. These properties enable prolonged extracellular persistence, making them suitable e...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1043,35 +911,73 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42807637",
-      "date": "2026-09-14",
-      "title": "Immune-related biomarkers in liquid biopsy for cancer: emerging tools for non-invasive precision oncology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42811363",
+      "date": "2026-09-16",
+      "title": "Uncovering pan-cancer signatures of chemoresistance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42807637/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811363/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42807637。",
-      "report": "Liquid biopsy has emerged as a powerful non-invasive tool in precision oncology, providing real-time insights into tumor evolution, host immune responses, and dynamic changes in the tumor immune microenvironment. By enabling minimally invasive sampling, it can...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42811363。",
+      "report": "Chemotherapy resistance remains a formidable challenge in cancer treatment, driving high mortality rates worldwide. Despite significant advancements, it remains unclear whether conserved molecular programs underpin therapy resistance across cancer types. Here,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42812155",
+      "date": "2026-09-15",
+      "title": "Cancer stem cell programs S-nitrosylation and deubiquitination of FoxP3 protein to promote regulatory T cell differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42812155/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42812155。",
+      "report": "Cancer stem cells (CSCs) are critical drivers of tumor progression and therapeutic resistance in non-small cell lung cancer (NSCLC). However, how CSCs remodel the immunosuppressive tumor microenvironment (TME) of NSCLC remains largely unclear. Flow cytometry w...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1104,6 +1010,40 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of Cancer，PMID 为 42807776。",
       "report": "Bladder cancer (BLCA) remains one of the most prevalent and costly malignancies worldwide, largely owing to its high recurrence rate and the invasive nature of conventional surveillance modalities. Induced pluripotent stem cell (iPSC) technology offers a new f...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42811986",
+      "date": "2026-09-08",
+      "title": "Targeting Drug-Tolerant Persister Cells in Cancer: Progress From Modeling to Targeting Fragility Studies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811986/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioscience (Landmark edition)，PMID 为 42811986。",
+      "report": "Drug-tolerant persister (DTP) cells are a major cause of cancer treatment failure and tumor relapse. This review provides a systematic summary of recent advances in research on DTP cells in cancer, including their biological features, model systems, and target...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1142,6 +1082,34 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42775042。",
       "report": "Single-cell perturbation technologies, multimodal omics, spatial profiling, and generative modeling are transforming the virtual cell from a theoretical concept into a practical objective for cell biology. Yet current efforts often emphasize model scale, data...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42811341",
+      "date": "2026-09-05",
+      "title": "The YTHDF proteins modulate Alzheimer's disease-associated brain gene signatures.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42811341/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular neurodegeneration，PMID 为 42811341。",
+      "report": "Gene signatures of Alzheimer's disease (AD) brains reflect the output of a complex interplay of genetic, epigenetic, epi-transcriptomic, and post-transcriptional regulations. To nominate candidate factors modulating these signatures, we developed a machine lea...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1235,6 +1203,34 @@
       "fact": "PubMed 记录显示该文献收录于 BMC genomics，PMID 为 42754836。",
       "report": "Existing virtual perturbation methods can often infer directional changes by comparing predicted post-perturbation expression profiles with control cells. However, workflows that directly return direction-specific downstream candidate genes together with confi...",
       "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42812152",
+      "date": "2026-07-28",
+      "title": "Co-optation of the regenerative role of type 2 alveolar cells in distal lung repair in mice by terminal airway epithelial cells in humans.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42812152/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42812152。",
+      "report": "The lung is endowed with extensive regenerative capacity. The principal cell of the lung is the type 1 alveolar epithelial (AT1) cell, which mediates gas exchange. Mouse models implicated surfactant-producing type 2 alveolar epithelial (AT2) cells as facultati...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
