@@ -1019,7 +1019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1027,7 +1027,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1035,7 +1035,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1043,23 +1043,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1067,21 +1067,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-abbisko-official-0dd2a5ec14f1"
+          "evidence-company-candidate-abbisko-official-7d6bffd12441"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
-            "date": "2026-09-24",
+            "id": "event-evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "date": "2026-10-01",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
           }
         ],
@@ -1096,7 +1096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-24",
+        "lastEvidenceDate": "2026-10-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -1105,14 +1105,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
-          "date": "2026-09-24",
+          "id": "event-evidence-company-candidate-abbisko-official-7d6bffd12441",
+          "date": "2026-10-01",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
         }
       ]
@@ -2882,7 +2882,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2890,7 +2890,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2898,7 +2898,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2906,23 +2906,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2930,21 +2930,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-acotec-official-0dd2a5ec14f1"
+          "evidence-company-candidate-acotec-official-7d6bffd12441"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
-            "date": "2026-09-24",
+            "id": "event-evidence-company-candidate-acotec-official-7d6bffd12441",
+            "date": "2026-10-01",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
           }
         ],
@@ -2959,7 +2959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-24",
+        "lastEvidenceDate": "2026-10-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -2968,14 +2968,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
-          "date": "2026-09-24",
+          "id": "event-evidence-company-candidate-acotec-official-7d6bffd12441",
+          "date": "2026-10-01",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
         }
       ]
@@ -15046,7 +15046,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-arvinas-official-81e19203dde6",
             "date": "2026-09-30",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -15124,7 +15124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-arvinas-official-81e19203dde6",
           "date": "2026-09-30",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45969,7 +45969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Doing Business With Us MyIllumina Platform",
             "text": "Doing Business With Us MyIllumina Platform",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45977,7 +45977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Software & Analysis Illumina BioInsight Platform",
             "text": "Software & Analysis Illumina BioInsight Platform",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45985,7 +45985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "One platform for complete biological insights",
             "text": "One platform for complete biological insights",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -45993,7 +45993,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
             "text": "Data Analysis & Informatics Infrastructure & Pipeline Setup",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -46001,7 +46001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -46009,7 +46009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
             "text": "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -46017,7 +46017,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-illumina-official-bb85914b1108",
+          "evidence-company-illumina-official-07c96add7003",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
           "evidence-sec-0001110803-000119312526346923",
@@ -46033,14 +46033,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-illumina-official-bb85914b1108",
-            "date": "2026-09-05",
+            "id": "event-evidence-company-illumina-official-07c96add7003",
+            "date": "2026-10-01",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+            "evidenceId": "evidence-company-illumina-official-07c96add7003",
             "sourceUrl": "https://www.illumina.com/"
           },
           {
@@ -46100,7 +46100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-09-05",
+        "lastEvidenceDate": "2026-10-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -46109,14 +46109,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-illumina-official-bb85914b1108",
-          "date": "2026-09-05",
+          "id": "event-evidence-company-illumina-official-07c96add7003",
+          "date": "2026-10-01",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-illumina-official-bb85914b1108",
+          "evidenceId": "evidence-company-illumina-official-07c96add7003",
           "sourceUrl": "https://www.illumina.com/"
         },
         {
@@ -49030,7 +49030,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline from A to Z.",
             "text": "Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline from A to Z.",
-            "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
+            "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
             "sourceUrl": "https://insilico.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49038,7 +49038,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Generative AI Software for Drug Discovery, Scientific Research & Sustainability",
             "text": "Generative AI Software for Drug Discovery, Scientific Research & Sustainability",
-            "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
+            "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
+            "sourceUrl": "https://insilico.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "THERAPEUTIC PIPELINE High-Quality Therapeutic Programs Discovered Using Generative AI and Automation",
+            "text": "THERAPEUTIC PIPELINE High-Quality Therapeutic Programs Discovered Using Generative AI and Automation",
+            "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
             "sourceUrl": "https://insilico.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49046,15 +49054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "by transforming drug discovery and development with generative artificial intelligence, significantly reducing the time and cost to bring life-saving medications to patients.",
             "text": "by transforming drug discovery and development with generative artificial intelligence, significantly reducing the time and cost to bring life-saving medications to patients.",
-            "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
-            "sourceUrl": "https://insilico.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "How Early Protein Modeling Advanced to AI-Driven Drug Discovery with Insilico Medicine",
-            "text": "How Early Protein Modeling Advanced to AI-Driven Drug Discovery with Insilico Medicine",
-            "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
+            "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
             "sourceUrl": "https://insilico.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49078,7 +49078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-insilico-medicine-official-82967ba50229",
+          "evidence-company-insilico-medicine-official-4076d5f148df",
           "evidence-company-insilico-medicine-pipeline-4c3398340303"
         ]
       },
@@ -49086,14 +49086,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-insilico-medicine-official-82967ba50229",
-            "date": "2026-09-30",
+            "id": "event-evidence-company-insilico-medicine-official-4076d5f148df",
+            "date": "2026-10-01",
             "title": "Main | Insilico Medicine",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
+            "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
             "sourceUrl": "https://insilico.com/"
           },
           {
@@ -49119,7 +49119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-30",
+        "lastEvidenceDate": "2026-10-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -49128,14 +49128,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-insilico-medicine-official-82967ba50229",
-          "date": "2026-09-30",
+          "id": "event-evidence-company-insilico-medicine-official-4076d5f148df",
+          "date": "2026-10-01",
           "title": "Main | Insilico Medicine",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-insilico-medicine-official-82967ba50229",
+          "evidenceId": "evidence-company-insilico-medicine-official-4076d5f148df",
           "sourceUrl": "https://insilico.com/"
         },
         {
@@ -61146,7 +61146,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-oxford-nanopore-official-ed4824a89165",
             "date": "2026-09-30",
             "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -61188,7 +61188,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-oxford-nanopore-official-ed4824a89165",
           "date": "2026-09-30",
           "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68771,7 +68771,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-sumitomo-pharma-official-011437362656",
             "date": "2026-09-30",
             "title": "Sumitomo Pharma Co., Ltd.",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -68813,7 +68813,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-sumitomo-pharma-official-011437362656",
           "date": "2026-09-30",
           "title": "Sumitomo Pharma Co., Ltd.",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -75073,7 +75073,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-xtalpi-official-ba6c33bb317e",
             "date": "2026-09-30",
             "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75115,7 +75115,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-xtalpi-official-ba6c33bb317e",
           "date": "2026-09-30",
           "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
