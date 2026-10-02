@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-09-30T09:45:46+00:00",
+  "capturedAt": "2026-10-02T09:49:43+00:00",
   "count": 591,
   "items": [
     {
@@ -2002,8 +2002,8 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-aspire-biopharma-holdings",
-      "name": "Aspire Biopharma Holdings, Inc.",
+      "companyId": "candidate-aspire-lakewood-holdings",
+      "name": "Aspire-Lakewood Holdings, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001847345",
       "identifiers": {
         "cik": [
