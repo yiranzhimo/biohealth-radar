@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-02T12:44:52.931510+00:00",
+  "capturedAt": "2026-10-02T22:18:40.551329+00:00",
   "summary": {
-    "mentionCount": 664,
-    "candidateCount": 597,
+    "mentionCount": 659,
+    "candidateCount": 592,
     "corroboratedCount": 2,
     "identifiedCount": 589,
-    "needsReviewCount": 6,
+    "needsReviewCount": 1,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 6,
+      "ClinicalTrials": 1,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,54 +20,26 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7049e3c9ab5b2783",
-      "observedName": "Beijing Biostar Pharmaceuticals Co., Ltd.",
-      "normalizedName": "beijing biostar pharmaceuticals",
+      "id": "mention-clinicaltrials-7187140fdedd69d9",
+      "observedName": "Tarapeutics Science Inc.",
+      "normalizedName": "tarapeutics science",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05673629",
-      "sourceDate": "2023-11-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05673629",
+      "sourceRecordId": "NCT07639879",
+      "sourceDate": "2026-06-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07639879",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "乳腺癌",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Utidelone in Combination With AC Versus Docetaxel in Combination With AC for Neoadjuvant Chemotherapy in Patients With HER2-negative Breast Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-834b2d1182b12418",
-      "observedName": "Lindenhofgruppe AG",
-      "normalizedName": "lindenhofgruppe",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06227065",
-      "sourceDate": "2026-09-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06227065",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
         "Precision Oncology",
         "Recruiting",
+        "中国",
         "临床试验",
-        "疾病模型",
-        "类器官",
+        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
@@ -75,120 +47,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Precise Chemoresection in Low-grade NMIBC Using Drug Screens in Patient-derived Organoids"
-    },
-    {
-      "id": "mention-clinicaltrials-9c3f16202f64e73c",
-      "observedName": "Regenera Pharma Ltd",
-      "normalizedName": "regenera pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03462121",
-      "sourceDate": "2020-04-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03462121",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Precision Medicine",
-        "biomarker",
-        "临床试验",
-        "精准医疗",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Clinical Study Evaluating the Efficacy and Safety of RPh201 Treatment in Individuals With Alzheimer's Disease With or Without Coexisting Cerebrovascular Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-a30d64dfdb821b72",
-      "observedName": "Singlera Genomics Inc.",
-      "normalizedName": "singlera genomics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05432128",
-      "sourceDate": "2024-04-17",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05432128",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
-        "Medical AI",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "中国",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
-      ],
-      "activitySignals": [],
-      "contextTitle": "To Establish a Molecular Typing System for Early Diagnosis of Lung Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-a4d8b3bc5561990e",
-      "observedName": "Huede Healthtech Co., Ltd.",
-      "normalizedName": "huede healthtech",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06685367",
-      "sourceDate": "2024-11-12",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06685367",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "The Cost-effectiveness of Artificial Intelligence Acute Kidney Injury Prediction Auxiliary Software (Acura AKI)"
-    },
-    {
-      "id": "mention-clinicaltrials-cac8cb3eb6780cd1",
-      "observedName": "National Research Center for Preventive Medicine",
-      "normalizedName": "national research center for preventive medicine",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02355821",
-      "sourceDate": "2021-09-01",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02355821",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Comparative Effects of Moxonidine on Bone Metabolism, Vascular and Cellular Aging in Hypertensive Postmenopausal Women"
+      "contextTitle": "TR115 VS Investigator's Choice in Relapsed/Refractory Peripheral T/NK Cell Lymphoma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43995,36 +43854,40 @@
       ]
     },
     {
-      "id": "candidate-beijing-biostar-pharmaceuticals",
-      "name": "Beijing Biostar Pharmaceuticals Co., Ltd.",
+      "id": "candidate-tarapeutics-science",
+      "name": "Tarapeutics Science Inc.",
       "aliases": [
-        "Beijing Biostar Pharmaceuticals Co., Ltd."
+        "Tarapeutics Science Inc."
       ],
-      "normalizedName": "beijing biostar pharmaceuticals",
+      "normalizedName": "tarapeutics science",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2023-11-08",
-      "lastSeenAt": "2023-11-08",
+      "firstSeenAt": "2026-06-10",
+      "lastSeenAt": "2026-06-10",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "中国",
           "临床试验",
-          "乳腺癌",
+          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
           "中国",
           "临床试验",
-          "乳腺癌",
+          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -44038,195 +43901,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-7049e3c9ab5b2783"
+        "mention-clinicaltrials-7187140fdedd69d9"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2023-11-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05673629",
-          "externalId": "NCT05673629",
-          "contextTitle": "Utidelone in Combination With AC Versus Docetaxel in Combination With AC for Neoadjuvant Chemotherapy in Patients With HER2-negative Breast Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-huede-healthtech",
-      "name": "Huede Healthtech Co., Ltd.",
-      "aliases": [
-        "Huede Healthtech Co., Ltd."
-      ],
-      "normalizedName": "huede healthtech",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-11-12",
-      "lastSeenAt": "2024-11-12",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a4d8b3bc5561990e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-11-12",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06685367",
-          "externalId": "NCT06685367",
-          "contextTitle": "The Cost-effectiveness of Artificial Intelligence Acute Kidney Injury Prediction Auxiliary Software (Acura AKI)"
-        }
-      ]
-    },
-    {
-      "id": "candidate-national-research-center-for-preventive-medicine",
-      "name": "National Research Center for Preventive Medicine",
-      "aliases": [
-        "National Research Center for Preventive Medicine"
-      ],
-      "normalizedName": "national research center for preventive medicine",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2021-09-01",
-      "lastSeenAt": "2021-09-01",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-cac8cb3eb6780cd1"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2021-09-01",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02355821",
-          "externalId": "NCT02355821",
-          "contextTitle": "Comparative Effects of Moxonidine on Bone Metabolism, Vascular and Cellular Aging in Hypertensive Postmenopausal Women"
-        }
-      ]
-    },
-    {
-      "id": "candidate-regenera-pharma",
-      "name": "Regenera Pharma Ltd",
-      "aliases": [
-        "Regenera Pharma Ltd"
-      ],
-      "normalizedName": "regenera pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2020-04-30",
-      "lastSeenAt": "2020-04-30",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Longevity",
-          "Precision Medicine",
-          "biomarker",
-          "临床试验",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-9c3f16202f64e73c"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-04-30",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03462121",
-          "externalId": "NCT03462121",
-          "contextTitle": "A Clinical Study Evaluating the Efficacy and Safety of RPh201 Treatment in Individuals With Alzheimer's Disease With or Without Coexisting Cerebrovascular Disease"
+          "sourceDate": "2026-06-10",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07639879",
+          "externalId": "NCT07639879",
+          "contextTitle": "TR115 VS Investigator's Choice in Relapsed/Refractory Peripheral T/NK Cell Lymphoma"
         }
       ]
     },
@@ -47600,142 +47285,6 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
-        }
-      ]
-    },
-    {
-      "id": "candidate-singlera-genomics",
-      "name": "Singlera Genomics Inc.",
-      "aliases": [
-        "Singlera Genomics Inc."
-      ],
-      "normalizedName": "singlera genomics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.78,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-04-17",
-      "lastSeenAt": "2024-04-17",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Diagnostics",
-          "Healthcare AI",
-          "Medical AI",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "中国",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Diagnostics",
-          "Healthcare AI",
-          "Medical AI",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "中国",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a30d64dfdb821b72"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-04-17",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05432128",
-          "externalId": "NCT05432128",
-          "contextTitle": "To Establish a Molecular Typing System for Early Diagnosis of Lung Cancer"
-        }
-      ]
-    },
-    {
-      "id": "candidate-lindenhofgruppe",
-      "name": "Lindenhofgruppe AG",
-      "aliases": [
-        "Lindenhofgruppe AG"
-      ],
-      "normalizedName": "lindenhofgruppe",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-09-18",
-      "lastSeenAt": "2026-09-18",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "themes": [
-          "Advanced Disease Models",
-          "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-834b2d1182b12418"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-09-18",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06227065",
-          "externalId": "NCT06227065",
-          "contextTitle": "Precise Chemoresection in Low-grade NMIBC Using Drug Screens in Patient-derived Organoids"
         }
       ]
     }
