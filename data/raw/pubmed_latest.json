@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-03T05:24:07.932327+00:00",
+  "capturedAt": "2026-10-03T11:45:15.073155+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-03"
   },
   "pmids": [
+    "42827133",
+    "42827123",
+    "42827098",
     "42826932",
     "42826097",
     "42824806",
-    "42824489",
-    "42824442",
-    "42824344",
     "42818971",
     "42818106",
     "42816262",
@@ -32,14 +32,78 @@
     "42818266",
     "42818144",
     "42816606",
+    "42827132",
+    "42827107",
     "42826825",
     "42825038",
     "42824543",
-    "42824332",
-    "42824309",
-    "42824111"
+    "42824332"
   ],
   "records": [
+    {
+      "pmid": "42827133",
+      "title": "Tonicity drives collecting duct maturation in the mammalian kidney.",
+      "abstract": "Organ maturation is a fundamental biological process and a major challenge for organoid-based regenerative medicine. During kidney maturation, osmolality increases in the renal medulla for urine concentration, yet whether this extreme environment conversely contributes to kidney maturation remains unclear. Here we show that high tonicity, i.e., salt, drives morphological, transcriptional, and functional maturation of medullary collecting ducts (CDs) primarily via nuclear factor of activated T cells 5 (NFAT5). This occurs both in vitro and in vivo. Combining high tonicity with maturation-promoting hormones, we establish a robust maturation protocol for human medullary CD organoids and a functional assay to measure water permeability in CD organoids, enabling modeling of three disease states: NFAT5 deletion, and lithium-induced and congenital nephrogenic diabetes insipidus. Collectively, high tonicity drives mammalian kidney maturation, offering a promising platform to maximize the potential of organoids for future therapies.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Kidney Development, Institute of Molecular Embryology and Genetics, Kumamoto University, Kumamoto, Japan.",
+        "Liaison Laboratory Research Promotion Center, Institute of Molecular Embryology and Genetics, Kumamoto University, Kumamoto, Japan.",
+        "Center for Cancer Immunotherapy and Immunobiology, Kyoto University Graduate School of Medicine, Kyoto, Japan.",
+        "Department of Nephrology, Kumamoto University Graduate School of Medical Sciences, Kumamoto, Japan.",
+        "Department of Urology, Kumamoto University Graduate School of Medical Sciences, Kumamoto, Japan.",
+        "Immunology Unit, Department of Medicine and Life Sciences, Universitat Pompeu Fabra and Barcelona Biomedical Research Park, Barcelona, Spain.",
+        "Department of Kidney Development, Institute of Molecular Embryology and Genetics, Kumamoto University, Kumamoto, Japan. ryuichi@kumamoto-u.ac.jp."
+      ],
+      "doi": "10.1038/s41467-026-77903-4",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827133/"
+    },
+    {
+      "pmid": "42827123",
+      "title": "Restorative and regenerative therapies for vision loss.",
+      "abstract": "Reversing blindness and restoring functional vision remains a central challenge in biomedical engineering. Advances in ocular prosthetics have enabled limited recovery of light perception, motion detection, and coarse object recognition through anterior segment devices such as keratoprostheses and through posterior segment interfaces including retinal, suprachoroidal, optic nerve, and cortical implants. Parallel progress in organ-on-a-chip systems and retinal organoids is providing increasingly sophisticated platforms for disease modelling and therapeutic development. Despite these advances, issues of long-term biocompatibility, signal fidelity, and surgical complexity continue to constrain clinical performance. Emerging approaches that combine stem cell-derived tissues, biofabrication, and hybrid bioelectronic constructs offer promising avenues for next-generation vision restoration, although current production remains limited to early-stage or small-scale systems. Effective integration of these technologies also requires structured vision-rehabilitation strategies to harness neuroplasticity and support functional adaptation. This review synthesises recent progress across prosthetic, rehabilitative, and regenerative domains and outlines key opportunities for future translational development.",
+      "journal": "Eye (London, England)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Schepens Eye Research Institute, Boston, MA, USA. nboychev@meei.harvard.edu.",
+        "Department of Clinical Education and Clinical Sciences, New England College of Optometry, Boston, MA, USA. nboychev@meei.harvard.edu.",
+        "Department of Ophthalmology, Massachusetts Eye and Ear, Harvard Medical School, Schepens Eye Research Institute, Boston, MA, USA.",
+        "Vision Center of Excellence, Defense Health Agency, Silver Spring, MD, USA.",
+        "Optometry Service, Veterans Affairs Long Beach Healthcare System, Long Beach, CA, USA.",
+        "NECO Center for Eye Care, New England College of Optometry, Boston Medical Center, BU Eye Associates, Boston, MA, USA."
+      ],
+      "doi": "10.1038/s41433-026-04913-3",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827123/"
+    },
+    {
+      "pmid": "42827098",
+      "title": "TFAM loss drives oxaliplatin resistance by linking mtDNA release to STING-TBK1-mediated lysophagy.",
+      "abstract": "Acquired resistance to oxaliplatin (Oxa) represents a major clinical challenge in the treatment of colorectal cancer (CRC). Lysosomes are intracellular degradative organelles that enable cancer cells to adapt to metabolic and environmental stress; however, their precise regulatory roles in drug resistance remain poorly understood. Here, we report that lysosomal damage and its selective autophagic clearance (lysophagy) occur frequently in both Oxa-treated CRC cells and Oxa-resistant (OxaR) CRC cells. Through quantitative proteomics, we identified the significant downregulation of mitochondrial transcription factor A (TFAM) as a key event in Oxa-treated and OxaR cells. Mechanistically, Oxa-induced TFAM loss leads to mitochondrial DNA (mtDNA) leakage into the cytosol, which activates the STING-TBK1 signaling axis. This pathway subsequently enhances lysophagic flux, providing cancer cells with a survival advantage under Oxa stress. Crucially, pharmacological inhibition of TBK1 abrogates this adaptive lysophagy, restoring Oxa sensitivity and suppressing tumor growth in both xenograft and patient-derived organoid models. Collectively, our study reveals a novel TFAM-mtDNA-STING-TBK1 signaling axis that promotes chemoresistance through the co-option of lysophagy, highlighting TBK1 as a viable therapeutic target to overcome Oxa resistance in CRC.",
+      "journal": "Oncogene",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment, Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, Department of Radiology, The First Affiliated Hospital of Jinan University, Guangzhou, China.",
+        "MOE Key Laboratory of Tumor Molecular Biology, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China.",
+        "Department of Clinical Laboratory, The First Affiliated Hospital of Jinan University, Guangzhou, China.",
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment, Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, Department of Radiology, The First Affiliated Hospital of Jinan University, Guangzhou, China. tqyhe@email.jnu.edu.cn.",
+        "MOE Key Laboratory of Tumor Molecular Biology, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China. tqyhe@email.jnu.edu.cn.",
+        "MOE Key Laboratory of Tumor Molecular Biology, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China. wangyang0507@jnu.edu.cn.",
+        "State Key Laboratory of Bioactive Molecules and Druggability Assessment, Guangdong Basic Research Center of Excellence for Natural Bioactive Molecules and Discovery of Innovative Drugs, Department of Radiology, The First Affiliated Hospital of Jinan University, Guangzhou, China. zj6410@jnu.edu.cn.",
+        "MOE Key Laboratory of Tumor Molecular Biology, Institute of Life and Health Engineering, College of Life Science and Technology, Jinan University, Guangzhou, China. zj6410@jnu.edu.cn."
+      ],
+      "doi": "10.1038/s41388-026-03990-8",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827098/"
+    },
     {
       "pmid": "42826932",
       "title": "DNA hydrogels in bone tissue engineering: where molecular ingenuity meets skeletal renaissance.",
@@ -91,61 +155,6 @@
       "doi": "10.3389/fbioe.2026.1956618",
       "date": "2026-09-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824806/"
-    },
-    {
-      "pmid": "42824489",
-      "title": "Engineering high-fidelity bone organoids: Operational classification, multilineage crosstalk, biofabrication evidence, and translational validation.",
-      "abstract": "Bone organoids are emerging as three-dimensional models of skeletal development, disease and regeneration. The term bone organoid is applied inconsistently to osteogenic spheroids, scaffold-dominated constructs and self-organizing skeletal tissues. This review establishes an operational five-class framework that distinguishes osteogenic spheroids, bone-like microtissues, engineered skeletal constructs, bone organoids and high-fidelity bone organoids. Core organoid criteria are separated from advanced, application-dependent features, and a structured evidence map applies the terminology to representative original studies. We summarize the coordinated osteogenic, chondrogenic, vascular, neural and immune programs that govern bone formation and examine how cell source, induction sequence, matrix composition, mass transport and mechanical stimulation affect maturation. Inkjet, extrusion, laser-assisted and photocuring-based bioprinting are compared using common technical and biological criteria, including resolution, viscosity, cell density, injury mechanisms, mineral compatibility, perfusable channels, scalability and direct bone-organoid evidence. Current data show that printing reliably controls initial geometry, but rarely demonstrates improved self-organization, multilineage interaction or long-term function relative to composition-matched controls. Translational requirements are therefore evaluated separately for developmental and genetic disease, metabolic and inflammatory disease, tumor-bone interactions, drug screening and regenerative grafts. We also define material-aware controls for active mineralization and scale-resolved mechanical testing. Available models reproduce important subsets of bone biology; however, among the representative studies examined, no single platform yet demonstrates hierarchical matrix maturation, coupled formation-resorption and controlled mechanosensitivity in combination. These evidence thresholds provide a practical basis for terminology, benchmarking and future translation.",
-      "journal": "Materials today. Bio",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Orthopedics, Huashan Hospital, Fudan University, Shanghai, China.",
-        "Department of Orthopedics, Shanghai Fifth People's Hospital, Fudan University, China.",
-        "Department of Laboratory Medicine, Huashan Hospital, Fudan University, China."
-      ],
-      "doi": "10.1016/j.mtbio.2026.103676",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824489/"
-    },
-    {
-      "pmid": "42824442",
-      "title": "Mechanoresponsive reprogramming of tumor-associated macrophages during cancer progression.",
-      "abstract": "Tumor-associated macrophages (TAMs) are critical regulators of the tumor microenvironment. They exhibit diverse pro-tumorigenic and antitumor phenotypes depending on their monocyte-derived or tissue-resident origins. Beyond biochemical signaling, the mechanical properties of the tumor microenvironment, including extracellular matrix stiffness, density, architecture, and spatial heterogeneity, can regulate TAM behavior. This review discusses how these mechanical cues influence TAM infiltration, polarization, and tumor-supportive functions. We further highlight how spatially distinct mechanical environments contribute to TAM heterogeneity within solid tumors. Furthermore, we evaluate how advanced 3D biomimetic cancer platforms, including hydrogels, spheroids, organoids, and microfluidic organ-on-a-chip models, have become essential for accurately recapitulating these mechanoresponsive behaviors and phenotypic adaptations in vitro. We also discuss the capacity and current limitations of these models in reproducing the mechanical properties of the tumor microenvironment. Finally, we discuss how understanding these mechanical regulatory pathways may reveal promising avenues for TAM-targeted therapeutic strategies, particularly those aimed at disrupting mechanical niches to achieve effective TAM depletion or antitumor reprogramming. We highlight the need to integrate TAM-targeted strategies with mechanobiological regulation. Collectively, these insights underscore the importance of mechanobiology in regulating macrophage plasticity and its therapeutic potential in clinical oncology.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul, Republic of Korea.",
-        "Department of Applied Mechanics and Biomedical Engineering, Indian Institute of Technology Madras, Chennai, India.",
-        "Department of Integrative Energy Engineering, College of Engineering, Korea University, Seoul, Republic of Korea.",
-        "Biomaterials Research Center, Biomedical Research Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea."
-      ],
-      "doi": "10.3389/fcell.2026.1915582",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824442/"
-    },
-    {
-      "pmid": "42824344",
-      "title": "In vitro skin models for pigmentary disorders: from reconstructed tissues to skin-on-a-chip platforms.",
-      "abstract": "Cutaneous pigmentary disorders, including vitiligo, melasma, post-inflammatory hyperpigmentation (PIH) and solar/senile lentigines (SL), are prevalent, chronic and recurrent conditions driven by interactions among melanocytes, keratinocytes, fibroblasts, immune cells, the extracellular matrix (ECM) and environmental stimuli. Conventional animal models and two-dimensional cultures incompletely reproduce the cellular heterogeneity, tissue architecture and the dynamic microenvironment that regulates human pigmentation. To address these challenges, this review evaluates human-relevant in vitro models through a framework integrating biomaterial engineering, disease-specific modeling and translational evaluation, based on principles of tissue engineering, pathological reconstruction and predictive assessment. We compare ex vivo explants, co-cultures, three-dimensional skin equivalents, bioprinted constructs, organoids and skin-on-a-chip platforms in terms of cell sources, engineered matrices, structural fidelity, functional readouts, disease specificity, reproducibility and suitability for mechanistic studies and therapeutic evaluation. We further distinguish pigmentation-capable systems from models that recapitulate disease-specific pathological processes, including immune-mediated melanocyte loss in vitiligo, chronic dermal-epidermal signaling alterations in melasma, inflammation-associated pigmentation in PIH and senescence-related microenvironmental remodeling in SL. Current bottlenecks, including vascular and immune integration, long-term stability, quantitative monitoring, reproducibility, standardization and regulatory acceptance within the framework of New Approach Methodologies, are discussed.",
-      "journal": "Regenerative biomaterials",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100144, China.",
-        "Skin-on-a-Chip Translational Medicine Center, Joint Laboratory of Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Southeast University, Beijing 100144, China.",
-        "State Key Laboratory of Digital Medical Engineering, Institute of Microphysiological Systems, School of Biological Science and Medical Engineering, Southeast University, Nanjing 210096, China.",
-        "Laboratory of Organs-on-a-Chip Research, Jiangsu Avatarget Biotechnology Co., Ltd, Suzhou 215163, China."
-      ],
-      "doi": "10.1093/rb/rbag165",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824344/"
     },
     {
       "pmid": "42818971",
@@ -340,6 +349,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816606/"
     },
     {
+      "pmid": "42827132",
+      "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction.",
+      "abstract": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-seq), a liquid biopsy method for urine cfRNA profiling, and apply it to 683 urine samples from patients with cancer and controls. Urine cfRNA contained transcripts from genitourinary tissues and, in patients with prostate, kidney or bladder cancer, tumor-derived transcripts. uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mutations. Urine cfRNA analysis also sensitively detected minimal residual disease and distinguished complete molecular responses after surgery from those after intravesical Bacillus Calmette-Guérin (BCG). Pretreatment urine from complete responders to BCG was enriched for T cell and other immune signatures, suggesting a preexisting antitumor immune response, whereas nonresponders showed higher expression of proliferation-related genes. In pretreatment urine from 114 patients, this biological difference enabled development of a biomarker predicting likelihood of response to BCG versus chemotherapy (area under the curve 0.93) that was strongly associated with risk of recurrence. Urine cfRNA analysis is therefore a promising biomarker approach for bladder cancer and potentially other urologic malignancies, although prospective studies are needed to assess its clinical utility.",
+      "journal": "Nature medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Stanford Cancer Institute, Stanford University, Stanford, CA, USA.",
+        "Department of Radiation Oncology, Stanford University, Stanford, CA, USA.",
+        "Program in Cancer Biology, Stanford University, Stanford, CA, USA.",
+        "Resero Bio, San Carlos, CA, USA.",
+        "Division of Oncology, Department of Medicine, Stanford University, Stanford, CA, USA.",
+        "Department of Urology, Stanford University, Stanford, CA, USA.",
+        "Veterans Affairs Palo Alto Health Care System, Palo Alto, CA, USA.",
+        "Department of Pathology, Stanford University, Stanford, CA, USA.",
+        "Canary Center at the Stanford School of Medicine, Stanford University, Stanford, CA, USA.",
+        "Division of Hematology, Department of Medicine, Stanford University, Stanford, CA, USA.",
+        "Stanford Cancer Institute, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Division of Oncology, Department of Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Division of Hematology, Department of Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Stanford Cancer Institute, Stanford University, Stanford, CA, USA. jliao@stanford.edu.",
+        "Department of Urology, Stanford University, Stanford, CA, USA. jliao@stanford.edu.",
+        "Veterans Affairs Palo Alto Health Care System, Palo Alto, CA, USA. jliao@stanford.edu.",
+        "Stanford Cancer Institute, Stanford University, Stanford, CA, USA. diehn@stanford.edu.",
+        "Department of Radiation Oncology, Stanford University, Stanford, CA, USA. diehn@stanford.edu.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA, USA. diehn@stanford.edu."
+      ],
+      "doi": "10.1038/s41591-026-04673-3",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827132/"
+    },
+    {
+      "pmid": "42827107",
+      "title": "Single-cell epigenomics of colorectal cancer.",
+      "abstract": "Colorectal cancer (CRC) exhibits remarkable phenotypic heterogeneity that cannot be fully explained by genetic alterations alone. Advances in single-nucleus assay for transposase-accessible chromatin sequencing have revealed chromatin accessibility as a central regulatory layer shaping tumor identity, cellular plasticity and therapeutic response. In this Review, we synthesize recent single-cell epigenomic studies to outline an emerging regulatory principle for CRC. From an epigenetic perspective, CRC can be conceptualized as two distinct epigenomic states, intrinsic consensus molecular subtype (iCMS)2 and iCMS3, defined by divergent cis-regulatory element activities across distal enhancer and promoter landscapes. Tumor progression is accompanied by stepwise regulatory rewiring, encompassing erosion of differentiation programs in adenomas, regulatory bifurcation during malignant transformation, oncofetal reprogramming associated with therapy resistance and organotropic adaptation during metastasis. We further discuss how stromal and immune compartments undergo dynamic epigenomic remodeling, converging toward a concept of iCMS-defined epigenomic ecosystems, and how genomic alterations engage in bidirectional crosstalk with chromatin states to generate intratumoral heterogeneity. Finally, we highlight translational applications including epigenetic-immune combination therapies, liquid biopsy-based monitoring, spatial epigenomics and artificial intelligence-driven modeling.",
+      "journal": "Experimental & molecular medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Graduate School of Stem Cell and Regenerative Biology, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.",
+        "Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea. ijung@kaist.ac.kr.",
+        "KAIST InnoCORE AI-CRED Institute, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea. ijung@kaist.ac.kr.",
+        "Department of AX, College of AI, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea. ijung@kaist.ac.kr."
+      ],
+      "doi": "10.1038/s12276-026-01855-4",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827107/"
+    },
+    {
       "pmid": "42826825",
       "title": "Liquid biopsy in head and neck tumors: novel approaches and clinical applications.",
       "abstract": "Head and neck cancers (HNCs) represent one of the most prevalent and lethal types of cancer, accounting for 4.7% of annual cancer new cases and 4.9% of cancer-related mortalities. These high prevalence and mortality rates have positioned HNCs as a global health issue. Despite advances in disease treatment methods, the prognosis of patients with advanced or recurrent diseases remains poor. The difficulty of early-stage diagnosis of HNCs is one of the primary contributors to this reduced long-term survival. Currently available diagnostic and disease-monitoring tools, such as tissue biopsy and imaging techniques, are associated with several limitations, including invasiveness, limited repeatability, and limited sensitivity for detecting minimal residual disease (MRD) and microscopic metastases. In recent years, liquid biopsy has emerged as a promising approach, enabling minimally invasive detection of tumor-related biomarkers in body fluids. This review aims to provide a comprehensive overview of the progress and pitfalls of liquid biopsy in the context of HNCs. In this regard, we discuss the principles of liquid biopsy, applicable biomarker types, sample sources, and advanced detection methods. Furthermore, the current status of liquid biopsy in clinical trials of HNCs and the challenges of its clinical translation are also comprehensively explored.",
@@ -413,38 +476,6 @@
       "doi": "10.7759/cureus.115561",
       "date": "2026-08-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824332/"
-    },
-    {
-      "pmid": "42824309",
-      "title": "Biomarker-Driven Treatments for Ovarian Cancer: Moving Beyond HRD?",
-      "abstract": "Ovarian cancer is a biologically heterogeneous disease, yet for more than two decades its standard treatment of surgery and platinum-taxane chemotherapy changed little. Only a modest additional benefit was seen with the addition of bevacizumab, a monoclonal antibody targeting vascular endothelial growth factor A (VEGF-A) in selected patients. The recognition that BRCA1/2 mutations impair the repair of DNA double-strand breaks by homologous recombination, and that inhibitors of PARP are highly active in this setting, established the first widely adopted biomarker-driven treatment in this disease. Homologous recombination deficiency (HRD) therefore remains the established predictive biomarker for first-line maintenance therapy, but it is imperfect: benefit is not confined to HRD-positive tumours, assays report historical genomic scars, and most patients ultimately relapse with platinum-resistant disease. This review examines how biomarker-driven treatment in ovarian cancer is developing beyond HRD. We appraise the evidence for strategies that are already clinically established, principally PARP inhibitors, the folate receptor α-directed antibody-drug conjugate mirvetuximab soravtansine, and, more recently, PD-L1-selected immune checkpoint inhibition in platinum-resistant disease and distinguish these from approaches that remain investigational, including antibody-drug conjugates directed at HER2, TROP2, CLDN6, B7-H3/H4 and CDH6, and agents exploiting cell cycle dysregulation and replication stress such as CCNE1-associated, WEE1 and ATR-directed therapies. We also consider the practical obstacles to implementation: tumour heterogeneity and evolution, the complementary roles of tissue and liquid biopsy, when molecular profiling should be repeated, assay standardisation and access, and the limitations of basket trial designs. Progress will depend on expanding the development of practical frameworks for biomarker testing, treatment selection and sequencing.",
-      "journal": "International journal of women's health",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "NIHR Clinical Research Facility, University College Hospital, London, UK.",
-        "Department of Oncology, UCL Cancer Institute, University College London, London, UK."
-      ],
-      "doi": "10.2147/IJWH.S571328",
-      "date": "2026-09-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824309/"
-    },
-    {
-      "pmid": "42824111",
-      "title": "Circulating tumor DNA molecular response as a complementary biomarker to RECIST in immune checkpoint inhibitor therapy: current evidence and future directions.",
-      "abstract": "",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Zhejiang Provincial Hospital of Chinese Medicine, The First Affiliated Hospital of Zhejiang University of Traditional Chinese Medicine, Hangzhou, China."
-      ],
-      "doi": "10.3389/fonc.2026.1931505",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824111/"
     }
   ],
   "signals": [
@@ -477,6 +508,96 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42827133",
+      "date": "2026-10-02",
+      "title": "Tonicity drives collecting duct maturation in the mammalian kidney.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827133/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42827133。",
+      "report": "Organ maturation is a fundamental biological process and a major challenge for organoid-based regenerative medicine. During kidney maturation, osmolality increases in the renal medulla for urine concentration, yet whether this extreme environment conversely co...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42827123",
+      "date": "2026-10-02",
+      "title": "Restorative and regenerative therapies for vision loss.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827123/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Eye (London, England)，PMID 为 42827123。",
+      "report": "Reversing blindness and restoring functional vision remains a central challenge in biomedical engineering. Advances in ocular prosthetics have enabled limited recovery of light perception, motion detection, and coarse object recognition through anterior segmen...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42827098",
+      "date": "2026-10-02",
+      "title": "TFAM loss drives oxaliplatin resistance by linking mtDNA release to STING-TBK1-mediated lysophagy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827098/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42827098。",
+      "report": "Acquired resistance to oxaliplatin (Oxa) represents a major clinical challenge in the treatment of colorectal cancer (CRC). Lysosomes are intracellular degradative organelles that enable cancer cells to adapt to metabolic and environmental stress; however, the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42826717",
       "date": "2026-10-02",
       "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
@@ -503,6 +624,72 @@
       "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42826717。",
       "report": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models. However, most models do not account for experimental noise inherent in these datasets, thereby harmi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42827132",
+      "date": "2026-10-02",
+      "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827132/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42827132。",
+      "report": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-s...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42827107",
+      "date": "2026-10-02",
+      "title": "Single-cell epigenomics of colorectal cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827107/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42827107。",
+      "report": "Colorectal cancer (CRC) exhibits remarkable phenotypic heterogeneity that cannot be fully explained by genetic alterations alone. Advances in single-nucleus assay for transposase-accessible chromatin sequencing have revealed chromatin accessibility as a centra...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -728,36 +915,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42824309",
-      "date": "2026-09-26",
-      "title": "Biomarker-Driven Treatments for Ovarian Cancer: Moving Beyond HRD?",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824309/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of women's health，PMID 为 42824309。",
-      "report": "Ovarian cancer is a biologically heterogeneous disease, yet for more than two decades its standard treatment of surgery and platinum-taxane chemotherapy changed little. Only a modest additional benefit was seen with the addition of bevacizumab, a monoclonal an...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42818266",
       "date": "2026-09-24",
       "title": "Agentic campaign control for high-throughput de novo binder design.",
@@ -883,102 +1040,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42824806。",
       "report": "Organ-on-a-Chip (OoC) systems, as microphysiological models integrating microfluidic engineering, 3D tissue construction, and sensing technologies, can faithfully recapitulate the barrier functions, dynamic microenvironments, and inter-tissue crosstalk of huma...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42824489",
-      "date": "2026-09-17",
-      "title": "Engineering high-fidelity bone organoids: Operational classification, multilineage crosstalk, biofabrication evidence, and translational validation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824489/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42824489。",
-      "report": "Bone organoids are emerging as three-dimensional models of skeletal development, disease and regeneration. The term bone organoid is applied inconsistently to osteogenic spheroids, scaffold-dominated constructs and self-organizing skeletal tissues. This review...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42824442",
-      "date": "2026-09-17",
-      "title": "Mechanoresponsive reprogramming of tumor-associated macrophages during cancer progression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824442/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42824442。",
-      "report": "Tumor-associated macrophages (TAMs) are critical regulators of the tumor microenvironment. They exhibit diverse pro-tumorigenic and antitumor phenotypes depending on their monocyte-derived or tissue-resident origins. Beyond biochemical signaling, the mechanica...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42824111",
-      "date": "2026-09-17",
-      "title": "Circulating tumor DNA molecular response as a complementary biomarker to RECIST in immune checkpoint inhibitor therapy: current evidence and future directions.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824111/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42824111。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1171,43 +1232,6 @@
       "fact": "PubMed 记录显示该文献收录于 JACS Au，PMID 为 42819252。",
       "report": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3 (AF3), to predict. It has been observed that AF3 sometimes fails to capture ligand-induced conformational cha...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42824344",
-      "date": "2026-08-05",
-      "title": "In vitro skin models for pigmentary disorders: from reconstructed tissues to skin-on-a-chip platforms.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative biomaterials，PMID 为 42824344。",
-      "report": "Cutaneous pigmentary disorders, including vitiligo, melasma, post-inflammatory hyperpigmentation (PIH) and solar/senile lentigines (SL), are prevalent, chronic and recurrent conditions driven by interactions among melanocytes, keratinocytes, fibroblasts, immun...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

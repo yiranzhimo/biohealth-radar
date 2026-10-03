@@ -891,6 +891,227 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42827133",
+      "date": "2026-10-02",
+      "title": "Tonicity drives collecting duct maturation in the mammalian kidney.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827133/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42827133。",
+      "report": "Organ maturation is a fundamental biological process and a major challenge for organoid-based regenerative medicine. During kidney maturation, osmolality increases in the renal medulla for urine concentration, yet whether this extreme environment conversely co...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0919499a41531ce2006ac0ead5743887d28342367646188098",
+        "reviewedAt": "2026-10-03T11:45:24.556741+00:00",
+        "inputHash": "9abb6963879c15bd2a865a6fd7c57e22e2aa69c339096703d3486590908d8347",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献质量高，信息支持充足，结论未超出来源声明。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与文献主题一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源和推论清晰分离，证据水平判断合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42827133。",
+          "report": "Organ maturation is a fundamental biological process and a major challenge for organoid-based regenerative medicine. During kidney maturation, osmolality increases in the renal medulla for urine concentration, yet whether this extreme environment conversely co...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42827123",
+      "date": "2026-10-02",
+      "title": "Restorative and regenerative therapies for vision loss.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827123/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Eye (London, England)，PMID 为 42827123。",
+      "report": "Reversing blindness and restoring functional vision remains a central challenge in biomedical engineering. Advances in ocular prosthetics have enabled limited recovery of light perception, motion detection, and coarse object recognition through anterior segmen...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0fff7acc97e105cb006ac0eada7d0887d29a1e64b1fe779d35",
+        "reviewedAt": "2026-10-03T11:45:24.556741+00:00",
+        "inputHash": "7fbfa53376c4a3bfeccbfce7dd325e5094ba86bea72a0ad7c213c36e40e15b00",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录准确，分类合适，未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别与子类别描述符相符，能有效传递真实信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献的证据水平适中，内容描述清晰。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Eye (London, England)，PMID 为 42827123。",
+          "report": "Reversing blindness and restoring functional vision remains a central challenge in biomedical engineering. Advances in ocular prosthetics have enabled limited recovery of light perception, motion detection, and coarse object recognition through anterior segmen...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42827098",
+      "date": "2026-10-02",
+      "title": "TFAM loss drives oxaliplatin resistance by linking mtDNA release to STING-TBK1-mediated lysophagy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827098/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42827098。",
+      "report": "Acquired resistance to oxaliplatin (Oxa) represents a major clinical challenge in the treatment of colorectal cancer (CRC). Lysosomes are intracellular degradative organelles that enable cancer cells to adapt to metabolic and environmental stress; however, the...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06e9794ac7ce1422006ac0eae1e9f087d2b301fdd2a19afc73",
+        "reviewedAt": "2026-10-03T11:45:24.556741+00:00",
+        "inputHash": "6b7fbe8b90110a1efccbe79bac1015c06a1eabcf93a3a58e61c0a902cc9e24b6",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号内容分类合理，信息来源确凿，无支持性临床结论，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分开，证据层级合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42827098。",
+          "report": "Acquired resistance to oxaliplatin (Oxa) represents a major clinical challenge in the treatment of colorectal cancer (CRC). Lysosomes are intracellular degradative organelles that enable cancer cells to adapt to metabolic and environmental stress; however, the...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42826717",
       "date": "2026-10-02",
       "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
@@ -958,6 +1179,161 @@ window.BHR_DATA = {
           "report": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models.",
           "inference": "自动分类命中规则：AI-enabled Discovery。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42827132",
+      "date": "2026-10-02",
+      "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827132/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42827132。",
+      "report": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-s...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a666382eef6cdb9006ac0eae8d2ec87d282025042fc2a2f17",
+        "reviewedAt": "2026-10-03T11:45:24.556741+00:00",
+        "inputHash": "c321c138c6d56779364542aff2cb07fc808ea23975a213eacc4ccb02765fb260",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息分离明确且来源可靠。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与提供的元数据合理匹配。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理清晰分开。"
+        },
+        "riskFlags": [
+          "diagnostic_claim",
+          "research"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42827132。",
+          "report": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-s...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42827107",
+      "date": "2026-10-02",
+      "title": "Single-cell epigenomics of colorectal cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827107/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42827107。",
+      "report": "Colorectal cancer (CRC) exhibits remarkable phenotypic heterogeneity that cannot be fully explained by genetic alterations alone. Advances in single-nucleus assay for transposase-accessible chromatin sequencing have revealed chromatin accessibility as a centra...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08b034387b03487e006ac0eaed501887d28d3b97a1479a3a22",
+        "reviewedAt": "2026-10-03T11:45:24.556741+00:00",
+        "inputHash": "e86c258b2ac2e0af58830b3984d3996f0f3ddf24e2d64dc1d697bd63be2a0467",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号包含关于结直肠癌的单细胞表观基因组学的信息，但未充分评估研究质量及其他相关因素。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类中存在对研究质量和潜在偏见的潜在忽视。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平未能反映研究详细信息和局限性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42827107。",
+          "report": "Colorectal cancer (CRC) exhibits remarkable phenotypic heterogeneity that cannot be fully explained by genetic alterations alone. Advances in single-nucleus assay for transposase-accessible chromatin sequencing have revealed chromatin accessibility as a central factor in understanding the disease.",
+          "inference": "该分类信息仅供情报分流，未对研究结果的临床有效性进行评价。",
+          "unknown": "缺乏对研究质量、样本量和潜在冲突利益的评估。"
         }
       }
     },
@@ -1850,80 +2226,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42824309",
-      "date": "2026-09-26",
-      "title": "Biomarker-Driven Treatments for Ovarian Cancer: Moving Beyond HRD?",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824309/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of women's health，PMID 为 42824309。",
-      "report": "Ovarian cancer is a biologically heterogeneous disease, yet for more than two decades its standard treatment of surgery and platinum-taxane chemotherapy changed little. Only a modest additional benefit was seen with the addition of bevacizumab, a monoclonal an...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_026747bd3311b635006ac02de274cc87d09eff6b24ebae00da",
-        "reviewedAt": "2026-10-02T22:18:45.708956+00:00",
-        "inputHash": "45a3da24658c33f3b126accbc4b91bac9778669d6724730e1f289462d32a7523",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工审核以确认文献的支持性和相关性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类存在不一致性，与证据水平以及信号内容不匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平不符合文献支持的内容。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Oncology",
-          "evidenceLevel": "High",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 International journal of women's health，PMID 为 42824309。",
-          "report": "Ovarian cancer is a biologically heterogeneous disease, yet for more than two decades its standard treatment of surgery and platinum-taxane chemotherapy changed little. Only a modest additional benefit was seen with the addition of bevacizumab, a monoclonal antibody.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001662579-000162828026063497",
       "date": "2026-09-25",
       "title": "C4 Therapeutics filed Form 8-K",
@@ -2738,240 +3040,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42824806。",
           "report": "Organ-on-a-Chip (OoC) systems, as microphysiological models integrating microfluidic engineering, 3D tissue construction, and sensing technologies, can faithfully recapitulate the barrier functions, dynamic microenvironments, and inter-tissue crosstalk of human tissues.",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42824489",
-      "date": "2026-09-17",
-      "title": "Engineering high-fidelity bone organoids: Operational classification, multilineage crosstalk, biofabrication evidence, and translational validation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824489/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42824489。",
-      "report": "Bone organoids are emerging as three-dimensional models of skeletal development, disease and regeneration. The term bone organoid is applied inconsistently to osteogenic spheroids, scaffold-dominated constructs and self-organizing skeletal tissues. This review...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0639d222b381e0a8006ac02deccfd487d08f1067cbdecf6ba8",
-        "reviewedAt": "2026-10-02T22:18:45.708956+00:00",
-        "inputHash": "2d1cb912935473bc63f94bc844c71097b61f7f32f57a5d44ada080fb208aeeb8",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献符合中立情报记录的发布要求，分类合理且数据分离清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "文献的分类合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推断已清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42824489。",
-          "report": "Bone organoids are emerging as three-dimensional models of skeletal development, disease and regeneration. The term bone organoid is applied inconsistently to osteogenic spheroids, scaffold-dominated constructs and self-organizing skeletal tissues. This review...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42824442",
-      "date": "2026-09-17",
-      "title": "Mechanoresponsive reprogramming of tumor-associated macrophages during cancer progression.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824442/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42824442。",
-      "report": "Tumor-associated macrophages (TAMs) are critical regulators of the tumor microenvironment. They exhibit diverse pro-tumorigenic and antitumor phenotypes depending on their monocyte-derived or tissue-resident origins. Beyond biochemical signaling, the mechanica...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_091ae724a918f491006ac02df4f8b887d080875650ae63303f",
-        "reviewedAt": "2026-10-02T22:18:45.708956+00:00",
-        "inputHash": "c288875d063b5e30a7100f107b583ed97af4336820a119feec0f146dceaefb8c",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "内容合理，无需人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平与提供的元数据合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推论和未知内容已清晰分开。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42824442。",
-          "report": "Tumor-associated macrophages (TAMs) are critical regulators of the tumor microenvironment. They exhibit diverse pro-tumorigenic and antitumor phenotypes depending on their monocyte-derived or tissue-resident origins. Beyond biochemical signaling, the mechanica...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42824111",
-      "date": "2026-09-17",
-      "title": "Circulating tumor DNA molecular response as a complementary biomarker to RECIST in immune checkpoint inhibitor therapy: current evidence and future directions.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824111/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42824111。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05f423c170ae1586006ac02dfabe8487d09bbcd79581b99989",
-        "reviewedAt": "2026-10-02T22:18:45.708956+00:00",
-        "inputHash": "6e99f3ed85d5a7cad7269bae88c064fade3603f8a834444919f5d0c3afe82918",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该研究的证据级别较低，缺乏摘要信息，需要人工审核以评估研究质量和临床相关性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要分类和证据级别不匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别不合理，未能满足发布标准。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42824111。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -6008,94 +6076,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42824344",
-      "date": "2026-08-05",
-      "title": "In vitro skin models for pigmentary disorders: from reconstructed tissues to skin-on-a-chip platforms.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824344/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative biomaterials，PMID 为 42824344。",
-      "report": "Cutaneous pigmentary disorders, including vitiligo, melasma, post-inflammatory hyperpigmentation (PIH) and solar/senile lentigines (SL), are prevalent, chronic and recurrent conditions driven by interactions among melanocytes, keratinocytes, fibroblasts, immun...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00365bada1f6ca5f006ac02e27bc3487d094c5ed2b47337139",
-        "reviewedAt": "2026-10-02T22:18:45.708956+00:00",
-        "inputHash": "ff441a1bc485e5cfbf3daff7be4f4546792120aaa4cff68d1bc2ca0a72b1b4f8",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息分离明确，没有不当临床结论或建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信号主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源可靠，文献支持程度合适。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Longevity",
-            "Biomarkers"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "衰老",
-            "biomarker",
-            "longevity"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Regenerative biomaterials，PMID 为 42824344。",
-          "report": "Cutaneous pigmentary disorders, including vitiligo, melasma, post-inflammatory hyperpigmentation (PIH) and solar/senile lentigines (SL), are prevalent, chronic and recurrent conditions driven by interactions among melanocytes, keratinocytes, fibroblasts, immun...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
