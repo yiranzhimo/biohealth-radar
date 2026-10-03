@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-02T22:18:36.150019+00:00",
+  "capturedAt": "2026-10-03T05:24:07.932327+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,54 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-02",
-    "end": "2026-10-02"
+    "start": "2025-10-03",
+    "end": "2026-10-03"
   },
   "pmids": [
+    "42826932",
     "42826097",
     "42824806",
     "42824489",
     "42824442",
     "42824344",
-    "42823973",
     "42818971",
     "42818106",
     "42816262",
     "42815472",
     "42804716",
     "42782810",
+    "42826717",
+    "42826505",
     "42819252",
     "42818266",
     "42818144",
     "42816606",
-    "42815447",
-    "42814969",
+    "42826825",
     "42825038",
     "42824543",
     "42824332",
     "42824309",
-    "42824111",
-    "42824107"
+    "42824111"
   ],
   "records": [
+    {
+      "pmid": "42826932",
+      "title": "DNA hydrogels in bone tissue engineering: where molecular ingenuity meets skeletal renaissance.",
+      "abstract": "Bone tissue engineering is an emerging medical technology that utilizes scaffold materials to promote bone tissue regeneration and repair. Current scaffolds include biodegradable porous polymers, inorganic ceramics, and growth factors, but they face limitations such as difficulty in maintaining long-term biological activity in vivo and restricted applications. DNA hydrogels, composed of natural polymer chains and small molecules, exhibit excellent biocompatibility, biodegradability, bioactivity, high mechanical strength, and low toxicity. They have been applied in tissue repair, particularly in bone regeneration, serving as cell scaffolds, guiding tissue regeneration, and enabling gene therapy. This review summarizes recent advances in DNA hydrogels for bone repair, outlines their fabrication methods and performance characteristics, discusses applications involving growth factors, bone defect repair, bone regeneration, drug delivery, and organoid development, and explores their integration with 3D/4D/5D/6D printing, big data, cloud computing, artificial intelligence, machine learning, precision manufacturing, and automation. Despite existing challenges, DNA hydrogels offer new insights into bone tissue engineering due to their programmability and superior biological properties, and hold great promise as a key tool in bone repair.",
+      "journal": "Journal of materials chemistry. B",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Orthopedic Research Institute, Department of Orthopedics, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, P. R. China. mrorthopedics@sina.com.",
+        "Trauma Medical Center, Department of Orthopedics Surgery, West China Hospital, Sichuan University, Chengdu, China.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Cambridge, MA 02139, USA."
+      ],
+      "doi": "10.1039/d6tb01765g",
+      "date": "2026-10-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826932/"
+    },
     {
       "pmid": "42826097",
       "title": "Lacticaseibacillus rhamnosus GG enhances gefitinib efficacy and reduces treatment-related toxicity via propionyl-L-carnitine regulation.",
@@ -128,21 +146,6 @@
       "doi": "10.1093/rb/rbag165",
       "date": "2026-08-05",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824344/"
-    },
-    {
-      "pmid": "42823973",
-      "title": "Establishment and characterization of patient-derived mucinous gastric cancer organoids with faithful histopathological features and reproducible drug response patterns.",
-      "abstract": "Mucinous gastric cancer (MGC) is a rare subtype of gastric cancer (GC) characterized by distinct histological features and clinical behavior. However, the lack of specific in vitro models for MGC has hindered progress in understanding its carcinogenic mechanisms and developing effective therapeutic strategies. Patient-derived MGC organoids were established from paired primary tumor (MGC-T) and synchronous peritoneal metastatic nodule (MGC-ND) tissues obtained from a patient with MGC. To validate the generalizability of the findings, two additional independent MGC organoids (MGC2 and MGC3) and six non-MGC gastric cancer organoids were established in parallel under identical three-dimensional culture conditions. Histological and immunohistochemical analyses were performed to evaluate the fidelity of organoid recapitulation of parental tumor features. High-throughput drug sensitivity screening was conducted using a panel of 11 chemotherapeutic agents. Furthermore, organoid-based drug responses were correlated with the clinical outcomes of eight patients who received oxaliplatin-based adjuvant chemotherapy. All MGC organoids faithfully maintained the histological architecture, mucus secretion capability, and biomarker profiles of the parental tumors over serial passages. High-throughput drug sensitivity screening revealed consistent resistance to 5-fluorouracil and oxaliplatin, and marked sensitivity to taxane-based agents, across the MGC panel. Preliminary clinical correlation in eight patients showed 87.5% concordance between organoid-based predictions and actual chemotherapy outcomes. We established and characterized patient-derived MGC organoids from three patients, demonstrating faithful histological and molecular preservation, dynamic mucus secretion, and reproducible drug sensitivity pattern. Preliminary clinical correlation in a small cohort showed promising concordance. These proof-of-concept findings establish a platform for future precision oncology research in this rare gastric cancer subtype, pending larger prospective validation.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Digestive Diseases Center, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, China."
-      ],
-      "doi": "10.3389/fonc.2026.1905751",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42823973/"
     },
     {
       "pmid": "42818971",
@@ -243,6 +246,39 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782810/"
     },
     {
+      "pmid": "42826717",
+      "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
+      "abstract": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models. However, most models do not account for experimental noise inherent in these datasets, thereby harming model performance. Here, we develop fitness landscape inference generated by high-throughput experimental data (FLIGHTED), a Bayesian method of accounting for uncertainty by generating probabilistic fitness landscapes from noisy experiments. We demonstrate how FLIGHTED can improve model performance on two experiments: single-step selection assays, such as phage display, and a high-throughput assay that ties activity to base editing. We compare the performance of standard ML models on fitness landscapes with and without FLIGHTED. Accounting for noise statistically significantly improves model performance. Based on our new benchmarking with FLIGHTED, data size, not model scale, is limiting protein fitness model performance. Our results indicate that FLIGHTED can be applied to any high-throughput assay and any ML model, making it straightforward for protein designers to account for noise.",
+      "journal": "Cell systems",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Computational and Systems Biology Program, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: vsundar@generatebiomedicines.com.",
+        "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Computational and Systems Biology Program, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: esvelt@mit.edu."
+      ],
+      "doi": "10.1016/j.cels.2026.101739",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826717/"
+    },
+    {
+      "pmid": "42826505",
+      "title": "Multi-Objective-Conditioned-Return-Blocks Decision Transformer: A Novel Approach for Multi-Objective De Novo Drug Design.",
+      "abstract": "Designing novel molecules that simultaneously satisfy several, often conflicting, properties is a long-standing challenge in drug design. While recent deep learning advances optimize single targets effectively, navigating the trade-offs required for multiple objectives remains a difficult problem. We introduce the Multi-Objective-Conditioned-Return-Blocks Decision Transformer (M-GoRT), a novel architecture for multi-target de-novo drug design incorporating return-to-go blocks conditioned on goal embeddings. Trained without exploration, reward weighting or online fine-tuning, M-GoRT efficiently optimizes for multiple targets. M-GoRT achieves competitive multi-objective success rates against state-of-the-art baselines while maintaining superior structural diversity and novelty, even in high-dimensional tasks incorporating biological targets (DRD2, JNK3). In these high-dimensional tasks, M-GoRT maintains superior structural diversity and novelty establishing it as a practical tool for multi-property molecular generation. M-GoRT is freely available as an open-source software under the MIT license at GitHub https://github.com/eyalmazuz/MolGen/tree/GCRB-DT. For further information, please contact mazuze@post.bgu.ac.il. Supplementary data associated with this research are available at Bioinformatics online.",
+      "journal": "Bioinformatics (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Faculty of Computer and Information Sciences, Ben-Gurion University of the Negev, David Ben Gurion Blvd, 8410501, Be'er Sheva, Israel."
+      ],
+      "doi": "10.1093/bioinformatics/btag731",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826505/"
+    },
+    {
       "pmid": "42819252",
       "title": "Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model.",
       "abstract": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3 (AF3), to predict. It has been observed that AF3 sometimes fails to capture ligand-induced conformational changes, even though it explicitly includes ligand molecules that induce such changes. To address this challenge, we develop an enhanced sampling scheme that leverages the diffusion-based generative model used in AF3 to predict protein structures. Interpreting the diffusion generative model as a stochastic sampling process analogous to molecular dynamics (MD) simulations, we introduce here a repulsive biasing potential between predicted structures to explore wider conformational space. We demonstrate that the developed sampling scheme, AF3-ReD, successfully samples multiple conformational states in the AF3 distribution, including ligand-bound conformations of motor, kinase, and transporter proteins, which are rarely captured by the default AF3 settings. Consistency with experimentally determined structures not only at the global structural level but also in local ligand-binding poses confirms reliable conformational sampling with AF3-ReD. Notably, AF3-ReD succeeded in sampling conformational states of transporters that were unresolved at the AF3 training cutoff. Compared to another strategy based on multiple sequence alignment (MSA), AF3-ReD predicted intermediate conformations that are relatively closer to the stable states. Thus, AF3-ReD provides a promising approach to predicting dynamic conformational changes of proteins associated with ligand binding, which could be further extended to other diffusion-based generative models, such as those for protein design, potentially expanding their accessible design space.",
@@ -304,36 +340,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816606/"
     },
     {
-      "pmid": "42815447",
-      "title": "What deep learning can and cannot (yet) do for enzyme design.",
-      "abstract": "Deep learning has substantially advanced structure-based enzyme design, yet reliably creating highly efficient enzymes remains out of reach. One emerging enzyme design strategy combines diffusion-based scaffold generation around active-site models with sequence design. Such structure-based approaches have expanded the accessible reaction space and enabled the emergence of enzymes with diverse catalytic functions and complex catalytic motifs. Despite notable catalytic efficiencies (kcat/KM), turnover rates (kcat) often remain limited, suggesting that current approaches typically yield tight substrate binders rather than enzymes that selectively stabilize the chemical transition state. Computational design of electrostatic catalysis, multistate behavior, and conformational dynamics could potentially enhance transition-state stabilization and improve catalytic activity. More reliable activity oracles, integration of evolutionary information, protein language models, and lab-in-the-loop optimization could further enhance design performance. Ultimately, advancing structure-based enzyme design will require directly targeting the physicochemical drivers of catalysis to move beyond substrate binding toward the reliable design of efficient catalysts.",
-      "journal": "Current opinion in chemical biology",
+      "pmid": "42826825",
+      "title": "Liquid biopsy in head and neck tumors: novel approaches and clinical applications.",
+      "abstract": "Head and neck cancers (HNCs) represent one of the most prevalent and lethal types of cancer, accounting for 4.7% of annual cancer new cases and 4.9% of cancer-related mortalities. These high prevalence and mortality rates have positioned HNCs as a global health issue. Despite advances in disease treatment methods, the prognosis of patients with advanced or recurrent diseases remains poor. The difficulty of early-stage diagnosis of HNCs is one of the primary contributors to this reduced long-term survival. Currently available diagnostic and disease-monitoring tools, such as tissue biopsy and imaging techniques, are associated with several limitations, including invasiveness, limited repeatability, and limited sensitivity for detecting minimal residual disease (MRD) and microscopic metastases. In recent years, liquid biopsy has emerged as a promising approach, enabling minimally invasive detection of tumor-related biomarkers in body fluids. This review aims to provide a comprehensive overview of the progress and pitfalls of liquid biopsy in the context of HNCs. In this regard, we discuss the principles of liquid biopsy, applicable biomarker types, sample sources, and advanced detection methods. Furthermore, the current status of liquid biopsy in clinical trials of HNCs and the challenges of its clinical translation are also comprehensively explored.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany.",
-        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; University of Groningen, Groningen, Netherlands.",
-        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; Adaptyv, Lausanne, Switzerland.",
-        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany. Electronic address: adrian.bunzel@mpi-marburg.mpg.de."
+        "Department of Prosthetic Dentistry, Sechenov First Moscow State Medical University, Moscow, Russia.",
+        "Department of Otolaryngology and Pediatric Otolaryngology, Tashkent State Medical University, Tashkent, Uzbekistan. Electronic address: lor_amonov@mail.ru.",
+        "Department of Family Medicine Training, Andijan State Medical Institute, Andijan, Uzbekistan.",
+        "Department of Internal Medicine Propedeutics, Bukhara State Medical Institute named after Abu Ali Ibn Sino, Bukhara, Uzbekistan.",
+        "Department of Propaedeutics of Internal Diseases, Samarkand State Medical University, Samarkand, Uzbekistan.",
+        "Department of New Uzbek Literature and Literary Theory, Karshi State University, Karshi, Uzbekistan.",
+        "Department of Clinical Pharmacy and Therapeutics, Faculty of Pharmacy, Applied Science Private University, Amman, Jordan.",
+        "Department of Medicine, Termez University of Economics and Service, Termez, Uzbekistan."
       ],
-      "doi": "10.1016/j.cbpa.2026.102770",
-      "date": "2026-09-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42815447/"
-    },
-    {
-      "pmid": "42814969",
-      "title": "L2DiffM: LLM-Guided Variational Expert Diffusion for Target-Aware 3D Molecular Generation.",
-      "abstract": "Target-aware three-dimensional (3D) molecular generation aims to produce candidate molecules with chemical validity, conformational plausibility, and target compatibility under protein binding pocket constraints. Existing pocket conditioned diffusion models rely primarily on local geometric and atom-level state modeling, leaving high-level medicinal chemistry semantics underutilized; moreover, single-path de noising and fixed-step sampling strategies fail to accommo date the heterogeneity of diffusion states and inter-sample structural diversity, limiting generation quality and structural convergence stability. To address these limitations, we propose L2DiffM, a large language model (LLM)-guided variational expert diffusion framework for target-aware 3D molecular generation. Specifically, L2DiffM establishes a semantic transfer pathway from a language teacher to a protein pocket conditioned structural prior by learning high-level medicinal chemistry patterns in 1D molecular representations, providing pharmacochemical constraints during late-stage denoising. Expert selection is formulated as latent variable inference, yielding a variational self-routed mixture-of-experts (VSRD MoE) denoising mechanism that simultaneously adapts to diffusion-state heterogeneity and inter-sample structural variability via energy- and uncertainty-guided responsibility al location, mitigating the averaging bias of shared denoisers. We further propose Bond-Critical Adaptive Sampling (BCAS), which jointly evaluates bond-topology uncertainty, local geo metric uncertainty, and pocket interaction sensitivity to adap tively reallocate the sampling budget and apply sparse local corrections at high-risk boundary states. Experiments on the PDBbind and CrossDocked benchmarks demonstrate consistent improvements in molecular validity, structural stability, binding affinity, and conformational quality, confirming that L2DiffM provides an effective modeling paradigm for target aware 3D molecular generation.",
-      "journal": "IEEE journal of biomedical and health informatics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [],
-      "doi": "10.1109/JBHI.2026.3737835",
-      "date": "2026-09-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42814969/"
+      "doi": "10.1016/j.cca.2026.122871",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826825/"
     },
     {
       "pmid": "42825038",
@@ -418,25 +445,100 @@
       "doi": "10.3389/fonc.2026.1931505",
       "date": "2026-09-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824111/"
-    },
-    {
-      "pmid": "42824107",
-      "title": "Tumour-host divergence: a hypothesis for personalised blood-based early detection of hepatocellular carcinoma.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains lethal because most tumours are found too late for cure, and the blood biomarkers used for surveillance - chiefly alpha-fetoprotein (AFP) - miss many early-stage and AFP-negative tumours; despite three decades of discovery, single-analyte and marker-plus-AFP panels have converged on a performance ceiling. We advance the tumour-host divergence (THD) hypothesis: that early malignant emergence is better detected as a personalised anomaly than as a population classification, and that pairing tumour-shed signals with the host's immune-inflammatory response - read along each patient's own trajectory and conditioned on aetiology - can reveal small tumours that any single marker, measured once against a population threshold, will miss. The hypothesis rests on three complementary axes: a temporal axis interpreting change from the individual's baseline rather than a fixed cut-off; a compartmental axis treating the coupling between tumour-shed and host-response signals as the quantity of interest, on the premise that a small tumour may perturb the host before it sheds detectable marker; and a contextual axis conditioning interpretation on aetiology and fibrosis stage, including metabolic dysfunction-associated steatotic liver disease. These axes are integrated by a per-patient longitudinal risk model that flags malignant emergence as a departure from the patient's stable equilibrium. To show that this gap is real rather than assumed, we map the field across a de-duplicated corpus of 8,069 PubMed and Embase records with an explicit, reproducible taxonomy, finding research effort concentrated on tumour-derived analytes - which outnumber host-response analytes by roughly six and a half to one - far more work on prognosis than early detection, and the temporal, paired-compartment and aetiology-conditioned dimensions almost unexplored. The hypothesis is deliberately falsifiable: its central predictions are benchmarked against GALAD and are testable in surveillance cohorts that already generate longitudinal data. Its contribution is integrative - reorganising existing biomarkers rather than requiring new ones - and is aimed at the early-stage and AFP-negative patients of greatest unmet need.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Anatomy, School of Medicine, Pusan National University, Yangsan, Republic of Korea.",
-        "Research Center for Molecular Control for Cancer Cell Diversity, Pusan National University, Yangsan, Republic of Korea."
-      ],
-      "doi": "10.3389/fonc.2026.1932525",
-      "date": "2026-09-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824107/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42826932",
+      "date": "2026-10-03",
+      "title": "DNA hydrogels in bone tissue engineering: where molecular ingenuity meets skeletal renaissance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826932/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of materials chemistry. B，PMID 为 42826932。",
+      "report": "Bone tissue engineering is an emerging medical technology that utilizes scaffold materials to promote bone tissue regeneration and repair. Current scaffolds include biodegradable porous polymers, inorganic ceramics, and growth factors, but they face limitation...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42826717",
+      "date": "2026-10-02",
+      "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826717/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42826717。",
+      "report": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models. However, most models do not account for experimental noise inherent in these datasets, thereby harmi...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42826825",
+      "date": "2026-10-02",
+      "title": "Liquid biopsy in head and neck tumors: novel approaches and clinical applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826825/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42826825。",
+      "report": "Head and neck cancers (HNCs) represent one of the most prevalent and lethal types of cancer, accounting for 4.7% of annual cancer new cases and 4.9% of cancer-related mortalities. These high prevalence and mortality rates have positioned HNCs as a global healt...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42826097",
       "date": "2026-10-01",
@@ -465,6 +567,35 @@
       "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42826097。",
       "report": "Gefitinib improves outcomes in patients with EGFR-mutant non-small cell lung cancer; however, treatment-related gastrointestinal and hepatic toxicity can limit its long-term use. Here, we investigate whether probiotic strains can improve gefitinib efficacy whi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42826505",
+      "date": "2026-10-01",
+      "title": "Multi-Objective-Conditioned-Return-Blocks Decision Transformer: A Novel Approach for Multi-Objective De Novo Drug Design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826505/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42826505。",
+      "report": "Designing novel molecules that simultaneously satisfy several, often conflicting, properties is a long-standing challenge in drug design. While recent deep learning advances optimize single targets effectively, navigating the trade-offs required for multiple o...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -524,65 +655,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42816606。",
       "report": "Generative artificial intelligence (AI) models are revolutionizing biology, with tools such as AlphaFold 3 and protein design models accelerating breakthroughs in protein structure prediction and the creation of new functional proteins1. Tracking and establish...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42815447",
-      "date": "2026-09-30",
-      "title": "What deep learning can and cannot (yet) do for enzyme design.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42815447/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in chemical biology，PMID 为 42815447。",
-      "report": "Deep learning has substantially advanced structure-based enzyme design, yet reliably creating highly efficient enzymes remains out of reach. One emerging enzyme design strategy combines diffusion-based scaffold generation around active-site models with sequenc...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42814969",
-      "date": "2026-09-30",
-      "title": "L2DiffM: LLM-Guided Variational Expert Diffusion for Target-Aware 3D Molecular Generation.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42814969/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 IEEE journal of biomedical and health informatics，PMID 为 42814969。",
-      "report": "Target-aware three-dimensional (3D) molecular generation aims to produce candidate molecules with chemical validity, conformational plausibility, and target compatibility under protein binding pocket constraints. Existing pocket conditioned diffusion models re...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -882,38 +954,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42823973",
-      "date": "2026-09-17",
-      "title": "Establishment and characterization of patient-derived mucinous gastric cancer organoids with faithful histopathological features and reproducible drug response patterns.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42823973/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42823973。",
-      "report": "Mucinous gastric cancer (MGC) is a rare subtype of gastric cancer (GC) characterized by distinct histological features and clinical behavior. However, the lack of specific in vitro models for MGC has hindered progress in understanding its carcinogenic mechanis...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42824111",
       "date": "2026-09-17",
       "title": "Circulating tumor DNA molecular response as a complementary biomarker to RECIST in immune checkpoint inhibitor therapy: current evidence and future directions.",
@@ -938,34 +978,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42824111。",
       "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42824107",
-      "date": "2026-09-17",
-      "title": "Tumour-host divergence: a hypothesis for personalised blood-based early detection of hepatocellular carcinoma.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824107/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42824107。",
-      "report": "Hepatocellular carcinoma (HCC) remains lethal because most tumours are found too late for cure, and the blood biomarkers used for surveillance - chiefly alpha-fetoprotein (AFP) - miss many early-stage and AFP-negative tumours; despite three decades of discover...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },

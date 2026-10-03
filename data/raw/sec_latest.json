@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-10-02T22:18:45.508703+00:00",
+  "capturedAt": "2026-10-03T05:24:15.104775+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-09-18",
-    "end": "2026-10-02"
+    "start": "2026-09-19",
+    "end": "2026-10-03"
   },
   "forms": [
     "10-K",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-10-02",
       "reportDate": "2026-10-02",
-      "acceptanceDateTime": "2026-10-02T17:51:27.000Z",
+      "acceptanceDateTime": "2026-10-02T21:51:27.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-38976",
@@ -192,7 +192,7 @@
     {
       "filingDate": "2026-09-29",
       "reportDate": "2026-09-29",
-      "acceptanceDateTime": "2026-09-29T14:40:18.000Z",
+      "acceptanceDateTime": "2026-09-29T18:40:18.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-38976",
@@ -213,6 +213,31 @@
       "cik": "0001434265",
       "secName": "GENMAB A/S",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000127/gmab_20260929x6k.htm"
+    },
+    {
+      "filingDate": "2026-09-25",
+      "reportDate": "2026-09-25",
+      "acceptanceDateTime": "2026-09-25T15:04:25.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39567",
+      "filmNumber": "261406242",
+      "items": "7.01,8.01,9.01",
+      "size": 5543089,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "cccc-20260925.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001628280-26-063497",
+      "companyId": "c4-therapeutics",
+      "companyName": "C4 Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "CCCC",
+      "cik": "0001662579",
+      "secName": "C4 Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026063497/cccc-20260925.htm"
     },
     {
       "filingDate": "2026-09-25",
@@ -238,31 +263,6 @@
       "cik": "0001801198",
       "secName": "Legend Biotech Corp",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm"
-    },
-    {
-      "filingDate": "2026-09-25",
-      "reportDate": "2026-09-25",
-      "acceptanceDateTime": "2026-09-25T11:04:25.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-39567",
-      "filmNumber": "261406242",
-      "items": "7.01,8.01,9.01",
-      "size": 5543089,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "cccc-20260925.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001628280-26-063497",
-      "companyId": "c4-therapeutics",
-      "companyName": "C4 Therapeutics",
-      "companyDirections": [
-        "Targeted Protein Degradation"
-      ],
-      "secTicker": "CCCC",
-      "cik": "0001662579",
-      "secName": "C4 Therapeutics, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026063497/cccc-20260925.htm"
     },
     {
       "filingDate": "2026-09-24",
@@ -292,7 +292,7 @@
     {
       "filingDate": "2026-09-24",
       "reportDate": "2026-09-24",
-      "acceptanceDateTime": "2026-09-24T18:45:46.000Z",
+      "acceptanceDateTime": "2026-09-24T22:45:46.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-38976",
@@ -367,7 +367,7 @@
     {
       "filingDate": "2026-09-21",
       "reportDate": "2026-09-15",
-      "acceptanceDateTime": "2026-09-21T13:05:27.000Z",
+      "acceptanceDateTime": "2026-09-21T17:05:27.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-40323",
@@ -485,37 +485,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "sec-0001801198-000117184326006229",
-      "date": "2026-09-25",
-      "title": "Legend Biotech filed Form 6-K",
-      "entity": "Legend Biotech",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Cell Therapy"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "LEGN"
-      ],
-      "companyIds": [
-        "legend-biotech"
-      ],
-      "fact": "SEC EDGAR lists accession 0001171843-26-006229 for Legend Biotech, Form 6-K, filed on 2026-09-25.",
-      "report": "SEC metadata describes the primary document as: FORM 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
       "id": "sec-0001662579-000162828026063497",
       "date": "2026-09-25",
       "title": "C4 Therapeutics filed Form 8-K",
@@ -543,6 +512,37 @@
       ],
       "fact": "SEC EDGAR lists accession 0001628280-26-063497 for C4 Therapeutics, Form 8-K, filed on 2026-09-25.",
       "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001801198-000117184326006229",
+      "date": "2026-09-25",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-006229 for Legend Biotech, Form 6-K, filed on 2026-09-25.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
