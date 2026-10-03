@@ -4634,15 +4634,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-81e19203dde6",
+      "id": "evidence-company-arvinas-official-17a76ca15b51",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-09-30",
+      "publishedAt": "2026-10-03",
+      "snapshotDate": "2026-10-03",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4658,7 +4658,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 81e19203dde6cfa74e9290b98e2c7d2115c7a8daa66b58824b587c0a64ef39aa.",
+      "fact": "The official page was captured with normalized-content hash 17a76ca15b5166800557636019ffc5f490600a1fda01817696bc7fcfda29228e.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4671,8 +4671,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "81e19203dde6cfa74e9290b98e2c7d2115c7a8daa66b58824b587c0a64ef39aa",
-      "changeType": "unchanged",
+      "contentHash": "17a76ca15b5166800557636019ffc5f490600a1fda01817696bc7fcfda29228e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -47350,7 +47350,7 @@
       "publishedAt": "2026-10-01",
       "snapshotDate": "2026-10-01",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -47380,7 +47380,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "07c96add7003298ed7dbe40639c3fe2757296d173e07c46eddf3616e844c9ab0",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -47472,7 +47472,7 @@
       "publishedAt": "2026-10-01",
       "snapshotDate": "2026-10-01",
       "title": "Main | Insilico Medicine",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Insilico Medicine — Official Website",
@@ -47502,7 +47502,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "4076d5f148dfe73b2cb218352bb1d9b80d59a7f259d22714f9e6816c13426e49",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Levitt, Insilico Medicine is using AI to create an entirely new AI-driven drug discovery pipeline from A to Z.",
@@ -47912,15 +47912,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-77c6e1dbcc58",
+      "id": "evidence-company-legend-biotech-official-98042f73bcaa",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-09-27",
-      "snapshotDate": "2026-09-27",
+      "publishedAt": "2026-10-03",
+      "snapshotDate": "2026-10-03",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -47936,7 +47936,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 77c6e1dbcc58fa01e439b46cf02ec55be43a6eb921b0ca6a37e62e6ec6d9a093.",
+      "fact": "The official page was captured with normalized-content hash 98042f73bcaafbb6069277d38ac75c4fec05a664f9ce9ba6690831381958b69f.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -47949,14 +47949,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "77c6e1dbcc58fa01e439b46cf02ec55be43a6eb921b0ca6a37e62e6ec6d9a093",
-      "changeType": "unchanged",
+      "contentHash": "98042f73bcaafbb6069277d38ac75c4fec05a664f9ce9ba6690831381958b69f",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
+        "Our news Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
         "Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
-        "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
-        "Legend Biotech to Host Investor Conference Call on Second Quarter 2026 Results"
+        "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable."
       ],
       "businessExcerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -47965,10 +47965,10 @@
         "We focus on diseases that are considered intractable and incurable."
       ],
       "productExcerpts": [
+        "Our news Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
         "Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
         "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
-        "We are an end-to-end cell therapy company.",
-        "Helping Redefine What is Possible in Cell Therapy"
+        "We are an end-to-end cell therapy company."
       ],
       "planExcerpts": []
     },
@@ -48911,15 +48911,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-recursion-official-9d4aad28daa7",
+      "id": "evidence-company-recursion-official-8d59adfe6c15",
       "signalId": null,
       "companyIds": [
         "recursion"
       ],
-      "publishedAt": "2026-09-16",
-      "snapshotDate": "2026-09-16",
+      "publishedAt": "2026-10-03",
+      "snapshotDate": "2026-10-03",
       "title": "Pioneering AI Drug Discovery | Recursion",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Official Website",
@@ -48935,7 +48935,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9d4aad28daa7c9f20bd68c98a65712741c8753c4595153557247a2e9fcd34e13.",
+      "fact": "The official page was captured with normalized-content hash 8d59adfe6c151304cc09ad5d37defd9ffeb3c521e8af2091f1b697ce4a88c735.",
       "report": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
       "reportOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
       "reportCn": "深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
@@ -48948,8 +48948,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9d4aad28daa7c9f20bd68c98a65712741c8753c4595153557247a2e9fcd34e13",
-      "changeType": "unchanged",
+      "contentHash": "8d59adfe6c151304cc09ad5d37defd9ffeb3c521e8af2091f1b697ce4a88c735",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
@@ -49197,15 +49197,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-011437362656",
+      "id": "evidence-company-sumitomo-pharma-official-0124df51da2c",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-09-30",
+      "publishedAt": "2026-10-03",
+      "snapshotDate": "2026-10-03",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -49221,7 +49221,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 011437362656a73c26f4457418b1d64739defc5269df90162c89852787d6fd92.",
+      "fact": "The official page was captured with normalized-content hash 0124df51da2c3127a877bb587232b1dafc0bce48764c1fdc98f95191c495535d.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -49234,8 +49234,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "011437362656a73c26f4457418b1d64739defc5269df90162c89852787d6fd92",
-      "changeType": "unchanged",
+      "contentHash": "0124df51da2c3127a877bb587232b1dafc0bce48764c1fdc98f95191c495535d",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
