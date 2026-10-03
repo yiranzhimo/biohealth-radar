@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-03T11:45:24.351690+00:00",
+  "capturedAt": "2026-10-03T16:26:57.264642+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-09-19",
@@ -242,7 +242,7 @@
     {
       "filingDate": "2026-09-25",
       "reportDate": "2026-09-24",
-      "acceptanceDateTime": "2026-09-25T15:00:04.000Z",
+      "acceptanceDateTime": "2026-09-25T11:00:04.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-39307",
@@ -263,31 +263,6 @@
       "cik": "0001801198",
       "secName": "Legend Biotech Corp",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm"
-    },
-    {
-      "filingDate": "2026-09-24",
-      "reportDate": "2026-09-24",
-      "acceptanceDateTime": "2026-09-25T00:00:04.000Z",
-      "act": "34",
-      "form": "6-K",
-      "fileNumber": "001-39307",
-      "filmNumber": "261404710",
-      "items": "",
-      "size": 28502,
-      "isXBRL": 0,
-      "isInlineXBRL": 0,
-      "primaryDocument": "f6k_092326.htm",
-      "primaryDocDescription": "FORM 6-K",
-      "accessionNumber": "0001171843-26-006215",
-      "companyId": "legend-biotech",
-      "companyName": "Legend Biotech",
-      "companyDirections": [
-        "Cell Therapy"
-      ],
-      "secTicker": "LEGN",
-      "cik": "0001801198",
-      "secName": "Legend Biotech Corp",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm"
     },
     {
       "filingDate": "2026-09-24",
@@ -313,6 +288,31 @@
       "cik": "0001434265",
       "secName": "GENMAB A/S",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm"
+    },
+    {
+      "filingDate": "2026-09-24",
+      "reportDate": "2026-09-24",
+      "acceptanceDateTime": "2026-09-24T20:00:04.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-39307",
+      "filmNumber": "261404710",
+      "items": "",
+      "size": 28502,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "f6k_092326.htm",
+      "primaryDocDescription": "FORM 6-K",
+      "accessionNumber": "0001171843-26-006215",
+      "companyId": "legend-biotech",
+      "companyName": "Legend Biotech",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "LEGN",
+      "cik": "0001801198",
+      "secName": "Legend Biotech Corp",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm"
     },
     {
       "filingDate": "2026-09-23",
@@ -547,37 +547,6 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "sec-0001801198-000117184326006215",
-      "date": "2026-09-24",
-      "title": "Legend Biotech filed Form 6-K",
-      "entity": "Legend Biotech",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Cell Therapy"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "LEGN"
-      ],
-      "companyIds": [
-        "legend-biotech"
-      ],
-      "fact": "SEC EDGAR lists accession 0001171843-26-006215 for Legend Biotech, Form 6-K, filed on 2026-09-24.",
-      "report": "SEC metadata describes the primary document as: FORM 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
       "id": "sec-0001434265-000143426526000125",
       "date": "2026-09-24",
       "title": "Genmab filed Form 6-K",
@@ -605,6 +574,37 @@
       ],
       "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
       "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001801198-000117184326006215",
+      "date": "2026-09-24",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-006215 for Legend Biotech, Form 6-K, filed on 2026-09-24.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
