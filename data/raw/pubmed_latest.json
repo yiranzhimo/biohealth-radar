@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-04T06:00:00.077420+00:00",
+  "capturedAt": "2026-10-04T12:28:22.056045+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -32,12 +32,12 @@
     "42819252",
     "42818266",
     "42818144",
+    "42829565",
+    "42829510",
     "42829334",
     "42829068",
     "42829044",
-    "42828040",
-    "42828028",
-    "42828022"
+    "42828040"
   ],
   "records": [
     {
@@ -354,6 +354,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818144/"
     },
     {
+      "pmid": "42829565",
+      "title": "Clinical Utility of Liquid Comprehensive Genomic Profiling in Advanced Lung Adenocarcinoma Complicated by Disseminated Intravascular Coagulation: A Case Report.",
+      "abstract": "Comprehensive genomic profiling (CGP) is increasingly important for identifying actionable driver mutations and selecting targeted therapies in advanced lung adenocarcinoma, particularly when tissue re-biopsy is precluded by severe complications. A 74-year-old woman with no history of smoking presented with hemoptysis and abnormal findings on chest imaging. She was diagnosed with lung adenocarcinoma, cT2bN2M1c, Stage IVB, with bone and brain metastases. Initial molecular testing using AmoyDx® (AmoyDx Essential NGS Panel, Amoy Diagnostics, Xiamen, China) did not reveal any actionable driver mutations. Despite multiple lines of systemic therapy and whole-brain irradiation, the disease progressed with multiple liver metastases and cancer-associated disseminated intravascular coagulation (DIC). Given the patient's never-smoking status and the lack of residual tissue for repeat testing, comprehensive liquid biopsy-based genomic profiling was performed using FoundationOne® Liquid CDx (Foundation Medicine, Boston, MA, US). This analysis identified a human epidermal growth factor receptor 2 (HER2) exon 20 insertion mutation (p.G776delinsAVGC). Treatment with trastuzumab deruxtecan (T-DXd) resulted in marked tumor shrinkage and prompt resolution of DIC. During the sixth cycle of T-DXd, the patient developed Grade 3 drug-induced interstitial lung disease (ILD)/pneumonitis, necessitating permanent discontinuation of T-DXd and high-dose corticosteroid therapy. Subsequently, the patient developed carcinomatous meningitis and was transitioned to palliative care. This case demonstrates that liquid biopsy-based CGP can identify actionable alterations and enable life-saving targeted therapy in patients with advanced lung adenocarcinoma complicated by severe DIC; however, severe drug-induced toxicities, such as ILD, remain a critical bottleneck that requires careful monitoring to balance treatment efficacy and safety.",
+      "journal": "Cureus",
+      "publicationTypes": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Respiratory Medicine, Department of Internal Medicine, Toho University Sakura Medical Center, Chiba, JPN."
+      ],
+      "doi": "10.7759/cureus.115692",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829565/"
+    },
+    {
+      "pmid": "42829510",
+      "title": "Mechanisms of Resistance to Targeted Therapy in Epidermal Growth Factor Receptor (EGFR)- and Anaplastic Lymphoma Kinase (ALK)-Mutated Non-small Cell Lung Cancer: Molecular Basis, Emerging Biomarkers, and Therapeutic Strategies.",
+      "abstract": "Currently, with the spectacular achievement of the tyrosine kinase inhibitors (TKIs), non-small cell lung cancer (NSCLC) carrying mutations of the gene epidermal growth factor receptor (EGFR) and rearrangements of the gene anaplastic lymphoma kinase (ALK) is becoming a paradigm of precision oncology. While there has been great progress in the field of progression-free survival (PFS) and longer-term clinical results have been achieved, resistance sets in, and the long-term impact of these therapies is limited. A summary of the molecular mechanisms of acquired resistance to EGFR- and ALK-targeted drugs is provided here, ranging from secondary changes in the target kinases, via activation of other signaling pathways, to epithelial-mesenchymal transition, intratumoral tumor heterogeneity, and interactions with the tumor microenvironment. For early detection of resistance, emerging biomarkers such as liquid biopsies, circulating tumor DNA, exosomes, and biomarkers, multi-omics characterization and AI-assisted prediction models are discussed. The review also covers an overview of the new treatment strategies on the horizon, including sequential TKI therapy, combination targeted therapy, fourth-generation inhibitors, antibody-drug conjugates, bispecific antibodies, and personalized precision medicine. Finally, current clinical trials, future directions, and challenge/limitations are discussed, focusing on the need for adaptive molecular monitoring and a customized approach to overcome resistance and maximize long-term outcomes in EGFR- and ALK-mutated NSCLC.",
+      "journal": "Cureus",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Radiation Oncology, All India Institute of Medical Sciences, Rajkot, IND.",
+        "Radiation Oncology, M. P. Shah Medical College, Jamnagar, IND.",
+        "Ophthalmology, JIET Medical College and Hospital, Jodhpur, IND."
+      ],
+      "doi": "10.7759/cureus.115685",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829510/"
+    },
+    {
       "pmid": "42829334",
       "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
       "abstract": "Plasma cell-free DNA (cfDNA) is fragmented nonrandomly, reflecting the chromatin architecture of its source cells and the nucleases that process it. The fragmentome can therefore provide an indirect readout of cellular regulatory state. This review examines how DNA methylation, chromatin accessibility, nucleosome positioning, protein occupancy, and nuclease activity shape cfDNA fragmentation and considers their implications for oncology. We organize fragmentomic measurements into four classes: coverage and protection, fragment size, fragment-end properties, and diversity and entropy metrics. We discuss the genomic contexts in which these features are informative, including repetitive and transposable elements, and compare platforms by sequencing requirements, feature portability, and the fragment populations captured by different library chemistries. We then review applications in cancer screening, tissue-of-origin inference, molecular subtyping, prognosis, minimal residual disease detection, and treatment response monitoring. A central challenge for clinical translation is attributing fragmentomic changes to their tissue of origin.",
@@ -431,41 +465,6 @@
       "doi": "10.1016/j.jlb.2026.100501",
       "date": "2026-09-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828040/"
-    },
-    {
-      "pmid": "42828028",
-      "title": "Heterogeneous mechanisms, risk stratification, and translational advances in the malignant transformation of oral potentially malignant disorders to oral squamous cell carcinoma.",
-      "abstract": "Oral potentially malignant disorders (OPMDs) represent important precursor conditions in the development of oral squamous cell carcinoma (OSCC) and provide a critical window for early prevention, risk assessment, and precision intervention of oral cancer. Oral leukoplakia, proliferative verrucous leukoplakia, oral erythroplakia, oral lichen planus, and oral submucous fibrosis are among the most common and clinically significant OPMDs. Although these disorders may contribute to malignant transformation through shared mechanisms, including chronic inflammation, oxidative stress, genetic and epigenetic alterations, immune dysregulation, epithelial-mesenchymal crosstalk, and microbiome dysbiosis, their predominant pathological processes and malignant transformation trajectories exhibit substantial heterogeneity. Oral leukoplakia is characterized by marked clinical and molecular heterogeneity, genomic instability, and field cancerization effects; Proliferative verrucous leukoplakia is characterized by progressive multifocal disease, an exceptionally high risk of malignant transformation, and a pronounced propensity to develop multiple primary oral cancers; oral erythroplakia is frequently associated with high-grade epithelial dysplasia or early invasive carcinoma; oral lichen planus represents an immune-mediated chronic inflammatory microenvironment that may facilitate tumorigenesis; and oral submucous fibrosis represents a matrix-driven precancerous condition primarily characterized by areca nut exposure and fibrotic extracellular matrix remodeling. In recent years, advances in single-cell omics, spatial omics, salivary liquid biopsy, digital pathology, artificial intelligence, and local drug delivery systems have provided emerging technological platforms for dynamic risk stratification, early diagnosis, and precision prevention of malignant transformation in OPMDs. This review summarizes the epidemiological links between major OPMDs and OSCC, disease-specific and shared mechanisms underlying malignant transformation, candidate biomarkers, risk stratification strategies, and advances in translational therapies. Furthermore, it aims to establish an integrated management framework for oral potentially malignant lesions based on the \"epithelial-immune-stromal-microbial\" niche.",
-      "journal": "Frontiers in molecular biosciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Stomatology, Taihe Hospital, Hubei University of Medicine, Shiyan, Hubei, China.",
-        "Institute of Oral Diseases, School of Dentistry, Hubei University of Medicine, Shiyan, Hubei, China."
-      ],
-      "doi": "10.3389/fmolb.2026.1948915",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828028/"
-    },
-    {
-      "pmid": "42828022",
-      "title": "Precision medicine in rheumatoid arthritis: advances and clinical applications of multi-omics biomarkers.",
-      "abstract": "Rheumatoid arthritis (RA) is a highly heterogeneous autoimmune disease characterized by the presence of synovitis, joint destruction, and systemic inflammation. Despite the substantial improvement in patient outcomes brought about by the advent of targeted therapies, the traditional \"one-size-fits-all\" treatment model still faces numerous challenges. These include individual variability in treatment response, a \"trial-and-error\" process in drug selection, and the emergence of refractory RA. Precision medicine is the development of optimal prevention and treatment strategies based on patients' individual characteristics (including genetic, environmental, and lifestyle factors). This new approach offers a way to address the therapeutic challenges of RA. Multi-omics biomarkers, which integrate data from multiple dimensions including genomics, transcriptomics, proteomics, metabolomics, and epigenomics, are central tools for achieving precision medicine in RA. This article reviews the current status and challenges of precision medicine for RA, systematically summarizing the latest research advances in multi-omics biomarkers regarding RA pathogenesis, early diagnosis, treatment response prediction, prognosis assessment, and risk stratification of complications. The primary focus of this research is the identification of novel biomarkers [including TAOK3 and S-adenosylmethionine (SAM)] and the subsequent assessment of their clinical significance. Additionally, the study explores the application of artificial intelligence (AI) technology in the integration of multi-omics data and the development of predictive models. This paper analyzes the challenges faced by multi-omics biomarkers during clinical translation. These challenges include technical barriers, cost-effectiveness, and standardization. Distinct from previous reviews, which have focused broadly on the pathogenesis of RA, this review synthesizes cutting-edge evidence on TAOK3 and SAM as emerging translational biomarkers. It also critically evaluates the nascent integration of spatialomics and liquid biopsy technologies within the \"multi-omics + AI\" framework. Furthermore, it outlines the prospects for the \"clinically integrated multi-omics AI model\" in propelling RA treatment into a new era of individualization and precision.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Orthopedics, Bishan Hospital of Chongqing Medical University, Chongqing, China.",
-        "Department of Blood Transfusion, Bishan Hospital of Chongqing Medical University, Chongqing, China.",
-        "Department of Equipment and Supplies, Bishan Hospital of Chongqing Medical University, Chongqing, China."
-      ],
-      "doi": "10.3389/fimmu.2026.1876960",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828022/"
     }
   ],
   "signals": [
@@ -1006,68 +1005,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42828028",
-      "date": "2026-09-18",
-      "title": "Heterogeneous mechanisms, risk stratification, and translational advances in the malignant transformation of oral potentially malignant disorders to oral squamous cell carcinoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828028/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42828028。",
-      "report": "Oral potentially malignant disorders (OPMDs) represent important precursor conditions in the development of oral squamous cell carcinoma (OSCC) and provide a critical window for early prevention, risk assessment, and precision intervention of oral cancer. Oral...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42828022",
-      "date": "2026-09-18",
-      "title": "Precision medicine in rheumatoid arthritis: advances and clinical applications of multi-omics biomarkers.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828022/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42828022。",
-      "report": "Rheumatoid arthritis (RA) is a highly heterogeneous autoimmune disease characterized by the presence of synovitis, joint destruction, and systemic inflammation. Despite the substantial improvement in patient outcomes brought about by the advent of targeted the...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42818971",
       "date": "2026-09-10",
       "title": "PHAROS: turning single-cell perturbation models into target-directed drug-combination screens.",
@@ -1127,6 +1064,76 @@
       "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42816262。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829565",
+      "date": "2026-09-02",
+      "title": "Clinical Utility of Liquid Comprehensive Genomic Profiling in Advanced Lung Adenocarcinoma Complicated by Disseminated Intravascular Coagulation: A Case Report.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829565/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42829565。",
+      "report": "Comprehensive genomic profiling (CGP) is increasingly important for identifying actionable driver mutations and selecting targeted therapies in advanced lung adenocarcinoma, particularly when tissue re-biopsy is precluded by severe complications. A 74-year-old...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829510",
+      "date": "2026-09-02",
+      "title": "Mechanisms of Resistance to Targeted Therapy in Epidermal Growth Factor Receptor (EGFR)- and Anaplastic Lymphoma Kinase (ALK)-Mutated Non-small Cell Lung Cancer: Molecular Basis, Emerging Biomarkers, and Therapeutic Strategies.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829510/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42829510。",
+      "report": "Currently, with the spectacular achievement of the tyrosine kinase inhibitors (TKIs), non-small cell lung cancer (NSCLC) carrying mutations of the gene epidermal growth factor receptor (EGFR) and rearrangements of the gene anaplastic lymphoma kinase (ALK) is b...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
