@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-04T12:28:22.056045+00:00",
+  "capturedAt": "2026-10-04T21:34:19.568234+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-04"
   },
   "pmids": [
-    "42829072",
-    "42828863",
-    "42828364",
-    "42828282",
-    "42828170",
-    "42827781",
+    "42829922",
+    "42829921",
+    "42829823",
+    "42829432",
+    "42829431",
+    "42829391",
     "42818971",
     "42818106",
     "42816262",
@@ -34,126 +34,140 @@
     "42818144",
     "42829565",
     "42829510",
+    "42829361",
     "42829334",
     "42829068",
-    "42829044",
-    "42828040"
+    "42829044"
   ],
   "records": [
     {
-      "pmid": "42829072",
-      "title": "CRISPR-based genome editing of smooth muscle cells: Disease models, therapeutic applications, and future perspectives.",
-      "abstract": "Smooth muscle cells (SMCs) are essential for the normal function of the cardiovascular, respiratory, gastrointestinal, and urogenital systems, and SMC dysfunction contributes to a wide range of genetic and acquired diseases. CRISPR-based genome editing provides new approaches for studying SMC biology and developing therapies for smooth muscle disorders. In particular, base editing and prime editing enable precise nucleotide changes without introducing DNA double-strand breaks. In this review, we summarize recent applications of CRISPR technologies in smooth muscle biology, with a primary focus on vascular diseases. We discuss how CRISPR-engineered primary cells, induced pluripotent stem cell (iPSC)-derived SMCs, and animal models have been used to investigate disease mechanisms and validate pathogenic variants. We further review therapeutic genome editing strategies for correcting disease-causing variants in patient-derived iPSC-SMCs, vascular organoids, and preclinical animal models. Finally, we discuss major challenges for clinical translation, including efficient and SMC-specific delivery, immunogenicity, editing precision, off-target effects, and long-term safety. Continued advances in genome-editing technologies, delivery platforms, and human disease models may expand the application of these approaches to smooth muscle disorders.",
-      "journal": "Vascular pharmacology",
+      "pmid": "42829922",
+      "title": "Endowing Flexibility of Alveolar Type II Cells to Recapitulate Development From Lung Bud to Alveoli.",
+      "abstract": "Alveolar type 2 (AT2) cells, which originate from bud tip progenitors during lung development, maintain pulmonary homeostasis through surfactant secretion and regenerative capacity, yet their plasticity has been challenging to model in vitro, limiting their applications in disease modeling and regenerative therapy. Here, a chemically defined reprogramming strategy is developed that enables efficient conversion of adult human AT2 cells into a highly expandable alveolar progenitor-like state that, at late passages, closely resembles primitive lung bud tip epithelium. These progenitor cells robustly self-organize into three-dimensional alveolar progenitor-like organoids (APLOs), which can be further efficiently differentiated into mature alveolar-like organoids (ALOs). In vitro, ALOs serve as a physiologically relevant platform for modeling influenza A virus (IAV) infection and mounting innate immune responses characterized by interferon signaling, thereby enabling mechanistic studies of viral pathogenesis and host defense. In vivo, following intratracheal transplantation into lung-injured mice, APLO-derived cells exhibit stable engraftment and differentiate into alveolar epithelial lineages, leading to improvement in pulmonary function. In summary, this study establishes an adult-derived, expandable alveolar progenitor platform generated through chemical reprogramming that recapitulates key aspects of alveolar development, disease modeling, and regenerative potential.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Molecular Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA; Hamon Center for Regenerative Science and Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
-        "Department of Molecular Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA; Hamon Center for Regenerative Science and Medicine, University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic address: ning.liu@utsouthwestern.edu."
+        "Department of Anesthesiology, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Key Laboratory of Anesthesiology (Shanghai Jiao Tong University), Ministry of Education, Shanghai, China.",
+        "Shanghai Engineering Research Center of Peri-operative Organ Support and Function Preservation (20DZ2254200), Shanghai, China.",
+        "Shanghai Institute of Infectious Disease and Biosecurity, Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences, Fudan University, Shanghai, China.",
+        "Department of Thoracic Surgery, 905 Hospital of People's Liberation Army Navy, Shanghai, China.",
+        "Celliver Biotechnology Inc., Shanghai, China.",
+        "Duke Kunshan University, Kunshan, Jiangsu Province, China.",
+        "Molecular Epidemiology Laboratory, Eastern Hepatobiliary Surgery Hospital, Second Military Medical University, Shanghai, China."
       ],
-      "doi": "10.1016/j.vph.2026.107709",
+      "doi": "10.1002/advs.77773",
+      "date": "2026-10-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829922/"
+    },
+    {
+      "pmid": "42829921",
+      "title": "Orthogonal Light- and Enzyme-Triggered and-Gate Prodrugs for Senolytic Therapy.",
+      "abstract": "Senescence-associated β-galactosidase (SA-β-gal) is widely used to target senescent cells, but its activity in non-senescent tissues can limit selectivity. Here, we developed a light-enzyme AND-gate strategy in which an o-nitrobenzyl photocage blocks β-galactoside cleavage until 390 nm irradiation. The strategy was evaluated using a fluorescent probe (LS-C), a doxorubicin prodrug (LS-D), and an ARV-771-based PROTAC (LS-A). LS-C exhibited dual-trigger-dependent fluorescence activation, while LS-D preferentially induced apoptosis and LS-A promoted BRD4 degradation in senescent cells following light activation. Across multiple senescence models, LS-D and LS-A showed higher senolytic indices than their corresponding parent compounds. In senescent lung cancer patient-derived organoids, LS-D combined with light increased organoid death, whereas either treatment alone had minimal effects. These results provide proof-of-concept evidence for sequential light-enzyme AND-gating as a strategy for controlling payload activation in senescent cells under the tested in vitro and ex vivo conditions.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Chemistry and Chemical Biology, Eastern Institute of Technology, Ningbo, Zhejiang, People's Republic of China.",
+        "Department of Thoracic Surgery, Xinqiao Hospital, Army (Third Military) Medical University, Chongqing, People's Republic of China.",
+        "Department of Pharmacology and Toxicology, The University of Arizona, Tucson, Arizona, USA.",
+        "School of Chemical Engineering, Northwest University, Xi'an, Shaanxi, People's Republic of China."
+      ],
+      "doi": "10.1002/advs.78139",
+      "date": "2026-10-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829921/"
+    },
+    {
+      "pmid": "42829823",
+      "title": "Iterative Optimization of Photoactivatable BRD4 Degraders for Aging-Amplified Immunotherapy in Patient-Derived Lung Cancer Organoids.",
+      "abstract": "Cancer remains a major global health threat. Targeted protein degradation (TPD) has revolutionized the modulation of protein function in therapeutic development. Nevertheless, the design of current TPD agents continues to face challenges, including hook effects and, more critically, the frequent lack of spatial and temporal precision required for in vivo applications. Herein, we report a photoactivatable targeted degradation (PATD) strategy and describe the iterative optimization of compound 9, the first two-photon-excited BRD4 photodegrader, achieved through molecular engineering of the photosensitizer core, auxiliary ligands, and linkers. Notably, BRD4 degradation downregulates GPX4 transcription, promoting lipid peroxidation and thereby inducing ferro-aging, while simultaneously triggering chemo-aging via histone H3 cleavage, which leads to DNA damage and cell cycle arrest. This dual-aging mechanism accelerates tumor cell senescence, enabling synergistic seno-immunotherapy. Beyond conventional photosensitizers that primarily elicit immunogenic cell death (ICD) alone, complex 9 integrates senescence-driven immunity with ICD-mediated antitumor immunity. This combined immunostimulatory strategy elicits robust systemic antitumor responses and achieves amplified therapeutic efficacy in patient-derived organoids (PDOs), presenting a new paradigm for precision targeted protein degradation in therapy-resistant tumors.",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Chemistry, Sun Yat-Sen University, Guangzhou, P. R. China.",
+        "MOE Key Laboratory of Applied Surface and Colloid Chemistry of Ministry of Education, School of Chemistry and Chemical Engineering, Shaanxi Normal University, Xi'an, P. R. China.",
+        "Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher Education Institutions, School of Chemical Engineering and Light Industry, Guangdong University of Technology, Guangzhou, P. R. China.",
+        "College of Chemistry and Materials Science, State Key Laboratory of Bioactive Molecules and Druggability Assessment, Jinan University, Guangzhou, P. R. China.",
+        "MOE Key Laboratory of Theoretical Organic Chemistry and Functional Molecule, School of Chemistry and Chemical Engineering, Hunan University of Science and Technology, Xiangtan, P. R. China."
+      ],
+      "doi": "10.1002/anie.2645239",
+      "date": "2026-10-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829823/"
+    },
+    {
+      "pmid": "42829432",
+      "title": "CDK2/9 blockade remodels chromatin and drives phenotypic plasticity in glioblastoma organoids.",
+      "abstract": "Glioblastoma (GBM) remains a highly lethal brain tumor with limited therapeutic options and pervasive resistance to standard treatments. Cyclin-dependent kinases (CDKs), key regulators of cell cycle progression and transcription, are frequently dysregulated in GBM and contribute to tumor pathogenesis. We employed a range of preclinical GBM models-including 2D cultures, 3D spheroids, patient-derived organoids (PDOs), and multicellular 3D bioprints-to evaluate the effects of the CDK2/9 inhibitor fadraciclib in comparison to the standard-of-care temozolomide. Endpoints included cell viability, stress responses, immune-modulatory effects, and transcriptomic reprogramming. Fadraciclib robustly reduces cell viability and invasion in all patient-specific 2D- and 3D models. This effect was independent of O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation status, demonstrating superior efficacy to temozolomide. Mechanistically, fadraciclib disrupted lysosomal, mitochondrial, and endoplasmic reticulum integrity and increased γH2AX levels, indicating enhanced DNA double-strand breaks. Seahorse analysis demonstrated impaired mitochondrial bioenergetics following fadraciclib treatment. In a triple-culture blood-brain barrier (BBB) model, fadraciclib demonstrated effective BBB penetration and antitumoral activity against GBM cells, while exhibiting minor cytotoxicity toward brain-specific normal cells. In semi-autologous co-culture systems, fadraciclib inhibited GBM invasion, promoted intercellular communication via Connexin 43 upregulation in microglia, and activated peripheral T cells. Transcriptomic analyses of treated patient-derived organoids revealed widespread transcriptional reprogramming, including downregulation of oncogenic long non-coding RNAs (MALAT1, POM121L9), suppression of immune-related pathways, and upregulation of the tumor suppressor LZTS1. Increased histone-associated gene expression suggests chromatin remodeling and induction of a quiescent tumor cell state. Subtype analysis indicated a shift toward a proneural molecular signature. Notably, the antitumoral effects of fadraciclib were preserved in multicellular biomimetic bioprints, whereas nonmalignant astrocytes and microglia were not affected. Therapeutic activity also coincided with altered secretion profiles of extracellular vesicles (EV). EVs from reactive astrocytes contained higher amounts of Fas, which may act as modulator of neuroinflammation. CDK2/9 inhibition shows promise as a therapeutic strategy for GBM. Fadraciclib exhibits multifaceted anti-tumor activity and spares nonmalignant cells of the central nervous system, supporting its further development in therapies that target transcriptional and immune pathways, as well as quiescent tumor cell populations.",
+      "journal": "Cell communication and signaling : CCS",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine - Clinic and Polyclinic for Hematology, Hemostaseology, Oncology, Stem Cell Therapy and Palliative Medicine, Rostock University Medical Center, University of Rostock, Ernst-Heydemann-Straße 6, Rostock, D-18057, Germany.",
+        "Fraunhofer Institute for Cell Therapy and Immunology IZI, Department of Extracorporeal Therapy Systems, Rostock, Germany.",
+        "Department of Internal Medicine, Clinic of Nephrology, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
+        "Department of Otorhinolaryngology, Head and Neck Surgery ''Otto Koerner'', Rostock University Medical Center, Rostock, Germany.",
+        "Department of Internal Medicine, Clinic III-Hematology, Oncology, University Medicine Greifswald, Greifswald, Germany.",
+        "Department of Pediatric Oncology and Hematology, University Medicine Greifswald, Greifswald, Germany.",
+        "Institute of Pharmacology and Toxicology, Rostock University Medical Center, Rostock, Germany.",
+        "Department of Neurosurgery, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
+        "Institute of Cell Biology, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
+        "Clinic and Policlinic for Dermatology and Venereology, University Medical Center Rostock, Rostock, Germany.",
+        "Faculty of Mechanical Engineering and Marine Technology, University of Rostock, Rostock, Germany.",
+        "University Children's Hospital, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
+        "Department of Internal Medicine - Clinic and Polyclinic for Hematology, Hemostaseology, Oncology, Stem Cell Therapy and Palliative Medicine, Rostock University Medical Center, University of Rostock, Ernst-Heydemann-Straße 6, Rostock, D-18057, Germany. claudia.maletzki@med.uni-rostock.de."
+      ],
+      "doi": "10.1186/s12964-026-03272-6",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829432/"
+    },
+    {
+      "pmid": "42829431",
+      "title": "Junctional plakoglobin regulates intestinal epithelial cell proliferation via MAPK/ERK signaling.",
+      "abstract": "Junctional plakoglobin (JUP) is a desmosomal protein essential for epithelial tissue integrity and epithelial-immune cell crosstalk. Although JUP has been implicated in inflammatory processes, its role in intestinal epithelial repair remains unclear. In vitro, loss of JUP in Caco-2 monolayers and non-transformed intestinal organoids markedly accelerated wound closure, driven by enhanced epithelial cell migration and proliferation. RNA sequencing-based pathway analysis of organoids revealed activation of MAPK/ERK signaling following JUP deficiency. This effect was corroborated by increased ERK phosphorylation in Western blot analyses. In line with that, pharmacological inhibition of ERK abrogated the accelerated wound closure, confirming that MAPK/ERK signaling is critical for the phenotype. To further examine the relevance in vivo, we used an inducible, intestine-specific JUP knockout mouse model (iVilCreERT2Jupfl/fl). Following biopsy-induced intestinal injury, JUP deletion significantly enhanced mucosal repair, accompanied by increased cell proliferation and MAPK signaling, thereby confirming the in vitro results. Collectively, these findings establish JUP as a previously unrecognized regulator of epithelial cell dynamics and repair through MAPK/ERK signaling.",
+      "journal": "Cell communication and signaling : CCS",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General, Visceral, Transplant, Vascular and Pediatric Surgery University Hospital Wuerzburg, Oberduerrbacher Strasse 6, Würzburg, 97080, Germany.",
+        "Institute of Anatomy and Experimental Morphology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, Hamburg, 20246, Germany.",
+        "Department of Biochemistry, University of Cambridge, Cambridge, UK.",
+        "Department of Physiology, Development and Neuroscience, Loke Centre for Trophoblast Research, University of Cambridge, Cambridge, UK.",
+        "Faculty of Medicine, Chair of Vegetative Anatomy, Institute of Anatomy, Ludwig-Maximilian-University (LMU) Munich, Munich, 80336, Germany.",
+        "Mildred-Scheel Early Career Centre (MSNZ) for Cancer Research, University Hospital Wuerzburg, Würzburg, Germany.",
+        "Department of Biochemistry and Molecular Biology, Biocenter, Julius-Maximilians-University Wuerzburg, Würzburg, Germany.",
+        "Comprehensive Heart Failure Center Würzburg and Medical Clinic I, University Hospital Würzburg, Am Schwarzenberg 15, Würzburg, 97078, Germany.",
+        "Department of Oral, Maxillofacial and Facial Plastic Surgery, Medical Faculty and University Hospital Düsseldorf, Heinrich-Heine-University Düsseldorf, Düsseldorf, 40225, Germany.",
+        "Department of General, Visceral, Transplant, Vascular and Pediatric Surgery University Hospital Wuerzburg, Oberduerrbacher Strasse 6, Würzburg, 97080, Germany. kelm_m@ukw.de."
+      ],
+      "doi": "10.1186/s12964-026-03256-6",
       "date": "2026-10-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829072/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829431/"
     },
     {
-      "pmid": "42828863",
-      "title": "Advantages, considerations and challenges in using Electrochemical Impedance Spectroscopy to monitor tissue integrity and cell differentiation in Microphysiological Systems.",
-      "abstract": "Over the past few decades, the scientific community has become increasingly aware of the limitations of extrapolating animal models to humans. Consequently, microphysiological systems (MPS), such as spheroids, organoids, and organ-on-chip (OOC) technologies, have been suggested as pertinent alternatives. By combining cell biology, microfluidics, tissue engineering and materials science, these technologies reconstruct the 3D properties of biological cells and tissues in-vitro to provide physiological relevant models for drug screening, disease modelling and personalized medicine. However, transitioning MPS into straightforward tools for clinical investigations requires integrating sensors for non-invasive, continuous, and live monitoring. Electrochemical Impedance Spectroscopy (EIS) addresses this by taking advantage of the electrical properties of biological tissues that provide biophysical information associated with tissue integrity, cell viability and differentiation. This review addresses EIS in the context of MPS from a biological, an electrochemical, and an electrical point of view, with a fundamental emphasis on the selection of electrode materials and the complex electrode-electrolyte interface. We provide an in-depth evaluation of how electrode material properties impact the sensitivity of the interrogation system and discuss technical approaches to tackle these challenges. Furthermore, we challenge the incoherent use of the generic term \"TEER\" within the community, prompting us to introduce the distinct notions of TEERsqrw, TEERsine, and TEEReqm to better account for the nature of the measurements and enable refined data analysis and comparability. By bridging these perspectives, this review aims to provide a comprehensive overview of current systems and to serve as a strategic guide for future experimental designs.",
-      "journal": "Biosensors & bioelectronics",
+      "pmid": "42829391",
+      "title": "The ferroptosis-cuproptosis crosstalk in hematological malignancies: multi-omics insights into gene-regulated cell death and emerging therapeutic opportunities.",
+      "abstract": "The broadening field of regulated cell death (RCD) has shown a complex, intertwined web of pathways that are not confined to apoptosis but also to ferroptosis, cuproptosis, necroptosis, and other non-canonical mechanisms, especially in haematological malignancies (HMs). Out of these, ferroptosis and cuproptosis stand out as metabolic-based forms of death that are regulated by iron-dependent and copper-dependent processes, respectively. This review presents the notion of a single ferroptosis-cuproptosis axis, a Metallo-redox network that encompasses lipid peroxidation, mitochondrial dysfunction, and proteotoxic stress to control cell fate decisions. We underscore the fact that haematological cancers use metal ion flux, redox homeostasis, and metabolic plasticity to bypass apoptosis, but are susceptible to other RCD pathways. This work, based on multi-omics methods, such as genomics, transcriptomics, proteomics, metabolomics, and metal omics, describes how integrative modelling can unravel RCD susceptibility landscapes and discover context-specific therapeutic targets. The single-cell and spatial analyses further demonstrate intra-tumoral heterogeneity and switching between death pathways in response to therapeutic pressure. New treatment options that are being developed to address this axis such as ferroptosis inducers, copper ionophores, and complex nanomedicine systems with the ability to deliver therapeutics and modify pathways. The review also covers such challenges of translation as the lack of standardization of biomarkers, clinical trial design, and dynamic stratification of patients. Lastly, suggest an outlook system combining artificial intelligence, synthetic biology, and organoid-based systems to permit precision cell death engineering. Together, this literature makes the ferroptosis-cuproptosis axis a novel change in the outlook of future therapies in haematological cancers.",
+      "journal": "Apoptosis : an international journal on programmed cell death",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Univ. Grenoble Alpes, CEA, LETI, MINATEC Campus, Grenoble, 38000, France.",
-        "Univ. Grenoble Alpes, CEA, LETI, MINATEC Campus, Grenoble, 38000, France. Electronic address: yohann.thomas@cea.fr.",
-        "Univ. Grenoble Alpes, CEA, LETI, MINATEC Campus, Grenoble, 38000, France. Electronic address: pascal.mailley@cea.fr."
+        "SRM Modinagar College of Pharmacy, Faculty of Medicine & Health Sciences, SRM Institute of Science and Technology, NCR Campus, Delhi-Meerut Road, Modinagar, Ghaziabad, 201204, Uttar Pradesh, India. sonaksha@srmist.edu.in.",
+        "SRM Modinagar College of Pharmacy, Faculty of Medicine & Health Sciences, SRM Institute of Science and Technology, NCR Campus, Delhi-Meerut Road, Modinagar, Ghaziabad, 201204, Uttar Pradesh, India.",
+        "Narayan Institute of Pharmacy, Gopal Narayan Singh University, Jamuhar, Sasaram, Rohtas, Bihar, 821305, India.",
+        "GNA School of Pharmacy, GNA University, Phagwara, Punjab, India.",
+        "Department of Biochemistry, Symbiosis Medical College for Women, Symbiosis International (Deemed University), Pune, 412115, India. anita.garad@smcw.siu.edu.in."
       ],
-      "doi": "10.1016/j.bios.2026.119274",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828863/"
-    },
-    {
-      "pmid": "42828364",
-      "title": "Insights into the Mechanism of Action of Phosphoantigen Prodrugs on Vγ9Vδ2 T Cell Activation.",
-      "abstract": "The activation of Vγ9Vδ2 T cells has emerged as a promising modality in cancer immunotherapy. Phosphate and phosphonate prodrugs of Vγ9Vδ2 T cell phosphoantigens have been developed as potent activators of Vγ9Vδ2 T cells that are capable of effectively facilitating lysis of a range of cancer cells in vitro. In this work, we show that phosphonate prodrugs of the phosphoantigen derivative, HMBP, enter cells in an energy-independent manner and produce their pharmacological activity independently of the mevalonate pathway, a target of the widely used bisphosphonate and Vγ9Vδ2 T cell activator, zoledronate. Interestingly, these prodrugs, termed HMBP ProPAgens, induced an enhanced and more universal Vγ9Vδ2 T cell cytotoxicity against diverse cancer cell lines in vitro compared to zoledronate, an effect also observed in patient-derived colorectal cancer organoids. Together, the data presented in this work further support the development of HMBP ProPAgens as a novel class of cancer immunotherapeutic agents.",
-      "journal": "ACS pharmacology & translational science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Cancer Immunology and Immunotherapy Centre, College of Medicine and Health, University of Birmingham, Edgbaston, Birmingham B15 2TT, U.K.",
-        "School of Infection, Inflammation and Immunology, Department of Immunology and Immunotherapy, College of Medicine and Health, University of Birmingham, Edgbaston, Birmingham B15 2TT, U.K.",
-        "School of Medical Sciences, Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Edgbaston, Birmingham B15 2TT, U.K.",
-        "University Hospitals Birmingham NHS Foundation Trust, Birmingham B15 2GW, U.K.",
-        "School of Pharmacy and Pharmaceutical Sciences, Cardiff University, Cardiff CF10 3NB, U.K.",
-        "Medicines Discovery Institute, Cardiff University, Cardiff CF10 3AT, U.K.",
-        "National Institute for Health and Care Research (NIHR), Birmingham Biomedical Research Centre, Birmingham B15 2TH, U.K."
-      ],
-      "doi": "10.1021/acsptsci.6c00264",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828364/"
-    },
-    {
-      "pmid": "42828282",
-      "title": "Cancer cell-intrinsic rewiring of the colorectal cancer secretome.",
-      "abstract": "Secreted factors are essential mediators of cellular communication that are exploited by tumors to control their environment and evade immune attack. However, how cancer cells rewire their secretome is unclear due to challenges in reliably profiling cancer cell-specific secreted factors. Here, we apply a click chemistry-based approach to selectively profile the secretome of patient-derived colorectal cancer (CRC) and healthy colon organoids. We observe cancer cell-intrinsic rewiring of the secretome during malignancy, with clear separation between microsatellite stable (MSS) and instable cancers. We then leverage this secretomics dataset to identify secreted factors that mark immune-excluded cancers, revealing NOTUM as a marker of decreased T cell infiltration across four independent datasets. Overall, our study provides an in-depth characterization of the cancer cell-intrinsic secretome of MSS-CRC and nominates NOTUM as a secreted factor marking immune-excluded colorectal cancers. This provides a scalable framework to link cancer cell-derived secreted factors to relevant tumor phenotypes.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Molecular Oncology & Immunology, The Netherlands Cancer Institute, Amsterdam, the Netherlands.",
-        "Oncode Institute, Utrecht, the Netherlands.",
-        "Division of Gene Regulation, The Netherlands Cancer Institute, Amsterdam, the Netherlands.",
-        "Division of Synthetic Organic Chemistry, Radboud University, Nijmegen, the Netherlands.",
-        "Proteomics Facility, The Netherlands Cancer Institute, Amsterdam, the Netherlands.",
-        "Department of Pathology, The Netherlands Cancer Institute, Amsterdam, the Netherlands.",
-        "Department of Thoracic Oncology, The Netherlands Cancer Institute, Amsterdam, the Netherlands.",
-        "Leiden Institute for Chemistry, Chemical Biology & Immunology, Leiden University, Leiden, the Netherlands.",
-        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences, Radboud University, Nijmegen, the Netherlands."
-      ],
-      "doi": "10.1016/j.isci.2026.117525",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828282/"
-    },
-    {
-      "pmid": "42828170",
-      "title": "Mechanisms underlying the role of the oral-gut-liver axis in the promotion of liver fibrosis by periodontal disease: an interacting network of inflammation, microbiota, and barrier function.",
-      "abstract": "Periodontal disease is an independent risk indicator for the progression of liver fibrosis, yet the underlying mechanisms remain incompletely defined. Emerging evidence suggests that the \"oral-gut-liver axis\" plays a critical role. This review aims to systematically synthesize the molecular mechanisms that may plausibly contribute to the pathogenesis of liver fibrosis via this axis and to propose a novel spatiotemporal framework to guide future research and therapeutic strategies. We propose a three-phase framework that temporally dissects the fibrogenic process into initiation, amplification, and maintenance phases-a distinction that, to our knowledge, has not been systematically applied to the oral-gut-liver axis in previous literature. This framework is proposed as a working hypothesis based on integrating current preclinical and observational evidence and is intended to guide future mechanistic and interventional studies. In the initiation phase, periodontal pathogens and their virulence factors disseminate haematogenously or via the intestinal route to the liver, where, in animal models, they have been shown to activate Toll-like receptor (TLR)/nuclear factor-κB (NF-κB) signaling and trigger the initial inflammatory response. In the amplification phase, hepatic inflammatory cytokines disrupt the intestinal barrier, leading to a \"leaky gut\" and massive endotoxin translocation into the liver, theoretically establishing a self-perpetuating positive feedback loop that may drive Kupffer cell M1 polarization and hepatic stellate cell (HSC) activation. In the maintenance phase, even after the oral trigger subsides, liver-intrinsic mechanisms-including HSC autocrine TGF-β signaling, epigenetic reprogramming, extracellular matrix crosslinking, liver sinusoidal endothelial cell capillarization, and bile acid-farnesoid X receptor (FXR)/Takeda G protein-coupled receptor 5 (TGR5) dysregulation-are hypothesized to sustain and contribute to the aggravation of fibrosis, based largely on preclinical evidence. Despite promising preclinical and observational evidence, translation to clinical practice remains hampered by the lack of high-quality randomized controlled trials with histological reversal as a hard endpoint. Future research should integrate multi-omics analysis, organoid and humanized animal models, and rigorously designed interventional trials to validate the oral-gut-liver axis as a therapeutic target. This review provides an integrated mechanistic framework that may inform future opportunities for early prevention and multidisciplinary management of periodontal disease-associated liver fibrosis.",
-      "journal": "Frontiers in cellular and infection microbiology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Urology, The First Hospital of Jilin University, Changchun, China.",
-        "Department of Urology, Shengjing Hospital, China Medical University, Shenyang, China."
-      ],
-      "doi": "10.3389/fcimb.2026.1942882",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828170/"
-    },
-    {
-      "pmid": "42827781",
-      "title": "Patient-derived prostate cancer organoids: model development, therapeutic applications, and challenges for precision oncology.",
-      "abstract": "Prostate cancer ranks among the most prevalent male malignancies worldwide, with castration-resistant prostate cancer (CRPC) and drug resistance representing major clinical challenges. Conventional preclinical models fail to faithfully recapitulate tumor heterogeneity and the tumor microenvironment (TME). Patient-derived prostate cancer organoids (PCOs) represent a promising 3D model that largely preserves the genomic, phenotypic, and functional signatures of primary tumors. Building on prior studies that mostly focus on fragmented analyses and lack in-depth systematic integration, this narrative review attempts to establish a refined multidimensional research framework centered on \"model optimization-mechanism exploration-clinical translation\". Notably, it underscores the unique advantages of engineered PCOs and heterotypic co-culture organoid systems in resolving key clinical bottlenecks, particularly lineage transformation-driven therapeutic resistance and patient-specific TME heterogeneity. This study systematically elaborates the establishment methodologies of PCOs, critically evaluates the strengths, limitations, and iterative optimization strategies of diverse culture systems, and summarizes the core applications of PCOs in exploring tumor cellular origin, capturing tumor heterogeneity, modeling TME interactions, screening drug sensitivity, investigating resistance mechanisms, and advancing precision medicine for prostate cancer. Although PCO-based platforms still possess inherent limitations, including low establishment efficiency, rigorous culture requirements, and incomplete TME reconstruction, they harbor substantial translational potential. Furthermore, this review proposes targeted optimization strategies based on bioengineering and synthetic biomaterials, prospects the clinical translation of standardized PCO systems, and discusses existing research contradictions and unaddressed gaps in this field, aiming to provide a comprehensive, critical and novel theoretical reference for further basic research and clinical application of PCOs in prostate cancer.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Urology, Urologic Surgery Center, Xinqiao Hospital, Third Military Medical University (Army Medical University), Chongqing, China.",
-        "Department of Urology, Changzhou Hospital of Traditional Chinese Medicine, Changzhou Affiliated Hospital of Nanjing University of Chinese Medicine, Changzhou, Jiangsu, China.",
-        "Department of Medicine, Kingbio Medical Co., Ltd., Chongqing, China.",
-        "Department of Urology, First Affiliated Hospital of Huzhou Normal University, Huzhou, China."
-      ],
-      "doi": "10.3389/fonc.2026.1939330",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827781/"
+      "doi": "10.1007/s10495-026-02451-7",
+      "date": "2026-10-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829391/"
     },
     {
       "pmid": "42818971",
@@ -388,6 +402,28 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829510/"
     },
     {
+      "pmid": "42829361",
+      "title": "Early experience with cerebrospinal fluid cell-free DNA molecular profiling in a neuro-oncology practice.",
+      "abstract": "Cerebrospinal fluid (CSF) cell-free DNA (cfDNA) is increasingly used as a liquid biopsy in neuro-oncology for diagnosing lesions of uncertain etiology, distinguishing progression from pseudoprogression, and ruling out leptomeningeal disease (LMD). We assessed our institution's early experience with a new CSF cfDNA molecular profiling assay for detecting variant alleles (VA) and copy-number alterations (CNA) across these indications in our neuro-oncology practice. Beginning in August 2021, providers could request research CSF cfDNA sequencing from clinically indicated lumbar punctures. Following extraction, targeted next-generation sequencing (NGS) and/or low-pass whole-genome sequencing (LPWGS) were performed. VAs and CNAs were summarized by indication and integrated with clinical features, cfDNA yield, matched tissue data, and overall survival. CSF samples from seventy-six consecutive patients were analyzed and retrospectively classified into three categories: lesions of uncertain etiology (46%), question of CNS progression (21%), or ruling out LMD (26%). Median cfDNA yield was 0.27 ng/mL (IQR = 0.05-0.61 ng/mL). VA and/or CNA detection, hereafter designated \"tumor calls,\" were identified in 20 patients (26%), with 29 patients having negative tumor calls (38%) and 27 patients (36%) having insufficient cfDNA yield/quality. A copy number burden threshold of 7.42 accurately identified tumor-specific CNAs (AUC 0.998) and was associated with poorer survival (HR 3.4, p = 0.006). Overall survival for patients with positive tumor calls was significantly lower than for patients with negative tumor calls or low yield (p = 0.003). Despite low cfDNA abundance, CSF NGS and LPWGS provide informative data across neuro-oncologic indications. Further work is underway to optimize the assays for low input CSF cfDNA.",
+      "journal": "Journal of neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA.",
+        "Predicine, Inc., Hayward, CA, USA.",
+        "Department of Neurology, Mayo Clinic, 200 First St. SW, Rochester, MN, 55905, USA.",
+        "Department of Medical Oncology, Mayo Clinic, Rochester, MN, USA.",
+        "Department of Hematology and Oncology, Mayo Clinic, Phoenix, AZ, USA.",
+        "Department of Cancer Biology, Mayo Clinic, Phoenix, AZ, USA.",
+        "Department of Neurological Surgery, Mayo Clinic, Rochester, MN, USA. Burns.Terry@mayo.edu.",
+        "Department of Neurology, Mayo Clinic, 200 First St. SW, Rochester, MN, 55905, USA. Burns.Terry@mayo.edu."
+      ],
+      "doi": "10.1007/s11060-026-05799-7",
+      "date": "2026-10-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829361/"
+    },
+    {
       "pmid": "42829334",
       "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
       "abstract": "Plasma cell-free DNA (cfDNA) is fragmented nonrandomly, reflecting the chromatin architecture of its source cells and the nucleases that process it. The fragmentome can therefore provide an indirect readout of cellular regulatory state. This review examines how DNA methylation, chromatin accessibility, nucleosome positioning, protein occupancy, and nuclease activity shape cfDNA fragmentation and considers their implications for oncology. We organize fragmentomic measurements into four classes: coverage and protection, fragment size, fragment-end properties, and diversity and entropy metrics. We discuss the genomic contexts in which these features are informative, including repetitive and transposable elements, and compare platforms by sequencing requirements, feature portability, and the fragment populations captured by different library chemistries. We then review applications in cancer screening, tissue-of-origin inference, molecular subtyping, prognosis, minimal residual disease detection, and treatment response monitoring. A central challenge for clinical translation is attributing fragmentomic changes to their tissue of origin.",
@@ -444,41 +480,148 @@
       "doi": "10.1016/j.cca.2026.122873",
       "date": "2026-10-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829044/"
-    },
-    {
-      "pmid": "42828040",
-      "title": "Minimal residual disease combined with radiological tumor volume as a tool for identification of resected NSCLC patients at high risk of recurrence.",
-      "abstract": "Circulating tumor DNA (ctDNA) is a valuable tool for assessing minimal residual disease (MRD) and predicting recurrence in resected non-small cell lung cancer (NSCLC) patients. Combining ctDNA-detection with radiological tumor volume may improve risk stratification. Patients with stage I-III resectable NSCLC were prospectively enrolled in the RESIDUAL study. Plasma samples were collected before surgery (T0), at landmark (10 days after surgery), during surveillance (T2, 20 days, T3, 1 months after surgery and every 3 months for the first year and then at the end of the second year after surgery), and at relapse. Samples were analyzed using Guardant Reveal, a tissue-free methylation-based ctDNA assay. Receiver operating characteristic analysis associated T1 ctDNA status with tumor volume; volume thresholds were calculated via Youden's J, and Cox regression analysis was performed. Forty-eight patients were enrolled (median age 72 years; 64.6% male). Most had stage I disease (54.2%) and adenocarcinoma histology (79.2%). Median follow-up was 41.8 months, and 19 patients (39.6%) relapsed. Overall ctDNA detection rate was 15.2% across all timepoints. Pre-surgical ctDNA detection was higher in squamous histology and stage II-III disease and was associated with worse disease-free survival (DFS; p = 0.022). Landmark MRD detection was also associated with worse DFS (p = 0.024). Serial surveillance sampling anticipated radiologic recurrence by a median of 2.6 months (range 2.0-7.5). Patients with tumor volume >26,378 mm3 had a significantly higher relapse risk (p < 0.001). MRD detection in NSCLC resected patients predicts relapse and poor outcome; integrating ctDNA with tumor volume enhances identification of high-risk patients.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Medical Oncology Unit, University Hospital of Parma, Italy.",
-        "Department of Medicine and Surgery, University of Parma, Italy.",
-        "Thoracic Surgery Unit, University Hospital of Parma, Italy.",
-        "Pathology Unit, University Hospital of Parma, Italy.",
-        "Radiological Unit, University Hospital of Parma, Italy.",
-        "Guardant Health, San Francisco, CA, USA.",
-        "Department of Public Health, University of Naples Federico II, Naples, Italy."
-      ],
-      "doi": "10.1016/j.jlb.2026.100501",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828040/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42829072",
+      "id": "pubmed-42829922",
+      "date": "2026-10-04",
+      "title": "Endowing Flexibility of Alveolar Type II Cells to Recapitulate Development From Lung Bud to Alveoli.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829922/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42829922。",
+      "report": "Alveolar type 2 (AT2) cells, which originate from bud tip progenitors during lung development, maintain pulmonary homeostasis through surfactant secretion and regenerative capacity, yet their plasticity has been challenging to model in vitro, limiting their ap...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829921",
+      "date": "2026-10-04",
+      "title": "Orthogonal Light- and Enzyme-Triggered and-Gate Prodrugs for Senolytic Therapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829921/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42829921。",
+      "report": "Senescence-associated β-galactosidase (SA-β-gal) is widely used to target senescent cells, but its activity in non-senescent tissues can limit selectivity. Here, we developed a light-enzyme AND-gate strategy in which an o-nitrobenzyl photocage blocks β-galacto...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829823",
+      "date": "2026-10-04",
+      "title": "Iterative Optimization of Photoactivatable BRD4 Degraders for Aging-Amplified Immunotherapy in Patient-Derived Lung Cancer Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829823/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42829823。",
+      "report": "Cancer remains a major global health threat. Targeted protein degradation (TPD) has revolutionized the modulation of protein function in therapeutic development. Nevertheless, the design of current TPD agents continues to face challenges, including hook effect...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829431",
       "date": "2026-10-03",
-      "title": "CRISPR-based genome editing of smooth muscle cells: Disease models, therapeutic applications, and future perspectives.",
+      "title": "Junctional plakoglobin regulates intestinal epithelial cell proliferation via MAPK/ERK signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829431/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42829431。",
+      "report": "Junctional plakoglobin (JUP) is a desmosomal protein essential for epithelial tissue integrity and epithelial-immune cell crosstalk. Although JUP has been implicated in inflammatory processes, its role in intestinal epithelial repair remains unclear. In vitro,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829391",
+      "date": "2026-10-03",
+      "title": "The ferroptosis-cuproptosis crosstalk in hematological malignancies: multi-omics insights into gene-regulated cell death and emerging therapeutic opportunities.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829072/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829391/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -486,18 +629,52 @@
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch"
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管"
+        "监管",
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Vascular pharmacology，PMID 为 42829072。",
-      "report": "Smooth muscle cells (SMCs) are essential for the normal function of the cardiovascular, respiratory, gastrointestinal, and urogenital systems, and SMC dysfunction contributes to a wide range of genetic and acquired diseases. CRISPR-based genome editing provide...",
+      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42829391。",
+      "report": "The broadening field of regulated cell death (RCD) has shown a complex, intertwined web of pathways that are not confined to apoptosis but also to ferroptosis, cuproptosis, necroptosis, and other non-canonical mechanisms, especially in haematological malignanc...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42829361",
+      "date": "2026-10-03",
+      "title": "Early experience with cerebrospinal fluid cell-free DNA molecular profiling in a neuro-oncology practice.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829361/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of neuro-oncology，PMID 为 42829361。",
+      "report": "Cerebrospinal fluid (CSF) cell-free DNA (cfDNA) is increasingly used as a liquid biopsy in neuro-oncology for diagnosing lesions of uncertain etiology, distinguishing progression from pseudoprogression, and ruling out leptomeningeal disease (LMD). We assessed...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -597,6 +774,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42829432",
+      "date": "2026-10-02",
+      "title": "CDK2/9 blockade remodels chromatin and drives phenotypic plasticity in glioblastoma organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829432/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42829432。",
+      "report": "Glioblastoma (GBM) remains a highly lethal brain tumor with limited therapeutic options and pervasive resistance to standard treatments. Cyclin-dependent kinases (CDKs), key regulators of cell cycle progression and transcription, are frequently dysregulated in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42826717",
       "date": "2026-10-02",
       "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
@@ -682,36 +891,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42815472。",
       "report": "Recent foundation models for single-cell transcriptomic data generate informative, context-aware gene and cell representations. Spatial transcriptomic (ST) data offer extra positional insights but were not considered by these single-cell models. We introduce s...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42828863",
-      "date": "2026-09-28",
-      "title": "Advantages, considerations and challenges in using Electrochemical Impedance Spectroscopy to monitor tissue integrity and cell differentiation in Microphysiological Systems.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828863/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42828863。",
-      "report": "Over the past few decades, the scientific community has become increasingly aware of the limitations of extrapolating animal models to humans. Consequently, microphysiological systems (MPS), such as spheroids, organoids, and organ-on-chip (OOC) technologies, h...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -818,36 +997,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42828282",
-      "date": "2026-09-22",
-      "title": "Cancer cell-intrinsic rewiring of the colorectal cancer secretome.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828282/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42828282。",
-      "report": "Secreted factors are essential mediators of cellular communication that are exploited by tumors to control their environment and evade immune attack. However, how cancer cells rewire their secretome is unclear due to challenges in reliably profiling cancer cel...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42818144",
       "date": "2026-09-22",
       "title": "De novo design of protease-activatable cytokine prodrugs.",
@@ -906,102 +1055,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42782810。",
       "report": "The term virtual cell now covers objects ranging from curated biochemical simulators to atlas-trained neural representations, yet the decisive empirical question is narrower: whether a model built to obey known biochemical rules predicts the effects of new dru...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42828170",
-      "date": "2026-09-18",
-      "title": "Mechanisms underlying the role of the oral-gut-liver axis in the promotion of liver fibrosis by periodontal disease: an interacting network of inflammation, microbiota, and barrier function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828170/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cellular and infection microbiology，PMID 为 42828170。",
-      "report": "Periodontal disease is an independent risk indicator for the progression of liver fibrosis, yet the underlying mechanisms remain incompletely defined. Emerging evidence suggests that the \"oral-gut-liver axis\" plays a critical role. This review aims to systemat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42827781",
-      "date": "2026-09-18",
-      "title": "Patient-derived prostate cancer organoids: model development, therapeutic applications, and challenges for precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827781/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42827781。",
-      "report": "Prostate cancer ranks among the most prevalent male malignancies worldwide, with castration-resistant prostate cancer (CRPC) and drug resistance representing major clinical challenges. Conventional preclinical models fail to faithfully recapitulate tumor heter...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42828040",
-      "date": "2026-09-18",
-      "title": "Minimal residual disease combined with radiological tumor volume as a tool for identification of resected NSCLC patients at high risk of recurrence.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828040/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [
-        "guardant-health"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42828040。",
-      "report": "Circulating tumor DNA (ctDNA) is a valuable tool for assessing minimal residual disease (MRD) and predicting recurrence in resected non-small cell lung cancer (NSCLC) patients. Combining ctDNA-detection with radiological tumor volume may improve risk stratific...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1134,36 +1187,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42829510。",
       "report": "Currently, with the spectacular achievement of the tyrosine kinase inhibitors (TKIs), non-small cell lung cancer (NSCLC) carrying mutations of the gene epidermal growth factor receptor (EGFR) and rearrangements of the gene anaplastic lymphoma kinase (ALK) is b...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42828364",
-      "date": "2026-09-01",
-      "title": "Insights into the Mechanism of Action of Phosphoantigen Prodrugs on Vγ9Vδ2 T Cell Activation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828364/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS pharmacology & translational science，PMID 为 42828364。",
-      "report": "The activation of Vγ9Vδ2 T cells has emerged as a promising modality in cancer immunotherapy. Phosphate and phosphonate prodrugs of Vγ9Vδ2 T cell phosphoantigens have been developed as potent activators of Vγ9Vδ2 T cells that are capable of effectively facilit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

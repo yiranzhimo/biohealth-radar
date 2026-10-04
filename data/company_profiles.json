@@ -43676,7 +43676,6 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-pubmed-42828040",
           "evidence-company-guardant-health-official-154ad6ac896b",
           "evidence-company-guardant-health-pipeline-a2e78138ba78",
           "evidence-company-guardant-health-investor_relations-f157425f10df",
@@ -43687,17 +43686,6 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
-          {
-            "id": "event-pubmed-42828040",
-            "date": "2026-09-18",
-            "title": "Minimal residual disease combined with radiological tumor volume as a tool for identification of resected NSCLC patients at high risk of recurrence.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-pubmed-42828040",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828040/"
-          },
           {
             "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
             "date": "2026-09-05",
@@ -43741,6 +43729,17 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001576280-000157628026000037",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
+          },
+          {
+            "id": "event-sec-0001576280-000157628026000036",
+            "date": "2026-07-30",
+            "title": "Guardant Health filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001576280-000157628026000036",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
           }
         ],
         "inferences": [],
@@ -43750,13 +43749,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 5,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2,
-          "Paper": 1
+          "Filing": 2
         },
-        "lastEvidenceDate": "2026-09-18",
+        "lastEvidenceDate": "2026-09-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43764,17 +43762,6 @@
         ]
       },
       "recentEvents": [
-        {
-          "id": "event-pubmed-42828040",
-          "date": "2026-09-18",
-          "title": "Minimal residual disease combined with radiological tumor volume as a tool for identification of resected NSCLC patients at high risk of recurrence.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-pubmed-42828040",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828040/"
-        },
         {
           "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
           "date": "2026-09-05",
