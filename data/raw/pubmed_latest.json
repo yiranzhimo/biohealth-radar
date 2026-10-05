@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-04T21:34:19.568234+00:00",
+  "capturedAt": "2026-10-05T05:48:58.151659+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-04",
-    "end": "2026-10-04"
+    "start": "2025-10-05",
+    "end": "2026-10-05"
   },
   "pmids": [
     "42829922",
@@ -32,12 +32,12 @@
     "42819252",
     "42818266",
     "42818144",
+    "42830000",
     "42829565",
     "42829510",
     "42829361",
     "42829334",
-    "42829068",
-    "42829044"
+    "42829068"
   ],
   "records": [
     {
@@ -368,6 +368,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818144/"
     },
     {
+      "pmid": "42830000",
+      "title": "Exonuclease III-Proofread high-fidelity primer exchange reaction enables ultrasensitive analysis of prostate cancer MicroRNA.",
+      "abstract": "The primer exchange reaction (PER) has emerged as a versatile isothermal amplification technique for biosensing, yet its practical application is severely hampered by non-specific hybridization-induced background signals. Here, we report a high-fidelity PER (Hf-PER) strategy that overcomes this limitation through a rationally designed template architecture integrating exonuclease III (Exo III)-mediated target recycling, blocked primer binding, and self-priming amplification. In this design, Exo III strictly discriminates perfectly matched targets from mismatched sequences, while the absence of free primers and magnetic bead separation effectively suppress spurious amplification. Using miR-21, a prostate cancer-associated biomarker, as a model, the Hf-PER assay achieves a remarkable limit of detection of 0.15 fM with a wide dynamic range spanning five orders of magnitude and single-base discrimination capability. The method demonstrates excellent recovery (95.6%-101.2%) in spiked serum samples, high repeatability (CV < 4.5%), and strong concordance with qPCR (R2 > 0.99). Moreover, it successfully distinguishes prostate cancer cells from normal cells and accurately identifies miR-21 elevation in clinical serum samples from prostate cancer patients. By simply reprogramming the recognition domain, this platform can be readily adapted for other nucleic acid biomarkers; as a proof of concept, we further applied the Hf-PER strategy to detect miR-155, achieving a limit of detection of 0.21 fM and comparable specificity, demonstrating excellent versatility. The Hf-PER strategy offers a robust, sensitive, specific, and programmable tool for early cancer diagnosis, liquid biopsy, and point-of-care testing, addressing a critical need for reliable isothermal amplification in complex biological matrices.",
+      "journal": "Biosensors & bioelectronics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Urology, The Affiliated Hospital of Yangzhou University, Yangzhou University, Yangzhou City, Jiangsu Province, 225009, China.",
+        "Department of Urology, The Affiliated Hospital of Yangzhou University, Yangzhou University, Yangzhou City, Jiangsu Province, 225009, China. Electronic address: JAY093055@yzu.edu.cn."
+      ],
+      "doi": "10.1016/j.bios.2026.119288",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830000/"
+    },
+    {
       "pmid": "42829565",
       "title": "Clinical Utility of Liquid Comprehensive Genomic Profiling in Advanced Lung Adenocarcinoma Complicated by Disseminated Intravascular Coagulation: A Case Report.",
       "abstract": "Comprehensive genomic profiling (CGP) is increasingly important for identifying actionable driver mutations and selecting targeted therapies in advanced lung adenocarcinoma, particularly when tissue re-biopsy is precluded by severe complications. A 74-year-old woman with no history of smoking presented with hemoptysis and abnormal findings on chest imaging. She was diagnosed with lung adenocarcinoma, cT2bN2M1c, Stage IVB, with bone and brain metastases. Initial molecular testing using AmoyDx® (AmoyDx Essential NGS Panel, Amoy Diagnostics, Xiamen, China) did not reveal any actionable driver mutations. Despite multiple lines of systemic therapy and whole-brain irradiation, the disease progressed with multiple liver metastases and cancer-associated disseminated intravascular coagulation (DIC). Given the patient's never-smoking status and the lack of residual tissue for repeat testing, comprehensive liquid biopsy-based genomic profiling was performed using FoundationOne® Liquid CDx (Foundation Medicine, Boston, MA, US). This analysis identified a human epidermal growth factor receptor 2 (HER2) exon 20 insertion mutation (p.G776delinsAVGC). Treatment with trastuzumab deruxtecan (T-DXd) resulted in marked tumor shrinkage and prompt resolution of DIC. During the sixth cycle of T-DXd, the patient developed Grade 3 drug-induced interstitial lung disease (ILD)/pneumonitis, necessitating permanent discontinuation of T-DXd and high-dose corticosteroid therapy. Subsequently, the patient developed carcinomatous meningitis and was transitioned to palliative care. This case demonstrates that liquid biopsy-based CGP can identify actionable alterations and enable life-saving targeted therapy in patients with advanced lung adenocarcinoma complicated by severe DIC; however, severe drug-induced toxicities, such as ILD, remain a critical bottleneck that requires careful monitoring to balance treatment efficacy and safety.",
@@ -463,23 +479,6 @@
       "doi": "10.1016/j.canlet.2026.218878",
       "date": "2026-10-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829068/"
-    },
-    {
-      "pmid": "42829044",
-      "title": "Liquid biopsy for early detection and biomarker applications in gynecological cancers: current status and future directions.",
-      "abstract": "Liquid biopsy is a minimally invasive approach to early detection and biomarker assessment in gynecological cancers. This structured review synthesizes evidence on circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomal non-coding RNAs, epigenetic markers (methylation and fragmentation), and multi-omics signatures across ovarian, endometrial, cervical, vulvar, and vaginal malignancies. A structured search of PubMed/MEDLINE, Embase, Scopus, Web of Science, and the Cochrane Library identified studies evaluating early detection, predictive and prognostic performance, therapy monitoring, minimal residual disease (MRD) detection, resistance mechanisms, and clinical implementation; each quantitative estimate was assigned an evidence tier reflecting study design and validation status. Multi-omics integration outperforms single-analyte approaches, with a prospective gynecological cohort reporting approximately 82% sensitivity at 97-99% specificity. ctDNA methylation and fragmentomics exceed CA125 in ovarian and endometrial cancers, and cfHPV-DNA shows high specificity in cervical disease. ctDNA dynamics are associated with PARP inhibitor response, MRD status and BRCA reversion-mediated resistance, and detect recurrence before imaging. Reported hazard ratios vary widely but differ in cohort, assay platform and sampling timepoint, and are not directly comparable. Almost all detection estimates derive from retrospective or case-control designs that overestimate performance, and none has been externally and prospectively validated; circulating HPV DNA in cervical cancer is the only marker with prospective trial-level prognostic support. No liquid biopsy assay holds an FDA or EMA indication for any gynecological cancer; pan-tumor clearances exist, but no gynecology-specific companion diagnostic, and no major oncology society recommends use outside clinical trials. Liquid biopsy complements but cannot replace tissue biopsy for diagnosis, subtyping and grading. Randomized trials controlling for lead-time bias are required to establish clinical utility.",
-      "journal": "Clinica chimica acta; international journal of clinical chemistry",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Weifang People's Hospital, Weifang, Shandong 261000, China.",
-        "Weifang People's Hospital, Weifang, Shandong 261000, China. Electronic address: lunin.wang1200@atomicmail.io."
-      ],
-      "doi": "10.1016/j.cca.2026.122873",
-      "date": "2026-10-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829044/"
     }
   ],
   "signals": [
@@ -738,42 +737,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42829044",
-      "date": "2026-10-03",
-      "title": "Liquid biopsy for early detection and biomarker applications in gynecological cancers: current status and future directions.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829044/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42829044。",
-      "report": "Liquid biopsy is a minimally invasive approach to early detection and biomarker assessment in gynecological cancers. This structured review synthesizes evidence on circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomal non-coding RNAs, epigene...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42829432",
       "date": "2026-10-02",
       "title": "CDK2/9 blockade remodels chromatin and drives phenotypic plasticity in glioblastoma organoids.",
@@ -861,6 +824,36 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42826505。",
       "report": "Designing novel molecules that simultaneously satisfy several, often conflicting, properties is a long-standing challenge in drug design. While recent deep learning advances optimize single targets effectively, navigating the trade-offs required for multiple o...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42830000",
+      "date": "2026-10-01",
+      "title": "Exonuclease III-Proofread high-fidelity primer exchange reaction enables ultrasensitive analysis of prostate cancer MicroRNA.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830000/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42830000。",
+      "report": "The primer exchange reaction (PER) has emerged as a versatile isothermal amplification technique for biosensing, yet its practical application is severely hampered by non-specific hybridization-induced background signals. Here, we report a high-fidelity PER (H...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
