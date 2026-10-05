@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-05T05:49:01.071388+00:00",
+  "capturedAt": "2026-10-05T14:50:36.305056+00:00",
   "summary": {
     "mentionCount": 659,
     "candidateCount": 592,
@@ -20,26 +20,23 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7187140fdedd69d9",
-      "observedName": "Tarapeutics Science Inc.",
-      "normalizedName": "tarapeutics science",
+      "id": "mention-clinicaltrials-9f89d1386b4786d9",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07639879",
-      "sourceDate": "2026-06-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07639879",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05623319",
+      "sourceDate": "2025-06-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05623319",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
         "Recruiting",
-        "中国",
         "临床试验",
-        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
@@ -47,7 +44,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "TR115 VS Investigator's Choice in Relapsed/Refractory Peripheral T/NK Cell Lymphoma"
+      "contextTitle": "Pembrolizumab and Olaparib Treatment of Extensive Small Cell Lung Cancer (ES-SCLC)"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43854,68 +43851,6 @@
       ]
     },
     {
-      "id": "candidate-tarapeutics-science",
-      "name": "Tarapeutics Science Inc.",
-      "aliases": [
-        "Tarapeutics Science Inc."
-      ],
-      "normalizedName": "tarapeutics science",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-06-10",
-      "lastSeenAt": "2026-06-10",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-7187140fdedd69d9"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-06-10",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07639879",
-          "externalId": "NCT07639879",
-          "contextTitle": "TR115 VS Investigator's Choice in Relapsed/Refractory Peripheral T/NK Cell Lymphoma"
-        }
-      ]
-    },
-    {
       "id": "candidate-accelevir-diagnostics",
       "name": "Accelevir Diagnostics, LLC",
       "aliases": [
@@ -47285,6 +47220,62 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
+        }
+      ]
+    },
+    {
+      "id": "candidate-merck-sharp-and-dohme",
+      "name": "Merck Sharp & Dohme LLC",
+      "aliases": [
+        "Merck Sharp & Dohme LLC"
+      ],
+      "normalizedName": "merck sharp and dohme",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-06-24",
+      "lastSeenAt": "2025-06-24",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-9f89d1386b4786d9"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-06-24",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05623319",
+          "externalId": "NCT05623319",
+          "contextTitle": "Pembrolizumab and Olaparib Treatment of Extensive Small Cell Lung Cancer (ES-SCLC)"
         }
       ]
     }

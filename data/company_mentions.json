@@ -4,26 +4,23 @@
   "asOfDate": "2026-10-05",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7187140fdedd69d9",
-      "observedName": "Tarapeutics Science Inc.",
-      "normalizedName": "tarapeutics science",
+      "id": "mention-clinicaltrials-9f89d1386b4786d9",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07639879",
-      "sourceDate": "2026-06-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07639879",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05623319",
+      "sourceDate": "2025-06-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05623319",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
         "Recruiting",
-        "中国",
         "临床试验",
-        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
@@ -31,7 +28,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "TR115 VS Investigator's Choice in Relapsed/Refractory Peripheral T/NK Cell Lymphoma"
+      "contextTitle": "Pembrolizumab and Olaparib Treatment of Extensive Small Cell Lung Cancer (ES-SCLC)"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

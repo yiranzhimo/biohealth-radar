@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-05T05:48:58.151659+00:00",
+  "capturedAt": "2026-10-05T14:50:32.550749+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-05"
   },
   "pmids": [
+    "42830976",
+    "42830550",
+    "42830467",
+    "42830288",
     "42829922",
     "42829921",
-    "42829823",
-    "42829432",
-    "42829431",
-    "42829391",
     "42818971",
     "42818106",
     "42816262",
@@ -32,14 +32,99 @@
     "42819252",
     "42818266",
     "42818144",
+    "42830887",
     "42830000",
     "42829565",
     "42829510",
     "42829361",
-    "42829334",
-    "42829068"
+    "42829334"
   ],
   "records": [
+    {
+      "pmid": "42830976",
+      "title": "High-quantity capture of heterogeneous circulating tumor cells in vivo based on a multinanobody-functionalized carboxymethyl cellulose cryogel.",
+      "abstract": "Circulating tumor cells (CTCs) carry multidimensional information from primary tumors, yet current separation strategies lead to insufficient quantity of cells available for robust downstream analyses. To address this issue, we propose an in-vivo capture strategy for high-quantity CTC enrichment based on a multinanobody-functionalized carboxymethyl cellulose cryogel (MNB-PAACcryo). By addressing the trade-off between pore size and mechanical property, the MNB-PAACcryo sets up a sieving barrier in the bloodstream. It allows free passage of blood cells through its interconnected macropores, while enhancing CTC-nanobody interactions, contributing to a high CTC capture efficiency of 72.3 ± 4.5% in the bloodstream. Consequently, up to 2.7 × 103 CTCs could be harvested from 4000 mL blood at 1 CTC/mL using 0.1 cm3 of the MNB-PAACcryo. In vivo experiments on cancer rat models demonstrated that the MNB-PAACcryo could capture diverse CTC subtypes across multiple cancers, and the captured CTCs exhibited consistent information with the primary tumor tissues. With its robust capability for high-quantity CTC enrichment, the proposed strategy will not only improve the reliability of CTC-based cancer analysis, but may also facilitate the establishment of patient-derived tumor organoid, showing great potential to accelerate the development of personalized cancer medicine.",
+      "journal": "Materials today. Bio",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory of Bio-Intelligent Manufacturing, Liaoning Key Laboratory of Molecular Recognition and Imaging, School of Bioengineering, Dalian University of Technology, Dalian, 116024, PR China.",
+        "Kangyuan Biomedical Tech. (Dalian) Co., Ltd., Dalian, 116085, PR China.",
+        "Cancer Hospital of Dalian University of Technology, Shenyang, 110042, PR China."
+      ],
+      "doi": "10.1016/j.mtbio.2026.103689",
+      "date": "2026-09-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830976/"
+    },
+    {
+      "pmid": "42830550",
+      "title": "New approach methodologies to model the female reproductive tract: advances and opportunities for nanomedicine.",
+      "abstract": "The female reproductive tract (FRT) is a complex system comprising multiple interacting organs with a variety of functions that has traditionally been studied with 2-D in vitro cell cultures and animal models, including for nanomedicine research. Limitations of these models including failure to recapitulate 3-D tissue architecture in vitro and human physiology in vivo have motivated the development of new approach methodologies (NAMs). Recently, NAMs to design 3-D in vitro culture systems to model the FRT have seen expanded application. While these non-animal models have been employed to explore therapeutic delivery, they remain underutilized in the field of nanomedicine targeting delivery to the FRT. This review summarizes advances in 3-D in vitro NAM models of the FRT reported over the past decade in the research literature, including multi-cellular co-cultures, organoids, and organ-on-a-chip (OOC) methodologies to represent in vivo tissue as well as microfluidics to simulate transport, with the goal to highlight opportunities for design of effective nanomedicine targeting the FRT. Despite limitations, NAMs offer new horizons in nanomedicine research focusing on the female reproductive system. Further development of these methodologies for high-throughput applications is anticipated to open the next chapter in nanomedicine targeting the FRT.",
+      "journal": "Nanomedicine (London, England)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Bioengineering, University of Louisville Speed School of Engineering, Louisville, KY, USA.",
+        "Center for Predictive Medicine, University of Louisville, Louisville, KY, USA.",
+        "UofL Health - Brown Cancer Center, University of Louisville, Louisville, KY, USA.",
+        "Department of Pharmacology and Toxicology, University of Louisville School of Medicine, Louisville, KY, USA."
+      ],
+      "doi": "10.1080/17435889.2026.2741200",
+      "date": "2026-10-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830550/"
+    },
+    {
+      "pmid": "42830467",
+      "title": "Dynamin-2 regulates polarized endometrial secretion and epithelial adhesion.",
+      "abstract": "Endometrial receptivity is established through a hormonally regulated transition from a proliferative, non-receptive epithelial state to a secretory and adhesive phenotype during the mid-secretory phase of the menstrual cycle. Failure of this transition results in implantation failure and infertility. However, the epithelial mechanisms coordinating secretion and adhesion remain poorly defined. We investigated the role of dynamin-2 (DNM2), a membrane-remodelling GTPase, in regulating human endometrial epithelial cell function. In fertile endometrium, DNM2 was upregulated during the mid-secretory phase with compartment-specific localisation, showing apical enrichment in glandular epithelium and basal localisation in luminal epithelium. DNM2 expression and glandular enrichment were reduced in mid-secretory endometrium from women with primary infertility. Using hormone-responsive endometrial epithelial organoids, we show progestin-dependent induction of DNM2 in fertile but not infertile epithelium. Inhibition of DNM2 activity selectively altered apical secretions, reducing proteins associated with extracellular signalling, immune regulation and epithelial interaction. DNM2 Knockdown in endometrial epithelial cells impaired trophoblast spheroid adhesion and reduced receptivity-associated gene expression, including STAT3 and SPP1. Together, these findings suggest a potential role for DNM2 in endometrial receptivity and reveal its dysregulation in unexplained infertility.",
+      "journal": "Reproduction (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Obstetrics and Gynaecology, University of Melbourne, Parkville, Victoria, 3010 Australia.",
+        "Gynaecology Research Centre, Royal Women's Hospital, Parkville, Victoria, 3052 Australia.",
+        "Melbourne Mass Spectrometry and Proteomics Facility, Bio21 Molecular Science & Biotechnology Institute, The University of Melbourne, Victoria, Australia."
+      ],
+      "doi": "10.1093/reprod/xaag120",
+      "date": "2026-10-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830467/"
+    },
+    {
+      "pmid": "42830288",
+      "title": "Multi-omics profiling reveals homologous recombination repair hyperactivation as a therapeutic vulnerability in neuroendocrine cervical carcinoma.",
+      "abstract": "Neuroendocrine cervical carcinoma (NECC) is an aggressive and rare malignancy comprising 0.9-1.5% of cervical cancers. Its molecular basis remains poorly understood, limiting treatment options. A national multicenter cohort survival analysis showed that NECC patients had a 5.17-fold higher death risk than non-NECC patients and demonstrated broad chemotherapy resistance, which was further validated in both NECC cell lines and patient-derived organoids. To identify therapeutic targets, multi‑omics profiling of NECC tumors and matched normal adjacent tissues revealed pronounced DNA replication stress and hyperactivation of homologous recombination repair (HRR). These findings were validated in cells and patient-derived organoids using DR-GFP reporter and pRPA32 assays, suggesting that NECC may be susceptible to PARP inhibitor therapy. NECC cells exhibited moderate PARP inhibitor sensitivity, greater than that of resistant non‑NECC lines but less than that of highly sensitive A2780 cells. However, combining PARP inhibitors with cisplatin/carboplatin did not enhance efficacy, prompting the exploration of alternative combinatorial targets. Multi-omics analysis and in vitro validation identified Bloom syndrome helicase (BLM) as a key factor overexpressed in NECC that modulates PARP inhibitor sensitivity. Further in vitro and in vivo experiments confirmed that combining PARP and BLM inhibitors achieved potent anticancer effects. Mechanistically, cancer-associated fibroblasts (CAFs) infiltration in the tumor microenvironment upregulated the transcription factor E2F1 via IL6, with ChIP‒qPCR verifying that activated E2F1 directly binds the BLM promoter (hg38, chr15:90,715,346-90,717,346) to drive its expression, suppressing PARP inhibitor sensitivity. Our findings establish dual PARP and BLM inhibition as a promising therapeutic strategy for NECC by blocking HRR pathway compensation.",
+      "journal": "Signal transduction and targeted therapy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory of Gynecologic Oncology, Fujian Maternity and Child Health Hospital, College of Clinical Medicine for Obstetrics & Gynecology and Pediatrics, Fujian Medical University, Fuzhou, China.",
+        "Fujian Key Laboratory of Women and Children's Critical Diseases Research, Fuzhou, China.",
+        "College of Clinical Medicine for Obstetrics & Gynecology and Pediatrics, Fujian Medical University, Fuzhou, China.",
+        "Department of Pathology, Jiangxi Maternal and Child Health Hospital, Nanchang, China.",
+        "Department of Laboratory Medicine, Fujian Provincial Jianxin Hospital, Fuzhou, China.",
+        "Department of Pathology, Fujian Maternity and Child Health Hospital, College of Clinical Medicine for Obstetrics & Gynecology and Pediatrics, Fujian Medical University, Fuzhou, China.",
+        "Zhangzhou Affiliated Hospital of Fujian Medical University, Zhangzhou, China.",
+        "Department of Gynecology, Mindong Hospital Affiliated to Fujian Medical University, Ningde, China.",
+        "Department of Gynecology, The First Hospital of Putian City, Putian, China.",
+        "The School of Clinical Medicine, Fujian Medical University, Fuzhou, China.",
+        "Department of Gynecological Oncology, Jiangxi Maternal and Child Health Hospital, Nanchang, China.",
+        "Department of Gynecology, Xiangya Hospital, Central South University, Changsha, China.",
+        "Gynecological Oncology Research and Engineering Center of Hunan Province, National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, China.",
+        "Cervical disease center, Shanghai First Maternity and Infant Hospital, School of Medicine, Tongji University, Shanghai, China. puxiaowen@51mch.com.",
+        "State Key Laboratory of Common Mechanism Research for Major Diseases, Department of Biochemistry and Molecular Biology, Institute of Basic Medical Sciences & School of Basic Medicine, National Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China. yangjt@pumc.edu.cn.",
+        "Laboratory of Gynecologic Oncology, Fujian Maternity and Child Health Hospital, College of Clinical Medicine for Obstetrics & Gynecology and Pediatrics, Fujian Medical University, Fuzhou, China. fmsun1975@fjmu.edu.cn.",
+        "Fujian Key Laboratory of Women and Children's Critical Diseases Research, Fuzhou, China. fmsun1975@fjmu.edu.cn.",
+        "School of Population Medicine and Public Health, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China. fmsun1975@fjmu.edu.cn."
+      ],
+      "doi": "10.1038/s41392-026-02822-1",
+      "date": "2026-10-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830288/"
+    },
     {
       "pmid": "42829922",
       "title": "Endowing Flexibility of Alveolar Type II Cells to Recapitulate Development From Lung Bud to Alveoli.",
@@ -78,96 +163,6 @@
       "doi": "10.1002/advs.78139",
       "date": "2026-10-04",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829921/"
-    },
-    {
-      "pmid": "42829823",
-      "title": "Iterative Optimization of Photoactivatable BRD4 Degraders for Aging-Amplified Immunotherapy in Patient-Derived Lung Cancer Organoids.",
-      "abstract": "Cancer remains a major global health threat. Targeted protein degradation (TPD) has revolutionized the modulation of protein function in therapeutic development. Nevertheless, the design of current TPD agents continues to face challenges, including hook effects and, more critically, the frequent lack of spatial and temporal precision required for in vivo applications. Herein, we report a photoactivatable targeted degradation (PATD) strategy and describe the iterative optimization of compound 9, the first two-photon-excited BRD4 photodegrader, achieved through molecular engineering of the photosensitizer core, auxiliary ligands, and linkers. Notably, BRD4 degradation downregulates GPX4 transcription, promoting lipid peroxidation and thereby inducing ferro-aging, while simultaneously triggering chemo-aging via histone H3 cleavage, which leads to DNA damage and cell cycle arrest. This dual-aging mechanism accelerates tumor cell senescence, enabling synergistic seno-immunotherapy. Beyond conventional photosensitizers that primarily elicit immunogenic cell death (ICD) alone, complex 9 integrates senescence-driven immunity with ICD-mediated antitumor immunity. This combined immunostimulatory strategy elicits robust systemic antitumor responses and achieves amplified therapeutic efficacy in patient-derived organoids (PDOs), presenting a new paradigm for precision targeted protein degradation in therapy-resistant tumors.",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Chemistry, Sun Yat-Sen University, Guangzhou, P. R. China.",
-        "MOE Key Laboratory of Applied Surface and Colloid Chemistry of Ministry of Education, School of Chemistry and Chemical Engineering, Shaanxi Normal University, Xi'an, P. R. China.",
-        "Key Laboratory of Clean Chemistry Technology of Guangdong Regular Higher Education Institutions, School of Chemical Engineering and Light Industry, Guangdong University of Technology, Guangzhou, P. R. China.",
-        "College of Chemistry and Materials Science, State Key Laboratory of Bioactive Molecules and Druggability Assessment, Jinan University, Guangzhou, P. R. China.",
-        "MOE Key Laboratory of Theoretical Organic Chemistry and Functional Molecule, School of Chemistry and Chemical Engineering, Hunan University of Science and Technology, Xiangtan, P. R. China."
-      ],
-      "doi": "10.1002/anie.2645239",
-      "date": "2026-10-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829823/"
-    },
-    {
-      "pmid": "42829432",
-      "title": "CDK2/9 blockade remodels chromatin and drives phenotypic plasticity in glioblastoma organoids.",
-      "abstract": "Glioblastoma (GBM) remains a highly lethal brain tumor with limited therapeutic options and pervasive resistance to standard treatments. Cyclin-dependent kinases (CDKs), key regulators of cell cycle progression and transcription, are frequently dysregulated in GBM and contribute to tumor pathogenesis. We employed a range of preclinical GBM models-including 2D cultures, 3D spheroids, patient-derived organoids (PDOs), and multicellular 3D bioprints-to evaluate the effects of the CDK2/9 inhibitor fadraciclib in comparison to the standard-of-care temozolomide. Endpoints included cell viability, stress responses, immune-modulatory effects, and transcriptomic reprogramming. Fadraciclib robustly reduces cell viability and invasion in all patient-specific 2D- and 3D models. This effect was independent of O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation status, demonstrating superior efficacy to temozolomide. Mechanistically, fadraciclib disrupted lysosomal, mitochondrial, and endoplasmic reticulum integrity and increased γH2AX levels, indicating enhanced DNA double-strand breaks. Seahorse analysis demonstrated impaired mitochondrial bioenergetics following fadraciclib treatment. In a triple-culture blood-brain barrier (BBB) model, fadraciclib demonstrated effective BBB penetration and antitumoral activity against GBM cells, while exhibiting minor cytotoxicity toward brain-specific normal cells. In semi-autologous co-culture systems, fadraciclib inhibited GBM invasion, promoted intercellular communication via Connexin 43 upregulation in microglia, and activated peripheral T cells. Transcriptomic analyses of treated patient-derived organoids revealed widespread transcriptional reprogramming, including downregulation of oncogenic long non-coding RNAs (MALAT1, POM121L9), suppression of immune-related pathways, and upregulation of the tumor suppressor LZTS1. Increased histone-associated gene expression suggests chromatin remodeling and induction of a quiescent tumor cell state. Subtype analysis indicated a shift toward a proneural molecular signature. Notably, the antitumoral effects of fadraciclib were preserved in multicellular biomimetic bioprints, whereas nonmalignant astrocytes and microglia were not affected. Therapeutic activity also coincided with altered secretion profiles of extracellular vesicles (EV). EVs from reactive astrocytes contained higher amounts of Fas, which may act as modulator of neuroinflammation. CDK2/9 inhibition shows promise as a therapeutic strategy for GBM. Fadraciclib exhibits multifaceted anti-tumor activity and spares nonmalignant cells of the central nervous system, supporting its further development in therapies that target transcriptional and immune pathways, as well as quiescent tumor cell populations.",
-      "journal": "Cell communication and signaling : CCS",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Internal Medicine - Clinic and Polyclinic for Hematology, Hemostaseology, Oncology, Stem Cell Therapy and Palliative Medicine, Rostock University Medical Center, University of Rostock, Ernst-Heydemann-Straße 6, Rostock, D-18057, Germany.",
-        "Fraunhofer Institute for Cell Therapy and Immunology IZI, Department of Extracorporeal Therapy Systems, Rostock, Germany.",
-        "Department of Internal Medicine, Clinic of Nephrology, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
-        "Department of Otorhinolaryngology, Head and Neck Surgery ''Otto Koerner'', Rostock University Medical Center, Rostock, Germany.",
-        "Department of Internal Medicine, Clinic III-Hematology, Oncology, University Medicine Greifswald, Greifswald, Germany.",
-        "Department of Pediatric Oncology and Hematology, University Medicine Greifswald, Greifswald, Germany.",
-        "Institute of Pharmacology and Toxicology, Rostock University Medical Center, Rostock, Germany.",
-        "Department of Neurosurgery, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
-        "Institute of Cell Biology, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
-        "Clinic and Policlinic for Dermatology and Venereology, University Medical Center Rostock, Rostock, Germany.",
-        "Faculty of Mechanical Engineering and Marine Technology, University of Rostock, Rostock, Germany.",
-        "University Children's Hospital, Rostock University Medical Center, University of Rostock, Rostock, Germany.",
-        "Department of Internal Medicine - Clinic and Polyclinic for Hematology, Hemostaseology, Oncology, Stem Cell Therapy and Palliative Medicine, Rostock University Medical Center, University of Rostock, Ernst-Heydemann-Straße 6, Rostock, D-18057, Germany. claudia.maletzki@med.uni-rostock.de."
-      ],
-      "doi": "10.1186/s12964-026-03272-6",
-      "date": "2026-10-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829432/"
-    },
-    {
-      "pmid": "42829431",
-      "title": "Junctional plakoglobin regulates intestinal epithelial cell proliferation via MAPK/ERK signaling.",
-      "abstract": "Junctional plakoglobin (JUP) is a desmosomal protein essential for epithelial tissue integrity and epithelial-immune cell crosstalk. Although JUP has been implicated in inflammatory processes, its role in intestinal epithelial repair remains unclear. In vitro, loss of JUP in Caco-2 monolayers and non-transformed intestinal organoids markedly accelerated wound closure, driven by enhanced epithelial cell migration and proliferation. RNA sequencing-based pathway analysis of organoids revealed activation of MAPK/ERK signaling following JUP deficiency. This effect was corroborated by increased ERK phosphorylation in Western blot analyses. In line with that, pharmacological inhibition of ERK abrogated the accelerated wound closure, confirming that MAPK/ERK signaling is critical for the phenotype. To further examine the relevance in vivo, we used an inducible, intestine-specific JUP knockout mouse model (iVilCreERT2Jupfl/fl). Following biopsy-induced intestinal injury, JUP deletion significantly enhanced mucosal repair, accompanied by increased cell proliferation and MAPK signaling, thereby confirming the in vitro results. Collectively, these findings establish JUP as a previously unrecognized regulator of epithelial cell dynamics and repair through MAPK/ERK signaling.",
-      "journal": "Cell communication and signaling : CCS",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General, Visceral, Transplant, Vascular and Pediatric Surgery University Hospital Wuerzburg, Oberduerrbacher Strasse 6, Würzburg, 97080, Germany.",
-        "Institute of Anatomy and Experimental Morphology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, Hamburg, 20246, Germany.",
-        "Department of Biochemistry, University of Cambridge, Cambridge, UK.",
-        "Department of Physiology, Development and Neuroscience, Loke Centre for Trophoblast Research, University of Cambridge, Cambridge, UK.",
-        "Faculty of Medicine, Chair of Vegetative Anatomy, Institute of Anatomy, Ludwig-Maximilian-University (LMU) Munich, Munich, 80336, Germany.",
-        "Mildred-Scheel Early Career Centre (MSNZ) for Cancer Research, University Hospital Wuerzburg, Würzburg, Germany.",
-        "Department of Biochemistry and Molecular Biology, Biocenter, Julius-Maximilians-University Wuerzburg, Würzburg, Germany.",
-        "Comprehensive Heart Failure Center Würzburg and Medical Clinic I, University Hospital Würzburg, Am Schwarzenberg 15, Würzburg, 97078, Germany.",
-        "Department of Oral, Maxillofacial and Facial Plastic Surgery, Medical Faculty and University Hospital Düsseldorf, Heinrich-Heine-University Düsseldorf, Düsseldorf, 40225, Germany.",
-        "Department of General, Visceral, Transplant, Vascular and Pediatric Surgery University Hospital Wuerzburg, Oberduerrbacher Strasse 6, Würzburg, 97080, Germany. kelm_m@ukw.de."
-      ],
-      "doi": "10.1186/s12964-026-03256-6",
-      "date": "2026-10-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829431/"
-    },
-    {
-      "pmid": "42829391",
-      "title": "The ferroptosis-cuproptosis crosstalk in hematological malignancies: multi-omics insights into gene-regulated cell death and emerging therapeutic opportunities.",
-      "abstract": "The broadening field of regulated cell death (RCD) has shown a complex, intertwined web of pathways that are not confined to apoptosis but also to ferroptosis, cuproptosis, necroptosis, and other non-canonical mechanisms, especially in haematological malignancies (HMs). Out of these, ferroptosis and cuproptosis stand out as metabolic-based forms of death that are regulated by iron-dependent and copper-dependent processes, respectively. This review presents the notion of a single ferroptosis-cuproptosis axis, a Metallo-redox network that encompasses lipid peroxidation, mitochondrial dysfunction, and proteotoxic stress to control cell fate decisions. We underscore the fact that haematological cancers use metal ion flux, redox homeostasis, and metabolic plasticity to bypass apoptosis, but are susceptible to other RCD pathways. This work, based on multi-omics methods, such as genomics, transcriptomics, proteomics, metabolomics, and metal omics, describes how integrative modelling can unravel RCD susceptibility landscapes and discover context-specific therapeutic targets. The single-cell and spatial analyses further demonstrate intra-tumoral heterogeneity and switching between death pathways in response to therapeutic pressure. New treatment options that are being developed to address this axis such as ferroptosis inducers, copper ionophores, and complex nanomedicine systems with the ability to deliver therapeutics and modify pathways. The review also covers such challenges of translation as the lack of standardization of biomarkers, clinical trial design, and dynamic stratification of patients. Lastly, suggest an outlook system combining artificial intelligence, synthetic biology, and organoid-based systems to permit precision cell death engineering. Together, this literature makes the ferroptosis-cuproptosis axis a novel change in the outlook of future therapies in haematological cancers.",
-      "journal": "Apoptosis : an international journal on programmed cell death",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "SRM Modinagar College of Pharmacy, Faculty of Medicine & Health Sciences, SRM Institute of Science and Technology, NCR Campus, Delhi-Meerut Road, Modinagar, Ghaziabad, 201204, Uttar Pradesh, India. sonaksha@srmist.edu.in.",
-        "SRM Modinagar College of Pharmacy, Faculty of Medicine & Health Sciences, SRM Institute of Science and Technology, NCR Campus, Delhi-Meerut Road, Modinagar, Ghaziabad, 201204, Uttar Pradesh, India.",
-        "Narayan Institute of Pharmacy, Gopal Narayan Singh University, Jamuhar, Sasaram, Rohtas, Bihar, 821305, India.",
-        "GNA School of Pharmacy, GNA University, Phagwara, Punjab, India.",
-        "Department of Biochemistry, Symbiosis Medical College for Women, Symbiosis International (Deemed University), Pune, 412115, India. anita.garad@smcw.siu.edu.in."
-      ],
-      "doi": "10.1007/s10495-026-02451-7",
-      "date": "2026-10-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829391/"
     },
     {
       "pmid": "42818971",
@@ -368,6 +363,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818144/"
     },
     {
+      "pmid": "42830887",
+      "title": "A streamlined hybrid-capture and genome-wide multi-omic platform for highly sensitive ctDNA minimal residual disease monitoring.",
+      "abstract": "Circulating tumor DNA (ctDNA) analysis has revolutionized minimal residual disease (MRD) monitoring, but conventional tumor-informed amplicon-based sequencing (AMP) is limited by the narrow variant capacity and diversity. Hybrid capture-based sequencing (HYB) is more versatile and enables both tumor-informed and tumor-naïve liquid biopsy profiling. We analytically validated the performance of our novel HYB workflow and VarSURE variant calling pipeline, using reference standards (n = 6), plasma samples of cancer patients (n = 75) and healthy donors (n = 90). Genome-wide (GW) non-mutation features including copy number alterations, fragmentomics, and end-motif signatures were also evaluated to enhance ctDNA-MRD detection. Clinical performance was directly compared against our legacy AMP method (K-TRACK, Gene Solutions), using pre-treatment blood samples across multiple cancers (n = 290) and longitudinal cohorts of colorectal cancer (CRC, n = 64), and hepatocellular carcinoma (HCC, n = 47). Optimal parameters to maximize assay performance included single-stranded DNA ligation technology, cfDNA input ≥ 15 ng, post-UMI sequencing depth ≥ 2500X, and high number of tracked mutations. In the tumor-informed setting, the HYB workflow was modestly better than the AMP method in detection of pre-treatment ctDNA; addition of GW features was marginally beneficial except in lung cancer. Surveillance ctDNA determined by the HYB workflow had superior sensitivity to predict recurrence in both CRC (AMP: 90.0%, HYB: 100%) and HCC (AMP: 80.0%, HYB: 96.0%). In the tumor-naïve setting, the performance gap widened significantly, and the combined HYB and GW workflow showed the highest performance in baseline ctDNA detection across all cancers, and achieved sensitivity of 90.0% and 92.0% to detect recurrence in CRC and HCC respectively. The new methodology offers a streamlined and scalable solution for both comprehensive liquid biopsy profiling and longitudinal MRD tracking in routine clinical practice.",
+      "journal": "The journal of liquid biopsy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Medical Genetics Institute, Ho Chi Minh city, Viet Nam.",
+        "Gene Solutions, Ho Chi Minh city, Viet Nam."
+      ],
+      "doi": "10.1016/j.jlb.2026.100496",
+      "date": "2026-09-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830887/"
+    },
+    {
       "pmid": "42830000",
       "title": "Exonuclease III-Proofread high-fidelity primer exchange reaction enables ultrasensitive analysis of prostate cancer MicroRNA.",
       "abstract": "The primer exchange reaction (PER) has emerged as a versatile isothermal amplification technique for biosensing, yet its practical application is severely hampered by non-specific hybridization-induced background signals. Here, we report a high-fidelity PER (Hf-PER) strategy that overcomes this limitation through a rationally designed template architecture integrating exonuclease III (Exo III)-mediated target recycling, blocked primer binding, and self-priming amplification. In this design, Exo III strictly discriminates perfectly matched targets from mismatched sequences, while the absence of free primers and magnetic bead separation effectively suppress spurious amplification. Using miR-21, a prostate cancer-associated biomarker, as a model, the Hf-PER assay achieves a remarkable limit of detection of 0.15 fM with a wide dynamic range spanning five orders of magnitude and single-base discrimination capability. The method demonstrates excellent recovery (95.6%-101.2%) in spiked serum samples, high repeatability (CV < 4.5%), and strong concordance with qPCR (R2 > 0.99). Moreover, it successfully distinguishes prostate cancer cells from normal cells and accurately identifies miR-21 elevation in clinical serum samples from prostate cancer patients. By simply reprogramming the recognition domain, this platform can be readily adapted for other nucleic acid biomarkers; as a proof of concept, we further applied the Hf-PER strategy to detect miR-155, achieving a limit of detection of 0.21 fM and comparable specificity, demonstrating excellent versatility. The Hf-PER strategy offers a robust, sensitive, specific, and programmable tool for early cancer diagnosis, liquid biopsy, and point-of-care testing, addressing a critical need for reliable isothermal amplification in complex biological matrices.",
@@ -460,28 +471,69 @@
       "doi": "10.1080/17501911.2026.2740396",
       "date": "2026-10-03",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829334/"
-    },
-    {
-      "pmid": "42829068",
-      "title": "When RNA Wears a Sugar Coat: Emerging Biology and Cancer Relevance of GlycoRNA.",
-      "abstract": "GlycoRNAs, a recently discovered category of covalently glycosylated RNA molecules that are predominantly enriched in small non-coding RNAs (sncRNAs) and reportedly displayed on the cell surface and within extracellular vesicles (EVs), have emerged as a novel signaling layer in cancer biology. Through specific interactions with sialic acid-binding immunoglobulin-like lectins (Siglecs), P-selectin, and heparan sulfate- vascular endothelial growth factor (VEGF) complexes, glycoRNAs may contribute to intercellular communication, inflammatory responses, and angiogenesis, highlighting their potential involvement in tumor progression and immune evasion. However, as glycoRNA research remains at an early stage, the clinical translation of glycoRNA-based findings are hindered by a series of fundamental unresolved questions. For instance, the biogenesis and trafficking mechanisms of glycoRNAs are still poorly defined, nucleotide-resolution maps of endogenous glycosylation sites are lacking, detection platforms have yet to be standardized and pervasive platform-dependent quantification bias has not been systematically addressed. In this review, we integrate current advances across the structural, mechanistic, and translational dimensions of cancer-associated glycoRNA biology, and propose a roadmap to advance the field from a fundamental biochemical curiosity toward a clinically actionable target in oncology.",
-      "journal": "Cancer letters",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Research Center for Analytical Sciences, Department of Chemistry, College of Sciences, Northeastern University, Shenyang, 110000, China.",
-        "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310006, China.",
-        "Zhejiang Cancer Hospital, Zhejiang Key Laboratory of Functional Nucleic Acids for Basic and Clinical Application, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences, Hangzhou, Zhejiang, 310022, China. Electronic address: pengruizi@him.cas.cn.",
-        "Department of Gynecologic Oncology, Women's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 310006, China. Electronic address: wlf-zju@zju.edu.cn."
-      ],
-      "doi": "10.1016/j.canlet.2026.218878",
-      "date": "2026-10-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829068/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42830288",
+      "date": "2026-10-05",
+      "title": "Multi-omics profiling reveals homologous recombination repair hyperactivation as a therapeutic vulnerability in neuroendocrine cervical carcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830288/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Signal transduction and targeted therapy，PMID 为 42830288。",
+      "report": "Neuroendocrine cervical carcinoma (NECC) is an aggressive and rare malignancy comprising 0.9-1.5% of cervical cancers. Its molecular basis remains poorly understood, limiting treatment options. A national multicenter cohort survival analysis showed that NECC p...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42830550",
+      "date": "2026-10-04",
+      "title": "New approach methodologies to model the female reproductive tract: advances and opportunities for nanomedicine.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830550/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nanomedicine (London, England)，PMID 为 42830550。",
+      "report": "The female reproductive tract (FRT) is a complex system comprising multiple interacting organs with a variety of functions that has traditionally been studied with 2-D in vitro cell cultures and animal models, including for nanomedicine research. Limitations o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42829922",
       "date": "2026-10-04",
@@ -546,53 +598,16 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42829823",
-      "date": "2026-10-04",
-      "title": "Iterative Optimization of Photoactivatable BRD4 Degraders for Aging-Amplified Immunotherapy in Patient-Derived Lung Cancer Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829823/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42829823。",
-      "report": "Cancer remains a major global health threat. Targeted protein degradation (TPD) has revolutionized the modulation of protein function in therapeutic development. Nevertheless, the design of current TPD agents continues to face challenges, including hook effect...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42829431",
+      "id": "pubmed-42830467",
       "date": "2026-10-03",
-      "title": "Junctional plakoglobin regulates intestinal epithelial cell proliferation via MAPK/ERK signaling.",
+      "title": "Dynamin-2 regulates polarized endometrial secretion and epithelial adhesion.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829431/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830467/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -605,45 +620,9 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42829431。",
-      "report": "Junctional plakoglobin (JUP) is a desmosomal protein essential for epithelial tissue integrity and epithelial-immune cell crosstalk. Although JUP has been implicated in inflammatory processes, its role in intestinal epithelial repair remains unclear. In vitro,...",
+      "fact": "PubMed 记录显示该文献收录于 Reproduction (Cambridge, England)，PMID 为 42830467。",
+      "report": "Endometrial receptivity is established through a hormonally regulated transition from a proliferative, non-receptive epithelial state to a secretory and adhesive phenotype during the mid-secretory phase of the menstrual cycle. Failure of this transition result...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42829391",
-      "date": "2026-10-03",
-      "title": "The ferroptosis-cuproptosis crosstalk in hematological malignancies: multi-omics insights into gene-regulated cell death and emerging therapeutic opportunities.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829391/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Apoptosis : an international journal on programmed cell death，PMID 为 42829391。",
-      "report": "The broadening field of regulated cell death (RCD) has shown a complex, intertwined web of pathways that are not confined to apoptosis but also to ferroptosis, cuproptosis, necroptosis, and other non-canonical mechanisms, especially in haematological malignanc...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -706,66 +685,6 @@
       "fact": "PubMed 记录显示该文献收录于 Epigenomics，PMID 为 42829334。",
       "report": "Plasma cell-free DNA (cfDNA) is fragmented nonrandomly, reflecting the chromatin architecture of its source cells and the nucleases that process it. The fragmentome can therefore provide an indirect readout of cellular regulatory state. This review examines ho...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42829068",
-      "date": "2026-10-03",
-      "title": "When RNA Wears a Sugar Coat: Emerging Biology and Cancer Relevance of GlycoRNA.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829068/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42829068。",
-      "report": "GlycoRNAs, a recently discovered category of covalently glycosylated RNA molecules that are predominantly enriched in small non-coding RNAs (sncRNAs) and reportedly displayed on the cell surface and within extracellular vesicles (EVs), have emerged as a novel...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42829432",
-      "date": "2026-10-02",
-      "title": "CDK2/9 blockade remodels chromatin and drives phenotypic plasticity in glioblastoma organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829432/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42829432。",
-      "report": "Glioblastoma (GBM) remains a highly lethal brain tumor with limited therapeutic options and pervasive resistance to standard treatments. Cyclin-dependent kinases (CDKs), key regulators of cell cycle progression and transcription, are frequently dysregulated in...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1048,6 +967,66 @@
       "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42782810。",
       "report": "The term virtual cell now covers objects ranging from curated biochemical simulators to atlas-trained neural representations, yet the decisive empirical question is narrower: whether a model built to obey known biochemical rules predicts the effects of new dru...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42830887",
+      "date": "2026-09-19",
+      "title": "A streamlined hybrid-capture and genome-wide multi-omic platform for highly sensitive ctDNA minimal residual disease monitoring.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830887/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42830887。",
+      "report": "Circulating tumor DNA (ctDNA) analysis has revolutionized minimal residual disease (MRD) monitoring, but conventional tumor-informed amplicon-based sequencing (AMP) is limited by the narrow variant capacity and diversity. Hybrid capture-based sequencing (HYB)...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42830976",
+      "date": "2026-09-17",
+      "title": "High-quantity capture of heterogeneous circulating tumor cells in vivo based on a multinanobody-functionalized carboxymethyl cellulose cryogel.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42830976/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 42830976。",
+      "report": "Circulating tumor cells (CTCs) carry multidimensional information from primary tumors, yet current separation strategies lead to insufficient quantity of cells available for robust downstream analyses. To address this issue, we propose an in-vivo capture strat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
