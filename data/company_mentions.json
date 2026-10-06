@@ -4,31 +4,113 @@
   "asOfDate": "2026-10-06",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-9f89d1386b4786d9",
-      "observedName": "Merck Sharp & Dohme LLC",
-      "normalizedName": "merck sharp and dohme",
+      "id": "mention-clinicaltrials-2a9fa38c7252ed11",
+      "observedName": "Altor BioScience",
+      "normalizedName": "altor bioscience",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05623319",
-      "sourceDate": "2025-06-24",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05623319",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01625260",
+      "sourceDate": "2024-07-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01625260",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
         "临床试验",
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Pembrolizumab and Olaparib Treatment of Extensive Small Cell Lung Cancer (ES-SCLC)"
+      "contextTitle": "A Study of ALT-801 in Patients With Bacillus Calmette-Guerin (BCG) Failure Non-Muscle Invasive Bladder Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-5c0fdea81aaf56d8",
+      "observedName": "Genelex Corporation",
+      "normalizedName": "genelex",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02428660",
+      "sourceDate": "2017-02-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02428660",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Drug & Gene Interaction Risk Analysis With & Without Genetic Testing Among Patients Undergoing MTM"
+    },
+    {
+      "id": "mention-clinicaltrials-9f1b17924981b60e",
+      "observedName": "Longevity Metrics, Inc.",
+      "normalizedName": "longevity metrics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07646782",
+      "sourceDate": "2026-09-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07646782",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Human Observatory Study"
+    },
+    {
+      "id": "mention-clinicaltrials-dba74d990c5cd6ea",
+      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
+      "normalizedName": "kingbio medical beijing",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06406660",
+      "sourceDate": "2024-05-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406660",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Recurrent Small Cell Lung Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
