@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-06T00:06:47.006233+00:00",
+  "capturedAt": "2026-10-06T06:28:19.016069+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-06"
   },
   "pmids": [
+    "42833950",
+    "42833861",
+    "42833616",
+    "42833426",
     "42832683",
     "42832658",
-    "42832275",
-    "42831626",
-    "42831547",
-    "42831528",
     "42818971",
     "42818106",
     "42816262",
@@ -40,6 +40,80 @@
     "42830887"
   ],
   "records": [
+    {
+      "pmid": "42833950",
+      "title": "Translational benchmarking of 3D in vitro models of traumatic brain injury.",
+      "abstract": "Traumatic brain injury (TBI) remains a major cause of neurological disability, yet effective therapies are limited. Advances in 3D in vitro neural models, including organoids, scaffold-based constructs, and brain-on-a-chip systems, have provided new opportunities to study neurotrauma under controlled conditions. This review evaluates recent in vitro tissue platforms through a dual framework of mechanical fidelity and biological response, benchmarking applied injury conditions against human biomechanical reconstructions and assessing the coverage of downstream responses relative to TBI pathology. Many 3D models apply clinically relevant mechanical loading regimes and reproduce select phenotypes, but remain limited by inconsistent mechanical reporting, incomplete cellular complexity, and sparse modeling of chronic and repetitive injury. Addressing these challenges will improve the translational utility of next-generation platforms.",
+      "journal": "Trends in biotechnology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Tufts University, 4 Colby St, Medford, MA 02155, USA; Draper Scholar, The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA; Bioengineering Division, The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA.",
+        "Tufts University, 4 Colby St, Medford, MA 02155, USA.",
+        "Bioengineering Division, The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA.",
+        "Tufts University, 4 Colby St, Medford, MA 02155, USA. Electronic address: David.kaplan@tufts.edu."
+      ],
+      "doi": "10.1016/j.tibtech.2026.09.014",
+      "date": "2026-09-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833950/"
+    },
+    {
+      "pmid": "42833861",
+      "title": "PRTN3 drives immunosuppression in KRAS-mutant lung adenocarcinoma through proteolytic inactivation of CXCL9.",
+      "abstract": "KRAS-mutant lung adenocarcinoma (LUAD) shows limited benefit from immune checkpoint blockade (ICB), and the mechanisms by which oncogenic KRAS signaling promotes immune resistance remain poorly understood. Here, we sought to identify tumor-intrinsic mediators of KRAS-driven immune evasion and therapeutic resistance in LUAD. Integrated analyses of human LUAD cohorts, genetically engineered mouse models, tumor cell models, and patient-derived organoids were performed to define the role of PRTN3 in immune regulation. PRTN3 regulation and function were investigated using transcriptional analyses, chromatin immunoprecipitation assays, biochemical cleavage assays, and immune cell co-culture systems. The therapeutic effect of PRTN3 inhibition was evaluated using flow cytometric immune profiling, functional immune assays, and syngeneic tumor models. We identified PRTN3 as a downstream effector of KRAS signaling that promotes immune evasion in LUAD. Mechanistically, KRAS signaling transcriptionally upregulated PRTN3 through c-Myc activation. Secreted PRTN3 directly cleaved and inactivated CXCL9 in the tumor microenvironment, disrupting CXCL9/CXCR3 signaling and impairing the recruitment and activation of cytotoxic CD8+ T cells and natural killer cells. In patients with LUAD, elevated PRTN3 expression was associated with reduced cytotoxic immune signatures and decreased CXCL9 activity. Genetic inhibition of PRTN3 enhanced antitumor immunity and improved responses to anti-programmed cell death protein 1 therapy in vivo. Furthermore, a hydrolysis-resistant CXCL9 variant restored cytotoxic lymphocyte activation and enhanced immune-mediated tumor cell killing in patient-derived organoids. Our findings reveal a KRAS/c-Myc/PRTN3 axis that promotes immune suppression through extracellular proteolytic inactivation of CXCL9. Targeting PRTN3-mediated immune evasion may represent a promising strategy to enhance ICB efficacy in KRAS-driven LUAD.",
+      "journal": "Journal for immunotherapy of cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Immunology, Institute of Basic Medical Sciences & School of Basic Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China.",
+        "Nankai University, School of Medicine, Tianjin, China.",
+        "Department of Lung Cancer Surgery, Tianjin Medical University General Hospital, Tianjin, China.",
+        "BioMetas (Shanghai) Limited, Shanghai, China.",
+        "Henan Institute of Medical and Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, Henan, China drldrl926@163.com ypluo@ibms.pumc.edu.cn.",
+        "Department of Immunology, Institute of Basic Medical Sciences & School of Basic Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China drldrl926@163.com ypluo@ibms.pumc.edu.cn."
+      ],
+      "doi": "10.1136/jitc-2026-015399",
+      "date": "2026-10-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833861/"
+    },
+    {
+      "pmid": "42833616",
+      "title": "Animal Models for Interventional Oncology Research: Overview and Considerations in the Era of New Approach Methodologies.",
+      "abstract": "While translational animal models play a meaningful role in interventional oncology (IO) research, recent attention has focused on new approach methodologies (NAMs) prioritizing human biology-based paradigms. In this narrative review, animal models used in IO research, spanning mouse, rat, woodchuck, rabbit, pig, dog, and non-human primate platforms, are presented. In addition, \"next generation\" animal models, such as humanized models, genetically defined models, and comorbidity models, are summarized. Subsequently, NAM concepts, including organoids, organ-on-a-chip systems, ex vivo organ preparations, and artificial intelligence and in silico modeling tools, and their potential for advancing IO research, are described. Finally, the complementary value of preclinical models in the NAMs era and model selection are considered.",
+      "journal": "Journal of vascular and interventional radiology : JVIR",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiology, University of Illinois at Chicago, Chicago IL. Electronic address: rgaba@uic.edu.",
+        "Department of Radiology, University of Illinois at Chicago, Chicago IL.",
+        "College of Medicine, University of Illinois at Chicago, Chicago IL.",
+        "Sus Clinicals, Inc."
+      ],
+      "doi": "10.1016/j.jvir.2026.109112",
+      "date": "2026-10-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833616/"
+    },
+    {
+      "pmid": "42833426",
+      "title": "CSN-associated c-Cbl control alternative NF-κB/RelB activity in Helicobacter pylori infection.",
+      "abstract": "TheThe colonization of the gastric epithelium with Helicobacter pylori elicits a robust nuclear factor kappa-light chain enhancer of activated B cells (NF-κB)-dependent inflammatory response. The bacterial effector molecule adenosine diphosphate-glycero-β-D-manno-heptose (ADP-heptose) triggers both the classical and alternative NF-κB pathways almost simultaneously leading to activation of the transcription factor heterodimers p50/RelA and p52/RelB. Previous studies have demonstrated that the COP9 signalosome complex (CSN) plays an important role in regulating the classical NF-κB pathway through deneddylation of the E3 ligase Skp1-Cullin1-F-Box-β-TRCP (SCFβ-TRCP), while the influence of the CSN on the alternative NF-κB pathway remains unclear. Here, we show that CSN-dependent deneddylation of Cullin-1 controls via the classical NF-κB signaling pathway the upregulation of RelB mRNA and protein expression, enhancing the nuclear translocation of RelB. These findings are supported by the fact that ADP-heptose induces RelB expression in 2D mucosoids derived from 3D organoids from gastric antral glands of the stomach. Blocking neddylation and the activity of SCFβ-TRCP by treatment with the NEDD8-activating enzyme inhibitor MLN4924 prior to H. pylori infection, stabilized IκBα as well as p100 and suppressed RelA and RelB nuclear translocation. Therefore, our data show that CSN-dependent regulation of SCFβ-TRCP controls classical NF-κB signaling and consequently contributes to RelB nuclear translocation and alternative NF-κB activity. For the termination of alternative NF-κB activity, the CSN serves as a hub between constitutively associated c-Cbl and nuclear RelB, allowing c-Cbl-mediated ubiquitinylation of nuclear RelB following H. pylori infection.",
+      "journal": "Biochimica et biophysica acta. Molecular cell research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Otto von Guericke University, Institute of Experimental Internal Medicine, 39120 Magdeburg, Germany.",
+        "Otto von Guericke University, Institute of Experimental Internal Medicine, 39120 Magdeburg, Germany. Electronic address: Naumann@med.ovgu.de."
+      ],
+      "doi": "10.1016/j.bbamcr.2026.120234",
+      "date": "2026-10-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833426/"
+    },
     {
       "pmid": "42832683",
       "title": "Chronic cigarette smoke exposure induces distinct stem cell states driving genetic driver-specific non-small cell lung cancer subtypes.",
@@ -74,79 +148,6 @@
       "doi": "10.1073/pnas.2617028123",
       "date": "2026-10-05",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42832658/"
-    },
-    {
-      "pmid": "42832275",
-      "title": "Aging in a Dish: Pulmonary Organoids as Models of Lung Aging.",
-      "abstract": "Dissecting Lung Aging Through Organoid Models: From Mechanisms to Therapeutic Targets Aging of the lung is characterized by progressive alterations in epithelial integrity, stem cell renewal, immune surveillance, and tissue repair. These changes compromise pulmonary function and increase susceptibility to chronic lung diseases, including chronic obstructive pulmonary disease (COPD) and idiopathic pulmonary fibrosis (IPF), as well as respiratory infections that disproportionately affect older individuals. Mechanistically, lung aging arises from cell-intrinsic dysfunction, impaired intercellular communication, and disrupted homeostasis. Understanding mechanisms driving lung aging remains a critical challenge for preserving respiratory health in the elderly. To address this challenge, advanced in vitro models like lung organoids have emerged as powerful tools to study respiratory aging. Organoids are three-dimensional (3D) cultures derived from lung stem or progenitor cells. Lung organoids enable investigation of aging phenotypes, including impaired self-renewal, differentiation, epigenetic alterations, oxidative stress, and senescence. They can model interactions between epithelial, stromal, and immune cells while recapitulating key microenvironmental influences such as inflammation, fibrosis, and toxin exposure. Together, these features position organoids as a versatile platform to dissect cellular crosstalk and signaling pathways driving lung aging and related pathologies. This review highlights the use of lung organoids to investigate age-related lung diseases. We discuss how organoid systems have been used to study epithelial dysfunction, impaired regeneration and immune-epithelial crosstalk in the aging lung. Furthermore, we emphasize how integration with multi-omics approaches can reveal novel mechanisms and targets. Finally, we consider the translational potential of organoid-based models for drug discovery, target validation, and interventions to mitigate age-related decline in lung function.",
-      "journal": "American journal of respiratory cell and molecular biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Lung Health and Immunity (LHI), Helmholtz Munich, Comprehensive Pneumology Center (CPC-M), Germany, German Center for Lung Research (DZL), Neuherberg, Germany.",
-        "Institute for Lung Research, Philipps-University Marburg, German Center for Lung Research (DZL), Marburg, Germany.",
-        "Institute for Lung Health (ILH), German Center for Lung Research (DZL), and Cardiopulmonary Institute (CPI), Justus-Liebig University Giessen, Germany."
-      ],
-      "doi": "10.1093/ajrcmb/aanag202",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42832275/"
-    },
-    {
-      "pmid": "42831626",
-      "title": "Human norovirus infection does not induce serotonin secretion in human intestinal organoids.",
-      "abstract": "Human noroviruses (HuNoVs) are a leading cause of acute gastroenteritis worldwide. The primary symptoms of HuNoV-associated disease are vomiting and diarrhea; yet the mechanisms underlying these symptoms are poorly understood. Neuroactive hormones such as serotonin (5-hydroxytryptamine; 5-HT) secreted by intestinal enteroendocrine cells (EECs) can activate vomiting centers in the brain and play a critical role in regulating emetic signaling. Serotonin release from infected EECs has been implicated in vomiting during other enteric infections. Recent studies have reported the detection of HuNoV RNA and antigen in EECs in jejunal biopsies from immunocompromised patients with chronic HuNoV infection and rhesus macaques. We therefore investigated whether HuNoV infection of human intestinal organoids (HIOs) induces serotonin secretion. We examined infection and serotonin secretion with multiple genogroup II HuNoV strains using adult and infant jejunal HIO models, including a doxycycline-inducible neurogenin-3 HIO line with increased numbers of EECs. HuNoV infection did not induce serotonin secretion in either adult or infant HIOs as measured by ELISA. Consistent with enterocytes being the primary target cell type for HuNoVs, GII.4 HuNoV replication was robust in parental HIOs but reduced in EEC-enriched cultures. Furthermore, supernatants from parental HIOs failed to stimulate serotonin release from EEC-enriched HIOs. Together, these findings demonstrate that HuNoV infection of intestinal epithelial cells is insufficient to trigger serotonin release in HIOs. These results suggest that HuNoV-associated vomiting is unlikely to result from direct epithelial serotonin secretion and may require additional cellular components such as immune or neuronal signaling pathways or may involve other neuroactive hormones.IMPORTANCEVomiting is a hallmark symptom of human norovirus disease. Yet, the biological mechanisms responsible for this response are unknown. Infection of enteroendocrine cells and secretion of serotonin play key roles in the emetic response to other gastrointestinal viruses such as rotavirus. Since recent studies have detected human norovirus antigens and RNA in enteroendocrine cells, we hypothesized that human norovirus infection could stimulate serotonin secretion. We used jejunal human intestinal organoids from adults and infants, including organoids enriched for enteroendocrine cells, and found that infection with several clinically important strains did not induce serotonin secretion, even under conditions supporting robust viral replication. These data indicate that serotonin release from intestinal epithelial cells alone is unlikely to explain norovirus-induced vomiting and highlights the need to investigate alternative mechanisms, including other neuroactive hormones, and neuronal signaling pathways to better understand the pathogenesis of norovirus-associated vomiting.",
-      "journal": "Journal of virology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Molecular Virology and Microbiology, Baylor College of Medicine, Houston, Texas, USA.",
-        "Integrated Microscopy Core, Baylor College of Medicine, Houston, Texas, USA.",
-        "Department of Medicine, Baylor College of Medicine, Houston, Texas, USA."
-      ],
-      "doi": "10.1128/jvi.00833-26",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831626/"
-    },
-    {
-      "pmid": "42831547",
-      "title": "Organoids in drug discovery and development: emerging technologies to transition beyond animal models.",
-      "abstract": "High translational failure rates and ethical concerns surrounding animal models are driving the development of technologies to improve the drug development process. Organoids, three-dimensional self-organizing structures derived from stem cells, provide scalable, human-relevant platforms that recapitulate aspects of native tissue architecture and physiology with the potential to enhance predictive assessment of drug efficacy and toxicity. This review evaluates the potential for organoids to complement and, where scientifically feasible, reduce or eliminate animal testing. It highlights advancements and enabling technologies, including bioprinting, organ-on-chip, bioreactors, and machine learning, that support increasing organoid complexity and physiological relevance. Furthermore, it explores evolving regulatory frameworks and industry adoption while discussing practical challenges and ethical complexities to inform future development. The literature was surveyed up to August 2026 through PubMed and ClinicalTrials.gov, with industry reports retrieved through Google search. The future of drug discovery lies in a strategic transition toward human-relevant systems. Organoid technologies provide value across stages of drug development, from high-throughput screening and mechanistic studies to predicting patient-specific treatment response, while reducing reliance on animal testing and supporting increased patient safety and efficiency. However, challenges in standardization, morphological complexity, heterogeneity, and cellular maturation currently limit their broad application.",
-      "journal": "Expert opinion on drug discovery",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Mechanical Engineering, University of Victoria, Victoria, Canada.",
-        "School of Medical Sciences, University of Victoria, Victoria, Canada.",
-        "Centre for Advanced Materials and Technology, University of Victoria, Victoria, Canada.",
-        "School of Biomedical Engineering, University of British Columbia, Vancouver, Canada."
-      ],
-      "doi": "10.1080/17460441.2026.2742992",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831547/"
-    },
-    {
-      "pmid": "42831528",
-      "title": "Advances in Human and Animal Germinal Center Models In Vitro: New Approaches to Studying Immune Responses.",
-      "abstract": "Germinal centers (GCs) are dynamic structures in secondary lymphoid organs where B cells undergo antigen-driven clonal selection, affinity maturation by somatic hypermutation (SHM), and class switch recombination (CSR), resulting in the generation of high-affinity antigen-specific long-lived plasma cells and memory B cells. Reconstructing these processes in vitro is critical for mechanistic studies and for advancing translational applications in vaccinology and immunotherapy. This review examines human and murine approaches to in vitro models of GC-like reactions, including conventional cultures, three-dimensional (3D) scaffolds, organoids, and microfluidic systems. We summarize the stimuli and culture conditions used across studies, highlighting common requirements, as well as model-specific strategies. Most models effectively induced B cell proliferation, CSR, and plasma cell differentiation. In contrast, SHM and clonal selection, key features of the GC, were less frequently shown, reflecting the technical complexity of reproducing these events in vitro. Finally, we outline the main challenges in recreating a fully functional GC and suggest future directions for refining these models to more closely mimic the secondary lymphoid organ environment.",
-      "journal": "BioMed research international",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Centro de Investigación Sobre Enfermedades Infecciosas, Instituto Nacional de Salud Pública, Cuernavaca, Morelos, Mexico, insp.mx.",
-        "Instituto de Investigación en Ciencias Básicas y Aplicadas, Universidad Autónoma del Estado de Morelos, Cuernavaca, Morelos, Mexico, uaem.mx.",
-        "Facultad de Medicina, Universidad Autónoma del Estado de Morelos, Cuernavaca, Morelos, Mexico, uaem.mx.",
-        "Centro de Biociencias, Universidad Autónoma de San Luis Potosí, San Luis Potosí, Mexico, uaslp.mx.",
-        "Secretaría de Ciencia, Humanidades, Tecnología e Innovación, SECIHTI, IxM, Mexico City, Mexico."
-      ],
-      "doi": "10.1155/bmri/2510652",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831528/"
     },
     {
       "pmid": "42818971",
@@ -468,6 +469,94 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42833861",
+      "date": "2026-10-05",
+      "title": "PRTN3 drives immunosuppression in KRAS-mutant lung adenocarcinoma through proteolytic inactivation of CXCL9.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833861/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal for immunotherapy of cancer，PMID 为 42833861。",
+      "report": "KRAS-mutant lung adenocarcinoma (LUAD) shows limited benefit from immune checkpoint blockade (ICB), and the mechanisms by which oncogenic KRAS signaling promotes immune resistance remain poorly understood. Here, we sought to identify tumor-intrinsic mediators...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42833616",
+      "date": "2026-10-05",
+      "title": "Animal Models for Interventional Oncology Research: Overview and Considerations in the Era of New Approach Methodologies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833616/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42833616。",
+      "report": "While translational animal models play a meaningful role in interventional oncology (IO) research, recent attention has focused on new approach methodologies (NAMs) prioritizing human biology-based paradigms. In this narrative review, animal models used in IO...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42833426",
+      "date": "2026-10-05",
+      "title": "CSN-associated c-Cbl control alternative NF-κB/RelB activity in Helicobacter pylori infection.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833426/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular cell research，PMID 为 42833426。",
+      "report": "TheThe colonization of the gastric epithelium with Helicobacter pylori elicits a robust nuclear factor kappa-light chain enhancer of activated B cells (NF-κB)-dependent inflammatory response. The bacterial effector molecule adenosine diphosphate-glycero-β-D-ma...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42832683",
       "date": "2026-10-05",
       "title": "Chronic cigarette smoke exposure induces distinct stem cell states driving genetic driver-specific non-small cell lung cancer subtypes.",
@@ -531,113 +620,6 @@
       "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42832658。",
       "report": "Proper development of the inner ear, including specification and differentiation of progenitors for the endolymphatic sac, is crucial for hearing and balance. In a mouse model of the SOX9Y440X/+ mutation that causes campomelic dysplasia and deafness, impaired...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42832275",
-      "date": "2026-10-05",
-      "title": "Aging in a Dish: Pulmonary Organoids as Models of Lung Aging.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42832275/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42832275。",
-      "report": "Dissecting Lung Aging Through Organoid Models: From Mechanisms to Therapeutic Targets Aging of the lung is characterized by progressive alterations in epithelial integrity, stem cell renewal, immune surveillance, and tissue repair. These changes compromise pul...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42831626",
-      "date": "2026-10-05",
-      "title": "Human norovirus infection does not induce serotonin secretion in human intestinal organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831626/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of virology，PMID 为 42831626。",
-      "report": "Human noroviruses (HuNoVs) are a leading cause of acute gastroenteritis worldwide. The primary symptoms of HuNoV-associated disease are vomiting and diarrhea; yet the mechanisms underlying these symptoms are poorly understood. Neuroactive hormones such as sero...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42831547",
-      "date": "2026-10-05",
-      "title": "Organoids in drug discovery and development: emerging technologies to transition beyond animal models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831547/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42831547。",
-      "report": "High translational failure rates and ethical concerns surrounding animal models are driving the development of technologies to improve the drug development process. Organoids, three-dimensional self-organizing structures derived from stem cells, provide scalab...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -952,6 +934,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42833950",
+      "date": "2026-09-22",
+      "title": "Translational benchmarking of 3D in vitro models of traumatic brain injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833950/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42833950。",
+      "report": "Traumatic brain injury (TBI) remains a major cause of neurological disability, yet effective therapies are limited. Advances in 3D in vitro neural models, including organoids, scaffold-based constructs, and brain-on-a-chip systems, have provided new opportunit...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42818144",
       "date": "2026-09-22",
       "title": "De novo design of protease-activatable cytokine prodrugs.",
@@ -1190,34 +1200,6 @@
       "fact": "PubMed 记录显示该文献收录于 Computational and structural biotechnology journal，PMID 为 42828399。",
       "report": "Virus-like particles (VLPs) are versatile platforms for drug delivery and vaccine development, but precisely customizing their immune profiles for specific clinical applications remains challenging. Here, we present a computational framework that integrates co...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42831528",
-      "date": "2026-01-01",
-      "title": "Advances in Human and Animal Germinal Center Models In Vitro: New Approaches to Studying Immune Responses.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831528/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BioMed research international，PMID 为 42831528。",
-      "report": "Germinal centers (GCs) are dynamic structures in secondary lymphoid organs where B cells undergo antigen-driven clonal selection, affinity maturation by somatic hypermutation (SHM), and class switch recombination (CSR), resulting in the generation of high-affi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

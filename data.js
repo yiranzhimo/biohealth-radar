@@ -821,6 +821,220 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42833861",
+      "date": "2026-10-05",
+      "title": "PRTN3 drives immunosuppression in KRAS-mutant lung adenocarcinoma through proteolytic inactivation of CXCL9.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833861/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal for immunotherapy of cancer，PMID 为 42833861。",
+      "report": "KRAS-mutant lung adenocarcinoma (LUAD) shows limited benefit from immune checkpoint blockade (ICB), and the mechanisms by which oncogenic KRAS signaling promotes immune resistance remain poorly understood. Here, we sought to identify tumor-intrinsic mediators...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_05d239b83ff1183c006ac4950ce35887d1b8fec9ff0c4d977c",
+        "reviewedAt": "2026-10-06T06:28:28.146381+00:00",
+        "inputHash": "c61a0b4d4868868a6394c036d2d60b10eddb2d04f391390274b879512b94ca7c",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献内容有效，信息分类合理，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离清晰，证据等级合理。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal for immunotherapy of cancer，PMID 为 42833861。",
+          "report": "KRAS-mutant lung adenocarcinoma (LUAD) shows limited benefit from immune checkpoint blockade (ICB), and the mechanisms by which oncogenic KRAS signaling promotes immune resistance remain poorly understood. Here, we sought to identify tumor-intrinsic mediators...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42833616",
+      "date": "2026-10-05",
+      "title": "Animal Models for Interventional Oncology Research: Overview and Considerations in the Era of New Approach Methodologies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833616/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42833616。",
+      "report": "While translational animal models play a meaningful role in interventional oncology (IO) research, recent attention has focused on new approach methodologies (NAMs) prioritizing human biology-based paradigms. In this narrative review, animal models used in IO...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bc2e39f0bd914ba006ac49511907c87d18ded675c9c4ac7c0",
+        "reviewedAt": "2026-10-06T06:28:28.146381+00:00",
+        "inputHash": "9bed055ffe03ee69b33db36a3a5595a8a298dab9688e0e7f867a3206de437089",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献的记录符合中立的情报标准，未包含未经支持的临床结论或建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源清晰，事实、报告和推论分割良好。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42833616。",
+          "report": "While translational animal models play a meaningful role in interventional oncology (IO) research, recent attention has focused on new approach methodologies (NAMs) prioritizing human biology-based paradigms. In this narrative review, animal models used in IO...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42833426",
+      "date": "2026-10-05",
+      "title": "CSN-associated c-Cbl control alternative NF-κB/RelB activity in Helicobacter pylori infection.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833426/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular cell research，PMID 为 42833426。",
+      "report": "TheThe colonization of the gastric epithelium with Helicobacter pylori elicits a robust nuclear factor kappa-light chain enhancer of activated B cells (NF-κB)-dependent inflammatory response. The bacterial effector molecule adenosine diphosphate-glycero-β-D-ma...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_017e81f5db12a012006ac495170bbc87d1b198ae0d13ea335f",
+        "reviewedAt": "2026-10-06T06:28:28.146381+00:00",
+        "inputHash": "88abb87424d90bf63e54c696de03c2ec1726aa001d2499b948002f9cc1f65892",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录准确反映了文献来源，未包含未经支持的临床结论或推荐。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与文献主题一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献的证据等级适中，且事实、报告和推论清晰分开。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Organoids & Advanced Disease Models",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biochimica et biophysica acta. Molecular cell research，PMID 为 42833426。",
+          "report": "The colonization of the gastric epithelium with Helicobacter pylori elicits a robust nuclear factor kappa-light chain enhancer of activated B cells (NF-κB)-dependent inflammatory response. The bacterial effector molecule adenosine diphosphate-glycero-β-D-ma...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42832683",
       "date": "2026-10-05",
       "title": "Chronic cigarette smoke exposure induces distinct stem cell states driving genetic driver-specific non-small cell lung cancer subtypes.",
@@ -976,262 +1190,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42832658。",
           "report": "Proper development of the inner ear, including specification and differentiation of progenitors for the endolymphatic sac, is crucial for hearing and balance. In a mouse model of the SOX9Y440X/+ mutation that causes campomelic dysplasia and deafness, impaired...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42832275",
-      "date": "2026-10-05",
-      "title": "Aging in a Dish: Pulmonary Organoids as Models of Lung Aging.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42832275/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42832275。",
-      "report": "Dissecting Lung Aging Through Organoid Models: From Mechanisms to Therapeutic Targets Aging of the lung is characterized by progressive alterations in epithelial integrity, stem cell renewal, immune surveillance, and tissue repair. These changes compromise pul...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07adb29c97d2b715006ac43bab8ce087d1be8daf6f027ef729",
-        "reviewedAt": "2026-10-06T00:06:55.821804+00:00",
-        "inputHash": "bbb1659c8aca0f8721a53684521f54b3dfc426e01620b1b817e6c756f493bd9c",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息清晰且来源可靠，不需要人类审查。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别匹配文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分开明确，证据级别合理。"
-        },
-        "riskFlags": [
-          "biomedical_research",
-          "study_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Longevity",
-            "Biomarkers",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "衰老",
-            "biomarker",
-            "longevity",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42832275。",
-          "report": "Dissecting Lung Aging Through Organoid Models: From Mechanisms to Therapeutic Targets Aging of the lung is characterized by progressive alterations in epithelial integrity, stem cell renewal, immune surveillance, and tissue repair. These changes compromise pulmonary function.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42831626",
-      "date": "2026-10-05",
-      "title": "Human norovirus infection does not induce serotonin secretion in human intestinal organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831626/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of virology，PMID 为 42831626。",
-      "report": "Human noroviruses (HuNoVs) are a leading cause of acute gastroenteritis worldwide. The primary symptoms of HuNoV-associated disease are vomiting and diarrhea; yet the mechanisms underlying these symptoms are poorly understood. Neuroactive hormones such as sero...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0399b160fecd3855006ac43bb2aa9087d195ef747ddf361c3a",
-        "reviewedAt": "2026-10-06T00:06:55.821804+00:00",
-        "inputHash": "ac23c90c7f1462682650f73023be27bd561bb033f276720baad39dfd7169b287",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审核以确认研究质量和背景信息。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不充分，仅凭自动分类未能支撑研究质量的有效性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平未能支持研究结论，需进一步核实。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of virology，PMID 为 42831626。",
-          "report": "Human noroviruses (HuNoVs) are a leading cause of acute gastroenteritis worldwide. The primary symptoms of HuNoV-associated disease are vomiting and diarrhea; yet the mechanisms underlying these symptoms are poorly understood. Neuroactive hormones such as sero...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42831547",
-      "date": "2026-10-05",
-      "title": "Organoids in drug discovery and development: emerging technologies to transition beyond animal models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831547/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42831547。",
-      "report": "High translational failure rates and ethical concerns surrounding animal models are driving the development of technologies to improve the drug development process. Organoids, three-dimensional self-organizing structures derived from stem cells, provide scalab...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_03eb832875c2dc62006ac43bb8fba887d1beba3c4957b9bad0",
-        "reviewedAt": "2026-10-06T00:06:55.821804+00:00",
-        "inputHash": "6612ae57101d25142d0d681b8535b8abd93f35a7b1497bf7505a978cfaab39b4",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号信息来源于高可靠性的PubMed记录，内容清晰且中立，无需人类审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合研究主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推断清楚分离，证据等级适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "临床",
-            "监管",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Expert opinion on drug discovery，PMID 为 42831547。",
-          "report": "High translational failure rates and ethical concerns surrounding animal models are driving the development of technologies to improve the drug development process. Organoids, three-dimensional self-organizing structures derived from stem cells, provide scalab...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2415,6 +2373,77 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "sec-0001434265-000143426526000125",
+      "date": "2026-09-24",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_026e611fea07f8b7006ab59775fd1c87d1b0ee140f24c83c09",
+        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
+        "inputHash": "4d5203df971beda8c47fc957bb7deb396b9b27cc97ed85c5896c0a998138a5a9",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该条目符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类正确，符合源数据的描述。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告、推论和未知项清晰分开，证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Antibody / ADC"
+          ],
+          "tags": [
+            "SEC",
+            "6-K",
+            "GMAB"
+          ],
+          "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
+          "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "sec-0001801198-000117184326006215",
       "date": "2026-09-24",
       "title": "Legend Biotech filed Form 6-K",
@@ -2482,77 +2511,6 @@ window.BHR_DATA = {
           ],
           "fact": "SEC EDGAR lists accession 0001171843-26-006215 for Legend Biotech, Form 6-K, filed on 2026-09-24.",
           "report": "SEC metadata describes the primary document as: FORM 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "sec-0001434265-000143426526000125",
-      "date": "2026-09-24",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_026e611fea07f8b7006ab59775fd1c87d1b0ee140f24c83c09",
-        "reviewedAt": "2026-09-24T21:34:40.184929+00:00",
-        "inputHash": "4d5203df971beda8c47fc957bb7deb396b9b27cc97ed85c5896c0a998138a5a9",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条目符合发布标准，无需人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类正确，符合源数据的描述。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告、推论和未知项清晰分开，证据水平合理。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "GMAB"
-          ],
-          "fact": "SEC EDGAR lists accession 0001434265-26-000125 for Genmab, Form 6-K, filed on 2026-09-24.",
-          "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
@@ -2628,6 +2586,76 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: CURRENT REPORT FILING.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42833950",
+      "date": "2026-09-22",
+      "title": "Translational benchmarking of 3D in vitro models of traumatic brain injury.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42833950/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42833950。",
+      "report": "Traumatic brain injury (TBI) remains a major cause of neurological disability, yet effective therapies are limited. Advances in 3D in vitro neural models, including organoids, scaffold-based constructs, and brain-on-a-chip systems, have provided new opportunit...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00aca7d366d136f7006ac4951bfe8c87d1ab3a1d96d53b35c4",
+        "reviewedAt": "2026-10-06T06:28:28.146381+00:00",
+        "inputHash": "9e67963bf917766a5130003cf7218f9f9d25bd4cf4428a323eab4cc8b3a224ee",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录提供了文献的基本信息，且分类合理。未包含未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要和次要分类均合理，符合主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论均清晰区分，证据水平合理。"
+        },
+        "riskFlags": [
+          "medical_advice_risk",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42833950。",
+          "report": "Traumatic brain injury (TBI) remains a major cause of neurological disability, yet effective therapies are limited. Advances in 3D in vitro neural models, including organoids, scaffold-based constructs, and brain-on-a-chip systems, have provided new opportunities.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -8829,75 +8857,6 @@ window.BHR_DATA = {
           "report": "In standard of care regularly planned surgery, tissue will be obtained from patients who are suspicious for having vestibular Schwannoma (on MRI). The tissue that remains after the pathologist gathered sufficient for analysis, the remaining tissue is used for...",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Organoids, Advanced Disease Models, Cell Therapy, Oncology。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42831528",
-      "date": "2026-01-01",
-      "title": "Advances in Human and Animal Germinal Center Models In Vitro: New Approaches to Studying Immune Responses.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831528/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BioMed research international，PMID 为 42831528。",
-      "report": "Germinal centers (GCs) are dynamic structures in secondary lymphoid organs where B cells undergo antigen-driven clonal selection, affinity maturation by somatic hypermutation (SHM), and class switch recombination (CSR), resulting in the generation of high-affi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07a63681c1f403c6006ac43bdba77087d1b2c1bbccfee9bdae",
-        "reviewedAt": "2026-10-06T00:06:55.821804+00:00",
-        "inputHash": "c3741400a728a653b5e8b6947aeead7cc953292f1b898d2481294da13e461d2e",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，无临床建议或未支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且与元数据一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告及推断分开，且证据水平合适。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 BioMed research international，PMID 为 42831528。",
-          "report": "Germinal centers (GCs) are dynamic structures in secondary lymphoid organs where B cells undergo antigen-driven clonal selection, affinity maturation by somatic hypermutation (SHM), and class switch recombination (CSR), resulting in the generation of high-affi...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
