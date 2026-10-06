@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-10-05T14:50:41.042973+00:00",
+  "capturedAt": "2026-10-06T00:06:55.656579+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-09-21",
-    "end": "2026-10-05"
+    "start": "2026-09-22",
+    "end": "2026-10-06"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-10-05",
+      "reportDate": "2026-10-05",
+      "acceptanceDateTime": "2026-10-05T19:28:19.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-38976",
+      "filmNumber": "261440149",
+      "items": "",
+      "size": 116234,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "gmab_20261005x6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001434265-26-000132",
+      "companyId": "genmab",
+      "companyName": "Genmab",
+      "companyDirections": [
+        "Antibody / ADC"
+      ],
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/gmab_20261005x6k.htm"
+    },
     {
       "filingDate": "2026-10-02",
       "reportDate": "2026-10-02",
@@ -363,34 +388,40 @@
       "cik": "0001730463",
       "secName": "Autolus Therapeutics plc",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000119312526398045/d112040d424b3.htm"
-    },
-    {
-      "filingDate": "2026-09-21",
-      "reportDate": "2026-09-15",
-      "acceptanceDateTime": "2026-09-21T13:05:27.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-40323",
-      "filmNumber": "261392398",
-      "items": "1.01",
-      "size": 138056,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "rxrx-20260915.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001601830-26-000112",
-      "companyId": "recursion",
-      "companyName": "Recursion Pharmaceuticals",
-      "companyDirections": [
-        "AI Drug Discovery"
-      ],
-      "secTicker": "RXRX",
-      "cik": "0001601830",
-      "secName": "RECURSION PHARMACEUTICALS, INC.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001434265-000143426526000132",
+      "date": "2026-10-05",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/gmab_20261005x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000132 for Genmab, Form 6-K, filed on 2026-10-05.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001434265-000143426526000129",
       "date": "2026-10-02",
@@ -668,37 +699,6 @@
       "fact": "SEC EDGAR lists accession 0001193125-26-398045 for Autolus Therapeutics, Form 424B3, filed on 2026-09-22.",
       "report": "SEC metadata describes the primary document as: 424B3.",
       "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001601830-000160183026000112",
-      "date": "2026-09-21",
-      "title": "Recursion Pharmaceuticals filed Form 8-K",
-      "entity": "Recursion Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "AI Drug Discovery"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "RXRX"
-      ],
-      "companyIds": [
-        "recursion"
-      ],
-      "fact": "SEC EDGAR lists accession 0001601830-26-000112 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-09-21.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
   ]
