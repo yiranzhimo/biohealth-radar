@@ -39052,7 +39052,7 @@
     },
     {
       "companyId": "candidate-eikon-therapeutics",
-      "name": "Eikon Therapeutics, Inc.",
+      "name": "Eikon Therapeutics",
       "asOfDate": "2026-10-07",
       "profileStatus": "partial",
       "identity": {
@@ -39079,7 +39079,13 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances"
+          "Biological Products, Except Diagnostic Substances",
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -42153,6 +42159,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-10-07",
+            "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-10-05",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/gmab_20261005x6k.htm",
@@ -42205,14 +42219,6 @@
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm",
             "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-08-12",
-            "title": "Genmab filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm",
-            "source": "SEC EDGAR"
           }
         ],
         "reportPortals": []
@@ -42239,6 +42245,7 @@
         "commercialProducts": [],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000134",
           "evidence-sec-0001434265-000143426526000132",
           "evidence-sec-0001434265-000143426526000129",
           "evidence-sec-0001434265-000143426526000127",
@@ -42256,6 +42263,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000134",
+            "date": "2026-10-07",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000134",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm"
+          },
           {
             "id": "event-sec-0001434265-000143426526000132",
             "date": "2026-10-05",
@@ -42299,17 +42317,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000125",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm"
-          },
-          {
-            "id": "event-sec-0001434265-000143426526000123",
-            "date": "2026-09-09",
-            "title": "Genmab filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001434265-000143426526000123",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000123/gmab_20260909x6k.htm"
           }
         ],
         "inferences": [],
@@ -42319,12 +42326,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 12,
+        "evidenceCount": 13,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 11
+          "Filing": 12
         },
-        "lastEvidenceDate": "2026-10-05",
+        "lastEvidenceDate": "2026-10-07",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -42332,6 +42339,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000134",
+          "date": "2026-10-07",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000134",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm"
+        },
         {
           "id": "event-sec-0001434265-000143426526000132",
           "date": "2026-10-05",
@@ -42408,17 +42426,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001434265-000143426526000116",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm"
-        },
-        {
-          "id": "event-sec-0001434265-000143426526000113",
-          "date": "2026-08-12",
-          "title": "Genmab filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001434265-000143426526000113",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000113/gmab_20260812x6k.htm"
         }
       ]
     },

@@ -4,113 +4,88 @@
   "asOfDate": "2026-10-07",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-2a9fa38c7252ed11",
-      "observedName": "Altor BioScience",
-      "normalizedName": "altor bioscience",
+      "id": "mention-clinicaltrials-6897cd68873e9cd9",
+      "observedName": "Beijing Biotech",
+      "normalizedName": "beijing biotech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01625260",
-      "sourceDate": "2024-07-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01625260",
+      "sourceRecordId": "NCT07500220",
+      "sourceDate": "2026-03-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07500220",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Study of ALT-801 in Patients With Bacillus Calmette-Guerin (BCG) Failure Non-Muscle Invasive Bladder Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-5c0fdea81aaf56d8",
-      "observedName": "Genelex Corporation",
-      "normalizedName": "genelex",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02428660",
-      "sourceDate": "2017-02-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02428660",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Drug & Gene Interaction Risk Analysis With & Without Genetic Testing Among Patients Undergoing MTM"
-    },
-    {
-      "id": "mention-clinicaltrials-9f1b17924981b60e",
-      "observedName": "Longevity Metrics, Inc.",
-      "normalizedName": "longevity metrics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07646782",
-      "sourceDate": "2026-09-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07646782",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
-        "Oncology",
-        "Precision Medicine",
         "Precision Oncology",
         "Recruiting",
-        "biomarker",
+        "中国",
         "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "细胞治疗",
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Human Observatory Study"
+      "contextTitle": "Dual-Target GPC3/B7-H3 CAR-NK Cells for Advanced HCC"
     },
     {
-      "id": "mention-clinicaltrials-dba74d990c5cd6ea",
-      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
-      "normalizedName": "kingbio medical beijing",
+      "id": "mention-clinicaltrials-8666fab4bfc058ee",
+      "observedName": "Eikon Therapeutics",
+      "normalizedName": "eikon therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06406660",
-      "sourceDate": "2024-05-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406660",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06246110",
+      "sourceDate": "2026-05-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246110",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Advanced Disease Models",
         "Clinical Trials",
         "Oncology",
-        "Organoids",
         "Precision Oncology",
-        "中国",
+        "Recruiting",
         "临床试验",
-        "疾病模型",
-        "类器官",
         "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Recurrent Small Cell Lung Cancer"
+      "contextTitle": "A Phase 2 Study of EIK1001 in Combo With Pembrolizumab and Chemotherapy in Patients With Stage 4 NSCLC"
+    },
+    {
+      "id": "mention-clinicaltrials-9e1ce39028642b8b",
+      "observedName": "Rigel Pharmaceuticals",
+      "normalizedName": "rigel pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07486713",
+      "sourceDate": "2026-08-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07486713",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Olutasidenib DDI Study in Patients With IDH1 Mutation Positive Malignancies"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
