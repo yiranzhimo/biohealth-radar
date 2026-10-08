@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-08T06:12:58.057059+00:00",
+  "capturedAt": "2026-10-08T13:39:25.335980+00:00",
   "summary": {
-    "mentionCount": 661,
-    "candidateCount": 593,
-    "corroboratedCount": 3,
-    "identifiedCount": 588,
-    "needsReviewCount": 2,
+    "mentionCount": 662,
+    "candidateCount": 595,
+    "corroboratedCount": 2,
+    "identifiedCount": 589,
+    "needsReviewCount": 4,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 4,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,88 +20,124 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-6897cd68873e9cd9",
-      "observedName": "Beijing Biotech",
-      "normalizedName": "beijing biotech",
+      "id": "mention-clinicaltrials-7caaad4510846def",
+      "observedName": "GliaCure, Inc.",
+      "normalizedName": "gliacure",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07500220",
-      "sourceDate": "2026-03-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07500220",
+      "sourceRecordId": "NCT02386306",
+      "sourceDate": "2016-02-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02386306",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Study Evaluating Safety, Tolerability, and PK of Multiple Ascending Doses of GC021109 in Subjects With Mild to Moderate Alzheimer's Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-827a1f9d10965dcb",
+      "observedName": "AgileMD, Inc.",
+      "normalizedName": "agilemd",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06771830",
+      "sourceDate": "2026-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06771830",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Evaluation of Pediatric eCART Implementation"
+    },
+    {
+      "id": "mention-clinicaltrials-834b2d1182b12418",
+      "observedName": "Lindenhofgruppe AG",
+      "normalizedName": "lindenhofgruppe",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06227065",
+      "sourceDate": "2026-09-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06227065",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
         "Clinical Trials",
         "Oncology",
+        "Organoids",
         "Precision Oncology",
         "Recruiting",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Precise Chemoresection in Low-grade NMIBC Using Drug Screens in Patient-derived Organoids"
+    },
+    {
+      "id": "mention-clinicaltrials-cdbd942455172a3f",
+      "observedName": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "normalizedName": "guangzhou burning rock bioengineering",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06979921",
+      "sourceDate": "2025-08-14",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
         "中国",
         "临床试验",
-        "细胞治疗",
-        "肿瘤"
+        "乳腺癌",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
       ],
       "activitySignals": [
         "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Dual-Target GPC3/B7-H3 CAR-NK Cells for Advanced HCC"
-    },
-    {
-      "id": "mention-clinicaltrials-8666fab4bfc058ee",
-      "observedName": "Eikon Therapeutics",
-      "normalizedName": "eikon therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06246110",
-      "sourceDate": "2026-05-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246110",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Phase 2 Study of EIK1001 in Combo With Pembrolizumab and Chemotherapy in Patients With Stage 4 NSCLC"
-    },
-    {
-      "id": "mention-clinicaltrials-9e1ce39028642b8b",
-      "observedName": "Rigel Pharmaceuticals",
-      "normalizedName": "rigel pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07486713",
-      "sourceDate": "2026-08-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07486713",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Olutasidenib DDI Study in Patients With IDH1 Mutation Positive Malignancies"
+      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -28556,16 +28592,15 @@
     },
     {
       "id": "candidate-eikon-therapeutics",
-      "name": "Eikon Therapeutics",
+      "name": "Eikon Therapeutics, Inc.",
       "aliases": [
-        "Eikon Therapeutics",
         "Eikon Therapeutics, Inc."
       ],
       "normalizedName": "eikon therapeutics",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-10-02",
       "identifiers": {
@@ -28578,38 +28613,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "themes": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-8666fab4bfc058ee",
         "mention-sec-21717bf33a53f794"
       ],
       "sources": [
@@ -28621,15 +28640,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001861123&owner=exclude&hidefilings=0",
           "externalId": "0001861123",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-05-28",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06246110",
-          "externalId": "NCT06246110",
-          "contextTitle": "A Phase 2 Study of EIK1001 in Combo With Pembrolizumab and Chemotherapy in Patients With Stage 4 NSCLC"
         }
       ]
     },
@@ -43934,41 +43944,35 @@
       ]
     },
     {
-      "id": "candidate-beijing-biotech",
-      "name": "Beijing Biotech",
+      "id": "candidate-gliacure",
+      "name": "GliaCure, Inc.",
       "aliases": [
-        "Beijing Biotech"
+        "GliaCure, Inc."
       ],
-      "normalizedName": "beijing biotech",
+      "normalizedName": "gliacure",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-03-30",
-      "lastSeenAt": "2026-03-30",
+      "firstSeenAt": "2016-02-03",
+      "lastSeenAt": "2016-02-03",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Longevity",
+          "biomarker",
           "临床试验",
-          "细胞治疗",
-          "肿瘤"
+          "衰老"
         ],
         "themes": [
-          "Cell Therapy",
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Longevity",
+          "biomarker",
           "临床试验",
-          "细胞治疗",
-          "肿瘤"
+          "衰老"
         ],
         "tags": []
       },
@@ -43981,73 +43985,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6897cd68873e9cd9"
+        "mention-clinicaltrials-7caaad4510846def"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-03-30",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07500220",
-          "externalId": "NCT07500220",
-          "contextTitle": "Dual-Target GPC3/B7-H3 CAR-NK Cells for Advanced HCC"
-        }
-      ]
-    },
-    {
-      "id": "candidate-rigel-pharmaceuticals",
-      "name": "Rigel Pharmaceuticals",
-      "aliases": [
-        "Rigel Pharmaceuticals"
-      ],
-      "normalizedName": "rigel pharmaceuticals",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-11",
-      "lastSeenAt": "2026-08-11",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-9e1ce39028642b8b"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-08-11",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07486713",
-          "externalId": "NCT07486713",
-          "contextTitle": "Olutasidenib DDI Study in Patients With IDH1 Mutation Positive Malignancies"
+          "sourceDate": "2016-02-03",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02386306",
+          "externalId": "NCT02386306",
+          "contextTitle": "Study Evaluating Safety, Tolerability, and PK of Multiple Ascending Doses of GC021109 in Subjects With Mild to Moderate Alzheimer's Disease"
         }
       ]
     },
@@ -47421,6 +47369,204 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
+        }
+      ]
+    },
+    {
+      "id": "candidate-agilemd",
+      "name": "AgileMD, Inc.",
+      "aliases": [
+        "AgileMD, Inc."
+      ],
+      "normalizedName": "agilemd",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-13",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Recruiting",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Recruiting",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-827a1f9d10965dcb"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-08-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06771830",
+          "externalId": "NCT06771830",
+          "contextTitle": "Evaluation of Pediatric eCART Implementation"
+        }
+      ]
+    },
+    {
+      "id": "candidate-guangzhou-burning-rock-bioengineering",
+      "name": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "aliases": [
+        "Guangzhou Burning Rock Bioengineering Ltd."
+      ],
+      "normalizedName": "guangzhou burning rock bioengineering",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-08-14",
+      "lastSeenAt": "2025-08-14",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床试验",
+          "乳腺癌",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Diagnostics",
+          "Longevity",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "中国",
+          "临床试验",
+          "乳腺癌",
+          "精准医疗",
+          "肿瘤",
+          "衰老",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-cdbd942455172a3f"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-08-14",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
+          "externalId": "NCT06979921",
+          "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
+        }
+      ]
+    },
+    {
+      "id": "candidate-lindenhofgruppe",
+      "name": "Lindenhofgruppe AG",
+      "aliases": [
+        "Lindenhofgruppe AG"
+      ],
+      "normalizedName": "lindenhofgruppe",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-09-18",
+      "lastSeenAt": "2026-09-18",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "themes": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-834b2d1182b12418"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-09-18",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06227065",
+          "externalId": "NCT06227065",
+          "contextTitle": "Precise Chemoresection in Low-grade NMIBC Using Drug Screens in Patient-derived Organoids"
         }
       ]
     }

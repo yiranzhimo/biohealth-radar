@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-08T06:12:54.341889+00:00",
+  "capturedAt": "2026-10-08T13:39:21.212603+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,122 @@
     "end": "2026-10-08"
   },
   "pmids": [
+    "42844697",
+    "42844616",
+    "42844476",
+    "42844356",
     "42843344",
     "42842719",
-    "42842376",
-    "42842373",
-    "42842296",
-    "42842117",
+    "42844355",
     "42818971",
     "42818106",
     "42816262",
     "42815472",
     "42804716",
-    "42782810",
     "42842665",
     "42839711",
     "42834449",
     "42828399",
     "42826717",
     "42826505",
+    "42844644",
     "42844226",
     "42843955",
     "42843480",
     "42843135",
-    "42842845",
-    "42841346"
+    "42842845"
   ],
   "records": [
+    {
+      "pmid": "42844697",
+      "title": "Zingiberen Newsaponin Enhances Antitumor Immunity in Anaplastic Thyroid Carcinoma Via Induction of Autophagy-Dependent Pyroptosis.",
+      "abstract": "Anaplastic thyroid carcinoma (ATC) is a lethal malignancy with a dismal prognosis and limited therapeutic options. Although immunotherapy has revolutionized the oncological landscape, the efficacy of Programmed Cell Death Protein 1 (PD-1) blockade as a monotherapy remains underwhelming in ATC. Consequently, identifying novel agents capable of triggering immunogenic cell death (ICD) to sensitize ATC to immune checkpoint inhibitors is a critical clinical priority. Through high-throughput screening of 3200 compounds, Zingiberen newsaponin (ZN) was identified as a lead anti-ATC agent. Its therapeutic efficacy was evaluated using ATC cell lines, patient-derived organoids, and xenograft models. Mechanistic investigations were conducted via pharmacological inhibition, genetic knockout, and Western blotting to examine the autophagy-pyroptosis axis. Furthermore, an immunocompetent murine ATC model was employed to assess the synergistic effects of ZN and anti-PD-1 therapy on the tumor immune microenvironment through immunohistochemical analysis of T-cell infiltration. ZN exhibited potent antiproliferative activity against ATC cells with half-maximal inhibitory concentration values ranging from 1.95 to 2.98 μM. Morphological assessment and biochemical assays (Lactate dehydrogenase, interleukin-1 beta, and high mobility group box 1 release) confirmed that ZN induces Gasdermin E (GSDME)-mediated pyroptosis via the activation of caspase-3 and caspase-8. Importantly, genetic knockout of GSDME significantly attenuated the pyroptotic phenotype, corroborating the central role of GSDME in ZN-induced pyroptosis. Mechanistically, ZN-induced pyroptosis was found to be autophagy-dependent, as pharmacological inhibition of autophagy with chloroquine significantly reversed GSDME cleavage and cell death both in vitro and in vivo. Consistently, ATG5 knockdown markedly rescued ZN-induced cell pyroptosis. Furthermore, ZN functioned as a potent inducer of ICD. In immunocompetent murine models, ZN treatment remodeled the tumor immune microenvironment by significantly increasing the infiltration of CD8+ T cells. Notably, the combination of ZN and anti-PD-1 therapy demonstrated superior synergistic antitumor efficacy compared with monotherapy. Our study identifies ZN as a novel inducer of autophagy-mediated GSDME pyroptosis in ATC. By triggering ICD and recruiting CD8+ T cells, ZN sensitizes ATC to PD-1 blockade, offering a promising therapeutic strategy for this lethal disease.",
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thyroid Surgery, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Zhejiang Key Laboratory of Intelligent Cancer Biomarker Discovery and Translation, First Affiliated Hospital, Wenzhou Medical University, Wenzhou, China.",
+        "The First Clinical Medical College, Wenzhou Medical University, Wenzhou, China.",
+        "Alberta Institute of Wenzhou Medical University, Wenzhou, China.",
+        "Department of Breast Surgery, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Department of Hepatobiliary Surgery, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China.",
+        "Zhejiang-Germany Interdisciplinary Joint Laboratory of Hepatobiliary-Pancreatic Tumor and Bioengineering, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, China."
+      ],
+      "doi": "10.1177/10507256261493805",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844697/"
+    },
+    {
+      "pmid": "42844616",
+      "title": "Correction: Construction of gastric cancer patient-derived organoids and their utilization in a comparative study of clinically used paclitaxel nanoformulations.",
+      "abstract": "",
+      "journal": "Journal of nanobiotechnology",
+      "publicationTypes": [
+        "Published Erratum"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology and Hepatology, The First Medical Centre, Chinese PLA General Hospital, Beijing, 100853, People's Republic Of China.",
+        "State Key Laboratory of Biochemical Engineering, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, People's Republic Of China.",
+        "School of Chemical Engineering, University of Chinese Academy of Sciences, Beijing, 100049, People's Republic Of China.",
+        "Department of General Surgery, The First Medical Centre, Chinese PLA General Hospital, Beijing, 100853, People's Republic Of China.",
+        "State Key Laboratory of Biochemical Engineering, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, People's Republic Of China. ghma@ipe.ac.cn.",
+        "School of Chemical Engineering, University of Chinese Academy of Sciences, Beijing, 100049, People's Republic Of China. ghma@ipe.ac.cn.",
+        "State Key Laboratory of Biochemical Engineering, Institute of Process Engineering, Chinese Academy of Sciences, Beijing, 100190, People's Republic Of China. weiwei@ipe.ac.cn.",
+        "School of Chemical Engineering, University of Chinese Academy of Sciences, Beijing, 100049, People's Republic Of China. weiwei@ipe.ac.cn.",
+        "Department of Gastroenterology and Hepatology, The First Medical Centre, Chinese PLA General Hospital, Beijing, 100853, People's Republic Of China. linghuenqiang@vip.sina.com."
+      ],
+      "doi": "10.1186/s12951-026-05104-8",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844616/"
+    },
+    {
+      "pmid": "42844476",
+      "title": "Human lung organoid modelling of tissue-resident antiviral T cell responses.",
+      "abstract": "Tissue-resident immunity constitutes a first line of defence against pathogens and enables rapid innate and adaptive memory responses1-3. However, experimental studies have been hindered by a lack of holistic human in vitro models that enable epithelial infection in the context of tissue-resident immune subsets. In lung, differing notions of transient versus sustained residency of tissue-resident memory T cells (TRM cells) have challenged the extent to which anamnestic recall immunity to respiratory pathogens occurs locally or in concert with secondary lymphoid organs4-6. Here we generated long-term adult human distal lung organoids from intact tissue fragments in 3D air-liquid interface culture, which co-preserved epithelial and stromal components with endogenous lung-resident immune cells (T cells, B cells, natural killer cells and myeloid cells). The organoid T cells expressed residency and memory markers and preserved T cell receptor repertoires of cognate fresh tissue. SARS-CoV-2 infected the organoid lung epithelium, stimulated inflammatory cytokine production and, crucially, induced SARS-CoV-2-specific, tissue-resident T cell responses. Furthermore, boosting T cells within intact organoids with SARS-CoV-2 peptide pools blunted subsequent SARS-CoV-2 infection, consistent with a component of virus-specific protective TRM cell function in the absence of secondary lymphoid tissues. Overall, this immunocompetent lung organoid system demonstrates functional control of viral infection by lung-intrinsic memory T cell responses, provides a rationale for local vaccination strategies and validates a general platform for investigation of human tissue-resident immunity in health and disease.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Hematology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Division of Pulmonary, Allergy and Critical Care Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Stanford Institute of Immunity, Transplantation and Infection, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Medicine, University of California, San Francisco, San Francisco, CA, USA.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Cardiothoracic Surgery, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Stanford Center for Genomics and Personalized Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Donor Network West, San Ramon, CA, USA.",
+        "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Epidemiology, Microbiology, and Immunology, University of North Carolina Chapel Hill, Chapel Hill, NC, USA.",
+        "Department of Pediatric Surgery, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Chan Zuckerberg Biohub, San Francisco, CA, USA.",
+        "Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology, La Jolla, CA, USA.",
+        "Department of Medicine, Division of Infectious Diseases and Global Public Health, University of California, San Diego, La Jolla, CA, USA.",
+        "Division of Hematology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA. cjkuo@stanford.edu.",
+        "Arc Institute, Palo Alto, CA, USA. cjkuo@stanford.edu."
+      ],
+      "doi": "10.1038/s41586-026-11114-1",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844476/"
+    },
+    {
+      "pmid": "42844356",
+      "title": "Recording time via brain organoids.",
+      "abstract": "",
+      "journal": "Nature methods",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nature Methods, . madhura.mukho@us.nature.com."
+      ],
+      "doi": "10.1038/s41592-026-03257-w",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844356/"
+    },
     {
       "pmid": "42843344",
       "title": "A standardized patient-derived glioblastoma organoid platform for evaluating radiotherapy efficacy and overcoming resistance.",
@@ -91,81 +181,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842719/"
     },
     {
-      "pmid": "42842376",
-      "title": "Protocol for isolation and cryopreservation of human peripheral blood mononuclear cells for high-resolution respirometry.",
-      "abstract": "High-resolution respirometry (HRR) of peripheral blood mononuclear cells (PBMCs) relies on controlled preanalytical procedures. Here, we present an optimized workflow for PBMC isolation from human whole blood, followed by short-term cryopreservation at -80°C. The protocol includes rapid thawing to preserve cell viability, washing steps to minimize platelet contamination, and quality-control assessment of PBMC number, viability, and composition before HRR measurements. Critical handling steps are optimized and validated by HRR against freshly prepared cells.",
-      "journal": "STAR protocols",
+      "pmid": "42844355",
+      "title": "Generalizable perturbation prediction.",
+      "abstract": "",
+      "journal": "Nature methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "VASCage-Centre on Clinical Stroke Research, Innsbruck 6020, Austria. Electronic address: alejandra.romero-martinez@vascage.at.",
-        "Oroboros Instruments, Innsbruck 6020, Austria.",
-        "Oroboros Instruments, Innsbruck 6020, Austria. Electronic address: jaime.willis@oroboros.at.",
-        "Department of Neurology, Medical University of Innsbruck, Innsbruck 6020, Austria.",
-        "VASCage-Centre on Clinical Stroke Research, Innsbruck 6020, Austria."
+        "Nature Methods, . lin.tang@nature.com."
       ],
-      "doi": "10.1016/j.xpro.2026.104881",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842376/"
-    },
-    {
-      "pmid": "42842373",
-      "title": "CAR-engineered microglia harness phagocytosis to target brain tumor in organoid models.",
-      "abstract": "Glioblastoma (GBM) is among the most aggressive and lethal brain tumors, and standard treatment offers only modest survival benefits. Chimeric antigen receptor (CAR) T cell therapy has transformed the treatment of hematologic cancers, but its efficacy in GBM remains limited. Here we develop a CAR-engineered microglia (CAR-MG) platform and an organoid-based framework to test whether programmable microglial phagocytosis can be directed against GBM. We isolate microglia (MG) from human cortical organoids and engineer them to express a CAR targeting EGFRvIII, a recurrent tumor-specific EGFR deletion variant in GBM. In a 2D co-culture, CAR-MG selectively eliminates GBM cells through phagocytosis. In a 3D GBM-cortical organoid model, CAR-MG infiltrates tumor sites and depletes GBM cells over extended culture. Single-cell RNA sequencing (scRNA-seq) shows elevated phagocytic pathways in CAR-MG and detects internalized tumor-derived transcripts, which resolve phagocytosis-resistance programs. These results support CAR-MG as a myeloid CAR modality for human brain organoid models.",
-      "journal": "Cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Genetics, Interdepartmental Neuroscience Program, Yale Stem Cell Center, Yale Child Study Center, Wu Tsai Institute, Yale School of Medicine, New Haven, CT 06520, USA.",
-        "Cardiac Electrophysiology Research and Training Center, Faculty of Medicine, Neuroelectrophysiology Unit, Chiang Mai University, Chiang Mai 50200, Thailand; Center of Excellence in Cardiac Electrophysiology Research, Chiang Mai University, Chiang Mai 50200, Thailand; Cardiac Electrophysiology Unit, Department of Physiology, Chiang Mai University, Chiang Mai 50200, Thailand; Department of Physiology, Faculty of Science, Mahidol University, Bangkok 50200, Thailand.",
-        "Center for Precision Cancer Modeling, Yale School of Medicine, New Haven, CT 06520, USA.",
-        "Cardiac Electrophysiology Research and Training Center, Faculty of Medicine, Neuroelectrophysiology Unit, Chiang Mai University, Chiang Mai 50200, Thailand; Center of Excellence in Cardiac Electrophysiology Research, Chiang Mai University, Chiang Mai 50200, Thailand; Cardiac Electrophysiology Unit, Department of Physiology, Chiang Mai University, Chiang Mai 50200, Thailand.",
-        "Cardiac Electrophysiology Research and Training Center, Faculty of Medicine, Neuroelectrophysiology Unit, Chiang Mai University, Chiang Mai 50200, Thailand; Center of Excellence in Cardiac Electrophysiology Research, Chiang Mai University, Chiang Mai 50200, Thailand; Department of Oral Biology and Diagnostic Sciences, Faculty of Dentistry, Chiang Mai University, Chiang Mai 50200, Thailand.",
-        "Department of Genetics, Interdepartmental Neuroscience Program, Yale Stem Cell Center, Yale Child Study Center, Wu Tsai Institute, Yale School of Medicine, New Haven, CT 06520, USA. Electronic address: inhyun.park@yale.edu."
-      ],
-      "doi": "10.1016/j.celrep.2026.118091",
-      "date": "2026-10-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842373/"
-    },
-    {
-      "pmid": "42842296",
-      "title": "ERX 208 induces endoplasmic reticulum stress and suppresses DNA damage repair to enhance chemotherapy sensitivity.",
-      "abstract": "Ovarian cancer (OCa) remains the most lethal gynecologic malignancy, driven in part by intrinsic and acquired therapeutic resistance to DNA damaging chemotherapies. We previously identified that ERX-208 targets the protein encoded by Lysosomal acid lipase (LIPA) to induce catastrophic endoplasmic reticulum (ER) stress in OCa models. As ERX-class compounds advance to clinical development, rational combination strategies are needed to maximize therapeutic efficacy. To address this question, we conducted an unbiased in vitro screen of the combination of ERX 208 with 147 FDA approved agents. We identified that DNA damaging chemotherapies, including anthracyclines, antitumor antibiotics, oxaliplatin, and paclitaxel were most synergistic in combination with ERX-208. Reanalysis of our transcriptomic data in OCa cells revealed coordinated suppression of DNA damage repair (DDR), DNA replication, and checkpoint pathways following ERX-208 treatment. Together, these data support a narrative that ERX-208 may selectively suppress DDR pathways and potentiate cytotoxicity by DNA-damaging agents. To test this hypothesis, we used platinum, and paclitaxel, two standard-of-care agents in OCa. We noted that ERX-208 synergized with platinum and paclitaxel across multiple OCa models, enhancing apoptosis and suppressing proliferation, clonogenicity, and invasion. Mechanistically, combination treatment increased DNA damage and amplified ER stress and apoptotic signaling. Importantly, ERX-208 based combinations showed enhanced antitumor activity in patient-derived organoid, explant, and xenograft models, including therapy-resistant tumors. These findings support a model in which ERX-208 impairs DNA damage response pathways and sensitizes OCa cells to DNA-damaging chemotherapy. Collectively, these data provide a strong rationale for the combination strategy in clinical translation.",
-      "journal": "Cancer research communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "The University of Texas at San Antonio Health Science Center San Antonio, TX United States.",
-        "The University of Texas at San Antonio San Antonio United States.",
-        "The University of Texas at Dallas Dallas, Texas United States.",
-        "The University of Texas at Dallas United States.",
-        "University of Texas Health San Antonio San Antonio, TX United States.",
-        "The University of Texas at Dallas Richardson, TX United States."
-      ],
-      "doi": "10.1158/2767-9764.CRC-26-0421",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842296/"
-    },
-    {
-      "pmid": "42842117",
-      "title": "Pathological Priming and Developmental Heterochrony as Organizing Concepts in Human iPSC Models of Autism Spectrum Disorder.",
-      "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition in which diverse genetic risk factors converge on molecular pathways governing early brain development. Human-induced pluripotent stem cell (iPSC) and brain organoid models now permit direct interrogation of these pathways in patient-derived neural tissue and, in a subset of studies, reveal alterations in neural progenitor proliferation, cortical neurogenesis, synaptic maturation, and network excitability. A landmark iPSC study in macrocephalic idiopathic ASD introduced the concept of pathological priming of neural progenitors, durable reconfiguration of chromatin and transcriptional states that biases downstream developmental programs, and associated developmental heterochrony in neuronal gene networks, thereby linking early progenitor biology to selectively shifted trajectories of neuronal maturation and to macrostructural and functional abnormalities. This conceptual review synthesizes evidence for pathological priming and developmental heterochrony from human iPSC-derived neurons and brain organoids, focusing on the ASD subgroups in which timing mechanisms are best supported: macrocephalic idiopathic ASD, 16p11.2 and related copy number variants, and large-effect developmental regulators such as SYNGAP1. We summarize recurrent and inconsistent cellular and circuit phenotypes, evaluate multi-omic data implicating progenitor regulatory states in shaping developmental timing, and situate timing-focused mechanisms alongside synaptopathy, excitatory-inhibitory imbalance, critical-period, and neuroimmune models. We propose that disturbances in neurodevelopmental timing characterize specific ASD subgroups, particularly those with early brain overgrowth or large-effect developmental regulators, rather than ASD as a whole, and offer a useful organizing principle for integrating divergent findings and generating testable, timing-informed hypotheses for future experimental and translational work.",
-      "journal": "Molecular neurobiology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Sports Medicine Research Center, Neuroscience Institute, Tehran University of Medical Sciences, Tehran, Iran. pardisjahandideh@gmail.com.",
-        "Neuroscience Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran. pardisjahandideh@gmail.com.",
-        "Department of Molecular Genetics, Faculty of Biological Sciences, Tarbiat Modares University, Tehran, Iran."
-      ],
-      "doi": "10.1007/s12035-026-06252-6",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842117/"
+      "doi": "10.1038/s41592-026-03260-1",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844355/"
     },
     {
       "pmid": "42818971",
@@ -247,23 +275,6 @@
       "doi": "10.1093/bioinformatics/btag727",
       "date": "2026-09-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804716/"
-    },
-    {
-      "pmid": "42782810",
-      "title": "Explicit Mechanistic Operators in Predictive Virtual Cells: Evidence, Failure Modes, and a Minimum Falsification Framework for Single-Cell Perturbation Prediction.",
-      "abstract": "The term virtual cell now covers objects ranging from curated biochemical simulators to atlas-trained neural representations, yet the decisive empirical question is narrower: whether a model built to obey known biochemical rules predicts the effects of new drugs or genetic changes better than an otherwise identical model that lacks them. Formally, this Perspective asks whether a biologically specified mechanistic operator improves out-of-distribution prediction of single-cell perturbation responses beyond strong simple, relational, transport-based, and learned-dynamical comparators. Recent benchmarks show that rankings depend on partition, statistical unit, effect-size distribution, gene set, and metric, and that several deep and foundation-model approaches fail to exceed no-change, mean-effect, additive, or linear controls. Set-based, knowledge-graph, transport, and learned state-equation models can improve defined tasks. No identified study isolates the incremental value of a biologically specified operator against late fusion, a capacity-matched static model, a capacity-matched learned-dynamical operator, and topology-rewired controls under one locked evaluation. Six source categories are distinguished, with the operator category divided into biologically specified and learned-dynamical subclasses. A minimum falsification framework is specified for the unfolded protein response with a declared capacity ledger, endpoint times chosen by a prespecified Stage 1 rule, and a locked comparator set. The framework is prospective: no new data, model implementation, or performance result is reported, and every threshold is a design choice awaiting empirical test.",
-      "journal": "Cells",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Mathematical and Computer Science, Heriot-Watt University, Edinburgh EH14 4AS, UK.",
-        "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA 99202, USA."
-      ],
-      "doi": "10.3390/cells15181711",
-      "date": "2026-09-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782810/"
     },
     {
       "pmid": "42842665",
@@ -382,6 +393,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826505/"
     },
     {
+      "pmid": "42844644",
+      "title": "Longitudinally Monitoring Prostate Cancer Bone Metastasis and Treatment Response via Circulating Extracellular Vesicles.",
+      "abstract": "Lethal prostate cancer (PCa) is dominated by treatment-refractory progression in bone. In this study, we used plasma-derived extracellular vesicles (EVs) for monitoring the tumour and therapy-induced changes in the bone tumour microenvironment (bone-TME) in men with bone metastatic PCa (M1b PCa). Transcriptome analysis of differentially expressed genes in plasma EVs from patients with M1b and localized (M0) PCa, identified a 'bone metastasis signature' (BMS) that reflects tumour-induced bone formation. In preclinical studies, the BMS was enriched in plasma EVs from mice inoculated with bone-metastatic MDA PCa-118b but not with adrenal-metastatic MDA PCa-250 tumours. Longitudinal monitoring of the BMS for up to 50 days showed that the levels of several genes increased prior to detectable growth of bone-forming tumours. Real-time monitoring of the BMS from tumour-bearing mice treated with the bone-targeting agent Ra-223 showed reduction of their expression that correlated with reduction in bone formation and tumour growth. Development of resistance to Ra-223 correlated with the induction of the BMS genes. In a cohort of PCa patients with clinically localized PCa with pathologic lymph node involvement, increases in BMS genes following hormonal therapy correlated with the subsequent development of metastasis during long term follow up. The BMS may enable longitudinal monitoring of the initiation, progression and treatment response of M1b PCa.",
+      "journal": "Journal of extracellular vesicles",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of GU Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
+        "Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
+        "Department of Veterinary Medicine and Surgery, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
+        "Department of Translational Molecular Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA."
+      ],
+      "doi": "10.1002/jev2.70364",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844644/"
+    },
+    {
       "pmid": "42844226",
       "title": "Clinical Practice Guidelines for Pleural Effusion and Bronchoalveolar Lavage Fluid-Based Circulating Tumor DNA Testing in Lung Cancer.",
       "abstract": "Pleural effusion (PE) and bronchoalveolar lavage fluid (BALF) are increasingly investigated as alternative sources of circulating tumor DNA (ctDNA) for lung cancer molecular testing. As specimen-collection sites are close to thoracic tumors, specimens may contain clinically informative concentrations of tumor-derived DNA. However, standardized recommendations for PE/BALF-based ctDNA testing remain limited; practical, consensus-based recommendations for this testing in lung cancer were developed. The guidelines were developed using a structured multistep process modeled on the recent blood-based ctDNA guidelines. A targeted systematic literature review and evidence appraisal were performed, a national practice survey assessed current implementation barriers in Korea, and draft recommendations were refined through a two-round Delphi consensus involving eight multidisciplinary experts. Twenty-seven studies were included in the qualitative review; 26 directly informed formal evidence grading, whereas one mixed-body-fluid implementation study was retained for contextual reference. The evidence was dominated by PE studies, with substantially fewer BALF-specific investigations. In a national survey of 109 analyzable respondents, 23 (21.1%) reported implementation of PE/BALF-based ctDNA testing. Lack of standardized protocols, reimbursement barriers, and technical complexity were common obstacles. Fifteen recommendations were finalized across three domains: pre-analytical procedures (R1-R4), analytical aspects and validation/quality management (R5-R8), and result interpretation, reporting, and clinical application (R9-R15). All recommendations met consensus-in criteria in round 1; agreement stability was confirmed in round 2. These consensus-based recommendations practically guide the implementation, validation, reporting, and interpretation of PE/BALF-based ctDNA testing in lung cancer, while highlighting the need for further matrix-specific evidence, particularly for BALF.",
@@ -483,25 +512,6 @@
       "doi": "10.1200/PO-26-00366",
       "date": "2026-10-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842845/"
-    },
-    {
-      "pmid": "42841346",
-      "title": "Extracellular vesicle lipidomics liquid biopsy reveals systemic and tumor microenvironment metabolic reprogramming in ovarian cancer.",
-      "abstract": "Ovarian cancer is the most lethal gynecological malignancy, due to late-stage diagnosis, tumor heterogeneity, and lack of biomarkers for early detection. Extracellular vesicles (EVs) in plasma and ascites offer a minimally invasive source of tumor-derived information, yet their lipid composition and relationship to tumor heterogeneity remain poorly defined. We performed lipidomic profiling of EVs from plasma and ascites of high-grade serous ovarian cancer patients and from ovarian cancer and control cell lines to identify signatures of tumor progression and microenvironmental interactions. A lipid panel enriched in ovarian cancer EVs was evaluated in EVs and plasma across two independent cohorts (n = 146). Combined with CA125, this panel improved detection, particularly against benign adnexal masses, achieving an AUROC of 0.99 in the verification cohort in both formats. Ovarian cancer EVs preferentially accumulated triglycerides, including ether-linked species, whereas parental cells were enriched in phospholipids and ceramides. EV lipid signatures reflected tumor-associated metabolic reprogramming and captured tumor heterogeneity across cell models. These findings show that EV lipidomics from accessible biofluids offers a non-invasive window into ovarian cancer metabolism and candidate biomarkers for patient stratification and monitoring.",
-      "journal": "Molecular oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, Frazer Institute, Faculty of Health, Medicine and Behavioural Sciences, Royal Brisbane and Women's Hospital, The University of Queensland, Herston, Australia.",
-        "UQ Centre for Extracellular Vesicle Nanomedicine, Faculty of Health, Medicine and Behavioural Sciences, The University of Queensland, Herston, Australia.",
-        "Mass Spectrometry Facility, Frazer Institute, University of Queensland, Brisbane, Australia.",
-        "Mater Research Institute, University of Queensland, Translational Research Institute, Woolloongabba, Australia.",
-        "Mater Health Services, South Brisbane, Australia."
-      ],
-      "doi": "10.1002/1878-0261.70327",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841346/"
     }
   ],
   "signals": [
@@ -531,6 +541,96 @@
       "fact": "PubMed 记录显示该文献收录于 Annals of laboratory medicine，PMID 为 42844226。",
       "report": "Pleural effusion (PE) and bronchoalveolar lavage fluid (BALF) are increasingly investigated as alternative sources of circulating tumor DNA (ctDNA) for lung cancer molecular testing. As specimen-collection sites are close to thoracic tumors, specimens may cont...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42844697",
+      "date": "2026-10-07",
+      "title": "Zingiberen Newsaponin Enhances Antitumor Immunity in Anaplastic Thyroid Carcinoma Via Induction of Autophagy-Dependent Pyroptosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844697/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Thyroid : official journal of the American Thyroid Association，PMID 为 42844697。",
+      "report": "Anaplastic thyroid carcinoma (ATC) is a lethal malignancy with a dismal prognosis and limited therapeutic options. Although immunotherapy has revolutionized the oncological landscape, the efficacy of Programmed Cell Death Protein 1 (PD-1) blockade as a monothe...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42844616",
+      "date": "2026-10-07",
+      "title": "Correction: Construction of gastric cancer patient-derived organoids and their utilization in a comparative study of clinically used paclitaxel nanoformulations.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844616/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 42844616。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42844476",
+      "date": "2026-10-07",
+      "title": "Human lung organoid modelling of tissue-resident antiviral T cell responses.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844476/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42844476。",
+      "report": "Tissue-resident immunity constitutes a first line of defence against pathogens and enables rapid innate and adaptive memory responses1-3. However, experimental studies have been hindered by a lack of holistic human in vitro models that enable epithelial infect...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -593,98 +693,6 @@
       "fact": "PubMed 记录显示该文献收录于 Science translational medicine，PMID 为 42842719。",
       "report": "Despite appreciation that neonatal immune responses differ markedly from those of adults, the mechanisms that enable early-life immunity remain poorly understood. Here, we find that healthy newborn mice express high concentrations of the S100 calcium-binding p...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42842376",
-      "date": "2026-10-07",
-      "title": "Protocol for isolation and cryopreservation of human peripheral blood mononuclear cells for high-resolution respirometry.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842376/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42842376。",
-      "report": "High-resolution respirometry (HRR) of peripheral blood mononuclear cells (PBMCs) relies on controlled preanalytical procedures. Here, we present an optimized workflow for PBMC isolation from human whole blood, followed by short-term cryopreservation at -80°C....",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42842296",
-      "date": "2026-10-07",
-      "title": "ERX 208 induces endoplasmic reticulum stress and suppresses DNA damage repair to enhance chemotherapy sensitivity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842296/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42842296。",
-      "report": "Ovarian cancer (OCa) remains the most lethal gynecologic malignancy, driven in part by intrinsic and acquired therapeutic resistance to DNA damaging chemotherapies. We previously identified that ERX-208 targets the protein encoded by Lysosomal acid lipase (LIP...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42842117",
-      "date": "2026-10-07",
-      "title": "Pathological Priming and Developmental Heterochrony as Organizing Concepts in Human iPSC Models of Autism Spectrum Disorder.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842117/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular neurobiology，PMID 为 42842117。",
-      "report": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition in which diverse genetic risk factors converge on molecular pathways governing early brain development. Human-induced pluripotent stem cell (iPSC) and brain organoid models now perm...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -776,68 +784,6 @@
       "fact": "PubMed 记录显示该文献收录于 JCO precision oncology，PMID 为 42842845。",
       "report": "Modern cancer diagnostics is heavily reliant on molecular data. Next-generation sequencing using liquid biopsy (LB) is primarily focused on identifying predictive and prognostic biomarkers to guide systemic therapy decision making. However, additional findings...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42841346",
-      "date": "2026-10-07",
-      "title": "Extracellular vesicle lipidomics liquid biopsy reveals systemic and tumor microenvironment metabolic reprogramming in ovarian cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841346/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42841346。",
-      "report": "Ovarian cancer is the most lethal gynecological malignancy, due to late-stage diagnosis, tumor heterogeneity, and lack of biomarkers for early detection. Extracellular vesicles (EVs) in plasma and ascites offer a minimally invasive source of tumor-derived info...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42842373",
-      "date": "2026-10-06",
-      "title": "CAR-engineered microglia harness phagocytosis to target brain tumor in organoid models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842373/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42842373。",
-      "report": "Glioblastoma (GBM) is among the most aggressive and lethal brain tumors, and standard treatment offers only modest survival benefits. Chimeric antigen receptor (CAR) T cell therapy has transformed the treatment of hematologic cancers, but its efficacy in GBM r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -958,6 +904,64 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42844356",
+      "date": "2026-10-01",
+      "title": "Recording time via brain organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844356/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42844356。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42844355",
+      "date": "2026-10-01",
+      "title": "Generalizable perturbation prediction.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844355/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42844355。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42826505",
       "date": "2026-10-01",
       "title": "Multi-Objective-Conditioned-Return-Blocks Decision Transformer: A Novel Approach for Multi-Objective De Novo Drug Design.",
@@ -984,6 +988,36 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42826505。",
       "report": "Designing novel molecules that simultaneously satisfy several, often conflicting, properties is a long-standing challenge in drug design. While recent deep learning advances optimize single targets effectively, navigating the trade-offs required for multiple o...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42844644",
+      "date": "2026-10-01",
+      "title": "Longitudinally Monitoring Prostate Cancer Bone Metastasis and Treatment Response via Circulating Extracellular Vesicles.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844644/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42844644。",
+      "report": "Lethal prostate cancer (PCa) is dominated by treatment-refractory progression in bone. In this study, we used plasma-derived extracellular vesicles (EVs) for monitoring the tumour and therapy-induced changes in the bone tumour microenvironment (bone-TME) in me...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1114,36 +1148,6 @@
       "fact": "PubMed 记录显示该文献收录于 Advances in clinical chemistry，PMID 为 42843955。",
       "report": "Breast cancer (BC) remains the most prevalent malignancy among women and a major contributor to global cancer mortality. Unfortunately, early detection, therapeutic targeting, and prognosis remains challenging due to the profound molecular and clinical heterog...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42782810",
-      "date": "2026-09-20",
-      "title": "Explicit Mechanistic Operators in Predictive Virtual Cells: Evidence, Failure Modes, and a Minimum Falsification Framework for Single-Cell Perturbation Prediction.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782810/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cells，PMID 为 42782810。",
-      "report": "The term virtual cell now covers objects ranging from curated biochemical simulators to atlas-trained neural representations, yet the decisive empirical question is narrower: whether a model built to obey known biochemical rules predicts the effects of new dru...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

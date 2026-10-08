@@ -39052,7 +39052,7 @@
     },
     {
       "companyId": "candidate-eikon-therapeutics",
-      "name": "Eikon Therapeutics",
+      "name": "Eikon Therapeutics, Inc.",
       "asOfDate": "2026-10-08",
       "profileStatus": "partial",
       "identity": {
@@ -39079,13 +39079,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"
