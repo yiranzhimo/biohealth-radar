@@ -4705,7 +4705,7 @@
       "publishedAt": "2026-10-07",
       "snapshotDate": "2026-10-07",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4735,7 +4735,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d5b878c0b10af4bee77a1cf9dca741b513dcdfe9d536df0f2e6f690e2e1c6ed9",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -7308,13 +7308,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+      "id": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-abbisko"
       ],
-      "publishedAt": "2026-10-01",
-      "snapshotDate": "2026-10-01",
+      "publishedAt": "2026-10-08",
+      "snapshotDate": "2026-10-08",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -7332,7 +7332,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 7d6bffd124413234a3206a69d36aac5950e95a3d77d59045587a6ed8da188217.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -7345,14 +7345,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7d6bffd124413234a3206a69d36aac5950e95a3d77d59045587a6ed8da188217",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-        "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-        "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products."
+        "News Centre Snapshot about HKEX latest news and information",
+        "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics"
       ],
       "businessExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -8266,13 +8266,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-acotec-official-7d6bffd12441",
+      "id": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-acotec"
       ],
-      "publishedAt": "2026-10-01",
-      "snapshotDate": "2026-10-01",
+      "publishedAt": "2026-10-08",
+      "snapshotDate": "2026-10-08",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -8290,7 +8290,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 7d6bffd124413234a3206a69d36aac5950e95a3d77d59045587a6ed8da188217.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -8303,14 +8303,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7d6bffd124413234a3206a69d36aac5950e95a3d77d59045587a6ed8da188217",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-        "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-        "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products."
+        "News Centre Snapshot about HKEX latest news and information",
+        "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics"
       ],
       "businessExcerpts": [
         "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
@@ -47037,7 +47037,7 @@
       "publishedAt": "2026-10-07",
       "snapshotDate": "2026-10-07",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -47067,7 +47067,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2377d1b7c696fe0f6555b4b2b0d59becaf4b51695b560598c4d1986bcd345f0a",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -48408,13 +48408,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-6ac0a272956e",
+      "id": "evidence-company-natera-official-4a83003dc48d",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-07",
-      "snapshotDate": "2026-10-07",
+      "publishedAt": "2026-10-08",
+      "snapshotDate": "2026-10-08",
       "title": "Natera: A global leader in cell-free DNA testing",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -48432,7 +48432,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 6ac0a272956e56d3a5f4f5aa8ca5cb4cbd8828877383a094bb18ca19dd03541c.",
+      "fact": "The official page was captured with normalized-content hash 4a83003dc48ddbc9d95b7b2f9af943afa527ed3647794f550056a2cd46dad20a.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -48445,7 +48445,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "6ac0a272956e56d3a5f4f5aa8ca5cb4cbd8828877383a094bb18ca19dd03541c",
+      "contentHash": "4a83003dc48ddbc9d95b7b2f9af943afa527ed3647794f550056a2cd46dad20a",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -48458,8 +48458,7 @@
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
       ],
       "productExcerpts": [
-        "Alliance Foundation Trials and Natera Announce AFT-70 NAVIGATE: a Global, Randomized, Phase III Trial Evaluating Genentech’s Oral Selective Estrogen Receptor Degrader (SERD) with Signatera™ MRD-Guided CDK4/6 Inhibitor Therapy in Breast Cancer",
-        "Signatera™ Receives Regulatory Approval in Japan as a Companion Diagnostic in Muscle-Invasive Bladder Cancer"
+        "Alliance Foundation Trials and Natera Announce AFT-70 NAVIGATE: a Global, Randomized, Phase III Trial Evaluating Genentech’s Oral Selective Estrogen Receptor Degrader (SERD) with Signatera™ MRD-Guided CDK4/6 Inhibitor Therapy in Breast Cancer"
       ],
       "planExcerpts": []
     },
@@ -49363,15 +49362,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-xtalpi-official-ba6c33bb317e",
+      "id": "evidence-company-xtalpi-official-e6a34c89fcb2",
       "signalId": null,
       "companyIds": [
         "xtalpi"
       ],
-      "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-09-30",
+      "publishedAt": "2026-10-08",
+      "snapshotDate": "2026-10-08",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "XtalPi — Official Website",
@@ -49387,7 +49386,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ba6c33bb317e2bdc19c91ed25abc6fea17b0a88dfb1524c8a81291a6e9c12695.",
+      "fact": "The official page was captured with normalized-content hash e6a34c89fcb29b4ab4c7bcf5e7acfbacafb635eee64ea4c5b891664d6fb2ceb4.",
       "report": "公司官方页面表述：以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "reportOriginal": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "reportCn": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
@@ -49396,8 +49395,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ba6c33bb317e2bdc19c91ed25abc6fea17b0a88dfb1524c8a81291a6e9c12695",
-      "changeType": "unchanged",
+      "contentHash": "e6a34c89fcb29b4ab4c7bcf5e7acfbacafb635eee64ea4c5b891664d6fb2ceb4",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "XtalPi Science Agentic AI Genius Agents 智能中枢",

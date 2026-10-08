@@ -977,7 +977,7 @@
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -985,7 +985,7 @@
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -993,7 +993,7 @@
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1001,23 +1001,23 @@
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-            "text": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
+            "text": "News Centre Snapshot about HKEX latest news and information",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
-            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -1025,21 +1025,21 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-abbisko-official-7d6bffd12441"
+          "evidence-company-candidate-abbisko-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-abbisko-official-7d6bffd12441",
-            "date": "2026-10-01",
+            "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+            "date": "2026-10-08",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
           }
         ],
@@ -1054,7 +1054,7 @@
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-10-01",
+        "lastEvidenceDate": "2026-10-08",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -1063,14 +1063,14 @@
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-abbisko-official-7d6bffd12441",
-          "date": "2026-10-01",
+          "id": "event-evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
+          "date": "2026-10-08",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-abbisko-official-7d6bffd12441",
+          "evidenceId": "evidence-company-candidate-abbisko-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
         }
       ]
@@ -2840,7 +2840,7 @@
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2848,7 +2848,7 @@
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2856,7 +2856,7 @@
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2864,23 +2864,23 @@
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-            "text": "While HKEX’s Hong Kong markets will be closed on 1 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
+            "text": "News Centre Snapshot about HKEX latest news and information",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
-            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -2888,21 +2888,21 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-acotec-official-7d6bffd12441"
+          "evidence-company-candidate-acotec-official-0dd2a5ec14f1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-acotec-official-7d6bffd12441",
-            "date": "2026-10-01",
+            "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+            "date": "2026-10-08",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+            "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
           }
         ],
@@ -2917,7 +2917,7 @@
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-10-01",
+        "lastEvidenceDate": "2026-10-08",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -2926,14 +2926,14 @@
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-acotec-official-7d6bffd12441",
-          "date": "2026-10-01",
+          "id": "event-evidence-company-candidate-acotec-official-0dd2a5ec14f1",
+          "date": "2026-10-08",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-acotec-official-7d6bffd12441",
+          "evidenceId": "evidence-company-candidate-acotec-official-0dd2a5ec14f1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
         }
       ]
@@ -15004,7 +15004,7 @@
             "id": "event-evidence-company-arvinas-official-d5b878c0b10a",
             "date": "2026-10-07",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -15082,7 +15082,7 @@
           "id": "event-evidence-company-arvinas-official-d5b878c0b10a",
           "date": "2026-10-07",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -39675,7 +39675,7 @@
             "id": "event-evidence-company-emulate-official-2377d1b7c696",
             "date": "2026-10-07",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -39717,7 +39717,7 @@
           "id": "event-evidence-company-emulate-official-2377d1b7c696",
           "date": "2026-10-07",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -57857,15 +57857,7 @@
           {
             "textOriginal": "Alliance Foundation Trials and Natera Announce AFT-70 NAVIGATE: a Global, Randomized, Phase III Trial Evaluating Genentech’s Oral Selective Estrogen Receptor Degrader (SERD) with Signatera™ MRD-Guided CDK4/6 Inhibitor Therapy in Breast Cancer",
             "text": "Alliance Foundation Trials and Natera Announce AFT-70 NAVIGATE: a Global, Randomized, Phase III Trial Evaluating Genentech’s Oral Selective Estrogen Receptor Degrader (SERD) with Signatera™ MRD-Guided CDK4/6 Inhibitor Therapy in Breast Cancer",
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Signatera™ Receives Regulatory Approval in Japan as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "text": "Signatera™ Receives Regulatory Approval in Japan as a Companion Diagnostic in Muscle-Invasive Bladder Cancer",
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+            "evidenceId": "evidence-company-natera-official-4a83003dc48d",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57873,7 +57865,7 @@
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+            "evidenceId": "evidence-company-natera-official-4a83003dc48d",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57881,7 +57873,7 @@
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+            "evidenceId": "evidence-company-natera-official-4a83003dc48d",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57889,7 +57881,7 @@
           {
             "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
             "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+            "evidenceId": "evidence-company-natera-official-4a83003dc48d",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57901,11 +57893,19 @@
             "sourceUrl": "https://www.natera.com/oncology/",
             "needsReview": true,
             "claimType": "Report"
+          },
+          {
+            "textOriginal": "Watch now to learn more about Natera’s oncology suite of products.",
+            "text": "立即观看以了解更多关于Natera的肿瘤学产品系列的信息。",
+            "evidenceId": "evidence-company-natera-pipeline-d6265767b3d9",
+            "sourceUrl": "https://www.natera.com/oncology/",
+            "needsReview": true,
+            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-6ac0a272956e",
+          "evidence-company-natera-official-4a83003dc48d",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57917,14 +57917,14 @@
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-6ac0a272956e",
-            "date": "2026-10-07",
+            "id": "event-evidence-company-natera-official-4a83003dc48d",
+            "date": "2026-10-08",
             "title": "Natera: A global leader in cell-free DNA testing",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+            "evidenceId": "evidence-company-natera-official-4a83003dc48d",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -57984,7 +57984,7 @@
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-07",
+        "lastEvidenceDate": "2026-10-08",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -57993,14 +57993,14 @@
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-6ac0a272956e",
-          "date": "2026-10-07",
+          "id": "event-evidence-company-natera-official-4a83003dc48d",
+          "date": "2026-10-08",
           "title": "Natera: A global leader in cell-free DNA testing",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-6ac0a272956e",
+          "evidenceId": "evidence-company-natera-official-4a83003dc48d",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -74969,7 +74969,7 @@
           {
             "textOriginal": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
             "text": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
-            "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74977,7 +74977,7 @@
           {
             "textOriginal": "XtalPi Science Agentic AI Genius Agents 智能中枢",
             "text": "XtalPi Science Agentic AI Genius Agents 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74985,7 +74985,7 @@
           {
             "textOriginal": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
             "text": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -74993,7 +74993,7 @@
           {
             "textOriginal": "How the XtalPi Team Discovered Novel, Non-Covalent, Potent Hits Against GPX4 in 28 Days",
             "text": "How the XtalPi Team Discovered Novel, Non-Covalent, Potent Hits Against GPX4 in 28 Days",
-            "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -75017,7 +75017,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-xtalpi-official-ba6c33bb317e",
+          "evidence-company-xtalpi-official-e6a34c89fcb2",
           "evidence-company-xtalpi-investor_relations-b61641c41fad"
         ]
       },
@@ -75025,14 +75025,14 @@
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-xtalpi-official-ba6c33bb317e",
-            "date": "2026-09-30",
+            "id": "event-evidence-company-xtalpi-official-e6a34c89fcb2",
+            "date": "2026-10-08",
             "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+            "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
             "sourceUrl": "https://www.xtalpi.com/"
           },
           {
@@ -75058,7 +75058,7 @@
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-30",
+        "lastEvidenceDate": "2026-10-08",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -75067,14 +75067,14 @@
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-xtalpi-official-ba6c33bb317e",
-          "date": "2026-09-30",
+          "id": "event-evidence-company-xtalpi-official-e6a34c89fcb2",
+          "date": "2026-10-08",
           "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-xtalpi-official-ba6c33bb317e",
+          "evidenceId": "evidence-company-xtalpi-official-e6a34c89fcb2",
           "sourceUrl": "https://www.xtalpi.com/"
         },
         {
