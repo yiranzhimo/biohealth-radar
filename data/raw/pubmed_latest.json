@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-07T23:09:09.065014+00:00",
+  "capturedAt": "2026-10-08T06:12:54.341889+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-07",
-    "end": "2026-10-07"
+    "start": "2025-10-08",
+    "end": "2026-10-08"
   },
   "pmids": [
+    "42843344",
     "42842719",
     "42842376",
     "42842373",
     "42842296",
     "42842117",
-    "42842032",
     "42818971",
     "42818106",
     "42816262",
@@ -32,14 +32,42 @@
     "42828399",
     "42826717",
     "42826505",
+    "42844226",
+    "42843955",
+    "42843480",
+    "42843135",
     "42842845",
-    "42841346",
-    "42841257",
-    "42840751",
-    "42840730",
-    "42840679"
+    "42841346"
   ],
   "records": [
+    {
+      "pmid": "42843344",
+      "title": "A standardized patient-derived glioblastoma organoid platform for evaluating radiotherapy efficacy and overcoming resistance.",
+      "abstract": "Patient-derived glioblastoma (GBM) organoids (GBOs) maintain characteristics of their original tumors; however, they have not been widely applied to systematically assess therapy responses at scale or elucidate mechanisms underlying treatment resistance. Here, we develop a standardized reaggregated GBO (rGBO) platform for scalable, quantitative evaluation of radiation responses across 48 patients with GBM. Radiation responses in rGBOs correlate with the survival duration of corresponding patients treated with standard-of-care radiotherapy. Transcriptomic analyses identify gene signatures associated with radiosensitivity and radioresistance. Connectivity mapping with perturbational datasets identifies a panel of compounds with potential for reducing radioresistant and enhancing radiosensitive signatures. Subsequent testing demonstrates that inhibitors of bromodomain and extraterminal (BET) family proteins enhance radiotherapy efficacy in GBO and xenograft models by downregulating the radioresistant signature. Together, our study highlights the potential of rGBOs for standardizing therapeutic screening, evaluating patient-specific responses, identifying associated molecular features, and developing strategies to overcome treatment resistance.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neuroscience and Mahoney Institute for Neurosciences, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Neuroscience Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Radiation Oncology, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Neurosurgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Biology, School of Arts and Sciences, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Program in Neurogenetics, Department of Neurology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Radiation Oncology, University of Pennsylvania, Philadelphia, PA, USA; Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Division of Hematology and Oncology, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Neurosurgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Center for Cellular Immunotherapies, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Neurosurgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Center for Cellular Immunotherapies, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Parker Institute for Cancer Immunotherapy, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+        "Department of Neuroscience and Mahoney Institute for Neurosciences, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA, USA; Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Department of Psychiatry, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: gming@pennmedicine.upenn.edu.",
+        "Department of Neuroscience and Mahoney Institute for Neurosciences, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Department of Neurosurgery, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA; Glioblastoma Translational Center of Excellence, The Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, USA; Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA, USA; The Epigenetics Institute, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: shongjun@pennmedicine.upenn.edu."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103095",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843344/"
+    },
     {
       "pmid": "42842719",
       "title": "Early-life microbiota direct an epithelial S100 program required for neonatal immunity.",
@@ -138,26 +166,6 @@
       "doi": "10.1007/s12035-026-06252-6",
       "date": "2026-10-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842117/"
-    },
-    {
-      "pmid": "42842032",
-      "title": "Mitochondrial dysfunction of renal tubular epithelial cells in chronic kidney disease-associated fibrosis: from organelle homeostasis to multicellular remodeling.",
-      "abstract": "Chronic kidney disease (CKD) is a major global health burden, and renal fibrosis is a common pathological correlate of progressive loss of kidney function. Renal tubular epithelial cells (RTECs), particularly proximal tubular epithelial cells (PTECs), contain abundant mitochondria and depend on oxidative metabolism to support solute transport. This metabolic specialization renders them vulnerable to hypoxia, lipotoxicity, uremic toxins, aging, inflammation, and hemodynamic stress. Persistent mitochondrial injury can suppress fatty acid oxidation and oxidative phosphorylation, deplete nicotinamide adenine dinucleotide, increase mitochondrial reactive oxygen species, destabilize mitochondrial DNA, and disrupt biogenesis, dynamics, mitochondria-associated membrane signaling, and mitophagy. These abnormalities promote maladaptive repair, senescence, inflammatory cell death, and paracrine signaling to fibroblasts, macrophages, endothelial cells, and pericytes. Evidence is organized within a tubule-to-niche framework that distinguishes causal perturbation from temporal or transcriptomic association, model-specific findings from cross-model convergence, and experimental efficacy from clinical translation. Single-cell, spatial, and organoid studies are considered alongside evidence from human biopsy specimens and biomarkers. Mitochondrial dysfunction is thus treated as a context-dependent contributor to, and amplifier of, CKD-associated fibrotic remodeling rather than a universal initiating event. Although strategies targeting bioenergetics, redox balance, mitochondrial quality control, and tubular delivery are promising, translation is constrained by disease heterogeneity, intervention timing, target specificity, pharmacokinetics, and the scarcity of validated human antifibrotic endpoints.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Nephrology, Integrated Hospital of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China.",
-        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China.",
-        "The Second Clinical College of Guangzhou, University of Chinese Medicine, Guangzhou, 510515, China.",
-        "Department of Nephrology, Integrated Hospital of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China. nxl117@163.com.",
-        "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, 510515, China. nxl117@163.com."
-      ],
-      "doi": "10.1007/s11033-026-12861-0",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842032/"
     },
     {
       "pmid": "42818971",
@@ -374,6 +382,80 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826505/"
     },
     {
+      "pmid": "42844226",
+      "title": "Clinical Practice Guidelines for Pleural Effusion and Bronchoalveolar Lavage Fluid-Based Circulating Tumor DNA Testing in Lung Cancer.",
+      "abstract": "Pleural effusion (PE) and bronchoalveolar lavage fluid (BALF) are increasingly investigated as alternative sources of circulating tumor DNA (ctDNA) for lung cancer molecular testing. As specimen-collection sites are close to thoracic tumors, specimens may contain clinically informative concentrations of tumor-derived DNA. However, standardized recommendations for PE/BALF-based ctDNA testing remain limited; practical, consensus-based recommendations for this testing in lung cancer were developed. The guidelines were developed using a structured multistep process modeled on the recent blood-based ctDNA guidelines. A targeted systematic literature review and evidence appraisal were performed, a national practice survey assessed current implementation barriers in Korea, and draft recommendations were refined through a two-round Delphi consensus involving eight multidisciplinary experts. Twenty-seven studies were included in the qualitative review; 26 directly informed formal evidence grading, whereas one mixed-body-fluid implementation study was retained for contextual reference. The evidence was dominated by PE studies, with substantially fewer BALF-specific investigations. In a national survey of 109 analyzable respondents, 23 (21.1%) reported implementation of PE/BALF-based ctDNA testing. Lack of standardized protocols, reimbursement barriers, and technical complexity were common obstacles. Fifteen recommendations were finalized across three domains: pre-analytical procedures (R1-R4), analytical aspects and validation/quality management (R5-R8), and result interpretation, reporting, and clinical application (R9-R15). All recommendations met consensus-in criteria in round 1; agreement stability was confirmed in round 2. These consensus-based recommendations practically guide the implementation, validation, reporting, and interpretation of PE/BALF-based ctDNA testing in lung cancer, while highlighting the need for further matrix-specific evidence, particularly for BALF.",
+      "journal": "Annals of laboratory medicine",
+      "publicationTypes": [
+        "Guideline",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Laboratory Medicine, Incheon St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Incheon, Korea.",
+        "Division of Pulmonology and Critical Care Medicine, Department of Internal Medicine, Incheon St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Incheon, Korea.",
+        "Department of Laboratory Medicine, Seoul St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea."
+      ],
+      "doi": "10.3343/alm.2026.0303",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844226/"
+    },
+    {
+      "pmid": "42843955",
+      "title": "Emerging biomarkers in breast cancer.",
+      "abstract": "Breast cancer (BC) remains the most prevalent malignancy among women and a major contributor to global cancer mortality. Unfortunately, early detection, therapeutic targeting, and prognosis remains challenging due to the profound molecular and clinical heterogeneity in BC. However, recent advances in multi-omics technologies have transformed biomarker discovery by enabling comprehensive interrogation of the genomics, transcriptomics, proteomics, and metabolic networks that drive BC pathogenesis. This chapter reviews key developments in biomarker research and the technological platforms that support their discovery and validation. Innovations in mass spectrometry, single-cell and spatial proteomics, and nanoproteomics have expanded the detectable proteome and markedly improved analytical sensitivity, particularly for low-abundance and heterogeneous tumor signals. Complementary array- and aptamer-based assays further enhance high-throughput, quantitative, and minimally invasive profiling, providing scalable routes toward clinical implementation across diverse BC subtypes. Beyond experimental technologies, the chapter examines emerging computational frameworks that integrate multi-omics data using artificial intelligence and machine learning. These approaches enable multidimensional data interpretation and facilitate the identification of dynamic molecular signatures associated with disease progression, therapeutic response, and resistance. By outlining current methodologies, translational challenges, and future directions, this chapter highlights how converging technological and analytical advances are reshaping the BC biomarker landscape and paving the way toward more precise, adaptive, and clinically actionable diagnostic and therapeutic strategies.",
+      "journal": "Advances in clinical chemistry",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Molecular Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia.",
+        "Department of Molecular Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia. Electronic address: jaime_jacklyn@um.edu.my."
+      ],
+      "doi": "10.1016/bs.acc.2026.08.003",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843955/"
+    },
+    {
+      "pmid": "42843480",
+      "title": "Mechanistic insights and methodological challenges in the study of glycosylated RNA: A review.",
+      "abstract": "Glycosylated RNA (GlycoRNA) constitutes a novel category of cell-surface nucleic acids characterized by intricate glycan modifications, thereby extending the scope of glycosylation beyond proteins and lipids and challenging the traditional notion that RNA is restricted to intracellular compartments. This review encapsulates recent advances in the field of GlycoRNA biology, including biochemical findings that 3-(3-amino-3-carboxypropyl) uridine to serve as an anchor covalent RNA-N-glycan conjugates. It also highlights advancements in methodologies such as metabolic labeling, spatial imaging, and transcriptome-wide mapping. Furthermore, we explore the emerging functional and translational implications of GlycoRNA in areas such as immune homeostasis, inflammatory cell chemotaxis, cancer therapy, and the discovery of biomarker for liquid biopsy. Nonetheless, recent evaluations have underscored significant technical limitations, particularly the nonspecific co-purification of glycoproteins during enrichment processes, which necessitate stringent orthogonal validation. This review synthesizes current evidence with outstanding questions concerning GlycoRNA biosynthesis, functional causality, and methodological specificity, proposing GlycoRNA as a conceptual advancement whose biological significance and translational potential are yet to be fully elucidated.",
+      "journal": "International journal of biological macromolecules",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "College of Life Science, Xinyang Normal University, Xinyang, 464000, China.",
+        "College of Life Science, Xinyang Normal University, Xinyang, 464000, China; Institute for Conservation and Utilization of Agro-Bioresources in Dabie Mountain, Xinyang Normal University, Xinyang, 464000, China.",
+        "College of Life Science, Xinyang Normal University, Xinyang, 464000, China; Institute for Conservation and Utilization of Agro-Bioresources in Dabie Mountain, Xinyang Normal University, Xinyang, 464000, China. Electronic address: xyj@xynu.edu.cn."
+      ],
+      "doi": "10.1016/j.ijbiomac.2026.154766",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843480/"
+    },
+    {
+      "pmid": "42843135",
+      "title": "Aptamer-based discovery of MARK2 as a potential biomarker for targeted imaging and exosome detection of metastatic colorectal cancer.",
+      "abstract": "Metastatic colorectal cancer (CRC) has a high recurrence rate, rapid progression and poor prognosis. Therefore, the discovery of metastatic related biomarkers is crucial for early diagnosis and treatment. Aptamer W14 was previously developed through cell-systematic evolution of ligands by exponential enrichment (SELEX), which could specifically bind to metastatic CRC cells. In this study, using an aptamer-based target discovery strategy, microtubule-affinity regulating kinase 2 (MARK2) was identified as the target protein of W14 and confirmed to be involved in the migration and invasion of CRC. The combination of aptamer W14 and quantum dots (QD) for specific recognition of clinical tissue samples revealed the potential of W14-QD probe based on MARK2 as a targeted imaging tool for metastatic CRC tissue. In addition, further experiments have confirmed for the first time the role of exosomal MARK2 in CRC metastasis. Thus, we developed a W14-based molecular aptamer beacon (MAB-W14) for one-step to quantify MARK2-positive exosomes in the plasma of CRC patients, and demonstrated that MAB-W14 was a promising liquid biopsy tool for predicting CRC metastasis. This study provides a systematic and novel approach for investigating potential biomarkers, and offers promising molecular probes for the diagnosis and treatment of metastatic CRC.",
+      "journal": "Bioorganic chemistry",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cell Biology, Key Laboratory of Cell Biology, Ministry of Public Health, Key Laboratory of Medical Cell Biology, Ministry of Education, China Medical University, Shenyang, 110122, PR China.",
+        "Molecular Medicine Research Center, Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, 333, Taiwan.",
+        "Analytical Instrumentation Center, Shenyang Agricultural University, Shenyang, 110866, PR China.",
+        "Department of Colorectal Surgery, Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital & Institute, Shenyang, 110042, PR China.",
+        "Molecular Medicine Research Center, Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan, 333, Taiwan; Department of Otolaryngology-Head and Neck Surgery, Chang Gung Memorial Hospital, Taoyuan, 33305, Taiwan; Research Center for Food and Cosmetic Safety, College of Human Ecology, Chang Gung University of Science and Technology, Taoyuan, 33302, Taiwan.",
+        "Department of Cell Biology, Key Laboratory of Cell Biology, Ministry of Public Health, Key Laboratory of Medical Cell Biology, Ministry of Education, China Medical University, Shenyang, 110122, PR China. Electronic address: jfang@cmu.edu.cn.",
+        "Department of Cell Biology, Key Laboratory of Cell Biology, Ministry of Public Health, Key Laboratory of Medical Cell Biology, Ministry of Education, China Medical University, Shenyang, 110122, PR China. Electronic address: wmli@cmu.edu.cn."
+      ],
+      "doi": "10.1016/j.bioorg.2026.110621",
+      "date": "2026-10-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843135/"
+    },
+    {
       "pmid": "42842845",
       "title": "Genomic Analysis Using Liquid Biopsy: Considerations for Pretest Counseling in UK Practice.",
       "abstract": "Modern cancer diagnostics is heavily reliant on molecular data. Next-generation sequencing using liquid biopsy (LB) is primarily focused on identifying predictive and prognostic biomarkers to guide systemic therapy decision making. However, additional findings including genomic variants of possible or probable germline origin are detected in a significant minority of patients (3%-18%), with significant implications for patients and their families. Pretest information provision regarding both the purpose and potential benefits of the test and additional findings on LB varies in clinical practice, with little guidance for clinicians regarding the degree of detail required regarding possible additional findings. LB requires explicit disclosure of these aspects. Implementing a standardized, context-dependent approach to this discussion, with nationally standardized information provision tools, should be prioritized to enable patient-centered decision making regarding LB, without prioritizing the incidentalome over the primary purpose of the test-refining and optimizing treatment options.",
@@ -420,82 +502,71 @@
       "doi": "10.1002/1878-0261.70327",
       "date": "2026-10-07",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841346/"
-    },
-    {
-      "pmid": "42841257",
-      "title": "Plasma Long Non-coding RNAs for Molecular Diagnosis of Colon Cancer: A Validated Multivariable Model.",
-      "abstract": "Circulating long non-coding RNAs (lncRNAs) are emerging as minimally invasive biomarkers for cancer detection; however, their clinical utility remains insufficiently validated. We evaluated the diagnostic performance of plasma lncRNAs and developed and externally validated multivariable models for detecting non-metastatic colon cancer. Plasma lncRNA expression was quantified using reverse transcription quantitative PCR (RT-qPCR) in a training cohort of patients with histopathologically confirmed non-metastatic colon cancer and healthy controls. Multivariable logistic regression models integrating molecular and demographic variables were developed in the training cohort and externally validated in an independent cohort. Nine candidate lncRNAs were evaluated, of which five (CCAT2, HOTAIR, LINC00909, PVT1, and UCA1) were consistently detectable in plasma and significantly upregulated in patients with colon cancer. A multivariable model combining UCA1, HOTAIR, and PVT1 with age and sex achieved an area under the ROC curve (AUC) of 0.97 in the training cohort and of 0.87 in the validation cohort. Internal bootstrap validation showed limited optimism (optimism-corrected AUC, 0.95), and calibration analysis demonstrated good agreement between predicted and observed probabilities. At a sensitivity-oriented threshold, the model reached 90% sensitivity and 69% specificity. A simplified model based on UCA1 retained good discrimination but with reduced overall performance. Plasma lncRNA-based multivariable models show promise as minimally invasive tools for the early detection of colon cancer and highlight the importance of external validation in biomarker development.",
-      "journal": "Annals of laboratory medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Physical and Analytical Chemistry, University of Oviedo, Oviedo, Asturias, Spain.",
-        "Health Research Institute of the Principality of Asturias (ISPA), Oviedo, Asturias, Spain.",
-        "Department of Gastroenterology, Central University Hospital of Asturias (HUCA), Oviedo, Asturias, Spain.",
-        "Division of General Surgery, Department of Colorectal Surgery, Central University Hospital of Asturias (HUCA), Oviedo, Asturias, Spain.",
-        "Department of Surgery and Medical-Surgical Specialties, University of Oviedo, Oviedo, Asturias, Spain."
-      ],
-      "doi": "10.3343/alm.2026.0296",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841257/"
-    },
-    {
-      "pmid": "42840751",
-      "title": "Minimal residual disease in cervical cancer: biological persistence, ctHPV DNA-guided surveillance, and recurrence-directed intervention.",
-      "abstract": "Cervical cancer remains a leading cause of cancer-related mortality among women worldwide, with approximately 30-40% of patients experiencing recurrence after definitive chemoradiotherapy for locally advanced disease. The concept of minimal residual disease (MRD)-the persistence of viable tumor clones after curative-intent treatment that escape conventional radiographic and clinical detection-has transformed surveillance and treatment paradigms in hematological malignancies and, increasingly, in solid tumors. In cervical cancer, the near-universal association with high-risk human papillomavirus (HPV) provides a unique molecular handle for MRD detection: circulating tumor HPV DNA (ctHPV DNA) released into the bloodstream by residual tumor cells. Here, we review three interconnected dimensions of MRD in cervical cancer. First, we examine the biological basis of tumor persistence after chemoradiotherapy, encompassing HPV integration-driven genomic instability, immune evasion within the irradiated tumor microenvironment, and clonal repopulation kinetics. Second, we synthesize the rapidly maturing evidence for ctHPV DNA-guided post-treatment surveillance, from digital PCR and next-generation sequencing-based detection platforms to prospective clinical validation studies demonstrating that detectable ctHPV DNA after chemoradiotherapy independently predicts recurrence with lead times of 3-6 months before radiographic progression. Third, we evaluate emerging recurrence-directed intervention strategies, including MRD-stratified treatment intensification (immune checkpoint inhibition and therapeutic HPV vaccination), adoptive cell therapy, and how integrating ctHPV DNA dynamics with immunotherapeutic approaches may define a new framework for personalized post-treatment management in this molecularly tractable malignancy.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Obstetrics and Gynecology, Ninghai Maternal and Child Health Hospital, Ningbo, China.",
-        "Department of Traditional Chinese Medicine, Maternity & Child Care Center Of DeZhou, Dezhou, China.",
-        "Department of Thoracic Surgery, Ninghai First Hospital, Ningbo, China."
-      ],
-      "doi": "10.3389/fonc.2026.1938965",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840751/"
-    },
-    {
-      "pmid": "42840730",
-      "title": "Non-coding RNAs in tumor-educated platelets: emerging roles in cancer progression, biomarker discovery, and therapeutic targeting.",
-      "abstract": "Non-coding RNAs (ncRNAs) in tumor-educated platelets (TEPs) play an important role in cancer progression. Tumor cells can \"educate\" platelets, thereby enabling them to participate in multiple stages of tumor development and progression. The ncRNAs carried by TEPs, including microRNAs (miRNAs), circular RNAs (circRNAs), and long non-coding RNAs (lncRNAs), may regulate tumor cell behavior and influence processes such as proliferation, invasion, metastasis, immune regulation, and angiogenesis. Alterations in the expression profiles of these ncRNAs may provide potential biomarkers for early cancer diagnosis, prognosis assessment and treatment monitoring. They may also offer new opportunities for therapeutic intervention. This review summarizes the mechanisms of platelet education by tumor cells, the roles of TEPs in cancer progression, and the functional significance of ncRNAs in TEPs, with particular focus on their contributions to tumor development and progression, their biomarker potential, and their potential as therapeutic targets.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Blood Transfusion, China-Japan Union Hospital of Jilin University, Changchun, Jilin, China.",
-        "Scientific Research Center, China-Japan Union Hospital of Jilin University, Changchun, Jilin, China.",
-        "Department of Clinical Medicine, China-Japan Union Hospital of Jilin University, Changchun, Jilin, China.",
-        "Department of Clinical Medicine, The Third Norman Bethune Clinical College of Jilin University, Changchun, Jilin, China."
-      ],
-      "doi": "10.3389/fonc.2026.1951597",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840730/"
-    },
-    {
-      "pmid": "42840679",
-      "title": "Spatial PK-PD mismatch in tumor-targeting antibodies and ADCs: from lesion access to pharmacologic execution.",
-      "abstract": "Systemic pharmacokinetics and target expression do not show whether tumor cells have received enough antibody to produce the intended effect. Tumor-targeting antibodies must reach individual lesions, cross tumor tissue, bind accessible targets, and, for some platforms, align with intracellular or neighboring-cell processes required for action. This critical narrative review organizes evidence by where exposure and effect become discordant. We define four spatial PK-PD mismatches (1): systemic exposure without adequate lesion access (2); lesion uptake without adequate microscopic distribution; (3) target expression without sufficient in vivo engagement; and (4) engagement without spatially appropriate pharmacologic execution. Biological resistance after adequate spatial drug exposure is treated separately. We synthesize direct human distribution studies, lesion-resolved exposure-outcome studies, target-heterogeneity studies, preclinical interventions, and mechanistic models in a five-tier evidence hierarchy. Human immunoPET, fluorescence window studies, quantitative tissue imaging, and single-cell spatial pharmacobiology show substantial heterogeneity across lesions and cells, whereas lesion-level exposure-outcome evidence remains limited. Prior work has also shown that distribution effects depend on dose, affinity, antigen density, internalization, linker-payload properties, and bystander activity; the present review does not treat penetration as a universal determinant of efficacy. We therefore propose a mismatch-directed development workflow in which the suspected limiting step determines the measurement, corrective intervention, and validation endpoint. Spatial PK-PD is best viewed as a mechanism-based development framework rather than a validated routine companion diagnostic.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, China.",
-        "Dongzhimen Hospital, Beijing University of Chinese Medicine, Beijing, China."
-      ],
-      "doi": "10.3389/fonc.2026.1952445",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840679/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42844226",
+      "date": "2026-10-08",
+      "title": "Clinical Practice Guidelines for Pleural Effusion and Bronchoalveolar Lavage Fluid-Based Circulating Tumor DNA Testing in Lung Cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844226/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of laboratory medicine，PMID 为 42844226。",
+      "report": "Pleural effusion (PE) and bronchoalveolar lavage fluid (BALF) are increasingly investigated as alternative sources of circulating tumor DNA (ctDNA) for lung cancer molecular testing. As specimen-collection sites are close to thoracic tumors, specimens may cont...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42843344",
+      "date": "2026-10-07",
+      "title": "A standardized patient-derived glioblastoma organoid platform for evaluating radiotherapy efficacy and overcoming resistance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843344/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42843344。",
+      "report": "Patient-derived glioblastoma (GBM) organoids (GBOs) maintain characteristics of their original tumors; however, they have not been widely applied to systematically assess therapy responses at scale or elucidate mechanisms underlying treatment resistance. Here,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42842719",
       "date": "2026-10-07",
@@ -617,41 +688,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42842032",
-      "date": "2026-10-07",
-      "title": "Mitochondrial dysfunction of renal tubular epithelial cells in chronic kidney disease-associated fibrosis: from organelle homeostasis to multicellular remodeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42842032/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42842032。",
-      "report": "Chronic kidney disease (CKD) is a major global health burden, and renal fibrosis is a common pathological correlate of progressive loss of kidney function. Renal tubular epithelial cells (RTECs), particularly proximal tubular epithelial cells (PTECs), contain...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42842665",
       "date": "2026-10-07",
       "title": "Machine learning-assisted directed evolution of plant Rubisco.",
@@ -678,6 +714,38 @@
       "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42842665。",
       "report": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) is foundational to life on Earth, catalyzing carbon dioxide (CO2) fixation to generate biomass. However, Rubisco is a slow and inefficient enzyme that has proven challenging to engineer. We applied the...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42843480",
+      "date": "2026-10-07",
+      "title": "Mechanistic insights and methodological challenges in the study of glycosylated RNA: A review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843480/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of biological macromolecules，PMID 为 42843480。",
+      "report": "Glycosylated RNA (GlycoRNA) constitutes a novel category of cell-surface nucleic acids characterized by intricate glycan modifications, thereby extending the scope of glycosylation beyond proteins and lipids and challenging the traditional notion that RNA is r...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -738,34 +806,6 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42841346。",
       "report": "Ovarian cancer is the most lethal gynecological malignancy, due to late-stage diagnosis, tumor heterogeneity, and lack of biomarkers for early detection. Extracellular vesicles (EVs) in plasma and ascites offer a minimally invasive source of tumor-derived info...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42841257",
-      "date": "2026-10-07",
-      "title": "Plasma Long Non-coding RNAs for Molecular Diagnosis of Colon Cancer: A Validated Multivariable Model.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841257/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of laboratory medicine，PMID 为 42841257。",
-      "report": "Circulating long non-coding RNAs (lncRNAs) are emerging as minimally invasive biomarkers for cancer detection; however, their clinical utility remains insufficiently validated. We evaluated the diagnostic performance of plasma lncRNAs and developed and externa...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -856,6 +896,36 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42834449。",
       "report": "Pocket-conditioned molecular generation incorporates the three-dimensional geometry and chemical environment of protein binding sites into molecular design. However, receptor conformational variation can introduce distribution shifts between training and infer...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42843135",
+      "date": "2026-10-03",
+      "title": "Aptamer-based discovery of MARK2 as a potential biomarker for targeted imaging and exosome detection of metastatic colorectal cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843135/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioorganic chemistry，PMID 为 42843135。",
+      "report": "Metastatic colorectal cancer (CRC) has a high recurrence rate, rapid progression and poor prognosis. Therefore, the discovery of metastatic related biomarkers is crucial for early diagnosis and treatment. Aptamer W14 was previously developed through cell-syste...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1017,91 +1087,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42840751",
-      "date": "2026-09-22",
-      "title": "Minimal residual disease in cervical cancer: biological persistence, ctHPV DNA-guided surveillance, and recurrence-directed intervention.",
+      "id": "pubmed-42843955",
+      "date": "2026-09-21",
+      "title": "Emerging biomarkers in breast cancer.",
       "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "General Biotech Research",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840751/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42843955/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42840751。",
-      "report": "Cervical cancer remains a leading cause of cancer-related mortality among women worldwide, with approximately 30-40% of patients experiencing recurrence after definitive chemoradiotherapy for locally advanced disease. The concept of minimal residual disease (M...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42840730",
-      "date": "2026-09-22",
-      "title": "Non-coding RNAs in tumor-educated platelets: emerging roles in cancer progression, biomarker discovery, and therapeutic targeting.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840730/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42840730。",
-      "report": "Non-coding RNAs (ncRNAs) in tumor-educated platelets (TEPs) play an important role in cancer progression. Tumor cells can \"educate\" platelets, thereby enabling them to participate in multiple stages of tumor development and progression. The ncRNAs carried by T...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42840679",
-      "date": "2026-09-22",
-      "title": "Spatial PK-PD mismatch in tumor-targeting antibodies and ADCs: from lesion access to pharmacologic execution.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42840679/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
         "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "biotech",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42840679。",
-      "report": "Systemic pharmacokinetics and target expression do not show whether tumor cells have received enough antibody to produce the intended effect. Tumor-targeting antibodies must reach individual lesions, cross tumor tissue, bind accessible targets, and, for some p...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advances in clinical chemistry，PMID 为 42843955。",
+      "report": "Breast cancer (BC) remains the most prevalent malignancy among women and a major contributor to global cancer mortality. Unfortunately, early detection, therapeutic targeting, and prognosis remains challenging due to the profound molecular and clinical heterog...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
