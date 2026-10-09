@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,183 +821,45 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42848888",
+      "id": "pubmed-42849759",
       "date": "2026-10-08",
-      "title": "The human gut microbiome primes fever after vaccination.",
+      "title": "Thyroid hormones and neurovascular development: An integrated framework.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848888/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42848888。",
-      "report": "Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake. To understand variation in fever risk, we longitudinally profiled fecal microbiota, oral temperature, and serological markers in 171 healthy adults receivi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_042ea79e892f104d006ac82644d24c87d195a1ae4c89cac386",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "9e2b037dbd6386fe61f0ae6e5b8b966191650ed55105f816ed9a8ee393bb685c",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献讨论疫苗接种后发热的相关性，但未提供研究质量的充分信息，需要人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类未能反映研究质量或临床有效性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级未能充分支持报告的结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42848888。",
-          "report": "Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake.",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42848527",
-      "date": "2026-10-08",
-      "title": "Time is of the Essence: Airway Organoid Maturation Matters for Infection Modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848527/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42848527。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09a2d25d699fe2a2006ac8264a9b4887d1855bd8f047e5d04b",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "4b007844896d28cf71c7860666dd00a52607b2b1104c9c89b8807d17d2477096",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以确保陈述的准确性和中立性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据等级较低，分类可能不够充分。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告分开清晰，但证据水平较低，可能不支持该结论。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42848527。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "分类是基于文献内容，但无法推断研究质量。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段等信息缺失。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42848513",
-      "date": "2026-10-08",
-      "title": "Protocol for scalable production of orally deliverable R-spondin1-loaded small extracellular vesicles for WNT-signaling activation and tissue regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848513/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849759/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42848513。",
-      "report": "R-spondin1 plays a pivotal role in potentiating canonical WNT/β-catenin signaling, a pathway critical for maintaining stem cell homeostasis and driving tissue regeneration. Here, we present a scalable, serum-free protocol for producing R-spondin1-loaded small...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroendocrinology，PMID 为 42849759。",
+      "report": "Thyroid hormones (THs) are essential regulators of brain development known for their roles in neuronal proliferation, migration, differentiation, and maturation. However, brain development relies on coordinated interactions among neural, glial, vascular, and e...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0abbf3e8ede0b1cc006ac8264f8b7487d198649374a1631e7e",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "73aef98de611c745e03ef27a82620bf8392c09b23adcbfc1d6416a8002a2b158",
+        "responseId": "resp_0f994ac6e4ffe458006ac886ba938887d18fa58c79ce14414b",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "4c436246059d4391f20355a1594612129f0e5f9e969e62d8f4fa7b1af007c292",
         "status": "pass",
-        "confidence": 0.9,
+        "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，没有不当的临床结论。",
+        "reviewSummaryCn": "该文献记录准确，分类合适，无临床结论或推荐。",
         "classificationAssessment": {
           "isSupported": true,
           "notesCn": "分类合理，符合文献内容。"
@@ -1005,82 +867,11 @@ window.BHR_DATA = {
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据等级和报告内容合理。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42848513。",
-          "report": "R-spondin1 plays a pivotal role in potentiating canonical WNT/β-catenin signaling, a pathway critical for maintaining stem cell homeostasis and driving tissue regeneration.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42848106",
-      "date": "2026-10-08",
-      "title": "Host chromatin architecture in HPV-driven cervical cancer: molecular mechanisms and therapeutic resistance.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848106/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42848106。",
-      "report": "Persistent infection with high-risk human papillomavirus (HPV) is the principal etiologic driver of cervical cancer. However, HPV status and E6/E7-mediated disruption of the p53/RB axis do not fully explain why HPV-associated lesions differ in persistence, mal...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d1ef6aecc22faa5006ac82654c34487d1829e6c1efa24e49d",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "5e7477d5756f1dca857feffd6d40d1d83778fb113d0fae19c0bb8952079d209b",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录分类合理，无临床结论或治疗建议，信息明确分离。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与主题一致，基于文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "发布的信息来自高可靠性来源，证据水平适当。"
+          "notesCn": "事实、报告和推论明确区分，证据等级合理。"
         },
         "riskFlags": [
           "clinical_claim",
-          "commercial_claim"
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -1089,66 +880,166 @@ window.BHR_DATA = {
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤"
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42848106。",
-          "report": "Persistent infection with high-risk human papillomavirus (HPV) is the principal etiologic driver of cervical cancer. However, HPV status and E6/E7-mediated disruption of the p53/RB axis do not fully explain why HPV-associated lesions differ in persistence, malignancy, and response to therapies.",
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroendocrinology，PMID 为 42849759。",
+          "report": "Thyroid hormones (THs) are essential regulators of brain development known for their roles in neuronal proliferation, migration, differentiation, and maturation. However, brain development relies on coordinated interactions among neural, glial, vascular, and e...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "id": "pubmed-42847676",
+      "id": "pubmed-42849758",
       "date": "2026-10-08",
-      "title": "Modeling Respiratory Infections Using Patient-Derived Apical-Out Airway Organoids.",
+      "title": "Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847676/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849758/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42847676。",
-      "report": "Airway organoids bridge the gap between conventional epithelial cultures and animal models by combining human tissue architecture, cellular diversity, and experimental accessibility. However, because these systems are dynamic, reproducible infection modeling r...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42849758。",
+      "report": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dime...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0338e50d6e9d63f2006ac82659a21c87d1b16a127611561c96",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "95df24633f373b0dcc498be36bc507e6999691539b995c5ff2b1d2633338981e",
+        "responseId": "resp_05f23c9053666e6d006ac886bfb94887d1a406f87c49c88c53",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "7a119fc116bb9ab0105c86959fddfdc73e4d3b8c9aeec51f8db2bfd8a393fb56",
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录详细且中立，符合发布标准。",
+        "reviewSummaryCn": "信息来源可靠，具体事实与报告分明，适合发布。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开清晰。"
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "生物技术",
+          "subCategory": "类器官与高级疾病模型",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "AI for Biology",
+            "Drug Discovery",
+            "Longevity",
+            "Biomarkers",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "衰老",
+            "biomarker",
+            "longevity",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42849758。",
+          "report": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dime...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42849582",
+      "date": "2026-10-08",
+      "title": "Pharmacokinetic evaluation of inhaled formulations: from in vitro models to clinical assessment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849582/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42849582。",
+      "report": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0025ae9752890f9d006ac886c5599087d18a8888749afda03b",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "23967165757a366187cd1ec8ed4fd1dc0a4997653f815794b1d0c9328b1f35cd",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录基于可靠的源，并清晰分离了事实、报告、推论和未知内容，无临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类与内容一致，符合情报需求。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实与报告支持，证据水平合理。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -1160,15 +1051,231 @@ window.BHR_DATA = {
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42849582。",
+          "report": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42849453",
+      "date": "2026-10-08",
+      "title": "Characterization of structural variants in KOLF2.1J iPSCs and their potential impact on forebrain organoid differentiation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849453/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849453。",
+      "report": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neurona...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00fde93eb224e7e2006ac886cac40087d198c801f48fcb75bc",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "fb1e7a45e3b6fb16fdf963321f89479b2ecb845b7505e7a2fdf34c5de53c15b9",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号合规，通过，但未评估具体研究质量和临床应用。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信号内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断明确分开，证据水平适中。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849453。",
+          "report": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neurona...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42849452",
+      "date": "2026-10-08",
+      "title": "Human spinal cord organoids recapitulate developmental and disease-associated oligodendrocyte lineage signatures.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849452/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849452。",
+      "report": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_065728abc93d31a5006ac886cf40e487d1b6b33d79ffc75518",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "256723eaeb9c0ffac1edd8b3ab3c3289bc2c56828fcae0560927540d08506fa9",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号在分类和证据水平上合理，事实、报告、推论和未知信息清晰分隔，无临床建议或不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
             "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42847676。",
-          "report": "Airway organoids bridge the gap between conventional epithelial cultures and animal models by combining human tissue architecture, cellular diversity, and experimental accessibility. However, because these systems are dynamic, reproducible infection modeling r...",
+          "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849452。",
+          "report": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42849445",
+      "date": "2026-10-08",
+      "title": "Prognostic value of cfDNA methylation in locally advanced esophageal squamous cell cancer treated with neoadjuvant immunochemoradiotherapy.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849445/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42849445。",
+      "report": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n =...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_049417d1c25fbb16006ac886d48bec87d186d8835974410a3c",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "a2d604e4b2b6db2c68f3fa55a3ff8087d486dbbc57e6ee705614ed50f9751772",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献未明确研究质量和潜在利益冲突，需人工判断。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类支持但需注意研究质量未评估。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不高，需进一步阐明。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42849445。",
+          "report": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n =...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1322,6 +1429,75 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42848177。",
           "report": "Bladder cancer has high morbidity and mortality, and cigarette smoke is a major risk factor for this disease. Exosomal circRNAs are widely involved in tumor progression, while their roles in smoke-related bladder cancer remain unclear. In the present study, we...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42850087",
+      "date": "2026-10-07",
+      "title": "Per-oral pancreatoscopy-guided pancreatic duct biopsy collection in chronic pancreatitis patients allows culture of organoids suitable for assessing CFTR function.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850087/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]，PMID 为 42850087。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_087883d4baea4c8e006ac886d8e73887d1876c619115ffdd33",
+        "reviewedAt": "2026-10-09T06:16:25.605637+00:00",
+        "inputHash": "95c1f3560a8edb90434af9994eb7ba6e4e9aad81e666033e005e177321a39fd0",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献缺乏摘要，未评估研究质量和样本量，需要人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合适，属于类器官和先进疾病模型领域。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平为低，但未提供相关的研究质量或样本量信息。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]，PMID 为 42850087。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1535,75 +1711,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42839711。",
           "report": "Molecular generation stands at the forefront of intelligent molecular design, promising transformative advances in the discovery of molecules that meet drug-likeness or catalysis requirements. However, existing generative models typically focus on optimizing a...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42848640",
-      "date": "2026-10-05",
-      "title": "The utility of animal models in hiPSC-based studies of autism spectrum disorder: a systematic review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848640/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Einstein (Sao Paulo, Brazil)，PMID 为 42848640。",
-      "report": "Autism spectrum disorder is a highly prevalent and heritable neurodevelopmental condition. To investigate its pathogenesis, genetic and non-genetic animal models have been developed. However, no animal model can fully capture the human-specific characteristics...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_013fbf5b0be70c73006ac8266977c487d1b73eb2def1630f56",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "0a70e15bd2f5c6ffa55f4d2e68fd67f14240bf28a8a6e24dc376eeea006581e8",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "数据符合出版标准，均未偏向临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "数据来源于可靠的PubMed记录，提供了足够的信息。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Einstein (Sao Paulo, Brazil)，PMID 为 42848640。",
-          "report": "Autism spectrum disorder is a highly prevalent and heritable neurodevelopmental condition. To investigate its pathogenesis, genetic and non-genetic animal models have been developed. However, no animal model can fully capture the human-specific characteristics...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2038,81 +2145,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Clinical laboratory，PMID 为 42847935。",
           "report": "Current prognostic tools for chronic myeloid leukemia (CML) rely primarily on clinical parameters and lack reliable molecular biomarkers for dynamic risk assessment. Circular RNAs (circRNAs) have emerged as promising liquid biopsy biomarkers because of their s...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42847146",
-      "date": "2026-10-01",
-      "title": "Artificial Intelligence in Gastric Cancer: Diagnostic, Prognostic, and Predictive Developments, Evidence Maturity, and Translational Challenges.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847146/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42847146。",
-      "report": "Gastric cancer (GC) remains a major global health burden characterized by substantial heterogeneity in diagnosis, prognosis, and treatment response. Artificial intelligence (AI), including machine learning (ML) and deep learning (DL), has been increasingly inv...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ae442c942f95e2d006ac82671d61887d1b340bcccac258f3e",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "6d130429b7aa0002648b6948bbd6eaa7fe0760474c402db19befa58b15147ae0",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审核以判断临床结论的有效性和安全性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据等级为中等，但分类可能过于宽泛，未明确支持研究的有效性。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然事实和报告分开，但是证据等级未能得到足够支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical & Regulatory",
-          "subCategory": "Clinical Evidence",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "临床",
-            "监管",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42847146。",
-          "report": "Gastric cancer (GC) remains a major global health burden characterized by substantial heterogeneity in diagnosis, prognosis, and treatment response. Artificial intelligence (AI), including machine learning (ML) and deep learning (DL), has been increasingly involved in various aspects of GC management.",
-          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

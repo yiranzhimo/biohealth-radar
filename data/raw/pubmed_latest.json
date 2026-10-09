@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-08T23:24:42.873230+00:00",
+  "capturedAt": "2026-10-09T06:16:16.882377+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-08",
-    "end": "2026-10-08"
+    "start": "2025-10-09",
+    "end": "2026-10-09"
   },
   "pmids": [
-    "42848888",
-    "42848640",
-    "42848527",
-    "42848513",
-    "42848106",
-    "42847676",
+    "42850087",
+    "42849759",
+    "42849758",
+    "42849582",
+    "42849453",
+    "42849452",
     "42844355",
     "42818971",
     "42818106",
@@ -32,134 +32,128 @@
     "42834449",
     "42828399",
     "42826717",
+    "42849445",
     "42848264",
     "42848177",
     "42847935",
     "42847792",
-    "42847779",
-    "42847146"
+    "42847779"
   ],
   "records": [
     {
-      "pmid": "42848888",
-      "title": "The human gut microbiome primes fever after vaccination.",
-      "abstract": "Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake. To understand variation in fever risk, we longitudinally profiled fecal microbiota, oral temperature, and serological markers in 171 healthy adults receiving Severe acute respiratory syndrome coronavirus 2 mRNA vaccines. Fever risk correlated with low-grade intestinal inflammation, increased abundance of flagellated Lachnospiraceae bacteria, and increased flagellin expression prevaccine. Microbiomes from fever-high donors triggered stronger inflammation in human intestinal organoids and drove flagellin-dependent vaccine reactions in gnotobiotic mice. Moreover, microbiome flagellin phenotypes and murine vaccine reactions were modifiable by diet. Consistent with this, human fever risk was associated with self-reported diet and metabolic markers. These findings identify the gut microbiome as a driver of vaccine-induced fever, suggesting that microbiome-targeting strategies could modulate immune tone and improve vaccine side effects.",
-      "journal": "Science (New York, N.Y.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Microbiome Science, Max Planck Institute for Biology, Tübingen, Germany.",
-        "Controlling Microbes to Fight Infections (CMFI) Cluster of Excellence, Tübingen, Germany.",
-        "Institute for Biomedical Sciences, Georgia State University, Atlanta, GA, USA.",
-        "Microbiome-Host Interactions, Institut Pasteur, Université Paris Cité, Paris, France.",
-        "Mass Spectrometry Facility, Max Planck Institute for Biology Tübingen, Tübingen, Germany.",
-        "Department of Pediatrics and Child Health, University of Manitoba, Manitoba, Canada.",
-        "Department of Pediatrics; Center for Microbiome Innovation; Department of Computer Science and Engineering; Shu Chien-Gene Lay Department of Bioengineering; Halıcıoğlu Data Science Institute, University of California San Diego, La Jolla, CA, USA.",
-        "Hong Kong University of Science and Technology Jockey Club Institute for Advanced Study, Hong Kong University of Science and Technology, Hong Kong SAR, China.",
-        "Department of Biochemistry, Microbiology and Immunology, University of Ottawa, Ottawa, OT, Canada.",
-        "Departments of Medicine and of Epidemiology and Population Health, Stanford University, Stanford, CA, USA.",
-        "Institute for Tropical Medicine, University of Tübingen, Tübingen, Germany.",
-        "Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen, Tübingen, Germany.",
-        "Centre de Recherches Medicales de Lambaréné, Lambaréné, Gabon.",
-        "German Center for Infection Research (DZIF), partner site Tübingen, Tübingen, Germany."
-      ],
-      "doi": "10.1126/science.aea7733",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848888/"
-    },
-    {
-      "pmid": "42848640",
-      "title": "The utility of animal models in hiPSC-based studies of autism spectrum disorder: a systematic review.",
-      "abstract": "Autism spectrum disorder is a highly prevalent and heritable neurodevelopmental condition. To investigate its pathogenesis, genetic and non-genetic animal models have been developed. However, no animal model can fully capture the human-specific characteristics and genetic complexity of autism spectrum disorder. In this context, human induced pluripotent stem cell (hiPSC) derived models have emerged as powerful tools in autism spectrum disorder research, offering the potential to reduce or replace animal experiments. Despite this potential, many hiPSC-based studies still incorporate animal use. To analyze the use of animals in hiPSC-based studies of autism spectrum disorder, with the aim of assessing the necessity of their inclusion and their contribution to our understanding of disease mechanisms. Following the PRISMA guidelines, we searched PubMed, Scopus, and Web of Science for articles published between 2009 and 2024 using the search terms \"autism\", \"ASD\", and \"autism spectrum disorder\" combined with \"iPSC\", \"induced pluripotent stem cells and \"organoid*\". A total of 207 studies using hiPSCs to investigate Autism spectrum disorder were identified. Of these, 79 studies (38.16%) also involved animals or animal-derived cells. While nearly half of these studies used autism spectrum disorder animal models to explore neurobiological mechanisms of the disorder, the remaining studies employed animals for purposes not directly related to understanding autism spectrum disorder pathophysiology. These included teratoma formation assays to validate hiPSC pluripotency and the extraction of primary astrocytes for co-culture with hiPSC-derived neurons, an approach that may introduce confounding variables. Our review highlights the frequent and, in some cases, unnecessary use of animals in hiPSC-based studies of autism spectrum disorder.",
-      "journal": "Einstein (Sao Paulo, Brazil)",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "affiliations": [
-        "Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.",
-        "Department of Pathology, Faculdade de Medicina Veterinária e Zootecnia, Universidade de São Paulo, São Paulo, SP, Brazil."
-      ],
-      "doi": "10.31744/einstein_journal/2026RW1868",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848640/"
-    },
-    {
-      "pmid": "42848527",
-      "title": "Time is of the Essence: Airway Organoid Maturation Matters for Infection Modeling.",
+      "pmid": "42850087",
+      "title": "Per-oral pancreatoscopy-guided pancreatic duct biopsy collection in chronic pancreatitis patients allows culture of organoids suitable for assessing CFTR function.",
       "abstract": "",
-      "journal": "American journal of respiratory cell and molecular biology",
+      "journal": "Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Larner College of Medicine, University of Vermont, Burlington, VT, United States.",
-        "Vermont Lung Center, University of Vermont, Burlington, VT, United States.",
-        "Cellular, Molecular, and Biomedical Sciences Doctoral Program, University of Vermont, Burlington, VT, United States."
+        "Department of Gastroenterology and Hepatology, Erasmus MC University Medical Center, Rotterdam, the Netherlands.",
+        "Department of Gastroenterology and Hepatology, Erasmus MC University Medical Center, Rotterdam, the Netherlands. Electronic address: m.bijvelds@erasmusmc.nl."
       ],
-      "doi": "10.1093/ajrcmb/aanag203",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848527/"
+      "doi": "10.1016/j.pan.2026.10.008",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850087/"
     },
     {
-      "pmid": "42848513",
-      "title": "Protocol for scalable production of orally deliverable R-spondin1-loaded small extracellular vesicles for WNT-signaling activation and tissue regeneration.",
-      "abstract": "R-spondin1 plays a pivotal role in potentiating canonical WNT/β-catenin signaling, a pathway critical for maintaining stem cell homeostasis and driving tissue regeneration. Here, we present a scalable, serum-free protocol for producing R-spondin1-loaded small extracellular vesicles (evRSPO1) from engineered HEK293 cells, with multimodal characterization of vesicle quality and bioactivity. We also describe steps for in vitro functional validation of the vesicles using mouse intestinal organoids and for in vivo therapeutic applications in mouse intestinal regeneration via oral delivery. For complete details on the use and execution of this protocol, please refer to Yang et al.1,2.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "The Fifth Affiliated Hospital, Guangzhou Medical University, Guangzhou, Guangdong Province 510150, China; Guangzhou National Laboratory, Guangzhou, Guangdong Province 510005, China. Electronic address: yang_lingyan@gzlab.ac.cn.",
-        "Guangzhou National Laboratory, Guangzhou, Guangdong Province 510005, China; State Key Laboratory of Medicinal Chemical Biology, College of Life Sciences, Nankai University, Tianjin 300071, China.",
-        "Guangzhou National Laboratory, Guangzhou, Guangdong Province 510005, China; Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou, Guangdong Province 510080, China.",
-        "The Fifth Affiliated Hospital, Guangzhou Medical University, Guangzhou, Guangdong Province 510150, China; Guangzhou National Laboratory, Guangzhou, Guangdong Province 510005, China. Electronic address: chan_yunshen@gzlab.ac.cn."
-      ],
-      "doi": "10.1016/j.xpro.2026.104891",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848513/"
-    },
-    {
-      "pmid": "42848106",
-      "title": "Host chromatin architecture in HPV-driven cervical cancer: molecular mechanisms and therapeutic resistance.",
-      "abstract": "Persistent infection with high-risk human papillomavirus (HPV) is the principal etiologic driver of cervical cancer. However, HPV status and E6/E7-mediated disruption of the p53/RB axis do not fully explain why HPV-associated lesions differ in persistence, malignant progression, therapeutic response, and relapse. This review examines how host chromatin architecture and related transcriptional programs may contribute to the stabilization of malignant cell states following HPV-mediated checkpoint disruption. We discuss evidence linking HPV persistence and integration to epigenetic permissiveness, three-dimensional genome organization, enhancer-promoter rewiring, cohesin dynamics, and WAPL-associated chromatin regulation. Particular attention is given to how these mechanisms may influence MYC/E2F-centered proliferative output and cooperate with context-dependent signaling and tumor microenvironmental adaptation to contribute to treatment tolerance and resistant malignant states. We also consider how chromatin-informed biomarkers, public datasets, perturbation-guided prioritization, authenticated cervical cancer cell lines, organoids, and patient-derived models can be used to evaluate therapeutically relevant vulnerabilities. By integrating viral oncogenesis with host genome regulation and adaptive resistance, this review proposes a conceptual and experimentally testable framework for stratifying HPV-driven cervical cancer and prioritizing candidate intervention nodes.",
-      "journal": "Medical oncology (Northwood, London, England)",
+      "pmid": "42849759",
+      "title": "Thyroid hormones and neurovascular development: An integrated framework.",
+      "abstract": "Thyroid hormones (THs) are essential regulators of brain development known for their roles in neuronal proliferation, migration, differentiation, and maturation. However, brain development relies on coordinated interactions among neural, glial, vascular, and extracellular matrix components, supporting a broader role for TH beyond neuronal effects. Here, we examine how spatial regulation of TH availability contributes to neurovascular development by integrating findings from developmental animal models, human fetal tissue, cerebral organoids, and TH transport disorders. We discuss the molecular mechanisms controlling TH availability and examine how TH signaling influences angiogenesis, astrocyte maturation, extracellular matrix remodeling, and blood-brain barrier formation. Together, these findings support a conceptual framework in which local regulation of TH action may coordinate signaling among vascular, glial, and neural compartments during neurovascular unit assembly. This perspective provides a hypothesis-generating framework for understanding how impaired TH signaling may affect multiple developmental processes simultaneously, including maternal thyroid dysfunction and transport disorders.",
+      "journal": "Frontiers in neuroendocrinology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Health Sciences of Mind and Body, Faculty of Human Sciences, University of Human Arts and Sciences, 1288 Magome, Iwatsuki- ku, Saitama-shi, Saitama, 339-8539, Japan. katsuyoshi_kumagai@human.ac.jp.",
-        "Graduate School, University of Human Arts and Sciences, Saitama, Japan. katsuyoshi_kumagai@human.ac.jp.",
-        "Department of Health Sciences of Mind and Body, Faculty of Human Sciences, University of Human Arts and Sciences, 1288 Magome, Iwatsuki- ku, Saitama-shi, Saitama, 339-8539, Japan.",
-        "Graduate School, University of Human Arts and Sciences, Saitama, Japan.",
-        "Department of Health Food Science, Faculty of Human Sciences, University of Human Arts and Sciences, Saitama, Japan.",
-        "The Health Sciences of Mind and Body, Human Arts and Sciences Research Center, Saitama, Japan."
+        "Departamento de Histología y Anatomía, Facultad de Medicina, Universidad Miguel Hernández, Sant Joan d'Alacant, Spain.",
+        "Instituto de Neurociencias, Universidad Miguel Hernández-CSIC, Sant Joan d'Alacant, Spain; Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL), Alicante, Spain; Redes de Investigación Cooperativa Orientada a Resultados en Salud (RICORS), Red de Investigación en Atención Primaria de Adicciones (RIAPAd), Instituto de Salud Carlos III, MICINN y FEDER, Madrid, Spain. Electronic address: dnavarro@umh.es."
       ],
-      "doi": "10.1007/s12032-026-03445-w",
+      "doi": "10.1016/j.yfrne.2026.101288",
       "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848106/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849759/"
     },
     {
-      "pmid": "42847676",
-      "title": "Modeling Respiratory Infections Using Patient-Derived Apical-Out Airway Organoids.",
-      "abstract": "Airway organoids bridge the gap between conventional epithelial cultures and animal models by combining human tissue architecture, cellular diversity, and experimental accessibility. However, because these systems are dynamic, reproducible infection modeling requires careful definition of parameters influencing infection readouts, including epithelial polarity, maturation, cellular composition, and access to a physiologically relevant apical surface. We established patient-derived apical-out airway organoids and characterized them longitudinally using multiple modalities throughout differentiation, followed by proof-of-concept viral infection and host-response profiling. Organoids generated from resected human lung tissue were converted from an apical-in to an apical-out orientation and maintained in suspension. Over 21 days, they retained outward-facing apical features and matured from basal-cell-enriched structures into airway-like epithelium containing goblet cells, microvilli, ionocytes and ciliated cells, with mucus production and motile surface cilia. This time-resolved characterization demonstrated changes in organoid growth, epithelial organization, and lineage composition, guiding selection of maturation stages for infection experiments. Exposure of the apical surface to GFP-expressing human metapneumovirus (hMPV) enabled infection without disruptive shearing or microinjection. Viral fluorescence and immunostaining confirmed hMPV infection and revealed associated cytopathic changes in infected organoids. Infection efficiency and cellular tropism varied across maturation stages. Bulk RNA sequencing of infected versus mock-infected organoids showed reproducibly distinct transcriptional profiles and enrichment of antiviral and innate immune pathways. These findings demonstrate that the epithelial features shaping infection readouts must be defined empirically within each organoid system through longitudinal, multimodal characterization, thereby supporting rigorous interpretation and reproducible application in mechanistic and translational respiratory infection studies.",
-      "journal": "American journal of respiratory cell and molecular biology",
+      "pmid": "42849758",
+      "title": "Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.",
+      "abstract": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dimensional cell cultures and animal models fail to fully replicate the complex cellular architecture, multicellular interactions, and tissue-specific microenvironments in which senescence develops in vivo. Organoids, three-dimensional tissue models derived from pluripotent or adult stem cells, have emerged as physiologically relevant platforms that recapitulate selected aspects of human tissue organization, cellular diversity, and functional characteristics. These features make organoids well suited for investigating the mechanisms, dynamics, and pathological consequences of cellular senescence. In this review, we summarize recent advances in organoid-based models for senescence research, highlighting their physiological relevance, strategies for organoid generation, approaches for inducing and characterizing senescence, and their applications in modeling age-related diseases. We further discuss the emerging roles of organoids in senescence-targeted drug discovery, regenerative medicine, and precision therapeutics. While organoids provide experimentally tractable platforms for dissecting the biology of cellular senescence and accelerating the development of therapeutic strategies for aging and age-related diseases, their capacity to fully recapitulate the complexity of human aging remains limited. Future advances in vascularization, immune integration, multi-organ systems, spatial multi-omics, and artificial intelligence-assisted analyses may help address these limitations and further enhance the physiological relevance and translational potential of organoid-based models.",
+      "journal": "Ageing research reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan 430079, China.",
+        "Institute of Hydrobiology, Chinese Academy of Sciences, No. 7 Donghu South Road, Wuchang District, Wuhan 430072, Hubei, China.",
+        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University; Department of Oral Implantology, School and Hospital of Stomatology, Wuhan University.",
+        "Department of Stomatology, The People's Hospital of Baoan Shenzhen, The Second Affiliated Hospital of Shenzhen University, No. 118 Longjing Road, Baoan District, Shenzhen, Guangdong 518101,China.",
+        "Fujian Key Laboratory of Oral Diseases & Stomatological Key Laboratory of Fujian College and University & Fujian Provincial Engineering Research Center of Oral Biomaterial, School and Hospital of Stomatology, Fujian Medical University, China.",
+        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, 430075, PR China; Center for Prosthodontics and Implant Dentistry, Optics Valley Branch, School and Hospital of Stomatology, Wuhan University, Wuhan, 430223, PR China."
+      ],
+      "doi": "10.1016/j.arr.2026.103408",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849758/"
+    },
+    {
+      "pmid": "42849582",
+      "title": "Pharmacokinetic evaluation of inhaled formulations: from in vitro models to clinical assessment.",
+      "abstract": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as the essential link between formulation engineering and clinical efficacy throughout the development and translation of inhaled products. However, current literature often focuses on isolated development stages and lacks a holistic perspective. This review provides a comprehensive overview of PK evaluation methodologies by establishing a systematic framework that integrates in vitro models, in vivo animal studies, clinical assessments, and computational simulations. The discussion covers in vitro and ex vivo systems, including subcellular fractions, cell lines, and emerging organ-on-a-chip technologies for characterizing pulmonary metabolism and transport. It evaluates various animal models, from rodents to non-human primates, for PK screening and dose extrapolation while detailing administration techniques. At the clinical level, the review explains how systemic PK analysis, 3D imaging, and local sampling methods are combined to quantify regional deposition and effective lung exposure. Additionally, the regulatory and translational value of physiologically based pharmacokinetic (PBPK) modeling is highlighted for data integration and bioequivalence assessment. Overall, PK evaluation for inhaled formulations is inherently multidimensional and complex. Future research should prioritize the development of integrated evaluation systems that bridge the gaps between individual models. The integration of artificial intelligence and machine learning is expected to transform aerosol deposition prediction and personalized PBPK modeling, ultimately accelerating the clinical translation of inhaled therapies.",
+      "journal": "International journal of pharmaceutics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China. Electronic address: renchang_hazel@hotmail.com.",
+        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China.",
+        "Yantai Key Laboratory of Nanomedicine & Advanced Preparations, Yantai Institute of Pharmaceutical Science, Yantai 264000, China.",
+        "Clinical Pharmacokinetics Laboratory, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing 211198, China. Electronic address: lab@hotmail.com.",
+        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College Beijing 100050, China. Electronic address: dugh@imm.ac.cn.",
+        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China. Electronic address: hang@henu.edu.cn."
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127506",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849582/"
+    },
+    {
+      "pmid": "42849453",
+      "title": "Characterization of structural variants in KOLF2.1J iPSCs and their potential impact on forebrain organoid differentiation.",
+      "abstract": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neuronal differentiation. Here, we identified 37 additional SVs using long-read sequencing and optical genome mapping. Additionally, we found that one of the known SVs contained a previously undetected overlap with RYBP, a neurodevelopmental gene. To assess the functional consequences of these SVs, we performed single-cell RNA sequencing of day 90 forebrain organoids derived from KOLF2.1J and two independent control iPSC lines. While cell-type composition was preserved, multiple SV-affected genes were differentially expressed and cell-cell adhesion and synapse-related processes were enriched in KOLF2.1J organoids. These findings highlight the importance of robust genetic characterization and multi-line validation for reliable iPSC-based modeling.",
+      "journal": "Stem cell reports",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Clinical Microbiology, Sheba Medical Center, Ramat Gan, Israel.",
-        "Shmunis School of Biomedicine and Cancer Research, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel.",
-        "Oncology Institute, Shaba Medical Center, Ramat Gan, Israel.",
-        "Department of Pathology, Sheba Medical Center, Ramat Gan, Israel.",
-        "Department of Immunology and Regenerative Biology, Weizmann Institute of Science, Rehovot, Israel.",
-        "The Gray Faculty of Medical and Health Sciences, Tel Aviv University, Tel Aviv, Israel."
+        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany.",
+        "The Heidelberg Academy of Sciences and Humanities, Heidelberg, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; International Max Planck Research School, Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
+        "The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA.",
+        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
+        "Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; International Max Planck Research School, Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
+        "Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany.",
+        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. Electronic address: bschuele@stanford.edu.",
+        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany; The Heidelberg Academy of Sciences and Humanities, Heidelberg, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; Institute of Biological and Chemical Systems - Functional Molecular Systems, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany. Electronic address: simone.mayer@kit.edu.",
+        "The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA; Department of Genetics and Genome Sciences, University of Connecticut Health Center, Farmington, CT, USA; Institute for Systems Genomics, University of Connecticut, Storrs, CT, USA. Electronic address: christine.beck@jax.org."
       ],
-      "doi": "10.1093/ajrcmb/aanag193",
+      "doi": "10.1016/j.stemcr.2026.103112",
       "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847676/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849453/"
+    },
+    {
+      "pmid": "42849452",
+      "title": "Human spinal cord organoids recapitulate developmental and disease-associated oligodendrocyte lineage signatures.",
+      "abstract": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling the study of disease-relevant states remain limited. Here, we establish human spinal cord organoids (hSpO) and cortico-motor assembloids as platforms to model oligodendrocyte development, neuron-glia interactions, and cytokine-induced dysfunction. We show that hSpO generate oligodendrocyte lineage populations that transcriptionally resemble the developing human spinal cord, and oligodendrocyte progenitor cells (OPCs) that exhibit physiologically relevant behaviors, including migration and monosynaptic neuronal input. Exposure of assembloids to pro-inflammatory cytokines induces transcriptional changes across the oligodendrocyte lineage, characterized by altered lineage progression and acquisition of disease-associated gene expression programs that mirror signatures observed in tissues from patients with multiple sclerosis (MS). Together, this work establishes hSpO and assembloids as in vitro systems for studying oligodendrocyte lineage development and disease-associated states in a human multicellular context.",
+      "journal": "Stem cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA.",
+        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA; Goizueta Brain Health Institute Center for Neurodegenerative Diseases, Emory University School of Medicine, Atlanta, GA, USA; Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA; Children's Center for Neuroscience Research, Emory University School of Medicine, Atlanta, GA, USA. Electronic address: jimena.andersen@emory.edu."
+      ],
+      "doi": "10.1016/j.stemcr.2026.103114",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849452/"
     },
     {
       "pmid": "42844355",
@@ -375,6 +369,28 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826717/"
     },
     {
+      "pmid": "42849445",
+      "title": "Prognostic value of cfDNA methylation in locally advanced esophageal squamous cell cancer treated with neoadjuvant immunochemoradiotherapy.",
+      "abstract": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n = 183) were collected at four time points: pre-neoadjuvant treatment (NAT), post-NAT, pre-surgery, and post-surgery. Targeted whole-genome cfDNA methylation sequencing was performed, and cancer detection (CD) values were calculated with positivity, defined as CD ≥ 0.7. CD positivity dropped from 74% pre-NAT to 31% post-NAT (p < 0.001). Pre-surgery CD positivity was significantly higher in non-pCR versus pCR patients (33% vs. 0%; p = 0.028). A model incorporating post-NAT CD value and clinical factors achieved an area under the curve (AUC) of 0.764 for pCR. Post-NAT CD-negative patients had significantly improved disease-free survival (DFS; hazard ratio [HR] = 0.33; p = 0.035). Findings were reproduced in an expanded 30-patient cohort. Dynamic cfDNA methylation monitoring is associated with pCR and DFS, warranting further validation in larger cohorts.",
+      "journal": "Cell reports. Medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China; United Laboratory of Frontier Radiotherapy Technology of Sun Yat-sen University & Chinese Academy of Sciences Ion Medical Technology Co., Ltd, Guangzhou 510060, China.",
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Endoscopy, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "Department of Information, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
+        "Geneplus-Beijing, Beijing 102206, China.",
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Thoracic Surgery, Sun Yat-sen University Cancer Center, Guangzhou 510060, China. Electronic address: yanghong@sysucc.org.cn.",
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Medical Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China. Electronic address: luohy@sysucc.org.cn.",
+        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China; United Laboratory of Frontier Radiotherapy Technology of Sun Yat-sen University & Chinese Academy of Sciences Ion Medical Technology Co., Ltd, Guangzhou 510060, China. Electronic address: ximian@sysucc.org.cn."
+      ],
+      "doi": "10.1016/j.xcrm.2026.103102",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849445/"
+    },
+    {
       "pmid": "42848264",
       "title": "Analytical and Clinical Validation of the Oncomine Dx Express Test, an In Vitro Diagnostic-Labeled Assay, for Genomic Profiling of FFPE Tumor Samples.",
       "abstract": "Genomic profiling of solid tumors by next-generation sequencing (NGS) supports personalized therapy selection, but routine clinical adoption requires robust analytical and clinical validation. The Oncomine™ Dx Express Test (ODxET) is a companion diagnostic and tumor profiling in vitro diagnostic NGS assay for detecting targeted single- and multinucleotide variants (SNVs/MNVs), insertions, deletions, copy number variations (CNVs), and RNA fusions or splice variants in formalin-fixed, paraffin-embedded (FFPE) solid tumor samples. In a retrospective, blinded analytical study, 462 FFPE samples representing 15 tumor types and including 76 wild-type samples, were analyzed with ODxET and compared with validated orthogonal methods. Reproducibility and repeatability were evaluated across three sites, each using two operators, two sequencers, three reagent lots, and two replicates. Clinical performance for epidermal growth factor receptor (EGFR) exon 20 insertion detection was assessed using non-small cell lung cancer (NSCLC) samples from the WU-KONG1B sunvozertinib clinical trial and commercially sourced biomarker-negative specimens, with clinical effectiveness evaluated in patients treated with the approved sunvozertinib dose. The ODxET assay showed high analytical concordance for EGFR exon 20 insertions, with a positive percent agreement (PPA) of 100% and a negative percent agreement (NPA) of 95.5%. Across the reportable range of profiling variant classes, the ODxET assay also showed high analytical concordance with orthogonal methods for SNVs (PPA = 99.5%, NPA = 100%), insertions and deletions (PPA and NPA = 100%), CNVs (PPA = 94.2%, NPA = 99.3%), and RNA variants (PPA = 95.9%, NPA = 100%). DNA variant repeatability was 100%, except for one BRAF p.V600E instance (NPA = 97.1%). RNA repeatability ranged from 88.9% (ALK fusion) to 100%. Similarly, the ODxET assay showed high clinical concordance with the clinical trial assays for EGFR exon 20 insertions, with a PPA of 97.9%, a NPA of 100%, and an overall percent agreement (OPA) of 98.9%. In the ODxET EGFR exon 20 insertion-positive/clinical trial assay-positive subgroup, response rates were consistent with those observed in the overall sunvozertinib trial population. These findings support the analytical concordance, reproducibility, and clinical utility of the ODxET assay for molecular profiling of FFPE solid tumor samples.",
@@ -459,152 +475,154 @@
       "doi": "10.1093/bib/bbag544",
       "date": "2026-09-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847779/"
-    },
-    {
-      "pmid": "42847146",
-      "title": "Artificial Intelligence in Gastric Cancer: Diagnostic, Prognostic, and Predictive Developments, Evidence Maturity, and Translational Challenges.",
-      "abstract": "Gastric cancer (GC) remains a major global health burden characterized by substantial heterogeneity in diagnosis, prognosis, and treatment response. Artificial intelligence (AI), including machine learning (ML) and deep learning (DL), has been increasingly investigated for the analysis of endoscopic images, radiological scans, whole-slide pathology images, molecular profiles, liquid-biopsy data, and multimodal clinical datasets. This structured review summarizes recent AI-based developments in GC diagnosis, staging, prognostic assessment, and treatment-response prediction, with particular emphasis on the translational maturity of the available evidence. PubMed/MEDLINE, Web of Science, Embase, Scopus, and Google Scholar were searched for relevant English-language publications from database inception through January 2026. Eligible studies were evaluated according to clinical task, data modality, model type, cohort size, study design, validation strategy, interpretability, clinical workflow readiness, and reported limitations. Recent AI models have demonstrated promising performance in selected research settings, particularly in endoscopic image analysis, computational pathology, CT-based radiomics, and multimodal prognostic modeling. However, most studies remain retrospective, single-center, and internally validated. Calibration, robustness, prospective clinical utility, and generalizability across populations and institutions remain insufficiently assessed. Major barriers to translation include data heterogeneity, annotation variability, overfitting, data leakage, external validation failure, algorithmic bias, regulatory requirements, reimbursement, clinician-AI interaction, medicolegal responsibility, post-deployment monitoring, and model drift. AI has considerable potential to support GC diagnosis, prognosis, and treatment planning, but most current models remain insufficiently validated for routine clinical use. Future progress will depend on transparent reporting, standardized validation, multicenter prospective trials, clinically meaningful endpoints, and the integration of explainable, trustworthy AI systems into routine clinical workflows.",
-      "journal": "Cancer reports (Hoboken, N.J.)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, Affiliated Hospital and Medical School of Nantong University, Nantong, Jiangsu, China.",
-        "Department of Gastroenterology, Nantong University Affiliated Dongtai Hospital, Yancheng, Jiangsu, China.",
-        "Department of Gastroenterology, Nantong Rehabilitation Hospital, Nantong City, Jiangsu, China."
-      ],
-      "doi": "10.1002/cnr2.70665",
-      "date": "2026-10-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847146/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42848888",
+      "id": "pubmed-42849759",
       "date": "2026-10-08",
-      "title": "The human gut microbiome primes fever after vaccination.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848888/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 42848888。",
-      "report": "Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake. To understand variation in fever risk, we longitudinally profiled fecal microbiota, oral temperature, and serological markers in 171 healthy adults receivi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42848527",
-      "date": "2026-10-08",
-      "title": "Time is of the Essence: Airway Organoid Maturation Matters for Infection Modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848527/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42848527。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42848513",
-      "date": "2026-10-08",
-      "title": "Protocol for scalable production of orally deliverable R-spondin1-loaded small extracellular vesicles for WNT-signaling activation and tissue regeneration.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848513/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42848513。",
-      "report": "R-spondin1 plays a pivotal role in potentiating canonical WNT/β-catenin signaling, a pathway critical for maintaining stem cell homeostasis and driving tissue regeneration. Here, we present a scalable, serum-free protocol for producing R-spondin1-loaded small...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42848106",
-      "date": "2026-10-08",
-      "title": "Host chromatin architecture in HPV-driven cervical cancer: molecular mechanisms and therapeutic resistance.",
+      "title": "Thyroid hormones and neurovascular development: An integrated framework.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848106/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849759/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42848106。",
-      "report": "Persistent infection with high-risk human papillomavirus (HPV) is the principal etiologic driver of cervical cancer. However, HPV status and E6/E7-mediated disruption of the p53/RB axis do not fully explain why HPV-associated lesions differ in persistence, mal...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroendocrinology，PMID 为 42849759。",
+      "report": "Thyroid hormones (THs) are essential regulators of brain development known for their roles in neuronal proliferation, migration, differentiation, and maturation. However, brain development relies on coordinated interactions among neural, glial, vascular, and e...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42847676",
+      "id": "pubmed-42849758",
       "date": "2026-10-08",
-      "title": "Modeling Respiratory Infections Using Patient-Derived Apical-Out Airway Organoids.",
+      "title": "Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849758/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42849758。",
+      "report": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dime...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42849582",
+      "date": "2026-10-08",
+      "title": "Pharmacokinetic evaluation of inhaled formulations: from in vitro models to clinical assessment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849582/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42849582。",
+      "report": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42849453",
+      "date": "2026-10-08",
+      "title": "Characterization of structural variants in KOLF2.1J iPSCs and their potential impact on forebrain organoid differentiation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847676/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849453/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849453。",
+      "report": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neurona...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42849452",
+      "date": "2026-10-08",
+      "title": "Human spinal cord organoids recapitulate developmental and disease-associated oligodendrocyte lineage signatures.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849452/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -617,9 +635,37 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42847676。",
-      "report": "Airway organoids bridge the gap between conventional epithelial cultures and animal models by combining human tissue architecture, cellular diversity, and experimental accessibility. However, because these systems are dynamic, reproducible infection modeling r...",
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849452。",
+      "report": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42849445",
+      "date": "2026-10-08",
+      "title": "Prognostic value of cfDNA methylation in locally advanced esophageal squamous cell cancer treated with neoadjuvant immunochemoradiotherapy.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849445/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42849445。",
+      "report": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n =...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -687,6 +733,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42850087",
+      "date": "2026-10-07",
+      "title": "Per-oral pancreatoscopy-guided pancreatic duct biopsy collection in chronic pancreatitis patients allows culture of organoids suitable for assessing CFTR function.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850087/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]，PMID 为 42850087。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42842665",
       "date": "2026-10-07",
       "title": "Machine learning-assisted directed evolution of plant Rubisco.",
@@ -742,34 +816,6 @@
       "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42839711。",
       "report": "Molecular generation stands at the forefront of intelligent molecular design, promising transformative advances in the discovery of molecules that meet drug-likeness or catalysis requirements. However, existing generative models typically focus on optimizing a...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42848640",
-      "date": "2026-10-05",
-      "title": "The utility of animal models in hiPSC-based studies of autism spectrum disorder: a systematic review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848640/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Einstein (Sao Paulo, Brazil)，PMID 为 42848640。",
-      "report": "Autism spectrum disorder is a highly prevalent and heritable neurodevelopmental condition. To investigate its pathogenesis, genetic and non-genetic animal models have been developed. However, no animal model can fully capture the human-specific characteristics...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -888,36 +934,6 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical laboratory，PMID 为 42847935。",
       "report": "Current prognostic tools for chronic myeloid leukemia (CML) rely primarily on clinical parameters and lack reliable molecular biomarkers for dynamic risk assessment. Circular RNAs (circRNAs) have emerged as promising liquid biopsy biomarkers because of their s...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42847146",
-      "date": "2026-10-01",
-      "title": "Artificial Intelligence in Gastric Cancer: Diagnostic, Prognostic, and Predictive Developments, Evidence Maturity, and Translational Challenges.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847146/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer reports (Hoboken, N.J.)，PMID 为 42847146。",
-      "report": "Gastric cancer (GC) remains a major global health burden characterized by substantial heterogeneity in diagnosis, prognosis, and treatment response. Artificial intelligence (AI), including machine learning (ML) and deep learning (DL), has been increasingly inv...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
