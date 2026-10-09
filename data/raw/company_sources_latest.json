@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "akeso",
@@ -623,9 +623,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "arvinas",
@@ -793,9 +793,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "autolus",
@@ -856,9 +856,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -2961,7 +2961,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -2993,7 +2993,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-abbisko",
@@ -4865,7 +4865,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -4897,7 +4897,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-aivocode",
@@ -7875,7 +7875,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001847345",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -7898,12 +7898,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-02T10:42:00+00:00",
       "lastChangedAt": "2026-10-02T10:42:00+00:00",
       "capturedAt": "2026-10-02T10:42:00+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-assayquant-technologies",
@@ -8947,7 +8947,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -8979,7 +8979,7 @@
       "firstObservedAt": "2026-08-18T05:04:41+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-bacstitch-dna",
@@ -11611,7 +11611,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -11643,7 +11643,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-bristol-myers-squibb",
@@ -12185,7 +12185,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -12217,7 +12217,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-candel-therapeutics",
@@ -13685,7 +13685,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -13717,7 +13717,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-cingulate",
@@ -14012,7 +14012,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -14044,7 +14044,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-clover-bio",
@@ -14098,7 +14098,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -14130,7 +14130,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-cmtx-biotech",
@@ -19040,7 +19040,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -19072,7 +19072,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-in8bio",
@@ -19562,7 +19562,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -19594,7 +19594,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-instil-bio",
@@ -19988,7 +19988,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -20020,7 +20020,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-jenscare",
@@ -20142,7 +20142,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -20174,7 +20174,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-kalaris-therapeutics",
@@ -21734,7 +21734,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -21766,7 +21766,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-mediwound",
@@ -22088,7 +22088,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -22120,7 +22120,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-midwest-bioprocessing-center",
@@ -25346,7 +25346,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-09T10:42:00+00:00",
+      "nextCheckAt": "2026-10-16T11:28:53+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -25378,7 +25378,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-25T09:45:45+00:00",
       "capturedAt": "2026-09-25T09:45:45+00:00",
-      "lastCheckedAt": "2026-10-02T10:42:00+00:00"
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "candidate-rallidae-therapeutics",
@@ -30373,10 +30373,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -31043,9 +31043,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "intellia",
@@ -31924,9 +31924,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -31976,9 +31976,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-27T10:10:17+00:00",
       "capturedAt": "2026-09-27T10:10:17+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -32028,9 +32028,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-16T09:28:24+00:00",
       "capturedAt": "2026-09-16T09:28:24+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "oxford-nanopore",
@@ -32171,10 +32171,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-10-08T11:34:25+00:00",
+      "lastCheckedAt": "2026-10-09T11:28:53+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "TimeoutError",
-      "lastFailureAt": "2026-10-08T11:34:25+00:00"
+      "lastFailureAt": "2026-10-09T11:28:53+00:00"
     },
     {
       "companyId": "recursion",
