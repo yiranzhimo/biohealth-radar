@@ -12958,7 +12958,7 @@
     },
     {
       "companyId": "candidate-aptevo-therapeutics",
-      "name": "Aptevo Therapeutics Inc.",
+      "name": "Aptevo Therapeutics",
       "asOfDate": "2026-10-09",
       "profileStatus": "partial",
       "identity": {
@@ -12985,7 +12985,12 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Pharmaceutical Preparations"
+          "Clinical Trials",
+          "Oncology",
+          "Pharmaceutical Preparations",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "modalities": [],
         "watchTier": "Discovery"

@@ -4,124 +4,102 @@
   "asOfDate": "2026-10-09",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-7caaad4510846def",
-      "observedName": "GliaCure, Inc.",
-      "normalizedName": "gliacure",
+      "id": "mention-clinicaltrials-3f0b6c167d47c220",
+      "observedName": "T3D Therapeutics, Inc.",
+      "normalizedName": "t3d therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02386306",
-      "sourceDate": "2016-02-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02386306",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Study Evaluating Safety, Tolerability, and PK of Multiple Ascending Doses of GC021109 in Subjects With Mild to Moderate Alzheimer's Disease"
-    },
-    {
-      "id": "mention-clinicaltrials-827a1f9d10965dcb",
-      "observedName": "AgileMD, Inc.",
-      "normalizedName": "agilemd",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06771830",
-      "sourceDate": "2026-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06771830",
+      "sourceRecordId": "NCT06964230",
+      "sourceDate": "2025-05-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06964230",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
         "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
+        "临床试验"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Evaluation of Pediatric eCART Implementation"
+      "contextTitle": "A Phase 2b/3 Clinical Study Evaluating T3D-959 in Mild-to-Moderate Alzheimer's Disease Subjects"
     },
     {
-      "id": "mention-clinicaltrials-834b2d1182b12418",
-      "observedName": "Lindenhofgruppe AG",
-      "normalizedName": "lindenhofgruppe",
+      "id": "mention-clinicaltrials-435ca2eefbdc8fcb",
+      "observedName": "Aptevo Therapeutics",
+      "normalizedName": "aptevo therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06227065",
-      "sourceDate": "2026-09-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06227065",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01644253",
+      "sourceDate": "2021-05-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01644253",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Advanced Disease Models",
         "Clinical Trials",
         "Oncology",
-        "Organoids",
         "Precision Oncology",
-        "Recruiting",
         "临床试验",
-        "疾病模型",
-        "类器官",
         "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Precise Chemoresection in Low-grade NMIBC Using Drug Screens in Patient-derived Organoids"
+      "contextTitle": "Phase 1b Safety and Efficacy Study of TRU-016"
     },
     {
-      "id": "mention-clinicaltrials-cdbd942455172a3f",
-      "observedName": "Guangzhou Burning Rock Bioengineering Ltd.",
-      "normalizedName": "guangzhou burning rock bioengineering",
+      "id": "mention-clinicaltrials-4be00b2d1723c85d",
+      "observedName": "Hunan Xeno-life Science Ltd",
+      "normalizedName": "hunan xeno life science",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06979921",
-      "sourceDate": "2025-08-14",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06979921",
+      "sourceRecordId": "NCT03162237",
+      "sourceDate": "2020-06-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03162237",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "中国",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Safety and Efficacy Study of Islets Xenotransplantation"
+    },
+    {
+      "id": "mention-clinicaltrials-71b180249f73cb4b",
+      "observedName": "AI Labs Group S.L",
+      "normalizedName": "ai labs group s l",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06263413",
+      "sourceDate": "2024-03-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06263413",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Biomarkers",
         "Clinical Trials",
-        "Diagnostics",
+        "Healthcare AI",
         "Longevity",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Recruiting",
+        "Medical AI",
         "biomarker",
-        "中国",
+        "临床决策支持",
         "临床试验",
-        "乳腺癌",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "医疗 AI",
+        "衰老"
       ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale BREAST Cancers, PERCEIVE-BREAST"
+      "activitySignals": [],
+      "contextTitle": "Clinical Workflow Optimization Using Artificial Intelligence for Dermatological Conditions"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

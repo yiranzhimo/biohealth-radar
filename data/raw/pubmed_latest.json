@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-09T06:16:16.882377+00:00",
+  "capturedAt": "2026-10-09T13:28:40.076538+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,120 @@
     "end": "2026-10-09"
   },
   "pmids": [
+    "42851171",
+    "42850550",
+    "42850312",
+    "42850290",
     "42850087",
     "42849759",
-    "42849758",
-    "42849582",
-    "42849453",
-    "42849452",
     "42844355",
     "42818971",
     "42818106",
     "42816262",
     "42815472",
     "42804716",
+    "42850317",
     "42846248",
     "42842665",
     "42839711",
     "42834449",
     "42828399",
-    "42826717",
+    "42851375",
     "42849445",
     "42848264",
     "42848177",
     "42847935",
-    "42847792",
-    "42847779"
+    "42847792"
   ],
   "records": [
+    {
+      "pmid": "42851171",
+      "title": "On-Demand Generation of Patient-Derived Organoids for Precision Oncology: Progress and Prospects.",
+      "abstract": "Precision oncology has become a focus of both clinical practice and basic research. With the rapid evolution of organoid culture techniques and the integration of biomedical engineering approaches, patient-derived organoid (PDO) systems are playing an increasingly pivotal role in precision cancer therapy. By recapitulating patient-specific tumor characteristics, these platforms demonstrate considerable potential for clinical translation. Despite remarkable progress, the impact of PDO models on real-world therapeutic decision-making remains limited. Most existing studies have focused on preclinical concept validations or small-scale trials, leaving a substantial gap before these models can be implemented to guide individualized cancer therapy. This review examines on-demand PDO generation through the selection of sample-processing methods, matrices, and platform architectures matched to specific treatment-response questions. We compare conventional and engineered systems in terms of biological complexity, sample requirements, reported timelines, assay readouts, and clinical evidence. Particular attention is given to engineering trade-offs and the distinction between technical feasibility, clinical response correlation, and demonstrated utility in treatment selection.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Radiation Oncology, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+      ],
+      "doi": "10.1002/adhm.71817",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851171/"
+    },
+    {
+      "pmid": "42850550",
+      "title": "An Organoid-Based Assay for Evaluating Oxidative Stress-Reactive Fluorescent Probes Using the CERO 3D Bioreactor in a Mouse Hepatic Oxidative Injury Model.",
+      "abstract": "Oxidative stress is a central driver of acute liver injury, and protein carbonylation and lipid aldehyde formation are among its most direct chemical signatures. Most carbonyl-reactive fluorescent probes have been characterized only in two-dimensional culture, and their behavior in three-dimensional tissue is often unclear. Here we describe a protocol for evaluating carbonyl-reactive fluorescent probes in mouse hepatic organoids grown in suspension in the CERO 3D bioreactor, using acetaminophen (APAP) overdose as a well-established model of acute oxidative liver injury. We demonstrate the assay with P7-Hz, a hydrazine-based probe that reacts with carbonyl groups on oxidatively damaged proteins and lipids to form the fluorescent hydrazone product P7-Hz-Ali. The protocol covers organoid culture and maintenance, APAP dosing to induce injury, probe incubation (labeling), and imaging-based quantification of the fluorescence signal as a readout of carbonylation, together with co-staining viability to distinguish probe-specific signal from cytotoxicity. Although P7-Hz is used as the demonstration probe, the same workflow accommodates other carbonyl-reactive probes whose hydrazone (or analogous) product is spectroscopically distinguishable from the unreacted probe, providing a reproducible three-dimensional platform for probe validation.",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, College of Science, Institute for Advanced Biomedical Research, George Mason University, Manassas, VA, USA.",
+        "Department of Chemistry and Biochemistry, College of Science, Institute for Advanced Biomedical Research, George Mason University, Manassas, VA, USA. odilek@gmu.edu."
+      ],
+      "doi": "10.1007/7651_2026_722",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850550/"
+    },
+    {
+      "pmid": "42850312",
+      "title": "Alzheimer's disease target and drug discovery by leveraging multiomics and electronic health data.",
+      "abstract": "Despite prolific genomic data from individuals with Alzheimer's disease (AD), translation into treatments has lagged. Here we applied Mendelian randomization to multiple AD genome-wide association studies and functional multiomics datasets to nominate druggable targets, identifying 19 targets for individuals of European ancestry and 7 for African ancestry. This included epoxide hydrolase 2 (EPHX2), for which we identified a protective missense variant (p.Arg287Gln). Experiments in induced pluripotent stem cell-derived neurons and cerebral organoids from patients with AD validated the protective role of p.Arg287Gln via reduced levels of EPHX2 and phosphorylated tau (pTau-181). Pharmacological inhibition of EPHX2 improved cognitive performance in the 5xFAD mouse model of AD. Finally, by leveraging electronic health data from 111,680 patients with mild cognitive impairment, we identified 12 drugs associated with reduced AD incidence, including trazodone (targeting ADRA1A) and baclofen (targeting GABBR1). Thus, integrating multiomics data, functional validation and electronic health data identifies new approaches for treating AD.",
+      "journal": "Nature neuroscience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.",
+        "Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH, USA.",
+        "Department of Biostatistics and Health Data Science, Indiana University, Indianapolis, IN, USA.",
+        "Department of Pharmacology and Toxicology, University of Mississippi Medical Center, Jackson, MS, USA.",
+        "Department of Entomology and Nematology, UCDMC Comprehensive Cancer Center, University of California, Davis, Davis, CA, USA.",
+        "Lou Ruvo Center for Brain Health, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA.",
+        "AI for Accelerated Healthcare and Life Sciences Department, IBM Research - Israel, Haifa, Israel.",
+        "Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "Cleveland Institute for Computational Biology and Department of Population and Quantitative Health Sciences, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+        "Center for Innovative Proteomics, Cornell University, Ithaca, NY, USA.",
+        "Department of Computational Biology, Cornell University, Ithaca, NY, USA.",
+        "EicOsis Human Health, Subsidiary of EicOsis, Davis, CA, USA.",
+        "Brain Health Medicines Center, Harrington Discovery Institute, University Hospitals Cleveland Medical Center, Cleveland, OH, USA.",
+        "Department of Psychiatry, Case Western Reserve University, Cleveland, OH, USA.",
+        "Geriatric Psychiatry, GRECC, Louis Stokes Cleveland VA Medical Center, Cleveland, OH, USA.",
+        "Institute for Transformative Molecular Medicine, School of Medicine, Case Western Reserve University, Cleveland, OH, USA.",
+        "Department of Neurosciences, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+        "Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",
+        "Chambers-Grundy Center for Transformative Neuroscience, Department of Brain Health, Kirk Kerkorian School of Medicine, University of Nevada, Las Vegas, Las Vegas, NV, USA.",
+        "Cleveland Clinic Genome Center, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+        "Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. chengf@ccf.org.",
+        "Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH, USA. chengf@ccf.org."
+      ],
+      "doi": "10.1038/s41593-026-02472-0",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850312/"
+    },
+    {
+      "pmid": "42850290",
+      "title": "HAMNO and CGK733 as BRCAness-driven candidates exhibit synthetic lethality with olaparib in BRCA-proficient ovarian cancer.",
+      "abstract": "Olaparib has low efficacy against BRCA-proficient ovarian cancer (OC); improving the efficacy of olaparib is expected to improve the prognosis of OC. In clinical practice, some BRCA-proficient cancers, similar to tumors with BRCA mutations, are sensitive to poly ADP‒ribose polymerase inhibitors (PARPis), a phenomenon known as BRCAness. This study aimed to identify BRCAness-inducing inhibitors that enhance olaparib antitumor efficacy in BRCA-proficient OC using patient-derived organoids (PDOs). We screened 28 inhibitors and evaluated their therapeutic value in combination with olaparib. Ultimately, an RPA70 inhibitor (HAMNO) and an ATR inhibitor (CGK733) significantly increased olaparib toxicity without causing major organ damage in mice. Mechanistically, HAMNO inhibits RPA70 binding to single-strand DNA (ssDNA) and hinders the recruitment of RAD51 at DNA double-strand breaks (DSBs), impairing homologous recombination repair (HRR). CGK733 induced BRCAness by blocking ATR function. Furthermore, the combination therapy with Olaparib was highly effective at inducing G2 phase arrest and inhibiting HRR. In addition, high RPA70 and ATR expression was found to indicate a poor prognosis in OC patients according to data from the Kaplan-Meier plotter database and clinical data from our center. In conclusion, our work provides an innovative approach for improving the therapeutic effect of olaparib on BRCA-proficient OC.",
+      "journal": "NPJ precision oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecology, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
+        "Department of Gynecology, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China. jiangyi@jsph.org.cn.",
+        "Department of Gynecology, The First Affiliated Hospital of Nanjing Medical University, Nanjing, China. chengwenjun@jsph.org.cn."
+      ],
+      "doi": "10.1038/s41698-026-01627-3",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850290/"
+    },
     {
       "pmid": "42850087",
       "title": "Per-oral pancreatoscopy-guided pancreatic duct biopsy collection in chronic pancreatitis patients allows culture of organoids suitable for assessing CFTR function.",
@@ -72,88 +160,6 @@
       "doi": "10.1016/j.yfrne.2026.101288",
       "date": "2026-10-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849759/"
-    },
-    {
-      "pmid": "42849758",
-      "title": "Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.",
-      "abstract": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dimensional cell cultures and animal models fail to fully replicate the complex cellular architecture, multicellular interactions, and tissue-specific microenvironments in which senescence develops in vivo. Organoids, three-dimensional tissue models derived from pluripotent or adult stem cells, have emerged as physiologically relevant platforms that recapitulate selected aspects of human tissue organization, cellular diversity, and functional characteristics. These features make organoids well suited for investigating the mechanisms, dynamics, and pathological consequences of cellular senescence. In this review, we summarize recent advances in organoid-based models for senescence research, highlighting their physiological relevance, strategies for organoid generation, approaches for inducing and characterizing senescence, and their applications in modeling age-related diseases. We further discuss the emerging roles of organoids in senescence-targeted drug discovery, regenerative medicine, and precision therapeutics. While organoids provide experimentally tractable platforms for dissecting the biology of cellular senescence and accelerating the development of therapeutic strategies for aging and age-related diseases, their capacity to fully recapitulate the complexity of human aging remains limited. Future advances in vascularization, immune integration, multi-organ systems, spatial multi-omics, and artificial intelligence-assisted analyses may help address these limitations and further enhance the physiological relevance and translational potential of organoid-based models.",
-      "journal": "Ageing research reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan 430079, China.",
-        "Institute of Hydrobiology, Chinese Academy of Sciences, No. 7 Donghu South Road, Wuchang District, Wuhan 430072, Hubei, China.",
-        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University; Department of Oral Implantology, School and Hospital of Stomatology, Wuhan University.",
-        "Department of Stomatology, The People's Hospital of Baoan Shenzhen, The Second Affiliated Hospital of Shenzhen University, No. 118 Longjing Road, Baoan District, Shenzhen, Guangdong 518101,China.",
-        "Fujian Key Laboratory of Oral Diseases & Stomatological Key Laboratory of Fujian College and University & Fujian Provincial Engineering Research Center of Oral Biomaterial, School and Hospital of Stomatology, Fujian Medical University, China.",
-        "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, 430075, PR China; Center for Prosthodontics and Implant Dentistry, Optics Valley Branch, School and Hospital of Stomatology, Wuhan University, Wuhan, 430223, PR China."
-      ],
-      "doi": "10.1016/j.arr.2026.103408",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849758/"
-    },
-    {
-      "pmid": "42849582",
-      "title": "Pharmacokinetic evaluation of inhaled formulations: from in vitro models to clinical assessment.",
-      "abstract": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as the essential link between formulation engineering and clinical efficacy throughout the development and translation of inhaled products. However, current literature often focuses on isolated development stages and lacks a holistic perspective. This review provides a comprehensive overview of PK evaluation methodologies by establishing a systematic framework that integrates in vitro models, in vivo animal studies, clinical assessments, and computational simulations. The discussion covers in vitro and ex vivo systems, including subcellular fractions, cell lines, and emerging organ-on-a-chip technologies for characterizing pulmonary metabolism and transport. It evaluates various animal models, from rodents to non-human primates, for PK screening and dose extrapolation while detailing administration techniques. At the clinical level, the review explains how systemic PK analysis, 3D imaging, and local sampling methods are combined to quantify regional deposition and effective lung exposure. Additionally, the regulatory and translational value of physiologically based pharmacokinetic (PBPK) modeling is highlighted for data integration and bioequivalence assessment. Overall, PK evaluation for inhaled formulations is inherently multidimensional and complex. Future research should prioritize the development of integrated evaluation systems that bridge the gaps between individual models. The integration of artificial intelligence and machine learning is expected to transform aerosol deposition prediction and personalized PBPK modeling, ultimately accelerating the clinical translation of inhaled therapies.",
-      "journal": "International journal of pharmaceutics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China. Electronic address: renchang_hazel@hotmail.com.",
-        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China.",
-        "Yantai Key Laboratory of Nanomedicine & Advanced Preparations, Yantai Institute of Pharmaceutical Science, Yantai 264000, China.",
-        "Clinical Pharmacokinetics Laboratory, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing 211198, China. Electronic address: lab@hotmail.com.",
-        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Institute of Materia Medica, Chinese Academy of Medical Sciences & Peking Union Medical College Beijing 100050, China. Electronic address: dugh@imm.ac.cn.",
-        "State Key Laboratory of Antiviral Drugs, School of Pharmacy, Henan University, Kaifeng 475004, China; Henan Province Engineering Research Center of High Value Utilization to Natural Medical Resource in Yellow River Basin, School of Pharmacy, Henan University, Kaifeng 475004, China; Kaifeng Key Lab for Application of Local Chrysanthemum Morifolium in Food & Drug, Kaifeng 475004, China; Institutes of Traditional Chinese Medicine, Henan University, Kaifeng 475004, China. Electronic address: hang@henu.edu.cn."
-      ],
-      "doi": "10.1016/j.ijpharm.2026.127506",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849582/"
-    },
-    {
-      "pmid": "42849453",
-      "title": "Characterization of structural variants in KOLF2.1J iPSCs and their potential impact on forebrain organoid differentiation.",
-      "abstract": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neuronal differentiation. Here, we identified 37 additional SVs using long-read sequencing and optical genome mapping. Additionally, we found that one of the known SVs contained a previously undetected overlap with RYBP, a neurodevelopmental gene. To assess the functional consequences of these SVs, we performed single-cell RNA sequencing of day 90 forebrain organoids derived from KOLF2.1J and two independent control iPSC lines. While cell-type composition was preserved, multiple SV-affected genes were differentially expressed and cell-cell adhesion and synapse-related processes were enriched in KOLF2.1J organoids. These findings highlight the importance of robust genetic characterization and multi-line validation for reliable iPSC-based modeling.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany.",
-        "The Heidelberg Academy of Sciences and Humanities, Heidelberg, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; International Max Planck Research School, Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
-        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
-        "The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA.",
-        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
-        "Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; International Max Planck Research School, Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany; Graduate Training Centre of Neuroscience, University of Tübingen, Tübingen, Germany.",
-        "Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany.",
-        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA. Electronic address: bschuele@stanford.edu.",
-        "Zoological Institute, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany; The Heidelberg Academy of Sciences and Humanities, Heidelberg, Germany; Hertie Institute for Clinical Brain Research, University of Tübingen, Tübingen, Germany; Institute of Biological and Chemical Systems - Functional Molecular Systems, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany. Electronic address: simone.mayer@kit.edu.",
-        "The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA; Department of Genetics and Genome Sciences, University of Connecticut Health Center, Farmington, CT, USA; Institute for Systems Genomics, University of Connecticut, Storrs, CT, USA. Electronic address: christine.beck@jax.org."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103112",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849453/"
-    },
-    {
-      "pmid": "42849452",
-      "title": "Human spinal cord organoids recapitulate developmental and disease-associated oligodendrocyte lineage signatures.",
-      "abstract": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling the study of disease-relevant states remain limited. Here, we establish human spinal cord organoids (hSpO) and cortico-motor assembloids as platforms to model oligodendrocyte development, neuron-glia interactions, and cytokine-induced dysfunction. We show that hSpO generate oligodendrocyte lineage populations that transcriptionally resemble the developing human spinal cord, and oligodendrocyte progenitor cells (OPCs) that exhibit physiologically relevant behaviors, including migration and monosynaptic neuronal input. Exposure of assembloids to pro-inflammatory cytokines induces transcriptional changes across the oligodendrocyte lineage, characterized by altered lineage progression and acquisition of disease-associated gene expression programs that mirror signatures observed in tissues from patients with multiple sclerosis (MS). Together, this work establishes hSpO and assembloids as in vitro systems for studying oligodendrocyte lineage development and disease-associated states in a human multicellular context.",
-      "journal": "Stem cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA.",
-        "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, USA; Goizueta Brain Health Institute Center for Neurodegenerative Diseases, Emory University School of Medicine, Atlanta, GA, USA; Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA; Children's Center for Neuroscience Research, Emory University School of Medicine, Atlanta, GA, USA. Electronic address: jimena.andersen@emory.edu."
-      ],
-      "doi": "10.1016/j.stemcr.2026.103114",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849452/"
     },
     {
       "pmid": "42844355",
@@ -250,6 +256,22 @@
       "doi": "10.1093/bioinformatics/btag727",
       "date": "2026-09-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42804716/"
+    },
+    {
+      "pmid": "42850317",
+      "title": "Integrative Approaches in Protein Structure/Function Analysis, Design, and Engineering.",
+      "abstract": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence. Enabled by strategies such as directed evolution, structure/function analysis, and (semi-)rational design, engineered enzymes can now accommodate nonnatural substrates, catalyze novel reactions, and operate under harsh conditions including elevated temperatures and organic solvents.This chapter provides a comprehensive overview of major strategies in protein design including directed evolution, rational design, and semi-rational design. Emphasis is placed on recent advances in high-throughput screening technologies, identification of functionally critical residues, and optimization of site-specific mutations. Furthermore, the integration of artificial intelligence and multiscale modeling to enzyme design is discussed, highlighting data-driven decision-making and deep learning-assisted prediction of enzymatic performance. Looking forward, biocatalysis is poised to further expand its applications in valorization of renewable resources, biofuels, and synthetic chemistry. Powered by ongoing advances in AI and computational protein design, the development of enzymes with unprecedented catalytic functions is anticipated to accelerate rapidly.",
+      "journal": "Advances in biochemical engineering/biotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology, Tianjin, China. sunzht@tib.cas.cn.",
+        "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology, Tianjin, China."
+      ],
+      "doi": "10.1007/10_2026_369",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850317/"
     },
     {
       "pmid": "42846248",
@@ -351,22 +373,35 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42828399/"
     },
     {
-      "pmid": "42826717",
-      "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
-      "abstract": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models. However, most models do not account for experimental noise inherent in these datasets, thereby harming model performance. Here, we develop fitness landscape inference generated by high-throughput experimental data (FLIGHTED), a Bayesian method of accounting for uncertainty by generating probabilistic fitness landscapes from noisy experiments. We demonstrate how FLIGHTED can improve model performance on two experiments: single-step selection assays, such as phage display, and a high-throughput assay that ties activity to base editing. We compare the performance of standard ML models on fitness landscapes with and without FLIGHTED. Accounting for noise statistically significantly improves model performance. Based on our new benchmarking with FLIGHTED, data size, not model scale, is limiting protein fitness model performance. Our results indicate that FLIGHTED can be applied to any high-throughput assay and any ML model, making it straightforward for protein designers to account for noise.",
-      "journal": "Cell systems",
+      "pmid": "42851375",
+      "title": "Case Report: Discordance between RNA-identified ETV6::RET and clinically reportable DNA profiling in salivary gland secretory carcinoma.",
+      "abstract": "Secretory carcinoma of the salivary gland is a rare, fusion-driven malignancy in which kinase fusions can serve as therapeutic targets. We report a patient with an ETV6::RET-positive tumor who achieved a complete response to pralsetinib and subsequently developed resistance. Research whole-transcriptome sequencing (WTS) of the resistant lesion identified an expressed in-frame ETV6::RET transcript retaining the RET kinase domain, with 300 and 196 split reads at the two breakpoints and three discordant mate pairs; research whole-exome sequencing provided limited concordant DNA-level support. A clinically approved targeted DNA-based comprehensive genomic profiling assay applied to material from the same lesion detected RET intron 11 and ETV6 intron 6 rearrangement signals but did not report actionable ETV6::RET or RET p.L730V. Under the Japanese regulatory framework applicable when selpercatinib was considered, an approved in vitro diagnostic or medical device was required to confirm a RET fusion for non-lung, non-thyroid solid tumors. Research WTS did not constitute an approved companion diagnostic result, and the approved DNA report did not establish an actionable ETV6::RET finding; selpercatinib was therefore not initiated. When DNA profiling yields unresolved rearrangement signals, a clinically validated RNA-based fusion assay and an appropriate regulatory framework for treatment selection may improve access to matched therapy.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
+        "Case Reports",
         "Journal Article"
       ],
       "affiliations": [
-        "Computational and Systems Biology Program, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: vsundar@generatebiomedicines.com.",
-        "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA.",
-        "Computational and Systems Biology Program, Massachusetts Institute of Technology, Cambridge, MA, USA.",
-        "Media Lab, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: esvelt@mit.edu."
+        "Department of Clinical Oncology, Kansai Medical University Hospital, Hirakata, Osaka, Japan.",
+        "Department of the Promotion of Drug and Diagnostic Development, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
+        "Department of Head and Neck Medical Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
+        "Department of Otorhinolaryngology, Head and Neck Surgery, Kansai Medical University, Hirakata, Japan.",
+        "Department of Clinical Oncology, Aichi Cancer Center Hospital, Nagoya, Aichi, Japan.",
+        "Department of Medical Oncology, Kochi Medical School, Kochi University, Nankoku, Kochi, Japan.",
+        "Department of Medical Oncology, Kobe City Medical Center General Hospital, Kobe, Hyogo, Japan.",
+        "Department of Medical Oncology, Kanazawa University Hospital, Kanazawa, Ishikawa, Japan.",
+        "Department of Medical Oncology, Hokkaido University Hospital, Sapporo, Hokkaido, Japan.",
+        "Department of Medical Oncology, Osaka International Cancer Institute, Osaka, Japan.",
+        "Department of Head and Neck Surgery, Central Japan International Medical Center, Minokamo, Gifu, Japan.",
+        "Division of Translational Informatics, Exploratory Oncology Research and Clinical Trial Center, National Cancer Center, Kashiwa, Chiba, Japan.",
+        "Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
+        "Department of Gastrointestinal Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
+        "Caris Life Sciences, Phoenix, AZ, United States.",
+        "Department of Otorhinolaryngology, The Jikei University School of Medicine, Minato-ku, Tokyo, Japan."
       ],
-      "doi": "10.1016/j.cels.2026.101739",
-      "date": "2026-10-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826717/"
+      "doi": "10.3389/fonc.2026.1967793",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851375/"
     },
     {
       "pmid": "42849445",
@@ -454,30 +489,131 @@
       "doi": "10.4142/jvs.25370",
       "date": "2026-09-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847792/"
-    },
-    {
-      "pmid": "42847779",
-      "title": "Deconformer: efficient cell-type composition profiling of cfRNA across diverse cell types.",
-      "abstract": "Resolving cell-type contributions in cell-free RNA (cfRNA) profiles is important for liquid-biopsy research, but profiling many potential cellular sources remains computationally challenging. Here, we present Deconformer, a biologically informed deep-learning framework that integrates pathway knowledge into a Transformer architecture to estimate relative cfRNA contributions across 60 major human cell types. In systematic benchmarks using cross-platform simulations selected for similarity to real plasma cfRNA, Deconformer showed improved robustness from pathway-informed modeling and achieved competitive accuracy with substantially lower computational cost than established deconvolution methods. Applied to real cfRNA cohorts, it recapitulated known gestational trajectories and detected disease-associated composition shifts, supporting its use as a practical framework for large-scale cfRNA profiling.",
-      "journal": "Briefings in bioinformatics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Life Sciences, University of Chinese Academy of Sciences, Yuquan Road, Shijingshan District, Beijing 100049, Beijing, China.",
-        "State Key Laboratory of Genome and Multi-omics Technologies, BGI Research, Yunhua Road, Yantian District, Shenzhen 518083, Guangdong, China.",
-        "Faculty of Psychology, Beijing Normal University, Xinjiekouwai Street, Haidian District, Beijing 100875, Beijing, China.",
-        "Obstetrics Department, Shenzhen Maternity and Child Healthcare Hospital, Hongli Road, Futian District, Shenzhen 518028, Guangdong, China.",
-        "College of Life Science, Northeast Forestry University, Hexing Road, Xiangfang District, Harbin 150040, Heilongjiang, China.",
-        "College of Life Sciences, Nankai University, Weijin Road, Nankai District, Tianjin 300071, Tianjin, China.",
-        "Shenzhen Key Laboratory of Transomics Biotechnologies, BGI Research, Yunhua Road, Yantian District, Shenzhen 518083, Guangdong, China."
-      ],
-      "doi": "10.1093/bib/bbag544",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847779/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42851171",
+      "date": "2026-10-09",
+      "title": "On-Demand Generation of Patient-Derived Organoids for Precision Oncology: Progress and Prospects.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851171/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42851171。",
+      "report": "Precision oncology has become a focus of both clinical practice and basic research. With the rapid evolution of organoid culture techniques and the integration of biomedical engineering approaches, patient-derived organoid (PDO) systems are playing an increasi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42850550",
+      "date": "2026-10-09",
+      "title": "An Organoid-Based Assay for Evaluating Oxidative Stress-Reactive Fluorescent Probes Using the CERO 3D Bioreactor in a Mouse Hepatic Oxidative Injury Model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850550/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Methods in molecular biology (Clifton, N.J.)，PMID 为 42850550。",
+      "report": "Oxidative stress is a central driver of acute liver injury, and protein carbonylation and lipid aldehyde formation are among its most direct chemical signatures. Most carbonyl-reactive fluorescent probes have been characterized only in two-dimensional culture,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42850317",
+      "date": "2026-10-09",
+      "title": "Integrative Approaches in Protein Structure/Function Analysis, Design, and Engineering.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850317/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advances in biochemical engineering/biotechnology，PMID 为 42850317。",
+      "report": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence....",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42850312",
+      "date": "2026-10-08",
+      "title": "Alzheimer's disease target and drug discovery by leveraging multiomics and electronic health data.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850312/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature neuroscience，PMID 为 42850312。",
+      "report": "Despite prolific genomic data from individuals with Alzheimer's disease (AD), translation into treatments has lagged. Here we applied Mendelian randomization to multiple AD genome-wide association studies and functional multiomics datasets to nominate druggabl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42849759",
       "date": "2026-10-08",
@@ -505,138 +641,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroendocrinology，PMID 为 42849759。",
       "report": "Thyroid hormones (THs) are essential regulators of brain development known for their roles in neuronal proliferation, migration, differentiation, and maturation. However, brain development relies on coordinated interactions among neural, glial, vascular, and e...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42849758",
-      "date": "2026-10-08",
-      "title": "Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849758/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Ageing research reviews，PMID 为 42849758。",
-      "report": "Cellular senescence, characterized by irreversible cell cycle arrest and the acquisition of a senescence-associated secretory phenotype (SASP), is a fundamental hallmark of aging and a key driver of numerous age-related diseases. However, conventional two-dime...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42849582",
-      "date": "2026-10-08",
-      "title": "Pharmacokinetic evaluation of inhaled formulations: from in vitro models to clinical assessment.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849582/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42849582。",
-      "report": "Pulmonary drug delivery systems (PDDS) represent a strategic approach for the localized treatment of respiratory diseases and the systemic administration of biotherapeutics due to their unique physiological advantages. Pharmacokinetic (PK) evaluation serves as...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42849453",
-      "date": "2026-10-08",
-      "title": "Characterization of structural variants in KOLF2.1J iPSCs and their potential impact on forebrain organoid differentiation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849453/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849453。",
-      "report": "The KOLF2.1J human induced pluripotent stem cell (iPSC) line was created as a reference for neurological disease modeling. Previous genotyping efforts identified several large structural variants (SVs), raising questions about their potential impact on neurona...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42849452",
-      "date": "2026-10-08",
-      "title": "Human spinal cord organoids recapitulate developmental and disease-associated oligodendrocyte lineage signatures.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849452/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42849452。",
-      "report": "Oligodendrocytes play essential roles in central nervous system development and homeostasis, and their dysfunction is a hallmark of numerous neurological disorders. However, human in vitro systems that support oligodendrocyte lineage progression while enabling...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -848,35 +852,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42826717",
-      "date": "2026-10-02",
-      "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826717/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell systems，PMID 为 42826717。",
-      "report": "Machine learning (ML) for protein design requires large protein fitness datasets generated by high-throughput experiments for training and benchmarking models. However, most models do not account for experimental noise inherent in these datasets, thereby harmi...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42844355",
       "date": "2026-10-01",
       "title": "Generalizable perturbation prediction.",
@@ -1037,6 +1012,42 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42851375",
+      "date": "2026-09-24",
+      "title": "Case Report: Discordance between RNA-identified ETV6::RET and clinically reportable DNA profiling in salivary gland secretory carcinoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851375/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42851375。",
+      "report": "Secretory carcinoma of the salivary gland is a rare, fusion-driven malignancy in which kinase fusions can serve as therapeutic targets. We report a patient with an ETV6::RET-positive tumor who achieved a complete response to pralsetinib and subsequently develo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42846248",
       "date": "2026-09-23",
       "title": "Contributions of aquatic organisms to understanding the vertebrate ocular lens.",
@@ -1160,29 +1171,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42847779",
-      "date": "2026-09-01",
-      "title": "Deconformer: efficient cell-type composition profiling of cfRNA across diverse cell types.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42850290",
+      "date": "2026-07-24",
+      "title": "HAMNO and CGK733 as BRCAness-driven candidates exhibit synthetic lethality with olaparib in BRCA-proficient ovarian cancer.",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42847779/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850290/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech"
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "biotech"
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42847779。",
-      "report": "Resolving cell-type contributions in cell-free RNA (cfRNA) profiles is important for liquid-biopsy research, but profiling many potential cellular sources remains computationally challenging. Here, we present Deconformer, a biologically informed deep-learning...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 NPJ precision oncology，PMID 为 42850290。",
+      "report": "Olaparib has low efficacy against BRCA-proficient ovarian cancer (OC); improving the efficacy of olaparib is expected to improve the prognosis of OC. In clinical practice, some BRCA-proficient cancers, similar to tumors with BRCA mutations, are sensitive to po...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
