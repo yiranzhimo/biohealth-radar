@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-10T05:59:21.500099+00:00",
+  "capturedAt": "2026-10-10T12:39:30.312482+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-10"
   },
   "pmids": [
+    "42856031",
+    "42855629",
+    "42855540",
+    "42855494",
     "42854875",
     "42854759",
-    "42853997",
-    "42853963",
-    "42853943",
-    "42853928",
     "42852178",
     "42844355",
     "42818971",
@@ -32,14 +32,102 @@
     "42846248",
     "42842665",
     "42839711",
+    "42855733",
+    "42855461",
     "42855393",
     "42853260",
     "42853038",
-    "42852637",
-    "42851436",
-    "42851375"
+    "42852637"
   ],
   "records": [
+    {
+      "pmid": "42856031",
+      "title": "Silicate Biomaterials-Stimulated Vascularized Callus Organoids for Bone Tissue Regeneration.",
+      "abstract": "Organoids that recapitulate native fracture callus can form spontaneous ossification centers within a bone defect, offering substantial promise for rapid bone regeneration. However, existing callus organoids generally lack a functional vascular network and an appropriate mechanical microenvironment, and their production limits scalability and uniformity. Here, we established a droplet-based microfluidic platform for the high-throughput generation of morphology-dependent magnesium silicate-engineered composite hydrogel microspheres, enabling the uniform construction of vascularized callus organoids. Importantly, morphology-dependent magnesium silicate could regulate both the bulk mechanical performance and internal stress distribution of the composite hydrogels. In vitro, callus organoids modulated by magnesium silicate nanotubes significantly promoted chondrogenic and osteogenic differentiation, developed a stable endothelial network and mineralized structure. Furthermore, magnesium silicate nanotube-engineered composite hydrogel (2NT-GM) offered a favorable mechanical microenvironment for callus organoids, thereby activating the mechanotransduction-related pathway for promoting the development of organoids. In a rat femoral condyle critical-sized defect model, the vascularized callus organoids regulated by 2NT-GM were further found to significantly promote vascular network formation, and facilitate bone regeneration at the bone defect center within 6 weeks of implantation. Together, this study suggests a promising strategy for bone tissue regeneration by developing vascularized callus organoids with the stimulation of inorganic silicate biomaterials.",
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of High Performance Ceramics, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai, People's Republic of China.",
+        "Center of Materials Science and Optoelectronics Engineering, University of Chinese Academy of Sciences, Beijing, People's Republic of China.",
+        "Suzhou Institute of Biomedical Engineering and Technology, Chinese Academy of Sciences, Suzhou, People's Republic of China."
+      ],
+      "doi": "10.1002/adma.75339",
+      "date": "2026-10-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856031/"
+    },
+    {
+      "pmid": "42855629",
+      "title": "Microfluidics to assess the impact of transfused blood components.",
+      "abstract": "Assessing the function of transfused blood components within the dynamic environment of the vascular system remains challenging, as conventional assays are largely static and poorly represent the dynamic mechanical and biochemical interactions between blood cells and the vessel wall. Microfluidic approaches, which study blood flow within small-scale channels, provide an opportunity to bridge this gap by introducing physiologically relevant flow and shear rates into experimental models. This review synthesises the current literature describing the application of microfluidic technologies to the assessment of transfused blood components, with particular emphasis on platelet concentrates, red cell concentrates and plasma-derived products. Across existing studies, microfluidic models have demonstrated differences in component function related to storage conditions, manufacturing methods and emerging transfusion products that are not always detected using conventional bulk assays. These approaches have provided new insights into platelet haemostasis at defined shear rates, red cell deformability and gas exchange, and plasma-mediated coagulation in trauma and critical illness. However, substantial diversity in device design, experimental conditions and analytical endpoints limits direct comparison between studies and constrains translation into routine practice. The development of more standardised platforms, alongside integration with endothelialised and organ-on-a-chip models, may help to overcome these challenges. Overall, microfluidics represents a promising tool for improving functional assessment of blood components and supporting future advances in transfusion medicine research and personalised transfusion strategies.",
+      "journal": "Transfusion medicine (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Component Development and Research Laboratory, Welsh Blood Service, Pontyclun, UK."
+      ],
+      "doi": "10.1111/tme.70124",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855629/"
+    },
+    {
+      "pmid": "42855540",
+      "title": "Power-law scaling of mitotic spindles with genome sizes across eukaryotes is driven by chromosome crowding.",
+      "abstract": "Genome size varies more than 10,000-fold across eukaryotes, yet how the mitotic spindle adapts to this range remains unknown. Here we show that metaphase plate width scales with genome size following a power law with an exponent of ~1/3 across eukaryotes. Comparative analysis and a physical model reveal that this scaling arises from the linear relationship between total chromosome volume and genome size, with chromosome number playing a secondary role. The same scaling holds across ploidy levels in cell lines, patient-derived cancer organoids and meiotic systems. Physical model and acute spindle compression demonstrate that chromosome crowding generates interchromosome pushing forces that set metaphase plate width. By contrast, spindle length is regulated by microtubule dynamics, cytoplasmic forces and cell size, indicating that spindle dimensions are independently controlled. The revealed scaling law provides a robust mechanism for accommodating large genomic variation and offers insight into the evolution of open mitosis and mitotic cell rounding, as well as polyploidy tolerance in tumours and during speciation.",
+      "journal": "Nature cell biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Molecular Biology, Ruđer Bošković Institute, Zagreb, Croatia.",
+        "Doctoral study of Biophysics, Faculty of Science, University of Split, Split, Croatia.",
+        "Department of Physics, University of Zagreb, Zagreb, Croatia.",
+        "Department of Mathematics, University of Zagreb, Zagreb, Croatia.",
+        "Department of Molecular Genetics, RPTU Kaiserslautern-Landau, Kaiserslautern, Germany.",
+        "Oncode Institute, Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences, University Medical Center Utrecht, Utrecht, the Netherlands.",
+        "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.",
+        "Department of Physics, University of Zagreb, Zagreb, Croatia. npavin@phy.hr.",
+        "Division of Molecular Biology, Ruđer Bošković Institute, Zagreb, Croatia. tolic@irb.hr."
+      ],
+      "doi": "10.1038/s41556-026-02005-8",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855540/"
+    },
+    {
+      "pmid": "42855494",
+      "title": "Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution.",
+      "abstract": "As the seat of our cognition, the human neocortex is an object of immense fascination. Human neocortex expansion during evolution has been attributed to an increase in the proliferative capacity of neural progenitor cells during development, particularly basal radial glia. Despite their evolutionary relevance, the genomic changes driving human basal radial glia biology remain uncharacterised. We use comparative chromatin and transcriptional profiling of neural progenitor cells isolated from gorilla, chimpanzee and human cerebral organoids to identify cis-regulatory elements that have gained activity in humans. Focusing specifically on basal radial glia, we discover that morphoregulatory enhancer activity and gene expression signatures distinguish human basal radial glia from other great apes. Functional analysis of the morphoregulatory genes FAM107A and CNGA3 in human organoids reveals that these genes contribute to the morphological complexity of human basal radial glia. Taken together, our inter-species comparison of basal radial glia suggests that human-specific morphoregulatory signatures characterise neocortex evolution.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Regenerative Therapies TU Dresden, TUD Dresden University of Technology, Dresden, Germany.",
+        "Research Unit Brain Epigenomics, Helmholtz Center Munich, Munich, Germany.",
+        "Human Technopole, Milan, Italy.",
+        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Cambridge, UK.",
+        "Department of Pediatric Hematology and Oncology, University Hospital Dresden, Dresden, Germany.",
+        "Department of Translational Medical Oncology, National Center for Tumor Diseases Dresden, a partnership between DKFZ, Faculty of Medicine of the Technische Universität Dresden, University Hospital Carl Gustav Carus Dresden, and Helmholtz-Zentrum Dresden - Rossendorf, Dresden, Germany.",
+        "Neuroscience Center, HiLIFE - Helsinki Institute of Life Science, University of Helsinki, Helsinki, Finland.",
+        "Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.",
+        "DRESDEN-concept Genome Center, Center for Molecular and Cellular Bioengineering Technology Platform, TUD Dresden University of Technology, Dresden, Germany.",
+        "Department of Gynaecology and Obstetrics, Technische Universität Dresden, Dresden, Germany.",
+        "National Center for Tumor Diseases, Dresden, Germany.",
+        "Department of Obstetrics and Gynecology, University Hospital of Heidelberg, Heidelberg, Germany.",
+        "Department of Developmental Biology, Fujita Health University School of Medicine, Toyoake, Japan.",
+        "Division of Developmental Neurobiology, International Center for Brain Science (ICBS), Fujita Health University, Toyoake, Japan.",
+        "Leibniz Research Laboratories for Biotechnology and Artificial Organs, Department of Cardiothoracic, Transplantation and Vascular Surgery, Hannover Medical School, Hannover, Germany; REBIRTH-Cluster of Excellence, Hannover, Germany.",
+        "Centre for Developmental Neurobiology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK.",
+        "MRC Centre for Neurodevelopmental Disorders, King's College London, London, UK.",
+        "Center for Regenerative Therapies TU Dresden, TUD Dresden University of Technology, Dresden, Germany. mareike.albert@tu-dresden.de."
+      ],
+      "doi": "10.1038/s41467-026-78474-0",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855494/"
+    },
     {
       "pmid": "42854875",
       "title": "Altered cardiac progenitor transcriptional program accompanies NOS-associated DNA damage in a human Duchenne muscular dystrophy organoid model.",
@@ -74,92 +162,6 @@
       "doi": "10.1016/j.neures.2026.105137",
       "date": "2026-10-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854759/"
-    },
-    {
-      "pmid": "42853997",
-      "title": "Morganella morganii-derived histamine impairs intestinal barrier function via HRH4 and aggravates colitis.",
-      "abstract": "Pro-inflammatory dietary patterns are associated with an increased risk of Crohn's disease (CD) and shifts in the gut microbiota. Our previous multi-omics analysis had identified the enrichment of Morganella morganii (M. morganii) in both patients with CD and individuals consuming pro-inflammatory diets. In this study, we aimed to investigate the role and potential mechanisms by which M. morganii contributes to intestinal inflammation. Using murine models of colitis, mouse colon organoids, and epithelial cell systems, combined with metabolomic profiling and pharmacological interventions, we investigated the effects of M. morganii and its secreted metabolites on tight junction integrity and intestinal permeability. M. morganii aggravated colitis severity and induced a remarkable increase in intestinal permeability with disruption of tight junction architecture, including reduced occludin and zonula occludens-1 (ZO-1) expression and ultrastructural damage. These effects were predominantly mediated by the secreted low-molecular-weight metabolites rather than by bacterial invasion. Metabolomic analysis of the <3-kDa fraction of M. morganii culture supernatant identified histamine as a key bioactive molecule. Histamine recapitulated barrier disruption and colitis exacerbation in vivo. Pharmacological studies suggested that histamine-induced injury is mediated mainly through the histamine receptor H4 (HRH4) and that the inhibition of histamine synthesis significantly restored barrier integrity and alleviated colitis. These findings suggest a previously unrecognized pathway in which the diet-responsive pathobiont M. morganii may impair epithelial barrier integrity through histamine-HRH4 signaling. Targeting histamine synthesis and HRH4 may offer a potential therapeutic avenue worth further investigation.",
-      "journal": "Inflammatory bowel diseases",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Gastroenterology, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong 510080, China.",
-        "Department of Gastroenterology, Guangxi Hospital Division of The First Affiliated Hospital, Sun Yat-sen University, Nanning 530022, China.",
-        "Institute of Precision Medicine, The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong 510080, China."
-      ],
-      "doi": "10.1093/ibd/izag201",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853997/"
-    },
-    {
-      "pmid": "42853963",
-      "title": "Follicle-associated epithelial tuft cells amplify type 2 mucosal immunity and IgA production.",
-      "abstract": "Peyer's patches (PPs) in the intestinal mucosa coordinate antibody responses to luminal microbes and dietary antigens. The follicle-associated epithelium (FAE) is traditionally recognized by the presence of microfold cells (M cells) that mediate antigen sampling in PPs. By analyzing Gfi1b-eGFP reporter mice and human PP biopsies, we identified tuft cells as an additional, evolutionarily conserved FAE population that regulates mucosal immunity. Using mouse models and intestinal organoids, we demonstrate that M cells and tuft cells are distinct lineages arising from Pou2f3+ progenitors, whose differentiation is reciprocally regulated by RANKL and interleukin-13 (IL-13), respectively. Tuft cell-derived IL-25 activates type 2 innate lymphoid cells (ILC2s) in PPs. Furthermore, IL-13 production by ILC2 enhances immunoglobulin A class switching and antigen-specific immunity. These findings reveal a dual surveillance system in the FAE, where developmentally related epithelial lineages use distinct mechanisms to coordinate mucosal immunity.",
-      "journal": "Science immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Program in Immunology, Stanford University School of Medicine, Stanford, CA, USA.",
-        "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA.",
-        "Department of Immunology, University of Washington School of Medicine, Seattle, WA, USA.",
-        "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA.",
-        "Division of Pediatric Gastroenterology, Department of Pediatrics, Stanford University School of Medicine, Stanford, CA, USA."
-      ],
-      "doi": "10.1126/sciimmunol.aee1358",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853963/"
-    },
-    {
-      "pmid": "42853943",
-      "title": "Citron kinase activity controls alternative splicing events that drive prostate cancer growth.",
-      "abstract": "Prostate cancer (CaP) remains a major cause of cancer death in men, underscoring the need for mechanistically novel therapies. We previously identified the action of the mitotic kinase citron (CIT) kinase as a key driver of CaP progression and promising therapeutic target, but selective CIT inhibitors are not available. We therefore asked whether a better understanding of the action of CIT substrates, which execute CIT kinase action in CaP cells, can lead to novel approaches and/or alternative targets to indirectly interfere with CIT's activity during CaP progression. In view of the enrichment in functions in alternative splicing among CIT substrates, we focus on the RNA splicing regulator THRAP3 as a representative substrate. Direct THRAP3 phosphorylation by CIT determined THRAP3's RNA binding to CIT-controlled pre-messenger RNA targets. Cross-linking and immunoprecipitation sequencing identified a subset of CIT-dependent THRAP3-bound genes that were preferentially involved in cell proliferation. THRAP3 RNA binding was enriched in genes that undergo alternative splicing during CaP progression. CIT-dependent THRAP3-bound transcripts stimulated the growth of CaP cell lines, xenografts, patient-derived organoids, and patient-derived xenograft (PDX)-derived organoids, whereas CIT-independent THRAP3-bound transcripts from the same gene did not. An antisense oligo that blocks THRAP3's recruitment to a CIT-dependent RNA binding site prevented the production of CIT- and THRAP3-dependent transcripts and inhibited the growth of cell lines and PDX-derived organoids representing different CaP stages and lineages but not of benign cells. Thus, CIT-mediated alternative splicing drives CaP progression, and its inhibition is a new therapeutic strategy in treatment-resistant CaP.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Cancer Sciences, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH 44195, USA.",
-        "Department of Biostatistics and Bioinformatics, Roswell Park Comprehensive Cancer Center, Buffalo, NY 14623, USA.",
-        "Case Western Reserve University, Cleveland, OH 44106, USA.",
-        "School of Biomedical Sciences, Hunan University, Changsha 410082, China.",
-        "Center for Therapeutics Discovery, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH 44195, USA.",
-        "Vancouver Prostate Centre and Department of Urologic Sciences, University of British Columbia, Vancouver, Canada.",
-        "Department of Urology, University of Washington, Seattle, WA 98195, USA.",
-        "Department of Anatomic Pathology, Diagnostics Institute, Cleveland Clinic, Cleveland, OH 44195, USA.",
-        "Department of Urology, Integrated Surgical Institute, Cleveland Clinic, Cleveland, OH 44195, USA.",
-        "Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH 44106, USA."
-      ],
-      "doi": "10.1126/sciadv.aee5257",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853943/"
-    },
-    {
-      "pmid": "42853928",
-      "title": "Effects of probiotics on joint homeostasis and osteoarthritis: Development of microbe-gut-cartilage axis-on-a-chip.",
-      "abstract": "Although emerging evidence implicates gut microbiome-cartilage cross-talk in the pathogenesis of osteoarthritis (OA), the most common joint disease, studying this microbe-gut-joint axis remains challenging due to limitations of animal models and conventional in vitro systems. Here, we report a microbe-gut-cartilage axis-on-a-chip (MGCAoC) that recreates tissue-specific microenvironments with oxygen gradients and physiological fluid shear. The computer simulation-optimized chip design generates an anoxic-oxic interface for the gut module and enables perfusion of probiotic metabolites to human cartilage organoids without cross-contamination. Multiomics profiling suggested that probiotic metabolites may promote cartilage anabolism, potentially involving PI3K and MAPK pathway, and this effect was associated with up-regulated collagen type II and aggrecan expression while suppressing metalloproteinases. In inflamed cartilage organoids, these metabolites were associated with reduced proinflammatory signaling while preserving matrix integrity. The chondroprotective effects were confirmed using cartilage organoids derived from patients with OA treated with identified metabolites. This MGCAoC enables mechanistic investigation of gut-joint axis physiology and provides a versatile preclinical tool for screening probiotic-based OA therapeutics.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "InnoHK Center for Neuromusculoskeletal Restorative Medicine, Hong Kong Science Park, Hong Kong SAR, China.",
-        "Department of Orthopedic Surgery, Center for Orthopedic Surgery, The Third Affiliated Hospital, Southern Medical University, Guangzhou, China.",
-        "Department of Orthopaedic Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, China.",
-        "Department of Rehabilitation Medicine, The Third Affiliated Hospital, Southern Medical University, Guangzhou, Guangdong, China.",
-        "Institute of Digestive Disease and Department of Medicine and Therapeutics, The State Key Laboratory of Digestive Disease, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "Clinical Research Center, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China.",
-        "Clinical Research Centre, Beijing Tsinghua Changgung Hospital, Tsinghua Medicine, Tsinghua University, Beijing, China.",
-        "School of Biomedical Engineering, Tsinghua Medicine, Tsinghua University, Beijing, China.",
-        "Institute for Tissue Engineering and Regenerative Medicine, and School of Biomedical Sciences, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "Peter Hung Pain Research Institute, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China.",
-        "The State Key Laboratory of Digestive Disease, The Chinese University of Hong Kong, Hong Kong SAR, China."
-      ],
-      "doi": "10.1126/sciadv.aeg8557",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853928/"
     },
     {
       "pmid": "42852178",
@@ -363,6 +365,52 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42839711/"
     },
     {
+      "pmid": "42855733",
+      "title": "The immune phenotype of circulating tumor cells: from escape mechanisms to immunotherapy navigation.",
+      "abstract": "Circulating tumor cells (CTCs) must survive immune attack in the bloodstream before they can contribute to distant metastasis. Their immune phenotype, including checkpoint ligands, antigen-presentation molecules, and immunomodulatory features, can be assessed through serial blood sampling and may provide information complementary to established immunotherapy biomarkers. This review organizes CTC immune evasion across intravasation, circulatory transit, and colonization, and examines CTC-associated immune interactions while distinguishing direct CTC observations from evidence derived from tumor tissue, cell culture, or animal models. We review technologies for immune phenotyping and the clinical evidence linking CTC immune features to immunotherapy outcomes across cancer types. Current studies support further investigation of longitudinal CTC monitoring, but heterogeneous assays, small or retrospective cohorts, and limited prospective validation prevent routine treatment selection based on these readouts. We also discuss experimental approaches to disrupting CTC immune protection during vascular transit and outline a four-stage pathway from discovery and analytical validation to clinical utility and implementation. CTC immune phenotyping remains a research strategy whose clinical value must be established beyond tissue biomarkers, ctDNA, and standard clinical assessment.",
+      "journal": "Biomarker research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Tumor Research and Therapy Center, Shandong Provincial Hospital, Cheeloo College of Medicine, Shandong University, Jinan, 250021, Shandong, China.",
+        "Tumor Research and Therapy Center, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, 250021, Shandong, China.",
+        "Jinan Maternity and Child Care Hospital Affiliated to Shandong First Medical University, Jinan, 250021, China.",
+        "Department of Urology, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, China.",
+        "Cancer Center, Shandong University, Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, China.",
+        "Tumor Research and Therapy Center, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, 250021, Shandong, China. zhangxinyu940106@163.com.",
+        "Tumor Research and Therapy Center, Shandong Provincial Hospital, Cheeloo College of Medicine, Shandong University, Jinan, 250021, Shandong, China. sdslyyyz@sina.com.",
+        "Tumor Research and Therapy Center, Shandong Provincial Hospital Affiliated to Shandong First Medical University, Jinan, 250021, Shandong, China. sdslyyyz@sina.com."
+      ],
+      "doi": "10.1186/s40364-026-01015-w",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855733/"
+    },
+    {
+      "pmid": "42855461",
+      "title": "CDC73 suppresses lung adenocarcinoma via the PTEN/AKT pathway and exhibits biomarker and functional potential in extracellular vesicles.",
+      "abstract": "CDC73 is a canonical tumor suppressor; however, its biological functions in lung adenocarcinoma (LUAD) and the extracellular vesicle (EV)-mediated mechanisms through which it exerts its effects remain unclear. In this study, we systematically evaluated the diagnostic value, biological functions, and EV-mediated regulatory roles of CDC73 in LUAD. First, quantitative proteomic analysis was performed on plasma-derived EVs from six patients with early-stage LUAD and three healthy donors, followed by further validation of EV-borne CDC73 expression in plasma-derived EV samples from eight LUAD patients and eight healthy donors. We found that the level of EV-borne CDC73 protein (EV-CDC73) was significantly reduced in LUAD, indicating its potential value as a diagnostic liquid-biopsy biomarker. To define its functional role, we established LUAD cell lines stably overexpressing CDC73 (A549^OE and H1299^OE) and performed rescue experiments in combination with PTEN knockdown using siRNA. The tumor-suppressive effects of CDC73 were systematically assessed through experiments examining cell proliferation, cell-cycle progression, apoptosis, migration, and related molecular mechanisms. Meanwhile, EVs were isolated by ultracentrifugation from the conditioned media of A549, H1299, and human bronchial epithelial (HBE) cells to analyze the effects of EVs with different CDC73 levels on recipient A549 and HBE cells, and xenograft models were used for in vivo validation. The results showed that CDC73 overexpression markedly inhibited LUAD cell proliferation and migration, induced G1-phase arrest, and promoted apoptosis. Mechanistically, CDC73 exerted its tumor-suppressive effects by upregulating PTEN and inhibiting AKT activation, whereas PTEN knockdown partially reversed these effects. In vivo experiments further confirmed that CDC73 overexpression suppressed tumor growth and migration. In addition, EVs derived from LUAD cells with high CDC73 expression showed a reduced ability to induce malignant transformation-related phenotypes in HBE cells and suppressed the PTEN/AKT signaling axis; conversely, EVs derived from HBE cells with high CDC73 expression inhibited the malignant progression of LUAD cells. Collectively, CDC73 suppresses the malignant progression of LUAD through the PTEN/AKT signaling axis, while EV-borne CDC73 not only has potential diagnostic value but also directly regulates malignant phenotypes in recipient cells, highlighting its translational potential in the diagnosis and treatment of LUAD.",
+      "journal": "Cell death discovery",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, Xuzhou Central Hospital, Xuzhou Clinical School of Xuzhou Medical University, Xuzhou, PR China.",
+        "Department of Thoracic Surgery, Affiliated Hospital 2 of Nantong University and First People's Hospital of Nantong City, Nantong, China.",
+        "Department of Cardiothoracic Surgery, First Affiliated Hospital of Huzhou Normal University, Huzhou, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, China.",
+        "The First Clinical Medicine School, Xuzhou Medical University, Xuzhou, China.",
+        "Department of Cardiothoracic Surgery, Nanjing Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, China. xiefeng007001@126.com.",
+        "Jiangsu Key Laboratory of Molecular Medicine, Nanjing University, Nanjing, China. xiefeng007001@126.com.",
+        "Department of Thoracic Surgery, Zhongda Hospital, Southeast University, Nanjing, China. xiefeng007001@126.com.",
+        "Department of Cardiothoracic Surgery, Nanjing Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, China. dryishen@nju.edu.cn."
+      ],
+      "doi": "10.1038/s41420-026-03305-6",
+      "date": "2026-08-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855461/"
+    },
+    {
       "pmid": "42855393",
       "title": "Converging Focused Ultrasound and Liquid Biopsy for Glioma Management: Next Steps.",
       "abstract": "Gliomas represent one of the most formidable challenges in oncology due to their diffuse infiltrative growth in the brain, marked molecular heterogeneity, immune evasion, and the restrictive nature of the blood-brain barrier (BBB), which collectively undermine effective therapy. This review examines the rationale, current evidence, and translational hurdles for integrating focused ultrasound (FUS)-mediated BBB opening and liquid biopsy strategies in gliomas. In this context, FUS may serve as both a therapeutic adjunct and a tool to improve biomarker accessibility and imaging integration, while artificial intelligence-driven analytics synthesize complex datasets into actionable insights.",
@@ -436,58 +484,127 @@
       "doi": "10.3892/ijo.2026.5946",
       "date": "2026-10-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42852637/"
-    },
-    {
-      "pmid": "42851436",
-      "title": "Multimodal characterization of HLA-G expression across solid tumors reveals transcript-protein discordance and implications for immunotherapy targeting.",
-      "abstract": "Human leukocyte antigen-G (HLA-G) is a non-classical major histocompatibility complex class I molecule that functions as an immune checkpoint via inhibitory receptors such as immunoglobulin-like transcript 2 (ILT2), immunoglobulin-like transcript 4 (ILT4) and killer cell immunoglobulin-like receptor 2DL4 (KIR2DL4), suppressing anti-tumor immunity. Its prevalence and regulation across solid tumors remain incompletely defined due to low expression, spatial heterogeneity, and detection challenges. We performed a multimodal target prevalence analysis integrating data from a validated immunohistochemistry (IHC) assay for protein detection and prospective screening data from a phase 1 study of an HLA-G × CD3 T cell bispecific antibody (Clintrials.gov identifier: NCT05769959) with bulk RNA sequencing from early-phase oncology clinical trials. Analysis of 252 patient tumor samples using an investigational HLA-G IHC assay showed that 59.9% were HLA-G positive, with highest prevalence in ovarian cancer (89%), non-small cell lung cancer (NSCLC) (76%), renal cell carcinoma (RCC) (71%), and pancreatic cancer (70%). Expression was generally low to moderate and spatially heterogeneous. Notably, discordance between transcript and protein expression was observed in melanoma, where high mRNA levels were not matched by detectable protein, suggesting post-transcriptional regulation. Prospective screening in a phase 1 cohort confirmed a high target positivity rate (77.5%). At the transcript level, HLA-G expression was enriched in inflamed tumors and correlated with interferon gamma (IFN-γ) signaling, antigen presentation pathways, and effector T-cell markers including cluster of differentiation 8 alpha (CD8A), interferon gamma gene (IFNG) and granzyme B (GZMB). HLA-G appears to be an inducible immune checkpoint associated with IFN-γ-driven immune activation and adaptive resistance. Transcript-protein discordance and spatial heterogeneity highlight the need for protein-level assessment in biomarker development. These findings inform companion diagnostic strategies for HLA-G-directed immunotherapies.",
-      "journal": "Frontiers in immunology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Roche Pharma Research and Early Development, Early Development Oncology, Roche Innovation Center Munich, Penzberg, Germany.",
-        "Roche Pharma Research and Early Development, Early Development Oncology, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.",
-        "Roche Pharma Research and Early Development, Discovery Oncology, Roche Innovation Center Munich, Penzberg, Germany.",
-        "Pharma Services Assay Development, Roche Tissue Diagnostics, Oro Valley, AZ, United States."
-      ],
-      "doi": "10.3389/fimmu.2026.1876556",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851436/"
-    },
-    {
-      "pmid": "42851375",
-      "title": "Case Report: Discordance between RNA-identified ETV6::RET and clinically reportable DNA profiling in salivary gland secretory carcinoma.",
-      "abstract": "Secretory carcinoma of the salivary gland is a rare, fusion-driven malignancy in which kinase fusions can serve as therapeutic targets. We report a patient with an ETV6::RET-positive tumor who achieved a complete response to pralsetinib and subsequently developed resistance. Research whole-transcriptome sequencing (WTS) of the resistant lesion identified an expressed in-frame ETV6::RET transcript retaining the RET kinase domain, with 300 and 196 split reads at the two breakpoints and three discordant mate pairs; research whole-exome sequencing provided limited concordant DNA-level support. A clinically approved targeted DNA-based comprehensive genomic profiling assay applied to material from the same lesion detected RET intron 11 and ETV6 intron 6 rearrangement signals but did not report actionable ETV6::RET or RET p.L730V. Under the Japanese regulatory framework applicable when selpercatinib was considered, an approved in vitro diagnostic or medical device was required to confirm a RET fusion for non-lung, non-thyroid solid tumors. Research WTS did not constitute an approved companion diagnostic result, and the approved DNA report did not establish an actionable ETV6::RET finding; selpercatinib was therefore not initiated. When DNA profiling yields unresolved rearrangement signals, a clinically validated RNA-based fusion assay and an appropriate regulatory framework for treatment selection may improve access to matched therapy.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Clinical Oncology, Kansai Medical University Hospital, Hirakata, Osaka, Japan.",
-        "Department of the Promotion of Drug and Diagnostic Development, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
-        "Department of Head and Neck Medical Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
-        "Department of Otorhinolaryngology, Head and Neck Surgery, Kansai Medical University, Hirakata, Japan.",
-        "Department of Clinical Oncology, Aichi Cancer Center Hospital, Nagoya, Aichi, Japan.",
-        "Department of Medical Oncology, Kochi Medical School, Kochi University, Nankoku, Kochi, Japan.",
-        "Department of Medical Oncology, Kobe City Medical Center General Hospital, Kobe, Hyogo, Japan.",
-        "Department of Medical Oncology, Kanazawa University Hospital, Kanazawa, Ishikawa, Japan.",
-        "Department of Medical Oncology, Hokkaido University Hospital, Sapporo, Hokkaido, Japan.",
-        "Department of Medical Oncology, Osaka International Cancer Institute, Osaka, Japan.",
-        "Department of Head and Neck Surgery, Central Japan International Medical Center, Minokamo, Gifu, Japan.",
-        "Division of Translational Informatics, Exploratory Oncology Research and Clinical Trial Center, National Cancer Center, Kashiwa, Chiba, Japan.",
-        "Department of Hepatobiliary and Pancreatic Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
-        "Department of Gastrointestinal Oncology, National Cancer Center Hospital East, Kashiwa, Chiba, Japan.",
-        "Caris Life Sciences, Phoenix, AZ, United States.",
-        "Department of Otorhinolaryngology, The Jikei University School of Medicine, Minato-ku, Tokyo, Japan."
-      ],
-      "doi": "10.3389/fonc.2026.1967793",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851375/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42856031",
+      "date": "2026-10-10",
+      "title": "Silicate Biomaterials-Stimulated Vascularized Callus Organoids for Bone Tissue Regeneration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856031/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42856031。",
+      "report": "Organoids that recapitulate native fracture callus can form spontaneous ossification centers within a bone defect, offering substantial promise for rapid bone regeneration. However, existing callus organoids generally lack a functional vascular network and an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855629",
+      "date": "2026-10-09",
+      "title": "Microfluidics to assess the impact of transfused blood components.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855629/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Transfusion medicine (Oxford, England)，PMID 为 42855629。",
+      "report": "Assessing the function of transfused blood components within the dynamic environment of the vascular system remains challenging, as conventional assays are largely static and poorly represent the dynamic mechanical and biochemical interactions between blood ce...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855540",
+      "date": "2026-10-09",
+      "title": "Power-law scaling of mitotic spindles with genome sizes across eukaryotes is driven by chromosome crowding.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855540/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature cell biology，PMID 为 42855540。",
+      "report": "Genome size varies more than 10,000-fold across eukaryotes, yet how the mitotic spindle adapts to this range remains unknown. Here we show that metaphase plate width scales with genome size following a power law with an exponent of ~1/3 across eukaryotes. Comp...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855494",
+      "date": "2026-10-09",
+      "title": "Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855494/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42855494。",
+      "report": "As the seat of our cognition, the human neocortex is an object of immense fascination. Human neocortex expansion during evolution has been attributed to an increase in the proliferative capacity of neural progenitor cells during development, particularly basal...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42854875",
       "date": "2026-10-09",
@@ -543,124 +660,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Neuroscience research，PMID 为 42854759。",
       "report": "Human induced pluripotent stem cells (iPSCs) and organoids are increasingly important components of new approach methodologies because they provide experimentally accessible human systems that preserve patient-specific genetic backgrounds and can be differenti...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853997",
-      "date": "2026-10-09",
-      "title": "Morganella morganii-derived histamine impairs intestinal barrier function via HRH4 and aggravates colitis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853997/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Inflammatory bowel diseases，PMID 为 42853997。",
-      "report": "Pro-inflammatory dietary patterns are associated with an increased risk of Crohn's disease (CD) and shifts in the gut microbiota. Our previous multi-omics analysis had identified the enrichment of Morganella morganii (M. morganii) in both patients with CD and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853963",
-      "date": "2026-10-09",
-      "title": "Follicle-associated epithelial tuft cells amplify type 2 mucosal immunity and IgA production.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853963/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science immunology，PMID 为 42853963。",
-      "report": "Peyer's patches (PPs) in the intestinal mucosa coordinate antibody responses to luminal microbes and dietary antigens. The follicle-associated epithelium (FAE) is traditionally recognized by the presence of microfold cells (M cells) that mediate antigen sampli...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853943",
-      "date": "2026-10-09",
-      "title": "Citron kinase activity controls alternative splicing events that drive prostate cancer growth.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853943/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42853943。",
-      "report": "Prostate cancer (CaP) remains a major cause of cancer death in men, underscoring the need for mechanistically novel therapies. We previously identified the action of the mitotic kinase citron (CIT) kinase as a key driver of CaP progression and promising therap...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853928",
-      "date": "2026-10-09",
-      "title": "Effects of probiotics on joint homeostasis and osteoarthritis: Development of microbe-gut-cartilage axis-on-a-chip.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853928/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42853928。",
-      "report": "Although emerging evidence implicates gut microbiome-cartilage cross-talk in the pathogenesis of osteoarthritis (OA), the most common joint disease, studying this microbe-gut-joint axis remains challenging due to limitations of animal models and conventional i...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -724,6 +723,34 @@
       "fact": "PubMed 记录显示该文献收录于 Advances in biochemical engineering/biotechnology，PMID 为 42850317。",
       "report": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence....",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855733",
+      "date": "2026-10-09",
+      "title": "The immune phenotype of circulating tumor cells: from escape mechanisms to immunotherapy navigation.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855733/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomarker research，PMID 为 42855733。",
+      "report": "Circulating tumor cells (CTCs) must survive immune attack in the bloodstream before they can contribute to distant metastasis. Their immune phenotype, including checkpoint ligands, antigen-presentation molecules, and immunomodulatory features, can be assessed...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1040,80 +1067,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42851436",
-      "date": "2026-09-24",
-      "title": "Multimodal characterization of HLA-G expression across solid tumors reveals transcript-protein discordance and implications for immunotherapy targeting.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851436/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42851436。",
-      "report": "Human leukocyte antigen-G (HLA-G) is a non-classical major histocompatibility complex class I molecule that functions as an immune checkpoint via inhibitory receptors such as immunoglobulin-like transcript 2 (ILT2), immunoglobulin-like transcript 4 (ILT4) and...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42851375",
-      "date": "2026-09-24",
-      "title": "Case Report: Discordance between RNA-identified ETV6::RET and clinically reportable DNA profiling in salivary gland secretory carcinoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851375/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42851375。",
-      "report": "Secretory carcinoma of the salivary gland is a rare, fusion-driven malignancy in which kinase fusions can serve as therapeutic targets. We report a patient with an ETV6::RET-positive tumor who achieved a complete response to pralsetinib and subsequently develo...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42846248",
       "date": "2026-09-23",
       "title": "Contributions of aquatic organisms to understanding the vertebrate ocular lens.",
@@ -1236,6 +1189,36 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855461",
+      "date": "2026-08-14",
+      "title": "CDC73 suppresses lung adenocarcinoma via the PTEN/AKT pathway and exhibits biomarker and functional potential in extracellular vesicles.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855461/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death discovery，PMID 为 42855461。",
+      "report": "CDC73 is a canonical tumor suppressor; however, its biological functions in lung adenocarcinoma (LUAD) and the extracellular vesicle (EV)-mediated mechanisms through which it exerts its effects remain unclear. In this study, we systematically evaluated the dia...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

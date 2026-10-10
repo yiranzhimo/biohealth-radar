@@ -1,30 +1,30 @@
 {
-  "capturedAt": "2026-10-10T05:59:30.155676+00:00",
+  "capturedAt": "2026-10-10T12:39:38.742426+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42854875",
-      "responseId": "resp_0617025d5519e967006ac9d442c8f087d0896c7b40b944e881",
+      "signalId": "pubmed-42856031",
+      "responseId": "resp_084351e5e03f5e18006aca320b561c87d096e6aeb11f498294",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理，无需人工审核。",
+        "reviewSummaryCn": "文献记录清楚准确，信息合理，不存在不支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主分类和副分类合理，符合文献主题。"
+          "notesCn": "分类合理，符合研究主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分离清晰，证据水平符合文献内容。"
+          "notesCn": "事实、报告和推断分开清晰，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification",
-          "clinical_claim"
+          "clinical_claim",
+          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -38,31 +38,32 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Mechanisms of ageing and development，PMID 为 42854875。",
-          "report": "Duchenne muscular dystrophy (DMD), a rare X-linked disorder caused by dystrophin mutations, leads to progressive muscle degeneration and cardiomyopathy. We previously showed elevated DNA damage and mutagenesis in DMD pluripotent stem cells, due to nitric oxide...",
+          "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42856031。",
+          "report": "Organoids that recapitulate native fracture callus can form spontaneous ossification centers within a bone defect, offering substantial promise for rapid bone regeneration. However, existing callus organoids generally lack a functional vascular network and an...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42854759",
-      "responseId": "resp_0f54633261cce7b8006ac9d447213c87d0832e4b68fce6a777",
+      "signalId": "pubmed-42855629",
+      "responseId": "resp_03c581cd2a87f651006aca320fd25887d0911fbe602ae60287",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "经过验证的文献记录，符合发布标准，未包含临床建议。",
+        "reviewSummaryCn": "该条目合理分类，信息分离明确，无临床推荐，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合现有文献内容。"
+          "notesCn": "分类适当，符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，证据级别中等，且事实、报告和推断清晰分离。"
+          "notesCn": "证据水平合理，出处可信，事实、报告和推论均已清晰分隔。"
         },
         "riskFlags": [
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -71,59 +72,182 @@
           "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "多组学"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Neuroscience research，PMID 为 42854759。",
-          "report": "Human induced pluripotent stem cells (iPSCs) and organoids are increasingly important components of new approach methodologies because they provide experimentally accessible human systems that preserve patient-specific genetic backgrounds and can be differenti...",
+          "fact": "PubMed 记录显示该文献收录于 Transfusion medicine (Oxford, England)，PMID 为 42855629。",
+          "report": "Assessing the function of transfused blood components within the dynamic environment of the vascular system remains challenging, as conventional assays are largely static and poorly represent the dynamic mechanical and biochemical interactions between blood ce...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42855393",
-      "responseId": "resp_0e9b1cb3f700fc54006ac9d44b3c1887d0b195002bf6938924",
+      "signalId": "pubmed-42855540",
+      "responseId": "resp_0902c999de22048f006aca3214ff4887d08aec530acce463d7",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献的分类合理，并符合出版标准，没有不当的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据水平符合引用的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告、推断和未知信息之间明确分开。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature cell biology，PMID 为 42855540。",
+          "report": "Genome size varies more than 10,000-fold across eukaryotes, yet how the mitotic spindle adapts to this range remains unknown. Here we show that metaphase plate width scales with genome size following a power law with an exponent of ~1/3 across eukaryotes. Comp...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42855494",
+      "responseId": "resp_07cac9fb10632f98006aca3219ba8487d0977c0d982d3d67a8",
       "review": {
         "status": "needs_human",
-        "confidence": 0.8,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核，因存在不确定性和缺乏支持性证据。",
+        "reviewSummaryCn": "存在对研究的质量和临床结论的暗示，但缺乏足够的信息来支持这些判断。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类和证据水平相对较弱，可能需要重新考虑。"
+          "notesCn": "分类与研究内容的真实质量缺乏直接支持。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平未能有效支持结论。"
+          "notesCn": "证据水平未能准确反映研究的实际质量。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42855494。",
+          "report": "As the seat of our cognition, the human neocortex is an object of immense fascination. Human neocortex expansion during evolution has been attributed to an increase in the proliferative capacity of neural progenitor cells during development, particularly basal...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42855733",
+      "responseId": "resp_03f2454702981c75006aca321e5b4487d085980af4169d1e18",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需人工审核，因缺乏对研究质量和相关声明的支持。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类依据不充分，未能充分支持其有效性或安全性声明。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平设置为中等，但未显示足够的支持。"
         },
         "riskFlags": [
           "weak_classification",
-          "insufficient_source"
+          "commercial_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
           "evidenceLevel": "Medium",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
+            "Biotech",
             "Precision Oncology"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
+            "biotech",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Hematology/oncology clinics of North America，PMID 为 42855393。",
-          "report": "Gliomas represent one of the most formidable challenges in oncology due to their diffuse infiltrative growth in the brain, marked molecular heterogeneity, immune evasion, and the restrictive nature of the blood-brain barrier (BBB), which collectively undermine...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Biomarker research，PMID 为 42855733。",
+          "report": "Circulating tumor cells (CTCs) must survive immune attack in the bloodstream before they can contribute to distant metastasis. Their immune phenotype, including checkpoint ligands, antigen-presentation molecules, and immunomodulatory features, can be assessed...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42855461",
+      "responseId": "resp_08b341c286a29d6f006aca3222b7d887d0b0100c7eaddd5837",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，未包含未验证的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合临床和监管主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平适中，事实、报告和推断分离明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell death discovery，PMID 为 42855461。",
+          "report": "CDC73 is a canonical tumor suppressor; however, its biological functions in lung adenocarcinoma (LUAD) and the extracellular vesicle (EV)-mediated mechanisms through which it exerts its effects remain unclear. In this study, we systematically evaluated the dia...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
