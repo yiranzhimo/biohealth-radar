@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-09T22:42:45.396392+00:00",
+  "capturedAt": "2026-10-10T05:59:21.500099+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-09",
-    "end": "2026-10-09"
+    "start": "2025-10-10",
+    "end": "2026-10-10"
   },
   "pmids": [
+    "42854875",
+    "42854759",
     "42853997",
     "42853963",
     "42853943",
     "42853928",
-    "42853266",
-    "42853260",
     "42852178",
     "42844355",
     "42818971",
@@ -32,14 +32,49 @@
     "42846248",
     "42842665",
     "42839711",
+    "42855393",
+    "42853260",
     "42853038",
     "42852637",
     "42851436",
-    "42851375",
-    "42849445",
-    "42853759"
+    "42851375"
   ],
   "records": [
+    {
+      "pmid": "42854875",
+      "title": "Altered cardiac progenitor transcriptional program accompanies NOS-associated DNA damage in a human Duchenne muscular dystrophy organoid model.",
+      "abstract": "Duchenne muscular dystrophy (DMD), a rare X-linked disorder caused by dystrophin mutations, leads to progressive muscle degeneration and cardiomyopathy. We previously showed elevated DNA damage and mutagenesis in DMD pluripotent stem cells, due to nitric oxide synthase (NOS) dysregulation and reactive species. Here we examined how these disruptions influence cardiac tissue development. In developing cardiac organoids, the DMD cardiovascular progenitor (CP) population shows a premature, elevated activation of CP markers, followed by early maturation gene expression and reduced proliferation. DMD organoids exhibit elevated DNA damage in CPs, persistent pro-inflammatory signaling, and increased expression of inducible NOS. These early molecular disruptions lead to an impaired cardiac differentiation with a lower fraction of spontaneously contracting organoids. DMD organoids show higher cardiac troponin release and accelerated collagen accumulation, mirroring heart failure pathology in mdx mice and DMD patients. Inducing DNA damage in early-stage wild-type organoids reproduced part of the altered gene expression seen in DMD. NOS inhibition in DMD organoids reduced DNA damage and improved organoid contraction, though it did not prevent CM death or collagen accumulation or restore normal gene expression. Together, these findings position NO/NOS modulation as relevant to early cardiac differentiation defects, with isoform balance likely shifting across developmental stages.",
+      "journal": "Mechanisms of ageing and development",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic; International Clinical Research Centre, St. Anne's University Hospital, Brno, Czech Republic.",
+        "Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic; International Clinical Research Centre, St. Anne's University Hospital, Brno, Czech Republic; First Department of Internal Medicine-Cardioangiology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.",
+        "Department of Clinical Biochemistry, St. Anne's University Hospital, Brno, Czech Republic.",
+        "Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic; International Clinical Research Centre, St. Anne's University Hospital, Brno, Czech Republic. Electronic address: vrotrekl@med.muni.cz."
+      ],
+      "doi": "10.1016/j.mad.2026.112264",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854875/"
+    },
+    {
+      "pmid": "42854759",
+      "title": "From iPSC Disease Modeling to Epigenome Editing: Toward Therapeutic Reversal of Genomic Imprinting Disorders.",
+      "abstract": "Human induced pluripotent stem cells (iPSCs) and organoids are increasingly important components of new approach methodologies because they provide experimentally accessible human systems that preserve patient-specific genetic backgrounds and can be differentiated into disease-relevant cell types. Genomic imprinting disorders are particularly attractive targets for this approach because their pathogenesis depends not only on DNA sequence but also on parent-of-origin-specific epigenetic regulation. Prader-Willi syndrome (PWS) and Angelman syndrome (AS), which arise from distinct disruptions within the same imprinted domain on chromosome 15q11.2-q13, illustrate both the opportunities and the complexity of therapeutic epigenetic manipulation. Recent studies using PWS patient-derived iPSCs have shown that disease-associated imprinting states are largely retained after reprogramming and can be experimentally reversed by locus-specific epigenome editing. Targeted demethylation of the PWS imprinting control region restored multiple paternally expressed genes, and the corrected state persisted after differentiation into hypothalamic organoids, partially normalizing disease-associated transcriptomic and functional phenotypes. Here, we discuss how iPSC-based disease modeling is evolving from a platform for mechanism discovery toward a test bed for therapeutic epigenome engineering and outline the major challenges that must be addressed before epigenome editing can be translated to patients with imprinting disorders.",
+      "journal": "Neuroscience research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Physiology, Keio University School of Medicine, Tokyo, Japan; Keio University Regenerative Medicine Research Center, Kawasaki, Japan.",
+        "Department of Physiology, Keio University School of Medicine, Tokyo, Japan; Keio University Regenerative Medicine Research Center, Kawasaki, Japan. Electronic address: hidokano@keio.jp."
+      ],
+      "doi": "10.1016/j.neures.2026.105137",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854759/"
+    },
     {
       "pmid": "42853997",
       "title": "Morganella morganii-derived histamine impairs intestinal barrier function via HRH4 and aggravates colitis.",
@@ -125,73 +160,6 @@
       "doi": "10.1126/sciadv.aeg8557",
       "date": "2026-10-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853928/"
-    },
-    {
-      "pmid": "42853266",
-      "title": "Model Systems infrastructure of the German Center for Mental Health (DZPG): toward an integrated, mechanism-based framework for mental health research.",
-      "abstract": "Mental health is fragile and disorders are highly prevalent arising from complex interactions between genetic, developmental, psychological, social and environmental factors. The key mechanisms underlying resilience, vulnerability factors, brain repair systems, and recovery remain poorly understood, hindering the development of effective prevention and personalized treatment. The German Center for Mental Health (Deutsches Zentrum für Psychische Gesundheit, DZPG) addresses these challenges through a nationwide, interdisciplinary research network that integrates basic science with translational approaches across multiple sites. Its embedded \"Model Systems\" infrastructure provides a state-of-the-art platform to investigate brain-behavior mechanisms. Animal models are available to explore the links between genes, neural circuits, and behavior. Additionally, humanized model systems are established based on transgenesis and induced pluripotent stem cell (iPSC)-based models. Brain organoids further support research into neurodevelopment and multicellular interactions.Critically, when combined with high-content/high-throughput screening, iPSC-derived models link disease mechanisms to therapeutic targets. Advanced techniques, such as machine learning-based behavior quantification, single-cell and spatial multi-omics analyses, and genome editing enable in-depth analysis of disease/patient-specific cellular phenotypes and networks. Patient and public involvement embedded within the Model Systems infrastructure secures the scientific and translational relevance of the activities and helps to link experimental findings in our model systems to clinical symptoms and behavioral dimensions. By integrating animal, cellular, and human data on a multi-systems level with clinically relevant symptoms, the DZPG leverages model systems to accelerate mechanistic discovery and translation in mental health research.",
-      "journal": "European archives of psychiatry and clinical neuroscience",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Psychiatry and Psychotherapy, TUM Klinikum Rechts der Isar, Technical University of Munich, Munich, Germany.",
-        "German Center for Mental Health (DZPG), Partner Site Munich-Augsburg, Munich, Germany.",
-        "Research Group Neurobiology of Stress Resilience, Max Planck Institute of Psychiatry, Munich, Germany.",
-        "Institute of Experimental Genetics and German Mouse Clinic, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany.",
-        "Department of Psychiatry and Psychotherapy, Otto-von-Guericke-University Magdeburg, Magdeburg, Germany.",
-        "Laboratory of Translational Psychiatry, Otto-von-Guericke-University Magdeburg, Magdeburg, Germany.",
-        "German Center for Mental Health (DZPG), Partner Site Halle-Jena-Magdeburg, Magdeburg, Germany.",
-        "Department of Psychiatry & Psychotherapy, University Hospital Bonn, University of Bonn, Bonn, Germany.",
-        "Institute of Human Genetics, University Hospital Bonn, University of Bonn, Bonn, Germany.",
-        "Institute of Psychiatric Phenomics & Genomics, LMU University Hospital, LMU Munich, Munich, Germany.",
-        "Department of Psychiatry and Neuroscience, Charité, Universitӓtsmedizin Berlin, Corporate Member of Freie Universitӓt Berlin and Humboldt-Universitӓt, Berlin, Germany.",
-        "German Center for Mental Health (DZPG), Partner Site Berlin-Potsdam, Berlin, Germany.",
-        "Medical Faculty Mannheim, Institute of Psychopharmacology, Central Institute of Mental Health, Heidelberg University, Mannheim, Germany.",
-        "German Center for Mental Health (DZPG), Partner Site Mannheim/Heidelberg/Ulm, Heidelberg, Germany.",
-        "Mental Health Research and Treatment Center, Ruhr-University Bochum, Bochum, Germany.",
-        "Unité de Formation et de Recherche des Sciences de la Vie (UFR 927), Sorbonne Université. Institut de Biologie Paris-Seine, Paris, France.",
-        "German Center for Mental Health (DZPG), Partner Site Bochum/Marburg, Marburg, Germany.",
-        "Department of Pediatrics and Adolescent Medicine, Ulm University Medical Center, Ulm, Germany.",
-        "German Center for Child and Adolescent Health (DZKJ), Partner Site Ulm, Ulm, Germany.",
-        "Institute of Molecular Endocrinology and Physiology, Ulm University, Ulm, Germany.",
-        "Institute of Psychology & Education, Clinical & Biological Psychology, Ulm University, Ulm, Germany.",
-        "Department of Cellular Neuroscience, Leibniz Institute for Neurobiology, Magdeburg, Germany.",
-        "Center for Behavioral Brain Sciences, Otto von Guericke University, Magdeburg, Germany.",
-        "German Center for Neurodegenerative Diseases (DZNE), Magdeburg, Germany.",
-        "Department of Translational Brain Research, Central Institute of Mental Health (ZI), University of Heidelberg/Medical Faculty Mannheim, Mannheim, Germany.",
-        "Hector Institute for Translational Brain Research (HITBR gGmbH), Mannheim, Germany.",
-        "German Cancer Research Center (DKFZ), Heidelberg, Germany.",
-        "Department of Behavioural and Cognitive Sciences, University of Luxembourg, Esch-sur-Alzette, Luxembourg.",
-        "Department of Psychiatry and Psychotherapy, TUM Klinikum Rechts der Isar, Technical University of Munich, Munich, Germany. josef.priller@tum.de.",
-        "German Center for Mental Health (DZPG), Partner Site Munich-Augsburg, Munich, Germany. josef.priller@tum.de.",
-        "Neuropsychiatry and Laboratory of Molecular Psychiatry, Charité, Universitätsmedizin Berlin, Berlin, Germany. josef.priller@tum.de.",
-        "University of Edinburgh and UK DRI, Edinburgh, UK. josef.priller@tum.de."
-      ],
-      "doi": "10.1007/s00406-026-02380-1",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853266/"
-    },
-    {
-      "pmid": "42853260",
-      "title": "PROTACs in personalized and precision medicine: transforming targeted therapy with advances in selectivity and patient stratification.",
-      "abstract": "Proteolysis-targeting chimeras (PROTACs) have emerged as a transformative therapeutic strategy that extends beyond conventional occupancy-driven pharmacology by enabling the selective degradation of disease-causing proteins through the ubiquitin-proteasome system (UPS). Unlike traditional small-molecule inhibitors that transiently suppress protein function, PROTACs catalytically eliminate target proteins, thereby offering sustained pharmacological effects and the potential to bypass selected resistance mechanisms associated with conventional target inhibition, and expanding the druggable proteome to include previously undruggable targets. These unique properties position PROTACs as a promising platform for personalized and precision medicine. This review comprehensively examines recent advances in PROTAC technology with a particular emphasis on therapeutic selectivity, biomarker-guided patient stratification, and clinical translation. We discuss the structural design and mechanistic principles of PROTACs, including ternary complex formation, E3 ligase recruitment, ubiquitination, and proteasomal degradation. Recent innovations such as reversible covalent PROTACs, macrocyclic PROTACs, photo-switchable degraders (PHOTACs), conditional PROTACs, and the expanding repertoire of E3 ligases are highlighted for their potential to improve tissue specificity and therapeutic precision. Furthermore, the integration of computational modelling, artificial intelligence, molecular docking, molecular dynamics simulations, multi-omics technologies, CRISPR-based functional screening, and patient-derived organoids is discussed as a framework for rational degrader design and individualized therapeutic decision-making. The review also explores emerging applications of PROTACs in oncology, neurodegenerative disorders, autoimmune diseases, and infectious diseases while addressing current challenges related to pharmacokinetics, drug delivery, resistance mechanisms, biomarker validation, and regulatory considerations. Finally, we discuss emerging nanotechnology-enabled delivery strategies, companion-diagnostic concepts, and patient-specific degrader development as potential approaches to address pharmacokinetic, delivery, and translational barriers, while emphasizing that most of these strategies remain preclinical or investigational. Collectively, this review highlights the growing role of PROTACs as next-generation therapeutics capable of bridging chemical biology with precision medicine, supporting the development of potentially selective, biomarker-informed, and individualized treatment strategies.",
-      "journal": "Cancer chemotherapy and pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Dr. D.Y. Patil Institute of Pharmaceutical Sciences and Research, Pune, 411018, Maharashtra, India.",
-        "School of Pharmacy and Research, Dnyaan Prasad Global University, Pune, India.",
-        "Y. B. Chavan College of Pharmacy, Dr. Rafiq Zakaria Campus, Chhatrapati Sambhajinagar, 431001, Maharashtra, India.",
-        "Dr. D.Y. Patil Institute of Pharmaceutical Sciences and Research, Pune, 411018, Maharashtra, India. pawan.karwa@dypvp.edu.in.",
-        "School of Pharmacy and Research, Dnyaan Prasad Global University, Pune, India. pawan.karwa@dypvp.edu.in."
-      ],
-      "doi": "10.1007/s00280-026-04970-1",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853260/"
     },
     {
       "pmid": "42852178",
@@ -395,6 +363,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42839711/"
     },
     {
+      "pmid": "42855393",
+      "title": "Converging Focused Ultrasound and Liquid Biopsy for Glioma Management: Next Steps.",
+      "abstract": "Gliomas represent one of the most formidable challenges in oncology due to their diffuse infiltrative growth in the brain, marked molecular heterogeneity, immune evasion, and the restrictive nature of the blood-brain barrier (BBB), which collectively undermine effective therapy. This review examines the rationale, current evidence, and translational hurdles for integrating focused ultrasound (FUS)-mediated BBB opening and liquid biopsy strategies in gliomas. In this context, FUS may serve as both a therapeutic adjunct and a tool to improve biomarker accessibility and imaging integration, while artificial intelligence-driven analytics synthesize complex datasets into actionable insights.",
+      "journal": "Hematology/oncology clinics of North America",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Neurosurgery, Johns Hopkins University School of Medicine, 1800 Orleans Street, Zayed 6115A, Baltimore, MD 21287, USA.",
+        "Department of Neurosurgery, University of Maryland School of Medicine, 22 S. Greene Street, Baltimore, MD 21201, USA. Electronic address: gwoodworth@som.umaryland.edu."
+      ],
+      "doi": "10.1016/j.hoc.2026.08.003",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855393/"
+    },
+    {
+      "pmid": "42853260",
+      "title": "PROTACs in personalized and precision medicine: transforming targeted therapy with advances in selectivity and patient stratification.",
+      "abstract": "Proteolysis-targeting chimeras (PROTACs) have emerged as a transformative therapeutic strategy that extends beyond conventional occupancy-driven pharmacology by enabling the selective degradation of disease-causing proteins through the ubiquitin-proteasome system (UPS). Unlike traditional small-molecule inhibitors that transiently suppress protein function, PROTACs catalytically eliminate target proteins, thereby offering sustained pharmacological effects and the potential to bypass selected resistance mechanisms associated with conventional target inhibition, and expanding the druggable proteome to include previously undruggable targets. These unique properties position PROTACs as a promising platform for personalized and precision medicine. This review comprehensively examines recent advances in PROTAC technology with a particular emphasis on therapeutic selectivity, biomarker-guided patient stratification, and clinical translation. We discuss the structural design and mechanistic principles of PROTACs, including ternary complex formation, E3 ligase recruitment, ubiquitination, and proteasomal degradation. Recent innovations such as reversible covalent PROTACs, macrocyclic PROTACs, photo-switchable degraders (PHOTACs), conditional PROTACs, and the expanding repertoire of E3 ligases are highlighted for their potential to improve tissue specificity and therapeutic precision. Furthermore, the integration of computational modelling, artificial intelligence, molecular docking, molecular dynamics simulations, multi-omics technologies, CRISPR-based functional screening, and patient-derived organoids is discussed as a framework for rational degrader design and individualized therapeutic decision-making. The review also explores emerging applications of PROTACs in oncology, neurodegenerative disorders, autoimmune diseases, and infectious diseases while addressing current challenges related to pharmacokinetics, drug delivery, resistance mechanisms, biomarker validation, and regulatory considerations. Finally, we discuss emerging nanotechnology-enabled delivery strategies, companion-diagnostic concepts, and patient-specific degrader development as potential approaches to address pharmacokinetic, delivery, and translational barriers, while emphasizing that most of these strategies remain preclinical or investigational. Collectively, this review highlights the growing role of PROTACs as next-generation therapeutics capable of bridging chemical biology with precision medicine, supporting the development of potentially selective, biomarker-informed, and individualized treatment strategies.",
+      "journal": "Cancer chemotherapy and pharmacology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Dr. D.Y. Patil Institute of Pharmaceutical Sciences and Research, Pune, 411018, Maharashtra, India.",
+        "School of Pharmacy and Research, Dnyaan Prasad Global University, Pune, India.",
+        "Y. B. Chavan College of Pharmacy, Dr. Rafiq Zakaria Campus, Chhatrapati Sambhajinagar, 431001, Maharashtra, India.",
+        "Dr. D.Y. Patil Institute of Pharmaceutical Sciences and Research, Pune, 411018, Maharashtra, India. pawan.karwa@dypvp.edu.in.",
+        "School of Pharmacy and Research, Dnyaan Prasad Global University, Pune, India. pawan.karwa@dypvp.edu.in."
+      ],
+      "doi": "10.1007/s00280-026-04970-1",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853260/"
+    },
+    {
       "pmid": "42853038",
       "title": "The Future of all-Comers Trials in the Era of Precision Oncology.",
       "abstract": "Approvals of new therapeutics are increasingly restricted to specified biomarker subgroups, even where pivotal clinical studies meet primary endpoints in broader \"all-comers\" populations. In this article, we discuss the potential factors that increase the likelihood of approvals in biomarker subpopulations rather than all-comers. We outline mitigation strategies drug developers can pursue to plan for potential label restrictions and achieve companion diagnostic readiness, ensuring patients receive timely access to innovative medicines.",
@@ -480,44 +485,67 @@
       "doi": "10.3389/fonc.2026.1967793",
       "date": "2026-09-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42851375/"
-    },
-    {
-      "pmid": "42849445",
-      "title": "Prognostic value of cfDNA methylation in locally advanced esophageal squamous cell cancer treated with neoadjuvant immunochemoradiotherapy.",
-      "abstract": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n = 183) were collected at four time points: pre-neoadjuvant treatment (NAT), post-NAT, pre-surgery, and post-surgery. Targeted whole-genome cfDNA methylation sequencing was performed, and cancer detection (CD) values were calculated with positivity, defined as CD ≥ 0.7. CD positivity dropped from 74% pre-NAT to 31% post-NAT (p < 0.001). Pre-surgery CD positivity was significantly higher in non-pCR versus pCR patients (33% vs. 0%; p = 0.028). A model incorporating post-NAT CD value and clinical factors achieved an area under the curve (AUC) of 0.764 for pCR. Post-NAT CD-negative patients had significantly improved disease-free survival (DFS; hazard ratio [HR] = 0.33; p = 0.035). Findings were reproduced in an expanded 30-patient cohort. Dynamic cfDNA methylation monitoring is associated with pCR and DFS, warranting further validation in larger cohorts.",
-      "journal": "Cell reports. Medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China; United Laboratory of Frontier Radiotherapy Technology of Sun Yat-sen University & Chinese Academy of Sciences Ion Medical Technology Co., Ltd, Guangzhou 510060, China.",
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Endoscopy, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
-        "Department of Information, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",
-        "Geneplus-Beijing, Beijing 102206, China.",
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Thoracic Surgery, Sun Yat-sen University Cancer Center, Guangzhou 510060, China. Electronic address: yanghong@sysucc.org.cn.",
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Medical Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China. Electronic address: luohy@sysucc.org.cn.",
-        "State Key Laboratory of Oncology in South China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Esophageal Cancer Institute, Guangzhou 510060, China; Department of Radiation Oncology, Sun Yat-sen University Cancer Center, Guangzhou 510060, China; United Laboratory of Frontier Radiotherapy Technology of Sun Yat-sen University & Chinese Academy of Sciences Ion Medical Technology Co., Ltd, Guangzhou 510060, China. Electronic address: ximian@sysucc.org.cn."
-      ],
-      "doi": "10.1016/j.xcrm.2026.103102",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849445/"
-    },
-    {
-      "pmid": "42853759",
-      "title": "AI-Based Clinical Decision Support Systems for Secondary Caries Detection and Staging on Bitewings: A Multi-Algorithm Comparison.",
-      "abstract": "Radiographic detection of caries lesions adjacent to restorations is challenging because of the limitations of two-dimensional imaging and difficulties distinguishing true lesions from restorative or anatomical radiolucencies. Artificial intelligence (AI)-based clinical decision support systems (CDSSs) have been introduced to assist radiographic interpretation; however, different AI tools may yield variable diagnostic outputs, and their comparative performance remains unclear. To compare the diagnostic performance of commercial and experimental AI algorithms for detecting and staging secondary caries lesions on bitewings. This cross-sectional diagnostic accuracy study included 200 anonymized bitewings comprising 885 restored tooth surfaces. A consensus-based reference standard classified each restored surface as non-carious, secondary caries, or indeterminate. Secondary caries lesions were further staged as enamel-stage or dentin-stage. Five commercial AI systems (Second Opinion®, CranioCatch, Diagnocat, DIO Inteligência, and Align™ X-ray Insights) and three experimental systems based on Mask R-CNN and Mask DINO architectures were tested. Diagnostic performance was assessed using sensitivity, specificity, accuracy, positive predictive value, and negative predictive value (95% confidence intervals). Comparisons were performed using generalized estimating equations adjusted for clustered data. Specificity was high across all systems (0.957-0.986), whereas sensitivity was moderate (0.327-0.487), reflecting missed detections of secondary caries lesions, particularly dentin-stage lesions. Accuracy ranged from 0.882 to 0.917, with no significant differences among the evaluated systems (p ≥ 0.05). Similar patterns were observed in the additional analysis restricted to dentin-stage lesions. Misclassifications between non-carious and secondary caries surfaces were frequently associated with radiographic overlap, restoration-related radiolucencies, and cervical artifacts. AI algorithms, regardless of architecture or commercial status, showed similar diagnostic capabilities and a conservative diagnostic profile, favoring specificity over sensitivity. Improvements in dataset diversity, reference-standard quality, and model explainability may further enhance the reliability of AI-assisted secondary caries detection.",
-      "journal": "Caries research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [],
-      "doi": "10.1159/cre/abuag016",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853759/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42854875",
+      "date": "2026-10-09",
+      "title": "Altered cardiac progenitor transcriptional program accompanies NOS-associated DNA damage in a human Duchenne muscular dystrophy organoid model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854875/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Mechanisms of ageing and development，PMID 为 42854875。",
+      "report": "Duchenne muscular dystrophy (DMD), a rare X-linked disorder caused by dystrophin mutations, leads to progressive muscle degeneration and cardiomyopathy. We previously showed elevated DNA damage and mutagenesis in DMD pluripotent stem cells, due to nitric oxide...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42854759",
+      "date": "2026-10-09",
+      "title": "From iPSC Disease Modeling to Epigenome Editing: Toward Therapeutic Reversal of Genomic Imprinting Disorders.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854759/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuroscience research，PMID 为 42854759。",
+      "report": "Human induced pluripotent stem cells (iPSCs) and organoids are increasingly important components of new approach methodologies because they provide experimentally accessible human systems that preserve patient-specific genetic backgrounds and can be differenti...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42853997",
       "date": "2026-10-09",
@@ -637,80 +665,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42853266",
-      "date": "2026-10-09",
-      "title": "Model Systems infrastructure of the German Center for Mental Health (DZPG): toward an integrated, mechanism-based framework for mental health research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853266/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European archives of psychiatry and clinical neuroscience，PMID 为 42853266。",
-      "report": "Mental health is fragile and disorders are highly prevalent arising from complex interactions between genetic, developmental, psychological, social and environmental factors. The key mechanisms underlying resilience, vulnerability factors, brain repair systems...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853260",
-      "date": "2026-10-09",
-      "title": "PROTACs in personalized and precision medicine: transforming targeted therapy with advances in selectivity and patient stratification.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853260/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer chemotherapy and pharmacology，PMID 为 42853260。",
-      "report": "Proteolysis-targeting chimeras (PROTACs) have emerged as a transformative therapeutic strategy that extends beyond conventional occupancy-driven pharmacology by enabling the selective degradation of disease-causing proteins through the ubiquitin-proteasome sys...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42853897",
       "date": "2026-10-09",
       "title": "3D CNN-CVAE and LSTM-guided de novo design of rotigotine derivatives targeting dopamine D1 and D3 receptors in restless legs syndrome.",
@@ -770,6 +724,78 @@
       "fact": "PubMed 记录显示该文献收录于 Advances in biochemical engineering/biotechnology，PMID 为 42850317。",
       "report": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence....",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42855393",
+      "date": "2026-10-09",
+      "title": "Converging Focused Ultrasound and Liquid Biopsy for Glioma Management: Next Steps.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42855393/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Hematology/oncology clinics of North America，PMID 为 42855393。",
+      "report": "Gliomas represent one of the most formidable challenges in oncology due to their diffuse infiltrative growth in the brain, marked molecular heterogeneity, immune evasion, and the restrictive nature of the blood-brain barrier (BBB), which collectively undermine...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42853260",
+      "date": "2026-10-09",
+      "title": "PROTACs in personalized and precision medicine: transforming targeted therapy with advances in selectivity and patient stratification.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853260/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer chemotherapy and pharmacology，PMID 为 42853260。",
+      "report": "Proteolysis-targeting chimeras (PROTACs) have emerged as a transformative therapeutic strategy that extends beyond conventional occupancy-driven pharmacology by enabling the selective degradation of disease-causing proteins through the ubiquitin-proteasome sys...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -834,62 +860,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of oncology，PMID 为 42852637。",
       "report": "P‑element induced wimpy testis (PIWI)‑interacting RNAs (piRNAs) are small non‑coding RNAs with a length of ~24‑32 nucleotides that specifically bind members of the PIWI protein family. Initially identified in germ cells, piRNAs have since been detected in vari...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42853759",
-      "date": "2026-10-09",
-      "title": "AI-Based Clinical Decision Support Systems for Secondary Caries Detection and Staging on Bitewings: A Multi-Algorithm Comparison.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853759/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Caries research，PMID 为 42853759。",
-      "report": "Radiographic detection of caries lesions adjacent to restorations is challenging because of the limitations of two-dimensional imaging and difficulties distinguishing true lesions from restorative or anatomical radiolucencies. Artificial intelligence (AI)-base...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42849445",
-      "date": "2026-10-08",
-      "title": "Prognostic value of cfDNA methylation in locally advanced esophageal squamous cell cancer treated with neoadjuvant immunochemoradiotherapy.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42849445/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42849445。",
-      "report": "We prospectively evaluated whether longitudinal cfDNA methylation predicts pathological complete response (pCR) and survival in 70 patients with esophageal squamous cell carcinoma (ESCC) receiving neoadjuvant immunochemoradiotherapy. Serial plasma samples (n =...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
