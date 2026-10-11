@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-10T21:49:13.416776+00:00",
+  "capturedAt": "2026-10-11T05:55:07.737080+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-10",
-    "end": "2026-10-10"
+    "start": "2025-10-11",
+    "end": "2026-10-11"
   },
   "pmids": [
     "42856031",
@@ -200,13 +200,23 @@
     {
       "pmid": "42818971",
       "title": "PHAROS: turning single-cell perturbation models into target-directed drug-combination screens.",
-      "abstract": "Combination therapies are central to cancer treatment, but exhaustive screening is impractical. We introduce PHAROS, a framework that turns a pretrained single-cell perturbation model into a target-directed search engine for drug combinations. PHAROS predicts how a cell population changes under a drug, one drug at a time, then chains these predictions together to simulate drug combinations. It scores each simulated outcome against the desired target state and uses a search algorithm to find the most promising combinations, all without retraining the underlying model. Across two independent combinatorial perturbation datasets, PHAROS recovered exact or mechanism-matched two-drug responses in cell lines, both seen and unseen during model training. Its rankings were specific to the requested conversion and were not explained by single-drug effects, additive effects, or shared mechanism of action. In exploratory analyses of patient-derived metastatic HR+/HER2 breast tumors and basal cell carcinoma (BCC), PHAROS prioritized FDA-approved regimens, distinguished combinations by their predicted tumor-versus-immune objective profiles, and nominated pathway-level hypotheses, while explicitly identifying both tumor cohorts as outside the model's supported distribution. PHAROS provides a modular route from pretrained virtual-cell models to inverse, single-cell combination-screening platforms.",
+      "abstract": "Combination therapies are central to cancer treatment, but exhaustive screening is impractical. We introduce PHAROS, a framework that turns a pretrained single-cell perturbation model into a target-directed search engine for drug combinations. PHAROS predicts how a cell population changes under a drug, one drug at a time, then chains these predictions together to simulate drug combinations. It scores each simulated outcome against the desired target state and uses a search algorithm to find the most promising combinations, all without retraining the underlying model. Across two independent combinatorial perturbation datasets, PHAROS recovered exact or mechanism-matched two-drug responses in cell lines, both seen and unseen during model training. Its rankings were specific to the requested conversion and were not explained by single-drug effects, additive effects, or shared mechanism of action. In exploratory analyses of patient-derived metastatic HR+/HER2- breast tumors and basal cell carcinoma (BCC), PHAROS prioritized FDA-approved regimens, distinguished combinations by their predicted tumor-versus-immune objective profiles, and nominated pathway-level hypotheses, while explicitly identifying both tumor cohorts as outside the model's supported distribution. PHAROS provides a modular route from pretrained virtual-cell models to inverse, single-cell combination-screening platforms.",
       "journal": "bioRxiv : the preprint server for biology",
       "publicationTypes": [
         "Journal Article",
         "Preprint"
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Department of Genetics, Stanford University School of Medicine, Stanford, USA.",
+        "Department of Computing Sciences, Bocconi Institute for Data Science and Analytics, Milan, Italy.",
+        "Department of Statistics, University of British Columbia, Vancouver, Canada.",
+        "IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.",
+        "Department of Bioengineering, Stanford University, Stanford, USA.",
+        "Sarafan ChEM-H, Stanford University, Stanford, USA.",
+        "Chan Zuckerberg Biohub-San Francisco, San Francisco, USA.",
+        "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.",
+        "Stanford Genome Technology Center, Palo Alto, USA."
+      ],
       "doi": "10.64898/2026.09.08.749477",
       "date": "2026-09-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818971/"
