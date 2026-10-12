@@ -821,6 +821,330 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42860904",
+      "date": "2026-10-12",
+      "title": "CD147+ Cancer-Associated Fibroblasts Promote PD-L1 Expression in Hepatocellular Carcinoma via TIMP2/MMP2/IL-6 Signaling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860904/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Asia-Pacific journal of clinical oncology，PMID 为 42860904。",
+      "report": "Targeting CD147 on hepatocellular carcinoma (HCC) cells has demonstrated therapeutic efficacy. Cancer-associated fibroblasts (CAFs) have been identified as critical components of the tumor microenvironment. The role of CD147 in CAFs is still unclear, and this...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00872bfbaf966255006accfeaf5f3887d09fa99d7b82c4929c",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "b89d3a54daa2578e1744465e899dcbde4ad13394832db04996c7b193ccec137d",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认信息的准确性和可靠性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平仅为中等，可能不足以支持此分类。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献报告了潜在的治疗效果，但证据水平不高，无法支持强有力的临床结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Asia-Pacific journal of clinical oncology，PMID 为 42860904。",
+          "report": "Targeting CD147 on hepatocellular carcinoma (HCC) cells has demonstrated therapeutic efficacy. Cancer-associated fibroblasts (CAFs) have been identified as critical components of the tumor microenvironment. The role of CD147 in CAFs is still unclear, and this...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42860581",
+      "date": "2026-10-11",
+      "title": "Zonation Hallmarks in Human PSC-Derived Hepatic Organoids Integrated into an Immune-Compatible Organ-on-Chip for Liver Injury Modeling.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860581/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860581。",
+      "report": "Liver metabolic zonation enables hepatocytes to carry out diverse, spatially organized functions essential for liver homeostasis and metabolism. However, in vitro recapitulation of zone-specific diversity, particularly in human pluripotent stem cell (PSC)-deri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_086145a69eccc0f0006accfeb4ca9487d0abbb82ba730dcb5d",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "331862b78bb5231fab39170759263886943533cacbc40823ce267439b7f385ea",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献介绍了人类多能干细胞衍生的肝类器官及其在肝损伤模型中的应用，信息整洁且符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断已清晰分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860581。",
+          "report": "Liver metabolic zonation enables hepatocytes to carry out diverse, spatially organized functions essential for liver homeostasis and metabolism. However, in vitro recapitulation of zone-specific diversity, particularly in human pluripotent stem cell (PSC)-derived models, remains challenging.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42860576",
+      "date": "2026-10-11",
+      "title": "Prostate Cancer Patient-Derived Organoids (PDOs) as Functional Avatars for Antisense Oligonucleotide (ASO)-Based Personalized Therapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860576/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860576。",
+      "report": "Patient-derived tumor organoids (PDOs) closely preserve the cellular heterogeneity, histopathology, and molecular features of the original tumors, making them powerful preclinical models. Antisense oligonucleotides (ASOs) are an emerging class of precision med...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01bc8ade7864d48d006accfeb9d59c87d0834f6671e257efc6",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "50ea57ce5ebbf9aa8f574036830dd69c5e347bafbe4e5ef1e996446e7e669e83",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且分隔明了。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合适，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论均已明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "precision_medicine"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860576。",
+          "report": "Patient-derived tumor organoids (PDOs) closely preserve the cellular heterogeneity, histopathology, and molecular features of the original tumors, making them powerful preclinical models. Antisense oligonucleotides (ASOs) are an emerging class of precision med...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42860388",
+      "date": "2026-10-11",
+      "title": "Epigenetic Silencing of CYYR1 Promotes Lung Adenocarcinoma Progression Through TRIM21-Dependent Regulation of HMMR Stability.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860388/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42860388。",
+      "report": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. Integrative multi-omics and machine-learning analyses across independent cohorts identified CYYR1 as a frequently downregulated transmembrane protein in LUAD, with low expression a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f927962f2872da4006accfebdf29487d0a6e43fe0751d34d1",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "3264038a6022a996680072f7c9b72b1311e7809ac15365764ae2daae418fff69",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及临床数据和谐模型，需人类审阅确认分类和推理的正确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献所述的临床证据基础不清晰，可能需要进一步审阅以验证提及的研究质量与样本量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "当前证据级别为中等，但与文献的严谨性和临床应用的可靠性不符。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "未知",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42860388。",
+          "report": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. Integrative multi-omics and machine-learning analyses across independent cohorts identified CYYR1 as a frequently downregulated transmembrane protein in LUAD, with low expression a...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42860198",
       "date": "2026-10-11",
       "title": "Bile acid and bacterial β-ADP-heptose induce gastric epithelial remodeling through the NF-κB-LIF axis.",
@@ -896,6 +1220,83 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42861255",
+      "date": "2026-10-11",
+      "title": "Micro/Nanostructured Materials and Microfluidic Diagnostic Platforms Enable Multimodal Detection of Circulating Tumor Cells.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861255/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42861255。",
+      "report": "Circulating tumor cells (CTCs), as pivotal targets in liquid biopsy, offer dynamic, multidimensional insights into tumor heterogeneity and metastatic progression. However, their extreme rarity, pronounced heterogeneity, and the complexity of the blood microenv...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_076480ab2581d7c2006accfec4624c87d0a123f77a90929afc",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "413cb3526c2dacd9a27abe7ff8d31721cd61da0966bd5dc588e3ff1135fa9d45",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合出版要求，信息清晰且分离，未包含临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且与文献来源相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断均明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42861255。",
+          "report": "Circulating tumor cells (CTCs), as pivotal targets in liquid biopsy, offer dynamic, multidimensional insights into tumor heterogeneity and metastatic progression. However, their extreme rarity, pronounced heterogeneity, and the complexity of the blood microenvironment pose significant challenges...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42860325",
       "date": "2026-10-11",
       "title": "Prognostic biomarkers in non-muscle-invasive bladder cancer: biological basis and evidence.",
@@ -964,145 +1365,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 BJU international，PMID 为 42860325。",
           "report": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrat...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42859335",
-      "date": "2026-10-10",
-      "title": "Metabolic profiling of retinal organoids reveals conserved core metabolites and alterations in glycolytic and amino acid metabolism.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859335/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Metabolomics : Official journal of the Metabolomic Society，PMID 为 42859335。",
-      "report": "Retinal organoids have emerged as powerful models of retinal development and disease; however, the extent to which they recapitulate the metabolic landscape of the native retina remains largely unknown. This study aimed to compare the metabolomic profiles of m...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0222b7f9026713cf006acb882676dc87d29dbd43e0ff6b8ddf",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "1db01197cb5b68c734789fb236326bfd9d7ad757ec3dd199cb16c7fac9b7133d",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献元数据支持的内容被清晰分隔，没有不当的临床结论。该记录符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与研究内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推论分隔清晰，证据水平适中。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Metabolomics : Official journal of the Metabolomic Society，PMID 为 42859335。",
-          "report": "Retinal organoids have emerged as powerful models of retinal development and disease; however, the extent to which they recapitulate the metabolic landscape of the native retina remains largely unknown. This study aimed to compare the metabolomic profiles of m...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42859157",
-      "date": "2026-10-10",
-      "title": "Extensive genomic diversity in Desulfovibrio reveals species-specific functional traits associated with disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859157/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42859157。",
-      "report": "Desulfovibrio spp. are associated with inflammatory diseases and human health, yet limited representative genomes and isolates hinder our understanding of their role in disease. Here, we assembled a comprehensive database of 2658 Desulfovibrio genomes across 9...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b3dcb2be30c3389006acb882ad58887d2a440691ea7ed288b",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "10ff25f313ef4e31b4fc888a22bcd758a97c74b261579f0411ee0ea57cc38f39",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息分类合理，事实与报告分清楚，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类适当，依据文献主题与内容合理确定。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献收集可靠程度高，证据水平适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42859157。",
-          "report": "Desulfovibrio spp. are associated with inflammatory diseases and human health, yet limited representative genomes and isolates hinder our understanding of their role in disease. Here, we assembled a comprehensive database of 2658 Desulfovibrio genomes across 9...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1548,148 +1810,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42859455",
-      "date": "2026-10-05",
-      "title": "Efficient Generation of Fetal Hepatic Stellate Cells From hiPSC.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859455/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42859455。",
-      "report": "Human induced pluripotent stem cell (hiPSC)-derived liver organoids have emerged as valuable models for studying human liver development. However, existing organoid systems often lack developmentally matched cell populations, particularly fetal hepatic stellat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0103caf39ee2e2f9006acb883bd0dc87d2b0f1ea9813bc4123",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "5c56fd94c7e415068652b6954638b05680802c9f360c31a51dcf291fe20f6799",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰且符合发布标准，无需人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42859455。",
-          "report": "Human induced pluripotent stem cell (hiPSC)-derived liver organoids have emerged as valuable models for studying human liver development. However, existing organoid systems often lack developmentally matched cell populations, particularly fetal hepatic stellat...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42859450",
-      "date": "2026-10-05",
-      "title": "Tapenade: Spatial Quantification of Mechanical and Genetic Fields in Dense 3D Organoids From Cell to Tissue Scale.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859450/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42859450。",
-      "report": "Whole-mount 3D imaging of multilayered biological tissues enables quantitative analysis of cell states and organization in their spatial context. However, extracting unbiased and meaningful quantitative information from dense, multilayered samples remains chal...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_026e57f5a9c6149d006acb883ec96887d2b3410e7ac85c2ce4",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "974ac5667bd07bb86a150582f65d216c47721e50864358f78f97c639ca672c03",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息清晰，未包含临床建议或无支持的效能结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献引用内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源可靠，且证据水平适中。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42859450。",
-          "report": "Whole-mount 3D imaging of multilayered biological tissues enables quantitative analysis of cell states and organization in their spatial context. However, extracting unbiased and meaningful quantitative information from dense, multilayered samples remains chal...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42859512",
       "date": "2026-10-05",
       "title": "Identifying Differentially Expressed Proteins via Plasma Exosomal Proteomics.",
@@ -2049,6 +2169,84 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42860857",
+      "date": "2026-10-01",
+      "title": "UPLC-Q-TOF-MS/MS Profiling and Synergistic Anti-HCC Activity of Gallic Acid From Compound Muji Granules Combined With hUC-MSC-Exos.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860857/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Chemistry & biodiversity，PMID 为 42860857。",
+      "report": "Hepatocellular carcinoma (HCC) lacks effective therapies. Compound Muji Granules (MJ), a traditional Chinese medicine, shows potential anti-HCC activity, but its material basis and synergistic mechanism with exosomal delivery remain unclear. Using UPLC-Q-TOF-M...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01ea76588323b45d006accfec86ad887d0af0c448f59c68f91",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "7963bf4fe451b682b81ec5936d6ece70391d40b37519ce672b0daefddef5f3b0",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献摘要中包含潜在的推论和用途，但未标明临床结论的支持情况。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主题分类不够详实，需额外说明研究质量和目的。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，但未提供必要的支持证据以确认临床效果。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Chemistry & biodiversity，PMID 为 42860857。",
+          "report": "Hepatocellular carcinoma (HCC) lacks effective therapies. Compound Muji Granules (MJ), a traditional Chinese medicine, shows potential anti-HCC activity, but its material basis and synergistic mechanism with exosomal delivery remain unclear. Using UPLC-Q-TOF-M...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42844355",
       "date": "2026-10-01",
       "title": "Generalizable perturbation prediction.",
@@ -2344,6 +2542,69 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42861354",
+      "date": "2026-09-28",
+      "title": "Integrated computation-guided thermostabilization of the fungal sweet protein Honey Truffle Sweetener.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861354/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42861354。",
+      "report": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods. Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS), a recently identified fungal sweet protein with l...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bb2195cc4f0bb04006accfecd301487d08dd6a46950ff17a0",
+        "reviewedAt": "2026-10-12T15:37:18.707374+00:00",
+        "inputHash": "efa8c1dbd320e208bdcfcd59a3885d805997337a8d08ec583a8de450e266700e",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，内容清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据等级合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分隔清晰，证据等级合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42861354。",
+          "report": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods. Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS), a recently identified fungal sweet protein with l...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2799,77 +3060,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42846248",
-      "date": "2026-09-23",
-      "title": "Contributions of aquatic organisms to understanding the vertebrate ocular lens.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42846248/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in ophthalmology，PMID 为 42846248。",
-      "report": "Aquatic species have played a vital role over the past 200 years in detailing the structure, physiology, development, and evolution of the ocular lens. As a living piece of biological \"glass\", the lens must balance the optical demands of transparency and refra...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07c0d6912e15b066006ac8267699f887d1b2e68c3c5d340d54",
-        "reviewedAt": "2026-10-08T23:24:52.018248+00:00",
-        "inputHash": "f0d3265ace6ed59a005e32e808af71426018d75d769e47897f8dac4e4e7ff577",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的发布信息和内容清晰，符合中立情报记录的标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论区分明确，证据水平适中。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in ophthalmology，PMID 为 42846248。",
-          "report": "Aquatic species have played a vital role over the past 200 years in detailing the structure, physiology, development, and evolution of the ocular lens. As a living piece of biological \"glass\", the lens must balance the optical demands of transparency and refra...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3979,76 +4169,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42857120",
-      "date": "2026-09-02",
-      "title": "Selumetinib for pediatric arteriovenous malformation with a MAP2K1 variant identified by liquid biopsy of nidus-draining venous blood.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42857120/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 JAAD case reports，PMID 为 42857120。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05241eb530eb1e29006acb8858dc8c87d2bfb844fd5e27b536",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "e7bc0afeba9d823656b6f87e7159da6999f0988f1fdb38f602fd7d86dd61915c",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，报告的证据水平与主题不符。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平为低，但分类为高质量研究。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告与证据水平不一致。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 JAAD case reports，PMID 为 42857120。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001682852-000119312526378505",
       "date": "2026-09-01",
       "title": "Moderna filed Form 8-K",
@@ -4276,84 +4396,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42859024",
-      "date": "2026-08-25",
-      "title": "Self-enhanced PepT1-mediated transport of egg white-derived tripeptide FGR in apical-out mouse jejunal organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859024/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food research international (Ottawa, Ont.)，PMID 为 42859024。",
-      "report": "Our previous study has verified efficient PepT1-mediated transport of the egg white-derived tripeptide FGR (Phe-Gly-Arg), but its transport mechanism under physiological intestinal conditions remains elusive and is difficult to fully recapitulate using convent...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01f97cfce2f6be25006acb885c35e087d28d08cbce5504e495",
-        "reviewedAt": "2026-10-11T12:59:17.650394+00:00",
-        "inputHash": "7e239f7482f6e7cf48a590bd96a1a4f16a856e774bb2edb8cbbc3d810b50715e",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "此文献的报告内容未能证明临床结论，并且缺少对研究质量和样本量的评估。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与提供的元数据不完全一致，需进一步审查。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告的内容未能有效分离事实、报告及推论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed记录显示该文献收录于 Food research international (Ottawa, Ont.)，PMID 为 42859024。",
-          "report": "Our previous study has verified efficient PepT1-mediated transport of the egg white-derived tripeptide FGR (Phe-Gly-Arg), but its transport mechanism under physiological intestinal conditions remains elusive and is difficult to fully recapitulate using convent...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

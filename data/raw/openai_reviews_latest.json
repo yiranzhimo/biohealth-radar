@@ -1,28 +1,31 @@
 {
-  "capturedAt": "2026-10-12T06:06:14.197347+00:00",
+  "capturedAt": "2026-10-12T15:37:18.707374+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42860198",
-      "responseId": "resp_033b934de976a786006acc78d7156487d085cc5b2b4bf1ab75",
+      "signalId": "pubmed-42860904",
+      "responseId": "resp_00872bfbaf966255006accfeaf5f3887d09fa99d7b82c4929c",
       "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录资料分明，符合出版标准。",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认信息的准确性和可靠性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，符合文献内容。"
+          "isSupported": false,
+          "notesCn": "证据水平仅为中等，可能不足以支持此分类。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，无临床结论。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献报告了潜在的治疗效果，但证据水平不高，无法支持强有力的临床结论。"
         },
-        "riskFlags": [],
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
@@ -39,91 +42,265 @@
             "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Experimental cell research，PMID 为 42860198。",
-          "report": "Bile reflux and bacterial dysbiosis are recognized risk factors for gastric carcinogenesis; however, whether bile acids and bacterial-derived metabolites enhance gastric epithelial plasticity and drive inflammatory and metaplastic remodeling remains poorly und...",
+          "fact": "PubMed 记录显示该文献收录于 Asia-Pacific journal of clinical oncology，PMID 为 42860904。",
+          "report": "Targeting CD147 on hepatocellular carcinoma (HCC) cells has demonstrated therapeutic efficacy. Cancer-associated fibroblasts (CAFs) have been identified as critical components of the tumor microenvironment. The role of CD147 in CAFs is still unclear, and this...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42860325",
-      "responseId": "resp_03a630ed07c4629b006acc78e0165087d0b240437721d3aa91",
+      "signalId": "pubmed-42860581",
+      "responseId": "resp_086145a69eccc0f0006accfeb4ca9487d0abbb82ba730dcb5d",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献综述了非肌肉侵袭性膀胱癌的预后和治疗反应生物标志物，信息符合出版要求。",
+        "reviewSummaryCn": "该文献介绍了人类多能干细胞衍生的肝类器官及其在肝损伤模型中的应用，信息整洁且符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理且支持文献内容。"
+          "notesCn": "分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分离，证据水平合理。"
+          "notesCn": "事实、报告和推断已清晰分离，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
-            "Precision Oncology",
-            "Drug Screening"
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
           ],
           "tags": [
-            "biotech",
-            "肿瘤",
-            "药筛"
+            "类器官",
+            "疾病模型",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 BJU international，PMID 为 42860325。",
-          "report": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrat...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860581。",
+          "report": "Liver metabolic zonation enables hepatocytes to carry out diverse, spatially organized functions essential for liver homeostasis and metabolism. However, in vitro recapitulation of zone-specific diversity, particularly in human pluripotent stem cell (PSC)-derived models, remains challenging.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42860076",
-      "responseId": "resp_0c8c02a156a28a9e006acc78e5180087d0b0f36377f5af4e3e",
+      "signalId": "pubmed-42860576",
+      "responseId": "resp_01bc8ade7864d48d006accfeb9d59c87d0834f6671e257efc6",
       "review": {
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的内容与分类符合要求，无需人工审核。",
+        "reviewSummaryCn": "该信号符合发布标准，信息清晰且分隔明了。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
+          "notesCn": "分类合适，符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分开，证据级别适当。"
+          "notesCn": "事实、报告和推论均已明确分开，证据水平合理。"
         },
         "riskFlags": [
-          "weak_classification"
+          "clinical_claim",
+          "precision_medicine"
         ],
         "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "Virtual Cell / Cell Foundation Models",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Virtual Cell",
-            "AI for Biology",
+            "Organoids",
+            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
-            "虚拟细胞",
-            "细胞基础模型",
+            "类器官",
+            "疾病模型",
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42860076。",
-          "report": "Perturb-seq prediction increasingly relies on either biological graph priors or single-cell foundation models, but their relative value is difficult to interpret when architectures, split definitions and graph sources vary simultaneously. We benchmarked STRING...",
-          "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42860576。",
+          "report": "Patient-derived tumor organoids (PDOs) closely preserve the cellular heterogeneity, histopathology, and molecular features of the original tumors, making them powerful preclinical models. Antisense oligonucleotides (ASOs) are an emerging class of precision med...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42860388",
+      "responseId": "resp_0f927962f2872da4006accfebdf29487d0a6e43fe0751d34d1",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及临床数据和谐模型，需人类审阅确认分类和推理的正确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献所述的临床证据基础不清晰，可能需要进一步审阅以验证提及的研究质量与样本量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "当前证据级别为中等，但与文献的严谨性和临床应用的可靠性不符。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "未知",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42860388。",
+          "report": "Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality. Integrative multi-omics and machine-learning analyses across independent cohorts identified CYYR1 as a frequently downregulated transmembrane protein in LUAD, with low expression a...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42861255",
+      "responseId": "resp_076480ab2581d7c2006accfec4624c87d0a123f77a90929afc",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合出版要求，信息清晰且分离，未包含临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且与文献来源相符。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断均明确分开，证据水平合理。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42861255。",
+          "report": "Circulating tumor cells (CTCs), as pivotal targets in liquid biopsy, offer dynamic, multidimensional insights into tumor heterogeneity and metastatic progression. However, their extreme rarity, pronounced heterogeneity, and the complexity of the blood microenvironment pose significant challenges...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42860857",
+      "responseId": "resp_01ea76588323b45d006accfec86ad887d0af0c448f59c68f91",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献摘要中包含潜在的推论和用途，但未标明临床结论的支持情况。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主题分类不够详实，需额外说明研究质量和目的。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "文献来源可靠，但未提供必要的支持证据以确认临床效果。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Chemistry & biodiversity，PMID 为 42860857。",
+          "report": "Hepatocellular carcinoma (HCC) lacks effective therapies. Compound Muji Granules (MJ), a traditional Chinese medicine, shows potential anti-HCC activity, but its material basis and synergistic mechanism with exosomal delivery remain unclear. Using UPLC-Q-TOF-M...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42861354",
+      "responseId": "resp_0bb2195cc4f0bb04006accfecd301487d08dd6a46950ff17a0",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，内容清晰且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类别和证据等级合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分隔清晰，证据等级合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Current research in food science，PMID 为 42861354。",
+          "report": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods. Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS), a recently identified fungal sweet protein with l...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
