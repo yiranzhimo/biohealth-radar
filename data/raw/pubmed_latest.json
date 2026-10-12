@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-11T22:03:22.255997+00:00",
+  "capturedAt": "2026-10-12T06:06:05.782265+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,54 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-11",
-    "end": "2026-10-11"
+    "start": "2025-10-12",
+    "end": "2026-10-12"
   },
   "pmids": [
+    "42860198",
     "42859455",
     "42859450",
     "42859335",
     "42859157",
     "42859024",
-    "42858787",
+    "42860076",
     "42852178",
     "42844355",
     "42818971",
     "42818106",
     "42816262",
-    "42815472",
     "42856349",
     "42856293",
     "42854199",
     "42853897",
     "42850317",
     "42846248",
+    "42860325",
     "42859512",
     "42858627",
     "42858308",
     "42858163",
-    "42857120",
-    "42856810"
+    "42857120"
   ],
   "records": [
+    {
+      "pmid": "42860198",
+      "title": "Bile acid and bacterial β-ADP-heptose induce gastric epithelial remodeling through the NF-κB-LIF axis.",
+      "abstract": "Bile reflux and bacterial dysbiosis are recognized risk factors for gastric carcinogenesis; however, whether bile acids and bacterial-derived metabolites enhance gastric epithelial plasticity and drive inflammatory and metaplastic remodeling remains poorly understood. Here, using human gastric organoids and complementary mouse models, we investigated how chenodeoxycholic acid (CDCA) and the bacterial metabolite β-ADP-heptose influence gastric epithelial fate during early gastric carcinogenesis. Transcriptomic analysis revealed that combined exposure to CDCA and β-ADP-heptose induced extensive epithelial remodeling, characterized by activation of inflammatory and stem-cell pluripotency-associated pathways. Mechanistically, combined CDCA and β-ADP-heptose treatment activated NF-B signaling, resulting in robust induction of leukemia inhibitory factor (LIF). Elevated LIF expression was accompanied by loss of gastric lineage identity, including reduced expression of TFF2, GKN1, and GKN2, and acquisition of intestinal metaplasia-associated features marked by increased REG4 and CDX1 expression. Pharmacological inhibition of NF-κB or genetic depletion of LIF substantially attenuated these pathological changes, restoring gastric lineage markers and suppressing intestinal-like differentiation. Collectively, our findings show that exposure to CDCA and β-ADP-heptose activates NF-κB-LIF signaling and promotes gastric epithelial lineage remodeling characterized by loss of gastric lineage-associated features and acquisition of intestinal-like features.",
+      "journal": "Experimental cell research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China.",
+        "Henan Key Laboratory for Helicobacter pylori and Digestive Tract Microecology, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou, 450000, Henan, China.",
+        "Department of Pharmacy, The First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China.",
+        "Henan International Joint Laboratory of Infection and Immunity, The First Affiliated Hospital, Zhengzhou University, Zhengzhou 450001, China."
+      ],
+      "doi": "10.1016/j.yexcr.2026.115193",
+      "date": "2026-10-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860198/"
+    },
     {
       "pmid": "42859455",
       "title": "Efficient Generation of Fetal Hepatic Stellate Cells From hiPSC.",
@@ -141,19 +159,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859024/"
     },
     {
-      "pmid": "42858787",
-      "title": "Models with Human Relevance and Patient Specificity in Neurodegenerative Diseases.",
-      "abstract": "",
-      "journal": "Neuroscience research",
+      "pmid": "42860076",
+      "title": "Benchmarking biological knowledge-graph priors against single-cell foundation models for Perturb-seq prediction.",
+      "abstract": "Perturb-seq prediction increasingly relies on either biological graph priors or single-cell foundation models, but their relative value is difficult to interpret when architectures, split definitions and graph sources vary simultaneously. We benchmarked STRING functional associations and Gene Ontology co-annotation against dense, self-edge-only and exact-degree-rewired supports in one fixed graph-attention backbone, with a separate 200-HVG STRING-GO-control-co-expression sensitivity. Four public Perturb-seq datasets, three nested gene-space scales and three optimisation seeds were evaluated on held-out guide conditions; GEARS, scGPT and Geneformer were evaluated on the same held-out conditions, output-gene panels and Pearson-r metric after model-specific validity checks. At 200 highly variable genes, STRING-GO improved the equal-dataset Pearson r by +0.016 (95% interval [+0.010, +0.022]) relative to dense support. Dataset effects were positive in Adamson (+0.017), Norman (+0.015), Replogle K562 (+0.017) and Replogle RPE1 (+0.014), and 122/200 guide conditions improved (0.61 [0.54,0.68]). The top-20-gene Jaccard difference was +0.009 [+0.006,+0.012]. STRING-GO exceeded self-edge-only support by +0.024 [+0.018,+0.029] and the mean of ten exact-degree rewires by +0.011 [+0.005,+0.017]. The native-panel effect declined from +0.016 at 200 genes to +0.009 at 1000 genes; the 1000-200 interaction was -0.006 [-0.011,-0.002]. The primary graph-support comparison was formulated and conducted during peer-review revision rather than planned as an a priori confirmatory study. All three external models passed implementation-specific checks. Across 36 protocol-matched dataset-scale contrasts, 32 were within the descriptive ±0.030 reference envelope and four were outside, all favouring the external model. These results demonstrate a modest empirical predictive improvement under the evaluated matched protocol; they do not by themselves establish practical biological relevance.",
+      "journal": "Computational biology and chemistry",
       "publicationTypes": [
-        "Letter"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Clinical Application, Center for iPS Cell Research and Application (CiRA), Kyoto University; Laboratory of Stem Cell Medicine, Graduate School of Medicine and Faculty of Medicine, Kyoto University; iPSC-based Drug Discovery and Development Team, RIKEN BioResourse Research, Center (BRC). Electronic address: haruhisa@cira.kyoto-u.ac.jp."
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China; Digital Science Center, University of Innsbruck, Innsbruck 6020, Tirol, Austria; Department of Medical Informatics, School of Biomedical Engineering and Informatics, Nanjing Medical University, Nanjing 211166, Jiangsu, China. Electronic address: njie@seu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China. Electronic address: 230268377@seu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China. Electronic address: 230229239@seu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China. Electronic address: yhcai_seu@seu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China. Electronic address: zyxie@seu.edu.cn.",
+        "State Key Laboratory of Digital Medical Engineering, School of Biological Science and Medical Engineering, Southeast University, Nanjing 211102, Jiangsu, China; Department of Information, The First Affiliated Hospital, Nanjing Medical University, Nanjing 210029, Jiangsu, China. Electronic address: liuyun@njmu.edu.cn."
       ],
-      "doi": "10.1016/j.neures.2026.105138",
-      "date": "2026-10-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42858787/"
+      "doi": "10.1016/j.compbiolchem.2026.109480",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860076/"
     },
     {
       "pmid": "42852178",
@@ -250,24 +273,6 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816262/"
     },
     {
-      "pmid": "42815472",
-      "title": "stFormer integrates spatial ligand signaling into a foundation model for spatial transcriptomics.",
-      "abstract": "Recent foundation models for single-cell transcriptomic data generate informative, context-aware gene and cell representations. Spatial transcriptomic (ST) data offer extra positional insights but were not considered by these single-cell models. We introduce stFormer, a transformer model tailored for ST data, which employs the cross-attention module to incorporate spatial ligand genes. To unify different ST technologies with a trade-off between resolution and gene coverage, we propose a biased cross-attention method that enables the model to do learning with single-cell resolution on whole-transcriptome but low-resolution Visium data. We assembled a pretraining corpus comprising ∼4.1 million spatial samples from public human Visium datasets. After pretraining, stFormer improved upon the state-of-the-art single-cell foundation model, scFoundation, across diverse tasks, including cell clustering, batch effect correction, cell type prediction, and gene function prediction. stFormer also revealed intercellular ligand-receptor signaling responses via in silico perturbation. Finally, we demonstrated stFormer's utility in yielding biological findings on two case studies.",
-      "journal": "Cell reports methods",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Mathematics, College of Sciences, Shanghai University, Shanghai 200444, China; Newtouch Center for Mathematics of Shanghai University, Shanghai University, Shanghai 200444, China; Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China. Electronic address: shcao@shu.edu.cn.",
-        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China.",
-        "State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing 100190, China.",
-        "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China; State Key Laboratory of Biopharmaceutical Preparation and Delivery, Institute of Process Engineering, Chinese Academy of Sciences, Beijing 100190, China. Electronic address: yyuan@ipe.ac.cn."
-      ],
-      "doi": "10.1016/j.crmeth.2026.101612",
-      "date": "2026-09-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42815472/"
-    },
-    {
       "pmid": "42856349",
       "title": "Design-Evolution Synergy Enables New-to-Nature Enzyme Chemistry.",
       "abstract": "Directed evolution and machine-learning-assisted evolution have transformed biocatalysis by enabling rapid optimisation of catalytic performance within compatible protein scaffolds. In parallel, advances in deep-learning-driven de novo protein design have expanded accessible protein architectural space, enabling the generation of functional catalysts for increasingly challenging transformations. We herein report a synergistic design-evolution strategy to encode new-to-nature regio- and enantioselective C-H amination reactions using engineered de novo haemproteins to synthesise chiral piperidines, a privileged pharmacophore in drug discovery. By integrating motif scaffolding, computational re-design, and directed evolution, we demonstrate de novo enzyme design can enable challenging, high-energy-barrier enzyme chemistry with programmable regio- and enantioselectivity, high catalytic efficiency, excellent enzyme stability, and scaffold diversity.",
@@ -355,6 +360,24 @@
       "doi": "10.3389/fopht.2026.1900415",
       "date": "2026-09-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42846248/"
+    },
+    {
+      "pmid": "42860325",
+      "title": "Prognostic biomarkers in non-muscle-invasive bladder cancer: biological basis and evidence.",
+      "abstract": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrative search of PubMed, Web of Science, and the Cochrane Library for English-language human studies published from January 2015 to August 2026, supplemented by earlier pivotal studies and reference-list screening. Priority was given to NMIBC cohorts reporting recurrence, progression, survival, or response to intravesical therapy. We considered cohort specificity, sample size, multivariable analysis, testing in an independent population, and assay standardisation. Tumour-tissue markers such as stromal antigen 2 (STAG2), fibroblast growth factor receptor 3 (FGFR3), fibroblast activation protein-α, the urokinase plasminogen activator system, and cadherins are linked to chromosomal stability, growth-factor signalling, stromal remodelling, extracellular-matrix invasion, and epithelial-mesenchymal transition. Urinary RNAs and plasma circulating tumour DNA permit non-invasive sampling, although results depend on specimen handling and assay conditions. Blood-derived inflammatory indices are inexpensive but non-specific. Most evidence comes from retrospective single-cohort studies; reported effects and cut-offs are not always consistent, and few markers materially improve clinicopathological models. None of the biomarkers reviewed can currently replace guideline-based risk stratification or cystoscopic surveillance. Future studies should define assays and thresholds prospectively, test them in independent cohorts, and show that adding a biomarker improves prediction and patient management at an acceptable cost.",
+      "journal": "BJU international",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Urology & Nephrology Center, Department of Urology, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, Hangzhou, Zhejiang, China.",
+        "Postgraduate Training Base Alliance of Zhejiang Provincial People's Hospital, Wenzhou Medical University, Wenzhou, Zhejiang, China.",
+        "Key Laboratory of Novel Targets and Drug Study for Neural Repair of Zhejiang Province, School of Medicine, Hangzhou City University, Hangzhou, Zhejiang, China."
+      ],
+      "doi": "10.1111/bju.70488",
+      "date": "2026-10-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860325/"
     },
     {
       "pmid": "42859512",
@@ -452,30 +475,71 @@
       "doi": "10.1016/j.jdcr.2026.08.040",
       "date": "2026-09-02",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42857120/"
-    },
-    {
-      "pmid": "42856810",
-      "title": "Cancer degronopathies and protein-fate biomarkers in drug resistance and cancer progression: signalling mechanisms, measurement and translational limits.",
-      "abstract": "Drug resistance remains a major barrier to durable targeted therapy, and cancer progression often reflects rewiring of signalling pathways that control protein stability. Dysregulation of the ubiquitin-proteasome system, including failure of degron-dependent substrate recognition, can stabilise oncogenic proteins, accelerate tumour-suppressor loss and generate treatment-dependent protein states. Yet clinical interpretation commonly relies on genotype or steady-state abundance, neither of which directly identifies the degradation rate or route of a specific substrate. In this critical narrative review, we use cancer degronopathy as a restricted operational term for tumour-relevant alterations in degron-dependent recognition, rather than as an established disease or diagnostic class. Through contrastive analysis of four endogenous modules (SPOP; FBXW7 versus CTNNB1; KEAP1-NFE2L2-CUL3; and VHL-HIF), together with drug-induced degradation, we examine how altered protein fate intersects with signalling pathways implicated in cancer progression, intrinsic or acquired drug resistance and therapeutic response. We trace each candidate biomarker from the initiating tumour event and substrate-specific fate change to patient-compatible measurement, analytical performance and intended clinical use. The analysis shows that SPOP effects vary with allele, substrate, lineage and assembly; FBXW7 reader defects and CTNNB1 cis-acting escape require different analytes; and pooled KEAP1-axis states and cross-isoform VHL-HIF extrapolations remain unresolved. Pharmacological degradation adds a temporal layer: vepdegestrant acts through oestrogen receptor-α degradation, whereas its FDA-authorised companion diagnostic selects patients by plasma ESR1 genotype, and serial target measurements are required to distinguish productive target loss, failed loss, recovery and downstream escape. Protein-fate measurement may be informative if it resolves a reproducible, decision-relevant state that genotype, abundance or pathway-output markers leave ambiguous. We define the experimental and clinical evidence needed to test whether such measurements can inform precision strategies to address drug resistance and cancer progression. Conclusion remain limited to the contrastive cases and United States records reviewed through 26 July 2026, with separately dated updates to selected trial records.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The First Operating Room, The First Hospital of Jilin University, Changchun, Jilin, China.",
-        "Clinical Medical College, Changchun University of Traditional Chinese Medicine, Changchun, Jilin, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, General Surgery Center, The First Hospital of Jilin University, Changchun, Jilin, China.",
-        "Department of Comprehensive Oncology, Affiliated Hospital of Shandong Second Medical University, Weifang, China.",
-        "Key Laboratory of Organ Regeneration and Transplantation of Ministry of Education, The First Hospital of Jilin University, Changchun, China.",
-        "National-Local Joint Engineering Laboratory of Animal Models for Human Disease, The First Hospital of Jilin University, Changchun, China."
-      ],
-      "doi": "10.3389/fcell.2026.1960932",
-      "date": "2026-09-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856810/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42860198",
+      "date": "2026-10-11",
+      "title": "Bile acid and bacterial β-ADP-heptose induce gastric epithelial remodeling through the NF-κB-LIF axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860198/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental cell research，PMID 为 42860198。",
+      "report": "Bile reflux and bacterial dysbiosis are recognized risk factors for gastric carcinogenesis; however, whether bile acids and bacterial-derived metabolites enhance gastric epithelial plasticity and drive inflammatory and metaplastic remodeling remains poorly und...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42860325",
+      "date": "2026-10-11",
+      "title": "Prognostic biomarkers in non-muscle-invasive bladder cancer: biological basis and evidence.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860325/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 BJU international，PMID 为 42860325。",
+      "report": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrat...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42859335",
       "date": "2026-10-10",
@@ -533,32 +597,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42858787",
-      "date": "2026-10-10",
-      "title": "Models with Human Relevance and Patient Specificity in Neurodegenerative Diseases.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42858787/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuroscience research，PMID 为 42858787。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42858163",
       "date": "2026-10-10",
       "title": "Biomarker-guided immunotherapies for primary CNS tumors.",
@@ -584,6 +622,36 @@
       "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42858163。",
       "report": "Refined immunotherapeutic modalities for the treatment of primary central nervous system (CNS) tumors - vaccines, virotherapies, immune checkpoint inhibitors, and cell therapies - are starting to show efficacy in selected patients with primary CNS tumors. Stil...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42860076",
+      "date": "2026-10-09",
+      "title": "Benchmarking biological knowledge-graph priors against single-cell foundation models for Perturb-seq prediction.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860076/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42860076。",
+      "report": "Perturb-seq prediction increasingly relies on either biological graph priors or single-cell foundation models, but their relative value is difficult to interpret when architectures, split definitions and graph sources vary simultaneously. We benchmarked STRING...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -887,36 +955,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42815472",
-      "date": "2026-09-30",
-      "title": "stFormer integrates spatial ligand signaling into a foundation model for spatial transcriptomics.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42815472/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42815472。",
-      "report": "Recent foundation models for single-cell transcriptomic data generate informative, context-aware gene and cell representations. Spatial transcriptomic (ST) data offer extra positional insights but were not considered by these single-cell models. We introduce s...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42856293",
       "date": "2026-09-28",
       "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design.",
@@ -983,36 +1021,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42818106。",
       "report": "Genetic perturbations can reshape cell populations by altering the relative abundance of specific cell types and states within the profiled population, including increases, decreases and states that become detectable after perturbation. Pooled single-cell scre...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42856810",
-      "date": "2026-09-25",
-      "title": "Cancer degronopathies and protein-fate biomarkers in drug resistance and cancer progression: signalling mechanisms, measurement and translational limits.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856810/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42856810。",
-      "report": "Drug resistance remains a major barrier to durable targeted therapy, and cancer progression often reflects rewiring of signalling pathways that control protein stability. Dysregulation of the ubiquitin-proteasome system, including failure of degron-dependent s...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
