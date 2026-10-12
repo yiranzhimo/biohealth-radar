@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 623,
     "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 52,
+    "failedSourceCount": 53,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -14975,9 +14975,41 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+            "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "sourceUrl": "https://www.arvinas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+            "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "sourceUrl": "https://www.arvinas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
+            "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "sourceUrl": "https://www.arvinas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
+            "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "sourceUrl": "https://www.arvinas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
             "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-            "evidenceId": "evidence-company-arvinas-official-6e55340e0edb",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14989,43 +15021,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
-            "text": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
-            "text": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
-            "text": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
-            "text": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-arvinas-official-6e55340e0edb",
+          "evidence-company-arvinas-official-06fef0c926c5",
           "evidence-company-arvinas-pipeline-8a55bb718901",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
@@ -15048,14 +15048,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-arvinas-official-6e55340e0edb",
-            "date": "2026-10-10",
+            "id": "event-evidence-company-arvinas-official-06fef0c926c5",
+            "date": "2026-10-12",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-6e55340e0edb",
+            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
             "sourceUrl": "https://www.arvinas.com/"
           },
           {
@@ -15116,7 +15116,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-10",
+        "lastEvidenceDate": "2026-10-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -15126,14 +15126,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-arvinas-official-6e55340e0edb",
-          "date": "2026-10-10",
+          "id": "event-evidence-company-arvinas-official-06fef0c926c5",
+          "date": "2026-10-12",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-6e55340e0edb",
+          "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
           "sourceUrl": "https://www.arvinas.com/"
         },
         {
@@ -59790,6 +59790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -59802,6 +59803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75006,9 +75008,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
+            "text": "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
+            "sourceUrl": "https://www.xtalpi.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
             "text": "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis",
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -75016,7 +75026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "晶泰以 XtalPi Science 智能体为智能中枢，以领域模型打造的科学智能完成专业预测与设计，以机器人构筑物理智能基建完成实验与验证，融合打造科研领域的自主智能体；​将科研目标落实为可验证的分子与材料，攻坚药物发现及其他领域的重大难题。",
             "text": "晶泰以 XtalPi Science 智能体为智能中枢，以领域模型打造的科学智能完成专业预测与设计，以机器人构筑物理智能基建完成实验与验证，融合打造科研领域的自主智能体；​将科研目标落实为可验证的分子与材料，攻坚药物发现及其他领域的重大难题。",
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -75024,7 +75034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "自主科学发现新范式 Agentic System XtalPi Science 智能中枢",
             "text": "自主科学发现新范式 Agentic System XtalPi Science 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -75032,15 +75042,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "XtalPi Science 科研专用智能体：理解科研意图，编排垂直领域模型与物理智能实验室机器人，驱动干湿实验自主迭代。",
             "text": "XtalPi Science 科研专用智能体：理解科研意图，编排垂直领域模型与物理智能实验室机器人，驱动干湿实验自主迭代。",
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
-            "sourceUrl": "https://www.xtalpi.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
-            "text": "XtalPi Science Agentic 智能 Genius Agents 智能中枢",
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
             "sourceUrl": "https://www.xtalpi.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -75056,7 +75058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-xtalpi-official-b3b7769ddb3b",
+          "evidence-company-xtalpi-official-74fce7e1f652",
           "evidence-company-xtalpi-investor_relations-b61641c41fad"
         ]
       },
@@ -75064,14 +75066,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-xtalpi-official-b3b7769ddb3b",
-            "date": "2026-10-10",
+            "id": "event-evidence-company-xtalpi-official-74fce7e1f652",
+            "date": "2026-10-12",
             "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+            "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
             "sourceUrl": "https://www.xtalpi.com/"
           },
           {
@@ -75097,7 +75099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-10",
+        "lastEvidenceDate": "2026-10-12",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -75106,14 +75108,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-xtalpi-official-b3b7769ddb3b",
-          "date": "2026-10-10",
+          "id": "event-evidence-company-xtalpi-official-74fce7e1f652",
+          "date": "2026-10-12",
           "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-xtalpi-official-b3b7769ddb3b",
+          "evidenceId": "evidence-company-xtalpi-official-74fce7e1f652",
           "sourceUrl": "https://www.xtalpi.com/"
         },
         {

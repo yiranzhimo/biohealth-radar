@@ -4667,15 +4667,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-6e55340e0edb",
+      "id": "evidence-company-arvinas-official-06fef0c926c5",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-12",
+      "snapshotDate": "2026-10-12",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -4691,7 +4691,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 6e55340e0edbe81e0492969fd500b91b22f660635c627e06b0d49cade18714d5.",
+      "fact": "The official page was captured with normalized-content hash 06fef0c926c5980a7ee30449088c25c9a28ab2477eb39cc77a1a9fece6083bf7.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4704,16 +4704,27 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "6e55340e0edbe81e0492969fd500b91b22f660635c627e06b0d49cade18714d5",
-      "changeType": "unchanged",
+      "contentHash": "06fef0c926c5980a7ee30449088c25c9a28ab2477eb39cc77a1a9fece6083bf7",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics."
+        "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+        "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+        "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+        "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform."
       ],
       "businessExcerpts": [
-        "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics."
+        "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+        "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+        "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+        "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform."
       ],
-      "productExcerpts": [],
+      "productExcerpts": [
+        "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+        "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+        "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
+        "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs."
+      ],
       "planExcerpts": []
     },
     {
@@ -48687,7 +48698,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bf502f76aad98396272b2409238971579be0c206bb25646270ad1a9af00b4d94",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -49319,15 +49330,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-xtalpi-official-b3b7769ddb3b",
+      "id": "evidence-company-xtalpi-official-74fce7e1f652",
       "signalId": null,
       "companyIds": [
         "xtalpi"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-12",
+      "snapshotDate": "2026-10-12",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "XtalPi — Official Website",
@@ -49343,7 +49354,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash b3b7769ddb3b7805b197f77b8098131a214b0197c71156f07877368e838bcff4.",
+      "fact": "The official page was captured with normalized-content hash 74fce7e1f6522d6a9a80f571a904decb0ae625afb3ace8747e47fedb790e4a22.",
       "report": "公司官方页面表述：以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "reportOriginal": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "reportCn": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
@@ -49352,17 +49363,18 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "b3b7769ddb3b7805b197f77b8098131a214b0197c71156f07877368e838bcff4",
-      "changeType": "unchanged",
+      "contentHash": "74fce7e1f6522d6a9a80f571a904decb0ae625afb3ace8747e47fedb790e4a22",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
         "晶泰以 XtalPi Science 智能体为智能中枢，以领域模型打造的科学智能完成专业预测与设计，以机器人构筑物理智能基建完成实验与验证，融合打造科研领域的自主智能体；​将科研目标落实为可验证的分子与材料，攻坚药物发现及其他领域的重大难题。",
         "自主科学发现新范式 Agentic System XtalPi Science 智能中枢",
-        "XtalPi Science 科研专用智能体：理解科研意图，编排垂直领域模型与物理智能实验室机器人，驱动干湿实验自主迭代。",
-        "XtalPi Science Agentic 智能 Genius Agents 智能中枢"
+        "XtalPi Science 科研专用智能体：理解科研意图，编排垂直领域模型与物理智能实验室机器人，驱动干湿实验自主迭代。"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
+        "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
         "SureRoute: Toward a Hallucination-Free Self-Improving Platform for Retrosynthesis"
       ],
       "planExcerpts": []
