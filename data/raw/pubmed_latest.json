@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-13T00:46:54.018478+00:00",
+  "capturedAt": "2026-10-13T14:19:01.741463+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,80 @@
     "end": "2026-10-13"
   },
   "pmids": [
+    "42864779",
+    "42864493",
+    "42864231",
     "42862628",
     "42862474",
     "42861772",
-    "42861725",
-    "42861542",
-    "42860904",
+    "42865067",
     "42860076",
     "42852178",
     "42844355",
     "42818971",
     "42818106",
-    "42816262",
+    "42864397",
+    "42864336",
     "42861354",
     "42856349",
     "42856293",
     "42854199",
-    "42853897",
-    "42850317",
+    "42863532",
     "42862920",
     "42862849",
     "42861528",
     "42861255",
-    "42860325",
-    "42859512"
+    "42860325"
   ],
   "records": [
+    {
+      "pmid": "42864779",
+      "title": "LigHTS: Biomimetic Hydrogel Photo-Fabrication for Imaging-Based Ultra-High-Throughput Screening.",
+      "abstract": "Imaging-based ultra-high-throughput screening (UHTS) in pharma and biotech still relies on 384- and 1536-well plates whose rigid, flat substrates limit biological fidelity and screening efficiency. Highly biomimetic organoids and organs-on-chips improve relevance but at a cost that is incompatible with early screening campaigns. Photopatterned hydrogel scaffolds are potentially scalable, but current approaches lack plate-scale reproducibility and throughput. To address this gap, we present chemically-mediated Light-Intensity Gradients for structured hydrogel functionalization of ultra-High-Throughput Screening formats (LigHTS): an all-optical, in-well method for parallel photofabrication of biomimetic hydrogels in standard 384- and 1536-well plates. Adding ultraviolet-light absorber tartrazine to photo-curable solutions enables hydrogel thickness control by tuning illumination dose without focusing optics. Entire plates are functionalized in parallel with soft (∼1-10 kPa), thin (∼10-200 µm) hydrogels. Simultaneously, film photomasks that encode anisotropies enable control of well-level gel thickness and topography at UHTS scale. We demonstrate the utility of biomimetic gelatin-methacrylate-functionalized UHTS plates using mechanosensitive human cells (HT1080 fibrosarcoma cells, HaCaT epithelial cell colonies, and cardiomyocyte tissues derived from induced pluripotent stem cells), which display stiffness- and topography-dependent phenotypes. Finally, geometric uniformity across the plate meets industry requirements (coefficient of variation <20%), providing a readily available route to enhanced biomimicry in imaging-based UHTS pipelines.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Civil Engineering and Architecture, Synthetic Physiology Lab, University of Pavia, Pavia, Italy.",
+        "Department of Internal Medicine and Medical Therapy, Synthetic Physiology Lab, University of Pavia, Pavia, Italy.",
+        "Group of Computational Mechanics and Advanced Materials, Department of Civil Engineering and Architecture, University of Pavia, Pavia, Italy."
+      ],
+      "doi": "10.1002/advs.78192",
+      "date": "2026-10-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864779/"
+    },
+    {
+      "pmid": "42864493",
+      "title": "Engrafting human cortical organoids.",
+      "abstract": "",
+      "journal": "Nature biotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Nature Biotechnology, . dario.ummarino.1@nature.com."
+      ],
+      "doi": "10.1038/s41587-026-03355-2",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864493/"
+    },
+    {
+      "pmid": "42864231",
+      "title": "Anticipatory regulation of stem cell-based technologies: a UK case study.",
+      "abstract": "Biotechnological advances are prompting governments to fear falling behind and missing out on growth and investment. Yet science often moves faster and less predictably than legislation. Using the United Kingdom's stem cell regulation as a case study, we examine anticipatory regulation, sandboxes, and other agile governance tools for managing both over-regulation and regulatory gaps.",
+      "journal": "Trends in biotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Durham Law School, Durham University, Durham, UK. Electronic address: emma.cave@durham.ac.uk.",
+        "London School of Economics and Political Science, London, UK."
+      ],
+      "doi": "10.1016/j.tibtech.2026.09.017",
+      "date": "2026-10-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864231/"
+    },
     {
       "pmid": "42862628",
       "title": "A 3D-Printed Biochemical-Mechano-Thermally Responsive Multicellular Tumor Organoid Platform Decodes Biochemical-Physical Regulation of Cancer-Immune Crosstalk and Chemoresistance.",
@@ -95,65 +143,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861772/"
     },
     {
-      "pmid": "42861725",
-      "title": "Paracrine Bone-Derived Senescent Secretome is Associated with Spatially Patterned ECM Remodeling and Altered Biomechanics in Human Brain Organoids.",
-      "abstract": "Aging is increasingly recognized as a systemic process, yet the mechanisms by which signals from senescent peripheral cells accelerate brain aging remain poorly defined. Here, we used chronic exposure of human cerebral organoids to the secretome of senescent osteocytes to investigate how peripheral aging signals from bone reshape brain tissue architecture. We combined spatially resolved optical fiber-based interferometry nanoindentation with transcriptomic and immunofluorescence profiling, revealing distinct mechanical features across complementary measurements, including lower apparent modulus in intact organoids and spatially localized regions of elevated modulus in cryosectioned specimens. This spatially heterogeneous biomechanical remodeling was accompanied by upregulation of extracellular matrix, inflammatory, and senescence pathways, and suppression of neurodevelopmental and synaptic gene networks. Our results suggest that chronic paracrine exposure to senescent osteocyte-derived secretome is associated with localized extracellular matrix-related remodeling and mechanical vulnerability in human brain tissue, providing insight into how peripheral cellular senescence may contribute to regional brain fragility during aging. These pilot-scale findings were obtained using a single iPSC line and a single conditioned-medium batch, with one to six experimental replicates per condition across assays; the mechanical analyses were exploratory.",
-      "journal": "Stem cells (Dayton, Ohio)",
+      "pmid": "42865067",
+      "title": "Dynamic Graph Prior-Guided Latent Adaptation for Generalizable Single-Cell Perturbation Response Prediction.",
+      "abstract": "Predicting transcriptional responses to drug perturbations in unseen cellular contexts is a central challenge in single-cell perturbation modeling. This challenge creates a need for models that combine flexible state transitions with structured biological prior knowledge. Existing data-driven models often struggle to generalize across unseen cell types, while many prior-based models rely on static biological graphs without explicitly conditioning prior influence on perturbation-specific target support. We propose DGP-LA, a dynamic graph-prior latent adaptation framework that refines biological priors and injects them as gated latent corrections within a cell-state-conditioned transition model. DGP-LA couples a transition backbone with perturbation-conditioned sparse graph refinement. It propagates gene-aligned target support over the refined graph and selectively injects the resulting topology-aware signal into the hidden representation. On Tahoe and NeurIPS, DGP-LA improves Pearson Delta relative to State by 8.7% and 35.8% for generalization across unseen cell types. In zero-shot drug perturbation response prediction on unseen cell types, it improves Pearson Delta relative to CRISP by 79.1% and 67.6%. The model also improves DE-gene recovery, response discrimination, and Hallmark pathway recovery, supporting adaptive latent integration of biological priors for more generalizable and biologically interpretable perturbation modeling. DGP-LA's source code and reproducibility materials are available at https://github.com/bieyl/DGP-LA and archived on Zenodo at https://doi.org/10.5281/zenodo.22155398. Supplementary data are available at Bioinformatics online.",
+      "journal": "Bioinformatics (Oxford, England)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Biomedical Engineering, The University of Texas at Austin, Austin, TX, USA.",
-        "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.",
-        "Walker Department of Mechanical Engineering, The University of Texas at Austin, Austin, TX, USA.",
-        "Optics11 Life Inc., Boston, Massachusetts, USA.",
-        "Center for Advanced Gerotherapeutics, Division of Endocrinology, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+        "Beijing University of Posts and Telecommunications, School of Artificial Intelligence, Beijing, 100876, China.",
+        "Zhongguancun Academy, Beijing, 100094, China."
       ],
-      "doi": "10.1093/stmcls/sxag057",
+      "doi": "10.1093/bioinformatics/btag747",
       "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861725/"
-    },
-    {
-      "pmid": "42861542",
-      "title": "Advanced In Vitro Platforms for Experimental Liver Research: From Organoids and Liver-on-Chip to Omics and Artificial Intelligence.",
-      "abstract": "Hepatocytes perform essential physiological functions in the human body. Gaining more profound insight into the liver structure, diseases, and physiology by using in vitro models can help to propose more relevant clinical applications. Conventional in vitro liver models, such as two-dimensional (2D) cell cultures, fail to adequately replicate the hepatic microenvironment, even when improved by adding additional cell types and extracellular matrix (ECM). These models do not address all necessary key components to mimic in vivo conditions, particularly multicellularity, specific ECM, and proper biophysical and biochemical parameters. Organoids, 3D-bioprinted constructs, and liver-on-chip platforms establish physiologically relevant models by improving cell-cell and cell-matrix interactions and multicellular architecture. For a comprehensive understanding of the liver's interconnections with related tissues and organs, a multi-organ-on-chip is a useful platform for more systemic studies. Also, other interdisciplinary approaches, particularly omics and artificial intelligence (AI), can enhance the accuracy of experimental and pre-clinical data achieved by such advanced in vitro liver platforms. This review highlights developing platforms for integrated approaches in experimental liver studies to enable researchers to have a holistic view of the liver in physiologic and pathologic conditions.",
-      "journal": "Biotechnology and bioengineering",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Basic Sciences and Advanced Technologies in Biology, University of Science and Culture, Tehran, Iran.",
-        "Department of Regenerative Medicine, Cell Science Research Center, Royan Institute for Stem Cell Biology and Technology, ACECR, Tehran, Iran.",
-        "Department of Biology and Anatomical Sciences, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
-        "Experimental Cancer Medicine, Institution for Laboratory Medicine, Karolinska Institute, Stockholm, Sweden."
-      ],
-      "doi": "10.1002/bit.70411",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861542/"
-    },
-    {
-      "pmid": "42860904",
-      "title": "CD147+ Cancer-Associated Fibroblasts Promote PD-L1 Expression in Hepatocellular Carcinoma via TIMP2/MMP2/IL-6 Signaling.",
-      "abstract": "Targeting CD147 on hepatocellular carcinoma (HCC) cells has demonstrated therapeutic efficacy. Cancer-associated fibroblasts (CAFs) have been identified as critical components of the tumor microenvironment. The role of CD147 in CAFs is still unclear, and this study aims to explore its function. We analyzed single-cell RNA-seq data to identify CD147 expression in CAFs. Flow cytometry and multiplex immunohistochemistry (mIHC) were used to validate protein levels. CD147 function was assessed via shRNA/overexpression. Protein interactions were examined by molecular docking and co-immunoprecipitation (Co-IP). Organoid co-culture system was established to study tumor-immune interactions. Single-cell sequencing and mIHC analyses have confirmed the presence of CD147+CAFs within tumor and adjacent tissues, with tumor-derived CAFs exhibiting elevated CD147 transcript levels. The proportion of CD147+ CAFs varied among patients and demonstrated no significant correlation with CD147 expression in HCC cells. Functionally, CD147+ CAFs secreted higher levels of IL-6 compared to CD147- counterparts. We elucidated a mechanism wherein CD147 on CAFs competitively binds to the tissue inhibitor of metalloproteinase 2 (TIMP2), thereby diminishing TIMP2-mediated inhibition of matrix metalloproteinase 2 (MMP2). Free MMP2 enhances IL-6 secretion via the integrin α5β1 signaling pathway. IL-6 subsequently upregulates PD-L1 expression on HCC cells. This phenomenon was validated both in vitro and organoid co-culture model, where a higher burden of CD147+ CAFs correlated with increased levels of IL-6 and PD-L1. Our study delineates a novel CAF-driven immunosuppressive pathway in HCC, where CD147+ CAFs enhance tumor cell PD-L1 expression and susceptibility to immune checkpoint blockade via a TIMP2/MMP2/IL-6 axis. CD147 has been primarily viewed as a therapeutic marker on HCC cells and has supported the development of CD147-targeted treatment strategies. This study shows that CD147 is also expressed in CAFs and functions as an independent regulator of the immune microenvironment by promoting IL 6 secretion and tumor PD-L1 upregulation. Importantly, CD147 expression in CAFs is not correlated with its expression in tumor cells. These findings suggest that evaluation of CD147 in both tumor and stromal compartments may improve patient stratification and may identify additional patients who could potentially benefit from CD147-targeted or combination immunotherapy approaches.",
-      "journal": "Asia-Pacific journal of clinical oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Hepatic Surgery, Eastern Hepatobiliary Surgery Hospital, Naval Medical University, Shanghai, China.",
-        "Lanzhou Foreign Languages College, Lanzhou, China.",
-        "School of Health Science and Engineering, University of Shanghai for Science and Technology, Shanghai, China.",
-        "International Cooperation Laboratory on Signal Transduction, National Center for Liver Cancer, Eastern Hepatobiliary Surgery Hospital, Naval Medical University, Shanghai, China.",
-        "The First Clinical Medical College, Wenzhou Medical University, Wenzhou, China.",
-        "School of Life Sciences, Shanghai University, Shanghai, China.",
-        "Department of Biliary Tract Surgery, Eastern Hepatobiliary Surgery Hospital and National Center for Liver Cancer, Naval Medical University, Shanghai, China.",
-        "Department of Hepatobiliary and Pancreatic Surgery, Tenth People's Hospital of Tongji University, School of Medicine, Tongji University, Shanghai, China.",
-        "Clinical Research Institute, Eastern Hepatobiliary Surgery Hospital and National Centre for Liver Cancer, Naval Medical University, Shanghai, China."
-      ],
-      "doi": "10.1111/ajco.70177",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860904/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42865067/"
     },
     {
       "pmid": "42860076",
@@ -253,21 +256,53 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818106/"
     },
     {
-      "pmid": "42816262",
-      "title": "Beyond the linear sequence: towards a trans-aware virtual cell in computational genomics.",
-      "abstract": "",
-      "journal": "Science bulletin",
+      "pmid": "42864397",
+      "title": "Coordinating structure-guided design and cis-regulatory optimization to engineer elite herbicide-tolerance alleles in crops.",
+      "abstract": "Genome editing facilitates the rapid creation of elite alleles, yet identifying editable sites for durable trait improvement without functional trade-offs remains challenging. Most current strategies modify a single genetic axis, limiting their effectiveness and stability. Here we developed a dual-layer allele engineering framework integrating structure-guided protein design with precise cis-regulatory tuning to overcome such constraints. Using rice 4-hydroxyphenylpyruvate dioxygenase (OsHPPD) as a model, structural analysis enabled the rational design of coding variants that retain enzymatic activity while conferring herbicide resistance. To further enhance resistance, we introduced a highly efficient 22-bp expression-modulating element into the engineered alleles, generating combinatorial coding and regulatory variants with significantly improved resistance, up to four times the recommended field application rate. Importantly, the dual-layer strategy was successfully applied in polyploid wheat, demonstrating its robustness and cross-species applicability. Our work establishes a versatile framework for functional allele engineering, offering a precise and broadly applicable route for crop improvement.",
+      "journal": "Nature plants",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Medicine, Southern University of Science and Technology (SUSTech), Shenzhen 518055, China.",
-        "School of Medicine, Southern University of Science and Technology (SUSTech), Shenzhen 518055, China. Electronic address: Xingyinliu@hotmail.com.",
-        "Center for Frontier Interdisciplinary Research in Epigenetics, Institutes of Biomedical Sciences, Inner Mongolia University, Hohhot 010020, China. Electronic address: snowshen@mac.com."
+        "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China. rzhang@genetics.ac.cn.",
+        "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.",
+        "Zero-One Innovation Center and Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China.",
+        "State Key Laboratory of Seed Innovation, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.",
+        "School of Agriculture, Yunnan University, Kunming, China.",
+        "Zero-One Innovation Center and Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China. yuhang.chen@genetics.ac.cn.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China. yuhang.chen@genetics.ac.cn.",
+        "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China. cxgao@genetics.ac.cn.",
+        "College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China. cxgao@genetics.ac.cn."
       ],
-      "doi": "10.1016/j.scib.2026.09.010",
-      "date": "2026-09-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816262/"
+      "doi": "10.1038/s41477-026-02423-4",
+      "date": "2026-10-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864397/"
+    },
+    {
+      "pmid": "42864336",
+      "title": "Discovery of an antagonist nanobody targeting the oxytocin receptor with tocolytic effect in mice.",
+      "abstract": "Preterm birth, defined as delivery before 37 completed weeks of gestation, poses significant risks to maternal and neonatal health. These risks include neonatal respiratory distress syndrome, intraventricular hemorrhage, long-term developmental challenges, and in severe cases, mortality. Addressing these issues, G protein-coupled receptor (GPCR)-mediated tocolysis has become a focal strategy in pharmaceutical research to mitigate preterm labor risks. Most GPCR drugs are small molecules, yet their tendency to cross the placental barrier and induce fetal toxicity presents a significant challenge. Antibody drugs, with minimal cell membrane permeability, offer a promising alternative. In this study, we leverage AI-driven protein design to enable nanobody screening and identify several nanobodies with antagonist activity against the oxytocin receptor, a key target for preterm birth therapeutics. One of these nanobodies demonstrates antagonist activity comparable to Atosiban, a commonly used clinical drug, while exhibiting higher subtype selectivity. Pharmacological and structural analyses reveal mechanisms distinct from small molecule antagonists. These findings expand the pharmacological potential of antibody drugs and introduce useful tools and perspectives for developing effective tocolytic agents.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Obstetrics, Xiangya Hospital Central South University, Changsha, China.",
+        "State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Pharmaceutical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "Beijing Frontier Research Center for Biological Structure, Tsinghua University, Beijing, China.",
+        "Biomolecular Engineering Department, University of California Santa Cruz, Santa Cruz, CA, USA.",
+        "Institute of Reproductive Medicine Center, Xiangya Hospital Central South University, Changsha, China.",
+        "Department of Obstetrics and Gynecology, Women and Children's Hospital of Chongqing Medical University (Chongqing Health Center for Women and Children), Chongqing, China.",
+        "School of Basic Medical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China.",
+        "State Key Laboratory of Membrane Biology, Tsinghua-Peking Center for Life Sciences, School of Pharmaceutical Sciences, Tsinghua Medicine, Tsinghua University, Beijing, China. liu_xy@mail.tsinghua.edu.cn.",
+        "Beijing Frontier Research Center for Biological Structure, Tsinghua University, Beijing, China. liu_xy@mail.tsinghua.edu.cn.",
+        "Department of Obstetrics, Xiangya Hospital Central South University, Changsha, China. weishezhang@csu.edu.cn.",
+        "Hunan Engineering Research Center of Early Life Development and Disease Prevention, Changsha, China. weishezhang@csu.edu.cn."
+      ],
+      "doi": "10.1038/s41467-026-77680-0",
+      "date": "2026-09-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864336/"
     },
     {
       "pmid": "42861354",
@@ -328,36 +363,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854199/"
     },
     {
-      "pmid": "42853897",
-      "title": "3D CNN-CVAE and LSTM-guided de novo design of rotigotine derivatives targeting dopamine D1 and D3 receptors in restless legs syndrome.",
-      "abstract": "Restless legs syndrome (RLS) is a chronic neurological disorder associated with altered dopaminergic signaling, while long-term dopamine agonist therapy may be limited by augmentation and reduced clinical benefit. This study applied a three-dimensional convolutional neural network conditional variational autoencoder integrated with long short-term memory molecular generation to design rotigotine-derived candidates targeting dopamine D1 and D3 receptors. Fourteen unique derivatives were generated and screened through pocket prediction, molecular docking, interaction profiling, pharmacophore analysis, density functional theory, ADMET prediction, 500 ns molecular dynamics simulations performed in explicit water without a lipid bilayer, and MM/GBSA calculations. Docking protocol validation using DockRMSD yielded RMSD values of 1.009 Å for Mevidalen in the D1 receptor and 1.359 Å for PD-128907 in the D3 receptor, supporting acceptable reproduction of both experimental binding poses. In docking-based ranking, AI Derivative 1 was placed above rotigotine for D1 (-5.744 vs -5.629 kcal/mol) and D3 (-7.934 vs -7.288 kcal/mol) and formed additional hydrogen-bond and hydrophobic contacts; the D1 difference of approximately 0.1 kcal/mol lies within the intrinsic uncertainty of docking scoring functions and is not interpreted as evidence of improved affinity. Docking scores are used throughout as ranking and prioritization metrics rather than quantitative binding free energies. It also exhibited a smaller HOMO-LUMO gap, a higher predicted LD50, and a shift from toxicity class 3 to class 4. Molecular dynamics analyses, including RMSD, RMSF, radius of gyration, solvent-accessible surface area, hydrogen bonding, DCCM, PCA, and free-energy landscapes, are reported as descriptive observations from single non-membrane trajectories and are not used to claim physiological relevance or superior binding stability. MM/GBSA estimates were favorable under the applied computational conditions. AI Derivative 1 therefore represents a computationally prioritized lead requiring experimental validation.",
-      "journal": "PloS one",
+      "pmid": "42863532",
+      "title": "The epigenetic landscape of hepatocellular carcinoma: from molecular mechanisms to early detection biomarkers and precision therapy.",
+      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of global cancer mortality due to late diagnosis, molecular heterogeneity, and therapeutic resistance. Emerging evidence highlights that epigenetic and epitranscriptomic dysregulations drive hepatocarcinogenesis by altering gene expression programs without changing the underlying DNA sequence. Aberrant DNA methylation, histone modifications, chromatin remodeling, non-coding RNA networks, and N6-methyladenosine (m6A) RNA modifications collectively orchestrate HCC initiation, progression, metastasis, immune evasion, and metabolic reprogramming. Recent breakthroughs in next-generation sequencing, liquid biopsy, and multi-omics profiling have accelerated the identification of robust epigenetic biomarkers for early detection, prognosis, and therapeutic monitoring. Concurrently, epigenetic-targeted therapies, including DNA methyltransferase, histone deacetylase, EZH2, and BET inhibitors, offer promising preclinical and clinical opportunities for precision oncology, particularly through rational combination strategies to overcome drug resistance. This review provides a comprehensive synthesis of the molecular mechanisms governing epigenetic and epitranscriptomic alterations in HCC. We highlight their translational potential in clinical practice and critically discuss current challenges, emerging technologies, and future perspectives for successful clinical implementation.",
+      "journal": "Gene",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Neurology, Faculty of Medicine, Hitit University, Çorum, Turkey.",
-        "Department of Molecular Biosciences, Faculty of Physical and Biological Sciences, Rashid Latif Khan University, Lahore, Punjab, Pakistan."
+        "Massachusetts General Hospital, Boston, United States. Electronic address: shraddhadubey470@gmail.com.",
+        "Shiv Nadar Institution of Eminence Deemed to be University, Delhi-NCR, India. Electronic address: hg358@snu.edu.in."
       ],
-      "doi": "10.1371/journal.pone.0356614",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853897/"
-    },
-    {
-      "pmid": "42850317",
-      "title": "Integrative Approaches in Protein Structure/Function Analysis, Design, and Engineering.",
-      "abstract": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence. Enabled by strategies such as directed evolution, structure/function analysis, and (semi-)rational design, engineered enzymes can now accommodate nonnatural substrates, catalyze novel reactions, and operate under harsh conditions including elevated temperatures and organic solvents.This chapter provides a comprehensive overview of major strategies in protein design including directed evolution, rational design, and semi-rational design. Emphasis is placed on recent advances in high-throughput screening technologies, identification of functionally critical residues, and optimization of site-specific mutations. Furthermore, the integration of artificial intelligence and multiscale modeling to enzyme design is discussed, highlighting data-driven decision-making and deep learning-assisted prediction of enzymatic performance. Looking forward, biocatalysis is poised to further expand its applications in valorization of renewable resources, biofuels, and synthetic chemistry. Powered by ongoing advances in AI and computational protein design, the development of enzymes with unprecedented catalytic functions is anticipated to accelerate rapidly.",
-      "journal": "Advances in biochemical engineering/biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology, Tianjin, China. sunzht@tib.cas.cn.",
-        "Chinese Academy of Sciences, Tianjin Institute of Industrial Biotechnology, Tianjin, China."
-      ],
-      "doi": "10.1007/10_2026_369",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850317/"
+      "doi": "10.1016/j.gene.2026.150438",
+      "date": "2026-10-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863532/"
     },
     {
       "pmid": "42862920",
@@ -483,26 +503,67 @@
       "doi": "10.1111/bju.70488",
       "date": "2026-10-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860325/"
-    },
-    {
-      "pmid": "42859512",
-      "title": "Identifying Differentially Expressed Proteins via Plasma Exosomal Proteomics.",
-      "abstract": "Extracellular vesicle (EV) proteomics can be used to study intercellular communication and find biomarkers of non-invasive diseases. Traditional separation methods (ultracentrifugation, size exclusion chromatography) and data-dependent acquisition (DDA) mass spectrometry usually have the drawbacks of copurification of pollutants, poor reproducibility, and insufficient sampling of low-abundance peptides. This protocol describes a workflow for label-free extracellular vesicle proteomics, which combines size exclusion chromatography for vesicle separation, data-independent acquisition (DIA) for deep discovery, and parallel reaction monitoring (PRM) for targeted verification. Plasma-derived extracellular vesicles are treated by standardized lysis, digestion, and LC-MS/MS procedures, so that the protein group of extracellular vesicles can be identified and quantified robustly. The main advantages of this scheme are that it can achieve high quantitative reproducibility, unbiased detection of low-intensity peptides, and seamless transition from discovery to targeted verification, while also being suitable for liquid biopsy samples and various cardiovascular diseases. Key features • Combines size exclusion chromatography (SEC)-based EV isolation with label-free data-independent acquisition (DIA) for deep, unbiased discovery-phase extracellular vesicle proteomics. • Employs parallel reaction monitoring (PRM) for orthogonal, highly sensitive targeted validation of candidate biomarkers discovered by DIA. • PRM records the entire, high-resolution fragment ion spectrum for the targeted peptide. • Developed for atrial fibrillation; adaptable to other cardiovascular diseases, therapy monitoring, and liquid biopsies.",
-      "journal": "Bio-protocol",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Cardiovascular Surgery & The Institute of Cardiovascular Diseases, TEDA International Cardiovascular Hospital, Tianjin University, Tianjin, China.",
-        "Tianjin Key Laboratory of Molecular Regulation of Cardiovascular Diseases, Tianjin, China.",
-        "TEDA International Cardiovascular Hospital, Chinese Academy of Medical Sciences, Tianjin, China."
-      ],
-      "doi": "10.21769/BioProtoc.5840",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859512/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42864779",
+      "date": "2026-10-12",
+      "title": "LigHTS: Biomimetic Hydrogel Photo-Fabrication for Imaging-Based Ultra-High-Throughput Screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864779/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42864779。",
+      "report": "Imaging-based ultra-high-throughput screening (UHTS) in pharma and biotech still relies on 384- and 1536-well plates whose rigid, flat substrates limit biological fidelity and screening efficiency. Highly biomimetic organoids and organs-on-chips improve releva...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42864231",
+      "date": "2026-10-12",
+      "title": "Anticipatory regulation of stem cell-based technologies: a UK case study.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864231/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42864231。",
+      "report": "Biotechnological advances are prompting governments to fear falling behind and missing out on growth and investment. Yet science often moves faster and less predictably than legislation. Using the United Kingdom's stem cell regulation as a case study, we exami...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42862628",
       "date": "2026-10-12",
@@ -596,98 +657,96 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42861725",
+      "id": "pubmed-42865067",
       "date": "2026-10-12",
-      "title": "Paracrine Bone-Derived Senescent Secretome is Associated with Spatially Patterned ECM Remodeling and Altered Biomechanics in Human Brain Organoids.",
-      "entity": "Organoid Research",
+      "title": "Dynamic Graph Prior-Guided Latent Adaptation for Generalizable Single-Cell Perturbation Response Prediction.",
+      "entity": "Biotech Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861725/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42865067/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
+        "Biotech",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
+        "biotech",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cells (Dayton, Ohio)，PMID 为 42861725。",
-      "report": "Aging is increasingly recognized as a systemic process, yet the mechanisms by which signals from senescent peripheral cells accelerate brain aging remain poorly defined. Here, we used chronic exposure of human cerebral organoids to the secretome of senescent o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42865067。",
+      "report": "Predicting transcriptional responses to drug perturbations in unseen cellular contexts is a central challenge in single-cell perturbation modeling. This challenge creates a need for models that combine flexible state transitions with structured biological prio...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42861542",
+      "id": "pubmed-42864397",
       "date": "2026-10-12",
-      "title": "Advanced In Vitro Platforms for Experimental Liver Research: From Organoids and Liver-on-Chip to Omics and Artificial Intelligence.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861542/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biotechnology and bioengineering，PMID 为 42861542。",
-      "report": "Hepatocytes perform essential physiological functions in the human body. Gaining more profound insight into the liver structure, diseases, and physiology by using in vitro models can help to propose more relevant clinical applications. Conventional in vitro li...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42860904",
-      "date": "2026-10-12",
-      "title": "CD147+ Cancer-Associated Fibroblasts Promote PD-L1 Expression in Hepatocellular Carcinoma via TIMP2/MMP2/IL-6 Signaling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Coordinating structure-guided design and cis-regulatory optimization to engineer elite herbicide-tolerance alleles in crops.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860904/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864397/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature plants，PMID 为 42864397。",
+      "report": "Genome editing facilitates the rapid creation of elite alleles, yet identifying editable sites for durable trait improvement without functional trade-offs remains challenging. Most current strategies modify a single genetic axis, limiting their effectiveness a...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42863532",
+      "date": "2026-10-12",
+      "title": "The epigenetic landscape of hepatocellular carcinoma: from molecular mechanisms to early detection biomarkers and precision therapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863532/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Asia-Pacific journal of clinical oncology，PMID 为 42860904。",
-      "report": "Targeting CD147 on hepatocellular carcinoma (HCC) cells has demonstrated therapeutic efficacy. Cancer-associated fibroblasts (CAFs) have been identified as critical components of the tumor microenvironment. The role of CD147 in CAFs is still unclear, and this...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Gene，PMID 为 42863532。",
+      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of global cancer mortality due to late diagnosis, molecular heterogeneity, and therapeutic resistance. Emerging evidence highlights that epigenetic and epitranscriptomic dysregulations drive hepatocarcinog...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -873,96 +932,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42853897",
-      "date": "2026-10-09",
-      "title": "3D CNN-CVAE and LSTM-guided de novo design of rotigotine derivatives targeting dopamine D1 and D3 receptors in restless legs syndrome.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853897/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42853897。",
-      "report": "Restless legs syndrome (RLS) is a chronic neurological disorder associated with altered dopaminergic signaling, while long-term dopamine agonist therapy may be limited by augmentation and reduced clinical benefit. This study applied a three-dimensional convolu...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42850317",
-      "date": "2026-10-09",
-      "title": "Integrative Approaches in Protein Structure/Function Analysis, Design, and Engineering.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850317/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advances in biochemical engineering/biotechnology，PMID 为 42850317。",
-      "report": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence....",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42859512",
-      "date": "2026-10-05",
-      "title": "Identifying Differentially Expressed Proteins via Plasma Exosomal Proteomics.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859512/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bio-protocol，PMID 为 42859512。",
-      "report": "Extracellular vesicle (EV) proteomics can be used to study intercellular communication and find biomarkers of non-invasive diseases. Traditional separation methods (ultracentrifugation, size exclusion chromatography) and data-dependent acquisition (DDA) mass s...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42856349",
       "date": "2026-10-02",
       "title": "Design-Evolution Synergy Enables New-to-Nature Enzyme Chemistry.",
@@ -1018,6 +987,34 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42854199。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42864493",
+      "date": "2026-10-01",
+      "title": "Engrafting human cortical organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864493/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature biotechnology，PMID 为 42864493。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1146,6 +1143,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42864336",
+      "date": "2026-09-11",
+      "title": "Discovery of an antagonist nanobody targeting the oxytocin receptor with tocolytic effect in mice.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864336/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42864336。",
+      "report": "Preterm birth, defined as delivery before 37 completed weeks of gestation, poses significant risks to maternal and neonatal health. These risks include neonatal respiratory distress syndrome, intraventricular hemorrhage, long-term developmental challenges, and...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42818971",
       "date": "2026-09-10",
       "title": "PHAROS: turning single-cell perturbation models into target-directed drug-combination screens.",
@@ -1175,36 +1203,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42818971。",
       "report": "Combination therapies are central to cancer treatment, but exhaustive screening is impractical. We introduce PHAROS, a framework that turns a pretrained single-cell perturbation model into a target-directed search engine for drug combinations. PHAROS predicts...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42816262",
-      "date": "2026-09-06",
-      "title": "Beyond the linear sequence: towards a trans-aware virtual cell in computational genomics.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816262/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science bulletin，PMID 为 42816262。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

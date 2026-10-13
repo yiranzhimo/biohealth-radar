@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-13T00:46:57.911990+00:00",
+  "capturedAt": "2026-10-13T14:19:04.737741+00:00",
   "summary": {
-    "mentionCount": 662,
-    "candidateCount": 594,
-    "corroboratedCount": 3,
-    "identifiedCount": 588,
-    "needsReviewCount": 3,
+    "mentionCount": 659,
+    "candidateCount": 592,
+    "corroboratedCount": 2,
+    "identifiedCount": 589,
+    "needsReviewCount": 1,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 4,
+      "ClinicalTrials": 1,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,39 +20,15 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-3f0b6c167d47c220",
-      "observedName": "T3D Therapeutics, Inc.",
-      "normalizedName": "t3d therapeutics",
+      "id": "mention-clinicaltrials-e43a116cefaa12a1",
+      "observedName": "Nuvation Bio Inc.",
+      "normalizedName": "nuvation bio",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06964230",
-      "sourceDate": "2025-05-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06964230",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Phase 2b/3 Clinical Study Evaluating T3D-959 in Mild-to-Moderate Alzheimer's Disease Subjects"
-    },
-    {
-      "id": "mention-clinicaltrials-435ca2eefbdc8fcb",
-      "observedName": "Aptevo Therapeutics",
-      "normalizedName": "aptevo therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01644253",
-      "sourceDate": "2021-05-20",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01644253",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05577416",
+      "sourceDate": "2026-03-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05577416",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -66,56 +42,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Phase 1b Safety and Efficacy Study of TRU-016"
-    },
-    {
-      "id": "mention-clinicaltrials-4be00b2d1723c85d",
-      "observedName": "Hunan Xeno-life Science Ltd",
-      "normalizedName": "hunan xeno life science",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03162237",
-      "sourceDate": "2020-06-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03162237",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "中国",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety and Efficacy Study of Islets Xenotransplantation"
-    },
-    {
-      "id": "mention-clinicaltrials-71b180249f73cb4b",
-      "observedName": "AI Labs Group S.L",
-      "normalizedName": "ai labs group s l",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06263413",
-      "sourceDate": "2024-03-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06263413",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "biomarker",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "衰老"
-      ],
-      "activitySignals": [],
-      "contextTitle": "Clinical Workflow Optimization Using Artificial Intelligence for Dermatological Conditions"
+      "contextTitle": "A Study of AB-218 in Patients With IDH1 Mutated Low Grade Glioma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -19810,16 +19737,15 @@
     },
     {
       "id": "candidate-aptevo-therapeutics",
-      "name": "Aptevo Therapeutics",
+      "name": "Aptevo Therapeutics Inc.",
       "aliases": [
-        "Aptevo Therapeutics",
         "Aptevo Therapeutics Inc."
       ],
       "normalizedName": "aptevo therapeutics",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-10-02",
       "identifiers": {
@@ -19832,36 +19758,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Pharmaceutical Preparations",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
+          "Pharmaceutical Preparations"
         ],
         "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Pharmaceutical Preparations",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
+          "Pharmaceutical Preparations"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-435ca2eefbdc8fcb",
         "mention-sec-eead8378a198f6cb"
       ],
       "sources": [
@@ -19873,15 +19785,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671584&owner=exclude&hidefilings=0",
           "externalId": "0001671584",
           "contextTitle": "Pharmaceutical Preparations"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2021-05-20",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01644253",
-          "externalId": "NCT01644253",
-          "contextTitle": "Phase 1b Safety and Efficacy Study of TRU-016"
         }
       ]
     },
@@ -43946,56 +43849,6 @@
       ]
     },
     {
-      "id": "candidate-t3d-therapeutics",
-      "name": "T3D Therapeutics, Inc.",
-      "aliases": [
-        "T3D Therapeutics, Inc."
-      ],
-      "normalizedName": "t3d therapeutics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-05-09",
-      "lastSeenAt": "2025-05-09",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Recruiting",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Recruiting",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-3f0b6c167d47c220"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-05-09",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06964230",
-          "externalId": "NCT06964230",
-          "contextTitle": "A Phase 2b/3 Clinical Study Evaluating T3D-959 in Mild-to-Moderate Alzheimer's Disease Subjects"
-        }
-      ]
-    },
-    {
       "id": "candidate-accelevir-diagnostics",
       "name": "Accelevir Diagnostics, LLC",
       "aliases": [
@@ -47369,93 +47222,33 @@
       ]
     },
     {
-      "id": "candidate-ai-labs-group-s-l",
-      "name": "AI Labs Group S.L",
+      "id": "candidate-nuvation-bio",
+      "name": "Nuvation Bio Inc.",
       "aliases": [
-        "AI Labs Group S.L"
+        "Nuvation Bio Inc."
       ],
-      "normalizedName": "ai labs group s l",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.78,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-03-19",
-      "lastSeenAt": "2024-03-19",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "biomarker",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "biomarker",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-71b180249f73cb4b"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-03-19",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06263413",
-          "externalId": "NCT06263413",
-          "contextTitle": "Clinical Workflow Optimization Using Artificial Intelligence for Dermatological Conditions"
-        }
-      ]
-    },
-    {
-      "id": "candidate-hunan-xeno-life-science",
-      "name": "Hunan Xeno-life Science Ltd",
-      "aliases": [
-        "Hunan Xeno-life Science Ltd"
-      ],
-      "normalizedName": "hunan xeno life science",
+      "normalizedName": "nuvation bio",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-06-02",
-      "lastSeenAt": "2020-06-02",
+      "firstSeenAt": "2026-03-18",
+      "lastSeenAt": "2026-03-18",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "中国",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "中国",
-          "临床试验"
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47468,17 +47261,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-4be00b2d1723c85d"
+        "mention-clinicaltrials-e43a116cefaa12a1"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2020-06-02",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03162237",
-          "externalId": "NCT03162237",
-          "contextTitle": "Safety and Efficacy Study of Islets Xenotransplantation"
+          "sourceDate": "2026-03-18",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05577416",
+          "externalId": "NCT05577416",
+          "contextTitle": "A Study of AB-218 in Patients With IDH1 Mutated Low Grade Glioma"
         }
       ]
     }

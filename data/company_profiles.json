@@ -12958,7 +12958,7 @@
     },
     {
       "companyId": "candidate-aptevo-therapeutics",
-      "name": "Aptevo Therapeutics",
+      "name": "Aptevo Therapeutics Inc.",
       "asOfDate": "2026-10-13",
       "profileStatus": "partial",
       "identity": {
@@ -12985,12 +12985,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Pharmaceutical Preparations",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
+          "Pharmaceutical Preparations"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -42158,6 +42153,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-10-13",
+            "title": "Genmab filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000136/gmab_20261013x6k.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-10-07",
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm",
@@ -42210,14 +42213,6 @@
             "title": "Genmab filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000120/gmab_20260908x6k2.htm",
             "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-09-08",
-            "title": "Genmab filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm",
-            "source": "SEC EDGAR"
           }
         ],
         "reportPortals": []
@@ -42244,6 +42239,7 @@
         "commercialProducts": [],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001434265-000143426526000136",
           "evidence-sec-0001434265-000143426526000134",
           "evidence-sec-0001434265-000143426526000132",
           "evidence-sec-0001434265-000143426526000129",
@@ -42262,6 +42258,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001434265-000143426526000136",
+            "date": "2026-10-13",
+            "title": "Genmab filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001434265-000143426526000136",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000136/gmab_20261013x6k.htm"
+          },
           {
             "id": "event-sec-0001434265-000143426526000134",
             "date": "2026-10-07",
@@ -42305,17 +42312,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001434265-000143426526000127",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000127/gmab_20260929x6k.htm"
-          },
-          {
-            "id": "event-sec-0001434265-000143426526000125",
-            "date": "2026-09-24",
-            "title": "Genmab filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001434265-000143426526000125",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000125/gmab_20260924x6k.htm"
           }
         ],
         "inferences": [],
@@ -42325,12 +42321,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 13,
+        "evidenceCount": 14,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 12
+          "Filing": 13
         },
-        "lastEvidenceDate": "2026-10-07",
+        "lastEvidenceDate": "2026-10-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -42338,6 +42334,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001434265-000143426526000136",
+          "date": "2026-10-13",
+          "title": "Genmab filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001434265-000143426526000136",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000136/gmab_20261013x6k.htm"
+        },
         {
           "id": "event-sec-0001434265-000143426526000134",
           "date": "2026-10-07",
@@ -42414,17 +42421,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001434265-000143426526000120",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000120/gmab_20260908x6k2.htm"
-        },
-        {
-          "id": "event-sec-0001434265-000143426526000116",
-          "date": "2026-09-08",
-          "title": "Genmab filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001434265-000143426526000116",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000116/gmab_20260908x6k.htm"
         }
       ]
     },
@@ -52803,6 +52799,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-10-13",
+            "title": "Legend Biotech filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-09-25",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm",
@@ -52854,14 +52858,6 @@
             "date": "2026-08-06",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005318/f6k_080526.htm",
-            "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-07-27",
-            "title": "Legend Biotech filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000119312526316760/d56062d6k.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -52938,6 +52934,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001801198-000117184326006593",
           "evidence-company-legend-biotech-official-98042f73bcaa",
           "evidence-sec-0001801198-000117184326006229",
           "evidence-sec-0001801198-000117184326006215",
@@ -52972,6 +52969,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001801198-000117184326006593",
+            "date": "2026-10-13",
+            "title": "Legend Biotech filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001801198-000117184326006593",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm"
+          },
           {
             "id": "event-evidence-company-legend-biotech-official-98042f73bcaa",
             "date": "2026-10-03",
@@ -53015,17 +53023,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001801198-000117184326006050",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006050/f6k_091526.htm"
-          },
-          {
-            "id": "event-sec-0001801198-000117184326006027",
-            "date": "2026-09-14",
-            "title": "Legend Biotech filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001801198-000117184326006027",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm"
           }
         ],
         "inferences": [],
@@ -53036,12 +53033,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 12,
+        "evidenceCount": 13,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 9
+          "Filing": 10
         },
-        "lastEvidenceDate": "2026-10-03",
+        "lastEvidenceDate": "2026-10-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -53050,6 +53047,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001801198-000117184326006593",
+          "date": "2026-10-13",
+          "title": "Legend Biotech filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001801198-000117184326006593",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm"
+        },
         {
           "id": "event-evidence-company-legend-biotech-official-98042f73bcaa",
           "date": "2026-10-03",
@@ -53126,17 +53134,6 @@
           "needsReview": true,
           "evidenceId": "evidence-sec-0001801198-000180119826000022",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000022/legn-20260630.htm"
-        },
-        {
-          "id": "event-evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-          "date": "2026-08-10",
-          "title": "Pipeline - Legend Biotech",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-legend-biotech-pipeline-ff06a79c40a1",
-          "sourceUrl": "https://legendbiotech.com/research-development/pipeline/"
         }
       ]
     },
@@ -59161,6 +59158,14 @@
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-10-13",
+            "title": "Nurix Therapeutics filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000049/nrix-20260831.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-07-09",
             "title": "Nurix Therapeutics filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm",
@@ -59240,6 +59245,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001549595-000154959526000049",
+          "evidence-sec-0001549595-000154959526000048",
           "evidence-company-nurix-official-a14a58f58944",
           "evidence-company-nurix-pipeline-7b77631d8ff4",
           "evidence-sec-0001549595-000154959526000040",
@@ -59249,6 +59256,28 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001549595-000154959526000049",
+            "date": "2026-10-13",
+            "title": "Nurix Therapeutics filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001549595-000154959526000049",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000049/nrix-20260831.htm"
+          },
+          {
+            "id": "event-sec-0001549595-000154959526000048",
+            "date": "2026-10-13",
+            "title": "Nurix Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001549595-000154959526000048",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
+          },
           {
             "id": "event-evidence-company-nurix-official-a14a58f58944",
             "date": "2026-10-10",
@@ -59281,17 +59310,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001549595-000154959526000040",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm"
-          },
-          {
-            "id": "event-sec-0001549595-000154959526000038",
-            "date": "2026-07-09",
-            "title": "Nurix Therapeutics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001549595-000154959526000038",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm"
           }
         ],
         "inferences": [],
@@ -59301,12 +59319,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 4,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 2
+          "Filing": 4
         },
-        "lastEvidenceDate": "2026-10-10",
+        "lastEvidenceDate": "2026-10-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59314,6 +59332,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001549595-000154959526000049",
+          "date": "2026-10-13",
+          "title": "Nurix Therapeutics filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001549595-000154959526000049",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000049/nrix-20260831.htm"
+        },
+        {
+          "id": "event-sec-0001549595-000154959526000048",
+          "date": "2026-10-13",
+          "title": "Nurix Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001549595-000154959526000048",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
+        },
         {
           "id": "event-evidence-company-nurix-official-a14a58f58944",
           "date": "2026-10-10",
