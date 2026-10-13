@@ -45981,6 +45981,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001110803-000111080326000195",
           "evidence-company-illumina-official-0a724e78a9df",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
@@ -45996,6 +45997,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001110803-000111080326000195",
+            "date": "2026-10-13",
+            "title": "Illumina filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001110803-000111080326000195",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
+          },
           {
             "id": "event-evidence-company-illumina-official-0a724e78a9df",
             "date": "2026-10-10",
@@ -46039,17 +46051,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000119312526346923",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
-          },
-          {
-            "id": "event-sec-0001110803-000119312526345802",
-            "date": "2026-08-12",
-            "title": "Illumina filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001110803-000119312526345802",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
           }
         ],
         "inferences": [],
@@ -46059,12 +46060,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 10,
+        "evidenceCount": 11,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 8
+          "Filing": 9
         },
-        "lastEvidenceDate": "2026-10-10",
+        "lastEvidenceDate": "2026-10-13",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -46072,6 +46073,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001110803-000111080326000195",
+          "date": "2026-10-13",
+          "title": "Illumina filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001110803-000111080326000195",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
+        },
         {
           "id": "event-evidence-company-illumina-official-0a724e78a9df",
           "date": "2026-10-10",
@@ -46148,17 +46160,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-pipeline-dda577433e9a",
           "sourceUrl": "https://www.illumina.com/systems.html"
-        },
-        {
-          "id": "event-sec-0001110803-000111080326000168",
-          "date": "2026-08-07",
-          "title": "Illumina filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001110803-000111080326000168",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000168/ilmn-20260807.htm"
         }
       ]
     },

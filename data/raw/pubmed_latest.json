@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-13T14:19:01.741463+00:00",
+  "capturedAt": "2026-10-13T22:50:49.906659+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-13"
   },
   "pmids": [
-    "42864779",
-    "42864493",
-    "42864231",
-    "42862628",
-    "42862474",
-    "42861772",
+    "42867121",
+    "42866631",
+    "42866352",
+    "42866212",
+    "42866054",
+    "42866034",
     "42865067",
     "42860076",
     "42852178",
@@ -32,115 +32,122 @@
     "42856349",
     "42856293",
     "42854199",
+    "42867203",
+    "42867147",
+    "42866599",
+    "42866242",
     "42863532",
-    "42862920",
-    "42862849",
-    "42861528",
-    "42861255",
-    "42860325"
+    "42862920"
   ],
   "records": [
     {
-      "pmid": "42864779",
-      "title": "LigHTS: Biomimetic Hydrogel Photo-Fabrication for Imaging-Based Ultra-High-Throughput Screening.",
-      "abstract": "Imaging-based ultra-high-throughput screening (UHTS) in pharma and biotech still relies on 384- and 1536-well plates whose rigid, flat substrates limit biological fidelity and screening efficiency. Highly biomimetic organoids and organs-on-chips improve relevance but at a cost that is incompatible with early screening campaigns. Photopatterned hydrogel scaffolds are potentially scalable, but current approaches lack plate-scale reproducibility and throughput. To address this gap, we present chemically-mediated Light-Intensity Gradients for structured hydrogel functionalization of ultra-High-Throughput Screening formats (LigHTS): an all-optical, in-well method for parallel photofabrication of biomimetic hydrogels in standard 384- and 1536-well plates. Adding ultraviolet-light absorber tartrazine to photo-curable solutions enables hydrogel thickness control by tuning illumination dose without focusing optics. Entire plates are functionalized in parallel with soft (∼1-10 kPa), thin (∼10-200 µm) hydrogels. Simultaneously, film photomasks that encode anisotropies enable control of well-level gel thickness and topography at UHTS scale. We demonstrate the utility of biomimetic gelatin-methacrylate-functionalized UHTS plates using mechanosensitive human cells (HT1080 fibrosarcoma cells, HaCaT epithelial cell colonies, and cardiomyocyte tissues derived from induced pluripotent stem cells), which display stiffness- and topography-dependent phenotypes. Finally, geometric uniformity across the plate meets industry requirements (coefficient of variation <20%), providing a readily available route to enhanced biomimicry in imaging-based UHTS pipelines.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Civil Engineering and Architecture, Synthetic Physiology Lab, University of Pavia, Pavia, Italy.",
-        "Department of Internal Medicine and Medical Therapy, Synthetic Physiology Lab, University of Pavia, Pavia, Italy.",
-        "Group of Computational Mechanics and Advanced Materials, Department of Civil Engineering and Architecture, University of Pavia, Pavia, Italy."
-      ],
-      "doi": "10.1002/advs.78192",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864779/"
-    },
-    {
-      "pmid": "42864493",
-      "title": "Engrafting human cortical organoids.",
-      "abstract": "",
-      "journal": "Nature biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Nature Biotechnology, . dario.ummarino.1@nature.com."
-      ],
-      "doi": "10.1038/s41587-026-03355-2",
-      "date": "2026-10-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864493/"
-    },
-    {
-      "pmid": "42864231",
-      "title": "Anticipatory regulation of stem cell-based technologies: a UK case study.",
-      "abstract": "Biotechnological advances are prompting governments to fear falling behind and missing out on growth and investment. Yet science often moves faster and less predictably than legislation. Using the United Kingdom's stem cell regulation as a case study, we examine anticipatory regulation, sandboxes, and other agile governance tools for managing both over-regulation and regulatory gaps.",
-      "journal": "Trends in biotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Durham Law School, Durham University, Durham, UK. Electronic address: emma.cave@durham.ac.uk.",
-        "London School of Economics and Political Science, London, UK."
-      ],
-      "doi": "10.1016/j.tibtech.2026.09.017",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864231/"
-    },
-    {
-      "pmid": "42862628",
-      "title": "A 3D-Printed Biochemical-Mechano-Thermally Responsive Multicellular Tumor Organoid Platform Decodes Biochemical-Physical Regulation of Cancer-Immune Crosstalk and Chemoresistance.",
-      "abstract": "Oral tumors are not shaped by biochemical signals alone; they also evolve within mechanically active and thermally fluctuating microenvironments that critically regulate malignant progression, immune remodeling, and therapeutic resistance. Here, we develop a dynamic bioorthogonal organoid platform that couples a 3D-printed photothermal elastic scaffold with an interpenetrating hydrogel network derived from decellularized oral mucosa extracellular matrix, enabling the reconstruction of in vivo-like structural support, matrix-derived biochemical cues, spatial cellular compartmentalization, and dynamic physical stimulation. Through click chemistry-mediated cell anchorage and hydrogel encapsulation, oral cancer cells and macrophages are spatially organized into a compartmentalized cancer-immune niche. Under cyclic mechanical stretch and near-infrared-triggered periodic photothermal stimulation, dynamic culture markedly enhances cancer cell proliferation and glycolytic reprogramming while concomitantly polarizing macrophages toward a pro-tumoral M2 phenotype. In both monoculture and coculture settings, biochemical-mechano-thermal stimulation substantially increases cancer cell chemoresistance. Mechanistically, these biochemical-physical cues activate stress-adaptive and survival programs while enriching cancer stem-like populations. In a xenograft mouse model exposed to in vivo biochemical, mechanical and thermal stimulation, dynamic conditioning markedly accelerates tumor progression, enhances metastatic potential, and confers pronounced chemoresistance. Together, this study establishes a biomimetic multicellular tumor platform for uncovering how dynamic biochemical-physical cues orchestrate cancer-immune crosstalk and therapeutic failure.",
-      "journal": "Advanced materials (Deerfield Beach, Fla.)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Engineering, Xiangya School of Basic Medical Sciences, Central South University, Changsha, China.",
-        "National Laboratory of Solid State Microstructures, Collaborative Innovation Center of Advanced Microstructures, Chemistry and Biomedicine Innovation Center, College of Engineering and Applied Sciences, Jiangsu Key Laboratory of Artificial Functional Materials, Nanjing University, Nanjing, China.",
-        "Department of Stomatology, The Fourth Affiliated Hospital of Nanjing Medical University, Nanjing, China.",
-        "Jiangxi Province Key Laboratory of Additive Manufacturing of Implantable, Medical Device, Jiangxi University of Science and Technology, Nanchang, China.",
-        "Jiangsu Institute of Cancer Research, Jiangsu Key Laboratory of Molecular and Translational Cancer Research, The Affiliated Cancer Hospital of Nanjing Medical University, Jiangsu Cancer Hospital, Nanjing, China.",
-        "Center for Quantitative Systems Biology, Department of Physics, Hong Kong Baptist University, Hong Kong SAR, China.",
-        "Center of Digital Dentistry, National Center for Stomatology, Peking University School and Hospital of Stomatology, NHC Key Laboratory of Digital Stomatology, Beijing, China."
-      ],
-      "doi": "10.1002/adma.75347",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862628/"
-    },
-    {
-      "pmid": "42862474",
-      "title": "Linking preclinical models with functional imaging and artificial intelligence to decode tumor angiogenesis.",
-      "abstract": "Tumor angiogenesis is a hallmark of cancer, influencing oxygen delivery, immune cell trafficking, and therapeutic response. Although anti-angiogenic therapies have achieved clinical relevance, their efficacy remains limited by tumor heterogeneity, adaptive resistance, and insufficient functional assessment of tumor vasculature. In this review, we evaluate preclinical models of tumor angiogenesis with a focus on their ability to generate quantitative and physiologically relevant readouts. We discuss established assays such as tube formation, fibrin bead assay, aortic ring, and chorioallantoic membrane (CAM) models, alongside emerging systems including vascularized organoids and organ-on-a-chip platforms, as well as zebrafish and murine tumor models. Particular emphasis is placed on advanced imaging modalities enabling longitudinal assessment of perfusion, permeability, and vascular remodeling, as well as on the growing role of artificial intelligence (AI) in automated and quantitative data interpretation. We further highlight the integration of single-cell and multi-omics approaches for resolving endothelial heterogeneity and tumor-stroma interactions. By linking biologically relevant models with functional imaging and computational analysis, this review outlines strategies to improve the predictive power and translational relevance of angiogenesis research.",
-      "journal": "Pharmacological reports : PR",
+      "pmid": "42867121",
+      "title": "A review on recent advances in regenerative medicine for renal diseases: Approaches and challenges.",
+      "abstract": "Renal diseases such as acute and chronic kidney disease cause loss of nephrons and kidney function, often leading to renal failure. Current treatments like dialysis and transplantation only manage symptoms and extend survival for a few years. Regenerative medicine offers promising approaches for repairing and regenerating renal tissue by targeting underlying disease mechanisms. For this narrative review, relevant original research articles and review articles were retrieved from online databases such as PubMed, Google Scholar, and ScienceDirect by using relevant keywords such as \"renal regeneration,\" \"kidney organoids,\" \"stem cell therapy,\" \"gene therapy,\" \"extracellular vesicles,\" and \"tissue engineering.\" The literature search focused primarily on articles published between 2020 and 2026 to discuss the recent advancements in regenerative approaches for renal disease. Recent advances in regenerative medicine have identified therapies such as stem cells, gene therapy, CRISPR-Cas9, extracellular vesicles, and kidney organoids that promote nephron regeneration, improve vascularization, regulate inflammation, and restore kidney function. This review highlights the cellular and molecular mechanisms underlying renal damage, recent advances in regenerative medicine, and the key challenges and future directions for the safe and effective use of regenerative medicine in treating renal diseases.",
+      "journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Pharmacology, Faculty of Medicine, Pavol Jozef Šafárik University, Trieda SNP 1, Košice, 040 11, Slovakia. lenka.varinska@upjs.sk.",
-        "Department of Physiology, Amsterdam University Medical Center, Amsterdam, The Netherlands."
+        "Medical Biotechnology Lab, Faculty of Allied and Healthcare Sciences, Chettinad Academy of Research and Education (CARE), Chettinad Hospital and Research Institute (CHRI), Chennai, Tamil Nadu, India.",
+        "European Wellness Biomedical Group, Edenkoben, Germany.",
+        "Baden R&D Laboratories GmbH, Reutlingen, Germany.",
+        "Department of General Medicine, Chettinad Academy of Research and Education (CARE), Chettinad Hospital and Research Institute (CHRI), Chennai, Tamil Nadu, India."
       ],
-      "doi": "10.1007/s43440-026-00912-z",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862474/"
+      "doi": "10.1002/dvdy.70193",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867121/"
     },
     {
-      "pmid": "42861772",
-      "title": "Tissues as a synthetic target - a framework for the multiscale molecular design of thermogelling polymers.",
-      "abstract": "Tissues are living, water-swollen composite polymer networks whose dynamic biochemical composition, hierarchical architecture, and mechanics collectively regulate cell behavior and physiological function. Recreating these properties across biological and biomedical contexts (e.g., 2D and 3D cell culture, tissue engineering, organoid culture, and regenerative medicine) remains a critical challenge as existing synthetic matrices cannot fully recapitulate the multiscale organization and dynamic properties of native extracellular matrices. Most hydrogel platforms rely on \"drag-n-drop\" combinations of polymers, crosslinkers, fabrication methods, and bioactive motifs to approximate the biophysical and biochemical properties of an individual tissue or biomedical context. In this Review, we seek to motivate the pursuit of thermogel-based \"plug-n-play\" approaches by framing tissues as synthetic targets and examining the potential of polymers that undergo thermally-triggered assembly to serve as modular building blocks for next-generation synthetic ECMs. The ultimate goal is a universal framework for programming composition, structure, mechanics, and biofunction from a common multiscale molecular design language. We first closely examine the composition, assembly, and properties of ECMs to clearly establish targets of interest and processes that may serve as inspiration. Finally, we connect the thermodynamic principles of lower critical solution temperature behavior with macromolecular topology, phase separation, and hierarchical assembly to establish design opportunities for creating thermogelling polymers that more closely mimic the fibrous, hydrated, mechanically adaptive, and cell-instructive nature of native ECMs. We propose that future progress will require the integration of precise polymer synthesis, topology-dictated assembly, macromolecular crowding, high-throughput formulation, and multiscale characterization to establish predictive structure-assembly-property relationships. This framework is intended to facilitate the transition of thermogelling polymers from injectable or temperature-responsive materials to a latent scalable synthetic platform for writing bespoke tissue-like microenvironments from molecularly programmed building blocks.",
-      "journal": "Journal of materials chemistry. B",
+      "pmid": "42866631",
+      "title": "Responsible innovation in multi-organ-on-a-chip research: A qualitative study of biomedical scientists' views on the value and development of models for obesity.",
+      "abstract": "Obesity is a global health issue and risk factor for various diseases. Given its systemic nature, multi-organ-on-a-chip (MOC) models have been proposed to model human organ interactions in vitro. Obesity MOC models are still in an early stage of development. Early stakeholder engagement may provide insights into societal, scientific, and ethical aspects of obesity MOC models, and incorporating these dimensions can support their development and implementation. Therefore, we conducted an explorative qualitative study focusing on academic and industrial biomedical researchers' views on MOC models for obesity, based on a hypothetical model incorporating adipose tissue, kidney, and liver organ systems. Analysis of the semi-structured interview transcripts identified six themes that consistently emerged across all participants. Our results show that participants perceived obesity as a global health issue requiring prevention efforts. However, researchers argued that obesity MOC models should mimic human (patho)physiology, rather than focus on prevention. Moreover, tensions between capturing human system complexity and maintaining manageable technical setup were identified. Perceived hurdles, including finding universal culture medium, limited affordability, and inadequate high-throughput capacity, may hamper obesity MOC model development. Clear research objectives and model validity were considered crucial, and explicitly defining context of use may facilitate progress. Divergent views on obesity MOC model validation, ranging from animal replacement to animal benchmarking, highlight tensions in scientific practice. In conclusion, consensus on the value and validation of obesity MOC models requires engagement among scientists, institutions, and society. Our findings can inform design and communication of obesity-related MOC experiments, supporting their development and use.",
+      "journal": "NAM journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Nephrology and Hypertension, University Medical Center Utrecht, Utrecht, The Netherlands.",
+        "Center for Sustainable Animal Stewardship, Division of Animals in Science and Society, Department of Population, Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.",
+        "Department of Bioethics and Health Humanities, Julius Center for Health Sciences and Primary Care, University Medical Center, Utrecht, The Netherlands."
+      ],
+      "doi": "10.1016/j.namjnl.2026.100134",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866631/"
+    },
+    {
+      "pmid": "42866352",
+      "title": "Retinal organoid-based evaluation of icariin-loaded extracellular vesicles for hypoxia-induced retinal injury via mitochondrial modulation.",
+      "abstract": "Hypoxic injury is a critical pathological factor in various retinal degenerative diseases, leading to mitochondrial dysfunction and irreversible loss of retinal neurons. This study investigated the neuroprotective potential of Icariin-loaded extracellular vesicles (EV_ICA) using both R28 retinal progenitor cells and human embryonic stem cell (hESC)-derived retinal organoids. EV_ICA were isolated and characterized by morphology, EV marker expression, and zeta potential analysis. A CoCl2-induced hypoxic injury model was established in R28 cells and hESC-derived retinal organoids to evaluate the therapeutic effects of EV_ICA. Gene and protein expression analyses, bulk RNA sequencing (RNA-seq), gene set enrichment analysis (GSEA), mitochondrial ROS measurements, and intracellular ATP assays were performed to assess neuroprotective efficacy and mitochondrial function. EV_ICA exhibited typical spherical morphology, expressed standard EV markers, and showed a shift toward a less negative zeta potential compared to Naïve EV. In hypoxia-injured retinal models, EV_ICA significantly restored the expression of key retinal and neuroprotective markers, including Syntaxin12, NeuN, Vegf, Rbpms, Brn-3a, and Bdnf, while suppressing Hif-1α accumulation. Transcriptomic and GSEA analyses revealed that EV_ICA reactivated biological pathways associated with phototransduction, visual perception, and retinal development that were impaired under hypoxic conditions. Furthermore, EV_ICA improved mitochondrial homeostasis by up-regulating mitochondrial-related genes, reducing mitochondrial ROS accumulation, and recovering intracellular ATP production. These findings demonstrate that EV_ICA exerts neuroprotective effects by preserving mitochondrial quality control and restoring functional retinal gene programs under hypoxic stress. EV_ICA may therefore serve as a promising therapeutic candidate for hypoxia-related retinal degeneration and provide potential applications for cell-free regenerative medicine.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, CHA Bundang Medical Center, CHA University, Seongnam, Gyeonggi-do, Republic of Korea.",
+        "Red-Green Bioconvergence Institute, ORGANOIDSCIENCES CO., LTD., Iksan, Jeonbuk-do, Republic of Korea.",
+        "ORGANOIDSCIENCES CO., LTD., Cheongju, Jeonbuk-do, Republic of Korea.",
+        "CHA R&D Institute, CHA University, Seongnam, Gyeonggi-do, Republic of Korea.",
+        "Paik Institute for Clinical Research, Inje University College of Medicine, Busan, Republic of Korea.",
+        "Integrated Medicine Major (IM), Biomedical & Health Service Convergence Division, Graduate School of JABA, WonKwang University, Iksan, Republic of Korea.",
+        "VOS DISCOVERY CO., LTD., Ho Chi Minh, Vietnam."
+      ],
+      "doi": "10.3389/fcell.2026.1891491",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866352/"
+    },
+    {
+      "pmid": "42866212",
+      "title": "Perinatal insults, genetic susceptibility, and the pathogenesis of neurodevelopmental disorders: from epigenetic remodeling to neural circuit dysfunction-a narrative review.",
+      "abstract": "Neurodevelopmental disorders (NDDs)-including autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), intellectual disability (ID), epilepsy, and schizophrenia-affect approximately 10-15% of children worldwide. Emerging evidence suggests that NDDs arise from complex interactions between genetic susceptibility and environmental insults, particularly during perinatal periods. This narrative review aims to synthesize current evidence on the molecular and circuit-level mechanisms linking perinatal insults and genetic vulnerabilities to NDD pathogenesis, and to propose an integrative framework across epidemiology, genetics, epigenetics, and neurobiology. We searched PubMed/MEDLINE, Web of Science, and Google Scholar for articles published from January 2000 to April 2026, combining terms for NDDs, genetic susceptibility, perinatal exposures, and molecular mechanisms. We prioritized original research, meta-analyses, systematic reviews, and consortium studies; human studies were given precedence, with animal and organoid studies included only when providing unique mechanistic insights. The review covers five themes: (I) genetic architecture from rare variants to polygenic risk; (II) gene-environment interplay, distinguishing true interaction from genetic confounding; (III) epigenetic mediation (DNA methylation, histone modifications, noncoding RNAs); (IV) circuit dysfunction from synaptic/ion channel deficits to brain-wide networks (cortex, cerebellum, thalamus, brainstem); and (V) emerging therapeutic strategies with a translational roadmap. Its distinctive innovation lies in integrating these layers across developmental time, proposing epigenetic remodeling as a key molecular transducer linking early insults to persistent circuit dysfunction. Critical gaps persist-ancestry bias, lack of unified quantitative risk models, and limited therapy translation. Future priorities include diversifying genomic cohorts, establishing multi-omic birth cohorts, developing early-detection biomarkers for the perinatal window, and evaluating targeted interventions in genetically defined subgroups. This integrative framework aims to guide developmentally sensitive, precision-oriented approaches to NDD research and clinical care.",
+      "journal": "Translational pediatrics",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Chemistry, Brown University, 156 George St., Providence, RI 02912, USA. benjamin_mcdonald1@brown.edu."
+        "Department of Neonatology, School of Clinical Medicine & The First Affiliated Hospital of Chengdu Medical College, Chengdu, China."
       ],
-      "doi": "10.1039/d6tb01038e",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861772/"
+      "doi": "10.21037/tp-2026-0615",
+      "date": "2026-08-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866212/"
+    },
+    {
+      "pmid": "42866054",
+      "title": "Single-cell RNA Sequencing Analysis Reveals That Targeting PLG-PLGRKT Signaling-mediated Pro-fibrotic Scar-associated Macrophages Ameliorates Liver Fibrosis in Biliary Atresia.",
+      "abstract": "Biliary atresia (BA) is a severe pediatric cholangiopathy characterized by rapidly progressive liver fibrosis. This study aimed to characterize scar-associated macrophages and investigate the role of plasminogen (PLG)-plasminogen receptor with a C-terminal lysine (PLGRKT) signaling in BA-associated fibrogenesis. Single-cell RNA sequencing and spatial transcriptomics were applied to liver tissues from patients with BA and non-BA controls. Key findings were validated in an independent cohort using quantitative polymerase chain reaction and multiplex immunohistochemistry. The functional role of the PLGRKT pathway was further examined using primary human peripheral blood mononuclear cell-derived macrophages with small interfering RNA (siRNA)-mediated PLGRKT knockdown, together with co-culture systems involving LX-2 hepatic stellate cells and human liver organoids. In vivo therapeutic potential was evaluated in a murine bile duct ligation model of cholestatic liver fibrosis using macrophage-targeted Plgrkt-Trem2 antibody-siRNA conjugates. In BA, scar-associated macrophages (SAMs) increased with fibrosis progression and co-localized with hepatic stellate cells in fibrotic areas. PLGRKT was upregulated in BA liver tissue and increased during monocyte-to-macrophage differentiation. In primary human macrophages, PLG induced a PLGRKT-dependent pro-fibrotic phenotype, and conditioned medium from these cells increased COL1A1 deposition in hepatic stellate cells and human liver organoids. In vivo, macrophage-targeted Plgrkt-Trem2 antibody-siRNA conjugates reduced SAM accumulation and attenuated bile duct ligation-induced liver fibrosis. These findings support a role for SAMs and the PLGRKT-SAM axis in BA-associated liver fibrosis and suggest that PLGRKT warrants further investigation as a potential macrophage-directed anti-fibrotic target.",
+      "journal": "Journal of clinical and translational hepatology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery, Urumqi Children's Hospital, Urumqi, Xinjiang, China.",
+        "Graduate School, Tianjin Medical University, Tianjin, China.",
+        "Department of General Surgery, Tianjin Children's Hospital, Tianjin, China."
+      ],
+      "doi": "10.14218/JCTH.2026.00278",
+      "date": "2026-09-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866054/"
+    },
+    {
+      "pmid": "42866034",
+      "title": "Experimental models of hepatic injury in Wilson disease: stage-specific mechanisms and translational applications.",
+      "abstract": "Wilson disease (WD) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in ATP7B, with the liver being one of the earliest and most prominently affected organs. ATP7B dysfunction impairs copper incorporation into ceruloplasmin and biliary copper excretion, resulting in progressive hepatic copper accumulation and a cascade of pathological responses, including proteostasis disturbance, mitochondrial dysfunction, oxidative stress, metabolic remodeling, inflammation, and fibrogenesis. Given the dynamic progression of WD-associated liver injury from early copper dysregulation to chronic hepatitis, fibrosis, cirrhosis, and acute liver failure-like decompensation, appropriate experimental model selection is essential for mechanistic studies and therapeutic development. We conducted a structured narrative review of in vivo and in vitro models of WD-associated hepatic injury, with searches updated through August 2026, and evaluated each model according to genetic fidelity, disease-stage representation, dominant mechanism, tissue complexity, and translational objective. We then developed a stage-, mechanism-, and objective-oriented model-selection framework. Different WD models recapitulate distinct stages and features of hepatic injury. Severe Atp7b-deficient rat models, including the LEC rat, are particularly suitable for investigating severe liver injury, mitochondrial copper toxicity, and rapid decoppering interventions. tx-j mice and early-stage Atp7b-/- mice effectively model early hepatic copper accumulation, metabolic remodeling, and epigenetic alterations. Atp7b-/- mice, tx mice, LEC survivors, and Labrador retriever copper-associated hepatitis models are valuable for studying chronic copper hepatopathy, inflammation, and fibrosis. Variant-specific models are most informative for defining mutation-level defects in ATP7B folding, trafficking, stability, or transport and for testing mutation-compatible interventions; they should not be interpreted as establishing deterministic clinical genotype-phenotype relationships. Direct ATP7B-deficient models and copper-overload reference models are treated as distinct experimental categories throughout this Review. For fibrosis research, simple copper-exposed hepatocyte or hepatic stellate cell systems are insufficient to reproduce disease complexity. No single experimental model adequately captures the full spectrum of WD-associated hepatic injury. Model selection should be guided by the experimental question across disease stage, mechanistic hypothesis, genetic fidelity, tissue complexity, and translational objective. The most robust strategy is a tiered model-selection and validation pipeline in which genetic fidelity, tissue complexity, and therapeutic endpoint are increased as a finding moves from mechanistic discovery toward preclinical translation. WD-specific multicellular organoid and liver-on-chip systems remain a major unmet methodological need.",
+      "journal": "Frontiers in immunology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, China.",
+        "Brain Disease Research Institute, Anhui University of Chinese Medicine, Hefei, China.",
+        "Anhui University of Chinese Medicine, Hefei, China.",
+        "Key Laboratory of XinAn Medicine, Ministry of Education, Hefei, China."
+      ],
+      "doi": "10.3389/fimmu.2026.1930939",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866034/"
     },
     {
       "pmid": "42865067",
@@ -363,6 +370,94 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854199/"
     },
     {
+      "pmid": "42867203",
+      "title": "Pediatric Liver Transplantation in the Treatment of Solid Liver Tumors: A Narrative Review.",
+      "abstract": "Pediatric primary liver malignancies comprise a heterogeneous group of tumors requiring individualized multidisciplinary management. Hepatoblastoma and hepatocellular carcinoma remain the most common malignant liver tumors in children, whereas rare hepatic neoplasms account for a small but clinically significant proportion of cases. Over the past two decades, advances in tumor biology, standardized radiologic staging, multidisciplinary treatment planning, and liver transplantation have substantially improved outcomes, particularly for children with unresectable hepatoblastoma. Contemporary management has shifted from an anatomy-based approach to individualized treatment strategies that integrate molecular characterization, PRETEXT staging, response to neoadjuvant therapy, and careful assessment of surgical resectability. Liver transplantation is now recognized as a definitive oncologic treatment for carefully selected children with unresectable hepatoblastoma, selected cases of hepatocellular carcinoma, and, in exceptional circumstances, other rare hepatic malignancies. In parallel, improvements in post-transplant oncologic surveillance and immunosuppressive management have expanded opportunities for long-term disease control while emphasizing the need to balance graft preservation with recurrence risk. Emerging technologies, including molecular biomarkers, liquid biopsy, artificial intelligence, and advanced surgical planning, together with international collaborative initiatives, are expected to further refine patient selection and post-transplant management. This review summarizes current evidence on the role of liver transplantation in pediatric liver malignancies and discusses contemporary advances reshaping pediatric transplant oncology.",
+      "journal": "Pediatric transplantation",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Surgery, Indiana University School of Medicine, Indianapolis, Indiana, USA.",
+        "University of Colorado School of Medicine, Anschutz Medical Campus, Aurora, Colorado, USA.",
+        "Department of General, Visceral and Thoracic Surgery, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.",
+        "Miami Transplant Institute - Jackson Memorial Hospital, Hospital of Miami, Miami, Florida, USA.",
+        "Department of Surgery, Tufts University, Boston, Massachusetts, USA."
+      ],
+      "doi": "10.1111/petr.70494",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867203/"
+    },
+    {
+      "pmid": "42867147",
+      "title": "AI in Neuro-Oncology: An Overarching Review.",
+      "abstract": "Artificial intelligence (AI) is increasingly being applied across neuro-oncology domains to analyze complex, high-dimensional, multimodal data. Despite major advances in the biological understanding and classification of CNS tumors, clinical outcomes for many of them remain poor, reflecting intra- and inter-tumor heterogeneity and limitations of conventional reductionist approaches. AI offers a paradigm shift to capture this heterogeneity and provide quantitative, reproducible diagnostic, predictive, and prognostic insights. This article describes a joint effort across the Response Assessment in Neuro-Oncology (RANO) working groups to provide an overarching review of the AI use across six key domains of neuro-oncology: neuroimaging, neuropathology, laboratory medicine, neurosurgery, drug discovery, and clinical trials. Applications closest to clinical use include imaging segmentation and quantification, AI-assisted image reconstruction, DNA methylation-based classification, and workflow optimization. Radiogenomics, WSI-based molecular prediction, AI-guided surgical targeting, liquid biopsy interpretation, AI-guided drug discovery, digital twins, and in silico trials remain promising but require stronger prospective validation. Key challenges include limited availability of large diverse datasets, variability in data acquisition and reference standards, and limited external validation. This review provides a unifying framework for understanding the role of AI across neuro-oncology and highlights key considerations for its responsible implementation, emphasizing standardization, reproducibility, multi-institutional validation, and human oversight.",
+      "journal": "Neuro-oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pathology and Laboratory Medicine, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Indiana University Simon Comprehensive Cancer Center, Indiana University, Indianapolis, IN, USA.",
+        "Institute of Neuroscience and Medicine (INM-3/INM-4), Research Center Juelich (FZJ), Juelich, Germany.",
+        "Department of Nuclear Medicine, RWTH Aachen University Hospital, Aachen, Germany.",
+        "Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute of Science and Technology (BIST), Barcelona, Catalonia, Spain.",
+        "Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Catalonia, Spain.",
+        "Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Department of Neurosurgery, Mass General Brigham, Boston, MA, USA.",
+        "Dept. of Neurology, Faculty of Medicine and University Hospital of Cologne, University of Cologne, Cologne, Germany.",
+        "Departments of Pathology and Translational Molecular Pathology, University of Texas MD Anderson Cancer Center, Houston, TX, USA.",
+        "Department of Neurosurgery, TUM University Hospital, Technical University of Munich, Munich, Germany.",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania Philadelphia, PA, USA.",
+        "Department of Neuropathology, Heidelberg University Hospital, Heidelberg, Germany; Clinical Cooperation Unit Neuropathology, German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+        "Department of Radiation Oncology, Mass General Brigham, Boston, Massachusetts, USA.",
+        "Department of Neurosurgery, Ludwig-Maximilian-University Munich, Germany.",
+        "Office of Data Science, St. Jude Children's Research Hospital, Memphis, TN, USA.",
+        "Brain Metastasis Group, Spanish National Cancer Research Centre (CNIO), Madrid, Spain.",
+        "Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, USA.",
+        "Departments of Radiology and Imaging Sciences; Neurological Surgery; Biostatistics and Health Data Science, Indiana University School of Medicine, Indianapolis, IN, USA.",
+        "Department Computer Science, Luddy School of Informatics Computing and Engineering, Indiana University, Indianapolis, IN, USA."
+      ],
+      "doi": "10.1093/neuonc/noag257",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867147/"
+    },
+    {
+      "pmid": "42866599",
+      "title": "Advances in Liquid Biopsy for Precision Oncology: Applications, Challenges, and Future Directions in Clinical Laboratories.",
+      "abstract": "Liquid biopsy has emerged as a revolutionary, minimally invasive approach in precision oncology, enabling dynamic molecular profiling of tumors through analysis of circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomes, and other biomarkers in body fluids. Focusing specifically on recent advances from 2023 to 2026, this review provides a laboratory-centered critical synthesis addressing the core operational questions for clinical implementation: which liquid biopsy platform should be selected for specific analytes and clinical intents, under what pre-analytical and analytical constraints, and with what quality-control and clinical utility standards. Key technological developments include highly sensitive next-generation sequencing (NGS) with unique molecular identifiers (UMIs), digital droplet PCR (ddPCR), multi-omics integration, and artificial intelligence-assisted interpretation, which have improved detection sensitivity to ultra-low variant allele frequencies. Major clinical applications encompass multi-cancer early detection (MCED), companion diagnostics, real-time treatment monitoring, minimal residual disease (MRD) assessment, and resistance mutation tracking. These tools often provide earlier insights than imaging and better capture tumor heterogeneity. Compared with tissue biopsy, liquid biopsy offers advantages in repeatability, speed, and systemic representation, though challenges remain in sensitivity for early-stage disease, standardization, cost-effectiveness, and implementation in grassroots hospitals. Future directions emphasize multi-omics, AI, and automated workflows to enhance its role across the cancer continuum. This review highlights practical recommendations for clinical laboratories, positioning liquid biopsy as a cornerstone of personalized, proactive oncology care.",
+      "journal": "OncoTargets and therapy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory, The Second People's Hospital of Gansu Province, Lanzhou, Gansu, People's Republic of China.",
+        "Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, Gansu, People's Republic of China."
+      ],
+      "doi": "10.2147/OTT.S649325",
+      "date": "2026-10-08",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866599/"
+    },
+    {
+      "pmid": "42866242",
+      "title": "Precision surgical oncology for hepatocellular carcinoma.",
+      "abstract": "Hepatocellular carcinoma (HCC) is a heterogeneous tumor-liver-host disease in which treatment selection depends on tumor burden, liver function, portal hypertension, performance status, and patient preferences. Although hepatic resection and other established treatment modalities remain central to curative and disease-controlling strategies, emerging biological and digital technologies may provide additional information beyond conventional clinical assessment. However, their prognostic performance does not necessarily establish clinical utility, and many remain insufficiently validated for routine treatment selection. This narrative review examines the evolving role of precision-oriented approaches in HCC, including molecular and immune profiling, radiomics, circulating tumor DNA, artificial intelligence, and digital pathology. We classify these approaches into three evidence tiers: established clinical practice, investigational clinical tools, and future hypotheses. We then propose Precision Surgical Oncology as an author-developed, hypothesis-generating framework in which guideline-based assessment is followed by biological and host-risk refinement, multidisciplinary interpretation, individualized treatment within established therapeutic pathways, and longitudinal reassessment. Precision Surgical Oncology is intended to complement, rather than replace, evidence-based HCC management. Its future clinical value will depend on prospective validation, reproducibility, defined clinical actionability, equitable implementation, and demonstration of improved patient outcomes.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Gastroenterological Surgery, Kochi Health Sciences Center, Kochi, Japan."
+      ],
+      "doi": "10.3389/fonc.2026.1957598",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866242/"
+    },
+    {
       "pmid": "42863532",
       "title": "The epigenetic landscape of hepatocellular carcinoma: from molecular mechanisms to early detection biomarkers and precision therapy.",
       "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of global cancer mortality due to late diagnosis, molecular heterogeneity, and therapeutic resistance. Emerging evidence highlights that epigenetic and epitranscriptomic dysregulations drive hepatocarcinogenesis by altering gene expression programs without changing the underlying DNA sequence. Aberrant DNA methylation, histone modifications, chromatin remodeling, non-coding RNA networks, and N6-methyladenosine (m6A) RNA modifications collectively orchestrate HCC initiation, progression, metastasis, immune evasion, and metabolic reprogramming. Recent breakthroughs in next-generation sequencing, liquid biopsy, and multi-omics profiling have accelerated the identification of robust epigenetic biomarkers for early detection, prognosis, and therapeutic monitoring. Concurrently, epigenetic-targeted therapies, including DNA methyltransferase, histone deacetylase, EZH2, and BET inhibitors, offer promising preclinical and clinical opportunities for precision oncology, particularly through rational combination strategies to overcome drug resistance. This review provides a comprehensive synthesis of the molecular mechanisms governing epigenetic and epitranscriptomic alterations in HCC. We highlight their translational potential in clinical practice and critically discuss current challenges, emerging technologies, and future perspectives for successful clinical implementation.",
@@ -431,214 +526,20 @@
       "doi": "10.1002/pros.70269",
       "date": "2026-10-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862920/"
-    },
-    {
-      "pmid": "42862849",
-      "title": "Advances in peptidomics: analytical strategies and biological insights for clinical applications.",
-      "abstract": "Endogenous peptides are emerging as key regulators of physiological and pathological processes and represent promising biomarkers and therapeutic targets. Advances in peptidomics have substantially improved their discovery and characterization, providing new insights into peptide biogenesis, biological functions, and clinical applications. This review summarizes current knowledge on endogenous peptide generation, analytical workflows, biological functions, and emerging diagnostic and therapeutic applications. A literature search was conducted using PubMed, Scopus, and Web of Science, focusing primarily on studies published between 2020 and 2026. This review: (1) examines MS-based analytical strategies for peptidome characterization; (2) highlights major peptidomics subfields, including immunopeptidomics, neuropeptidomics, degradomics, fragmentomics, and secretomics; (3) discusses current biological and clinical applications, with emphasis on biomarker discovery, disease monitoring, and theranostic development in oncology, neurodegenerative, metabolic, reproductive, and infectious diseases. The review also summarizes current advances in liquid biopsy peptidomics. Peptidomics is evolving from a discovery-driven discipline into a clinically relevant platform for biomarker identification and therapeutic development. Future progress will depend on standardized workflows, advanced MS technologies, AI-supported data analysis, and multi-omics integration to enable robust clinical translation and precision medicine.",
-      "journal": "Expert review of proteomics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Biochemistry & Proteomics Laboratories, Department of Chemistry & Biochemistry, Clarkson University, Potsdam, NY.",
-        "Laboratory of Animal Histology, Faculty of Biology, \"Alexandru Ioan Cuza\" University of Iași, Iasi, Romania."
-      ],
-      "doi": "10.1080/14789450.2026.2744215",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862849/"
-    },
-    {
-      "pmid": "42861528",
-      "title": "[Urinary biomarkers: A promising tool for modern nephrology].",
-      "abstract": "To avoid the need for renal biopsy, which remains an invasive procedure, numerous urinary biomarkers have been investigated for the detection, risk stratification, and prediction of disease progression in patients with acute or chronic kidney disease. Often referred to as a form of \"liquid biopsy,\" some of these molecular candidates, particularly proteins and peptides, have shown considerable robustness and clinical potential. This review outlines the concept of a biomarker and the key stages involved in its development, drawing on practical examples such as prognostic signatures for antenatal renal developmental abnormalities and the prediction of acute kidney injury, as well as diagnostic applications in common clinical settings, including glomerular diseases using urinary soluble CD163 and acute interstitial nephritis using CXCL9. Methods used for biomarker measurement are also discussed. Despite encouraging results, even the most advanced biomarkers have struggled to progress beyond external multicenter validation because of methodological challenges related to both the underlying technologies and the heterogeneity of patient cohorts. As of 2026, these biomarkers remain primarily research tools, and a broad consensus on their routine clinical use has yet to emerge.",
-      "journal": "Nephrologie & therapeutique",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Département de néphrologie et transplantation d'organes, Centre de référence des maladies rénales rares, French Intensive Care Renal Network, CHU de Toulouse, Toulouse, France.",
-        "Université Toulouse, Toulouse, France.",
-        "Inserm U1297, Institut des maladies métaboliques et cardiovasculaires, Toulouse, France."
-      ],
-      "doi": "10.1684/ndt.2026.198",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861528/"
-    },
-    {
-      "pmid": "42861255",
-      "title": "Micro/Nanostructured Materials and Microfluidic Diagnostic Platforms Enable Multimodal Detection of Circulating Tumor Cells.",
-      "abstract": "Circulating tumor cells (CTCs), as pivotal targets in liquid biopsy, offer dynamic, multidimensional insights into tumor heterogeneity and metastatic progression. However, their extreme rarity, pronounced heterogeneity, and the complexity of the blood microenvironment severely constrain detection accuracy. Advances in micro/nanomaterials and functional device engineering have enabled substantial improvements in CTC enrichment efficiency by refining the topographical and chemical properties of capture interfaces. These innovations also provide a compatible foundation for multimodal molecular profiling. This review systematically outlines the structure-function relationships of functionalized nanomaterials, microfiltration substrates, and biomimetic microfluidic devices, highlighting how material parameters-such as nanoscale architectures and membrane pore sizes-govern CTC capture performance. We further explore the integration of micro/nanomaterials with functional platforms for multidimensional molecular analyses across DNA, RNA, and protein levels. Coupled with emerging digital PCR technologies, these systems show promise in overcoming the sensitivity barriers associated with rare mutation detection and protein quantification, enabling multi-omics data fusion. We also discuss how artificial intelligence (AI)-driven feature selection, clustering, and prediction integrate multidimensional data to decode tumor heterogeneity and guide disease monitoring. Despite rapid progress, key challenges remain-including the lack of standardization, limited integration of multi-omic datasets, and the need for robust clinical validation. Future directions may lie in the convergence of microfluidic-integrated materials, single-cell multi-omics, and AI-driven analytics to establish dynamic, high-resolution monitoring platforms that bridge the gap between fundamental research and clinical precision oncology.",
-      "journal": "Exploration (Beijing, China)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Medical Oncology the First Affiliated Hospital of Soochow University Suzhou China.",
-        "Suzhou Institute of Biomedical Engineering and Technology Chinese Academy of Sciences Suzhou China.",
-        "State Key Laboratory on Technologies for Chinese Medicine Pharmaceutical Process Control and Intelligent Manufacture Nanjing University of Chinese Medicine Nanjing China.",
-        "School of Electrical and Electronic Engineering Nanyang Technological University Singapore Singapore."
-      ],
-      "doi": "10.1002/exp2.70239",
-      "date": "2026-10-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861255/"
-    },
-    {
-      "pmid": "42860325",
-      "title": "Prognostic biomarkers in non-muscle-invasive bladder cancer: biological basis and evidence.",
-      "abstract": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrative search of PubMed, Web of Science, and the Cochrane Library for English-language human studies published from January 2015 to August 2026, supplemented by earlier pivotal studies and reference-list screening. Priority was given to NMIBC cohorts reporting recurrence, progression, survival, or response to intravesical therapy. We considered cohort specificity, sample size, multivariable analysis, testing in an independent population, and assay standardisation. Tumour-tissue markers such as stromal antigen 2 (STAG2), fibroblast growth factor receptor 3 (FGFR3), fibroblast activation protein-α, the urokinase plasminogen activator system, and cadherins are linked to chromosomal stability, growth-factor signalling, stromal remodelling, extracellular-matrix invasion, and epithelial-mesenchymal transition. Urinary RNAs and plasma circulating tumour DNA permit non-invasive sampling, although results depend on specimen handling and assay conditions. Blood-derived inflammatory indices are inexpensive but non-specific. Most evidence comes from retrospective single-cohort studies; reported effects and cut-offs are not always consistent, and few markers materially improve clinicopathological models. None of the biomarkers reviewed can currently replace guideline-based risk stratification or cystoscopic surveillance. Future studies should define assays and thresholds prospectively, test them in independent cohorts, and show that adding a biomarker improves prediction and patient management at an acceptable cost.",
-      "journal": "BJU international",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Urology & Nephrology Center, Department of Urology, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, Hangzhou, Zhejiang, China.",
-        "Postgraduate Training Base Alliance of Zhejiang Provincial People's Hospital, Wenzhou Medical University, Wenzhou, Zhejiang, China.",
-        "Key Laboratory of Novel Targets and Drug Study for Neural Repair of Zhejiang Province, School of Medicine, Hangzhou City University, Hangzhou, Zhejiang, China."
-      ],
-      "doi": "10.1111/bju.70488",
-      "date": "2026-10-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860325/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42864779",
-      "date": "2026-10-12",
-      "title": "LigHTS: Biomimetic Hydrogel Photo-Fabrication for Imaging-Based Ultra-High-Throughput Screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864779/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42864779。",
-      "report": "Imaging-based ultra-high-throughput screening (UHTS) in pharma and biotech still relies on 384- and 1536-well plates whose rigid, flat substrates limit biological fidelity and screening efficiency. Highly biomimetic organoids and organs-on-chips improve releva...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42864231",
-      "date": "2026-10-12",
-      "title": "Anticipatory regulation of stem cell-based technologies: a UK case study.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864231/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Trends in biotechnology，PMID 为 42864231。",
-      "report": "Biotechnological advances are prompting governments to fear falling behind and missing out on growth and investment. Yet science often moves faster and less predictably than legislation. Using the United Kingdom's stem cell regulation as a case study, we exami...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42862628",
-      "date": "2026-10-12",
-      "title": "A 3D-Printed Biochemical-Mechano-Thermally Responsive Multicellular Tumor Organoid Platform Decodes Biochemical-Physical Regulation of Cancer-Immune Crosstalk and Chemoresistance.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862628/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced materials (Deerfield Beach, Fla.)，PMID 为 42862628。",
-      "report": "Oral tumors are not shaped by biochemical signals alone; they also evolve within mechanically active and thermally fluctuating microenvironments that critically regulate malignant progression, immune remodeling, and therapeutic resistance. Here, we develop a d...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42862474",
-      "date": "2026-10-12",
-      "title": "Linking preclinical models with functional imaging and artificial intelligence to decode tumor angiogenesis.",
+      "id": "pubmed-42867121",
+      "date": "2026-10-13",
+      "title": "A review on recent advances in regenerative medicine for renal diseases: Approaches and challenges.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862474/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacological reports : PR，PMID 为 42862474。",
-      "report": "Tumor angiogenesis is a hallmark of cancer, influencing oxygen delivery, immune cell trafficking, and therapeutic response. Although anti-angiogenic therapies have achieved clinical relevance, their efficacy remains limited by tumor heterogeneity, adaptive res...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42861772",
-      "date": "2026-10-12",
-      "title": "Tissues as a synthetic target - a framework for the multiscale molecular design of thermogelling polymers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861772/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867121/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -651,9 +552,48 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of materials chemistry. B，PMID 为 42861772。",
-      "report": "Tissues are living, water-swollen composite polymer networks whose dynamic biochemical composition, hierarchical architecture, and mechanics collectively regulate cell behavior and physiological function. Recreating these properties across biological and biome...",
+      "fact": "PubMed 记录显示该文献收录于 Developmental dynamics : an official publication of the American Association of Anatomists，PMID 为 42867121。",
+      "report": "Renal diseases such as acute and chronic kidney disease cause loss of nephrons and kidney function, often leading to renal failure. Current treatments like dialysis and transplantation only manage symptoms and extend survival for a few years. Regenerative medi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42867147",
+      "date": "2026-10-13",
+      "title": "AI in Neuro-Oncology: An Overarching Review.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867147/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Neuro-oncology，PMID 为 42867147。",
+      "report": "Artificial intelligence (AI) is increasingly being applied across neuro-oncology domains to analyze complex, high-dimensional, multimodal data. Despite major advances in the biological understanding and classification of CNS tumors, clinical outcomes for many...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -780,128 +720,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42862849",
-      "date": "2026-10-12",
-      "title": "Advances in peptidomics: analytical strategies and biological insights for clinical applications.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862849/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of proteomics，PMID 为 42862849。",
-      "report": "Endogenous peptides are emerging as key regulators of physiological and pathological processes and represent promising biomarkers and therapeutic targets. Advances in peptidomics have substantially improved their discovery and characterization, providing new i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42861528",
-      "date": "2026-10-12",
-      "title": "[Urinary biomarkers: A promising tool for modern nephrology].",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861528/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nephrologie & therapeutique，PMID 为 42861528。",
-      "report": "To avoid the need for renal biopsy, which remains an invasive procedure, numerous urinary biomarkers have been investigated for the detection, risk stratification, and prediction of disease progression in patients with acute or chronic kidney disease. Often re...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42861255",
-      "date": "2026-10-11",
-      "title": "Micro/Nanostructured Materials and Microfluidic Diagnostic Platforms Enable Multimodal Detection of Circulating Tumor Cells.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861255/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42861255。",
-      "report": "Circulating tumor cells (CTCs), as pivotal targets in liquid biopsy, offer dynamic, multidimensional insights into tumor heterogeneity and metastatic progression. However, their extreme rarity, pronounced heterogeneity, and the complexity of the blood microenv...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42860325",
-      "date": "2026-10-11",
-      "title": "Prognostic biomarkers in non-muscle-invasive bladder cancer: biological basis and evidence.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860325/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BJU international，PMID 为 42860325。",
-      "report": "To review prognostic and treatment-response biomarkers for non-muscle-invasive bladder cancer (NMIBC), with particular attention to biological function, specimen type, assay method, statistical evidence, and possible clinical use. We conducted a focused narrat...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42860076",
       "date": "2026-10-09",
       "title": "Benchmarking biological knowledge-graph priors against single-cell foundation models for Perturb-seq prediction.",
@@ -929,6 +747,38 @@
       "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42860076。",
       "report": "Perturb-seq prediction increasingly relies on either biological graph priors or single-cell foundation models, but their relative value is difficult to interpret when architectures, split definitions and graph sources vary simultaneously. We benchmarked STRING...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42866599",
+      "date": "2026-10-08",
+      "title": "Advances in Liquid Biopsy for Precision Oncology: Applications, Challenges, and Future Directions in Clinical Laboratories.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866599/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 OncoTargets and therapy，PMID 为 42866599。",
+      "report": "Liquid biopsy has emerged as a revolutionary, minimally invasive approach in precision oncology, enabling dynamic molecular profiling of tumors through analysis of circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), exosomes, and other biomarkers in...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -990,34 +840,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42864493",
-      "date": "2026-10-01",
-      "title": "Engrafting human cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864493/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature biotechnology，PMID 为 42864493。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42844355",
       "date": "2026-10-01",
       "title": "Generalizable perturbation prediction.",
@@ -1045,6 +867,94 @@
       "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42844355。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42867203",
+      "date": "2026-10-01",
+      "title": "Pediatric Liver Transplantation in the Treatment of Solid Liver Tumors: A Narrative Review.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867203/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pediatric transplantation，PMID 为 42867203。",
+      "report": "Pediatric primary liver malignancies comprise a heterogeneous group of tumors requiring individualized multidisciplinary management. Hepatoblastoma and hepatocellular carcinoma remain the most common malignant liver tumors in children, whereas rare hepatic neo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42866352",
+      "date": "2026-09-28",
+      "title": "Retinal organoid-based evaluation of icariin-loaded extracellular vesicles for hypoxia-induced retinal injury via mitochondrial modulation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866352/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42866352。",
+      "report": "Hypoxic injury is a critical pathological factor in various retinal degenerative diseases, leading to mitochondrial dysfunction and irreversible loss of retinal neurons. This study investigated the neuroprotective potential of Icariin-loaded extracellular vesi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42866034",
+      "date": "2026-09-28",
+      "title": "Experimental models of hepatic injury in Wilson disease: stage-specific mechanisms and translational applications.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866034/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42866034。",
+      "report": "Wilson disease (WD) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in ATP7B, with the liver being one of the earliest and most prominently affected organs. ATP7B dysfunction impairs copper incorporation into ceruloplasmin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1113,6 +1023,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42866242",
+      "date": "2026-09-28",
+      "title": "Precision surgical oncology for hepatocellular carcinoma.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866242/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42866242。",
+      "report": "Hepatocellular carcinoma (HCC) is a heterogeneous tumor-liver-host disease in which treatment selection depends on tumor burden, liver function, portal hypertension, performance status, and patient preferences. Although hepatic resection and other established...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42818106",
       "date": "2026-09-26",
       "title": "Pop-Corn: Predicting Perturbation Phenotype Effects Across Single-Cell and Spatial Contexts.",
@@ -1140,6 +1078,34 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42818106。",
       "report": "Genetic perturbations can reshape cell populations by altering the relative abundance of specific cell types and states within the profiled population, including increases, decreases and states that become detectable after perturbation. Pooled single-cell scre...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42866631",
+      "date": "2026-09-15",
+      "title": "Responsible innovation in multi-organ-on-a-chip research: A qualitative study of biomedical scientists' views on the value and development of models for obesity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866631/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 NAM journal，PMID 为 42866631。",
+      "report": "Obesity is a global health issue and risk factor for various diseases. Given its systemic nature, multi-organ-on-a-chip (MOC) models have been proposed to model human organ interactions in vitro. Obesity MOC models are still in an early stage of development. E...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1206,6 +1172,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42866054",
+      "date": "2026-09-09",
+      "title": "Single-cell RNA Sequencing Analysis Reveals That Targeting PLG-PLGRKT Signaling-mediated Pro-fibrotic Scar-associated Macrophages Ameliorates Liver Fibrosis in Biliary Atresia.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866054/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of clinical and translational hepatology，PMID 为 42866054。",
+      "report": "Biliary atresia (BA) is a severe pediatric cholangiopathy characterized by rapidly progressive liver fibrosis. This study aimed to characterize scar-associated macrophages and investigate the role of plasminogen (PLG)-plasminogen receptor with a C-terminal lys...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42852178",
       "date": "2026-08-31",
       "title": "AI-enabled fungal biomanufacturing: from genome mining to the artificial intelligence virtual cell.",
@@ -1237,6 +1233,34 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42866212",
+      "date": "2026-08-19",
+      "title": "Perinatal insults, genetic susceptibility, and the pathogenesis of neurodevelopmental disorders: from epigenetic remodeling to neural circuit dysfunction-a narrative review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866212/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational pediatrics，PMID 为 42866212。",
+      "report": "Neurodevelopmental disorders (NDDs)-including autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), intellectual disability (ID), epilepsy, and schizophrenia-affect approximately 10-15% of children worldwide. Emerging evidence sugges...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
