@@ -4,15 +4,41 @@
   "asOfDate": "2026-10-14",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-e43a116cefaa12a1",
-      "observedName": "Nuvation Bio Inc.",
-      "normalizedName": "nuvation bio",
+      "id": "mention-clinicaltrials-1509050395cb4541",
+      "observedName": "Orchard Therapeutics",
+      "normalizedName": "orchard therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05577416",
-      "sourceDate": "2026-03-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05577416",
+      "sourceRecordId": "NCT02999984",
+      "sourceDate": "2022-08-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02999984",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Oncology",
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Efficacy and Safety of the Cryopreserved Formulation of OTL-101 in Subjects With ADA-SCID"
+    },
+    {
+      "id": "mention-clinicaltrials-6725d3236debe9a1",
+      "observedName": "ASLAN Pharmaceuticals",
+      "normalizedName": "aslan pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03451084",
+      "sourceDate": "2021-07-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03451084",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -26,7 +52,58 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of AB-218 in Patients With IDH1 Mutated Low Grade Glioma"
+      "contextTitle": "A Dose Optimisation Study of ASLAN003 in Acute Myeloid Leukemia"
+    },
+    {
+      "id": "mention-clinicaltrials-b9c8af180d05c786",
+      "observedName": "BlueBird Age Reversal SA",
+      "normalizedName": "bluebird age reversal",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07322224",
+      "sourceDate": "2026-01-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07322224",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Multi-Modal Longevity Protocol Including Autologous Cell-Free Conditioned Media"
+    },
+    {
+      "id": "mention-clinicaltrials-bed0492709e13e17",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00216047",
+      "sourceDate": "2015-12-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00216047",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "乳腺癌",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "PTK787 + Trastuzumab for HER2 Overexpressing Metastatic Breast Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
