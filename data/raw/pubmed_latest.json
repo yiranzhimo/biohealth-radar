@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-13T22:50:49.906659+00:00",
+  "capturedAt": "2026-10-14T04:59:51.001020+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,144 +10,148 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-13",
-    "end": "2026-10-13"
+    "start": "2025-10-14",
+    "end": "2026-10-14"
   },
   "pmids": [
-    "42867121",
-    "42866631",
-    "42866352",
-    "42866212",
-    "42866054",
-    "42866034",
+    "42869828",
+    "42869701",
+    "42869692",
+    "42869156",
+    "42869137",
+    "42868714",
     "42865067",
     "42860076",
     "42852178",
     "42844355",
     "42818971",
     "42818106",
+    "42869456",
     "42864397",
     "42864336",
     "42861354",
     "42856349",
     "42856293",
-    "42854199",
+    "42868284",
     "42867203",
     "42867147",
     "42866599",
     "42866242",
-    "42863532",
-    "42862920"
+    "42863532"
   ],
   "records": [
     {
-      "pmid": "42867121",
-      "title": "A review on recent advances in regenerative medicine for renal diseases: Approaches and challenges.",
-      "abstract": "Renal diseases such as acute and chronic kidney disease cause loss of nephrons and kidney function, often leading to renal failure. Current treatments like dialysis and transplantation only manage symptoms and extend survival for a few years. Regenerative medicine offers promising approaches for repairing and regenerating renal tissue by targeting underlying disease mechanisms. For this narrative review, relevant original research articles and review articles were retrieved from online databases such as PubMed, Google Scholar, and ScienceDirect by using relevant keywords such as \"renal regeneration,\" \"kidney organoids,\" \"stem cell therapy,\" \"gene therapy,\" \"extracellular vesicles,\" and \"tissue engineering.\" The literature search focused primarily on articles published between 2020 and 2026 to discuss the recent advancements in regenerative approaches for renal disease. Recent advances in regenerative medicine have identified therapies such as stem cells, gene therapy, CRISPR-Cas9, extracellular vesicles, and kidney organoids that promote nephron regeneration, improve vascularization, regulate inflammation, and restore kidney function. This review highlights the cellular and molecular mechanisms underlying renal damage, recent advances in regenerative medicine, and the key challenges and future directions for the safe and effective use of regenerative medicine in treating renal diseases.",
-      "journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+      "pmid": "42869828",
+      "title": "[Efficacy-toxicity duality of Tripterygium wilfordii in treatment of rheumatic and immune diseases: mechanisms, strategies for toxicity attenuation and efficacy enhancement, and future perspectives].",
+      "abstract": "Rheumatic and immune diseases constitute a major global disease burden. Tripterygium wilfordii demonstrates remarkable therapeutic efficacy in treating rheumatoid arthritis, systemic lupus erythematosus and related conditions. However, its prominent hepatic, renal, and reproductive toxicities engender a characteristic &quot;efficacy-toxicity duality&quot;, thereby limiting its broader clinical adoption and safe application. This study systematically synthesized domestic and international research over the past two decades to construct a regulatory network governing the &quot;efficacy-toxicity duality&quot; of T. wilfordii from an integrative &quot;component-pathway-spatiotemporal-host(individual)&quot; perspective. It dissected the underlying mechanisms linking efficacy and toxicity, elucidating that key constituents such as triptolide exert dual effects through intervention in shared signaling pathways, including nuclear factor erythroid 2-related factor 2(Nrf2) and signal transducer and activator of transcription 3(STAT3), where the specific outcome of efficacy versus toxicity is dictated by defined &quot;dose-time&quot; windows, tissue distribution patterns, and individual host factors. The study further reviewed toxicity attenuation and efficacy enhancement strategies, including structural modification, targeted delivery, and combination pharmacotherapy. In response to three translational bottlenecks-inconsistent quality, inefficient delivery, and lagging evaluation-this work proposed the establishment of end-to-end quality control standards, the development of intelligent responsive delivery systems, and the integration of emerging technologies such as artificial intelligence and organoids into an advanced &quot;efficacy-toxicity&quot; evaluation framework. Collectively, these efforts aim to provide an integrative theoretical framework and translatable innovation pathways for advancing T. wilfordii toward safe, controllable, and precision-oriented modern pharmaceuticals, thereby facilitating the modernization of traditional Chinese medicine and its global clinical dissemination.",
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publicationTypes": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "the First Clinical Medical School, Nanjing University of Chinese Medicine Nanjing 210023, China.",
+        "School of Integrative Chinese and Western Medicine, Nanjing University of Chinese Medicine Nanjing 210023, China.",
+        "School of Traditional Chinese Medicine, Nanjing University of Chinese Medicine Nanjing 210023, China."
+      ],
+      "doi": "10.19540/j.cnki.cjcmm.20260416.301",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869828/"
+    },
+    {
+      "pmid": "42869701",
+      "title": "Translational research models for variant subtype bladder cancers: A comprehensive review of the current landscape.",
+      "abstract": "Bladder cancer remains a leading cause of cancer-related mortality in the United States, with most cases classified as conventional urothelial carcinoma. However, a substantial subset of patients presents with aggressive variant histologies, including sarcomatoid, plasmacytoid, and micropapillary subtypes. These variants are associated with early dissemination, treatment resistance, and limited evidence to guide subtype specific management. Despite their clinical relevance, progress in mechanistic understanding and therapeutic development has been hindered due to rarity, underrepresentation in clinical trials, and a research focus on conventional disease. A key impediment is the lack of translational model systems that maintain variant defining morphology, lineage programs, and tumor microenvironmental interactions. Recent advances in translational modeling technologies now provide new opportunities to interrogate the unique biology of variant subtype bladder cancers. In this review, we highlight key preclinical models commonly used in bladder cancer research, including patient-derived xenografts, humanized models, syngeneic systems, genetically engineered mouse models, organoids, and ex vivo explants, and highlight emerging applications in variant histologies. We also discuss innovative and integrative platforms, including hybrid experimental systems and computational approaches, that are beginning to overcome barriers imposed by tumor rarity and heterogeneity. Collectively, these evolving model systems will enable more faithful representation of variant subtype biology, tumor-microenvironment interactions, and therapeutic vulnerabilities, and provide a framework for developing subtype-specific, precision treatment strategies.",
+      "journal": "Urologic oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Medical Biotechnology Lab, Faculty of Allied and Healthcare Sciences, Chettinad Academy of Research and Education (CARE), Chettinad Hospital and Research Institute (CHRI), Chennai, Tamil Nadu, India.",
-        "European Wellness Biomedical Group, Edenkoben, Germany.",
-        "Baden R&D Laboratories GmbH, Reutlingen, Germany.",
-        "Department of General Medicine, Chettinad Academy of Research and Education (CARE), Chettinad Hospital and Research Institute (CHRI), Chennai, Tamil Nadu, India."
+        "Department of Molecular, Cellular, and Developmental Biology, Yale College, New Haven, CT.",
+        "Department of Urology, Yale University School of Medicine, New Haven, CT.",
+        "Department of Pathology, Yale University School of Medicine, New Haven, CT.",
+        "Section of Medical Oncology and Hematology, Department of Internal Medicine, Yale University School of Medicin, New Haven, CT.",
+        "Department of Urology, Yale University School of Medicine, New Haven, CT; Department of Pathology, Yale University School of Medicine, New Haven, CT; Yale Cancer Center, Yale University School of Medicine, New Haven, CT.",
+        "Department of Urology, Yale University School of Medicine, New Haven, CT. Electronic address: darryl.martin@yale.edu.",
+        "Department of Urology, Yale University School of Medicine, New Haven, CT. Electronic address: fed.ghali@yale.edu."
       ],
-      "doi": "10.1002/dvdy.70193",
+      "doi": "10.1016/j.urolonc.2026.09.008",
       "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867121/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869701/"
     },
     {
-      "pmid": "42866631",
-      "title": "Responsible innovation in multi-organ-on-a-chip research: A qualitative study of biomedical scientists' views on the value and development of models for obesity.",
-      "abstract": "Obesity is a global health issue and risk factor for various diseases. Given its systemic nature, multi-organ-on-a-chip (MOC) models have been proposed to model human organ interactions in vitro. Obesity MOC models are still in an early stage of development. Early stakeholder engagement may provide insights into societal, scientific, and ethical aspects of obesity MOC models, and incorporating these dimensions can support their development and implementation. Therefore, we conducted an explorative qualitative study focusing on academic and industrial biomedical researchers' views on MOC models for obesity, based on a hypothetical model incorporating adipose tissue, kidney, and liver organ systems. Analysis of the semi-structured interview transcripts identified six themes that consistently emerged across all participants. Our results show that participants perceived obesity as a global health issue requiring prevention efforts. However, researchers argued that obesity MOC models should mimic human (patho)physiology, rather than focus on prevention. Moreover, tensions between capturing human system complexity and maintaining manageable technical setup were identified. Perceived hurdles, including finding universal culture medium, limited affordability, and inadequate high-throughput capacity, may hamper obesity MOC model development. Clear research objectives and model validity were considered crucial, and explicitly defining context of use may facilitate progress. Divergent views on obesity MOC model validation, ranging from animal replacement to animal benchmarking, highlight tensions in scientific practice. In conclusion, consensus on the value and validation of obesity MOC models requires engagement among scientists, institutions, and society. Our findings can inform design and communication of obesity-related MOC experiments, supporting their development and use.",
-      "journal": "NAM journal",
+      "pmid": "42869692",
+      "title": "Lactate-associated pyruvate kinase muscle isoform 2 nuclear enrichment and ferroptotic stress responses in lung cancer.",
+      "abstract": "Ferroptosis is an iron-dependent form of regulated cell death with therapeutic potential in cancer. However, metabolic alterations within the tumor microenvironment may influence the sensitivity of lung cancer cells to ferroptotic stress. This study investigated the association between lactate exposure, pyruvate kinase muscle isoform 2 signaling, and cellular responses to RSL3-induced ferroptotic stress. Human H1299 lung cancer cells were treated with lactate (20 mmol/L; 24 hours), RSL3 (2 μmol/L), and the pyruvate kinase muscle isoform 2-targeting compound shikonin (1 μmol/L). Pyruvate kinase muscle isoform 2 expression and subcellular localization were assessed by immunofluorescence, and pyruvate kinase muscle isoform 2 immunoreactivity was evaluated by immunohistochemistry. Patient-derived lung cancer organoids were used to assess 3-dimensional growth. Wound-healing and Transwell assays were performed to evaluate wound closure and Transwell cell counts, respectively. SLC7A11 and glutathione peroxidase 4 protein levels were examined by Western blotting. Under RSL3-induced ferroptotic stress, lactate treatment was associated with increased pyruvate kinase muscle isoform 2 nuclear enrichment and immunoreactivity, whereas shikonin partially attenuated these changes. Lactate partially alleviated RSL3-induced growth inhibition in patient-derived lung cancer organoids and increased wound closure and Transwell cell counts relative to RSL3 treatment alone. These lactate-associated phenotypic changes were partially attenuated by shikonin. RSL3 reduced SLC7A11 and glutathione peroxidase 4 protein levels, whereas lactate cotreatment increased the levels of both proteins. Shikonin attenuated the lactate-associated increase in glutathione peroxidase 4, while its effect on SLC7A11 was less pronounced. Lactate treatment was associated with increased pyruvate kinase muscle isoform 2 nuclear enrichment, higher SLC7A11 and glutathione peroxidase 4 protein levels, and partial attenuation of RSL3-induced growth inhibition. These findings suggest that lactate-associated pyruvate kinase muscle isoform 2 signaling may contribute to reduced sensitivity to ferroptotic stress in lung cancer. Further genetic and mechanistic studies are required to establish the causal role of pyruvate kinase muscle isoform 2 and determine whether nuclear pyruvate kinase muscle isoform 2 directly regulates SLC7A11 and glutathione peroxidase 4 expression.",
+      "journal": "Surgery",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Nephrology and Hypertension, University Medical Center Utrecht, Utrecht, The Netherlands.",
-        "Center for Sustainable Animal Stewardship, Division of Animals in Science and Society, Department of Population, Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.",
-        "Department of Bioethics and Health Humanities, Julius Center for Health Sciences and Primary Care, University Medical Center, Utrecht, The Netherlands."
+        "Thoracic Surgical Department, Fujian Medical University Clinical Teaching Hospital, Fuzhou Pulmonary Hospital of Fujian Province, Fuzhou City, Fujian, China; Central Laboratory, Fujian Medical University Clinical Teaching Hospital, Fuzhou Pulmonary Hospital of Fujian Province, Fuzhou City, Fujian, China.",
+        "Thoracic Surgical Department, Fujian Medical University Clinical Teaching Hospital, Fuzhou Pulmonary Hospital of Fujian Province, Fuzhou City, Fujian, China; Central Laboratory, Fujian Medical University Clinical Teaching Hospital, Fuzhou Pulmonary Hospital of Fujian Province, Fuzhou City, Fujian, China. Electronic address: renjiehuang2022@163.com."
       ],
-      "doi": "10.1016/j.namjnl.2026.100134",
-      "date": "2026-09-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866631/"
+      "doi": "10.1016/j.surg.2026.110567",
+      "date": "2026-09-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869692/"
     },
     {
-      "pmid": "42866352",
-      "title": "Retinal organoid-based evaluation of icariin-loaded extracellular vesicles for hypoxia-induced retinal injury via mitochondrial modulation.",
-      "abstract": "Hypoxic injury is a critical pathological factor in various retinal degenerative diseases, leading to mitochondrial dysfunction and irreversible loss of retinal neurons. This study investigated the neuroprotective potential of Icariin-loaded extracellular vesicles (EV_ICA) using both R28 retinal progenitor cells and human embryonic stem cell (hESC)-derived retinal organoids. EV_ICA were isolated and characterized by morphology, EV marker expression, and zeta potential analysis. A CoCl2-induced hypoxic injury model was established in R28 cells and hESC-derived retinal organoids to evaluate the therapeutic effects of EV_ICA. Gene and protein expression analyses, bulk RNA sequencing (RNA-seq), gene set enrichment analysis (GSEA), mitochondrial ROS measurements, and intracellular ATP assays were performed to assess neuroprotective efficacy and mitochondrial function. EV_ICA exhibited typical spherical morphology, expressed standard EV markers, and showed a shift toward a less negative zeta potential compared to Naïve EV. In hypoxia-injured retinal models, EV_ICA significantly restored the expression of key retinal and neuroprotective markers, including Syntaxin12, NeuN, Vegf, Rbpms, Brn-3a, and Bdnf, while suppressing Hif-1α accumulation. Transcriptomic and GSEA analyses revealed that EV_ICA reactivated biological pathways associated with phototransduction, visual perception, and retinal development that were impaired under hypoxic conditions. Furthermore, EV_ICA improved mitochondrial homeostasis by up-regulating mitochondrial-related genes, reducing mitochondrial ROS accumulation, and recovering intracellular ATP production. These findings demonstrate that EV_ICA exerts neuroprotective effects by preserving mitochondrial quality control and restoring functional retinal gene programs under hypoxic stress. EV_ICA may therefore serve as a promising therapeutic candidate for hypoxia-related retinal degeneration and provide potential applications for cell-free regenerative medicine.",
-      "journal": "Frontiers in cell and developmental biology",
+      "pmid": "42869156",
+      "title": "Stage-specific exposure to an activity-permissive medium enhances neuronal activity in oligodendrocyte-enriched cortical organoids.",
+      "abstract": "Oligodendrocyte-enriched cortical organoids (OCOs) are a powerful platform for modeling oligodendrogenesis in a human cellular context. However, neuronal activity is impaired in conventional culture media, limiting assessment of neuronal function in conjunction with oligodendrocyte biology. To address this, we used a modified BrainPhys medium termed neuronal activity medium (NAM) and defined the optimal developmental window for NAM exposure to generate OCOs with robust neuronal activity (NAM-OCOs). Stage-specific exposure to NAM, prior to oligodendrocyte expansion, leads to enhanced structural complexity, as evidenced by increased organoid size, heightened synaptogenesis, and upregulation of transcripts associated with neuronal morphology. Further, NAM-OCOs display increased cellular heterogeneity, with GABAergic interneurons exhibiting enhanced inhibitory synaptic features and a more advanced developmental transcriptional state, while preserving oligodendrocyte development and oligodendrocyte-axon associations. Altogether, our studies demonstrate that stage-specific exposure to an activity-permissive environment enhances neuronal activity, establishing an OCO model which integrates neuronal activity with oligodendrocyte development and differentiation.",
+      "journal": "Brain research",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Ophthalmology, CHA Bundang Medical Center, CHA University, Seongnam, Gyeonggi-do, Republic of Korea.",
-        "Red-Green Bioconvergence Institute, ORGANOIDSCIENCES CO., LTD., Iksan, Jeonbuk-do, Republic of Korea.",
-        "ORGANOIDSCIENCES CO., LTD., Cheongju, Jeonbuk-do, Republic of Korea.",
-        "CHA R&D Institute, CHA University, Seongnam, Gyeonggi-do, Republic of Korea.",
-        "Paik Institute for Clinical Research, Inje University College of Medicine, Busan, Republic of Korea.",
-        "Integrated Medicine Major (IM), Biomedical & Health Service Convergence Division, Graduate School of JABA, WonKwang University, Iksan, Republic of Korea.",
-        "VOS DISCOVERY CO., LTD., Ho Chi Minh, Vietnam."
+        "Department of Anatomy & Neurobiology, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
+        "Department of Biological Sciences, CUNY Hunter College, New York, NY 10065, USA.",
+        "Graduate Program for Neuroscience, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
+        "Department of Physiology and Biophysics, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA; Neurophotonics Center, Boston University, Boston, MA, USA.",
+        "Bioinformatics Program, Boston University, Boston, MA 02118, USA; Department of Medicine, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
+        "Department of Anatomy & Neurobiology, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA; Neurophotonics Center, Boston University, Boston, MA, USA. Electronic address: ezeldich@bu.edu."
       ],
-      "doi": "10.3389/fcell.2026.1891491",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866352/"
+      "doi": "10.1016/j.brainres.2026.150601",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869156/"
     },
     {
-      "pmid": "42866212",
-      "title": "Perinatal insults, genetic susceptibility, and the pathogenesis of neurodevelopmental disorders: from epigenetic remodeling to neural circuit dysfunction-a narrative review.",
-      "abstract": "Neurodevelopmental disorders (NDDs)-including autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), intellectual disability (ID), epilepsy, and schizophrenia-affect approximately 10-15% of children worldwide. Emerging evidence suggests that NDDs arise from complex interactions between genetic susceptibility and environmental insults, particularly during perinatal periods. This narrative review aims to synthesize current evidence on the molecular and circuit-level mechanisms linking perinatal insults and genetic vulnerabilities to NDD pathogenesis, and to propose an integrative framework across epidemiology, genetics, epigenetics, and neurobiology. We searched PubMed/MEDLINE, Web of Science, and Google Scholar for articles published from January 2000 to April 2026, combining terms for NDDs, genetic susceptibility, perinatal exposures, and molecular mechanisms. We prioritized original research, meta-analyses, systematic reviews, and consortium studies; human studies were given precedence, with animal and organoid studies included only when providing unique mechanistic insights. The review covers five themes: (I) genetic architecture from rare variants to polygenic risk; (II) gene-environment interplay, distinguishing true interaction from genetic confounding; (III) epigenetic mediation (DNA methylation, histone modifications, noncoding RNAs); (IV) circuit dysfunction from synaptic/ion channel deficits to brain-wide networks (cortex, cerebellum, thalamus, brainstem); and (V) emerging therapeutic strategies with a translational roadmap. Its distinctive innovation lies in integrating these layers across developmental time, proposing epigenetic remodeling as a key molecular transducer linking early insults to persistent circuit dysfunction. Critical gaps persist-ancestry bias, lack of unified quantitative risk models, and limited therapy translation. Future priorities include diversifying genomic cohorts, establishing multi-omic birth cohorts, developing early-detection biomarkers for the perinatal window, and evaluating targeted interventions in genetically defined subgroups. This integrative framework aims to guide developmentally sensitive, precision-oriented approaches to NDD research and clinical care.",
-      "journal": "Translational pediatrics",
+      "pmid": "42869137",
+      "title": "Sinoatrial node dysfunction: molecular mechanisms, arrhythmogenesis, and translational pathways toward precision therapy.",
+      "abstract": "Sinoatrial node dysfunction (SND) is a major cause of bradyarrhythmia, chronotropic incompetence, tachy-brady syndrome, and a common indication for permanent pacemaker implantation, particularly in older adults. Although SND has diverse etiologies, this review focuses on aging-associated intrinsic SND, while considering other common causes where they inform differential diagnosis, arrhythmogenic mechanisms, or therapeutic development. Although current medical interventions provide effective rhythm support, they does not correct the molecular and tissue-level processes that drive sinoatrial node (SAN) degeneration. The review integrates current knowledge of SAN biology with mechanisms underlying SND, including fibrosis, ion-channel and calcium-clock remodeling, mitochondrial dysfunction, cellular senescence, impaired β-adrenergic signaling, genetic susceptibility, and epigenetic or epitranscriptomic regulation. We further discuss how these mechanisms contribute to impaired impulse generation, SAN exit block, reduced chronotropic reserve, and increased susceptibility to atrial arrhythmia. We discuss approaches for studying the molecular and cellular mechanisms and evaluating therapeutic strategies using emerging animal models, human pluripotent stem cell-derived SAN-like pacemaker cells, organoids, assembloids, and single-cell and spatial omics platforms . Finally, we highlight translational opportunities, including senescence-directed, metabolic, antifibrotic, autonomic, gene-based, regenerative, and biological pacing strategies. A mechanism-guided classification of SND may support future precision therapies that complement conventional pacing by linking dominant rhythm phenotypes to targetable biological drivers, molecular and functional pharmacodynamic markers, and human-relevant models of pacemaker failure.",
+      "journal": "Pharmacology & therapeutics",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Neonatology, School of Clinical Medicine & The First Affiliated Hospital of Chengdu Medical College, Chengdu, China."
+        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA. Electronic address: namv.truong@uth.tmc.edu.",
+        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX, USA.",
+        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX, USA. Electronic address: jun.wang@uth.tmc.edu."
       ],
-      "doi": "10.21037/tp-2026-0615",
-      "date": "2026-08-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866212/"
+      "doi": "10.1016/j.pharmthera.2026.109131",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869137/"
     },
     {
-      "pmid": "42866054",
-      "title": "Single-cell RNA Sequencing Analysis Reveals That Targeting PLG-PLGRKT Signaling-mediated Pro-fibrotic Scar-associated Macrophages Ameliorates Liver Fibrosis in Biliary Atresia.",
-      "abstract": "Biliary atresia (BA) is a severe pediatric cholangiopathy characterized by rapidly progressive liver fibrosis. This study aimed to characterize scar-associated macrophages and investigate the role of plasminogen (PLG)-plasminogen receptor with a C-terminal lysine (PLGRKT) signaling in BA-associated fibrogenesis. Single-cell RNA sequencing and spatial transcriptomics were applied to liver tissues from patients with BA and non-BA controls. Key findings were validated in an independent cohort using quantitative polymerase chain reaction and multiplex immunohistochemistry. The functional role of the PLGRKT pathway was further examined using primary human peripheral blood mononuclear cell-derived macrophages with small interfering RNA (siRNA)-mediated PLGRKT knockdown, together with co-culture systems involving LX-2 hepatic stellate cells and human liver organoids. In vivo therapeutic potential was evaluated in a murine bile duct ligation model of cholestatic liver fibrosis using macrophage-targeted Plgrkt-Trem2 antibody-siRNA conjugates. In BA, scar-associated macrophages (SAMs) increased with fibrosis progression and co-localized with hepatic stellate cells in fibrotic areas. PLGRKT was upregulated in BA liver tissue and increased during monocyte-to-macrophage differentiation. In primary human macrophages, PLG induced a PLGRKT-dependent pro-fibrotic phenotype, and conditioned medium from these cells increased COL1A1 deposition in hepatic stellate cells and human liver organoids. In vivo, macrophage-targeted Plgrkt-Trem2 antibody-siRNA conjugates reduced SAM accumulation and attenuated bile duct ligation-induced liver fibrosis. These findings support a role for SAMs and the PLGRKT-SAM axis in BA-associated liver fibrosis and suggest that PLGRKT warrants further investigation as a potential macrophage-directed anti-fibrotic target.",
-      "journal": "Journal of clinical and translational hepatology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General Surgery, Urumqi Children's Hospital, Urumqi, Xinjiang, China.",
-        "Graduate School, Tianjin Medical University, Tianjin, China.",
-        "Department of General Surgery, Tianjin Children's Hospital, Tianjin, China."
-      ],
-      "doi": "10.14218/JCTH.2026.00278",
-      "date": "2026-09-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866054/"
-    },
-    {
-      "pmid": "42866034",
-      "title": "Experimental models of hepatic injury in Wilson disease: stage-specific mechanisms and translational applications.",
-      "abstract": "Wilson disease (WD) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in ATP7B, with the liver being one of the earliest and most prominently affected organs. ATP7B dysfunction impairs copper incorporation into ceruloplasmin and biliary copper excretion, resulting in progressive hepatic copper accumulation and a cascade of pathological responses, including proteostasis disturbance, mitochondrial dysfunction, oxidative stress, metabolic remodeling, inflammation, and fibrogenesis. Given the dynamic progression of WD-associated liver injury from early copper dysregulation to chronic hepatitis, fibrosis, cirrhosis, and acute liver failure-like decompensation, appropriate experimental model selection is essential for mechanistic studies and therapeutic development. We conducted a structured narrative review of in vivo and in vitro models of WD-associated hepatic injury, with searches updated through August 2026, and evaluated each model according to genetic fidelity, disease-stage representation, dominant mechanism, tissue complexity, and translational objective. We then developed a stage-, mechanism-, and objective-oriented model-selection framework. Different WD models recapitulate distinct stages and features of hepatic injury. Severe Atp7b-deficient rat models, including the LEC rat, are particularly suitable for investigating severe liver injury, mitochondrial copper toxicity, and rapid decoppering interventions. tx-j mice and early-stage Atp7b-/- mice effectively model early hepatic copper accumulation, metabolic remodeling, and epigenetic alterations. Atp7b-/- mice, tx mice, LEC survivors, and Labrador retriever copper-associated hepatitis models are valuable for studying chronic copper hepatopathy, inflammation, and fibrosis. Variant-specific models are most informative for defining mutation-level defects in ATP7B folding, trafficking, stability, or transport and for testing mutation-compatible interventions; they should not be interpreted as establishing deterministic clinical genotype-phenotype relationships. Direct ATP7B-deficient models and copper-overload reference models are treated as distinct experimental categories throughout this Review. For fibrosis research, simple copper-exposed hepatocyte or hepatic stellate cell systems are insufficient to reproduce disease complexity. No single experimental model adequately captures the full spectrum of WD-associated hepatic injury. Model selection should be guided by the experimental question across disease stage, mechanistic hypothesis, genetic fidelity, tissue complexity, and translational objective. The most robust strategy is a tiered model-selection and validation pipeline in which genetic fidelity, tissue complexity, and therapeutic endpoint are increased as a finding moves from mechanistic discovery toward preclinical translation. WD-specific multicellular organoid and liver-on-chip systems remain a major unmet methodological need.",
-      "journal": "Frontiers in immunology",
+      "pmid": "42868714",
+      "title": "Patient-derived gastric cancer organoids for functional precision oncology: disease-specific bottlenecks and clinical readiness.",
+      "abstract": "Gastric cancer (GC) poses a distinct modeling challenge. The disease varies by region, histology, metastatic site, and treatment history. It also develops within a gastric niche shaped by acid, mucus, polarity, microbes, and stroma. Patient-derived organoids (PDOs) can preserve tumor-linked epithelial states and support living biobanks. They also enable genotype-phenotype studies and functional testing of therapeutic vulnerabilities. Their clinical value depends on representation, not model complexity alone. The assay must also return clear results within a useful clinical window. This review evaluates GC PDOs as functional companion models for precision oncology rather than stand-alone treatment decision tools. We discuss four barriers that limit clinical readiness. Establishment bias reduces representation of diffuse-type, scirrhous, and signet-ring cell carcinomas. Standard organoid lumens do not reproduce gastric acidity, stratified mucus, or Helicobacter pylori-driven polarity loss. Long-term expansion can select culture-adapted clones and weaken clinical representativeness. PDO drug screening also remains difficult to align with urgent treatment timelines. Fresh-sample assays may shorten turnaround time but reduce scale and depth. We further highlight biological insights gained from GC organoids. These include niche independence, epigenetic dependencies, ARID1A-linked vulnerabilities, and chemotherapy resistance. We propose a readiness framework based on six criteria: tumor authenticity, subtype coverage, niche fidelity, turnaround time, assay standards, and outcome validation. This framework may help define where GC PDOs can support clinical reasoning.",
+      "journal": "Translational oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "The First Affiliated Hospital of Anhui University of Chinese Medicine, Hefei, China.",
-        "Brain Disease Research Institute, Anhui University of Chinese Medicine, Hefei, China.",
-        "Anhui University of Chinese Medicine, Hefei, China.",
-        "Key Laboratory of XinAn Medicine, Ministry of Education, Hefei, China."
+        "Department of Radiation Oncology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, 266003, China; Department of Medicinal Chemistry, School of Pharmacy, Qingdao University, Qingdao, 266071, China.",
+        "Department of General Surgery, The Affiliated Hospital of Qingdao University, Gastrointestinal Tumor Translational Medicine Research Institute of Qingdao University, Qingdao, Shandong, China.",
+        "Department of Medicinal Chemistry, School of Pharmacy, Qingdao University, Qingdao, 266071, China. Electronic address: xwtang1219@qdu.edu.cn.",
+        "Department of Radiation Oncology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, 266003, China. Electronic address: liguoliang@qdu.edu.cn."
       ],
-      "doi": "10.3389/fimmu.2026.1930939",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866034/"
+      "doi": "10.1016/j.tranon.2026.103065",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868714/"
     },
     {
       "pmid": "42865067",
@@ -263,6 +267,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818106/"
     },
     {
+      "pmid": "42869456",
+      "title": "Perspectives on tissue-selective insulin derivatives.",
+      "abstract": "Insulin is a central regulator of metabolic homoeostasis with diverse, tissue-specific actions across multiple organs. Despite major advances in insulin formulations, current therapies rely on systemic delivery and do not reproduce the physiological distribution of endogenous insulin, resulting in non-physiological tissue exposure and associated metabolic limitations. In this perspective, we discuss emerging strategies aimed at achieving tissue-selective insulin action, including molecular engineering of insulin analogues, modulation of insulin receptor isoform specificity and targeted delivery approaches. Attention is given to hepato-preferential, muscle-directed, brain-targeted and adipose-modulating strategies, highlighting their mechanistic basis, therapeutic potential and inherent limitations. While proof of principle has been established for several approaches, challenges remain in balancing tissue selectivity with whole-body metabolic control. Advances in protein design and delivery technologies may ultimately enable the development of next-generation insulin therapies that better mimic physiological insulin action and improve clinical outcomes in metabolic and neurodegenerative diseases.",
+      "journal": "Open biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences , Prague, Czech Republic.",
+        "Department of Biochemistry, Faculty of Science, Charles University , Prague, Czech Republic."
+      ],
+      "doi": "10.1098/rsob.260175",
+      "date": "2026-10-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869456/"
+    },
+    {
       "pmid": "42864397",
       "title": "Coordinating structure-guided design and cis-regulatory optimization to engineer elite herbicide-tolerance alleles in crops.",
       "abstract": "Genome editing facilitates the rapid creation of elite alleles, yet identifying editable sites for durable trait improvement without functional trade-offs remains challenging. Most current strategies modify a single genetic axis, limiting their effectiveness and stability. Here we developed a dual-layer allele engineering framework integrating structure-guided protein design with precise cis-regulatory tuning to overcome such constraints. Using rice 4-hydroxyphenylpyruvate dioxygenase (OsHPPD) as a model, structural analysis enabled the rational design of coding variants that retain enzymatic activity while conferring herbicide resistance. To further enhance resistance, we introduced a highly efficient 22-bp expression-modulating element into the engineered alleles, generating combinatorial coding and regulatory variants with significantly improved resistance, up to four times the recommended field application rate. Importantly, the dual-layer strategy was successfully applied in polyploid wheat, demonstrating its robustness and cross-species applicability. Our work establishes a versatile framework for functional allele engineering, offering a precise and broadly applicable route for crop improvement.",
@@ -357,17 +378,22 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856293/"
     },
     {
-      "pmid": "42854199",
-      "title": "Correction: From atoms to fragments: a coarse representation for efficient and functional protein design.",
-      "abstract": "",
-      "journal": "Bioinformatics (Oxford, England)",
+      "pmid": "42868284",
+      "title": "The use of TF-Ag-α to selectively capture tumor-derived extracellular vesicles and enhance the predictive performance of extracellular vesicle PD-L1 for response to immune checkpoint inhibitors.",
+      "abstract": "Only a subset of non-small cell lung cancer (NSCLC) patients benefits from immune checkpoint inhibitors (ICIs). Tissue PD-L1 has limited accuracy in predicting ICI response and requires invasive biopsies, highlighting the urgent need for reliable, minimally invasive biomarkers. Extracellular vesicle PD-L1 (EV PD-L1) is a promising liquid biopsy marker, but its predictive performance is confounded by PD-L1 derived from non-tumor cells. We developed a tumor-specific EVs-based assay to predict ICI response. Tumor-derived extracellular vesicles (TEXs) were selectively captured using the tumor-specific Thomsen-Friedenreich glycoantigen alpha (TF-Ag-α), and PD-L1 levels in TEXs expressing TF-Ag-α (i.e., TEXTF-Ag-α PD-L1) were measured in sera from 91 NSCLC patients receiving anti-PD-1 therapy (40 responders and 51 non-responders). Predictive performance was evaluated at pre-treatment baseline, at the end of first treatment cycle, and via fold changes. At pre-treatment baseline, TEXTF-Ag-α PD-L1 showed moderate predictive ability (AUC: 0.76; sensitivity: 0.97; specificity: 0.56). By the end of the first treatment cycle, responders exhibited a ~4.18-fold increase in TEXTF-Ag-α PD-L1 expression, whereas non-responders showed an approximate 20% decrease. Dynamic fold changes after the first treatment cycle substantially improved predictive performance, achieving an AUC of 0.93, sensitivity of 0.95, and specificity of 0.80 for distinguishing responders from non-responders, outperforming both total EV PD-L1 and tissue PD-L1. These results demonstrated that selective TEX capture using TF-Ag-α significantly enhanced the predictive value of EV PD-L1. Dynamic changes in TEXTF-Ag-α PD-L1 provided a highly accurate, minimally invasive biomarker for early assessment of anti-PD-1 response, supporting tumor-specific EVs-based liquid biopsy for precision immunotherapy.",
+      "journal": "Cancer research communications",
       "publicationTypes": [
-        "Published Erratum"
+        "Journal Article"
       ],
-      "affiliations": [],
-      "doi": "10.1093/bioinformatics/btag734",
-      "date": "2026-10-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854199/"
+      "affiliations": [
+        "University at Buffalo, State University of New York Buffalo, NY United States.",
+        "University of Southern California Los Angeles, CA United States.",
+        "Roswell Park Comprehensive Cancer Center Buffalo, NY United States.",
+        "For Robin (United States) Buffalo, NY United States."
+      ],
+      "doi": "10.1158/2767-9764.CRC-26-0214",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868284/"
     },
     {
       "pmid": "42867203",
@@ -473,73 +499,83 @@
       "doi": "10.1016/j.gene.2026.150438",
       "date": "2026-10-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863532/"
-    },
-    {
-      "pmid": "42862920",
-      "title": "Real-World HRR Testing Pathways and Patterns of Detected Alterations in Prostate Cancer From the Multinational ARON-3 Study.",
-      "abstract": "Homologous recombination repair (HRR) testing is increasingly relevant in prostate cancer because it identifies patients who may benefit from biomarker-guided treatment strategies, including poly(ADP-ribose) polymerase inhibitors (PARPi). However, real-world implementation of HRR testing remains variable across countries and clinical settings, and the extent to which current testing pathways capture actionable alterations is not well defined. ARON-3 is a multinational, multicentre, retrospective real-world study of patients with prostate cancer. In this subanalysis, we assessed genomic testing uptake within the overall ARON-3 cohort and characterised HRR testing pathways and detected pathogenic alterations among patients with available genomic results. Genomic testing included germline, somatic tumour, and/or circulating tumour DNA (ctDNA) assays performed in routine practice across participating centres. Multivariable logistic regression was used to identify clinicopathologic factors associated with undergoing genomic HRR testing. Among 2,192 patients included in ARON-3, genomic testing results were available for 719 (33%). Among tested patients, 660 (92%) underwent germline testing and 610 (85%) somatic testing; 549 (77%) underwent both, whereas 109 (15%) had germline-only and 61 (8%) somatic-only testing. In multivariable analysis, metastatic castration-resistant prostate cancer, high-volume disease, and Gleason score > 8 were independently associated with higher odds of testing, while age ≥ 70 years was associated with lower odds of testing. Overall, 238 tested patients (33%) harboured pathogenic HRR alterations, corresponding to 11% of the entire ARON-3 cohort. Somatic pathogenic alterations were more frequent than germline alterations. BRCA2 was the most frequently altered gene, while non-BRCA1/2 alterations were also detected, particularly in centres using broader multigene panels. Most centres relied on BRCA1/2-focused assays, and the use of liquid biopsy remained limited. This multinational real-world analysis demonstrates substantial heterogeneity in HRR testing uptake and testing pathways across participating ARON-3 centres. Testing was more commonly performed in patients with more advanced disease features, suggesting that clinically relevant subgroups may still be differentially selected for genomic assessment. Broader and more standardised implementation of comprehensive HRR profiling may improve the identification of actionable alterations and strengthen precision medicine in prostate cancer.",
-      "journal": "The Prostate",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Precision Medicine in Medical, Surgical and Critical Care (Me.Pre.C.C.), Section of Medical Oncology, University of Palermo, Palermo, Italy.",
-        "Medical Oncology, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy.",
-        "Department of Oncology and Radiotherapeutics, Faculty of Medicine and University Hospital in Pilsen, Charles University, Pilsen, Czech Republic.",
-        "Biomedical Center, Faculty of Medicine in Pilsen, Charles University, Pilsen, Czech Republic.",
-        "ARON Research Foundation ETS, Macerata, Italy.",
-        "Department of Urology, Faculty of Medicine, Kindai University, Kindai, Japan.",
-        "Medical Oncology, Ankara University Medical Faculty, Ankara, Turkey.",
-        "Department of Oncology, Faculty of Medicine and Dentistry, Palacký University, Olomouc, Czech Republic.",
-        "Medical Oncology Department, Hospital Universitario Ramón y Cajal, Madrid, Spain.",
-        "Oncology 1 Unit, Department of Oncology, Istituto Oncologico Veneto IOV IRCCS, Padova, Italy.",
-        "Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
-        "Institut Roi Albert II, Department of Medical Oncology, Cliniques Universitaires Saint Luc, Brussel, Belgium.",
-        "Department of Medical Oncology, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) \"Dino Amadori\", Meldola, Italy.",
-        "Medical Oncology, Fundación Instituto Valenciano de Oncología, Valencia, Spain.",
-        "Translational and Clinical Research Institute, Centre for Cancer, Newcastle University, Newcastle upon Tyne, UK.",
-        "Royal Marsden NHS Foundation Trust, London, UK.",
-        "Hospital Israelita Albert Einstein, São Paulo, Brazil.",
-        "Hospital Beneficência Portuguesa, São Paulo, Brazil.",
-        "Masaryk Memorial Cancer Institute, Brno, Czech Republic - Faculty of Medicine, Masaryk University, Brno, Czech Republic.",
-        "Unità di Diagnostica Molecolare e Farmacogenetica, IRCCS Istituto Tumori Giovanni Paolo II Bari, Bari, Italy.",
-        "Department of Oncology, Second Faculty of Medicine, Charles University and University Hospital Motol and Homolka, Prague, Czech Republic.",
-        "Medical Oncology Unit 2, Azienda Ospedaliera Universitaria Pisana, Pisa, Italy.",
-        "Department of Clinical Oncology and Radiotherapy, University Hospital Hradec Kralove, Hradec Kralove, Czech Republic.",
-        "Division of Cancer Prevention and Genetics, IRCCS European Institute of Oncology, Milan, Italy.",
-        "Department of Uro-Oncology, Maria Sklodowska-Curie National Research Institute of Oncology Warsaw, Warsaw, Poland.",
-        "Oncology Unit, A.R.N.A.S. Civico, Palermo, Italy.",
-        "Hospital Sirio-Libanês de São Paulo, São Paulo, Brazil.",
-        "Department of Medical Oncology, AORN \"A. Cardarelli\", Naples, Italy.",
-        "Medical Oncology Unit, Presidio Ospedaliero Pugliese Ciaccio, Azienda Ospedaliera Universitaria \"Renato Dulbecco\", Catanzaro, Italy.",
-        "Department of Medicine and Surgery, Federico II University, Naples, Italy.",
-        "Territorial Oncology Operative Complex Unit - Casa Della Salute di Aprilia - ASL Latina, Latina, Italy.",
-        "Oncology Department, Candiolo Cancer Institute, Torino, Italy.",
-        "Bed Management Presa in Carico, TDM, IRCCS Istituto Tumori \"Giovanni Paolo II\", Bari, Italy.",
-        "Propaedeutic Department of Internal Medicine, ATTIKON University Hospital, School of Medicine, National and Kapodistrian University of Athens, Athens, Greece.",
-        "Latin American Cooperative Oncology Group - LACOG, Porto Alegre, Brazil.",
-        "Hospital Sírio-Libanês, Brasília, Brazil.",
-        "Department of Medical and Surgical Sciences (DIMEC), University of Bologna, Bologna, Italy.",
-        "Duke Cancer Institute, Duke University, Durham, North Carolina, USA.",
-        "Medical Oncology Unit, Macerata Hospital, Macerata, Italy."
-      ],
-      "doi": "10.1002/pros.70269",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862920/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42867121",
+      "id": "pubmed-42869456",
+      "date": "2026-10-14",
+      "title": "Perspectives on tissue-selective insulin derivatives.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869456/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Open biology，PMID 为 42869456。",
+      "report": "Insulin is a central regulator of metabolic homoeostasis with diverse, tissue-specific actions across multiple organs. Despite major advances in insulin formulations, current therapies rely on systemic delivery and do not reproduce the physiological distributi...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869701",
       "date": "2026-10-13",
-      "title": "A review on recent advances in regenerative medicine for renal diseases: Approaches and challenges.",
+      "title": "Translational research models for variant subtype bladder cancers: A comprehensive review of the current landscape.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42867121/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869701/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Urologic oncology，PMID 为 42869701。",
+      "report": "Bladder cancer remains a leading cause of cancer-related mortality in the United States, with most cases classified as conventional urothelial carcinoma. However, a substantial subset of patients presents with aggressive variant histologies, including sarcomat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869156",
+      "date": "2026-10-13",
+      "title": "Stage-specific exposure to an activity-permissive medium enhances neuronal activity in oligodendrocyte-enriched cortical organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869156/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -552,9 +588,106 @@
         "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Developmental dynamics : an official publication of the American Association of Anatomists，PMID 为 42867121。",
-      "report": "Renal diseases such as acute and chronic kidney disease cause loss of nephrons and kidney function, often leading to renal failure. Current treatments like dialysis and transplantation only manage symptoms and extend survival for a few years. Regenerative medi...",
+      "fact": "PubMed 记录显示该文献收录于 Brain research，PMID 为 42869156。",
+      "report": "Oligodendrocyte-enriched cortical organoids (OCOs) are a powerful platform for modeling oligodendrogenesis in a human cellular context. However, neuronal activity is impaired in conventional culture media, limiting assessment of neuronal function in conjunctio...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869137",
+      "date": "2026-10-13",
+      "title": "Sinoatrial node dysfunction: molecular mechanisms, arrhythmogenesis, and translational pathways toward precision therapy.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869137/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacology & therapeutics，PMID 为 42869137。",
+      "report": "Sinoatrial node dysfunction (SND) is a major cause of bradyarrhythmia, chronotropic incompetence, tachy-brady syndrome, and a common indication for permanent pacemaker implantation, particularly in older adults. Although SND has diverse etiologies, this review...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42868714",
+      "date": "2026-10-13",
+      "title": "Patient-derived gastric cancer organoids for functional precision oncology: disease-specific bottlenecks and clinical readiness.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868714/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42868714。",
+      "report": "Gastric cancer (GC) poses a distinct modeling challenge. The disease varies by region, histology, metastatic site, and treatment history. It also develops within a gastric niche shaped by acid, mucus, polarity, microbes, and stroma. Patient-derived organoids (...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42868284",
+      "date": "2026-10-13",
+      "title": "The use of TF-Ag-α to selectively capture tumor-derived extracellular vesicles and enhance the predictive performance of extracellular vesicle PD-L1 for response to immune checkpoint inhibitors.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868284/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42868284。",
+      "report": "Only a subset of non-small cell lung cancer (NSCLC) patients benefits from immune checkpoint inhibitors (ICIs). Tissue PD-L1 has limited accuracy in predicting ICI response and requires invasive biopsies, highlighting the urgent need for reliable, minimally in...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -690,36 +823,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42862920",
-      "date": "2026-10-12",
-      "title": "Real-World HRR Testing Pathways and Patterns of Detected Alterations in Prostate Cancer From the Multinational ARON-3 Study.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862920/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Prostate，PMID 为 42862920。",
-      "report": "Homologous recombination repair (HRR) testing is increasingly relevant in prostate cancer because it identifies patients who may benefit from biomarker-guided treatment strategies, including poly(ADP-ribose) polymerase inhibitors (PARPi). However, real-world i...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42860076",
       "date": "2026-10-09",
       "title": "Benchmarking biological knowledge-graph priors against single-cell foundation models for Perturb-seq prediction.",
@@ -811,35 +914,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42854199",
-      "date": "2026-10-02",
-      "title": "Correction: From atoms to fragments: a coarse representation for efficient and functional protein design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42854199/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 42854199。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42844355",
       "date": "2026-10-01",
       "title": "Generalizable perturbation prediction.",
@@ -897,64 +971,6 @@
       "fact": "PubMed 记录显示该文献收录于 Pediatric transplantation，PMID 为 42867203。",
       "report": "Pediatric primary liver malignancies comprise a heterogeneous group of tumors requiring individualized multidisciplinary management. Hepatoblastoma and hepatocellular carcinoma remain the most common malignant liver tumors in children, whereas rare hepatic neo...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42866352",
-      "date": "2026-09-28",
-      "title": "Retinal organoid-based evaluation of icariin-loaded extracellular vesicles for hypoxia-induced retinal injury via mitochondrial modulation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866352/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42866352。",
-      "report": "Hypoxic injury is a critical pathological factor in various retinal degenerative diseases, leading to mitochondrial dysfunction and irreversible loss of retinal neurons. This study investigated the neuroprotective potential of Icariin-loaded extracellular vesi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42866034",
-      "date": "2026-09-28",
-      "title": "Experimental models of hepatic injury in Wilson disease: stage-specific mechanisms and translational applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866034/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42866034。",
-      "report": "Wilson disease (WD) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in ATP7B, with the liver being one of the earliest and most prominently affected organs. ATP7B dysfunction impairs copper incorporation into ceruloplasmin...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1081,34 +1097,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42866631",
-      "date": "2026-09-15",
-      "title": "Responsible innovation in multi-organ-on-a-chip research: A qualitative study of biomedical scientists' views on the value and development of models for obesity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866631/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 NAM journal，PMID 为 42866631。",
-      "report": "Obesity is a global health issue and risk factor for various diseases. Given its systemic nature, multi-organ-on-a-chip (MOC) models have been proposed to model human organ interactions in vitro. Obesity MOC models are still in an early stage of development. E...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42864336",
       "date": "2026-09-11",
       "title": "Discovery of an antagonist nanobody targeting the oxytocin receptor with tocolytic effect in mice.",
@@ -1172,33 +1160,65 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42866054",
-      "date": "2026-09-09",
-      "title": "Single-cell RNA Sequencing Analysis Reveals That Targeting PLG-PLGRKT Signaling-mediated Pro-fibrotic Scar-associated Macrophages Ameliorates Liver Fibrosis in Biliary Atresia.",
+      "id": "pubmed-42869692",
+      "date": "2026-09-02",
+      "title": "Lactate-associated pyruvate kinase muscle isoform 2 nuclear enrichment and ferroptotic stress responses in lung cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866054/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869692/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Multi-omics"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "多组学"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of clinical and translational hepatology，PMID 为 42866054。",
-      "report": "Biliary atresia (BA) is a severe pediatric cholangiopathy characterized by rapidly progressive liver fibrosis. This study aimed to characterize scar-associated macrophages and investigate the role of plasminogen (PLG)-plasminogen receptor with a C-terminal lys...",
+      "fact": "PubMed 记录显示该文献收录于 Surgery，PMID 为 42869692。",
+      "report": "Ferroptosis is an iron-dependent form of regulated cell death with therapeutic potential in cancer. However, metabolic alterations within the tumor microenvironment may influence the sensitivity of lung cancer cells to ferroptotic stress. This study investigat...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869828",
+      "date": "2026-09-01",
+      "title": "[Efficacy-toxicity duality of Tripterygium wilfordii in treatment of rheumatic and immune diseases: mechanisms, strategies for toxicity attenuation and efficacy enhancement, and future perspectives].",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869828/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica，PMID 为 42869828。",
+      "report": "Rheumatic and immune diseases constitute a major global disease burden. Tripterygium wilfordii demonstrates remarkable therapeutic efficacy in treating rheumatoid arthritis, systemic lupus erythematosus and related conditions. However, its prominent hepatic, r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1233,34 +1253,6 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42866212",
-      "date": "2026-08-19",
-      "title": "Perinatal insults, genetic susceptibility, and the pathogenesis of neurodevelopmental disorders: from epigenetic remodeling to neural circuit dysfunction-a narrative review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866212/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational pediatrics，PMID 为 42866212。",
-      "report": "Neurodevelopmental disorders (NDDs)-including autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), intellectual disability (ID), epilepsy, and schizophrenia-affect approximately 10-15% of children worldwide. Emerging evidence sugges...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
