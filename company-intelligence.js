@@ -14972,7 +14972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
             "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14980,7 +14980,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
             "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14988,7 +14988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
             "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -14996,7 +14996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
             "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -15004,7 +15004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
             "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -15020,7 +15020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-arvinas-official-06fef0c926c5",
+          "evidence-company-arvinas-official-d5b878c0b10a",
           "evidence-company-arvinas-pipeline-8a55bb718901",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
@@ -15043,14 +15043,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-arvinas-official-06fef0c926c5",
-            "date": "2026-10-12",
+            "id": "event-evidence-company-arvinas-official-d5b878c0b10a",
+            "date": "2026-10-14",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+            "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
             "sourceUrl": "https://www.arvinas.com/"
           },
           {
@@ -15111,7 +15111,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-12",
+        "lastEvidenceDate": "2026-10-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -15121,14 +15121,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-arvinas-official-06fef0c926c5",
-          "date": "2026-10-12",
+          "id": "event-evidence-company-arvinas-official-d5b878c0b10a",
+          "date": "2026-10-14",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-06fef0c926c5",
+          "evidenceId": "evidence-company-arvinas-official-d5b878c0b10a",
           "sourceUrl": "https://www.arvinas.com/"
         },
         {
@@ -43673,7 +43673,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
             "text": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
             "sourceUrl": "https://guardanthealth.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -43681,7 +43681,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
             "text": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
+            "text": "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
             "sourceUrl": "https://guardanthealth.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -43689,7 +43697,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
             "text": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
             "sourceUrl": "https://guardanthealth.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -43697,15 +43705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
             "text": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Get to know Guardant Health, our story, and our mission.",
-            "text": "Get to know Guardant Health, our story, and our mission.",
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
             "sourceUrl": "https://guardanthealth.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -43721,7 +43721,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-guardant-health-official-154ad6ac896b",
+          "evidence-company-guardant-health-official-d53f62164028",
           "evidence-company-guardant-health-pipeline-a2e78138ba78",
           "evidence-company-guardant-health-investor_relations-f157425f10df",
           "evidence-sec-0001576280-000157628026000037",
@@ -43732,14 +43732,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
-            "date": "2026-09-05",
+            "id": "event-evidence-company-guardant-health-official-d53f62164028",
+            "date": "2026-10-14",
             "title": "Guardant Health | Conquering Cancer With Data",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+            "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
             "sourceUrl": "https://guardanthealth.com/"
           },
           {
@@ -43799,7 +43799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-09-05",
+        "lastEvidenceDate": "2026-10-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43808,14 +43808,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-guardant-health-official-154ad6ac896b",
-          "date": "2026-09-05",
+          "id": "event-evidence-company-guardant-health-official-d53f62164028",
+          "date": "2026-10-14",
           "title": "Guardant Health | Conquering Cancer With Data",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-guardant-health-official-154ad6ac896b",
+          "evidenceId": "evidence-company-guardant-health-official-d53f62164028",
           "sourceUrl": "https://guardanthealth.com/"
         },
         {
@@ -56215,69 +56215,80 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。；公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
-        "summaryOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research. Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+        "summary": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。；公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
+        "summaryOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns. Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+            "text": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
-            "text": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
+            "text": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
-            "text": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
+            "text": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
-            "text": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
+            "text": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
-            "text": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Learn about global shift towards New Approach Methodologies and how organ-on-a-chip models can move beyond innovation into regulatory-grade application and why standardized biology is the missing link.",
+            "text": "Learn about global shift towards New Approach Methodologies and how organ-on-a-chip models can move beyond innovation into regulatory-grade application and why standardized biology is the missing link.",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Science Organ Models Vasculature Liver Gut Kidney Blood brain barrier Nervous System Research Areas Oncology Immunology Metabolic Diseases ADME/Toxicity",
             "text": "Science Organ Models Vasculature Liver Gut Kidney Blood brain barrier Nervous System Research Areas Oncology Immunology Metabolic Diseases ADME/Toxicity",
-            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-mimetas-pipeline-eb331a18de27",
-          "evidence-company-mimetas-official-506a5dd20420"
+          "evidence-company-mimetas-official-f40631922431",
+          "evidence-company-mimetas-pipeline-eb331a18de27"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-mimetas-official-f40631922431",
+            "date": "2026-10-14",
+            "title": "Human Tissue Models for Advanced Drug Discovery",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "sourceUrl": "https://www.mimetas.com/"
+          },
           {
             "id": "event-evidence-company-mimetas-pipeline-eb331a18de27",
             "date": "2026-08-10",
@@ -56288,17 +56299,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
             "sourceUrl": "https://www.mimetas.com/technology"
-          },
-          {
-            "id": "event-evidence-company-mimetas-official-506a5dd20420",
-            "date": "2026-08-10",
-            "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-official-506a5dd20420",
-            "sourceUrl": "https://www.mimetas.com/"
           }
         ],
         "inferences": [],
@@ -56312,7 +56312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-10-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56320,6 +56320,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-mimetas-official-f40631922431",
+          "date": "2026-10-14",
+          "title": "Human Tissue Models for Advanced Drug Discovery",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-mimetas-official-f40631922431",
+          "sourceUrl": "https://www.mimetas.com/"
+        },
         {
           "id": "event-evidence-company-mimetas-pipeline-eb331a18de27",
           "date": "2026-08-10",
@@ -56330,17 +56341,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
           "sourceUrl": "https://www.mimetas.com/technology"
-        },
-        {
-          "id": "event-evidence-company-mimetas-official-506a5dd20420",
-          "date": "2026-08-10",
-          "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-official-506a5dd20420",
-          "sourceUrl": "https://www.mimetas.com/"
         }
       ]
     },
@@ -57896,7 +57896,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-c249976fcda4",
+            "evidenceId": "evidence-company-natera-official-ab0bacea8091",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
+            "text": "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
+            "evidenceId": "evidence-company-natera-official-ab0bacea8091",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57904,7 +57912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-c249976fcda4",
+            "evidenceId": "evidence-company-natera-official-ab0bacea8091",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57912,15 +57920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
             "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-c249976fcda4",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "CLINICAL DEVELOPMENT Biopharma Partnerships",
-            "text": "CLINICAL DEVELOPMENT Biopharma Partnerships",
-            "evidenceId": "evidence-company-natera-official-c249976fcda4",
+            "evidenceId": "evidence-company-natera-official-ab0bacea8091",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57944,7 +57944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-c249976fcda4",
+          "evidence-company-natera-official-ab0bacea8091",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57956,14 +57956,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-c249976fcda4",
-            "date": "2026-10-10",
+            "id": "event-evidence-company-natera-official-ab0bacea8091",
+            "date": "2026-10-14",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-c249976fcda4",
+            "evidenceId": "evidence-company-natera-official-ab0bacea8091",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -58023,7 +58023,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-10",
+        "lastEvidenceDate": "2026-10-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -58032,14 +58032,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-c249976fcda4",
-          "date": "2026-10-10",
+          "id": "event-evidence-company-natera-official-ab0bacea8091",
+          "date": "2026-10-14",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-c249976fcda4",
+          "evidenceId": "evidence-company-natera-official-ab0bacea8091",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -59240,7 +59240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
             "text": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59248,7 +59248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
             "text": "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59256,7 +59256,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
             "text": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59264,7 +59264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
             "text": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59272,7 +59272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
             "text": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59280,7 +59280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
             "text": "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59288,9 +59288,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-nurix-official-0877e0b798d7",
           "evidence-sec-0001549595-000154959526000049",
           "evidence-sec-0001549595-000154959526000048",
-          "evidence-company-nurix-official-a14a58f58944",
           "evidence-company-nurix-pipeline-7b77631d8ff4",
           "evidence-sec-0001549595-000154959526000040",
           "evidence-sec-0001549595-000154959526000038"
@@ -59299,6 +59299,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-nurix-official-0877e0b798d7",
+            "date": "2026-10-14",
+            "title": "Nurix | Medicines to Outmatch Disease",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
+            "sourceUrl": "https://www.nurixtx.com/"
+          },
           {
             "id": "event-sec-0001549595-000154959526000049",
             "date": "2026-10-13",
@@ -59320,17 +59331,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001549595-000154959526000048",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
-          },
-          {
-            "id": "event-evidence-company-nurix-official-a14a58f58944",
-            "date": "2026-10-10",
-            "title": "Nurix | Medicines to Outmatch Disease",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-nurix-official-a14a58f58944",
-            "sourceUrl": "https://www.nurixtx.com/"
           },
           {
             "id": "event-evidence-company-nurix-pipeline-7b77631d8ff4",
@@ -59367,7 +59367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-10-13",
+        "lastEvidenceDate": "2026-10-14",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59375,6 +59375,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-nurix-official-0877e0b798d7",
+          "date": "2026-10-14",
+          "title": "Nurix | Medicines to Outmatch Disease",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
+          "sourceUrl": "https://www.nurixtx.com/"
+        },
         {
           "id": "event-sec-0001549595-000154959526000049",
           "date": "2026-10-13",
@@ -59396,17 +59407,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001549595-000154959526000048",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
-        },
-        {
-          "id": "event-evidence-company-nurix-official-a14a58f58944",
-          "date": "2026-10-10",
-          "title": "Nurix | Medicines to Outmatch Disease",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-nurix-official-a14a58f58944",
-          "sourceUrl": "https://www.nurixtx.com/"
         },
         {
           "id": "event-evidence-company-nurix-pipeline-7b77631d8ff4",
@@ -75108,7 +75108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-xtalpi-official-74fce7e1f652",
             "date": "2026-10-12",
             "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75150,7 +75150,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-xtalpi-official-74fce7e1f652",
           "date": "2026-10-12",
           "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,

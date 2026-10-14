@@ -4847,13 +4847,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-06fef0c926c5",
+      "id": "evidence-company-arvinas-official-d5b878c0b10a",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-10-12",
-      "snapshotDate": "2026-10-12",
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-14",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -4871,7 +4871,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 06fef0c926c5980a7ee30449088c25c9a28ab2477eb39cc77a1a9fece6083bf7.",
+      "fact": "The official page was captured with normalized-content hash d5b878c0b10af4bee77a1cf9dca741b513dcdfe9d536df0f2e6f690e2e1c6ed9.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -4884,7 +4884,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "06fef0c926c5980a7ee30449088c25c9a28ab2477eb39cc77a1a9fece6083bf7",
+      "contentHash": "d5b878c0b10af4bee77a1cf9dca741b513dcdfe9d536df0f2e6f690e2e1c6ed9",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -47388,15 +47388,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-guardant-health-official-154ad6ac896b",
+      "id": "evidence-company-guardant-health-official-d53f62164028",
       "signalId": null,
       "companyIds": [
         "guardant-health"
       ],
-      "publishedAt": "2026-09-05",
-      "snapshotDate": "2026-09-05",
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-14",
       "title": "Guardant Health | Conquering Cancer With Data",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Official Website",
@@ -47412,7 +47412,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 154ad6ac896b2002a6cfca7076d5e67460a1c4f2cd2d4ea6bfab15335a8e9e53.",
+      "fact": "The official page was captured with normalized-content hash d53f62164028183765b9cf608ed7b76fe09501e8acecbd7c41427dc0534036bc.",
       "report": "公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
       "reportOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
       "reportCn": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
@@ -47425,14 +47425,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "154ad6ac896b2002a6cfca7076d5e67460a1c4f2cd2d4ea6bfab15335a8e9e53",
-      "changeType": "unchanged",
+      "contentHash": "d53f62164028183765b9cf608ed7b76fe09501e8acecbd7c41427dc0534036bc",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+        "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
         "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
-        "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
-        "Get to know Guardant Health, our story, and our mission."
+        "View all of our screening, early-stage cancer, and advanced cancer clinical studies."
       ],
       "businessExcerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
@@ -48227,15 +48227,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-mimetas-official-506a5dd20420",
+      "id": "evidence-company-mimetas-official-f40631922431",
       "signalId": null,
       "companyIds": [
         "mimetas"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-14",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -48251,7 +48251,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 506a5dd20420b3e86d6224fb080738e2e03577cecfc0b3b0455280a5684c1a0c.",
+      "fact": "The official page was captured with normalized-content hash f406319224313ba17239a3ea70c70dd08e076108ead3690653780907d6148d1c.",
       "report": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "reportOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "reportCn": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
@@ -48264,8 +48264,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "506a5dd20420b3e86d6224fb080738e2e03577cecfc0b3b0455280a5684c1a0c",
-      "changeType": "unchanged",
+      "contentHash": "f406319224313ba17239a3ea70c70dd08e076108ead3690653780907d6148d1c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -48558,15 +48558,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-c249976fcda4",
+      "id": "evidence-company-natera-official-ab0bacea8091",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-14",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -48582,7 +48582,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash c249976fcda43b3bb5dc43c016877bd627cd3d45b10f8ebcdadaf3743e4cd00a.",
+      "fact": "The official page was captured with normalized-content hash ab0bacea809147f90a248e6c3b2d612be6e2f5f94c5c47ef6944fdbb74e74c42.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -48595,14 +48595,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "c249976fcda43b3bb5dc43c016877bd627cd3d45b10f8ebcdadaf3743e4cd00a",
-      "changeType": "unchanged",
+      "contentHash": "ab0bacea809147f90a248e6c3b2d612be6e2f5f94c5c47ef6944fdbb74e74c42",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
         "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-        "CLINICAL DEVELOPMENT Biopharma Partnerships"
+        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -48666,15 +48666,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-a14a58f58944",
+      "id": "evidence-company-nurix-official-0877e0b798d7",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-14",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -48690,7 +48690,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a14a58f5894449df364aced5e32ba730fc72bd4638e1f451a4fc95543296c45b.",
+      "fact": "The official page was captured with normalized-content hash 0877e0b798d72a2af01950910dd6986160ceaf983ee9ba6543ff561a835c05ba.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -48703,8 +48703,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a14a58f5894449df364aced5e32ba730fc72bd4638e1f451a4fc95543296c45b",
-      "changeType": "unchanged",
+      "contentHash": "0877e0b798d72a2af01950910dd6986160ceaf983ee9ba6543ff561a835c05ba",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -49518,7 +49518,7 @@
       "publishedAt": "2026-10-12",
       "snapshotDate": "2026-10-12",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "XtalPi — Official Website",
@@ -49544,7 +49544,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "74fce7e1f6522d6a9a80f571a904decb0ae625afb3ace8747e47fedb790e4a22",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
