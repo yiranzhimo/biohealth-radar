@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-14T04:59:51.001020+00:00",
+  "capturedAt": "2026-10-14T12:00:54.007357+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,40 +14,103 @@
     "end": "2026-10-14"
   },
   "pmids": [
+    "42870577",
+    "42870295",
+    "42869967",
     "42869828",
     "42869701",
     "42869692",
-    "42869156",
-    "42869137",
-    "42868714",
     "42865067",
     "42860076",
     "42852178",
     "42844355",
     "42818971",
     "42818106",
+    "42869909",
     "42869456",
     "42864397",
     "42864336",
     "42861354",
     "42856349",
-    "42856293",
+    "42870426",
+    "42870280",
     "42868284",
     "42867203",
     "42867147",
-    "42866599",
-    "42866242",
-    "42863532"
+    "42866599"
   ],
   "records": [
+    {
+      "pmid": "42870577",
+      "title": "Decoding microplastic toxicity on human health: navigating translational challenges using organ-on-chip models.",
+      "abstract": "Microplastic (MP) pollution is a serious environmental issue due to the rapid rise in plastic production and persistence of plastics in ecosystems. The inevitable exposure to MPs and reports of the presence of MPs in several tissues in our bodies are concerning amidst growing chronic illnesses. However, the precise effects of MPs on human health remain poorly understood, contributing to public apprehension in the absence of definitive mitigation strategies. Currently, in vitro two-dimensional models (2D) and in vivo animal models are used to study the adverse effects of MPs on human health. While these models have provided some insights, they suffer from various limitations such as short-term exposure, unrealistic high dosages and irrelevance to human physiology. Near-physiological in vitro models, such as organ-on-a-chip (OoC) platforms, built from three-dimensional (3D) structures with dynamic microfluidic flow, mechanical stimulation, and multicellular co-culture environments can enable the study of MP transport, cellular interactions, and organ-level toxicity more accurately. This review highlights the core concepts of MPs and NPs with respect to toxicological studies at the cellular and organ levels, the analytical challenges for detection in biological materials and their clinical interpretation. We discuss the various models developed so far and their limitations associated with human physiology and clinical impact. We explain the design considerations and principles for developing appropriate OoC models to study the effects of dose, duration and exposure pathways of MPs on human health. OoC models are promising systems that can accurately identify the impact of MPs on human health, aid in identifying the mechanisms of toxicity and serve as key platforms for testing and validating therapeutic interventions. Precise evaluation of the health effects of MPs with a mechanistic understanding is imperative for healthcare management and measured public communication.",
+      "journal": "Journal of materials chemistry. B",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Indian Institute of Technology (BHU) Varanasi, Varanasi, Uttar Pradesh, 221005, India. gowribalachander.bme@iitbhu.ac.in.",
+        "Scientist B (Medical), ICMR National Institute of Child Health Research (ICMR - NICHR), New Delhi, India.",
+        "Department of Biochemistry, All India Institute of Medical Sciences, Bhubaneswar, Odisha, India.",
+        "Center of Excellence for Clinical Microbiome and Research (CCMR), All India Institute of Medical Sciences, Bhubaneswar, Odisha 751019, India."
+      ],
+      "doi": "10.1039/d6tb01482h",
+      "date": "2026-10-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870577/"
+    },
+    {
+      "pmid": "42870295",
+      "title": "U2 snRNP inhibition hampers pancreatic cancer cell viability by disrupting DNA repair proficiency and mitotic checkpoint integrity.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with remarkably poor prognosis. Splicing dysregulation is emerging as a hallmark and possible therapeutic target of PDAC. We performed high-throughput RNA sequencing analyses in PANC-1 cells treated with three drugs targeting the U2 small nuclear ribonucleoprotein (U2 snRNP): Pladienolide B, Thailanstatin A and Indisulam. The efficacy of splicing inhibitors, Talazoparib, Alisertib, AZD7762 and Barisertib, alone or in combination, was assessed in PDAC cells and patient-derived organoids (PDOs) by cell viability assays. RT-PCR, western blot and cell cycle assays were performed to evaluate the expression of DNA repair and mitotic genes and the execution of mitosis. PANC-1 cells were engineered to stably co-express GFP-tagged H2b histone and RFP-tagged β-tubulin by CRISPR/Cas-9 technology and used for time-lapse confocal microscopy and immunofluorescence analyses. Genes encoding for the U2 snRNP, which recognizes the 3' splice site, are upregulated in advanced PDAC. U2 snRNP-targeting drugs impair the DNA damage response (DDR) pathway in homologous recombination-proficient PDAC cells and PDOs, thus enhancing their sensitivity to PARP inhibitors. Genes whose splicing was disrupted by all three drugs are characterized by higher expression, more exon-intron junctions, weak 5' splice sites and atypical GC content. These features are enriched in mitotic genes (e.g. AURKA, AURKB, CHEK1), whose expression is strongly deregulated by splicing perturbation. Accordingly, splicing inhibition causes severe mitotic defects, leading to the accumulation of cells with misaligned condensed chromosomes on monopolar or bipolar spindles. Notably, high expression of AURKA, AURKB and CHEK1 correlates with poor prognosis in PDAC patients, whereas combined treatments with inhibitors of these mitotic kinases strongly impair the viability of PDAC cells and PDOs. These findings uncover gene features associated with sensitivity to splicing inhibitors in PDAC cells and suggest that the DDR and mitosis are biological processes highly sensitive to splicing perturbation.",
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Neuroscience, Section of Human Anatomy, Catholic University of the Sacred Heart, Rome, 00168, Italy.",
+        "GSTeP Organoids Research Core Facility, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, 00168, Italy.",
+        "Department of Basic Biotechnological Sciences, Intensive Care and Perioperative Clinics Research, Catholic University of the Sacred Heart, Rome, 00168, Italy.",
+        "DNA Replication and Cancer Group, Danish Cancer Institute, Copenhagen, 2100, Denmark.",
+        "Department of Translational Medicine and Surgery, Catholic University of the Sacred Heart, Rome, 00168, Italy.",
+        "Digestive Surgery Unit, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, 00168, Italy.",
+        "Experimental Oncology group, Tumor Biology Programme, Spanish National Cancer Research Center (CNIO), Madrid, 28029, Spain.",
+        "Área Cáncer, Centro de Investigación Biomédica en Red (CIBERONC), ISCIII, Madrid, Spain.",
+        "Department of Neuroscience, Section of Human Anatomy, Catholic University of the Sacred Heart, Rome, 00168, Italy. claudio.sette@unicatt.it.",
+        "GSTeP Organoids Research Core Facility, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, 00168, Italy. claudio.sette@unicatt.it."
+      ],
+      "doi": "10.1186/s13046-026-03795-3",
+      "date": "2026-07-31",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870295/"
+    },
+    {
+      "pmid": "42869967",
+      "title": "Translational modelling of human microglia from cultures to chimeras.",
+      "abstract": "Microglia play a crucial role in maintaining homeostasis of the central nervous system, whereas their dysfunction is implicated in the pathogenesis of various neurological diseases. Nevertheless, interspecific genetic differences pose challenges to translating findings from conventional rodent models. Human pluripotent stem cell-derived microglia offer a genetically relevant alternative, but these cells undergo profound transcriptomic changes and lose key homeostatic features when isolated from physiological brain cues. Accordingly, research has increasingly focused on advanced modelling platforms designed to restore the microenvironment required for in vivo microglial identity and functionality. This review examines the evolution of human microglial platforms, encompassing foundational generation protocols and multicellular integration. The discussion extends from two-dimensional co-cultures to three-dimensional brain organoids and includes human microglia chimeric models established via xenotransplantation to provide a physiological niche. In summary, the human pluripotent stem cell-based approach represents a valuable experimental pipeline for microglia research, facilitating the investigation of polygenic structures underlying human neurological diseases, from high-throughput screening to in vivo preclinical validation.",
+      "journal": "Experimental & molecular medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Neuroscience, Korea University College of Medicine, Seoul, Republic of Korea.",
+        "BK21 Graduate Program, Department of Biomedical Sciences, Korea University College of Medicine, Seoul, Republic of Korea.",
+        "Department of Neuroscience, Korea University College of Medicine, Seoul, Republic of Korea. yongjinyoo@korea.ac.kr.",
+        "BK21 Graduate Program, Department of Biomedical Sciences, Korea University College of Medicine, Seoul, Republic of Korea. yongjinyoo@korea.ac.kr."
+      ],
+      "doi": "10.1038/s12276-026-01866-1",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869967/"
+    },
     {
       "pmid": "42869828",
       "title": "[Efficacy-toxicity duality of Tripterygium wilfordii in treatment of rheumatic and immune diseases: mechanisms, strategies for toxicity attenuation and efficacy enhancement, and future perspectives].",
       "abstract": "Rheumatic and immune diseases constitute a major global disease burden. Tripterygium wilfordii demonstrates remarkable therapeutic efficacy in treating rheumatoid arthritis, systemic lupus erythematosus and related conditions. However, its prominent hepatic, renal, and reproductive toxicities engender a characteristic &quot;efficacy-toxicity duality&quot;, thereby limiting its broader clinical adoption and safe application. This study systematically synthesized domestic and international research over the past two decades to construct a regulatory network governing the &quot;efficacy-toxicity duality&quot; of T. wilfordii from an integrative &quot;component-pathway-spatiotemporal-host(individual)&quot; perspective. It dissected the underlying mechanisms linking efficacy and toxicity, elucidating that key constituents such as triptolide exert dual effects through intervention in shared signaling pathways, including nuclear factor erythroid 2-related factor 2(Nrf2) and signal transducer and activator of transcription 3(STAT3), where the specific outcome of efficacy versus toxicity is dictated by defined &quot;dose-time&quot; windows, tissue distribution patterns, and individual host factors. The study further reviewed toxicity attenuation and efficacy enhancement strategies, including structural modification, targeted delivery, and combination pharmacotherapy. In response to three translational bottlenecks-inconsistent quality, inefficient delivery, and lagging evaluation-this work proposed the establishment of end-to-end quality control standards, the development of intelligent responsive delivery systems, and the integration of emerging technologies such as artificial intelligence and organoids into an advanced &quot;efficacy-toxicity&quot; evaluation framework. Collectively, these efforts aim to provide an integrative theoretical framework and translatable innovation pathways for advancing T. wilfordii toward safe, controllable, and precision-oriented modern pharmaceuticals, thereby facilitating the modernization of traditional Chinese medicine and its global clinical dissemination.",
       "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
       "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
+        "Journal Article",
+        "Review",
+        "English Abstract"
       ],
       "affiliations": [
         "the First Clinical Medical School, Nanjing University of Chinese Medicine Nanjing 210023, China.",
@@ -95,63 +158,6 @@
       "doi": "10.1016/j.surg.2026.110567",
       "date": "2026-09-02",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869692/"
-    },
-    {
-      "pmid": "42869156",
-      "title": "Stage-specific exposure to an activity-permissive medium enhances neuronal activity in oligodendrocyte-enriched cortical organoids.",
-      "abstract": "Oligodendrocyte-enriched cortical organoids (OCOs) are a powerful platform for modeling oligodendrogenesis in a human cellular context. However, neuronal activity is impaired in conventional culture media, limiting assessment of neuronal function in conjunction with oligodendrocyte biology. To address this, we used a modified BrainPhys medium termed neuronal activity medium (NAM) and defined the optimal developmental window for NAM exposure to generate OCOs with robust neuronal activity (NAM-OCOs). Stage-specific exposure to NAM, prior to oligodendrocyte expansion, leads to enhanced structural complexity, as evidenced by increased organoid size, heightened synaptogenesis, and upregulation of transcripts associated with neuronal morphology. Further, NAM-OCOs display increased cellular heterogeneity, with GABAergic interneurons exhibiting enhanced inhibitory synaptic features and a more advanced developmental transcriptional state, while preserving oligodendrocyte development and oligodendrocyte-axon associations. Altogether, our studies demonstrate that stage-specific exposure to an activity-permissive environment enhances neuronal activity, establishing an OCO model which integrates neuronal activity with oligodendrocyte development and differentiation.",
-      "journal": "Brain research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Anatomy & Neurobiology, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
-        "Department of Biological Sciences, CUNY Hunter College, New York, NY 10065, USA.",
-        "Graduate Program for Neuroscience, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
-        "Department of Physiology and Biophysics, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA; Neurophotonics Center, Boston University, Boston, MA, USA.",
-        "Bioinformatics Program, Boston University, Boston, MA 02118, USA; Department of Medicine, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA.",
-        "Department of Anatomy & Neurobiology, Boston University Chobanian & Avedisian School of Medicine, Boston University, Boston, MA, USA; Neurophotonics Center, Boston University, Boston, MA, USA. Electronic address: ezeldich@bu.edu."
-      ],
-      "doi": "10.1016/j.brainres.2026.150601",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869156/"
-    },
-    {
-      "pmid": "42869137",
-      "title": "Sinoatrial node dysfunction: molecular mechanisms, arrhythmogenesis, and translational pathways toward precision therapy.",
-      "abstract": "Sinoatrial node dysfunction (SND) is a major cause of bradyarrhythmia, chronotropic incompetence, tachy-brady syndrome, and a common indication for permanent pacemaker implantation, particularly in older adults. Although SND has diverse etiologies, this review focuses on aging-associated intrinsic SND, while considering other common causes where they inform differential diagnosis, arrhythmogenic mechanisms, or therapeutic development. Although current medical interventions provide effective rhythm support, they does not correct the molecular and tissue-level processes that drive sinoatrial node (SAN) degeneration. The review integrates current knowledge of SAN biology with mechanisms underlying SND, including fibrosis, ion-channel and calcium-clock remodeling, mitochondrial dysfunction, cellular senescence, impaired β-adrenergic signaling, genetic susceptibility, and epigenetic or epitranscriptomic regulation. We further discuss how these mechanisms contribute to impaired impulse generation, SAN exit block, reduced chronotropic reserve, and increased susceptibility to atrial arrhythmia. We discuss approaches for studying the molecular and cellular mechanisms and evaluating therapeutic strategies using emerging animal models, human pluripotent stem cell-derived SAN-like pacemaker cells, organoids, assembloids, and single-cell and spatial omics platforms . Finally, we highlight translational opportunities, including senescence-directed, metabolic, antifibrotic, autonomic, gene-based, regenerative, and biological pacing strategies. A mechanism-guided classification of SND may support future precision therapies that complement conventional pacing by linking dominant rhythm phenotypes to targetable biological drivers, molecular and functional pharmacodynamic markers, and human-relevant models of pacemaker failure.",
-      "journal": "Pharmacology & therapeutics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA. Electronic address: namv.truong@uth.tmc.edu.",
-        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX, USA.",
-        "Department of Pediatrics, McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, TX, USA; The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences, Houston, TX, USA. Electronic address: jun.wang@uth.tmc.edu."
-      ],
-      "doi": "10.1016/j.pharmthera.2026.109131",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869137/"
-    },
-    {
-      "pmid": "42868714",
-      "title": "Patient-derived gastric cancer organoids for functional precision oncology: disease-specific bottlenecks and clinical readiness.",
-      "abstract": "Gastric cancer (GC) poses a distinct modeling challenge. The disease varies by region, histology, metastatic site, and treatment history. It also develops within a gastric niche shaped by acid, mucus, polarity, microbes, and stroma. Patient-derived organoids (PDOs) can preserve tumor-linked epithelial states and support living biobanks. They also enable genotype-phenotype studies and functional testing of therapeutic vulnerabilities. Their clinical value depends on representation, not model complexity alone. The assay must also return clear results within a useful clinical window. This review evaluates GC PDOs as functional companion models for precision oncology rather than stand-alone treatment decision tools. We discuss four barriers that limit clinical readiness. Establishment bias reduces representation of diffuse-type, scirrhous, and signet-ring cell carcinomas. Standard organoid lumens do not reproduce gastric acidity, stratified mucus, or Helicobacter pylori-driven polarity loss. Long-term expansion can select culture-adapted clones and weaken clinical representativeness. PDO drug screening also remains difficult to align with urgent treatment timelines. Fresh-sample assays may shorten turnaround time but reduce scale and depth. We further highlight biological insights gained from GC organoids. These include niche independence, epigenetic dependencies, ARID1A-linked vulnerabilities, and chemotherapy resistance. We propose a readiness framework based on six criteria: tumor authenticity, subtype coverage, niche fidelity, turnaround time, assay standards, and outcome validation. This framework may help define where GC PDOs can support clinical reasoning.",
-      "journal": "Translational oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, 266003, China; Department of Medicinal Chemistry, School of Pharmacy, Qingdao University, Qingdao, 266071, China.",
-        "Department of General Surgery, The Affiliated Hospital of Qingdao University, Gastrointestinal Tumor Translational Medicine Research Institute of Qingdao University, Qingdao, Shandong, China.",
-        "Department of Medicinal Chemistry, School of Pharmacy, Qingdao University, Qingdao, 266071, China. Electronic address: xwtang1219@qdu.edu.cn.",
-        "Department of Radiation Oncology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, 266003, China. Electronic address: liguoliang@qdu.edu.cn."
-      ],
-      "doi": "10.1016/j.tranon.2026.103065",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868714/"
     },
     {
       "pmid": "42865067",
@@ -267,6 +273,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42818106/"
     },
     {
+      "pmid": "42869909",
+      "title": "Functional alignment of protein language models via reinforcement learning.",
+      "abstract": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in nature. We introduce Reinforcement Learning from eXperimental Feedback (RLXF), a general framework that aligns protein language models with experimentally measured functional objectives, drawing inspiration from the methods used to align large language models like ChatGPT. Applied across five diverse protein families, RLXF improves generation of high-functioning variants beyond pre-trained baselines. We demonstrate this with CreiLOV, an oxygen-independent fluorescent protein, where RLXF-aligned models generate sequences with significantly enhanced fluorescence, including the most fluorescent CreiLOV variants reported to date. Our results indicate that RLXF-aligned models effectively integrate the evolutionary knowledge encoded in pre-trained pLMs with experimental observations, improving the success rate of generated sequences and enabling the discovery of synergistic mutation combinations that are difficult to identify through zero-shot or evolutionary approaches. RLXF provides a scalable and accessible approach to steer generative models toward desired biochemical properties, enabling function-driven protein design beyond the limits of natural evolution.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+        "Modality Research Laboratories II, Daiichi Sankyo Co., Ltd., Tokyo, Japan.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA. philip.romero@duke.edu.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA. philip.romero@duke.edu."
+      ],
+      "doi": "10.1038/s41467-026-77557-2",
+      "date": "2026-09-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/"
+    },
+    {
       "pmid": "42869456",
       "title": "Perspectives on tissue-selective insulin derivatives.",
       "abstract": "Insulin is a central regulator of metabolic homoeostasis with diverse, tissue-specific actions across multiple organs. Despite major advances in insulin formulations, current therapies rely on systemic delivery and do not reproduce the physiological distribution of endogenous insulin, resulting in non-physiological tissue exposure and associated metabolic limitations. In this perspective, we discuss emerging strategies aimed at achieving tissue-selective insulin action, including molecular engineering of insulin analogues, modulation of insulin receptor isoform specificity and targeted delivery approaches. Attention is given to hepato-preferential, muscle-directed, brain-targeted and adipose-modulating strategies, highlighting their mechanistic basis, therapeutic potential and inherent limitations. While proof of principle has been established for several approaches, challenges remain in balancing tissue selectivity with whole-body metabolic control. Advances in protein design and delivery technologies may ultimately enable the development of next-generation insulin therapies that better mimic physiological insulin action and improve clinical outcomes in metabolic and neurodegenerative diseases.",
@@ -364,18 +390,46 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856349/"
     },
     {
-      "pmid": "42856293",
-      "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design.",
-      "abstract": "RNA plays central roles in regulating information flow and provides a versatile substrate for engineering biological functions. While large language models (LLMs) have transformed natural language processing and protein design, a general framework connecting RNA foundation models to functional sequence design remains limited. Here, we present RNASeek, a 1.6-billion-parameter generative foundation model built on a DeepSeek architecture and trained on a cross-phyla transcriptomic corpus for RNA sequence representation and generation. Natural-language tokens enable flexible conditional prediction and sequence design using a unified backbone. RNASeek captures species-specific transcript features and intron-exon boundaries in a zero-shot setting. We then fine-tune RNASeek to predict ribozyme self-cleavage activity and viral mRNA stability, revealing interpretable sequence features associated with function, including ribozyme loop flexibility and stem stability, as well as AU-rich motifs associated with mRNA stability. We use these functional predictors as reward models and apply Group Relative Policy Optimization (GRPO) to update RNASeek's generation policy toward sequences with desired properties. GRPO-guided generation produces faster-cleaving ribozymes and stability-enhancing 3' UTRs while satisfying user-specified IUPAC constraints. Experimentally validated RNASeek-generated ribozymes achieve wild-type levels of activity, while RNASeek-generated 3' UTR sequences exceed the performance of the training data and benchmarked AI-generated 3' UTRs. Together, RNASeek establishes a unified pretrain-predict-optimize framework that connects learned RNA function to controllable de novo sequence design and provides a general strategy for engineering regulatory RNAs with desired properties.",
-      "journal": "bioRxiv : the preprint server for biology",
+      "pmid": "42870426",
+      "title": "Current applications and challenges of artificial intelligence in orthopedic imaging: A narrative review.",
+      "abstract": "BackgroundArtificial intelligence (AI), especially machine and deep learning, is an emerging tool in medicine with growing applications in orthopedic imaging. Given imaging's central role in diagnosis, surgical planning, and treatment monitoring, this narrative review maps the current and potential uses of AI in orthopedics, identifies underdevelopment sections, and emphasizes limitations in clinical practice.MethodsA PubMed search used the terms \"Orthopedic,\" \"Imaging,\" and \"Artificial Intelligence.\" Studies were screened by title and abstract, excluding non-orthopedic or non-AI studies, animal research, pediatric populations, and robotics or pharmacology papers. Eighty-five peer-reviewed articles were analyzed for imaging modality, clinical application, AI technique, and assigned a level of evidence. They were selected based on relevance to AI in orthopedic imaging.ResultsAI applications spanned radiography, CT, MRI, DTI, and ultrasound. For bone pathology, AI aided fracture detection and osteoarthritis prediction with clinician-level accuracy. In soft tissue injuries, models assisted in rotator cuff and meniscus tear detection and muscle segmentation. AI-driven 3D reconstructions and virtual reduction models enhanced surgical planning, particularly in joint replacement and trauma. Spine imaging benefited from vertebral segmentation, disc degeneration classification, and paraspinal muscle analysis, improving preoperative planning and outcome prediction. radiography, CT, MRI, DTI, and ultrasound. An important distinction is that many of these models generated outputs that surrounded conditional probabilities rather than categorical diagnoses. Many pitfalls remain including single-center overfitting, data leakage, and inter-reader variability.ConclusionsAI demonstrates potential to enhance diagnostic accuracy, streamline surgical planning, and improve workflow efficiency. Challenges remain, including data bias, regulatory constraints, and ethical considerations, warranting caution to its blanket application in medicine. Continued integration and validation are needed for optimal clinical use.Clinical RelevanceAI may serve as an adjunct to clinicians, supporting imaging interpretation and surgical decision-making while preserving human judgment.",
+      "journal": "Journal of orthopaedic surgery (Hong Kong)",
       "publicationTypes": [
         "Journal Article",
-        "Preprint"
+        "Review"
       ],
-      "affiliations": [],
-      "doi": "10.64898/2026.09.24.754173",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856293/"
+      "affiliations": [
+        "Department of Surgery, Stony Brook University Hospital, Stony Brook, NY, USA.",
+        "Department of Surgery, University of Mississippi Medical Center, Jackson, MS, USA.",
+        "GME Department, Conway Medical Center, Conway, SC, USA.",
+        "Department of Radiology, Dartmouth Hitchcock Medical Center, Lebanon, NH, USA.",
+        "Department of Orthopedic Surgery, Cooper University Hospital, Camden, NJ, USA.",
+        "Department of Orthopedic Surgery, Stony Brook University Hospital, Stony Brook, NY, USA."
+      ],
+      "doi": "10.1177/10225536261466359",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870426/"
+    },
+    {
+      "pmid": "42870280",
+      "title": "Liquid biopsy in bladder cancer: towards precision oncology.",
+      "abstract": "Bladder cancer (BC), as the most common form of urothelial carcinoma, represents a substantial global health burden owing to its high rates of late diagnosis and disease recurrence. Current standard diagnostics, such as cystoscopy and tissue biopsy, are invasive, costly, and limited in capturing tumor heterogeneity or enabling longitudinal monitoring. These constraints underscore the urgent need for minimally invasive, reliable biomarkers. Over the past decade, liquid biopsy has emerged as a transformative, non-invasive alternative, enabling the dynamic profiling of circulating tumor-derived components like circulating tumor DNA (ctDNA), circulating tumor cells (CTC), and extracellular vesicles (EVs). This review comprehensively synthesizes the role of these liquid biopsy analytes in advancing the early detection, prognostic stratification, treatment response monitoring, and immunophenotyping of Urothelial Carcinoma(UC). We critically evaluate the underlying technological advances, consolidate key clinical evidence, discuss persisting challenges, and outline the translational path toward integrating liquid biopsy into precision oncology paradigms for BC management.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+        "Department of Oncology, The Second Affiliated Hospital of Zunyi Medical University, Zunyi, Guizhou, 563006, China.",
+        "School of Medicine, Tsinghua University, Beijing, 100084, China.",
+        "Department of Oncology, The Second Affiliated Hospital of Zunyi Medical University, Zunyi, Guizhou, 563006, China. jianguo@yahoo.com.",
+        "Department of Oncology, The Second Affiliated Hospital of Zunyi Medical University, Zunyi, Guizhou, 563006, China. mahuab@163.com.",
+        "Department of Urology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. yexiongjun@cicams.ac.cn."
+      ],
+      "doi": "10.1186/s12967-026-08892-7",
+      "date": "2026-09-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870280/"
     },
     {
       "pmid": "42868284",
@@ -466,42 +520,37 @@
       "doi": "10.2147/OTT.S649325",
       "date": "2026-10-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866599/"
-    },
-    {
-      "pmid": "42866242",
-      "title": "Precision surgical oncology for hepatocellular carcinoma.",
-      "abstract": "Hepatocellular carcinoma (HCC) is a heterogeneous tumor-liver-host disease in which treatment selection depends on tumor burden, liver function, portal hypertension, performance status, and patient preferences. Although hepatic resection and other established treatment modalities remain central to curative and disease-controlling strategies, emerging biological and digital technologies may provide additional information beyond conventional clinical assessment. However, their prognostic performance does not necessarily establish clinical utility, and many remain insufficiently validated for routine treatment selection. This narrative review examines the evolving role of precision-oriented approaches in HCC, including molecular and immune profiling, radiomics, circulating tumor DNA, artificial intelligence, and digital pathology. We classify these approaches into three evidence tiers: established clinical practice, investigational clinical tools, and future hypotheses. We then propose Precision Surgical Oncology as an author-developed, hypothesis-generating framework in which guideline-based assessment is followed by biological and host-risk refinement, multidisciplinary interpretation, individualized treatment within established therapeutic pathways, and longitudinal reassessment. Precision Surgical Oncology is intended to complement, rather than replace, evidence-based HCC management. Its future clinical value will depend on prospective validation, reproducibility, defined clinical actionability, equitable implementation, and demonstration of improved patient outcomes.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Gastroenterological Surgery, Kochi Health Sciences Center, Kochi, Japan."
-      ],
-      "doi": "10.3389/fonc.2026.1957598",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866242/"
-    },
-    {
-      "pmid": "42863532",
-      "title": "The epigenetic landscape of hepatocellular carcinoma: from molecular mechanisms to early detection biomarkers and precision therapy.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of global cancer mortality due to late diagnosis, molecular heterogeneity, and therapeutic resistance. Emerging evidence highlights that epigenetic and epitranscriptomic dysregulations drive hepatocarcinogenesis by altering gene expression programs without changing the underlying DNA sequence. Aberrant DNA methylation, histone modifications, chromatin remodeling, non-coding RNA networks, and N6-methyladenosine (m6A) RNA modifications collectively orchestrate HCC initiation, progression, metastasis, immune evasion, and metabolic reprogramming. Recent breakthroughs in next-generation sequencing, liquid biopsy, and multi-omics profiling have accelerated the identification of robust epigenetic biomarkers for early detection, prognosis, and therapeutic monitoring. Concurrently, epigenetic-targeted therapies, including DNA methyltransferase, histone deacetylase, EZH2, and BET inhibitors, offer promising preclinical and clinical opportunities for precision oncology, particularly through rational combination strategies to overcome drug resistance. This review provides a comprehensive synthesis of the molecular mechanisms governing epigenetic and epitranscriptomic alterations in HCC. We highlight their translational potential in clinical practice and critically discuss current challenges, emerging technologies, and future perspectives for successful clinical implementation.",
-      "journal": "Gene",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Massachusetts General Hospital, Boston, United States. Electronic address: shraddhadubey470@gmail.com.",
-        "Shiv Nadar Institution of Eminence Deemed to be University, Delhi-NCR, India. Electronic address: hg358@snu.edu.in."
-      ],
-      "doi": "10.1016/j.gene.2026.150438",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863532/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42870577",
+      "date": "2026-10-14",
+      "title": "Decoding microplastic toxicity on human health: navigating translational challenges using organ-on-chip models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870577/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of materials chemistry. B，PMID 为 42870577。",
+      "report": "Microplastic (MP) pollution is a serious environmental issue due to the rapid rise in plastic production and persistence of plastics in ecosystems. The inevitable exposure to MPs and reports of the presence of MPs in several tissues in our bodies are concernin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42869456",
       "date": "2026-10-14",
@@ -529,6 +578,38 @@
       "fact": "PubMed 记录显示该文献收录于 Open biology，PMID 为 42869456。",
       "report": "Insulin is a central regulator of metabolic homoeostasis with diverse, tissue-specific actions across multiple organs. Despite major advances in insulin formulations, current therapies rely on systemic delivery and do not reproduce the physiological distributi...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869967",
+      "date": "2026-10-13",
+      "title": "Translational modelling of human microglia from cultures to chimeras.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869967/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental & molecular medicine，PMID 为 42869967。",
+      "report": "Microglia play a crucial role in maintaining homeostasis of the central nervous system, whereas their dysfunction is implicated in the pathogenesis of various neurological diseases. Nevertheless, interspecific genetic differences pose challenges to translating...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -566,98 +647,33 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42869156",
+      "id": "pubmed-42870426",
       "date": "2026-10-13",
-      "title": "Stage-specific exposure to an activity-permissive medium enhances neuronal activity in oligodendrocyte-enriched cortical organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869156/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Brain research，PMID 为 42869156。",
-      "report": "Oligodendrocyte-enriched cortical organoids (OCOs) are a powerful platform for modeling oligodendrogenesis in a human cellular context. However, neuronal activity is impaired in conventional culture media, limiting assessment of neuronal function in conjunctio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42869137",
-      "date": "2026-10-13",
-      "title": "Sinoatrial node dysfunction: molecular mechanisms, arrhythmogenesis, and translational pathways toward precision therapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Current applications and challenges of artificial intelligence in orthopedic imaging: A narrative review.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869137/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870426/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacology & therapeutics，PMID 为 42869137。",
-      "report": "Sinoatrial node dysfunction (SND) is a major cause of bradyarrhythmia, chronotropic incompetence, tachy-brady syndrome, and a common indication for permanent pacemaker implantation, particularly in older adults. Although SND has diverse etiologies, this review...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42868714",
-      "date": "2026-10-13",
-      "title": "Patient-derived gastric cancer organoids for functional precision oncology: disease-specific bottlenecks and clinical readiness.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868714/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
+        "Clinical Evidence",
+        "Regulatory Watch",
         "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
+        "临床",
+        "监管",
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42868714。",
-      "report": "Gastric cancer (GC) poses a distinct modeling challenge. The disease varies by region, histology, metastatic site, and treatment history. It also develops within a gastric niche shaped by acid, mucus, polarity, microbes, and stroma. Patient-derived organoids (...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of orthopaedic surgery (Hong Kong)，PMID 为 42870426。",
+      "report": "BackgroundArtificial intelligence (AI), especially machine and deep learning, is an emerging tool in medicine with growing applications in orthopedic imaging. Given imaging's central role in diagnosis, surgical planning, and treatment monitoring, this narrativ...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -788,38 +804,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature plants，PMID 为 42864397。",
       "report": "Genome editing facilitates the rapid creation of elite alleles, yet identifying editable sites for durable trait improvement without functional trade-offs remains challenging. Most current strategies modify a single genetic axis, limiting their effectiveness a...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42863532",
-      "date": "2026-10-12",
-      "title": "The epigenetic landscape of hepatocellular carcinoma: from molecular mechanisms to early detection biomarkers and precision therapy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42863532/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Gene，PMID 为 42863532。",
-      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of global cancer mortality due to late diagnosis, molecular heterogeneity, and therapeutic resistance. Emerging evidence highlights that epigenetic and epitranscriptomic dysregulations drive hepatocarcinog...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1000,73 +984,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42856293",
-      "date": "2026-09-28",
-      "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856293/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42856293。",
-      "report": "RNA plays central roles in regulating information flow and provides a versatile substrate for engineering biological functions. While large language models (LLMs) have transformed natural language processing and protein design, a general framework connecting R...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42866242",
-      "date": "2026-09-28",
-      "title": "Precision surgical oncology for hepatocellular carcinoma.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866242/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42866242。",
-      "report": "Hepatocellular carcinoma (HCC) is a heterogeneous tumor-liver-host disease in which treatment selection depends on tumor burden, liver function, portal hypertension, performance status, and patient preferences. Although hepatic resection and other established...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42818106",
       "date": "2026-09-26",
       "title": "Pop-Corn: Predicting Perturbation Phenotype Effects Across Single-Cell and Spatial Contexts.",
@@ -1094,6 +1011,39 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42818106。",
       "report": "Genetic perturbations can reshape cell populations by altering the relative abundance of specific cell types and states within the profiled population, including increases, decreases and states that become detectable after perturbation. Pooled single-cell scre...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42869909",
+      "date": "2026-09-12",
+      "title": "Functional alignment of protein language models via reinforcement learning.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42869909。",
+      "report": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in na...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1160,6 +1110,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42870280",
+      "date": "2026-09-10",
+      "title": "Liquid biopsy in bladder cancer: towards precision oncology.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870280/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42870280。",
+      "report": "Bladder cancer (BC), as the most common form of urothelial carcinoma, represents a substantial global health burden owing to its high rates of late diagnosis and disease recurrence. Current standard diagnostics, such as cystoscopy and tissue biopsy, are invasi...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42869692",
       "date": "2026-09-02",
       "title": "Lactate-associated pyruvate kinase muscle isoform 2 nuclear enrichment and ferroptotic stress responses in lung cancer.",
@@ -1196,7 +1176,7 @@
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869828/",
@@ -1253,6 +1233,36 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42870295",
+      "date": "2026-07-31",
+      "title": "U2 snRNP inhibition hampers pancreatic cancer cell viability by disrupting DNA repair proficiency and mitotic checkpoint integrity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42870295/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42870295。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with remarkably poor prognosis. Splicing dysregulation is emerging as a hallmark and possible therapeutic target of PDAC. We performed high-throughput RNA sequencing analyses in PANC-1 cells treat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
