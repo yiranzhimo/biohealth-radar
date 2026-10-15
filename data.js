@@ -2972,75 +2972,71 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42872949",
-      "date": "2026-10-01",
-      "title": "Cross-Sectional Profiling of Aqueous Humor VEGF-A Reflects the Tumor and Ocular Microenvironment in Retinoblastoma.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
+      "id": "pubmed-42876544",
+      "date": "2026-09-30",
+      "title": "Editorial: Cancer biomarkers: molecular insights into diagnosis, prognosis, and risk prediction: volume II.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872949/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876544/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "biotech",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Investigative ophthalmology & visual science，PMID 为 42872949。",
-      "report": "Vascular endothelial growth factor A (VEGF-A) is a key mediator of tumor angiogenesis. This cross-sectional study quantified aqueous humor (AH) VEGF-A in retinoblastoma (RB) eyes and retrospectively evaluated its association with clinical features. This study...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42876544。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e95b15e7e2b12c3006ad05b5cd2cc87d191968cedcc19170e",
-        "reviewedAt": "2026-10-15T04:48:33.294642+00:00",
-        "inputHash": "893a09cf46c6a8e1cd875e32d988a15783dd42d5753b4c058d1506c7e576d627",
+        "responseId": "resp_0d327c847e3be2da006ad14592f00087d28a691221a5ab7725",
+        "reviewedAt": "2026-10-15T21:28:50.046418+00:00",
+        "inputHash": "14555ab306c4dc414f34a301a8991457dd78099826221a098b7ce4d41014be72",
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "文献中对VEGF-A的作用做出了潜在的临床推论，需要人类审查以确保准确性。",
+        "reviewSummaryCn": "需要人工审查，分类证据水平不足，未明确研究质量和临床意义。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，但需审查临床推论。"
+          "isSupported": false,
+          "notesCn": "当前的分类与证据水平不符，需人工审阅确认。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据等级为中等，但文献基于潜在的临床推论。"
+          "notesCn": "证据水平较低，缺乏支持性信息，使得分类的合理性延续不稳定。"
         },
         "riskFlags": [
-          "clinical_claim",
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
+            "Biotech",
             "Precision Oncology"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
+            "biotech",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Investigative ophthalmology & visual science，PMID 为 42872949。",
-          "report": "Vascular endothelial growth factor A (VEGF-A) is a key mediator of tumor angiogenesis. This cross-sectional study quantified aqueous humor (AH) VEGF-A in retinoblastoma (RB) eyes and retrospectively evaluated its association with clinical features.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42876544。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

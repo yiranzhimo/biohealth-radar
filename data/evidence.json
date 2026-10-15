@@ -905,33 +905,31 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42872949",
-      "signalId": "pubmed-42872949",
+      "id": "evidence-pubmed-42876544",
+      "signalId": "pubmed-42876544",
       "companyIds": [],
-      "publishedAt": "2026-10-01",
+      "publishedAt": "2026-09-30",
       "snapshotDate": "2026-10-15",
-      "title": "Cross-Sectional Profiling of Aqueous Humor VEGF-A Reflects the Tumor and Ocular Microenvironment in Retinoblastoma.",
+      "title": "Editorial: Cancer biomarkers: molecular insights into diagnosis, prognosis, and risk prediction: volume II.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872949/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876544/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "Low",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Biotech",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "biotech",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Investigative ophthalmology & visual science，PMID 为 42872949。",
-      "report": "Vascular endothelial growth factor A (VEGF-A) is a key mediator of tumor angiogenesis. This cross-sectional study quantified aqueous humor (AH) VEGF-A in retinoblastoma (RB) eyes and retrospectively evaluated its association with clinical features. This study...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in molecular biosciences，PMID 为 42876544。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
