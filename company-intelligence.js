@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 623,
     "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 52,
+    "failedSourceCount": 101,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -8646,7 +8646,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-alnylam-investor_relations-87f19ce1ebb2",
             "date": "2026-10-07",
             "title": "Information and Resources for Investors | Alnylam",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -8722,7 +8722,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-alnylam-investor_relations-87f19ce1ebb2",
           "date": "2026-10-07",
           "title": "Information and Resources for Investors | Alnylam",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -19487,7 +19487,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-basecare-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -19518,7 +19518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-basecare-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -22566,7 +22566,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-biocytogen-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -22597,7 +22597,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-biocytogen-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -22842,7 +22842,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-biodlink-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -22873,7 +22873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-biodlink-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -23499,7 +23499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-bioheart-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -23530,7 +23530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-bioheart-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -24505,7 +24505,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-biostar-pharm-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -24536,7 +24536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-biostar-pharm-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -26438,7 +26438,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-brainaurora-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -26469,7 +26469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-brainaurora-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -27625,7 +27625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-broncus-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -27656,7 +27656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-broncus-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -30816,7 +30816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-carsgen-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -30847,7 +30847,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-carsgen-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -34979,7 +34979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-clover-bio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -35010,7 +35010,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-clover-bio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -36760,7 +36760,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cryofocus-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -36791,7 +36791,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cryofocus-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -36909,7 +36909,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cspc-pharma-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -36940,7 +36940,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cspc-pharma-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -37058,7 +37058,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cstone-pharma-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -37089,7 +37089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cstone-pharma-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -37715,7 +37715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cutia-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -37746,7 +37746,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cutia-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -38499,7 +38499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-diagens-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -38530,7 +38530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-diagens-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -38649,7 +38649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-dualitybio-official-7977dd0a56f0",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -38680,7 +38680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-dualitybio-official-7977dd0a56f0",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -38925,7 +38925,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-edge-medical-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -38956,7 +38956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-edge-medical-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -39711,7 +39711,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-emulate-pipeline-986c5f41e82b",
             "date": "2026-10-07",
             "title": "Emulate Organ-Chip Products",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -39753,7 +39753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-emulate-pipeline-986c5f41e82b",
           "date": "2026-10-07",
           "title": "Emulate Organ-Chip Products",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -42135,7 +42135,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-genfleet-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -42166,7 +42166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-genfleet-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -42575,7 +42575,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-genscript-bio-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -42606,7 +42606,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-genscript-bio-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -43328,7 +43328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-grand-pharma-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -43359,7 +43359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-grand-pharma-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -44195,7 +44195,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hansoh-pharma-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -44226,7 +44226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hansoh-pharma-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -44344,7 +44344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hanxbio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -44375,7 +44375,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hanxbio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -44493,7 +44493,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hbm-holdings-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -44524,7 +44524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hbm-holdings-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -44769,7 +44769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-heartcare-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -44800,7 +44800,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-heartcare-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45045,7 +45045,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hightide-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45076,7 +45076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hightide-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45194,7 +45194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hj-science-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45225,7 +45225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hj-science-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45343,7 +45343,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hua-medicine-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45374,7 +45374,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hua-medicine-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45758,7 +45758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-hutchmed-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45789,7 +45789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-hutchmed-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -46918,7 +46918,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-immuneonco-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -46949,7 +46949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-immuneonco-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -47321,7 +47321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-immunotech-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -47352,7 +47352,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-immunotech-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48381,7 +48381,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-innocare-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48412,7 +48412,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-innocare-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48530,7 +48530,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-innogen-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48561,7 +48561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-innogen-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48679,7 +48679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-innovent-bio-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48710,7 +48710,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-innovent-bio-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -49080,7 +49080,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-insilico-medicine-pipeline-34f5fa9bfaa1",
             "date": "2026-10-07",
             "title": "Pipeline | Insilico Medicine",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49122,7 +49122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-insilico-medicine-pipeline-34f5fa9bfaa1",
           "date": "2026-10-07",
           "title": "Pipeline | Insilico Medicine",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -50305,7 +50305,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-jacobio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -50336,7 +50336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-jacobio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -50730,7 +50730,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-jenscare-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -50761,7 +50761,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-jenscare-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -51379,7 +51379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-keymed-bio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -51410,7 +51410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-keymed-bio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -51626,7 +51626,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-kintor-pharma-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -51657,7 +51657,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-kintor-pharma-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52379,7 +52379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-laekna-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -52410,7 +52410,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-laekna-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52655,7 +52655,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-leads-biolabs-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -52686,7 +52686,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-leads-biolabs-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54020,7 +54020,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-longbio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -54051,7 +54051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-longbio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54169,7 +54169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-luzhu-biotech-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -54200,7 +54200,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-luzhu-biotech-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54318,7 +54318,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-mabpharm-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -54349,7 +54349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-mabpharm-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54467,7 +54467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-mabwell-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -54498,7 +54498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-mabwell-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -55843,7 +55843,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-micot-pharma-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -55874,7 +55874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-micot-pharma-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -55992,7 +55992,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-microport-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -56023,7 +56023,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-microport-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56580,7 +56580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-mirxes-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -56611,7 +56611,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-mirxes-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -57584,7 +57584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-mp-cardioflow-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -57615,7 +57615,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-mp-cardioflow-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59232,54 +59232,54 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。；公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
-        "summaryOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment. Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.",
+        "summary": "公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。；公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
+        "summaryOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline. Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "This innovative compound is being developed as part of Nurix’s immuno-oncology program and is currently being evaluated in advanced malignancies.",
+            "text": "This innovative compound is being developed as part of Nurix’s immuno-oncology program and is currently being evaluated in advanced malignancies.",
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "While BTK inhibitors have shown clinical success, drug resistance often emerges due to acquired mutations in BTK.",
+            "text": "While BTK inhibitors have shown clinical success, drug resistance often emerges due to acquired mutations in BTK.",
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies.",
+            "text": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies.",
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "CBL-B achieves this immunosuppressive effect through the degradation of specific inhibitory signaling proteins downstream of the T cell receptor.",
+            "text": "CBL-B achieves this immunosuppressive effect through the degradation of specific inhibitory signaling proteins downstream of the T cell receptor.",
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BTK is a master regulator of B-cell activity and is a clinically validated target for hematologic malignancies.",
+            "text": "BTK is a master regulator of B-cell activity and is a clinically validated target for hematologic malignancies.",
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
             "text": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
-            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
-            "text": "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
-            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-            "text": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
-            "text": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
-            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-            "text": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-            "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
-            "text": "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
             "evidenceId": "evidence-company-nurix-official-0877e0b798d7",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
@@ -59288,10 +59288,10 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-nurix-pipeline-ca9c05c3bb02",
           "evidence-company-nurix-official-0877e0b798d7",
           "evidence-sec-0001549595-000154959526000049",
           "evidence-sec-0001549595-000154959526000048",
-          "evidence-company-nurix-pipeline-7b77631d8ff4",
           "evidence-sec-0001549595-000154959526000040",
           "evidence-sec-0001549595-000154959526000038"
         ]
@@ -59299,6 +59299,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "date": "2026-10-15",
+            "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/"
+          },
           {
             "id": "event-evidence-company-nurix-official-0877e0b798d7",
             "date": "2026-10-14",
@@ -59333,17 +59344,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
           },
           {
-            "id": "event-evidence-company-nurix-pipeline-7b77631d8ff4",
-            "date": "2026-08-10",
-            "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-nurix-pipeline-7b77631d8ff4",
-            "sourceUrl": "https://www.nurixtx.com/pipeline/"
-          },
-          {
             "id": "event-sec-0001549595-000154959526000040",
             "date": "2026-07-09",
             "title": "Nurix Therapeutics filed Form 10-Q",
@@ -59367,7 +59367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-10-14",
+        "lastEvidenceDate": "2026-10-15",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59375,6 +59375,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-nurix-pipeline-ca9c05c3bb02",
+          "date": "2026-10-15",
+          "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+          "sourceUrl": "https://www.nurixtx.com/pipeline/"
+        },
         {
           "id": "event-evidence-company-nurix-official-0877e0b798d7",
           "date": "2026-10-14",
@@ -59407,17 +59418,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001549595-000154959526000048",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
-        },
-        {
-          "id": "event-evidence-company-nurix-pipeline-7b77631d8ff4",
-          "date": "2026-08-10",
-          "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-nurix-pipeline-7b77631d8ff4",
-          "sourceUrl": "https://www.nurixtx.com/pipeline/"
         },
         {
           "id": "event-sec-0001549595-000154959526000040",
@@ -60245,7 +60245,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-ocumension-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -60276,7 +60276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-ocumension-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -61818,7 +61818,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-pegbio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -61849,7 +61849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-pegbio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -61967,7 +61967,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-peijia-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -61998,7 +61998,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-peijia-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -63737,7 +63737,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-qyuns-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -63768,7 +63768,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-qyuns-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -64162,7 +64162,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-recbio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64193,7 +64193,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-recbio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -64316,7 +64316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-pipeline-949dcf6f0c4e",
             "date": "2026-10-07",
             "title": "Recursion's Drug Discovery Pipeline | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64394,7 +64394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-pipeline-949dcf6f0c4e",
           "date": "2026-10-07",
           "title": "Recursion's Drug Discovery Pipeline | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -65573,7 +65573,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-ribolife-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -65604,7 +65604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-ribolife-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -66293,7 +66293,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-sbp-group-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -66324,7 +66324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-sbp-group-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -67396,7 +67396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-simcere-pharma-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -67427,7 +67427,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-simcere-pharma-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -67643,7 +67643,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-sinomab-bio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -67674,7 +67674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-sinomab-bio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -67792,7 +67792,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-sinopharm-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -67823,7 +67823,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-sinopharm-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -67941,7 +67941,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-sirnaomics-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -67972,7 +67972,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-sirnaomics-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68090,7 +68090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-skb-bio-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -68121,7 +68121,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-skb-bio-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68806,7 +68806,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
             "date": "2026-10-07",
             "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -68848,7 +68848,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
           "date": "2026-10-07",
           "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68977,7 +68977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-sunho-bio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -69008,7 +69008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-sunho-bio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -70316,7 +70316,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-tennor-therap-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -70347,7 +70347,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-tennor-therap-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -70719,7 +70719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-th-medical-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -70750,7 +70750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-th-medical-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -70995,7 +70995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-transcenta-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -71026,7 +71026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-transcenta-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -71144,7 +71144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-transthera-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -71175,7 +71175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-transthera-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -71896,7 +71896,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-tyk-medicines-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -71927,7 +71927,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-tyk-medicines-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -72045,7 +72045,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-united-lab-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -72076,7 +72076,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-united-lab-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -72702,7 +72702,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-venus-medtech-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -72733,7 +72733,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-venus-medtech-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -72978,7 +72978,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-vigonvita-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -73009,7 +73009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-vigonvita-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -73476,7 +73476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-visen-pharma-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -73507,7 +73507,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-visen-pharma-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -74260,7 +74260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-weigao-group-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -74291,7 +74291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-weigao-group-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -74536,7 +74536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-wuxi-apptec-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -74567,7 +74567,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-wuxi-apptec-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -74685,7 +74685,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-wuxi-bio-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -74716,7 +74716,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-wuxi-bio-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -74834,7 +74834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-wuxi-xdc-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -74865,7 +74865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-wuxi-xdc-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -75279,7 +75279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-xuanzhubio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75310,7 +75310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-xuanzhubio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -75428,7 +75428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-yzybio-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75459,7 +75459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-yzybio-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -75577,7 +75577,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-zai-lab-official-339ae1ac3a74",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75608,7 +75608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-zai-lab-official-339ae1ac3a74",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -75853,7 +75853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-zhaoke-ophth-official-0dd2a5ec14f1",
             "date": "2026-10-07",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -75884,7 +75884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-zhaoke-ophth-official-0dd2a5ec14f1",
           "date": "2026-10-07",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -76220,6 +76220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76232,6 +76233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76322,6 +76324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76334,6 +76337,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76424,6 +76428,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76436,6 +76441,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76526,6 +76532,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76538,6 +76545,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76628,6 +76636,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76640,6 +76649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76730,6 +76740,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76742,6 +76753,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76832,6 +76844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76844,6 +76857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76934,6 +76948,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -76946,6 +76961,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77036,6 +77052,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77048,6 +77065,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77138,6 +77156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77150,6 +77169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77240,6 +77260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77252,6 +77273,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77342,6 +77364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77354,6 +77377,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77444,6 +77468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77456,6 +77481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77546,6 +77572,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77558,6 +77585,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77648,6 +77676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77660,6 +77689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77750,6 +77780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77762,6 +77793,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77852,6 +77884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77864,6 +77897,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77954,6 +77988,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -77966,6 +78001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78056,6 +78092,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78068,6 +78105,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78158,6 +78196,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78170,6 +78209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78260,6 +78300,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78272,6 +78313,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78362,6 +78404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78374,6 +78417,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78464,6 +78508,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78476,6 +78521,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78566,6 +78612,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78578,6 +78625,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78668,6 +78716,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78680,6 +78729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78770,6 +78820,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78782,6 +78833,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78872,6 +78924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78884,6 +78937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78974,6 +79028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -78986,6 +79041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79076,6 +79132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79088,6 +79145,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79178,6 +79236,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79190,6 +79249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79280,6 +79340,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79292,6 +79353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79382,6 +79444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79394,6 +79457,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79484,6 +79548,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79496,6 +79561,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79586,6 +79652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79598,6 +79665,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79688,6 +79756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79700,6 +79769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79790,6 +79860,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79802,6 +79873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79892,6 +79964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79904,6 +79977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -79994,6 +80068,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80006,6 +80081,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80096,6 +80172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80108,6 +80185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80198,6 +80276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80210,6 +80289,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80300,6 +80380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80312,6 +80393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80402,6 +80484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80414,6 +80497,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80504,6 +80588,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80516,6 +80601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80606,6 +80692,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80618,6 +80705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80708,6 +80796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80720,6 +80809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80810,6 +80900,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80822,6 +80913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80912,6 +81004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -80924,6 +81017,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -81014,6 +81108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -81026,6 +81121,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -81116,6 +81212,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -81128,6 +81225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
