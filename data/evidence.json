@@ -4,6 +4,140 @@
   "asOfDate": "2026-10-15",
   "evidence": [
     {
+      "id": "evidence-pubmed-42876279",
+      "signalId": "pubmed-42876279",
+      "companyIds": [
+        "mimetas"
+      ],
+      "publishedAt": "2026-10-15",
+      "snapshotDate": "2026-10-15",
+      "title": "New approach methodologies in nanomedicine: bridging the gap between in silico, in vitro, and in vivo systems.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876279/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Chemical Society reviews，PMID 为 42876279。",
+      "report": "The rise of nanomedicine has led to the regulatory approval of more than 80 nanoparticle (NP)-based therapeutics over the past two decades. Further advancement in the field requires a deeper understanding of the nano-bio interface of NPs, including their uptak...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42876326",
+      "signalId": "pubmed-42876326",
+      "companyIds": [],
+      "publishedAt": "2026-10-15",
+      "snapshotDate": "2026-10-15",
+      "title": "Advancing colorectal cancer management through clinical proteomics: from genotype to proteotype toward clinical translation.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of proteomics，PMID 为 42876326。",
+      "report": "Colorectal cancer (CRC) is one of the leading causes of cancer death worldwide, with outcomes depending on the stages at diagnosis. Genomic and transcriptomic classifications are largely inferential because the genotype-phenotype relationship is non-linear and...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42875723",
+      "signalId": "pubmed-42875723",
+      "companyIds": [],
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-15",
+      "title": "Animal Models of Slow-Transit Constipation: Current Progress, Limitations, and Future Perspectives.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875723/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Digestive diseases and sciences，PMID 为 42875723。",
+      "report": "Slow-transit constipation (STC) is a subtype of chronic constipation characterized by delayed colonic transit without obstructive defecation. Because in vivo human experimentation is constrained, animal models remain the primary tool for probing STC pathogenes...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42875645",
+      "signalId": "pubmed-42875645",
+      "companyIds": [],
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-15",
+      "title": "A review on MMP-2 modulating agents from natural and synthetic sources and their role in inflammatory bowel disease.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875645/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42875645。",
+      "report": "Inflammatory bowel disease (IBD), encompassing Crohn's disease and ulcerative colitis, is characterized by chronic intestinal inflammation, epithelial barrier dysfunction, immune dysregulation, and aberrant extracellular matrix (ECM) remodeling. Matrix metallo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42874986",
       "signalId": "pubmed-42874986",
       "companyIds": [],
@@ -92,96 +226,6 @@
       ],
       "fact": "PubMed 记录显示该文献收录于 Molecular cell，PMID 为 42874584。",
       "report": "Stimulator of interferon genes (STING) has been implicated in multiple forms of cell death. However, the effector kinases that couple STING to these death programs remain poorly defined. Here, we show that during lung ischemia-reperfusion injury, mitochondrial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42874573",
-      "signalId": "pubmed-42874573",
-      "companyIds": [],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-15",
-      "title": "More than fuel: Metabolic states shape cell fate in the human neocortex.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42874573/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Developmental cell，PMID 为 42874573。",
-      "report": "Do metabolic changes follow cell fate decisions during human corticogenesis, or do they actively specify them? Publishing in Cell, Mil et al.1 combine primary human cortical tissue and cortical organoids to reveal developmentally regulated metabolic states and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42873839",
-      "signalId": "pubmed-42873839",
-      "companyIds": [],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-15",
-      "title": "ACKR3 Establishes a Squamous-Restricted Immune Checkpoint Axis in Lung Squamous Cell Carcinoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873839/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42873839。",
-      "report": "Lung squamous cell carcinoma (LUSC) is an aggressive subtype of non-small cell lung cancer with limited targeted therapeutic options and incompletely defined immune-regulatory dependencies. Here, we identified atypical chemokine receptor 3 (ACKR3) as a squamou...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42873831",
-      "signalId": "pubmed-42873831",
-      "companyIds": [],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-15",
-      "title": "Cellular diversity in neural organoids is critical for neurodegenerative disease modeling.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873831/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 PLoS biology，PMID 为 42873831。",
-      "report": "Neuroinflammation and vascular dysfunction are hallmarks of most neurodegenerative diseases. For organoids intended to model neurodegeneration, immune, and vascular cells should therefore be considered fundamental components, rather than optional additions.",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -277,6 +321,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "evidence-pubmed-42875857",
+      "signalId": "pubmed-42875857",
+      "companyIds": [],
+      "publishedAt": "2026-10-14",
+      "snapshotDate": "2026-10-15",
+      "title": "Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes.",
+      "eventType": "Clinical Study",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875857/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42875857。",
+      "report": "Degenerative musculoskeletal disorders, including osteoarthritis (OA), intervertebral disc degeneration (IVDD), and osteoporosis (OP), are increasingly viewed as disorders of mitochondrial quality control (MQC) rather than passive mechanical wear. The MQC netw...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-pubmed-42874568",
       "signalId": "pubmed-42874568",
       "companyIds": [],
@@ -362,36 +440,6 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42873577。",
       "report": "We analyzed whether changes in RB1 circulating tumor DNA (ctDNA) variant allele frequency (VAF) in plasma and/or cerebrospinal fluid (CSF) was associated with clinical outcomes in patients with retinoblastoma (RB). We reviewed all RB patients treated at MSKCC...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42872306",
-      "signalId": "pubmed-42872306",
-      "companyIds": [],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-15",
-      "title": "Extracellular Vesicles: Emerging Players in Tumor Progression, Diagnosis, and Therapeutic Applications.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872306/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42872306。",
-      "report": "Extracellular vesicles (EVs) are emerging as critical players in oncology and also exert vital regulatory effects on exercise-induced muscle injury repair, offering novel insights into tumor biology. Tumor-derived EVs facilitate intercellular communication by...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -855,38 +903,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42871461。",
       "report": "Accelerating the identification of viable drug candidates across therapeutic areas demands autonomous systems for molecular generation that enforce chemical correctness by structural invariants rather than model capability. We present MolecureAI, an autonomous...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42871728",
-      "signalId": "pubmed-42871728",
-      "companyIds": [],
-      "publishedAt": "2026-09-29",
-      "snapshotDate": "2026-10-15",
-      "title": "GAN-enhanced digital twins for biomarker-guided cancer immunotherapy and adoptive cell therapy: a mini review.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871728/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42871728。",
-      "report": "Cancer immunotherapy and adoptive cell therapy have transformed modern oncology, yet durable benefits remain limited by tumor heterogeneity, immune escape mechanisms, biomarker variability, and the dynamic remodeling of the tumor immune microenvironment. Curre...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

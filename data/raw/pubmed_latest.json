@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-15T04:48:24.323251+00:00",
+  "capturedAt": "2026-10-15T11:37:51.223800+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-15"
   },
   "pmids": [
+    "42876279",
+    "42875723",
+    "42875645",
     "42874986",
     "42874591",
     "42874584",
-    "42874573",
-    "42873839",
-    "42873831",
     "42865067",
     "42860076",
     "42852178",
@@ -32,14 +32,69 @@
     "42869909",
     "42869456",
     "42864397",
+    "42876326",
+    "42875857",
     "42874568",
     "42874012",
     "42873577",
-    "42872949",
-    "42872306",
-    "42871728"
+    "42872949"
   ],
   "records": [
+    {
+      "pmid": "42876279",
+      "title": "New approach methodologies in nanomedicine: bridging the gap between in silico, in vitro, and in vivo systems.",
+      "abstract": "The rise of nanomedicine has led to the regulatory approval of more than 80 nanoparticle (NP)-based therapeutics over the past two decades. Further advancement in the field requires a deeper understanding of the nano-bio interface of NPs, including their uptake, delivery, efficacy, toxicity, and adverse effects. Despite the heavy reliance on conventional cell cultures for NP screening, these models do not recapitulate the in vivo microenvironment, complexity, and physiological responses; hence, follow-up animal studies are required. Nonetheless, because of species-specific differences and ethical concerns around animal studies, developing alternative platforms has become critical. To address these issues, 3D cell culture models such as organoids, spheroids, and organ-on-chip systems have emerged to bridge the gap between in vitro and in vivo systems. Because they better represent cell interactions, gene expression, nutrient gradients, and tissue-specific functions, 3D models also align with the U.S. FDA's promotion of new approach methodologies (NAMs) to reduce animal testing. This review covers examples of organic and inorganic NPs tested in 3D models and discusses organ-specific NAMs, considering their advantages and limitations. The review also highlights how 3D models improve NP evaluation for drug delivery, toxicity, and targeted therapy, and provides a coherent NAMs toolbox for developing in silico methods for NP assessment. Future perspectives are introduced to underscore the importance of integrating in silico NAMs and 3D models to complement in vivo models for advancing precision medicine and improving the translational potential of complex drug products containing nanotechnology.",
+      "journal": "Chemical Society reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Chemistry and Nanoscale Science Program, Department of Chemistry, University of North Carolina at Charlotte, Charlotte, NC 28223, USA. kafonin@charlotte.edu.",
+        "MIMETAS US, Gaithersburg, MD 20878, USA.",
+        "Nanotechnology Characterization Laboratory, Cancer Research Technology Program, Frederick National Laboratory for Cancer Research, Frederick, MD 21701, USA. marina@mail.nih.gov.",
+        "National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, MD, 20850, USA.",
+        "Center for Translational Research in Oncology (LIM/24), Instituto do Cancer do Estado de Sao Paulo, Hospital das Clinicas HCFMUSP, Faculdade de Medicina, Universidade de São Paulo, São Paulo 01246-000, Brazil.",
+        "Comprehensive Center for Precision Oncology (C2PO), Universidade de São Paulo, São Paulo 01246-000, Brazil."
+      ],
+      "doi": "10.1039/d6cs01323f",
+      "date": "2026-10-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876279/"
+    },
+    {
+      "pmid": "42875723",
+      "title": "Animal Models of Slow-Transit Constipation: Current Progress, Limitations, and Future Perspectives.",
+      "abstract": "Slow-transit constipation (STC) is a subtype of chronic constipation characterized by delayed colonic transit without obstructive defecation. Because in vivo human experimentation is constrained, animal models remain the primary tool for probing STC pathogenesis and testing therapies, yet no unified framework exists for judging howwell current models reproduce human disease. This review systematically appraises the reported STC animal models against a single validity framework and identifies design criteria for the next generation of models. We reviewed pharmacological agent-induced models (loperamide, diphenoxylate, alosetron, morphine, atropine), a physical stimulus model (ice-water gavage), surgical models (rectal distension, partial outlet obstruction, chemical ablation of the enteric plexus), and a naturally occurring inbred strain (the CFP/Yit mouse), and appraised each using the Face-Construct-Predictive validity framework. Existing models show substantial gaps in face validity (drug-withdrawal-dependent, self-limiting constipation rather than chronic progressive dysmotility), construct validity (few reproduce enteric glial cell loss, enteric neuronde generation, interstitial cell of Cajal depletion, and inflammatory infiltration), and predictive validity (induction agents confound therapeutic readouts). Advances in enteric glial biology, microbiota-short-chain fatty acid-motility signalling, single-cell transcriptomics of enteric glia, and genetic susceptibility point toward transgenic, pelvic-nerve-intervention, selective enteric glial ablation, and organoid-enteric nervous system co-culture designs, with sex-stratified evaluation and systematic clinical translation studies. The Face-Construct-Predictive framework exposes the translational shortfall of current STC animal models and defines concrete design criteria for clinically relevant successors, guiding model selection and prioritizing future research.",
+      "journal": "Digestive diseases and sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Colorectal Surgery, the Second Affiliated Hospital of Zhejiang University School of Medicine, Zhejiang Province, Hangzhou, China.",
+        "Department of Colorectal Surgery, the Second Affiliated Hospital of Zhejiang University School of Medicine, Zhejiang Province, Hangzhou, China. 2307016@zju.edu.cn."
+      ],
+      "doi": "10.1007/s10620-026-10270-8",
+      "date": "2026-10-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875723/"
+    },
+    {
+      "pmid": "42875645",
+      "title": "A review on MMP-2 modulating agents from natural and synthetic sources and their role in inflammatory bowel disease.",
+      "abstract": "Inflammatory bowel disease (IBD), encompassing Crohn's disease and ulcerative colitis, is characterized by chronic intestinal inflammation, epithelial barrier dysfunction, immune dysregulation, and aberrant extracellular matrix (ECM) remodeling. Matrix metalloproteinase-2 (MMP-2), a zinc-dependent gelatinase, has emerged as a critical regulator of intestinal homeostasis owing to its dual role in tissue repair and inflammatory tissue destruction. Unlike several inducible matrix metalloproteinases, MMP-2 is constitutively expressed and tightly regulated through interactions with membrane-type MMPs, tissue inhibitors of metalloproteinases (TIMPs), cytokines, redox signalling, and microbial factors. Dysregulated MMP-2 activity contributes to epithelial barrier disruption, leukocyte infiltration, chronic inflammation, fibrosis, and disease progression in IBD. This review summarizes the current understanding of MMP-2 biology, activation mechanisms, and immunopharmacological functions in intestinal inflammation, while critically evaluating therapeutic strategies aimed at its modulation. Particular emphasis is placed on natural and synthetic MMP-2 modulators, including animal-derived peptides and endogenous inhibitors, plant-derived polyphenols, flavonoids, alkaloids, terpenoids, and rationally designed small-molecule and peptidomimetic inhibitors. Emerging nanocarrier-based and targeted delivery systems are also discussed as approaches to enhance selectivity and minimize systemic toxicity. Furthermore, the review highlights the limitations of broad-spectrum MMP inhibition and underscores the need for site-specific modulation that preserves physiological tissue remodeling while suppressing pathological activity. Advances in precision medicine, single-cell and spatial transcriptomics, organoid-based disease models, and microbiome-informed therapeutic strategies are expected to facilitate the development of next-generation MMP-2-targeted interventions. Collectively, MMP-2 represents a promising yet complex therapeutic target whose successful modulation may improve long-term outcomes in IBD.",
+      "journal": "Inflammopharmacology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Biopharmaceuticals Lab, Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu, 603203, India.",
+        "Biopharmaceuticals Lab, Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu, 603203, India. nazeerr@srmist.edu.in."
+      ],
+      "doi": "10.1007/s10787-026-02427-8",
+      "date": "2026-10-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875645/"
+    },
     {
       "pmid": "42874986",
       "title": "Repurposing antimalarial drug atovaquone in combination with radiation and PD-L1 checkpoint blockade to enhance antitumour response in head and neck squamous cell carcinoma (HNSCC).",
@@ -101,69 +156,6 @@
       "doi": "10.1016/j.molcel.2026.09.024",
       "date": "2026-10-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42874584/"
-    },
-    {
-      "pmid": "42874573",
-      "title": "More than fuel: Metabolic states shape cell fate in the human neocortex.",
-      "abstract": "Do metabolic changes follow cell fate decisions during human corticogenesis, or do they actively specify them? Publishing in Cell, Mil et al.1 combine primary human cortical tissue and cortical organoids to reveal developmentally regulated metabolic states and show that glycolysis and pentose phosphate pathway activity shape radial glia fate decisions.",
-      "journal": "Developmental cell",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Stem Cell Modeling of Development and Disease Lab, Max Delbrück Center for Molecular Medicine (MDC), Berlin, Germany.",
-        "Stem Cell Modeling of Development and Disease Lab, Max Delbrück Center for Molecular Medicine (MDC), Berlin, Germany; Department of Pediatric Neurology, Charité Universitätsmedizin, Berlin, Germany. Electronic address: mina.gouti@mdc-berlin.de."
-      ],
-      "doi": "10.1016/j.devcel.2026.09.009",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42874573/"
-    },
-    {
-      "pmid": "42873839",
-      "title": "ACKR3 Establishes a Squamous-Restricted Immune Checkpoint Axis in Lung Squamous Cell Carcinoma.",
-      "abstract": "Lung squamous cell carcinoma (LUSC) is an aggressive subtype of non-small cell lung cancer with limited targeted therapeutic options and incompletely defined immune-regulatory dependencies. Here, we identified atypical chemokine receptor 3 (ACKR3) as a squamous-enriched regulator that restrains malignant progression in LUSC. Integrative analyses of human LUSC datasets, autochthonous genetically engineered mouse models, and ex vivo organoid systems showed that ACKR3 loss accelerated tumor growth and remodeled the immune microenvironment, marked by reduced CD8⁺ T cell infiltration and increased T cell exhaustion. Mechanistically, ACKR3 limited activation of the MIF-CD74-PD-L1 axis, thereby constraining tumor-cell PD-L1 expression and preserving antitumor immune surveillance. In preclinical LUSC models, treatment with the ACKR3-directed PD-L1 degrader KineTAC, a bispecific molecule that co-engages ACKR3 and PD-L1 to promote lysosomal degradation of PD-L1, enhanced antitumor efficacy, particularly in combination with chemotherapy. Together, these findings define ACKR3 as a squamous-associated immune checkpoint regulator and nominate ACKR3-directed PD-L1 degradation as a tumor-selective therapeutic strategy for LUSC.",
-      "journal": "Cancer research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "NYU Langone's Laura and Isaac Perlmutter Cancer Center United States.",
-        "University of California, San Francisco United States.",
-        "NYU Langone Health New York, NY United States.",
-        "Northwestern University Chicago, Illinois United States.",
-        "NYU Langone Health New York United States.",
-        "Memorial Sloan Kettering Cancer Center United States.",
-        "NYU Langone Health New York, ny United States.",
-        "New York University New York, ny United States.",
-        "NYU Langone Health New York, New York United States.",
-        "Icahn School of Medicine at Mount Sinai New York, NY United States.",
-        "NYU Langone Health new york, ny United States.",
-        "NYU Langone Health United States.",
-        "New York University New York, NY United States.",
-        "NYU Langone's Laura and Isaac Perlmutter Cancer Center New York, NY United States.",
-        "University of California, San Francisco San Francisco, CA United States.",
-        "New York University Grossman School of Medicine New York, NY United States.",
-        "NYU Langone's Laura and Isaac Perlmutter Cancer Center New York, ny United States."
-      ],
-      "doi": "10.1158/0008-5472.CAN-25-5347",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873839/"
-    },
-    {
-      "pmid": "42873831",
-      "title": "Cellular diversity in neural organoids is critical for neurodegenerative disease modeling.",
-      "abstract": "Neuroinflammation and vascular dysfunction are hallmarks of most neurodegenerative diseases. For organoids intended to model neurodegeneration, immune, and vascular cells should therefore be considered fundamental components, rather than optional additions.",
-      "journal": "PLoS biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Genome Institute of Singapore (GIS), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.",
-        "Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore."
-      ],
-      "doi": "10.1371/journal.pbio.3004074",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873831/"
     },
     {
       "pmid": "42865067",
@@ -386,6 +378,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864397/"
     },
     {
+      "pmid": "42876326",
+      "title": "Advancing colorectal cancer management through clinical proteomics: from genotype to proteotype toward clinical translation.",
+      "abstract": "Colorectal cancer (CRC) is one of the leading causes of cancer death worldwide, with outcomes depending on the stages at diagnosis. Genomic and transcriptomic classifications are largely inferential because the genotype-phenotype relationship is non-linear and is influenced by post-translational regulation, protein turnover, and the tumor microenvironment (TME). Proteomics measures this functional layer directly. This review surveys proteomic technologies for CRC emphasizing mass spectrometry, affinity- and aptamer- based multiplex platforms, post-translational modification proteomics, spatial proteomics, AI-driven structural and predictive analysis, and multi-omics integration. Each platform is evaluated based on clinical questions, the supporting evidence and the barriers to implementation. Literature was drawn primarily from PubMed/MEDLINE and Scopus (2020-2026), emphasizing advanced and translational applications. Alongside approved blood cfDNA and stool-RNA molecular tests, proteomics is a functional complementary technology that may improve biological interpretation, assay triage and treatment response prediction, although prospective clinical utility remains to be established. The decisive barriers are standardized biospecimens, validation evidence, clinical utility data and interoperable public data sharing. (169 words).",
+      "journal": "Expert review of proteomics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "KPJ Healthcare University, Nilai, Malaysia.",
+        "Proteomics and Metabolomics Platform, Research, Innovation, and Enterprise, Monash University Malaysia, Subang Jaya, Malaysia.",
+        "Arcadia Life Sciences, Kuala Lumpur, Malaysia.",
+        "Universiti Sains Islam Malaysia, Nilai, Malaysia.",
+        "Department of Biomedical Sciences, Jeffrey Cheah School of Medicine and Health Sciences, Faculty of Medical and Life Sciences, Sunway University, Petaling Jaya, Malaysia.",
+        "Sunway Microbiome Centre, Faculty of Medical and Life Sciences, Sunway University, Petaling Jaya, Malaysia."
+      ],
+      "doi": "10.1080/14789450.2026.2750129",
+      "date": "2026-10-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876326/"
+    },
+    {
+      "pmid": "42875857",
+      "title": "Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes.",
+      "abstract": "Degenerative musculoskeletal disorders, including osteoarthritis (OA), intervertebral disc degeneration (IVDD), and osteoporosis (OP), are increasingly viewed as disorders of mitochondrial quality control (MQC) rather than passive mechanical wear. The MQC network, comprising mitochondrial dynamics, mitophagy-biogenesis coupling, and inter-organelle communication, organizes the aging-inflammation-metabolism axis. Its collapse releases mtDNA fragments that act as damage-associated molecular patterns (DAMPs) activating innate immunity via cGAS-STING, and metabolic intermediates that remodel the epigenome through histone lactylation, potentially locking acute stress into a \"metabolic memory\", although the mtDNA-methylation component remains hypothesis-level. Multi-omics and cell-free mtDNA liquid biopsy underpin a proposed subtyping into bioenergetic failure, immuno-inflammatory activation, and senescent cell accumulation, still a within-OA hypothesis pending independent and cross-disease validation. Therapy is shifting from symptom management toward organelle medicine, including cardiolipin stabilizers, PROTAC-mediated protein degradation, mitochondrial base editing, and engineered mitochondrial transplantation. Metformin has randomized trial evidence in knee OA pending confirmation, NAD+ precursors are in early clinical testing, and SS-31 holds accelerated approval only for Barth syndrome; other strategies remain preclinical. Delivery barriers and disease heterogeneity require precision stratification, biomimetic models, and AI-driven decision-making. This review delineates the shared molecular logic of the three diseases and proposes a prototype subtyping-to-treatment roadmap pending validation.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Orthopaedics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
+      ],
+      "doi": "10.1002/advs.78309",
+      "date": "2026-10-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875857/"
+    },
+    {
       "pmid": "42874568",
       "title": "Mitotic and meiotic midbody remnants: Divergent architectures with distinct clinical applications.",
       "abstract": "Midbody remnants (MBRs), once considered inert cytokinetic debris, are now recognized as architecturally specialized, translationally active organelles whose functions reflect the mode of cell division. This review compares MBR biology in symmetric somatic mitosis and asymmetric oocyte meiosis. In somatic cells, MBRs can be retained or secreted as large extracellular vesicles that carry midbody proteins, RNAs, and translation machinery; their enrichment in stem and cancer cells implicates them in cell-state regulation and identifies them as promising, though unvalidated, substrates for liquid-biopsy biomarkers and therapeutic targeting. In oocytes, meiotic midbodies form a distinctive ring-cap architecture that concentrates local translation and restricts maternal products to the egg, thereby supporting developmental competence. Together, these studies establish division mode as a key determinant of midbody architecture, cargo, fate, and translational potential, linking cytokinesis to cancer biology and reproductive medicine.",
@@ -476,45 +505,143 @@
       "doi": "10.1167/iovs.67.12.23",
       "date": "2026-10-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872949/"
-    },
-    {
-      "pmid": "42872306",
-      "title": "Extracellular Vesicles: Emerging Players in Tumor Progression, Diagnosis, and Therapeutic Applications.",
-      "abstract": "Extracellular vesicles (EVs) are emerging as critical players in oncology and also exert vital regulatory effects on exercise-induced muscle injury repair, offering novel insights into tumor biology. Tumor-derived EVs facilitate intercellular communication by carrying bioactive molecules such as proteins and nucleic acids, which reshape the tumor microenvironment and enhance tumor invasion, metastasis, and drug resistance. Conversely, specific subsets of EVs, particularly those derived from dendritic cells or engineered to present tumor antigens, can elicit antitumor immune responses by activating cytotoxic T lymphocytes and facilitating antigen cross-presentation. Clinically, the high stability of EVs in body fluids, coupled with their intrinsic capacity to encapsulate and protect tumor-derived molecular cargo, positions them as robust noninvasive biomarkers for early cancer diagnosis and prognostic stratification, as well as indicators for evaluating muscle recovery status after exercise. Additionally, EVs function as drug delivery carriers, offering advantages like biocompatibility, low immunogenicity, and targeting capabilities. However, challenges remain in EVs isolation, characterization, and scalable production, with inconsistent techniques affecting purity, structure, and biological activity. Moreover, limited understanding of EVs mechanisms, such as their role in immune modulation and drug delivery efficiency, hinders broader clinical translation across oncology and musculoskeletal rehabilitation. Addressing these issues requires advances in standardization, scalable manufacturing, and extensive clinical trials to ensure its safety and efficacy. Despite these challenges, EVs hold immense promise as transformative tools in precision oncology and sports rehabilitation, paving the way for innovative diagnostics, therapies, and improving patient and athletic outcomes in the fight against cancer and exercise-related muscle damage.",
-      "journal": "ACS biomaterials science & engineering",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Sports, Shenyang Ligong University, Shenyang110159, China.",
-        "School of Information Science and Engineering, Shenyang Ligong University, Shenyang110159, China.",
-        "School of Mathematics and Statistics, Liaoning University, Shenyang110036, China.",
-        "Department of Oral and Maxillofacial Surgery, Taikang Bybo Dental, Beijing100062, China.",
-        "Department of Anesthesiology, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan030013, China.",
-        "Department of Anesthesiology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing100021, China."
-      ],
-      "doi": "10.1021/acsbiomaterials.6c00978",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872306/"
-    },
-    {
-      "pmid": "42871728",
-      "title": "GAN-enhanced digital twins for biomarker-guided cancer immunotherapy and adoptive cell therapy: a mini review.",
-      "abstract": "Cancer immunotherapy and adoptive cell therapy have transformed modern oncology, yet durable benefits remain limited by tumor heterogeneity, immune escape mechanisms, biomarker variability, and the dynamic remodeling of the tumor immune microenvironment. Current biomarker strategies, including PD-L1 (programmed death-ligand 1) expression, microsatellite instability (MSI), tumor mutational burden (TMB), immune gene signatures, liquid biopsy measurements, and target antigen profiles, provide clinically useful information but are often static and insufficient to capture longitudinal tumor-immune-therapy interactions. Digital twin technology offers a computational paradigm for integrating multi-omics, immune profiling, clinical variables, imaging, and treatment-response data into patient-linked virtual models. Generative artificial intelligence, including generative adversarial networks (GANs), may enrich sparse biomarker-defined state spaces and support the simulation of underrepresented treatment response or toxicity trajectories. This mini review critically compares mechanistic quantitative systems pharmacology, spatial and agent-based modeling, data-driven prediction, and emerging digital twin approaches and proposes a platform-agnostic architecture that can be implemented in MATLAB/Simulink or other computational environments. The adoptive cell therapy scope focuses on chimeric antigen receptor T-cell (CAR-T), chimeric antigen receptor natural killer cell (CAR-NK), and T-cell receptor-engineered T-cell (TCR-T) therapies, with related principles applicable to tumor-infiltrating lymphocyte (TIL) therapy. We describe conditional and longitudinal GAN strategies, dynamic tumor-immune state modeling, biomarker integration, validation metrics, governance, and prospective implementation pathways. The proposed framework is conceptual and has not yet been clinically validated; synthetic data are treated as methodological support rather than clinical evidence. Its intended near-term uses are hypothesis generation, virtual-cohort enrichment, trial design, and uncertainty-aware decision support.",
-      "journal": "Frontiers in medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Shandong University of Technology, Zibo, Shandong, China."
-      ],
-      "doi": "10.3389/fmed.2026.1894314",
-      "date": "2026-09-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871728/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42876279",
+      "date": "2026-10-15",
+      "title": "New approach methodologies in nanomedicine: bridging the gap between in silico, in vitro, and in vivo systems.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876279/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [
+        "mimetas"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Chemical Society reviews，PMID 为 42876279。",
+      "report": "The rise of nanomedicine has led to the regulatory approval of more than 80 nanoparticle (NP)-based therapeutics over the past two decades. Further advancement in the field requires a deeper understanding of the nano-bio interface of NPs, including their uptak...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42876326",
+      "date": "2026-10-15",
+      "title": "Advancing colorectal cancer management through clinical proteomics: from genotype to proteotype toward clinical translation.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42876326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of proteomics，PMID 为 42876326。",
+      "report": "Colorectal cancer (CRC) is one of the leading causes of cancer death worldwide, with outcomes depending on the stages at diagnosis. Genomic and transcriptomic classifications are largely inferential because the genotype-phenotype relationship is non-linear and...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42875723",
+      "date": "2026-10-14",
+      "title": "Animal Models of Slow-Transit Constipation: Current Progress, Limitations, and Future Perspectives.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875723/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Digestive diseases and sciences，PMID 为 42875723。",
+      "report": "Slow-transit constipation (STC) is a subtype of chronic constipation characterized by delayed colonic transit without obstructive defecation. Because in vivo human experimentation is constrained, animal models remain the primary tool for probing STC pathogenes...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42875645",
+      "date": "2026-10-14",
+      "title": "A review on MMP-2 modulating agents from natural and synthetic sources and their role in inflammatory bowel disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875645/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Inflammopharmacology，PMID 为 42875645。",
+      "report": "Inflammatory bowel disease (IBD), encompassing Crohn's disease and ulcerative colitis, is characterized by chronic intestinal inflammation, epithelial barrier dysfunction, immune dysregulation, and aberrant extracellular matrix (ECM) remodeling. Matrix metallo...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42874986",
       "date": "2026-10-14",
@@ -604,96 +731,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Molecular cell，PMID 为 42874584。",
       "report": "Stimulator of interferon genes (STING) has been implicated in multiple forms of cell death. However, the effector kinases that couple STING to these death programs remain poorly defined. Here, we show that during lung ischemia-reperfusion injury, mitochondrial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42874573",
-      "date": "2026-10-14",
-      "title": "More than fuel: Metabolic states shape cell fate in the human neocortex.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42874573/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Developmental cell，PMID 为 42874573。",
-      "report": "Do metabolic changes follow cell fate decisions during human corticogenesis, or do they actively specify them? Publishing in Cell, Mil et al.1 combine primary human cortical tissue and cortical organoids to reveal developmentally regulated metabolic states and...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42873839",
-      "date": "2026-10-14",
-      "title": "ACKR3 Establishes a Squamous-Restricted Immune Checkpoint Axis in Lung Squamous Cell Carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873839/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research，PMID 为 42873839。",
-      "report": "Lung squamous cell carcinoma (LUSC) is an aggressive subtype of non-small cell lung cancer with limited targeted therapeutic options and incompletely defined immune-regulatory dependencies. Here, we identified atypical chemokine receptor 3 (ACKR3) as a squamou...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42873831",
-      "date": "2026-10-14",
-      "title": "Cellular diversity in neural organoids is critical for neurodegenerative disease modeling.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42873831/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PLoS biology，PMID 为 42873831。",
-      "report": "Neuroinflammation and vascular dysfunction are hallmarks of most neurodegenerative diseases. For organoids intended to model neurodegeneration, immune, and vascular cells should therefore be considered fundamental components, rather than optional additions.",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -789,6 +826,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42875857",
+      "date": "2026-10-14",
+      "title": "Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42875857/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42875857。",
+      "report": "Degenerative musculoskeletal disorders, including osteoarthritis (OA), intervertebral disc degeneration (IVDD), and osteoporosis (OP), are increasingly viewed as disorders of mitochondrial quality control (MQC) rather than passive mechanical wear. The MQC netw...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42874568",
       "date": "2026-10-14",
       "title": "Mitotic and meiotic midbody remnants: Divergent architectures with distinct clinical applications.",
@@ -874,36 +945,6 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical cancer research : an official journal of the American Association for Cancer Research，PMID 为 42873577。",
       "report": "We analyzed whether changes in RB1 circulating tumor DNA (ctDNA) variant allele frequency (VAF) in plasma and/or cerebrospinal fluid (CSF) was associated with clinical outcomes in patients with retinoblastoma (RB). We reviewed all RB patients treated at MSKCC...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42872306",
-      "date": "2026-10-14",
-      "title": "Extracellular Vesicles: Emerging Players in Tumor Progression, Diagnosis, and Therapeutic Applications.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42872306/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS biomaterials science & engineering，PMID 为 42872306。",
-      "report": "Extracellular vesicles (EVs) are emerging as critical players in oncology and also exert vital regulatory effects on exercise-induced muscle injury repair, offering novel insights into tumor biology. Tumor-derived EVs facilitate intercellular communication by...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1088,38 +1129,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42871461。",
       "report": "Accelerating the identification of viable drug candidates across therapeutic areas demands autonomous systems for molecular generation that enforce chemical correctness by structural invariants rather than model capability. We present MolecureAI, an autonomous...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42871728",
-      "date": "2026-09-29",
-      "title": "GAN-enhanced digital twins for biomarker-guided cancer immunotherapy and adoptive cell therapy: a mini review.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871728/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 42871728。",
-      "report": "Cancer immunotherapy and adoptive cell therapy have transformed modern oncology, yet durable benefits remain limited by tumor heterogeneity, immune escape mechanisms, biomarker variability, and the dynamic remodeling of the tumor immune microenvironment. Curre...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
