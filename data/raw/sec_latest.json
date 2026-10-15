@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-15T11:38:00.550153+00:00",
+  "capturedAt": "2026-10-15T17:06:45.753948+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-01",
@@ -139,6 +139,81 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-10-15",
+      "reportDate": "2026-10-15",
+      "acceptanceDateTime": "2026-10-15T12:46:40.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-40323",
+      "filmNumber": "261461468",
+      "items": "1.01,2.02,7.01,8.01,9.01",
+      "size": 8373256,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "rxrx-20261015.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001601830-26-000128",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm"
+    },
+    {
+      "filingDate": "2026-10-15",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-10-15T12:19:50.000Z",
+      "act": "33",
+      "form": "424B5",
+      "fileNumber": "333-284878",
+      "filmNumber": "261461392",
+      "items": "",
+      "size": 776540,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "rxrx-prelimprosuppxoct2026.htm",
+      "primaryDocDescription": "424B5",
+      "accessionNumber": "0001601830-26-000126",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000126/rxrx-prelimprosuppxoct2026.htm"
+    },
+    {
+      "filingDate": "2026-10-15",
+      "reportDate": "2026-10-15",
+      "acceptanceDateTime": "2026-10-15T12:00:20.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-39307",
+      "filmNumber": "261461368",
+      "items": "",
+      "size": 16705,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "f6k_101426.htm",
+      "primaryDocDescription": "FORM 6-K",
+      "accessionNumber": "0001171843-26-006646",
+      "companyId": "legend-biotech",
+      "companyName": "Legend Biotech",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "LEGN",
+      "cik": "0001801198",
+      "secName": "Legend Biotech Corp",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm"
+    },
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-10-13",
@@ -341,6 +416,99 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001601830-000160183026000128",
+      "date": "2026-10-15",
+      "title": "Recursion Pharmaceuticals filed Form 8-K",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000128 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-10-15.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001601830-000160183026000126",
+      "date": "2026-10-15",
+      "title": "Recursion Pharmaceuticals filed Form 424B5",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000126/rxrx-prelimprosuppxoct2026.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "424B5",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000126 for Recursion Pharmaceuticals, Form 424B5, filed on 2026-10-15.",
+      "report": "SEC metadata describes the primary document as: 424B5.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001801198-000117184326006646",
+      "date": "2026-10-15",
+      "title": "Legend Biotech filed Form 6-K",
+      "entity": "Legend Biotech",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "LEGN"
+      ],
+      "companyIds": [
+        "legend-biotech"
+      ],
+      "fact": "SEC EDGAR lists accession 0001171843-26-006646 for Legend Biotech, Form 6-K, filed on 2026-10-15.",
+      "report": "SEC metadata describes the primary document as: FORM 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001110803-000111080326000195",
       "date": "2026-10-13",

@@ -52800,6 +52800,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-10-15",
+            "title": "Legend Biotech filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-10-13",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm",
@@ -52851,14 +52859,6 @@
             "date": "2026-08-11",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000022/legn-20260630.htm",
-            "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-08-06",
-            "title": "Legend Biotech filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005318/f6k_080526.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -52935,6 +52935,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001801198-000117184326006646",
           "evidence-sec-0001801198-000117184326006593",
           "evidence-company-legend-biotech-official-98042f73bcaa",
           "evidence-sec-0001801198-000117184326006229",
@@ -52970,6 +52971,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001801198-000117184326006646",
+            "date": "2026-10-15",
+            "title": "Legend Biotech filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001801198-000117184326006646",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm"
+          },
           {
             "id": "event-sec-0001801198-000117184326006593",
             "date": "2026-10-13",
@@ -53013,17 +53025,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001801198-000117184326006215",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm"
-          },
-          {
-            "id": "event-sec-0001801198-000117184326006050",
-            "date": "2026-09-15",
-            "title": "Legend Biotech filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001801198-000117184326006050",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006050/f6k_091526.htm"
           }
         ],
         "inferences": [],
@@ -53034,12 +53035,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 13,
+        "evidenceCount": 14,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 10
+          "Filing": 11
         },
-        "lastEvidenceDate": "2026-10-13",
+        "lastEvidenceDate": "2026-10-15",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -53048,6 +53049,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001801198-000117184326006646",
+          "date": "2026-10-15",
+          "title": "Legend Biotech filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001801198-000117184326006646",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm"
+        },
         {
           "id": "event-sec-0001801198-000117184326006593",
           "date": "2026-10-13",
@@ -53124,17 +53136,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000117184326005623",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm"
-        },
-        {
-          "id": "event-sec-0001801198-000180119826000022",
-          "date": "2026-08-11",
-          "title": "Legend Biotech filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-sec-0001801198-000180119826000022",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000022/legn-20260630.htm"
         }
       ]
     },
@@ -64283,6 +64284,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001601830-000160183026000128",
+          "evidence-sec-0001601830-000160183026000126",
           "evidence-company-recursion-pipeline-949dcf6f0c4e",
           "evidence-company-recursion-official-8d59adfe6c15",
           "evidence-sec-0001601830-000160183026000112",
@@ -64294,6 +64297,28 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001601830-000160183026000128",
+            "date": "2026-10-15",
+            "title": "Recursion Pharmaceuticals filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001601830-000160183026000128",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm"
+          },
+          {
+            "id": "event-sec-0001601830-000160183026000126",
+            "date": "2026-10-15",
+            "title": "Recursion Pharmaceuticals filed Form 424B5",
+            "eventType": "Offering",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001601830-000160183026000126",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000126/rxrx-prelimprosuppxoct2026.htm"
+          },
           {
             "id": "event-evidence-company-recursion-pipeline-949dcf6f0c4e",
             "date": "2026-10-07",
@@ -64326,28 +64351,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000112",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
-          },
-          {
-            "id": "event-evidence-company-recursion-investor_relations-885ef40aa332",
-            "date": "2026-08-10",
-            "title": "Recursion Pharmaceuticals, Inc.",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-recursion-investor_relations-885ef40aa332",
-            "sourceUrl": "https://ir.recursion.com/"
-          },
-          {
-            "id": "event-sec-0001601830-000160183026000098",
-            "date": "2026-08-05",
-            "title": "Recursion Pharmaceuticals filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001601830-000160183026000098",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm"
           }
         ],
         "inferences": [],
@@ -64358,12 +64361,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 8,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 3
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-10-07",
+        "lastEvidenceDate": "2026-10-15",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -64372,6 +64375,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001601830-000160183026000128",
+          "date": "2026-10-15",
+          "title": "Recursion Pharmaceuticals filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001601830-000160183026000128",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm"
+        },
+        {
+          "id": "event-sec-0001601830-000160183026000126",
+          "date": "2026-10-15",
+          "title": "Recursion Pharmaceuticals filed Form 424B5",
+          "eventType": "Offering",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001601830-000160183026000126",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000126/rxrx-prelimprosuppxoct2026.htm"
+        },
         {
           "id": "event-evidence-company-recursion-pipeline-949dcf6f0c4e",
           "date": "2026-10-07",
