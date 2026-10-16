@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-16T11:31:39.781889+00:00",
+  "capturedAt": "2026-10-16T16:43:57.849185+00:00",
   "summary": {
-    "mentionCount": 665,
-    "candidateCount": 598,
+    "mentionCount": 660,
+    "candidateCount": 593,
     "corroboratedCount": 2,
     "identifiedCount": 589,
-    "needsReviewCount": 7,
+    "needsReviewCount": 2,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 7,
+      "ClinicalTrials": 2,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,170 +20,58 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-4a0cd80f25824e28",
-      "observedName": "Prevention Pharmaceuticals",
-      "normalizedName": "prevention pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT02670356",
-      "sourceDate": "2017-04-26",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02670356",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Study Comparing Fish Oil and Krill Oil"
-    },
-    {
-      "id": "mention-clinicaltrials-74748f0039baf45e",
-      "observedName": "Astellas Pharma Inc",
-      "normalizedName": "astellas pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01091103",
-      "sourceDate": "2018-10-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01091103",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Determine Effect of Enzalutamide (MDV3100) on the Androgen Signaling Pathway in Correlation With the Anti-tumor Effects of Enzalutamide"
-    },
-    {
-      "id": "mention-clinicaltrials-a124686af6f72d21",
-      "observedName": "Mundipharma Research Limited",
-      "normalizedName": "mundipharma research",
+      "id": "mention-clinicaltrials-00c090fc426c0003",
+      "observedName": "Beijing Gene Key Life Technology Co., Ltd",
+      "normalizedName": "beijing gene key life technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01289223",
-      "sourceDate": "2018-09-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01289223",
+      "sourceRecordId": "NCT07777211",
+      "sourceDate": "2026-08-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07777211",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "Recruiting",
+        "中国",
         "临床试验",
         "肿瘤"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Trial to Investigate the Efficacy of Bendamustine in Patients With Indolent Non-Hodgkin's Lymphoma (NHL) Refractory to Rituximab."
+      "contextTitle": "A Phase I/IIa Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer"
     },
     {
-      "id": "mention-clinicaltrials-a69ffa583f50d835",
-      "observedName": "Precigen, Inc",
-      "normalizedName": "precigen",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-c7890d06b01d23be",
-      "observedName": "Triple-Gene, LLC",
-      "normalizedName": "triple gene",
+      "id": "mention-clinicaltrials-f2368a812b34822b",
+      "observedName": "Jazz Pharmaceuticals",
+      "normalizedName": "jazz pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
+      "sourceRecordId": "NCT00942305",
+      "sourceDate": "2021-07-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00942305",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-f0144d463299b4ff",
-      "observedName": "Intrexon Corporation",
-      "normalizedName": "intrexon",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03409627",
-      "sourceDate": "2020-12-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-fa7651fbeb50d3c7",
-      "observedName": "Medivation LLC, a wholly owned subsidiary of Pfizer Inc.",
-      "normalizedName": "medivation llc a wholly owned subsidiary of pfizer",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01091103",
-      "sourceDate": "2018-10-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01091103",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
+        "Cell Therapy",
         "Clinical Trials",
         "Oncology",
-        "Precision Oncology",
         "临床试验",
+        "细胞治疗",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Determine Effect of Enzalutamide (MDV3100) on the Androgen Signaling Pathway in Correlation With the Anti-tumor Effects of Enzalutamide"
+      "contextTitle": "Study of CMX001 to Prevent/Control Cytomegalovirus Infection in R+ Hematopoietic Stem Cell Transplant Recipients"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43990,24 +43878,26 @@
       ]
     },
     {
-      "id": "candidate-mundipharma-research",
-      "name": "Mundipharma Research Limited",
+      "id": "candidate-beijing-gene-key-life-technology",
+      "name": "Beijing Gene Key Life Technology Co., Ltd",
       "aliases": [
-        "Mundipharma Research Limited"
+        "Beijing Gene Key Life Technology Co., Ltd"
       ],
-      "normalizedName": "mundipharma research",
+      "normalizedName": "beijing gene key life technology",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2018-09-04",
-      "lastSeenAt": "2018-09-04",
+      "firstSeenAt": "2026-08-20",
+      "lastSeenAt": "2026-08-20",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
           "肿瘤"
         ],
@@ -44015,6 +43905,8 @@
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
           "肿瘤"
         ],
@@ -44029,42 +43921,50 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-a124686af6f72d21"
+        "mention-clinicaltrials-00c090fc426c0003"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2018-09-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01289223",
-          "externalId": "NCT01289223",
-          "contextTitle": "A Trial to Investigate the Efficacy of Bendamustine in Patients With Indolent Non-Hodgkin's Lymphoma (NHL) Refractory to Rituximab."
+          "sourceDate": "2026-08-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07777211",
+          "externalId": "NCT07777211",
+          "contextTitle": "A Phase I/IIa Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer"
         }
       ]
     },
     {
-      "id": "candidate-triple-gene",
-      "name": "Triple-Gene, LLC",
+      "id": "candidate-jazz-pharmaceuticals",
+      "name": "Jazz Pharmaceuticals",
       "aliases": [
-        "Triple-Gene, LLC"
+        "Jazz Pharmaceuticals"
       ],
-      "normalizedName": "triple gene",
+      "normalizedName": "jazz pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
+      "firstSeenAt": "2021-07-16",
+      "lastSeenAt": "2021-07-16",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "临床试验",
+          "细胞治疗",
+          "肿瘤"
         ],
         "themes": [
+          "Cell Therapy",
           "Clinical Trials",
-          "临床试验"
+          "Oncology",
+          "临床试验",
+          "细胞治疗",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -44077,17 +43977,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-c7890d06b01d23be"
+        "mention-clinicaltrials-f2368a812b34822b"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
+          "sourceDate": "2021-07-16",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT00942305",
+          "externalId": "NCT00942305",
+          "contextTitle": "Study of CMX001 to Prevent/Control Cytomegalovirus Infection in R+ Hematopoietic Stem Cell Transplant Recipients"
         }
       ]
     },
@@ -47461,266 +47361,6 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
-        }
-      ]
-    },
-    {
-      "id": "candidate-astellas-pharma",
-      "name": "Astellas Pharma Inc",
-      "aliases": [
-        "Astellas Pharma Inc"
-      ],
-      "normalizedName": "astellas pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2018-10-23",
-      "lastSeenAt": "2018-10-23",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-74748f0039baf45e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2018-10-23",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01091103",
-          "externalId": "NCT01091103",
-          "contextTitle": "Determine Effect of Enzalutamide (MDV3100) on the Androgen Signaling Pathway in Correlation With the Anti-tumor Effects of Enzalutamide"
-        }
-      ]
-    },
-    {
-      "id": "candidate-intrexon",
-      "name": "Intrexon Corporation",
-      "aliases": [
-        "Intrexon Corporation"
-      ],
-      "normalizedName": "intrexon",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-f0144d463299b4ff"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-        }
-      ]
-    },
-    {
-      "id": "candidate-medivation-llc-a-wholly-owned-subsidiary-of-pfizer",
-      "name": "Medivation LLC, a wholly owned subsidiary of Pfizer Inc.",
-      "aliases": [
-        "Medivation LLC, a wholly owned subsidiary of Pfizer Inc."
-      ],
-      "normalizedName": "medivation llc a wholly owned subsidiary of pfizer",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2018-10-23",
-      "lastSeenAt": "2018-10-23",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-fa7651fbeb50d3c7"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2018-10-23",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01091103",
-          "externalId": "NCT01091103",
-          "contextTitle": "Determine Effect of Enzalutamide (MDV3100) on the Androgen Signaling Pathway in Correlation With the Anti-tumor Effects of Enzalutamide"
-        }
-      ]
-    },
-    {
-      "id": "candidate-precigen",
-      "name": "Precigen, Inc",
-      "aliases": [
-        "Precigen, Inc"
-      ],
-      "normalizedName": "precigen",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2020-12-04",
-      "lastSeenAt": "2020-12-04",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a69ffa583f50d835"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2020-12-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03409627",
-          "externalId": "NCT03409627",
-          "contextTitle": "Novel INXN-4001 Triple Effector Plasmid in Heart Failure"
-        }
-      ]
-    },
-    {
-      "id": "candidate-prevention-pharmaceuticals",
-      "name": "Prevention Pharmaceuticals",
-      "aliases": [
-        "Prevention Pharmaceuticals"
-      ],
-      "normalizedName": "prevention pharmaceuticals",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2017-04-26",
-      "lastSeenAt": "2017-04-26",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Longevity",
-          "biomarker",
-          "临床试验",
-          "衰老"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-4a0cd80f25824e28"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2017-04-26",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02670356",
-          "externalId": "NCT02670356",
-          "contextTitle": "Study Comparing Fish Oil and Krill Oil"
         }
       ]
     }

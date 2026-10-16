@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-16T11:31:35.941590+00:00",
+  "capturedAt": "2026-10-16T16:43:54.901783+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-16"
   },
   "pmids": [
+    "42885825",
     "42885327",
     "42884140",
     "42884126",
     "42884039",
     "42883798",
-    "42883697",
     "42880218",
     "42865067",
     "42860076",
@@ -40,6 +40,23 @@
     "42883738"
   ],
   "records": [
+    {
+      "pmid": "42885825",
+      "title": "Cell-laden hydrogel microspheres as functional 3D cellular units.",
+      "abstract": "Engineering three-dimensional cellular systems with controlled size, matrix composition and cellular organization is central to disease modelling, drug evaluation and regenerative medicine. In this context, cell-laden hydrogel microspheres have emerged as a platform for constructing microscale living units. Their structure facilitates local cell-matrix interactions and cell-cell communication, while the hydrogel phase provides a tunable microenvironment for cell culture and function. Droplet microfluidics offers a powerful route to produce these microspheres with defined size, composition, architecture and cellular input, allowing fabrication parameters to be linked directly with biological outcomes. In this review, we focus on how droplet microfluidics, hydrogel matrix design and cellular organization converge to transform cell encapsulation into the construction of functional 3D cellular units. We outline the principles of microsphere fabrication, including droplet generation, gelation and post-generation recovery, and discuss how hydrogel matrices regulate processability, bioactivity and reproducibility. We then examine how cell loading, spatial architecture and organoid-centered organization determine microsphere function. Finally, we discuss applications in bioanalysis, drug testing, therapeutic delivery and tissue assembly, and highlight key challenges in cytocompatible processing, recovery, reproducibility, standardization and functional validation. This review aims to provide design principles for transforming cell encapsulation into interpretable and deployable microscale living systems.",
+      "journal": "Lab on a chip",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory of Geriatric Nutrition and Health, Department of Bioengineering, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Department of Chemistry, Beijing Key Laboratory of Microanalytical Methods and Instrumentation, Key Laboratory of Bioorganic Phosphorus Chemistry and Chemical Biology (Ministry of Education), Tsinghua University, Beijing 100084, P. R. China. jmlin@mail.tsinghua.edu.cn."
+      ],
+      "doi": "10.1039/d6lc00603e",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42885825/"
+    },
     {
       "pmid": "42885327",
       "title": "High-Fat Diet-Induced Metabolic Stress Durably Reprograms the Liver Regenerative Compartment Toward a Senescence-Like State.",
@@ -133,25 +150,6 @@
       "doi": "10.3390/ijms27198550",
       "date": "2026-09-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42883798/"
-    },
-    {
-      "pmid": "42883697",
-      "title": "Early Eye Organoids Demonstrate Cadherin and Semaphorin Disruption in PAX6-Related Aniridia.",
-      "abstract": "The paired box transcription factor PAX6 is a master regulator of eye development. Pathogenic PAX6 variants predominantly cause aniridia, resulting in a wide range of ocular anomalies affecting both the anterior and posterior segments of the eye. However, a detailed examination of the transcriptomic alterations that occur with these variants during early eye development has not yet been undertaken. To investigate this, human-induced pluripotent stem cells (hiPSC)-derived 3D optic vesicle-like organoids were generated up to day 35 from an aniridia patient with a heterozygous nonsense PAX6R261X variant. Bulk RNA sequencing analysis revealed dysregulation of genes in the cadherin and semaphorin receptor binding pathways in PAX6R261X optic vesicles compared with healthy controls, including upregulation of SEMA3A and CDH1 and downregulation of CDH4. These genes are known to be involved in iris and foveal development but have not previously been found to be dysregulated at the optic vesicle stage, suggesting they have a spatiotemporal impact on eye development. This study reveals a novel link between the cadherins, semaphorins and aniridia and suggests a novel pathway that may contribute to iris and foveal hypoplasia in patients with pathogenic PAX6 variants. Expanding our knowledge of the complex interactions governing early eye development provides novel candidates for the development of potential targeted therapies and can help to guide translational research.",
-      "journal": "International journal of molecular sciences",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Ophthalmology, University College London, London EC1V 9EL, UK.",
-        "Department of Molecular Developmental Biology, Radboud Institute for Molecular Life Sciences (RIMLS), 6525 GA Nijmegen, The Netherlands.",
-        "The Francis Crick Institute, London NW1 1AT, UK.",
-        "Department of Human Genetics, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands.",
-        "Moorfields Eye Hospital NHS Foundation Trust, London EC1V 2PD, UK."
-      ],
-      "doi": "10.3390/ijms27198449",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42883697/"
     },
     {
       "pmid": "42880218",
@@ -470,8 +468,7 @@
       "journal": "International journal of molecular sciences",
       "publicationTypes": [
         "Journal Article",
-        "Review",
-        "Comment"
+        "Review"
       ],
       "affiliations": [
         "First University Department of Respiratory Medicine, 'Sotiria' Chest Hospital, Medical School, National and Kapodistrian University of Athens, 11527 Athens, Greece.",
@@ -483,6 +480,36 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42885825",
+      "date": "2026-10-16",
+      "title": "Cell-laden hydrogel microspheres as functional 3D cellular units.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42885825/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42885825。",
+      "report": "Engineering three-dimensional cellular systems with controlled size, matrix composition and cellular organization is central to disease modelling, drug evaluation and regenerative medicine. In this context, cell-laden hydrogel microspheres have emerged as a pl...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42885407",
       "date": "2026-10-16",
@@ -1098,36 +1125,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42883738。",
       "report": "Artificial intelligence (AI) is reshaping molecular oncology by making complex biological data tractable and by extending the reach of precision drug discovery. Its emerging value is particularly evident at the interface of immunoengineering and targeted thera...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42883697",
-      "date": "2026-09-22",
-      "title": "Early Eye Organoids Demonstrate Cadherin and Semaphorin Disruption in PAX6-Related Aniridia.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42883697/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42883697。",
-      "report": "The paired box transcription factor PAX6 is a master regulator of eye development. Pathogenic PAX6 variants predominantly cause aniridia, resulting in a wide range of ocular anomalies affecting both the anterior and posterior segments of the eye. However, a de...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
