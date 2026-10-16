@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-10-15T21:28:49.801617+00:00",
+  "capturedAt": "2026-10-16T04:38:35.980074+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-01",
-    "end": "2026-10-15"
+    "start": "2026-10-02",
+    "end": "2026-10-16"
   },
   "forms": [
     "10-K",
@@ -141,8 +141,33 @@
   "records": [
     {
       "filingDate": "2026-10-15",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-10-16T01:31:14.000Z",
+      "act": "33",
+      "form": "424B5",
+      "fileNumber": "333-284878",
+      "filmNumber": "261463834",
+      "items": "",
+      "size": 932217,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "rxrx-finalprosuppxoct2026o.htm",
+      "primaryDocDescription": "424B5",
+      "accessionNumber": "0001601830-26-000134",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000134/rxrx-finalprosuppxoct2026o.htm"
+    },
+    {
+      "filingDate": "2026-10-15",
       "reportDate": "2026-10-15",
-      "acceptanceDateTime": "2026-10-15T12:46:40.000Z",
+      "acceptanceDateTime": "2026-10-15T16:46:40.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-40323",
@@ -167,7 +192,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "",
-      "acceptanceDateTime": "2026-10-15T12:19:50.000Z",
+      "acceptanceDateTime": "2026-10-15T16:19:50.000Z",
       "act": "33",
       "form": "424B5",
       "fileNumber": "333-284878",
@@ -192,7 +217,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "2026-10-15",
-      "acceptanceDateTime": "2026-10-15T12:00:20.000Z",
+      "acceptanceDateTime": "2026-10-15T16:00:20.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-39307",
@@ -416,6 +441,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001601830-000160183026000134",
+      "date": "2026-10-15",
+      "title": "Recursion Pharmaceuticals filed Form 424B5",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000134/rxrx-finalprosuppxoct2026o.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "424B5",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000134 for Recursion Pharmaceuticals, Form 424B5, filed on 2026-10-15.",
+      "report": "SEC metadata describes the primary document as: 424B5.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001601830-000160183026000128",
       "date": "2026-10-15",
