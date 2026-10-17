@@ -870,7 +870,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -878,7 +878,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -886,7 +886,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -894,23 +894,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -918,21 +918,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1"
+          "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en"
           }
         ],
@@ -947,7 +947,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -956,14 +956,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en"
         }
       ]
@@ -6524,7 +6524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6532,7 +6532,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6540,7 +6540,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6548,23 +6548,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6572,21 +6572,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-airdoc-official-0dd2a5ec14f1"
+          "evidence-company-candidate-airdoc-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-airdoc-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
           }
         ],
@@ -6601,7 +6601,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6610,14 +6610,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-airdoc-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
         }
       ]
@@ -19139,7 +19139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19147,7 +19147,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19155,7 +19155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19163,15 +19163,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
+            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19179,21 +19187,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-b-and-k-official-a4d4139146af"
+          "evidence-company-candidate-b-and-k-official-3d2426224ab1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-b-and-k-official-3d2426224ab1",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en"
           }
         ],
@@ -19208,7 +19216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -19217,14 +19225,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-b-and-k-official-3d2426224ab1",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+          "evidenceId": "evidence-company-candidate-b-and-k-official-3d2426224ab1",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en"
         }
       ]
@@ -27291,7 +27299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27299,7 +27307,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27307,7 +27315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27315,23 +27323,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27339,21 +27347,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-brii-official-0dd2a5ec14f1"
+          "evidence-company-candidate-brii-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-brii-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en"
           }
         ],
@@ -27368,7 +27376,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -27377,14 +27385,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-brii-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-brii-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en"
         }
       ]
@@ -29177,7 +29185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29185,7 +29193,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29193,7 +29201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29201,23 +29209,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29225,21 +29233,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-canbridge-official-0dd2a5ec14f1"
+          "evidence-company-candidate-canbridge-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-canbridge-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en"
           }
         ],
@@ -29254,7 +29262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -29263,14 +29271,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-canbridge-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-canbridge-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en"
         }
       ]
@@ -33734,7 +33742,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33742,7 +33750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33750,7 +33758,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33758,7 +33766,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33766,7 +33774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
             "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33774,7 +33782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "[Company Name + Stock Code] - stock price, quote, history",
             "text": "[Company Name + Stock Code] - stock price, quote, history",
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -33782,21 +33790,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74"
+          "evidence-company-candidate-chinares-pharma-official-13d036acaa48"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-chinares-pharma-official-13d036acaa48",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en"
           }
         ],
@@ -33811,7 +33819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -33820,14 +33828,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-chinares-pharma-official-13d036acaa48",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
+          "evidenceId": "evidence-company-candidate-chinares-pharma-official-13d036acaa48",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en"
         }
       ]
@@ -34772,7 +34780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34780,7 +34788,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34788,7 +34796,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34796,23 +34804,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34820,21 +34828,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1"
+          "evidence-company-candidate-cloudbreak-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-cloudbreak-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en"
           }
         ],
@@ -34849,7 +34857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -34858,14 +34866,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-cloudbreak-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-cloudbreak-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en"
         }
       ]
@@ -35070,7 +35078,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35078,7 +35086,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35086,7 +35094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35094,7 +35102,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35102,7 +35110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
             "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35110,7 +35118,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "[Company Name + Stock Code] - stock price, quote, history",
             "text": "[Company Name + Stock Code] - stock price, quote, history",
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -35118,21 +35126,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-cms-official-339ae1ac3a74"
+          "evidence-company-candidate-cms-official-13d036acaa48"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-cms-official-339ae1ac3a74",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-cms-official-13d036acaa48",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en"
           }
         ],
@@ -35147,7 +35155,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -35156,14 +35164,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-cms-official-339ae1ac3a74",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-cms-official-13d036acaa48",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cms-official-339ae1ac3a74",
+          "evidenceId": "evidence-company-candidate-cms-official-13d036acaa48",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en"
         }
       ]
@@ -47539,7 +47547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47547,7 +47555,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47555,7 +47563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47563,23 +47571,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47587,21 +47595,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1"
+          "evidence-company-candidate-impact-therap-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-impact-therap-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en"
           }
         ],
@@ -47616,7 +47624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -47625,14 +47633,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-impact-therap-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-impact-therap-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en"
         }
       ]
@@ -48897,7 +48905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48905,7 +48913,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48913,7 +48921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48921,7 +48929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48929,7 +48937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
             "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48937,7 +48945,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "[Company Name + Stock Code] - stock price, quote, history",
             "text": "[Company Name + Stock Code] - stock price, quote, history",
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -48945,21 +48953,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-insilico-official-339ae1ac3a74"
+          "evidence-company-candidate-insilico-official-13d036acaa48"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-insilico-official-339ae1ac3a74",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-insilico-official-13d036acaa48",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en"
           }
         ],
@@ -48974,7 +48982,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -48983,14 +48991,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-insilico-official-339ae1ac3a74",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-insilico-official-13d036acaa48",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-insilico-official-339ae1ac3a74",
+          "evidenceId": "evidence-company-candidate-insilico-official-13d036acaa48",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en"
         }
       ]
@@ -50523,7 +50531,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50531,7 +50539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50539,7 +50547,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50547,7 +50555,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50555,7 +50563,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
             "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50563,7 +50571,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "[Company Name + Stock Code] - stock price, quote, history",
             "text": "[Company Name + Stock Code] - stock price, quote, history",
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -50571,21 +50579,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-jd-health-official-339ae1ac3a74"
+          "evidence-company-candidate-jd-health-official-13d036acaa48"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-jd-health-official-339ae1ac3a74",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-jd-health-official-13d036acaa48",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+            "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en"
           }
         ],
@@ -50600,7 +50608,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -50609,14 +50617,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-jd-health-official-339ae1ac3a74",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-jd-health-official-13d036acaa48",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-jd-health-official-339ae1ac3a74",
+          "evidenceId": "evidence-company-candidate-jd-health-official-13d036acaa48",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en"
         }
       ]
@@ -51045,7 +51053,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51053,7 +51061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51061,7 +51069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51069,23 +51077,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51093,21 +51101,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1"
+          "evidence-company-candidate-jw-therap-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-jw-therap-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en"
           }
         ],
@@ -51122,7 +51130,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -51131,14 +51139,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-jw-therap-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-jw-therap-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en"
         }
       ]
@@ -55129,7 +55137,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55137,7 +55145,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55145,7 +55153,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55153,23 +55161,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
-            "text": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
-            "text": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55177,21 +55185,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-medbot-official-7977dd0a56f0"
+          "evidence-company-candidate-medbot-official-f0015764236b"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-medbot-official-f0015764236b",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en"
           }
         ],
@@ -55206,7 +55214,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -55215,14 +55223,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-medbot-official-f0015764236b",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+          "evidenceId": "evidence-company-candidate-medbot-official-f0015764236b",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en"
         }
       ]
@@ -56084,7 +56092,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56092,7 +56100,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56100,7 +56108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56108,23 +56116,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56132,21 +56140,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e"
+          "evidence-company-candidate-microtech-med-official-d2f30698d959"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-microtech-med-official-d2f30698d959",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en"
           }
         ],
@@ -56161,7 +56169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56170,14 +56178,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-microtech-med-official-d2f30698d959",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+          "evidenceId": "evidence-company-candidate-microtech-med-official-d2f30698d959",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en"
         }
       ]
@@ -63829,7 +63837,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63837,7 +63845,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63845,7 +63853,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63853,23 +63861,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "textOriginal": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "text": "While HKEX’s Hong Kong markets will be closed on 19 October, all MSCI, currency and interest rate products in the derivatives market will be available for trading.",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "textOriginal": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "text": "Please visit the HKEX Calendar for detailed trading arrangements and visit the Derivatives Holiday Trading page for a list of Holiday Trading Products.",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63877,21 +63885,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-rainmed-official-0dd2a5ec14f1"
+          "evidence-company-candidate-rainmed-official-901fef751452"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
-            "date": "2026-09-25",
+            "id": "event-evidence-company-candidate-rainmed-official-901fef751452",
+            "date": "2026-10-17",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en"
           }
         ],
@@ -63906,7 +63914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-09-25",
+        "lastEvidenceDate": "2026-10-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63915,14 +63923,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
-          "date": "2026-09-25",
+          "id": "event-evidence-company-candidate-rainmed-official-901fef751452",
+          "date": "2026-10-17",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-rainmed-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en"
         }
       ]
