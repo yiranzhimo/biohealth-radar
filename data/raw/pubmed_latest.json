@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-17T04:35:53.890299+00:00",
+  "capturedAt": "2026-10-17T10:51:27.701084+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-17"
   },
   "pmids": [
+    "42888872",
+    "42888420",
+    "42888367",
     "42887499",
     "42887488",
     "42886639",
-    "42886472",
-    "42886421",
-    "42886396",
     "42880218",
     "42865067",
     "42860076",
@@ -32,14 +32,72 @@
     "42872591",
     "42871461",
     "42869909",
+    "42888434",
+    "42888302",
     "42887823",
     "42887667",
     "42887665",
-    "42887064",
-    "42885237",
-    "42884457"
+    "42887064"
   ],
   "records": [
+    {
+      "pmid": "42888872",
+      "title": "TGF-β Inhibition Attenuates Tau Accumulation and Neurodegeneration in Progressive Supranuclear Palsy Patient-Derived Organoids.",
+      "abstract": "Progressive supranuclear palsy (PSP) is a devastating 4-repeat tauopathy with no approved disease-modifying treatments. Recent evidence showed increased transforming growth factor-β (TGF-β) levels in PSP patient-derived ventral midbrain organoids (vMOs) and serum neuronally derived exosomes. This study investigated whether TGF-β pharmacological inhibition could mitigate PSP pathology in vMOs. Ninety-six vMOs were generated from induced pluripotent stem cells from two PSP-Richardson's syndrome patients and two healthy control donors (HCs). From day 60 to day 90, PSP organoids were (1) exposed to TGF-β receptor I inhibitor (SB431542); (2) exposed to recombinant TGF-β1, TGF-β2, and TGF-β3; or (3) untreated. At day 90, several tau species were assessed by immunoblotting; neurodegeneration was evaluated through TUNEL assay and immunofluorescence (tyrosine hydroxylase [TH], neurofilament light chain [NfL]); astrocytic activation (glial fibrillary acidic protein [GFAP]) marker was evaluated by immunofluorescence, and histopathological hallmarks were evaluated by immunohistochemistry. An HC-derived organoid subgroup was exposed to the treatment conditions to assess potential toxicity. At day 90, untreated PSP-derived vMOs exhibited increased phosphorylated tau levels (Ser396, Thr181, Ser202/Ser205 [AT8]) compared with HC-derived vMOs, dopaminergic neuron loss (reduced TH, increased NfL), and astrocytic reactivity (increased GFAP), along with PSP characteristic tau deposition. Tau hyperphosphorylation, neurodegeneration, and astrocytic reactivity were all markedly reduced in PSP-derived vMOs treated with TGF-β receptor I inhibitor. Conversely, exposure to TGF-β exacerbated these features. No toxic effects were observed in HC vMOs exposed to treatment conditions. Pharmacological inhibition of TGF-β signaling prevented key PSP molecular alterations in patient-derived organoids. These findings support further research and pave the way for future investigation of TGF-β-targeting strategies in clinical trials in patients with PSP. © 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory of Stem Cells, Research Centre for Biochemistry and Advanced Molecular Biology, Department of Experimental and Clinical Medicine, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Department of Medical and Surgical Sciences, Institute of Neurology, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Neuroscience Research Centre, University \"Magna Graecia\", Catanzaro, Italy.",
+        "Section of Pathology, Department of Human Pathology of Adult and Developmental Age \"Gaetano Barresi\", University of Messina, Messina, Italy.",
+        "Laboratory of Stem Cells, Department of Medical and Surgical Sciences, University \"Magna Graecia\", Catanzaro, Italy."
+      ],
+      "doi": "10.1002/mds.70574",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888872/"
+    },
+    {
+      "pmid": "42888420",
+      "title": "Niches in cancer: from primary tumors to metastatic disease.",
+      "abstract": "Cancer progression does not occur in isolation: malignant-cell states and fates are shaped by specialized microenvironments, or cancer niches. Within primary tumors, vascular, stromal, immune and neural interactions create local hypoxic, metabolic and mechanical conditions that together influence malignant-cell behavior. These local environments sustain stem-like states, regulate immune surveillance and vascular remodeling, and influence dissemination and treatment response. Tumor-derived extracellular vesicles and other systemic signals connect primary tumors to distant organs, conditioning tissues before tumor-cell arrival and subsequently modulating disseminated tumor-cell seeding, dormancy, reactivation and outgrowth. Cancer niches therefore operate across spatial scales and disease stages, shaping tumor behavior in ways that cannot be explained by tumor-cell-intrinsic properties alone. Advances in single-cell and spatial profiling, organoid systems and intravital imaging are revealing their cellular composition, local architecture and evolution. In this review, we integrate primary, pre-metastatic and metastatic niche biology, examine how local environments evolve and influence one another during cancer progression, compare organ-specific metastatic niches and assess emerging therapeutic strategies. Effective niche-directed therapy will require identifying the interactions that sustain disease, showing that treatment disrupts them and determining which patients are most likely to benefit. Greater spatial, temporal and functional resolution may reveal new therapeutic vulnerabilities and create opportunities to prevent relapse and achieve more durable disease control.",
+      "journal": "Journal of hematology & oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "1Department of Urology, Hubei Provincial Clinical Medical Research Center for Minimally Invasive Treatment of Urology, Tongji Hospital, Tongji Medical College, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Huazhong University of Science and Technology, Wuhan, 430030, China.",
+        "2Department of Infectious Diseases, Tongji Hospital, Tongji Medical College, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Huazhong University of Science and Technology, Wuhan, 430030, China. wxjmoon@hotmail.com.",
+        "1Department of Urology, Hubei Provincial Clinical Medical Research Center for Minimally Invasive Treatment of Urology, Tongji Hospital, Tongji Medical College, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Huazhong University of Science and Technology, Wuhan, 430030, China. zhwang_hust@hotmail.com.",
+        "3Taikang Tongji (Wuhan) Hospital, Wuhan, 430000, China. zhwang_hust@hotmail.com.",
+        "4Department of Oncology, Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China. kmwu@tjh.tjmu.edu.cn.",
+        "1Department of Urology, Hubei Provincial Clinical Medical Research Center for Minimally Invasive Treatment of Urology, Tongji Hospital, Tongji Medical College, State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Huazhong University of Science and Technology, Wuhan, 430030, China. tjlile2013@tjh.tjmu.edu.cn."
+      ],
+      "doi": "10.1186/s13045-026-01858-8",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888420/"
+    },
+    {
+      "pmid": "42888367",
+      "title": "The Importance of Translational Research for Neurodevelopmental Disorders and Autism Spectrum Disorders.",
+      "abstract": "Translational research is the process of transforming fundamental biological discoveries into safe and efficacious interventions for patients. This specialized field is of particular importance for neurodevelopmental disorders (NDDs), a broad class of behaviorally defined conditions including autism spectrum disorder (ASD), attention deficit/hyperactivity disorder (ADHD), intellectual and developmental disabilities (IDDs), and related disorders. NDDs present unique translational challenges including (i) a lack of biological diagnostic markers; (ii) the fact that they are diagnosed exclusively by behavioral criteria; (iii) their involvement of dysfunction in complex brain circuitry; and (iv) that there is no single unifying biological mechanism. This chapter reviews the current landscape of translational neuroscience for NDDs, examining the strengths and limitations of preclinical model systems, including rodent models humanized mice, human induced pluripotent stem cells (iPSCs) 3D spheroids and brain organoids. This work emphasizes that research emanating from the varying preclinical experimental systems above should be leveraged and their complementary strengths integrated, coordinated, and considered collaboratively, to strengthen current knowledge, identify the remaining research gaps, and prioritize future research. We also emphasize the importance of rigorous, reproducible methodology and conservative interpretation of behavioral and functional outcomes. Discussion is presented on key translational bridges or connections that are urgently required to advance the field: bridging non-human model systems to humanized models, identifying and validating translational biomarkers, bridging in vitro and in vivo findings, and developing corroborative alternatives to animal models. It is our stance that integrating multiple complementary model systems, limiting erroneous behavioral inferences, relying on evolutionarily conserved circuits, and prioritizing robust and reproducible outcome measures will reduce failures in the translational pipeline and accelerate the development of meaningful therapies for individuals with NDDs.",
+      "journal": "Current topics in behavioral neurosciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "MIND Institute, University of California Davis School of Medicine, Sacramento, CA, USA. jsilverman@health.ucdavis.edu.",
+        "Department of Psychiatry and Behavioral Sciences, University of California Davis School of Medicine, Sacramento, CA, USA. jsilverman@health.ucdavis.edu.",
+        "MIND Institute, University of California Davis School of Medicine, Sacramento, CA, USA.",
+        "Department of Psychiatry and Behavioral Sciences, University of California Davis School of Medicine, Sacramento, CA, USA."
+      ],
+      "doi": "10.1007/7854_2026_617",
+      "date": "2026-10-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888367/"
+    },
     {
       "pmid": "42887499",
       "title": "Organotypic vascularization improves maturation of human stem cell-derived islets and restores normoglycemia in diabetic mice.",
@@ -94,61 +152,6 @@
       "doi": "10.1002/age.70223",
       "date": "2026-10-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886639/"
-    },
-    {
-      "pmid": "42886472",
-      "title": "Advanced biomaterial technologies for neural regeneration in central nervous system diseases: mechanisms and applications.",
-      "abstract": "Effective repair of central nervous system (CNS) injuries remains highly challenging due to several formidable barriers, including severe structural disruption, hostile microenvironments, and limited intrinsic regenerative capacity. In response, biomaterials incorporated with therapeutic agents provide advanced interventional strategies for neural regeneration. This review systematically summarizes recent progress in biomaterial-based CNS repair, focusing on three core strategies: physical remodeling of the neural structure, targeted drug delivery systems for biochemical regulation, and cellular intervention. Furthermore, we critically analyze the manufacturing and regulatory bottlenecks currently impeding clinical translation. Finally, we propose the integration of neural organoids and brain-computer interface (BCI) technologies as a promising trajectory for next-generation intelligent neural repair materials.",
-      "journal": "Nanoscale",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Mental Health Center, Department of Neurology and Center for Preclinical Safety Evaluation of Drugs, West China Hospital, Sichuan University, Chengdu 610041, China. nizhang@scu.edu.cn."
-      ],
-      "doi": "10.1039/d6nr02348g",
-      "date": "2026-10-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886472/"
-    },
-    {
-      "pmid": "42886421",
-      "title": "Modeling Moyamoya disease using patient-derived induced pluripotent stem cells and organoids.",
-      "abstract": "The underlying mechanisms of Moyamoya disease (MMD), a rare, progressive cerebrovascular disorder marked by distal internal carotid artery stenosis or occlusion and the formation of fragile collaterals, remain poorly understood, in part because conventional models fail to capture the genetic, vascular, and neurovascular complexity of human MMD. Driven by recent advances in disease modeling, MMD research has moved beyond early endothelial progenitor cell studies toward patient-derived induced pluripotent stem cell (iPSC)-based platforms. Here, we summarize the generation and validation of MMD-specific iPSCs and their differentiation into endothelial cells (ECs), vascular smooth muscle cells (VSMCs), and related vascular lineages, and we discuss how two-dimensional (2D) iPSC-based models have provided insights into impaired angiogenesis, endothelial dysfunction, abnormal VSMC behavior, and disrupted vascular cell interactions. We then highlight the emerging use of three-dimensional vascular and neurovascular organoids, which reproduce cellular heterogeneity, vessel-like organization, and neurovascular unit interactions more closely than conventional 2D cultures. These models may provide a more integrated platform for investigating the complex vascular pathophysiology of MMD. Finally, we discuss future directions for MMD modeling, including the integration of multi-omics profiling and CRISPR-mediated genome editing with patient-derived iPSC and organoid platforms. These approaches may help clarify genotype-phenotype relationships, RNF213-dependent and RNF213-independent mechanisms, and disease-relevant molecular pathways. With further standardization and validation, iPSC- and organoid-based models could support mechanistic studies, therapeutic screening, and personalized disease modeling. Our review underscores the emerging role of patient-derived stem cell and organoid technologies in advancing MMD research and in informing future translational efforts.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of New Frontier Research Team, Hallym University College of Medicine, Chuncheon, 24252, Republic of Korea.",
-        "Department of Biomedical Informatics, Hallym University Chuncheon Sacred Heart Hospital, Chuncheon, 24253, Republic of Korea.",
-        "Institute of New Frontier Research Team, Hallym University College of Medicine, Chuncheon, 24252, Republic of Korea. iloveu59@hallym.or.kr.",
-        "Department of Anesthesiology and Pain Medicine, Hallym University College of Medicine, Gyo-dong, Chuncheon-si, Gangwon-do, 24253, Republic of Korea. iloveu59@hallym.or.kr.",
-        "Department of Neurosurgery, Hallym University College of Medicine, Gyo-dong, Chuncheon-si, Gangwon-do, 24253, Republic of Korea. jjs6553@hanmail.net.",
-        "Department of Population and Quantitative Health Sciences, UMass Chan Medical School, Worcester, MA, 01655, USA. jjs6553@hanmail.net."
-      ],
-      "doi": "10.1007/s11033-026-12932-2",
-      "date": "2026-10-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886421/"
-    },
-    {
-      "pmid": "42886396",
-      "title": "Harnessing the ubiquitin-proteasome system: advances and challenges of PROTACs in breast cancer.",
-      "abstract": "Breast cancer is one of the most significant health issues in the world, and resistance to treatment and a lack of targets that can be addressed with drugs limit the effectiveness of the existing treatment options. The development of proteolysis-targeting chimeras (PROTACs) has shifted the concept of occupancy-based inhibition toward event-based targeted protein degradation. Avoiding ubiquitin-proteasome hijacking, PROTACs target disease-relevant proteins to E3 ligases, allowing them to be catalytically degraded, thereby eliminating formerly undruggable or resistant targets. Their modular design, consisting of a warhead, linker, and E3 ligase ligand, eases rational design, but there are still difficulties, including hook effects, poor pharmacokinetics, and off-target toxicity. PROTACs have been known to undergo evolution, such as PHOTACs, CLIPTACs, and RIBOTACs, which have expanded therapeutic approaches. Clinical trial molecules such as ARV-471 have demonstrated an effective role in the degradation of ER+, showcasing their broader significance in HER2 by degrading BRD4, CDK, and PD-L1. However, a knowledge gap exists that limits our understanding of E3 ligases, constraining their tissue specificity and metabolism. Prospective directions focus on computational strategies to design E3 ligase-based PROTAC prodrugs, nanostructured PROTACs, and test them in vivo using organoids and xenograft models. Overall, PROTACs can become a novel therapeutic approach in the treatment of breast cancer.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmaceutical Chemistry, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, Nilgiris, Tamil Nadu, India.",
-        "Department of Pharmaceutical Analysis, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, Nilgiris, Tamil Nadu, India.",
-        "Department of Pharmaceutical Chemistry, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, Nilgiris, Tamil Nadu, India. gowrammab@jssuni.edu.in."
-      ],
-      "doi": "10.1007/s11033-026-12830-7",
-      "date": "2026-10-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886396/"
     },
     {
       "pmid": "42880218",
@@ -362,6 +365,42 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/"
     },
     {
+      "pmid": "42888434",
+      "title": "Decoding coupled epigenetic-fragmentomic signals in circulating cell-free DNA for interpretable cancer diagnosis.",
+      "abstract": "Plasma cell-free DNA (cfDNA) whole-genome methylation sequencing enables simultaneous characterization of DNA methylation and fragmentomic features for cancer detection. However, it remains unclear whether methylation library preparation faithfully preserves fragmentomic signals, how methylation and fragmentation are biologically coupled, and how these two modalities can be systematically integrated. We systematically evaluated the preservation of cfDNA fragmentomic features in whole-genome bisulfite sequencing (WGBS) and enzymatic methyl sequencing (EM-seq) relative to conventional whole-genome sequencing (WGS). We next investigated the biological relationship between methylation and fragmentation and delineated methylation haplotype blocks (MHBs) directly from plasma cfDNA as biologically interpretable units for organizing multimodal cfDNA signals. Guided by these findings, we developed multimodal diagnostic models integrating complementary methylation and fragmentomic features. Canonical cfDNA fragmentomic patterns were partially preserved across methylation sequencing protocols, although the degree of preservation varied among individual features. DNA methylation levels were associated with characteristic fragment length and end-motif patterns. Plasma-derived MHBs exhibited tissue-associated regulatory features and distinct patterns of chromatin accessibility, repeat enrichment, and methylation heterogeneity, providing biologically interpretable units for integrated cfDNA analysis. Within these regions, methylation and fragmentomic signals exhibited coordinated yet complementary patterns. Leveraging this framework, we developed Fragmentomics And Methylation Ensemble (FAME), an interpretable multimodal model integrating MHB-centered methylation and fragmentomic features for cancer detection and tissue-of-origin prediction, and further extended it with complementary genome-wide methylation and fragmentomic features to generate a genome-wide-augmented FAME model (FAME-GW). Across cross-validation, independent validation, and comparisons with THEMIS (THorough Epigenetic Marker Integration Solution), SPOT-MAS (screening for the presence of tumor by methylation and size), and DELFI (DNA evaluation of fragments for early interception), FAME-based models achieved robust diagnostic performance, with FAME providing a compact and interpretable representation and FAME-GW delivering the strongest overall predictive performance. Our study demonstrates that cfDNA whole-genome methylation sequencing partially preserves informative fragmentomic signals and establishes plasma-derived MHBs as biologically interpretable units for organizing and integrating complementary methylation and fragmentomic information. This framework provides insight into the coupling of epigenetic and fragmentomic information and an effective strategy for interpretable cfDNA-based cancer diagnosis.",
+      "journal": "Genome medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Informatics, Huazhong Agricultural University, Wuhan, 430070, People's Republic of China.",
+        "Medical Research Center, the Eighth Affiliated Hospital, Sun Yat-Sen University, Shenzhen, 518033, People's Republic of China. liqj23@126.com.",
+        "College of Informatics, Huazhong Agricultural University, Wuhan, 430070, People's Republic of China. zhangwen@mail.hzau.edu.cn.",
+        "College of Informatics, Huazhong Agricultural University, Wuhan, 430070, People's Republic of China. zhouxionghui@mail.hzau.edu.cn."
+      ],
+      "doi": "10.1186/s13073-026-01793-w",
+      "date": "2026-10-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888434/"
+    },
+    {
+      "pmid": "42888302",
+      "title": "Value and research advances of ctDNA in perioperative therapy for non-small cell lung cancer.",
+      "abstract": "Perioperative treatment plays an increasingly important role in improving outcomes for patients with resectable non-small cell lung cancer (NSCLC). Circulating tumor DNA (ctDNA) offers a new perspective for optimizing individualized perioperative management. This review systematically examines the core value of ctDNA in perioperative therapy for resectable NSCLC, encompassing its correlation with treatment response and pathological remission during the neoadjuvant phase, its utility as a dynamic monitor of treatment efficacy, and its emerging role in prognostic stratification and recurrence prediction in the postoperative setting. Importantly, while ctDNA demonstrates considerable promise for guiding individualized perioperative management, most applications remain investigational; we therefore distinguish between established correlative uses and prospective strategies currently under evaluation in clinical trials. It also addresses current technical challenges in ctDNA application, including limited sensitivity, false positives, lack of standardization, cost-effectiveness concerns, and difficulties in integration into clinical decision-making. Future prospective interventional studies are needed to validate ctDNA-guided treatment adjustments and to establish standardized protocols and multidisciplinary collaboration pathways, thereby facilitating the integration of ctDNA into the full course of perioperative management for NSCLC and enabling precise efficacy assessment, risk stratification, and individualized treatment decisions.",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Oncology, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Institute of Immunology, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Oncology, The First Affiliated Hospital of Soochow University, Suzhou, China. hongyin_74@126.com."
+      ],
+      "doi": "10.1007/s12094-026-04565-5",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888302/"
+    },
+    {
       "pmid": "42887823",
       "title": "Oral squamous cell carcinoma: A Modern Review of Pathogenesis and Treatment.",
       "abstract": "Oral cancer (OC), predominantly oral squamous cell carcinoma (OSCC), is a serious global health burden with high mortality rates, especially in South and Southeast Asia. OC is a severe worldwide health issue that is mostly caused by a sedentary lifestyle, alcohol, tobacco, and areca nut intake. The highest prevalence of OSCC is in India and Southeast Asia. Complex genomic and epigenetic changes, such as TP53 dysfunction, enhanced EGFR alteration, and dysregulation of the PI3K/AKT/mTOR signalling pathways, in conjunction with tumor-promoting alterations in the tumor microenvironment, contribute to oral carcinogenesis ( Tan et al., 2023). Oral submucous fibrosis (a chronic condition that causes precancerous progression in mouth), and leukoplakia (white or grey patches to form on mucus membrane) are instances of oral potentially malignant disorders (OPMDs), which are key indicators of cancer conversion. Even with advances in histopathology and imaging, delayed diagnosis remains a major limitation. Salivary biomarkers, liquid biopsy devices, and artificial intelligence-based screening tools are examples of novel diagnostic methods with potential for early diagnosis. Therapeutically, novel approaches such as immunotherapy, targeted therapy, nanoparticle-based drug delivery systems, electro spun nanofibers, and plant-derived phytoformulations offer innovative, multi-targeted strategies with enhanced efficacy and reduce toxicity. However, surgery, radiation, and chemotherapy continue to be the primary treatment approaches. Improving new interventions for OC treatment needs a multifaceted approach that integrates early detection strategies, advanced therapeutic strategies, the use of plant-derived therapeutics, nanotechnology, artificial intelligence, and public health awareness to get better therapeutic outcomes.",
@@ -442,42 +481,101 @@
       "doi": "10.1016/j.tranon.2026.103080",
       "date": "2026-10-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42887064/"
-    },
-    {
-      "pmid": "42885237",
-      "title": "Ultrasensitive Trace Sample Proteomics for Pancreatic Ductal Adenocarcinoma Diagnosis Empowered by Dual-Affinity Spherical Ln-MOFs.",
-      "abstract": "Low-abundance exosomal proteins from trace plasma volumes remain challenging to profile by mass spectrometry. Here, we report a lanthanide metal-organic framework (Ln-MOF) functionalized with boronic acid and carboxylate dual ligands, which captures exosomal proteins via synergistic phosphate coordination, boronate-diol complexation, and cation-π interactions. Compared with traditional ultracentrifugation, which identifies 1003 proteins from 200 µL of plasma, the Ln-MOF method identifies 1523 proteins from only 50 µL of plasma. Notably, the method enriches glycoproteins and phosphoproteins by 2.1-fold and 1.8-fold, respectively. Applying this platform to pancreatic ductal adenocarcinoma (PDAC) patients and healthy controls, we delineate tumor tissue hypermetabolism vs. systemic immune suppression.",
-      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiology, Huadong Hospital, Fudan University, Shanghai, People's Republic of China.",
-        "Department of General Surgery, Hepato-Biliary-Pancreatic Surgery, Huadong Hospital, Fudan University, Shanghai, People's Republic of China.",
-        "Department of Anesthesiology and Surgical Intensive Care Unit, Xinhua Hospital, School of Medicine and School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, People's Republic of China."
-      ],
-      "doi": "10.1002/smll.76296",
-      "date": "2026-10-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42885237/"
-    },
-    {
-      "pmid": "42884457",
-      "title": "Advances in Urinary Liquid Biopsy: A Review of Emerging Sensing Platforms for Early Cancer Screening and Diagnosis.",
-      "abstract": "Early screening of many types of cancers remains limited by the invasiveness of gold-standard tissue biopsies and the poor specificity of traditional clinical biomarkers like prostate-specific antigen (PSA). Non-invasive liquid biopsies are the emerging alternatives. Urine is one of the preferred body fluids for liquid biopsy as it offers a rich, easily accessible and large-volume source of cancer-specific metabolites, proteins, nucleic acids, extracellular vesicles, and cancer cells. This review reports the recent advancements in urinary cancer (bio)sensing technologies, including mainly optical and electrochemical platforms. To overcome the low specificity and detectability of the existing systems, novel nanomaterials, such as metal-organic frameworks, carbon dots, metal nanoparticles, and molecularly imprinted polymers, that offer increased surface area, cost-effectiveness and enzyme-free platforms, as well as accelerated electron transfer, were introduced to provide lower detection limits to the femtomolar and attomolar levels. Additionally, the integration of machine learning and artificial intelligence for biochemical \"fingerprint\" analysis enhanced diagnostic accuracy. Finally, we discuss the gap between novel sensing systems and robust diagnostic devices for decentralized point-of-care testing (POCT) and personalized medicine in clinical routine.",
-      "journal": "Sensors (Basel, Switzerland)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Analytical Chemistry & Nanotechnology Group, Department of Chemistry, University of Patras, GR-26504 Patras, Greece."
-      ],
-      "doi": "10.3390/s26196258",
-      "date": "2026-10-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42884457/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42888367",
+      "date": "2026-10-17",
+      "title": "The Importance of Translational Research for Neurodevelopmental Disorders and Autism Spectrum Disorders.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888367/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current topics in behavioral neurosciences，PMID 为 42888367。",
+      "report": "Translational research is the process of transforming fundamental biological discoveries into safe and efficacious interventions for patients. This specialized field is of particular importance for neurodevelopmental disorders (NDDs), a broad class of behavior...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42888872",
+      "date": "2026-10-16",
+      "title": "TGF-β Inhibition Attenuates Tau Accumulation and Neurodegeneration in Progressive Supranuclear Palsy Patient-Derived Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888872/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Movement disorders : official journal of the Movement Disorder Society，PMID 为 42888872。",
+      "report": "Progressive supranuclear palsy (PSP) is a devastating 4-repeat tauopathy with no approved disease-modifying treatments. Recent evidence showed increased transforming growth factor-β (TGF-β) levels in PSP patient-derived ventral midbrain organoids (vMOs) and se...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42888420",
+      "date": "2026-10-16",
+      "title": "Niches in cancer: from primary tumors to metastatic disease.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888420/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of hematology & oncology，PMID 为 42888420。",
+      "report": "Cancer progression does not occur in isolation: malignant-cell states and fates are shaped by specialized microenvironments, or cancer niches. Within primary tumors, vascular, stromal, immune and neural interactions create local hypoxic, metabolic and mechanic...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42887499",
       "date": "2026-10-16",
@@ -504,104 +602,6 @@
       "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42887499。",
       "report": "Human pluripotent stem cells-derived pancreatic islet organoids (PIOs) hold promise for treating type 1 diabetes, but poor post-transplant survival due to inadequate vascularization remains a major challenge. Here, we generated vascularized PIOs (VPIOs) by co-...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42886472",
-      "date": "2026-10-16",
-      "title": "Advanced biomaterial technologies for neural regeneration in central nervous system diseases: mechanisms and applications.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886472/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nanoscale，PMID 为 42886472。",
-      "report": "Effective repair of central nervous system (CNS) injuries remains highly challenging due to several formidable barriers, including severe structural disruption, hostile microenvironments, and limited intrinsic regenerative capacity. In response, biomaterials i...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42886421",
-      "date": "2026-10-16",
-      "title": "Modeling Moyamoya disease using patient-derived induced pluripotent stem cells and organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886421/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42886421。",
-      "report": "The underlying mechanisms of Moyamoya disease (MMD), a rare, progressive cerebrovascular disorder marked by distal internal carotid artery stenosis or occlusion and the formation of fragile collaterals, remain poorly understood, in part because conventional mo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42886396",
-      "date": "2026-10-16",
-      "title": "Harnessing the ubiquitin-proteasome system: advances and challenges of PROTACs in breast cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42886396/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42886396。",
-      "report": "Breast cancer is one of the most significant health issues in the world, and resistance to treatment and a lack of targets that can be addressed with drugs limit the effectiveness of the existing treatment options. The development of proteolysis-targeting chim...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -635,6 +635,36 @@
       "fact": "PubMed 记录显示该文献收录于 SAR and QSAR in environmental research，PMID 为 42885407。",
       "report": "Histone deacetylase 8 (HDAC8) inhibitors are considered promising therapeutic agents for the treatment of cancer and several other diseases. In this study, regression QSAR models for HDAC8 inhibitors were developed using various types of molecular descriptors...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42888302",
+      "date": "2026-10-16",
+      "title": "Value and research advances of ctDNA in perioperative therapy for non-small cell lung cancer.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888302/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico，PMID 为 42888302。",
+      "report": "Perioperative treatment plays an increasingly important role in improving outcomes for patients with resectable non-small cell lung cancer (NSCLC). Circulating tumor DNA (ctDNA) offers a new perspective for optimizing individualized perioperative management. T...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -819,31 +849,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42885237",
+      "id": "pubmed-42888434",
       "date": "2026-10-15",
-      "title": "Ultrasensitive Trace Sample Proteomics for Pancreatic Ductal Adenocarcinoma Diagnosis Empowered by Dual-Affinity Spherical Ln-MOFs.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "title": "Decoding coupled epigenetic-fragmentomic signals in circulating cell-free DNA for interpretable cancer diagnosis.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42885237/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888434/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "biotech",
-        "肿瘤"
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Small (Weinheim an der Bergstrasse, Germany)，PMID 为 42885237。",
-      "report": "Low-abundance exosomal proteins from trace plasma volumes remain challenging to profile by mass spectrometry. Here, we report a lanthanide metal-organic framework (Ln-MOF) functionalized with boronic acid and carboxylate dual ligands, which captures exosomal p...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42888434。",
+      "report": "Plasma cell-free DNA (cfDNA) whole-genome methylation sequencing enables simultaneous characterization of DNA methylation and fragmentomic features for cancer detection. However, it remains unclear whether methylation library preparation faithfully preserves f...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -992,38 +1026,6 @@
       "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 42860076。",
       "report": "Perturb-seq prediction increasingly relies on either biological graph priors or single-cell foundation models, but their relative value is difficult to interpret when architectures, split definitions and graph sources vary simultaneously. We benchmarked STRING...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42884457",
-      "date": "2026-10-02",
-      "title": "Advances in Urinary Liquid Biopsy: A Review of Emerging Sensing Platforms for Early Cancer Screening and Diagnosis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42884457/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Sensors (Basel, Switzerland)，PMID 为 42884457。",
-      "report": "Early screening of many types of cancers remains limited by the invasiveness of gold-standard tissue biopsies and the poor specificity of traditional clinical biomarkers like prostate-specific antigen (PSA). Non-invasive liquid biopsies are the emerging altern...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

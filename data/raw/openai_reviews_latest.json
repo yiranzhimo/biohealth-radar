@@ -1,34 +1,35 @@
 {
-  "capturedAt": "2026-10-17T04:36:03.461745+00:00",
+  "capturedAt": "2026-10-17T10:51:36.090094+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42887499",
-      "responseId": "resp_009ee3a6a063b620006ad2fb34383487d0b6b98d58f2da437b",
+      "signalId": "pubmed-42888367",
+      "responseId": "resp_081c977a9a774f0c006ad35338b9a487d098e5d45c3aad578a",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号在数据字段分离得当，支持信息可靠，且未含有临床建议，适合发布。",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，以纠正潜在的臆断和不完整的信息。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合源元数据。"
+          "isSupported": false,
+          "notesCn": "分类不应静态地反映研究质量或临床结果。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论均已清晰分离，可靠性高。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标签与源信息不够一致，可能会引导误解。"
         },
         "riskFlags": [
-          "research_claim"
+          "weak_classification",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "Low",
           "themes": [
             "Organoids",
             "Advanced Disease Models"
@@ -37,32 +38,33 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42887499。",
-          "report": "Human pluripotent stem cells-derived pancreatic islet organoids (PIOs) hold promise for treating type 1 diabetes, but poor post-transplant survival due to inadequate vascularization remains a major challenge. Here, we generated vascularized PIOs (VPIOs) by co-...",
+          "fact": "PubMed 记录显示该文献收录于 Current topics in behavioral neurosciences，PMID 为 42888367。",
+          "report": "Translational research is the process of transforming fundamental biological discoveries into safe and efficacious interventions for patients. This specialized field is of particular importance for neurodevelopmental disorders (NDDs), a broad class of behavior...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42886472",
-      "responseId": "resp_0781729d60b06be5006ad2fb3a10d487d09474876b2a3a4bf4",
+      "signalId": "pubmed-42888872",
+      "responseId": "resp_00e1e150961ff0a6006ad3533dc97887d0b2afdd51822056b5",
       "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号具备合理的分类和证据水平，事实、报告、推断和未知部分分离明确，无不当的临床结论或治疗建议。",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献未提供足够的信息来支持研究质量、样本量和临床阶段的判断。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合现有文献支持。"
+          "isSupported": false,
+          "notesCn": "分类支持不足，缺乏对研究样本量和质量的说明。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，适合当前信号内容。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别评估为中等，但未充分支持相关分类。"
         },
         "riskFlags": [
-          "clinical_claim"
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -80,32 +82,31 @@
             "临床",
             "监管"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Nanoscale，PMID 为 42886472。",
-          "report": "Effective repair of central nervous system (CNS) injuries remains highly challenging due to several formidable barriers, including severe structural disruption, hostile microenvironments, and limited intrinsic regenerative capacity. In response, biomaterials i...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "PubMed 记录显示该文献收录于 Movement disorders : official journal of the Movement Disorder Society，PMID 为 42888872。",
+          "report": "Progressive supranuclear palsy (PSP) is a devastating 4-repeat tauopathy with no approved disease-modifying treatments. Recent evidence showed increased transforming growth factor-β (TGF-β) levels in PSP patient-derived ventral midbrain organoids (vMOs) and se...",
+          "inference": "该分类用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "缺乏对研究质量、样本量、利益冲突、临床阶段或商业化状态的足够信息。"
         }
       }
     },
     {
-      "signalId": "pubmed-42886421",
-      "responseId": "resp_0e4d17c3faf05d82006ad2fb3f777c87d08336b02fe1ec6228",
+      "signalId": "pubmed-42888420",
+      "responseId": "resp_02e3058ed706424f006ad353422f5887d096c48494ece6f6a3",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献描述了Moyamoya病的研究，但可能存在未明确的研究质量及临床结论。",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献由PubMed记录，分类合理，信息分隔清晰。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类不完全适用于该研究的复杂性和缺乏明确结论。"
+          "isSupported": true,
+          "notesCn": "分类和证据水平与提供的元数据相符。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "该文献缺乏对研究质量、样本量等信息的评估。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分隔清晰，未提供效力或安全性结论。"
         },
         "riskFlags": [
-          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -115,128 +116,80 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Drug Screening",
+            "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "药筛",
+            "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42886421。",
-          "report": "The underlying mechanisms of Moyamoya disease (MMD), a rare, progressive cerebrovascular disorder marked by distal internal carotid artery stenosis or occlusion and the formation of fragile collaterals, remain poorly understood, in part because conventional mo...",
+          "fact": "PubMed 记录显示该文献收录于 Journal of hematology & oncology，PMID 为 42888420。",
+          "report": "Cancer progression does not occur in isolation: malignant-cell states and fates are shaped by specialized microenvironments, or cancer niches. Within primary tumors, vascular, stromal, immune and neural interactions create local hypoxic, metabolic and mechanic...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42886396",
-      "responseId": "resp_0d7f6177812bdf3c006ad2fb431de487d092942762c95781e3",
+      "signalId": "pubmed-42888302",
+      "responseId": "resp_011467704fc0272c006ad353465b6487d0a0187604eb4817ec",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号提供的信息清晰，分类合理，未包含临床结论或推荐。",
+        "reviewSummaryCn": "该信号符合发布标准，信息来源可靠，内部一致。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "关于生物技术平台及其相关主题的分类合理."
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的分离很清晰，证据水平合理."
+          "notesCn": ""
         },
         "riskFlags": [
           "clinical_claim",
           "regulatory_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
             "Clinical Evidence",
             "Regulatory Watch",
             "Precision Oncology"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
             "临床",
             "监管",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42886396。",
-          "report": "Breast cancer is one of the most significant health issues in the world, and resistance to treatment and a lack of targets that can be addressed with drugs limit the effectiveness of the existing treatment options.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico，PMID 为 42888302。",
+          "report": "Perioperative treatment plays an increasingly important role in improving outcomes for patients with resectable non-small cell lung cancer (NSCLC). Circulating tumor DNA (ctDNA) offers a new perspective for optimizing individualized perioperative management. T...",
+          "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42887823",
-      "responseId": "resp_028da08bef4841b8006ad2fb48890487d0a9555bbff5323975",
+      "signalId": "pubmed-42888434",
+      "responseId": "resp_0cbff40959ef75c7006ad3534a5d2c87d0a4fd3b8efe511837",
       "review": {
         "status": "needs_human",
-        "confidence": 0.7,
+        "confidence": 0.85,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该摘要包含关于口腔鳞状细胞癌的病因和治疗的现代评述，虽然来源可靠，但有关临床结论的推断需要人工审查。",
+        "reviewSummaryCn": "文献涉及有效性和安全性的不足信息，并未清晰分离报告和推论，需人工审查。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "虽然分类合理，但没有足够的证据支持实际的诊断或治疗结论。"
+          "notesCn": "分类不支持参考的研究质量和临床结论。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的分离不明确，可能导致误解。"
-        },
-        "riskFlags": [
-          "medical_advice_risk",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The international journal of biochemistry & cell biology，PMID 为 42887823。",
-          "report": "Oral cancer (OC), predominantly oral squamous cell carcinoma (OSCC), is a serious global health burden with high mortality rates, especially in South and Southeast Asia. OC is a severe worldwide health issue that is mostly caused by a sedentary lifestyle, alco...",
-          "inference": "分类基于自动规则，但未能核实具体研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42887667",
-      "responseId": "resp_053dfdf52da2cd8f006ad2fb4ce1b887d0afcc1b0185115f62",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献中有关Mucormycosis的检测面临挑战，未提供支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持的证据水平较低。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "报告中没有确凿的数据支持和验证的临床结论。"
+          "notesCn": "报告和推论混合，未明确研究质量，证据级别偏低。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -244,187 +197,21 @@
           "insufficient_source"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42887667。",
-          "report": "Currently, no standard serological test is available for the detection of Mucorales. Mucormycosis is a rapidly progressing angioinvasive infection with a high mortality rate.",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42887665",
-      "responseId": "resp_03a96fec54b9f9fd006ad2fb50d8fc87d08313325c3a4bd245",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类判断，因为临床结论支持不足。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "临床结论支持不足。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平不够强，不能支持所有关于指标的临床推论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 42887665。",
-          "report": "This review outlines the functions of circulating citrullinated histone H3 (CitH3), citrullinated and matrix metalloproteinase-degraded vimentin (VICM), peptidylarginine deiminase 4 (PAD4), and related proteoforms in oncology and discusses their suitability as...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42887064",
-      "responseId": "resp_061de2131ca905e8006ad2fb54cf1887d0b5e0fcfe2942652d",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献主要讨论液体活检在血液恶性肿瘤中的应用，但存在尚未确定的研究质量和潜在利益冲突问题。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题逻辑。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平较低，未提供明确的临床结论。"
-        },
-        "riskFlags": [
-          "medical_advice_risk",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
           "evidenceLevel": "Low",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42887064。",
-          "report": "Mutation-based liquid biopsy supports diagnosis and disease monitoring in hematologic malignancies, but interpretation of plasma variants may be complicated by clonal hematopoiesis, treatment-related changes, and nonmalignant blood-cell turnover. This structur...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42887488",
-      "responseId": "resp_0eed65804c03d65d006ad2fb58d1a087d0b7521a677c254c6f",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号内部一致且基于可靠来源，不包含未支持的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分离，证据水平符合说明。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Differentiation; research in biological diversity，PMID 为 42887488。",
-          "report": "Vascular cells hold great potential not only for treating vascular disease but also for engineering vascularized organoids and tissues for transplantation. Both endothelial cells (ECs) and smooth muscle cells (SMCs) can be derived from human induced pluripoten...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42886639",
-      "responseId": "resp_02e76c09cc295826006ad2fb5dabec87d0acd616dbbabc4322",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录在分类和证据水平上合理，信息清晰，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类器官和先进疾病模型的分类合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分离明确，证据水平适中。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
             "Clinical Evidence",
-            "Regulatory Watch",
-            "Multi-omics"
+            "Regulatory Watch"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
             "临床",
             "监管",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Animal genetics，PMID 为 42886639。",
-          "report": "Bovine mastitis is a heterogeneous inflammatory disease that compromises milk production, animal welfare and dairy sustainability. Despite extensive transcriptomic and epigenomic research, a PubMed search completed in September 2026 identified only 12 primary...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42888434。",
+          "report": "Plasma cell-free DNA (cfDNA) whole-genome methylation sequencing enables simultaneous characterization of DNA methylation and fragmentomic features for cancer detection.",
+          "inference": "当前分类不应直接等于临床证据，需进一步验证研究质量。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
