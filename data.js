@@ -821,6 +821,80 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42893406",
+      "date": "2026-10-18",
+      "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893406/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
+      "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c65d149297300bf006ad4ec2eecc487d096c10343b734b1e1",
+        "reviewedAt": "2026-10-18T15:56:30.106779+00:00",
+        "inputHash": "80471c767005a905b24afcf60b75d91357fe601709a82d6fd4e4a8499219da68",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片内部联系一致，信息中立，可出版。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别适当，符合信号的内容。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离清晰。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
+          "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42892521",
       "date": "2026-10-17",
       "title": "2-Hydroxyisobutyrylation of SRSF9 Regulates CD44 Alternative Splicing to Promote Colorectal Cancer Liver Metastasis.",
@@ -9276,75 +9350,6 @@ window.BHR_DATA = {
           "report": "Transthyretin amyloid cardiomyopathy (ATTR-CM) is a heart muscle disease that's stops the heart muscle working properly. With an ageing population, it is increasingly common but untreated, it has a poor prognosis. Several novel expensive treatments have become...",
           "inference": "该报告可能暗示了疗效而缺乏充分的支持。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42891357",
-      "date": "2026-05-20",
-      "title": "Changes in the gut microbiome during fasting-induced molting and its effects on gut-liver function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891357/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42891357。",
-      "report": "Fasting-induced molting (FIM) rejuvenates the laying cycle in hens; however, the fasting process may result in intestinal dysbiosis, which compromises host immunity and disrupts the intestine-liver function. Consequently, investigating the changes in gut micro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0752736c5196cf9d006ad44e1d7ecc87d1b5e913b593dadf18",
-        "reviewedAt": "2026-10-18T04:41:17.981002+00:00",
-        "inputHash": "99abf0e26ad2c0d71423b293fd24cfd0a2ec86c439ed2a90e3ebfde8e5522050",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录完整，信息清晰，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42891357。",
-          "report": "Fasting-induced molting (FIM) rejuvenates the laying cycle in hens; however, the fasting process may result in intestinal dysbiosis, which compromises host immunity and disrupts the intestine-liver function. Consequently, investigating the changes in gut micro...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

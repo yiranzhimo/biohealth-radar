@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-18T11:16:22.137782+00:00",
+  "capturedAt": "2026-10-18T15:56:19.795899+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-18"
   },
   "pmids": [
+    "42893406",
     "42892521",
     "42892455",
     "42892391",
     "42892170",
     "42892115",
-    "42891357",
     "42890802",
     "42880218",
     "42865067",
@@ -40,6 +40,23 @@
     "42891162"
   ],
   "records": [
+    {
+      "pmid": "42893406",
+      "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
+      "abstract": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. To address this gap, we used HIV-1-infected human cerebral organoids (hCOs) containing microglia as a physiologically relevant three-dimensional model of the central nervous system (CNS) and validated key findings in the brain region of simian immunodeficiency virus (SIV)-infected, cART-treated rhesus macaque model. Integrated single-nucleus RNA sequencing with ATAC-seq (multi-omics), identifies cell-type-specific alterations in dual innate immune-driven inflammatory signaling pathways across neural and glial populations in hCOs. Microglia were preferentially infected and activated, initiating IL-17A-mediated cascades involving IFN-γ/STAT1, CEBPB, and NF-κB signaling. These pathways converged with cGAS-STING and Notch-NEURL1 signaling, both associated with neuroinflammation and synaptic dysfunction. cART suppressed viral replication, reduced IL-17A-mediated neuroinflammation, improved mitochondrial function, and restored synaptic gene expression. Collectively, these findings identify dysregulation of IL-17A, STAT1, CEBPB, and cGAS-STING signaling as key molecular drivers of HIV-associated neuroinflammation. They also establish a potential mechanistic link between IL-17A signaling and microglial remodeling, providing a translational framework for the development of CNS-targeted therapies in PWH.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Sciences, Irma Lerma Rangel College of Pharmacy, Texas A&M University, College Station, Texas, USA.",
+        "Department of Veterinary Integrative Biosciences, School of Veterinary Medicine and Biomedical Sciences, Texas A&M University, College Station, Texas, USA.",
+        "Department of Pharmacology and Experimental Neuroscience, College of Medicine, University of Nebraska Medical Center, Omaha, Nebraska, USA."
+      ],
+      "doi": "10.1002/advs.77954",
+      "date": "2026-10-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893406/"
+    },
     {
       "pmid": "42892521",
       "title": "2-Hydroxyisobutyrylation of SRSF9 Regulates CD44 Alternative Splicing to Promote Colorectal Cancer Liver Metastasis.",
@@ -133,22 +150,6 @@
       "doi": "10.1016/j.tice.2026.104059",
       "date": "2026-10-15",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892115/"
-    },
-    {
-      "pmid": "42891357",
-      "title": "Changes in the gut microbiome during fasting-induced molting and its effects on gut-liver function.",
-      "abstract": "Fasting-induced molting (FIM) rejuvenates the laying cycle in hens; however, the fasting process may result in intestinal dysbiosis, which compromises host immunity and disrupts the intestine-liver function. Consequently, investigating the changes in gut microbiota during FIM and its impacts on gut-liver metabolic homeostasis is crucial for enhancing the efficiency of FIM in laying hens. Here, a total of 90 laying hens, aged 60 weeks, were selected for the FIM. Samples were collected at four time points: the day before fasting, the 15th day of fasting, the 5th day of refeeding, and the 47th day of refeeding. Metagenomic sequencing and non-targeted metabolomics were employed to investigate the roles of the gut microbiota and metabolites in the remodeling of gut-liver function, focusing on intestinal injury-repair mechanisms and changes in liver function. During the fasting period, the abundance of harmful microbiota and metabolites increase, leading to intestinal injury. This process activates the TGF-beta signaling pathway, promoting intestinal stem cell proliferation. Simultaneously, liver function dysfunction as evidenced by elevated bile acid levels in the liver and serum and activation of the non-classical bile acid synthesis pathway. During the refeeding period, the previously observed effects were reversed, leading to the remodeling of the intestinal microbiota and gut-liver function. We identified key microorganisms (Liquorilactobacillus mali and Tissierellia bacterium KA00581) and functional metabolites (d-Panthenol and 3-hydroxyanthranilic acid (3-HAA)) involved in intestinal-liver function during FIM. Notably, d-Panthenol promotes chicken small intestinal organoid branching and growth, enhances barrier function, and reduces inflammation. Our study underscores the role of gut microbiota in gut-liver injury during FIM in laying hens, suggesting potential probiotic- or metabolite-based interventions to mitigate gut-liver injury and facilitate recovery.",
-      "journal": "iMetaOmics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "College of Animal Science and Technology Henan Agricultural University Zhengzhou China.",
-        "The Shennong Laboratory Zhengzhou China."
-      ],
-      "doi": "10.1002/imo2.70103",
-      "date": "2026-05-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891357/"
     },
     {
       "pmid": "42890802",
@@ -473,6 +474,36 @@
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42893406",
+      "date": "2026-10-18",
+      "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893406/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
+      "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42892521",
       "date": "2026-10-17",
@@ -1149,34 +1180,6 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42891357",
-      "date": "2026-05-20",
-      "title": "Changes in the gut microbiome during fasting-induced molting and its effects on gut-liver function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891357/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42891357。",
-      "report": "Fasting-induced molting (FIM) rejuvenates the laying cycle in hens; however, the fasting process may result in intestinal dysbiosis, which compromises host immunity and disrupts the intestine-liver function. Consequently, investigating the changes in gut micro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
