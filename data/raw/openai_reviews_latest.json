@@ -1,51 +1,8 @@
 {
-  "capturedAt": "2026-10-18T15:56:30.106779+00:00",
+  "capturedAt": "2026-10-18T20:51:01.034437+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": [
-    {
-      "signalId": "pubmed-42893406",
-      "responseId": "resp_0c65d149297300bf006ad4ec2eecc487d096c10343b734b1e1",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片内部联系一致，信息中立，可出版。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主类别和子类别适当，符合信号的内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分离清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
-          "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    }
-  ]
+  "reviews": []
 }
