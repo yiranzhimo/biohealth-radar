@@ -46051,7 +46051,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-illumina-official-88ab2ea0be50",
             "date": "2026-10-16",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -46127,7 +46127,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-illumina-official-88ab2ea0be50",
           "date": "2026-10-16",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -49849,7 +49849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49857,7 +49857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
             "text": "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49865,7 +49865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
             "text": "Ionis has been recognized as one of the San Diego Business Journal's Best Places to Work for the third consecutive year.",
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49873,7 +49873,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49881,7 +49881,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49897,8 +49897,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-ionis-official-9ba52f9d0691",
           "evidence-sec-0000874015-000114036126037371",
-          "evidence-company-ionis-official-6394d445ac25",
           "evidence-sec-0000874015-000114036126035802",
           "evidence-sec-0000874015-000114036126035657",
           "evidence-company-ionis-pipeline-3987692c42b2",
@@ -49912,6 +49912,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-ionis-official-9ba52f9d0691",
+            "date": "2026-10-18",
+            "title": "Innovating to Change the Course of Human Health | IONIS",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
+            "sourceUrl": "https://ionis.com/"
+          },
+          {
             "id": "event-sec-0000874015-000114036126037371",
             "date": "2026-09-23",
             "title": "Ionis Pharmaceuticals filed Form 8-K",
@@ -49921,17 +49932,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000114036126037371",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_8k.htm"
-          },
-          {
-            "id": "event-evidence-company-ionis-official-6394d445ac25",
-            "date": "2026-09-23",
-            "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-6394d445ac25",
-            "sourceUrl": "https://ionis.com/"
           },
           {
             "id": "event-sec-0000874015-000114036126035802",
@@ -49979,7 +49979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 7
         },
-        "lastEvidenceDate": "2026-09-23",
+        "lastEvidenceDate": "2026-10-18",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -49987,6 +49987,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-ionis-official-9ba52f9d0691",
+          "date": "2026-10-18",
+          "title": "Innovating to Change the Course of Human Health | IONIS",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-ionis-official-9ba52f9d0691",
+          "sourceUrl": "https://ionis.com/"
+        },
         {
           "id": "event-sec-0000874015-000114036126037371",
           "date": "2026-09-23",
@@ -49997,17 +50008,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0000874015-000114036126037371",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_8k.htm"
-        },
-        {
-          "id": "event-evidence-company-ionis-official-6394d445ac25",
-          "date": "2026-09-23",
-          "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-6394d445ac25",
-          "sourceUrl": "https://ionis.com/"
         },
         {
           "id": "event-sec-0000874015-000114036126035802",
@@ -53025,7 +53025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-legend-biotech-official-a50d95dafb07",
             "date": "2026-10-16",
             "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -53103,7 +53103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-legend-biotech-official-a50d95dafb07",
           "date": "2026-10-16",
           "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56232,7 +56232,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
             "text": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56240,7 +56240,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
             "text": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
+            "sourceUrl": "https://www.mimetas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
+            "text": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56248,23 +56256,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
             "text": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
-            "sourceUrl": "https://www.mimetas.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
-            "text": "Powered by the OrganoPlate® platform, we create human physiology models that scale – delivering multiplexed data for smarter decisions.",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
-            "sourceUrl": "https://www.mimetas.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Learn about global shift towards New Approach Methodologies and how organ-on-a-chip models can move beyond innovation into regulatory-grade application and why standardized biology is the missing link.",
-            "text": "Learn about global shift towards New Approach Methodologies and how organ-on-a-chip models can move beyond innovation into regulatory-grade application and why standardized biology is the missing link.",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
             "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56272,15 +56264,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Science Organ Models Vasculature Liver Gut Kidney Blood brain barrier Nervous System Research Areas Oncology Immunology Metabolic Diseases ADME/Toxicity",
             "text": "Science Organ Models Vasculature Liver Gut Kidney Blood brain barrier Nervous System Research Areas Oncology Immunology Metabolic Diseases ADME/Toxicity",
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
             "sourceUrl": "https://www.mimetas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
+            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
+            "evidenceId": "evidence-company-mimetas-pipeline-eb331a18de27",
+            "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-mimetas-official-f40631922431",
+          "evidence-company-mimetas-official-1201d3291c3d",
           "evidence-company-mimetas-pipeline-eb331a18de27"
         ]
       },
@@ -56288,14 +56288,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-mimetas-official-f40631922431",
-            "date": "2026-10-14",
+            "id": "event-evidence-company-mimetas-official-1201d3291c3d",
+            "date": "2026-10-18",
             "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-official-f40631922431",
+            "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
             "sourceUrl": "https://www.mimetas.com/"
           },
           {
@@ -56321,7 +56321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-14",
+        "lastEvidenceDate": "2026-10-18",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56330,14 +56330,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-mimetas-official-f40631922431",
-          "date": "2026-10-14",
+          "id": "event-evidence-company-mimetas-official-1201d3291c3d",
+          "date": "2026-10-18",
           "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-official-f40631922431",
+          "evidenceId": "evidence-company-mimetas-official-1201d3291c3d",
           "sourceUrl": "https://www.mimetas.com/"
         },
         {
@@ -57968,7 +57968,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-natera-official-f11ac2c5df2e",
             "date": "2026-10-16",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -58044,7 +58044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-natera-official-f11ac2c5df2e",
           "date": "2026-10-16",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59312,7 +59312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nurix-official-266953c0bb73",
             "date": "2026-10-16",
             "title": "Nurix | Medicines to Outmatch Disease",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59388,7 +59388,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nurix-official-266953c0bb73",
           "date": "2026-10-16",
           "title": "Nurix | Medicines to Outmatch Disease",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -64328,7 +64328,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-official-488a1ddc8f73",
             "date": "2026-10-16",
             "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64406,7 +64406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-official-488a1ddc8f73",
           "date": "2026-10-16",
           "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
