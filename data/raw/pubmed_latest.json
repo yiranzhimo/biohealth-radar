@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-19T04:49:24.324358+00:00",
+  "capturedAt": "2026-10-19T13:28:46.955786+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-19"
   },
   "pmids": [
+    "42894212",
+    "42894194",
     "42893502",
     "42893406",
     "42892521",
     "42892455",
-    "42892391",
-    "42892170",
     "42893561",
     "42890802",
     "42880218",
@@ -40,6 +40,51 @@
     "42891465"
   ],
   "records": [
+    {
+      "pmid": "42894212",
+      "title": "ACSF2 Functions as a regulatory switch for PARP inhibitor sensitivity in platinum-sensitive and homologous recombination-proficient high-grade serous ovarian cancer.",
+      "abstract": "Poly(ADP-ribose) polymerase (PARP) inhibitor resistance represents a major clinical challenge in both homologous recombination deficiency-positive (HRD+) and deficiency-negative (HRD-) high-grade serous ovarian carcinoma (HGSOC). ACSF2 is aberrantly overexpressed in various malignancies and associated with poor patient prognosis. However, its role and underlying mechanism in PARP inhibitor resistance remain unclear. This study aimed to investigate whether ACSF2 modulates PARP inhibitor resistance by regulating p53-binding protein 1 (53BP1) nuclear foci formation and to determine if ACSF2 influences histone H4 Lysine 20 di-methylation (H4K20me2)-mediated 53BP1 recruitment via KMT5B in HRD- HGSOC. Using machine learning, ACSF2 was identified as a key resistance gene to PARP inhibitor. This discovery was based on an integrated analysis of six platinum-sensitive recurrent ovarian cancer (OC) cell lines (HRD±), four PARP inhibitor-resistant patient-derived organoid (PDO) models, and 181 °C tissue samples. Isogenic resistant cell lines were established to validate the role of ACSF2. The functional impact of ACSF2 perturbation was assessed by evaluating 53BP1, breast cancer type 1 susceptibility protein (BRCA1), and phosphorylated H2A histone family member x (γH2AX) foci formation, along with epigenetic markers (KMT5B and H4K20me2). The therapeutic potential of targeting ACSF2 was further examined through in vitro, in vivo, and PDO models. ACSF2 was provisionally identified as key mediator of PARP inhibitor resistance, with high expression correlating with poorer median overall survival in patients (42.00 vs. 49.60 months, P < 0.05). Similarly, ACSF2 acted as a key regulator of Niraparib sensitivity. Overexpression of ACSF2 increased the IC50 (72 h) from 146.89 ± 9.08 µmol/L to 192.27 ± 4.24 µmol/L (P < 0.001), while its knockdown reduced the IC50 to 92.81 ± 2.62 µmol/L (P < 0.001). Mechanistically, ACSF2 suppression significantly enhanced 53BP1 nuclear foci formation (positive cells increased from 12.00 ± 2.90% to 76.65 ± 7.23%; foci count increased > 12-fold; P < 0.001) and suppressed Niraparib-induced BRCA1 foci (median foci reduced from 38.00 [23.24-52.76] to 3.86 [1.50-6.21]), concomitantly promoting DNA damage. This process was associated with upregulation of H4K20me2, which is regulated by KMT5B. ACSF2 promotes Niraparib resistance in HRD- HGSOC by modulating the KMT5B-H4K20me2 axis, thereby inhibiting 53BP1 nuclear aggregation. Targeting ACSF2 restores 53BP1-mediated DNA damage response and re-sensitizes tumors to PARP inhibitor.",
+      "journal": "Cancer cell international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China.",
+        "Laboratory of Human Virology and Oncology, Shantou University Medical College, No. 22 Xinling Road, Jinping District, Shantou, 515041, Guangdong, China.",
+        "Science Research Center, Huizhou Central People's Hospital, Huizhou, 516001, Guangdong, China.",
+        "Department of Epidemiology and Statistics, School of Public Health, Guangdong Medical University, Dongguan, 523808, Guangdong, China.",
+        "Department of Dermatology, The First Affiliated Hospital, The Second Clinical Medical College, Shenzhen People's Hospital, Southern University of Science and Technology, Jinan University), Shenzhen, 518020, Guangdong, China.",
+        "Research Center, Guangzhou Algae Technology, Guangzhou, 510720, Guangdong, China.",
+        "The First School of Clinical Medicine, Guangdong Medical University, Zhanjiang, 524023, Guangdong, China.",
+        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China. ppa666@163.com.",
+        "Laboratory of Human Virology and Oncology, Shantou University Medical College, No. 22 Xinling Road, Jinping District, Shantou, 515041, Guangdong, China. qsqin@stu.edu.cn.",
+        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China. yqjihzch@163.com."
+      ],
+      "doi": "10.1186/s12935-026-04426-9",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894212/"
+    },
+    {
+      "pmid": "42894194",
+      "title": "CFI-400945 enhances radiosensitivity in colorectal cancer models by promoting mitotic dysregulation and DNA damage-associated apoptosis.",
+      "abstract": "Radioresistance remains a major barrier to improving radiotherapy (RT) efficacy in colorectal cancer (CRC). Since mitotic fidelity and centrosome homeostasis influence cell fate under genotoxic stress, we investigated whether CFI-400945 enhances the radiation response in CRC models and whether this effect is associated with polo-like kinase 4 (PLK4)-related mitotic dysregulation. HCT116 and HT29 CRC cells were treated with CFI-400945 and/or irradiation. Radiation response was evaluated using MTT viability and clonogenic survival assays, alongside analyses of cell-cycle distribution, centrosome-associated abnormalities, nuclear phenotypes, DNA damage-associated signaling, and apoptotic markers. PLK4 involvement was evaluated using siRNA-mediated PLK4 depletion, and Aurora kinase B (AURKB) phosphorylation was assessed to examine potential Aurora B-related effects. Combination treatment was also tested in non-malignant CCD 841 CoN colon-derived control cells and patient-derived CRC organoids. Combined CFI-400945 and RT treatment reduced short-term viability and long-term clonogenic survival in HCT116 and HT29 cells compared with either monotherapy. In CCD 841 CoN cells, CFI-400945 did not significantly enhance radiation-associated loss of clonogenic survival versus RT alone. Combination treatment increased G2/M accumulation, >4 N and sub-G1 fractions, γ-tubulin-positive foci, multinucleation, and micronucleation, consistent with centrosome-associated mitotic abnormalities and reduced survival. DNA damage-associated signaling was enhanced, with increased DNA-dependent protein kinase catalytic subunit (DNA-PKcs) and phosphorylated histone H2AX (γH2AX) levels and increased phosphorylation of ataxia telangiectasia mutated (ATM) and CHK2. Apoptotic marker induction also increased, including robust cleavage of caspase-3 and PARP1. CFI-400945 did not markedly suppress AURKB phosphorylation under the experimental conditions. Importantly, siRNA-mediated PLK4 depletion reduced clonogenic survival after irradiation and increased cleaved PARP1 and cleaved caspase-3, supporting PLK4 involvement in the radiation response. In patient-derived CRC organoids, combination treatment reduced viability and increased DNA damage-associated and apoptotic markers compared with single treatments. CFI-400945 enhanced radiation response in CRC cell lines and patient-derived organoids, accompanied by centrosome-associated mitotic abnormalities, increased DNA damage-associated signaling, and apoptotic marker induction. siRNA-mediated PLK4 depletion partially recapitulated these effects, supporting a role for PLK4-associated mitotic regulation. However, because CFI-400945 may also target non-PLK4 mitotic kinases, these support an association --between radiosensitization and PLK4-related mitotic dysregulation rather than an exclusively PLK4-dependent mechanism.",
+      "journal": "Cancer cell international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Surgery, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
+        "Department of Pathology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
+        "Department of Immunology, Keimyung University School of Medicine, Daegu, Republic of Korea.",
+        "Department of Radiation Oncology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
+        "Department of Anatomy, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea. cnsl428@dsmc.or.kr.",
+        "Department of Pathology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea. hwlee@dsmc.or.kr.",
+        "Department of Surgery, School of Medicine & Institute for Medical Science, Keimyung University Dongsan Medical Center, Daegu, Korea. hispower@dsmc.or.kr."
+      ],
+      "doi": "10.1186/s12935-026-04407-y",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894194/"
+    },
     {
       "pmid": "42893502",
       "title": "Acinar-Derived Organoids Reveal Stage-Specific Control of Acinar Plasticity.",
@@ -109,47 +154,6 @@
       "doi": "10.1016/j.ijpharm.2026.127550",
       "date": "2026-10-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892455/"
-    },
-    {
-      "pmid": "42892391",
-      "title": "Efficient Generation of Definitive-like Hematopoietic Stem and Progenitor Cells from Human Pluripotent Stem Cells through Optimized Lateral Plate Mesoderm Induction and a Supportive Endothelial-Stromal Microenvironment.",
-      "abstract": "The generation of hematopoietic stem and progenitor cells (HSPCs) with definitive features from human pluripotent stem cells (hPSCs) requires coordinated lineage specification together with a supportive hematopoietic microenvironment. Although 3D and aggregate-based systems can recapitulate endothelial and stromal niche features, their self-organizing architecture can introduce structural heterogeneity and batch-to-batch variability, complicating experimental standardization and process control. Here, we developed a chemically defined, feeder-free, lateral plate mesoderm (LPM)-directed 2D multicellular system that combines controlled hematopoietic specification with the spontaneous formation of an endothelial-stromal microenvironment. Through sequential differentiation from LPM to hemogenic endothelium, this system generated CD34+CD43+CD45+ HSPCs at frequencies of up to 86% across three hPSC lines within 10 days. Notably, an endothelial-stromal microenvironment formed spontaneously without aggregate formation, and disruption experiments implicated Notch and CXCL12/CXCR4 signaling in hematopoietic progenitor development. Transcriptomic benchmarking revealed HSC-associated molecular features in the generated cells while also identifying residual transcriptional differences from primary cord blood LT-HSCs. The resulting HSPCs exhibited clonogenic activity and multilineage differentiation potential, giving rise to enucleated erythrocytes, cytotoxic natural killer cells, and phenotypically identified monocyte-like and T-lineage cells, with erythroid enucleation reaching approximately 80%. In addition, day-10 suspension-derived CD34+ cells showed detectable bone marrow engraftment in vivo. Collectively, this study shows that key microenvironmental features can be retained within a simplified 2D multicellular system, providing a framework for studying hematopoiesis and refining hPSC-derived HSPC generation. STATEMENT OF SIGNIFICANCE: Recent three-dimensional and organoid-based approaches have highlighted the importance of multicellular microenvironments in hPSC-derived hematopoiesis, but their structural complexity can complicate culture handling and standardization. Here, we established a chemically defined, feeder-free planar system that directed lateral plate mesoderm toward hemogenic endothelium while supporting spontaneous emergence of endothelial, stromal, and hematopoietic populations. The resulting HSPCs exhibited features of definitive hematopoiesis, including clonogenic activity, multilineage differentiation, and evidence of bone marrow engraftment in vivo. Disruption experiments targeting DLL4/Notch and CXCL12/CXCR4 signaling supported a role for this multicellular microenvironment in progenitor output. This work shows that key multicellular microenvironmental features can be retained within a simplified planar culture, providing a framework for studying hematopoiesis and refining hPSC-derived HSPC generation.",
-      "journal": "Acta biomaterialia",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai 200237, China; Guangdong Provincial Key Laboratory of Large Animal Models for Biomedicine, and South China Institute of Large Animal Models for Biomedicine, School of Pharmacy and Food Engineering, Wuyi University, Jiangmen 529020, Guangdong, China; Haihe Laboratory of Cell Ecosystem, Institute of Hematology, Chinese Academy of Medical Sciences, Tianjin 300020, China.",
-        "Haihe Laboratory of Cell Ecosystem, Institute of Hematology, Chinese Academy of Medical Sciences, Tianjin 300020, China.",
-        "Jiangmen Maternity and Child Health Care Hospital, Jiangmen, China.",
-        "Guangdong Provincial Key Laboratory of Large Animal Models for Biomedicine, and South China Institute of Large Animal Models for Biomedicine, School of Pharmacy and Food Engineering, Wuyi University, Jiangmen 529020, Guangdong, China.",
-        "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai 200237, China.",
-        "Guangdong Provincial Key Laboratory of Large Animal Models for Biomedicine, and South China Institute of Large Animal Models for Biomedicine, School of Pharmacy and Food Engineering, Wuyi University, Jiangmen 529020, Guangdong, China; Innovation and Transformation Center, Fujian University of Traditional Chinese Medicine, Fuzhou 350122, Fujian, China. Electronic address: gejianyun85@fjtcm.edu.cn.",
-        "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai 200237, China. Electronic address: caihaibo@mail.ecust.edu.cn.",
-        "Guangdong Provincial Key Laboratory of Large Animal Models for Biomedicine, and South China Institute of Large Animal Models for Biomedicine, School of Pharmacy and Food Engineering, Wuyi University, Jiangmen 529020, Guangdong, China; Haihe Laboratory of Cell Ecosystem, Institute of Hematology, Chinese Academy of Medical Sciences, Tianjin 300020, China; Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Tokyo 125-8585, Japan; International Research Center for Medical Sciences, Kumamoto University, Kumamoto 860-0811, Japan; Institute of Regenerative Medicine, and Department of Dermatology, Affiliated Hospital of Jiangsu University, Zhenjiang 212001, Jiangsu, China. Electronic address: zhengyunwen@ihcams.ac.cn."
-      ],
-      "doi": "10.1016/j.actbio.2026.10.032",
-      "date": "2026-10-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892391/"
-    },
-    {
-      "pmid": "42892170",
-      "title": "The gastrointestinal KATP-ERK signaling axis: Molecular mechanisms, pharmacological opportunities, and emerging translational technologies.",
-      "abstract": "ATP-sensitive potassium channels are metabolic sensors that couple intracellular nucleotide availability to membrane excitability, calcium signaling, mitochondrial function, and cell survival. Growing evidence identifies KATP channels as essential regulators of gastrointestinal physiology. They are expressed in smooth muscle, enteric neurons, interstitial cells of Cajal, epithelial and enteroendocrine cells, microvascular cells, pericytes, and liver, where they contribute to motility, secretion, barrier integrity, nutrient sensing, vascular regulation, and mucosal protection. In parallel, ERK1/2 are central effectors of the MAPK pathway, controlling epithelial renewal, inflammation, fibrosis, apoptosis, and tissue repair. This review proposes an integrated KATP-ERK signaling network that regulates gastrointestinal homeostasis. PubMed and Scopus were searched for relevant studies using combinations of the terms \"ERK\" AND \"KATP channels\" AND \"cardiovascular\" OR \"gastrointestinal\". Evidence supports functional crosstalk between KATP channels and ERK signaling. In this framework, KATP channels act as metabolic rheostats, whereas ERK integrates redox, growth factor, and stress-related signals. Acute KATP activation promotes adaptation by preserving mitochondrial function and epithelial barrier integrity, whereas chronic channel overactivation, as observed in Cantú syndrome caused by gain-of-function mutations in ABCC9 or KCNJ8, may induce maladaptive remodeling, tight junction disruption, apoptosis, fibrosis, and dysmotility. The potential involvement of FGFR/Klotho signaling as an upstream ERK regulator, together with KATP/ERK pharmacological modulation, FGF/Klotho-based therapies, and biosensor technologies for pathway monitoring in organoids and gut-on-chip models, is also discussed. The KATP-ERK-FGFR/Klotho framework links ion-channel pharmacology with gastrointestinal biology, providing a foundation for biomarker discovery, therapeutic development, and precision medicine approaches in gastrointestinal disorders.",
-      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "University of Bari Aldo Moro, Italy.",
-        "Università degli Studi di Bari Aldo Moro, Italy.",
-        "Functional Gastrointestinal Disorders Research Group, National Institute of Gastroenterology IRCCS \"Saverio de Bellis\", Castellana Grotte, 70013 Bari, Italy. Electronic address: fatima.maqoud@irccsdebellis.it.",
-        "Functional Gastrointestinal Disorders Research Group, National Institute of Gastroenterology IRCCS \"Saverio de Bellis\", Castellana Grotte, 70013 Bari, Italy."
-      ],
-      "doi": "10.1016/j.biopha.2026.119986",
-      "date": "2026-10-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892170/"
     },
     {
       "pmid": "42893561",
@@ -662,68 +666,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42892391",
-      "date": "2026-10-17",
-      "title": "Efficient Generation of Definitive-like Hematopoietic Stem and Progenitor Cells from Human Pluripotent Stem Cells through Optimized Lateral Plate Mesoderm Induction and a Supportive Endothelial-Stromal Microenvironment.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892391/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta biomaterialia，PMID 为 42892391。",
-      "report": "The generation of hematopoietic stem and progenitor cells (HSPCs) with definitive features from human pluripotent stem cells (hPSCs) requires coordinated lineage specification together with a supportive hematopoietic microenvironment. Although 3D and aggregate...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42892170",
-      "date": "2026-10-17",
-      "title": "The gastrointestinal KATP-ERK signaling axis: Molecular mechanisms, pharmacological opportunities, and emerging translational technologies.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892170/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie，PMID 为 42892170。",
-      "report": "ATP-sensitive potassium channels are metabolic sensors that couple intracellular nucleotide availability to membrane excitability, calcium signaling, mitochondrial function, and cell survival. Growing evidence identifies KATP channels as essential regulators o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42893629",
       "date": "2026-10-17",
       "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
@@ -1189,6 +1131,70 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42894212",
+      "date": "2026-07-22",
+      "title": "ACSF2 Functions as a regulatory switch for PARP inhibitor sensitivity in platinum-sensitive and homologous recombination-proficient high-grade serous ovarian cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894212/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42894212。",
+      "report": "Poly(ADP-ribose) polymerase (PARP) inhibitor resistance represents a major clinical challenge in both homologous recombination deficiency-positive (HRD+) and deficiency-negative (HRD-) high-grade serous ovarian carcinoma (HGSOC). ACSF2 is aberrantly overexpres...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42894194",
+      "date": "2026-07-22",
+      "title": "CFI-400945 enhances radiosensitivity in colorectal cancer models by promoting mitotic dysregulation and DNA damage-associated apoptosis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894194/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42894194。",
+      "report": "Radioresistance remains a major barrier to improving radiotherapy (RT) efficacy in colorectal cancer (CRC). Since mitotic fidelity and centrosome homeostasis influence cell fate under genotoxic stress, we investigated whether CFI-400945 enhances the radiation...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

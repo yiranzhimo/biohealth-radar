@@ -4,15 +4,15 @@
   "asOfDate": "2026-10-19",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-00c090fc426c0003",
-      "observedName": "Beijing Gene Key Life Technology Co., Ltd",
-      "normalizedName": "beijing gene key life technology",
+      "id": "mention-clinicaltrials-51c8e270af028527",
+      "observedName": "Jacobio Pharmaceuticals Co., Ltd.",
+      "normalizedName": "jacobio pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07777211",
-      "sourceDate": "2026-08-20",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07777211",
+      "sourceRecordId": "NCT05490472",
+      "sourceDate": "2026-01-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05490472",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -22,6 +22,7 @@
         "Recruiting",
         "中国",
         "临床试验",
+        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
@@ -29,33 +30,68 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Phase I/IIa Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer"
+      "contextTitle": "JAB-2485 Activity in Adult Patients With Advanced Solid Tumors"
     },
     {
-      "id": "mention-clinicaltrials-f2368a812b34822b",
-      "observedName": "Jazz Pharmaceuticals",
-      "normalizedName": "jazz pharmaceuticals",
+      "id": "mention-clinicaltrials-6b4708178c2cd247",
+      "observedName": "Skin Analytics Limited",
+      "normalizedName": "skin analytics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00942305",
-      "sourceDate": "2021-07-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00942305",
+      "sourceRecordId": "NCT04123678",
+      "sourceDate": "2021-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
         "Oncology",
+        "Precision Oncology",
+        "临床决策支持",
         "临床试验",
-        "细胞治疗",
+        "医疗 AI",
         "肿瘤"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of CMX001 to Prevent/Control Cytomegalovirus Infection in R+ Hematopoietic Stem Cell Transplant Recipients"
+      "contextTitle": "DERM Health Economics Study"
+    },
+    {
+      "id": "mention-clinicaltrials-a917cc2751770c57",
+      "observedName": "Peerbridge Health, Inc",
+      "normalizedName": "peerbridge health",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07775976",
+      "sourceDate": "2026-08-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Healthcare AI",
+        "Longevity",
+        "Medical AI",
+        "Precision Medicine",
+        "biomarker",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "精准医疗",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
