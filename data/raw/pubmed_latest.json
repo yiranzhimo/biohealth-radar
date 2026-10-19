@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-18T20:50:53.262032+00:00",
+  "capturedAt": "2026-10-19T04:49:24.324358+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,53 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-18",
-    "end": "2026-10-18"
+    "start": "2025-10-19",
+    "end": "2026-10-19"
   },
   "pmids": [
+    "42893502",
     "42893406",
     "42892521",
     "42892455",
     "42892391",
     "42892170",
-    "42892115",
+    "42893561",
     "42890802",
     "42880218",
     "42865067",
     "42860076",
     "42852178",
-    "42844355",
     "42885407",
     "42880220",
     "42873630",
     "42872591",
     "42871461",
     "42869909",
+    "42893704",
+    "42893629",
     "42893057",
     "42892233",
     "42891682",
-    "42891465",
-    "42891231",
-    "42891162"
+    "42891465"
   ],
   "records": [
+    {
+      "pmid": "42893502",
+      "title": "Acinar-Derived Organoids Reveal Stage-Specific Control of Acinar Plasticity.",
+      "abstract": "Adult pancreatic acinar cells undergo ordered metaplastic conversion during injury and tumor initiation. Whether individual cells retain redifferentiation capacity after metaplastic expansion, and what signals each transition requires, remains unknown. Here, using organoids derived from single acinar cells, we show that expanded acinar-lineage organoids can reacquire acinar features under stage-specific culture conditions. We defined conditions that preserve acinar identity ex vivo and showed that epidermal growth factor (EGF)/EGF receptor (EGFR) signaling initiates conversion from this maintained state. The expansion trajectory recapitulates injury- and oncogene-associated acinar-to-ductal metaplasia (ADM) programs in vivo. After expansion, the conditions that preserved acinar identity could not restore it; a staged regimen containing transient insulin-like growth factor 1 receptor (IGF1R) inhibition and dexamethasone promoted redifferentiation. The KrasG12D;Trp53R172H;Pdx1-Cre (KPC) genotype reduced EGFR dependence during initiation but destabilized post-expansion redifferentiation; Kras-pathway inhibition increased endpoint acinar-marker expression. These findings demonstrate that acinar plasticity is organized by stage-specific signals, and that the KPC genotype disrupts this control at specific transition points.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute for Regenerative Medicine, State Key Laboratory of Cardiovascular Diseases, Shanghai East Hospital, Frontier Science Center for Stem Cell Research, School of Life Sciences and Technology, Tongji University, Shanghai, China.",
+        "Medical Innovation Center, Shanghai East Hospital, School of Medicine, Tongji University, Shanghai, China.",
+        "Department of Orthopedics, Zhabei Central Hospital Affiliated to Tongji University, Shanghai, China."
+      ],
+      "doi": "10.1002/advs.78350",
+      "date": "2026-10-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893502/"
+    },
     {
       "pmid": "42893406",
       "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
@@ -135,21 +152,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892170/"
     },
     {
-      "pmid": "42892115",
-      "title": "Nanotechnology-driven cryopreservation across cells and 3D constructs.",
-      "abstract": "Cryopreservation is essential for cell-based research, regenerative medicine, and emerging therapies; however, conventional strategies remain limited by ice-induced damage, osmotic imbalance, and cryoprotectant (CPA)-associated toxicity. This review discusses the mechanisms of cryoinjury, limitations of conventional CPA-based strategies, and emerging approaches, including combinatorial CPA formulations and ice-modulating agents such as antifreeze proteins and synthetic ice recrystallization inhibitors. Building on these advances, we evaluate nanotechnology-enabled platforms for precise and multifunctional cryoprotection, encompassing nanocarrier-mediated intracellular CPA delivery, nanomaterial-based extracellular ice modulation, and uniform volumetric rewarming. We further discuss the challenges and emerging nanotechnology-enabled strategies for preserving three-dimensional cellular constructs, including spheroids and organoids, where diffusion limitations, spatial heterogeneity, and structural complexity require tailored preservation approaches. Together, these advances establish nanotechnology as an integrated platform for next-generation cryopreservation by enabling coordinated control of CPA delivery, ice behavior, and rewarming in regenerative medicine and cell-based therapeutics.",
-      "journal": "Tissue & cell",
+      "pmid": "42893561",
+      "title": "Virtual cells: progress and challenges from mechanistic modeling to data-driven integration.",
+      "abstract": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation decoding (D) as a conceptual abstraction spanning explicit mechanistic models, data-driven foundation and perturbation models, multimodal systems, and spatial and multiscale simulation. We examine model boundaries, data foundations, resource disclosure, out-of-distribution evaluation, causal evidence, and experimental validation. Independent benchmarks show that parameter count and training-set size do not automatically yield robust out-of-distribution generalization, while transcriptomic representations alone do not capture the full functional state of a cell. Trustworthy virtual cells will require perturbation-responsive transitions, cross-modal alignment, continuous-time dynamics, mechanistic constraints, calibrated uncertainty, independent experimental validation, and, where appropriate, closed-loop experimental feedback.",
+      "journal": "Briefings in bioinformatics",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "School of Integrative Engineering, Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul, 06974, Republic of Korea.",
-        "School of Integrative Engineering, Chung-Ang University, 84 Heukseok-ro, Dongjak-gu, Seoul, 06974, Republic of Korea. Electronic address: heyshoo@cau.ac.kr."
+        "Department of Artificial Intelligence, School of Future Technology, Harbin Institute of Technology, 92 Xidazhi Street, Nangang District, Harbin 150001, Heilongjiang, China.",
+        "Harbin Institute of Technology, Harbin 150001, Heilongjiang, China.",
+        "School of Computer Science and Artificial Intelligence, Northeast Forestry University, Harbin 150040, Heilongjiang, China.",
+        "Center for Bioinformatics, School of Life Science and Technology, Harbin Institute of Technology, Harbin 150001, Heilongjiang, China.",
+        "School of Medicine and Health, Harbin Institute of Technology, Harbin 150000, Heilongjiang, China."
       ],
-      "doi": "10.1016/j.tice.2026.104059",
-      "date": "2026-10-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892115/"
+      "doi": "10.1093/bib/bbag562",
+      "date": "2026-09-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893561/"
     },
     {
       "pmid": "42890802",
@@ -242,21 +262,6 @@
       "doi": "10.1080/21501203.2026.2716430",
       "date": "2026-08-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42852178/"
-    },
-    {
-      "pmid": "42844355",
-      "title": "Generalizable perturbation prediction.",
-      "abstract": "",
-      "journal": "Nature methods",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Nature Methods, . lin.tang@nature.com."
-      ],
-      "doi": "10.1038/s41592-026-03260-1",
-      "date": "2026-10-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844355/"
     },
     {
       "pmid": "42885407",
@@ -358,6 +363,48 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/"
     },
     {
+      "pmid": "42893704",
+      "title": "Potential clinical significance of soluble and extracellular vesicle-bound HER2 in breast cancer.",
+      "abstract": "HER2, a member of the epidermal growth factor receptor family, is a cell surface protein that plays a critical role in the development of aggressive breast cancer phenotypes and serves as a molecular target for HER2-directed therapy. The extracellular domain of HER2 undergoes proteolytic shedding into the bloodstream, generating a circulating pool of soluble HER2. In parallel, circulating extracellular vesicles (EVs, including tumor-derived EV subpopulations) have emerged as a distinct liquid biopsy compartment, preserving full-length, membrane-anchored HER2 on their surface. This review summarizes current evidence on the clinical relevance of blood soluble HER2 and extracellular vesicle-bound HER2 levels in breast cancer. Particular emphasis is placed on their potential as surrogate markers of HER2-positive disease, prognostic indicators, predictors of response to systemic therapies, and an additional parameter for patient monitoring aimed at the preclinical detection of disease progression. Analysis of accumulated data indicates that soluble HER2 measurement cannot currently be recommended for routine clinical decision-making. At the same time, the consistent association between elevated soluble HER2 levels and poor prognosis in breast cancer supports further investigation of this biomarker. The recently developed analytical approaches for extracellular vesicle-bound HER2 are demonstrating complementary value as liquid biopsy tools. Identifying patient subgroups in which soluble HER2 and extracellular vesicle-bound HER2 may provide the greatest clinical utility will be essential for realizing their full diagnostic and prognostic potential.",
+      "journal": "Nanomedicine : nanotechnology, biology, and medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "P. Hertsen Moscow Oncology Research Institute - the Branch of the National Medical Research Radiological Centre of the Ministry of Health of the Russian Federation, Moscow, Russian Federation.",
+        "P. Hertsen Moscow Oncology Research Institute - the Branch of the National Medical Research Radiological Centre of the Ministry of Health of the Russian Federation, Moscow, Russian Federation; MIREA - Russian Technological University, Moscow, Russian Federation.",
+        "P. Hertsen Moscow Oncology Research Institute - the Branch of the National Medical Research Radiological Centre of the Ministry of Health of the Russian Federation, Moscow, Russian Federation; University of Science and Technology MISIS, Moscow, Russia.",
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+        "University of Science and Technology MISIS, Moscow, Russia; Skolkovo Institute of Science and Technology, Moscow, Russian Federation; National Medical Research Center for Obstetrics, Gynecology and Perinatology named after Academician V.I. Kulakov, Ministry of Healthcare of the Russian Federation, Moscow, Russian Federation. Electronic address: v_chernyshev@oparina4.ru.",
+        "University of Science and Technology MISIS, Moscow, Russia.",
+        "National Medical Research Radiological Center, Ministry of Healthcare of the Russian Federation, Moscow, Russian Federation; Peoples' Friendship University of Russia named after Patrice Lumumba, Moscow, Russian Federation."
+      ],
+      "doi": "10.1016/j.nano.2026.103042",
+      "date": "2026-10-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893704/"
+    },
+    {
+      "pmid": "42893629",
+      "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
+      "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide. Leptomeningeal metastasis (LM), a serious complication of advanced lung cancer, poses significant challenges in both clinical diagnosis and treatment monitoring, and is associated with a poor prognosis. Conventional diagnostic methods include magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) cytology; however, their sensitivity is limited, particularly in the early stages of the disease. Against this backdrop, liquid biopsy has emerged as a minimally invasive and practical approach for molecular assessment and longitudinal monitoring of LM. Recent studies have reported that, in selected cohorts of patients with non-small cell lung cancer (NSCLC) and LM, CSF-derived circulating tumor DNA (ctDNA) detects driver and resistance-associated alterations more frequently than paired plasma, while epithelial cell adhesion molecule (EpCAM)-based CSF circulating tumor cell (CTC) assays have reported sensitivities of 76%-100% and specificities of 84%-100%, compared with a first-lumbar-puncture sensitivity of 44%-67% for conventional CSF cytology. These performance estimates should be interpreted in the context of selected cohorts and heterogeneous reference frameworks. Furthermore, cerebrospinal fluid circulating tumor cell (CSF-CTC) burden holds prognostic value, with higher CTC levels associated with poorer survival outcomes. This review summarizes recent advances in liquid biopsy biomarkers including ctDNA, DNA methylation, microRNA (miRNA), proteins, and circulating tumor cells (CTCs), focusing on their applications in the diagnosis, treatment monitoring, and prognostic assessment of lung cancer-associated LM, and provides a comparative discussion of liquid biopsy based on plasma and cerebrospinal fluid specimens. It further explores the potential, current challenges, and directions for clinical translation of multi-omics integration in the personalized management of LM.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China; Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China.",
+        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China.",
+        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China. Electronic address: 13783100985@163.com.",
+        "Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China; State Key Laboratory of Neurology and Oncology Drug Development, Nanjing, 210042, China. Electronic address: chenocean017@126.com.",
+        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China; Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China; State Key Laboratory of Neurology and Oncology Drug Development, Nanjing, 210042, China. Electronic address: qimingwang1006@126.com."
+      ],
+      "doi": "10.1016/j.lungcan.2026.109667",
+      "date": "2026-10-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893629/"
+    },
+    {
       "pmid": "42893057",
       "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer.",
       "abstract": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs) in metastatic castration-resistant prostate cancer (mCRPC). However, current liquid biopsy approaches typically require separate cell-free DNA (cfDNA) and cfRNA workflows to evaluate these distinct alteration classes, increasing sample input requirements, assay complexity, and cost. Because plasma cell-free nucleic acid yield is often limited, an integrated assay capable of interrogating DNA and RNA-derived biomarkers from a single blood draw remain an unmet clinical need. Here we describe the development and proof-of-concept validation of a novel multiplex multimodal digital PCR (dPCR) assay that co-detects AR copy-number amplification, somatic point mutations (T878A), and the AR-V7 splice variant from plasma cell-free nucleic acids (cfNAs) in a single streamlined reaction. The assay employs RNase H-dependent PCR (rhPCR) primers with ultra-short amplicons (≤68 bp) that simultaneously interrogate both cfDNA and cfRNA, enabling multimodal detection without separate DNA and RNA workflows. Using prostate cancer cell lines with defined AR alteration status, the assay detected AR amplification at 2% of tumor DNA, quantified T878A mutations at a mutant allele frequency as low as 0.024%, and AR-V7 splicing variant with a sensitivity of 0.096% tumor cell fraction. In two mCRPC patient plasma samples, the assay tracked dynamic changes of these AR variants during ARPI therapy, revealing distinct patterns of clonal evolution that are consistent with treatment pressure and clinical outcomes. This multimodal dPCR platform provides a cost-effective, highly sensitive liquid biopsy tool for detection of clinically significant AR alterations and represents a foundation for a laboratory-developed test (LDT) to guide personalized therapy in mCRPC.",
@@ -410,7 +457,7 @@
         "General Surgery and Organ Transplantation Unit, Department of General and Specialty Surgery & Anesthesiology, Sapienza University of Rome, AOU Policlinico Umberto I, Rome, Italy."
       ],
       "doi": "10.1080/17474124.2026.2750985",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/"
     },
     {
@@ -431,49 +478,39 @@
       "doi": "10.7759/cureus.116374",
       "date": "2026-09-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891465/"
-    },
-    {
-      "pmid": "42891231",
-      "title": "RNF152 promoter methylation and gene expression in oral premalignant lesions and oral squamous cell carcinoma: implications for epigenetic biomarker development.",
-      "abstract": "Aberrant promoter DNA methylation represents an early molecular alteration in oral carcinogenesis and has emerged as a potential source of molecular biomarkers for oral cancer. Although RNF152 has been implicated in cancer-related molecular dysregulation, its promoter methylation and expression status have not previously been specifically investigated in oral premalignant lesions (OPML) or oral squamous cell carcinoma (OSCC). RNF152 promoter methylation and gene expression were evaluated in paired tumor/lesion and matched adjacent normal tissues from 30 patients with OSCC and 30 patients with OPML, together with oral mucosal tissues from 15 healthy controls. Matched saliva and serum samples from the patient cohorts were also analyzed to evaluate RNF152 methylation as a potential liquid biopsy marker. Quantitative methylation-specific PCR (QMSP) and quantitative real-time PCR (QRT-PCR) were performed, and associations with clinicopathological characteristics, diagnostic performance, and the relationship between promoter methylation and gene expression were investigated. RNF152 promoter methylation was detected in 36.7% of OSCC tumors and 70.0% of OPML lesions, whereas no promoter methylation was identified in oral mucosal tissues from healthy controls. Promoter methylation was also detected in matched saliva and serum samples from both patient groups. Reduced RNF152 expression was observed in 33.3% of OSCC and 30.0% of OPML tissues. Methylation-associated RNF152 expression loss was identified in 13.3% of OSCC and 30.0% of OPML patients. Among methylation-positive cases, concomitant RNF152 expression loss was observed in 36.4% of patients with OSCC and 42.9% of patients with OPML. Continuous promoter methylation levels were not significantly correlated with tissue gene expression in either cohort. RNF152 promoter methylation demonstrated good discriminatory performance for distinguishing OPML from healthy controls (AUC = 0.867, p < 0.001), whereas its discriminatory performance for OSCC was statistically significant but more modest (AUC = 0.683, p = 0.047). This study provides the first comprehensive evaluation of RNF152 promoter methylation and gene expression in oral premalignant lesions and oral squamous cell carcinoma. RNF152 promoter methylation showed greater diagnostic potential for OPML than for OSCC, whereas its performance in liquid biopsy specimens was limited. The incomplete concordance between promoter methylation and gene expression suggests that promoter methylation may contribute to RNF152 downregulation in a subset of cases but is not the sole determinant of its expression. These findings support further evaluation of RNF152 as a candidate component of multimarker epigenetic panels rather than as a standalone diagnostic biomarker. Validation in larger, independent cohorts is required to determine its clinical utility.",
-      "journal": "Frontiers in oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Graduate Studies in Health Sciences, Istanbul University, Istanbul, Türkiye.",
-        "School of Health Services Vocational College, Pathology Laboratory Techniques Program, Bezmialem Vakif University, Istanbul, Türkiye.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, Istanbul Faculty of Medicine, Istanbul University, Istanbul, Türkiye.",
-        "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Istanbul University, Istanbul, Türkiye.",
-        "Department of Oral Pathology, Faculty of Dentistry, Istanbul University, Istanbul, Türkiye.",
-        "Department of Basic Oncology, Oncology Institute, Istanbul University, Istanbul, Türkiye."
-      ],
-      "doi": "10.3389/fonc.2026.1943424",
-      "date": "2026-09-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891231/"
-    },
-    {
-      "pmid": "42891162",
-      "title": "Aptamer-based technologies for extracellular vesicle analysis and engineering: from isolation to functional applications.",
-      "abstract": "Extracellular vesicles (EVs) are natural mediators of intercellular communication and hold promise for disease diagnosis and drug delivery, yet their intrinsic heterogeneity complicates isolation, molecular profiling, and targeted delivery. Aptamers, owing to their high affinity, specificity, chemical tunability, and scalable synthesis, offer a flexible molecular toolkit to address these challenges. In this review, we highlight recent progress in integrating aptamers into EV research across three interconnected domains: (1) the selection of aptamers against EV-associated surface markers; (2) the development of aptamer-based methods for EV capture and isolation; (3) the use of aptamer-functionalized EVs for targeted drug delivery and immunomodulation. We also discuss outstanding challenges, particularly the need for selection strategies that better preserve native EV epitope conformations and the rational design of multifunctional aptamer architectures. Looking forward, the convergence of aptamer technology with EV biology is expected to enable aptamer-drug conjugates and minimally invasive, dynamic liquid biopsy approaches for major diseases such as cancer, ultimately advancing early diagnosis and precision medicine.",
-      "journal": "Extracellular vesicles and circulating nucleic acids",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Mariculture Breeding, Fisheries College, Jimei University, Xiamen 361021, Fujian, China.",
-        "These authors contributed equally to this work and share first authorship.",
-        "Institute of Electromagnetics and Acoustics and Key Laboratory of Electromagnetic Wave Science and Detection Technology, Xiamen University, Xiamen 361005, Fujian, China.",
-        "Health and Environmental Research Center (HERC), Faculty of Environmental Management, Prince of Songkla University, Hat Yai 90110, Thailand.",
-        "Fourth Institute of Oceanography, Ministry of Natural Resources, Beihai 536000, Guangxi, China."
-      ],
-      "doi": "10.20517/evcna.2026.106",
-      "date": "2026-09-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891162/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42893502",
+      "date": "2026-10-18",
+      "title": "Acinar-Derived Organoids Reveal Stage-Specific Control of Acinar Plasticity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893502/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893502。",
+      "report": "Adult pancreatic acinar cells undergo ordered metaplastic conversion during injury and tumor initiation. Whether individual cells retain redifferentiation capacity after metaplastic expansion, and what signals each transition requires, remains unknown. Here, u...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42893406",
       "date": "2026-10-18",
@@ -502,6 +539,66 @@
       "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
       "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42893704",
+      "date": "2026-10-18",
+      "title": "Potential clinical significance of soluble and extracellular vesicle-bound HER2 in breast cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893704/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nanomedicine : nanotechnology, biology, and medicine，PMID 为 42893704。",
+      "report": "HER2, a member of the epidermal growth factor receptor family, is a cell surface protein that plays a critical role in the development of aggressive breast cancer phenotypes and serves as a molecular target for HER2-directed therapy. The extracellular domain o...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42891682",
+      "date": "2026-10-18",
+      "title": "Rethinking selection criteria for liver transplantation in hepatocellular carcinoma: from morphology to artificial intelligence.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
+      "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -627,32 +724,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42891682",
+      "id": "pubmed-42893629",
       "date": "2026-10-17",
-      "title": "Rethinking selection criteria for liver transplantation in hepatocellular carcinoma: from morphology to artificial intelligence.",
+      "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893629/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "肿瘤"
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
-      "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
+      "fact": "PubMed 记录显示该文献收录于 Lung cancer (Amsterdam, Netherlands)，PMID 为 42893629。",
+      "report": "Lung cancer remains the leading cause of cancer-related deaths worldwide. Leptomeningeal metastasis (LM), a serious complication of advanced lung cancer, poses significant challenges in both clinical diagnosis and treatment monitoring, and is associated with a...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -687,36 +786,6 @@
       "fact": "PubMed 记录显示该文献收录于 SAR and QSAR in environmental research，PMID 为 42885407。",
       "report": "Histone deacetylase 8 (HDAC8) inhibitors are considered promising therapeutic agents for the treatment of cancer and several other diseases. In this study, regression QSAR models for HDAC8 inhibitors were developed using various types of molecular descriptors...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42892115",
-      "date": "2026-10-15",
-      "title": "Nanotechnology-driven cryopreservation across cells and 3D constructs.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892115/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Tissue & cell，PMID 为 42892115。",
-      "report": "Cryopreservation is essential for cell-based research, regenerative medicine, and emerging therapies; however, conventional strategies remain limited by ice-induced damage, osmotic imbalance, and cryoprotectant (CPA)-associated toxicity. This review discusses...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -963,36 +1032,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42844355",
-      "date": "2026-10-01",
-      "title": "Generalizable perturbation prediction.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42844355/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42844355。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42871461",
       "date": "2026-09-29",
       "title": "MolecureAI: an agentic AI platform for autonomous drug discovery.",
@@ -1023,66 +1062,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42871461。",
       "report": "Accelerating the identification of viable drug candidates across therapeutic areas demands autonomous systems for molecular generation that enforce chemical correctness by structural invariants rather than model capability. We present MolecureAI, an autonomous...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42891231",
-      "date": "2026-09-24",
-      "title": "RNF152 promoter methylation and gene expression in oral premalignant lesions and oral squamous cell carcinoma: implications for epigenetic biomarker development.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891231/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42891231。",
-      "report": "Aberrant promoter DNA methylation represents an early molecular alteration in oral carcinogenesis and has emerged as a potential source of molecular biomarkers for oral cancer. Although RNF152 has been implicated in cancer-related molecular dysregulation, its...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42891162",
-      "date": "2026-09-18",
-      "title": "Aptamer-based technologies for extracellular vesicle analysis and engineering: from isolation to functional applications.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891162/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Extracellular vesicles and circulating nucleic acids，PMID 为 42891162。",
-      "report": "Extracellular vesicles (EVs) are natural mediators of intercellular communication and hold promise for disease diagnosis and drug delivery, yet their intrinsic heterogeneity complicates isolation, molecular profiling, and targeted delivery. Aptamers, owing to...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1146,6 +1125,36 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42869909。",
       "report": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in na...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42893561",
+      "date": "2026-09-01",
+      "title": "Virtual cells: progress and challenges from mechanistic modeling to data-driven integration.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893561/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42893561。",
+      "report": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation dec...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
