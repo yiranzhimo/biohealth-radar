@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-19T13:28:46.955786+00:00",
+  "capturedAt": "2026-10-19T22:25:06.179278+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,146 +14,136 @@
     "end": "2026-10-19"
   },
   "pmids": [
-    "42894212",
-    "42894194",
-    "42893502",
-    "42893406",
-    "42892521",
-    "42892455",
+    "42895516",
+    "42895300",
+    "42895197",
+    "42895135",
+    "42895134",
+    "42895119",
     "42893561",
     "42890802",
     "42880218",
     "42865067",
     "42860076",
     "42852178",
+    "42895482",
     "42885407",
     "42880220",
     "42873630",
     "42872591",
     "42871461",
-    "42869909",
+    "42895263",
     "42893704",
     "42893629",
     "42893057",
     "42892233",
-    "42891682",
-    "42891465"
+    "42891682"
   ],
   "records": [
     {
-      "pmid": "42894212",
-      "title": "ACSF2 Functions as a regulatory switch for PARP inhibitor sensitivity in platinum-sensitive and homologous recombination-proficient high-grade serous ovarian cancer.",
-      "abstract": "Poly(ADP-ribose) polymerase (PARP) inhibitor resistance represents a major clinical challenge in both homologous recombination deficiency-positive (HRD+) and deficiency-negative (HRD-) high-grade serous ovarian carcinoma (HGSOC). ACSF2 is aberrantly overexpressed in various malignancies and associated with poor patient prognosis. However, its role and underlying mechanism in PARP inhibitor resistance remain unclear. This study aimed to investigate whether ACSF2 modulates PARP inhibitor resistance by regulating p53-binding protein 1 (53BP1) nuclear foci formation and to determine if ACSF2 influences histone H4 Lysine 20 di-methylation (H4K20me2)-mediated 53BP1 recruitment via KMT5B in HRD- HGSOC. Using machine learning, ACSF2 was identified as a key resistance gene to PARP inhibitor. This discovery was based on an integrated analysis of six platinum-sensitive recurrent ovarian cancer (OC) cell lines (HRD±), four PARP inhibitor-resistant patient-derived organoid (PDO) models, and 181 °C tissue samples. Isogenic resistant cell lines were established to validate the role of ACSF2. The functional impact of ACSF2 perturbation was assessed by evaluating 53BP1, breast cancer type 1 susceptibility protein (BRCA1), and phosphorylated H2A histone family member x (γH2AX) foci formation, along with epigenetic markers (KMT5B and H4K20me2). The therapeutic potential of targeting ACSF2 was further examined through in vitro, in vivo, and PDO models. ACSF2 was provisionally identified as key mediator of PARP inhibitor resistance, with high expression correlating with poorer median overall survival in patients (42.00 vs. 49.60 months, P < 0.05). Similarly, ACSF2 acted as a key regulator of Niraparib sensitivity. Overexpression of ACSF2 increased the IC50 (72 h) from 146.89 ± 9.08 µmol/L to 192.27 ± 4.24 µmol/L (P < 0.001), while its knockdown reduced the IC50 to 92.81 ± 2.62 µmol/L (P < 0.001). Mechanistically, ACSF2 suppression significantly enhanced 53BP1 nuclear foci formation (positive cells increased from 12.00 ± 2.90% to 76.65 ± 7.23%; foci count increased > 12-fold; P < 0.001) and suppressed Niraparib-induced BRCA1 foci (median foci reduced from 38.00 [23.24-52.76] to 3.86 [1.50-6.21]), concomitantly promoting DNA damage. This process was associated with upregulation of H4K20me2, which is regulated by KMT5B. ACSF2 promotes Niraparib resistance in HRD- HGSOC by modulating the KMT5B-H4K20me2 axis, thereby inhibiting 53BP1 nuclear aggregation. Targeting ACSF2 restores 53BP1-mediated DNA damage response and re-sensitizes tumors to PARP inhibitor.",
-      "journal": "Cancer cell international",
+      "pmid": "42895516",
+      "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
+      "abstract": "Donors of cells used to create induced pluripotent stem cells (iPSCs) and brain organoids may not understand what brain organoids are, how they will be used, or the long-term implications of the research. Informed consent documents (ICDs) often contain highly technical language and are written at reading grade levels higher than those attained by the target population. Our goal was to evaluate informed consent documents used for brain organoid research. We compared 20 currently active, IRB-approved consent documents to published templates/guidelines for iPSC research consent. Analyzed ICDs adhered to guidelines in explaining risks and benefits, de-identification, commercial potential, storage, and results sharing. However, descriptions of current and future use were lacking in detail, and the average reading level of ICDs far exceeded that of the general population. Our findings suggest additional transparency in ICDs would assist participants in making an informed choice about participation in iPSC and brain organoid research.",
+      "journal": "AJOB neuroscience",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China.",
-        "Laboratory of Human Virology and Oncology, Shantou University Medical College, No. 22 Xinling Road, Jinping District, Shantou, 515041, Guangdong, China.",
-        "Science Research Center, Huizhou Central People's Hospital, Huizhou, 516001, Guangdong, China.",
-        "Department of Epidemiology and Statistics, School of Public Health, Guangdong Medical University, Dongguan, 523808, Guangdong, China.",
-        "Department of Dermatology, The First Affiliated Hospital, The Second Clinical Medical College, Shenzhen People's Hospital, Southern University of Science and Technology, Jinan University), Shenzhen, 518020, Guangdong, China.",
-        "Research Center, Guangzhou Algae Technology, Guangzhou, 510720, Guangdong, China.",
-        "The First School of Clinical Medicine, Guangdong Medical University, Zhanjiang, 524023, Guangdong, China.",
-        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China. ppa666@163.com.",
-        "Laboratory of Human Virology and Oncology, Shantou University Medical College, No. 22 Xinling Road, Jinping District, Shantou, 515041, Guangdong, China. qsqin@stu.edu.cn.",
-        "Department of Gynecology, Huizhou Central People's Hospital, No. 41, E Ling North Road, Huicheng District, Huizhou, 516001, Guangdong, China. yqjihzch@163.com."
+        "University of Washington.",
+        "Washington National Biomedical Research Center.",
+        "Seattle Children's Research Institute.",
+        "University of Washington School of Medicine."
       ],
-      "doi": "10.1186/s12935-026-04426-9",
-      "date": "2026-07-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894212/"
+      "doi": "10.1080/21507740.2026.2736005",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895516/"
     },
     {
-      "pmid": "42894194",
-      "title": "CFI-400945 enhances radiosensitivity in colorectal cancer models by promoting mitotic dysregulation and DNA damage-associated apoptosis.",
-      "abstract": "Radioresistance remains a major barrier to improving radiotherapy (RT) efficacy in colorectal cancer (CRC). Since mitotic fidelity and centrosome homeostasis influence cell fate under genotoxic stress, we investigated whether CFI-400945 enhances the radiation response in CRC models and whether this effect is associated with polo-like kinase 4 (PLK4)-related mitotic dysregulation. HCT116 and HT29 CRC cells were treated with CFI-400945 and/or irradiation. Radiation response was evaluated using MTT viability and clonogenic survival assays, alongside analyses of cell-cycle distribution, centrosome-associated abnormalities, nuclear phenotypes, DNA damage-associated signaling, and apoptotic markers. PLK4 involvement was evaluated using siRNA-mediated PLK4 depletion, and Aurora kinase B (AURKB) phosphorylation was assessed to examine potential Aurora B-related effects. Combination treatment was also tested in non-malignant CCD 841 CoN colon-derived control cells and patient-derived CRC organoids. Combined CFI-400945 and RT treatment reduced short-term viability and long-term clonogenic survival in HCT116 and HT29 cells compared with either monotherapy. In CCD 841 CoN cells, CFI-400945 did not significantly enhance radiation-associated loss of clonogenic survival versus RT alone. Combination treatment increased G2/M accumulation, >4 N and sub-G1 fractions, γ-tubulin-positive foci, multinucleation, and micronucleation, consistent with centrosome-associated mitotic abnormalities and reduced survival. DNA damage-associated signaling was enhanced, with increased DNA-dependent protein kinase catalytic subunit (DNA-PKcs) and phosphorylated histone H2AX (γH2AX) levels and increased phosphorylation of ataxia telangiectasia mutated (ATM) and CHK2. Apoptotic marker induction also increased, including robust cleavage of caspase-3 and PARP1. CFI-400945 did not markedly suppress AURKB phosphorylation under the experimental conditions. Importantly, siRNA-mediated PLK4 depletion reduced clonogenic survival after irradiation and increased cleaved PARP1 and cleaved caspase-3, supporting PLK4 involvement in the radiation response. In patient-derived CRC organoids, combination treatment reduced viability and increased DNA damage-associated and apoptotic markers compared with single treatments. CFI-400945 enhanced radiation response in CRC cell lines and patient-derived organoids, accompanied by centrosome-associated mitotic abnormalities, increased DNA damage-associated signaling, and apoptotic marker induction. siRNA-mediated PLK4 depletion partially recapitulated these effects, supporting a role for PLK4-associated mitotic regulation. However, because CFI-400945 may also target non-PLK4 mitotic kinases, these support an association --between radiosensitization and PLK4-related mitotic dysregulation rather than an exclusively PLK4-dependent mechanism.",
-      "journal": "Cancer cell international",
+      "pmid": "42895300",
+      "title": "From organoids to assembloids: modeling tissue crosstalk in female reproductive biology and disease.",
+      "abstract": "The female reproductive tract is a multi-tissue system in which epithelial, stromal, immune, and vascular cells coordinate responses to hormonal signals. Single-tissue organoids have advanced epithelial modeling in vitro but cannot capture the inter-tissue communication underlying key reproductive processes. Assembloids, which recombine cells from distinct tissue compartments in three-dimensional space, offer a means to restore these missing interactions. This review examines reproductive assembloid research across three biology-driven contexts. In menstrual cycle modeling, organoid-based systems have recapitulated epithelial breakdown and regeneration, yet stromal, immune, and vascular integration remain incomplete. In implantation modeling, embryo-endometrial co-cultures and receptive assembloids have begun to capture maternal-fetal crosstalk, though immune and vascular dimensions are largely missing. In endometriosis and adenomyosis modeling, assembloids have started to reconstruct pathogenic microenvironments that single organoids cannot replicate. Three issues are examined in depth. The first is the gap between what current models can and cannot reveal about reproductive biology. The second is the risk that added complexity may only confirm findings already established in vivo. The third is the point at which an additional tissue component stops contributing new information. Progress in this field is likely to depend not on greater structural complexity but on questions that only multi-tissue models can address.",
+      "journal": "Molecular human reproduction",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Surgery, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
-        "Department of Pathology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
-        "Department of Immunology, Keimyung University School of Medicine, Daegu, Republic of Korea.",
-        "Department of Radiation Oncology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea.",
-        "Department of Anatomy, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea. cnsl428@dsmc.or.kr.",
-        "Department of Pathology, Keimyung University School of Medicine, Daegu, 1095, Republic of Korea. hwlee@dsmc.or.kr.",
-        "Department of Surgery, School of Medicine & Institute for Medical Science, Keimyung University Dongsan Medical Center, Daegu, Korea. hispower@dsmc.or.kr."
+        "Department of Obstetrics and Gynecology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Department of Gynecologic Oncology, Zhongshan Hospital, Fudan University, Shanghai, China.",
+        "Department of Obstetrics and Gynecology, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China.",
+        "Reproductive Medicine Center, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China."
       ],
-      "doi": "10.1186/s12935-026-04407-y",
-      "date": "2026-07-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894194/"
+      "doi": "10.1093/molehr/gaag060",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895300/"
     },
     {
-      "pmid": "42893502",
-      "title": "Acinar-Derived Organoids Reveal Stage-Specific Control of Acinar Plasticity.",
-      "abstract": "Adult pancreatic acinar cells undergo ordered metaplastic conversion during injury and tumor initiation. Whether individual cells retain redifferentiation capacity after metaplastic expansion, and what signals each transition requires, remains unknown. Here, using organoids derived from single acinar cells, we show that expanded acinar-lineage organoids can reacquire acinar features under stage-specific culture conditions. We defined conditions that preserve acinar identity ex vivo and showed that epidermal growth factor (EGF)/EGF receptor (EGFR) signaling initiates conversion from this maintained state. The expansion trajectory recapitulates injury- and oncogene-associated acinar-to-ductal metaplasia (ADM) programs in vivo. After expansion, the conditions that preserved acinar identity could not restore it; a staged regimen containing transient insulin-like growth factor 1 receptor (IGF1R) inhibition and dexamethasone promoted redifferentiation. The KrasG12D;Trp53R172H;Pdx1-Cre (KPC) genotype reduced EGFR dependence during initiation but destabilized post-expansion redifferentiation; Kras-pathway inhibition increased endpoint acinar-marker expression. These findings demonstrate that acinar plasticity is organized by stage-specific signals, and that the KPC genotype disrupts this control at specific transition points.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42895197",
+      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
+      "abstract": "Identification of metabolic markers of prohibited and emerging performance-enhancing substances remains a key challenge in anti-doping analysis, where limitations of conventional in vitro models in resembling authentic physiological conditions exist. Organ-on-a-chip (OoC) systems combining 3D human liver-cell cultures with microfluidic perfusion offer a predictive alternative for human-like drug metabolism. In this study, a HepaRG™-based liver OoC model incorporating hepatic stellate cells was characterized over a three-week period with a focus on cytochrome P450 (CYP)-mediated metabolism. CYP activity, gene expression, and inducibility were assessed for major hepatic CYP isoforms, complemented by pharmacogenomic profiling. Metabolic performance was further evaluated using S107, a non-approved and prohibited doping agent, with metabolite formation being determined by liquid chromatography and high-resolution mass spectrometry (LC-HRMS/MS) in comparison with published in vitro data. The OoC system maintained stable viability and hepatic functionality throughout the culture period, demonstrating phase-I metabolic competence. Isoform-specific differences in mRNA expression and enzymatic activity highlighted complex regulatory effects within the microphysiological environment, while rifampicin responses confirmed preserved nuclear receptor-mediated inducibility across the system. Functional limitations were observed for CYP2D6 and CYP2B6, which showed absent or restricted activity despite detectable transcriptional signals. For S107, the model generated both phase-I and phase-II metabolites, consistent with literature data from microsomal incubation experiments. Metabolite formation was stable over the three-week period under dynamic perfusion conditions, demonstrating sustained biotransformation capacity. Overall, the HepaRG™ OoC system represents a physiologically relevant in vitro platform for long-term metabolism and demonstrates potential as a predictive tool for anti-doping applications and for elucidating metabolic pathways of emerging performance-enhancing substances.",
+      "journal": "The Analyst",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Institute for Regenerative Medicine, State Key Laboratory of Cardiovascular Diseases, Shanghai East Hospital, Frontier Science Center for Stem Cell Research, School of Life Sciences and Technology, Tongji University, Shanghai, China.",
-        "Medical Innovation Center, Shanghai East Hospital, School of Medicine, Tongji University, Shanghai, China.",
-        "Department of Orthopedics, Zhabei Central Hospital Affiliated to Tongji University, Shanghai, China."
+        "Center for Preventive Doping Research/Institute of Biochemistry, German Sport University Cologne, Cologne, Germany. thevis@dshs-koeln.de.",
+        "European Monitoring Center for Emerging Doping Agents, Cologne/Bonn, Germany."
       ],
-      "doi": "10.1002/advs.78350",
-      "date": "2026-10-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893502/"
+      "doi": "10.1039/d6an00963h",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895197/"
     },
     {
-      "pmid": "42893406",
-      "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
-      "abstract": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. To address this gap, we used HIV-1-infected human cerebral organoids (hCOs) containing microglia as a physiologically relevant three-dimensional model of the central nervous system (CNS) and validated key findings in the brain region of simian immunodeficiency virus (SIV)-infected, cART-treated rhesus macaque model. Integrated single-nucleus RNA sequencing with ATAC-seq (multi-omics), identifies cell-type-specific alterations in dual innate immune-driven inflammatory signaling pathways across neural and glial populations in hCOs. Microglia were preferentially infected and activated, initiating IL-17A-mediated cascades involving IFN-γ/STAT1, CEBPB, and NF-κB signaling. These pathways converged with cGAS-STING and Notch-NEURL1 signaling, both associated with neuroinflammation and synaptic dysfunction. cART suppressed viral replication, reduced IL-17A-mediated neuroinflammation, improved mitochondrial function, and restored synaptic gene expression. Collectively, these findings identify dysregulation of IL-17A, STAT1, CEBPB, and cGAS-STING signaling as key molecular drivers of HIV-associated neuroinflammation. They also establish a potential mechanistic link between IL-17A signaling and microglial remodeling, providing a translational framework for the development of CNS-targeted therapies in PWH.",
-      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pmid": "42895135",
+      "title": "Low-order lateral transducer modes enabling millimeter-scale acoustofluidics.",
+      "abstract": "Bulk acoustic wave devices commonly use thickness modes of piezoelectric plates to generate standing waves in microfluidic cavities, typically at 2 MHz and above, with corresponding wavelengths well below the millimeter scale. However, handling larger mesoscopic objects-such as organoids and small model organisms, including nematodes-requires millimeter-scale fluidic structures. Single-node alignment in such cavities demands half-wavelength fields and thus sub-megahertz actuation. Conventional sub-megahertz operation requires thicker piezoelectric plates, resulting in bulky designs or requiring plate thicknesses that are not readily available commercially. Here, we demonstrate a practical yet elegant alternative based on a low-order lateral extensional mode of the transducer plate. Compared with thickness-mode devices of identical footprint, the approach lowers the operating frequency approximately fourfold and increases the channel cross section sixteenfold. Unlike typical Lamb-wave devices based on multiwavelength propagation at several megahertz and above, the present approach uses a low-order standing S0 Lamb mode. The numerically optimized devices operate at approximately 540 kHz and achieve rapid particle focusing in millimeter-wide channels, while vibrometry confirms the predicted vibration patterns and admittance measurements show that the lateral resonance is well preserved upon chip loading, with only a small, predictable shift in resonance frequency. The present study focuses on modal characterization and particle-focusing validation. Practical limitations include heating at high actuation voltages and the finite lifetime of the liquid acoustic coupling layer.",
+      "journal": "Lab on a chip",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Pharmaceutical Sciences, Irma Lerma Rangel College of Pharmacy, Texas A&M University, College Station, Texas, USA.",
-        "Department of Veterinary Integrative Biosciences, School of Veterinary Medicine and Biomedical Sciences, Texas A&M University, College Station, Texas, USA.",
-        "Department of Pharmacology and Experimental Neuroscience, College of Medicine, University of Nebraska Medical Center, Omaha, Nebraska, USA."
+        "Institute for Microelectronics and Microsensors, Johannes Kepler University Linz, Linz, Austria. andreas.fuchsluger@jku.at.",
+        "Microfab Division, Silicon Austria Labs GmbH, Villach, Austria."
       ],
-      "doi": "10.1002/advs.77954",
-      "date": "2026-10-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893406/"
+      "doi": "10.1039/d6lc00493h",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895135/"
     },
     {
-      "pmid": "42892521",
-      "title": "2-Hydroxyisobutyrylation of SRSF9 Regulates CD44 Alternative Splicing to Promote Colorectal Cancer Liver Metastasis.",
-      "abstract": "Colorectal cancer liver metastasis (CRLM) remains a major cause of cancer mortality, yet the metabolic mechanisms that remodel metastatic RNA-splicing programs are poorly defined. Here, integrated quantitative proteomics and lysine 2-hydroxyisobutyrylation (Khib) proteomics of patient-matched normal mucosa, primary CRCs, and liver metastases revealed a progressive increase in global Khib, with enrichment on RNA-splicing proteins. Serine/arginine-rich splicing factor 9 (SRSF9) emerged as a Khib-modified splicing factor whose expression and K155 Khib levels increased from normal tissue to primary tumors and liver metastases. Gain and loss of function studies in CRC cell lines, patient-derived organoids, subcutaneous xenografts, and splenic injection liver metastasis models showed that SRSF9 promotes proliferation, invasion, tumor growth, and liver colonization. Mechanistically, K155 Khib stabilized SRSF9 protein; the K155R mutation accelerated degradation and abolished SRSF9-driven malignant phenotypes. KAT7 and SIRT6 act as regulators of Khib modification, which positively and negatively modulate the K155 Khib modification of SRSF9, respectively. SRSF9 bound CD44 pre-mRNA through its RRM1 domain and promoted alternative splicing toward the oncogenic CD44V8-10 isoform, which was elevated in patient tumors and metastases and rescued the impaired proliferation and metastatic capacity caused by SRSF9 loss. Finally, a CD44V8-10-targeting antisense oligonucleotide suppressed CRC growth and liver metastasis in preclinical models. These findings define a KAT7/SIRT6-regulated Khib-SRSF9-CD44V8-10 axis that couples metabolic acylation to metastatic splicing and nominate CD44V8-10 as a therapeutic vulnerability in CRC liver metastasis.",
-      "journal": "Cancer letters",
+      "pmid": "42895134",
+      "title": "Myrica rubra juice attenuates DSS-induced colitis and is associated with changes in the gut microbiota-metabolite-host axis.",
+      "abstract": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We evaluated Myrica rubra juice (MRJ) in a dextran sulfate sodium (DSS)-induced mouse model of colitis and a TNF-α-injured colonic organoid model. The study combined 16S rRNA gene sequencing, untargeted serum and fecal metabolomics, and molecular docking. MRJ treatment attenuated disease severity and was associated with increased expression of occludin and MUC2 in DSS-treated mice. MRJ also altered microbial diversity and taxonomic composition in a taxon-specific manner. Serum and fecal metabolomic profiles differed after MRJ treatment, including pathways related to amino acid and bile acid metabolism. Integrated analyses identified associations among microbial taxa, putatively annotated metabolites, and host inflammatory and barrier-related variables. Direct exposure to 20% (v/v) whole MRJ increased occludin immunofluorescence in TNF-α-injured colonic organoids cultured without a gut microbial community. This single-marker result is consistent with an epithelial response to whole MRJ under the applied in vitro conditions. Molecular docking generated predicted poses and docking scores for selected parent compound-protein pairs. These calculations did not demonstrate physical binding, functional inhibition, or target engagement in vivo. Together, the findings support a direct epithelial response and identify concurrent microbiota-associated changes. However, the present design could not determine whether these microbial changes contributed to protection. It also could not separate or quantify the host-directed and microbiota-mediated contributions or identify the active chemical species.",
+      "journal": "Food & function",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Pathology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.",
-        "The MOE Basic Research and Innovation Center for the Targeted Therapeutics of Solid Tumors, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China; Department of Pathology and Institute of Molecular Pathology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China.",
-        "Department of Pathology, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences,Southern Medical University,Guangzhou, China.",
-        "Department of Pathology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China. Electronic address: niwen@mail.sysu.edu.cn.",
-        "Department of Pathology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China; The MOE Basic Research and Innovation Center for the Targeted Therapeutics of Solid Tumors, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China; Department of Pathology and Institute of Molecular Pathology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China. Electronic address: jianmingli@ncu.edu.cn."
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, 214122 Wuxi, China. guoyahui@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, 214122 Wuxi, China.",
+        "Jiangnan University - Riyuan Joint Research Center, Jiangnan University, 214122 Wuxi, China."
       ],
-      "doi": "10.1016/j.canlet.2026.218900",
-      "date": "2026-10-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892521/"
+      "doi": "10.1039/d6fo01741j",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895134/"
     },
     {
-      "pmid": "42892455",
-      "title": "Nebulization-stable lipid-polymer hybrid nanoparticles for mRNA delivery in advanced in vitro respiratory models.",
-      "abstract": "Pulmonary delivery of messenger RNA (mRNA) offers a promising strategy for local vaccination and treating respiratory diseases, but aerosolization stress and airway barriers remain major obstacles. Here, we developed PEG-free lipid-polymer hybrid nanoparticles (mucLPs) composed of a solid polylactic acid (PLA) core and an engineered lipid corona. Nine formulations were screened by varying lipid composition and were evaluated for physicochemical properties, mRNA association, cytocompatibility, stability during vibrating-mesh nebulization, and transfection. The lead formulation, mucLP3, combined high mRNA association with a negative post-loading surface charge and preserved its size distribution and reporter activity after nebulization. By contrast, the SM-102-based reference LNP tested under the same conditions showed aggregation and reduced reporter expression after nebulization. Non-nebulized mucLP3 also supported mRNA expression in airway epithelial cell lines, mouse lung organoids, and primary human airway epithelial cultures maintained at an air-liquid interface. These data establish a proof of concept for a PEG-free lipid-polymer hybrid architecture that tolerates the tested nebulization procedure and remains functional in respiratory models of increasing complexity. Direct mucus-transport measurements, aerosol-deposition studies, and in vivo efficacy studies will be required to establish pulmonary delivery performance.",
-      "journal": "International journal of pharmaceutics",
+      "pmid": "42895119",
+      "title": "Patient-Derived Organoids in Functional Precision Oncology: Tumor Modeling, Drug-Response Prediction, and Clinical Translation.",
+      "abstract": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived directly from patient tissues, preserve essential architectural, genomic, and phenotypic characteristics of their tumors of origin, enabling more accurate modeling of tumor heterogeneity and disease evolution. Over the last decade, rapid methodological advances in organoid culture systems, extracellular matrices (ECMs), and growth factor optimization have facilitated the establishment of organoid models for a wide range of malignancies and the development of large living biobanks representing diverse patient populations. These models are increasingly being utilized to study cancer biology, elucidate mechanisms of treatment resistance, and evaluate patient-specific therapeutic responses, highlighting their potential as tools for precision oncology. However, important challenges remain, including incomplete representation of the tumor microenvironment (TME), variability in culture conditions, and limited scalability, and the need for greater standardization and validation. Consequently, although PDOs show considerable promise for translational research and personalized medicine, their routine clinical implementation remains largely investigational, and their clinical utility has not yet been fully established. This review examines the technological foundations of PDO generation, assesses their role as experimental models of tumor biology, and discusses their expanding applications in translational cancer research and precision oncology while highlighting key challenges that must be addressed before their widespread clinical adoption.",
+      "journal": "Cell biochemistry and function",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Université Lyon 1, CNRS, Laboratory of Tissue Biology and Therapeutic Engineering, UMR 5305, Lyon, France.",
-        "Université Lyon 1, INRAE, EPHE, IVPC, UMR 754, Lyon, France.",
-        "Université Lyon 1, CNRS, Laboratory of Tissue Biology and Therapeutic Engineering, UMR 5305, Lyon, France; 3D B.I.O. Facility, SFR Biosciences UAR3444, Lyon, France."
+        "College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.",
+        "Department of Internal Medicine, Acıbadem MAA University, Istanbul, Turkey.",
+        "College of Medicine, AlMaarefa University, Riyadh, Saudi Arabia.",
+        "King Faisal Specialist Hospital and Research Center, Riyadh, Saudi Arabia.",
+        "King Faisal Specialist Hospital and Research Center, Jeddah, Saudi Arabia."
       ],
-      "doi": "10.1016/j.ijpharm.2026.127550",
-      "date": "2026-10-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892455/"
+      "doi": "10.1002/cbf.70321",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895119/"
     },
     {
       "pmid": "42893561",
@@ -268,6 +258,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42852178/"
     },
     {
+      "pmid": "42895482",
+      "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
+      "abstract": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engineering of novel proteins, as well as for modulating the activity/stability of enzymatic proteins. Here, we present APR-Score, a novel machine learning-based computational method designed to identify aggregation-prone regions within protein sequences. APR-Score leverages a combination of sequence-based features to predict regions of proteins that are prone to aggregation. It harnessed the information embedded in compiled sequence and structural features to achieve state-of-the-art accuracy. The method was evaluated through rigorous cross-validation on the training dataset and further validated on an independent test dataset. APR-Score demonstrated robustness and reliability in distinguishing aggregation-prone regions from non-aggregating ones, achieving a Matthews correlation coefficient (MCC) of 0.77, precision of 0.89, and F1-Score of 0.87. This tool offers significant value for researchers investigating protein aggregation-related diseases, as it can expedite the identification of aggregation-prone regions, thereby aiding the development of targeted therapies and diagnostic tools. Moreover, computational protein design and engineering efforts can be facilitated by APR-Score-based identification and screening of aggregation-prone protein sequences. APR-Score is available at https://github.com/TII-BRC/APR-Score.",
+      "journal": "Genomics, proteomics & bioinformatics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Biotechnology Research Center, Technology Innovation Institute, Masdar City, Abu Dhabi 9639 United Arab Emirates."
+      ],
+      "doi": "10.1093/gpbjnl/qzag104",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895482/"
+    },
+    {
       "pmid": "42885407",
       "title": "HDAC8 Assistant: a QSAR-guided molecular generation platform for de novo design and virtual screening of HDAC8 inhibitors.",
       "abstract": "Histone deacetylase 8 (HDAC8) inhibitors are considered promising therapeutic agents for the treatment of cancer and several other diseases. In this study, regression QSAR models for HDAC8 inhibitors were developed using various types of molecular descriptors and machine learning algorithms. The best-performing weighted consensus model achieved an external predictive performance of Q2test = 0.62 for the complete test set and 0.71 for compounds within the applicability domain, covering 77% of the external data. Model reliability was confirmed by five-fold cross-validation and y-randomization tests. The developed QSAR model was integrated into the HDAC8 Assistant web application (https://hdac8-assistant.streamlit.app/), which includes a de novo molecular generation module based on recurrent neural networks (SMILES-RNN) and reinforcement learning (REINVENT 2). For targeted discovery of novel inhibitors, an original reward function was proposed that combines QSAR-predicted activity with applicability domain control for generated compounds. This approach enables simultaneous optimization of predicted inhibitory activity while limiting extrapolation beyond the model applicability domain. HDAC8 Assistant also implements assessment of drug-likeness according to the Muegge criteria, as well as PAINS, toxicophore, and Brenk structural-alert detection. Molecular docking was performed for the most promising compounds generated by HDAC8 Assistant to analyse their interactions with the HDAC8 active site.",
@@ -346,25 +351,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871461/"
     },
     {
-      "pmid": "42869909",
-      "title": "Functional alignment of protein language models via reinforcement learning.",
-      "abstract": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in nature. We introduce Reinforcement Learning from eXperimental Feedback (RLXF), a general framework that aligns protein language models with experimentally measured functional objectives, drawing inspiration from the methods used to align large language models like ChatGPT. Applied across five diverse protein families, RLXF improves generation of high-functioning variants beyond pre-trained baselines. We demonstrate this with CreiLOV, an oxygen-independent fluorescent protein, where RLXF-aligned models generate sequences with significantly enhanced fluorescence, including the most fluorescent CreiLOV variants reported to date. Our results indicate that RLXF-aligned models effectively integrate the evolutionary knowledge encoded in pre-trained pLMs with experimental observations, improving the success rate of generated sequences and enabling the discovery of synergistic mutation combinations that are difficult to identify through zero-shot or evolutionary approaches. RLXF provides a scalable and accessible approach to steer generative models toward desired biochemical properties, enabling function-driven protein design beyond the limits of natural evolution.",
-      "journal": "Nature communications",
+      "pmid": "42895263",
+      "title": "Circulating extracellular vesicles as biomarkers of cardiac fibrosis: promise, pitfalls, and the path to clinical validation.",
+      "abstract": "",
+      "journal": "Biomarkers in medicine",
       "publicationTypes": [
-        "Journal Article",
-        "Research Support, N.I.H., Extramural"
+        "Editorial"
       ],
       "affiliations": [
-        "Department of Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA.",
-        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
-        "Modality Research Laboratories II, Daiichi Sankyo Co., Ltd., Tokyo, Japan.",
-        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA.",
-        "Department of Biomedical Engineering, Duke University, Durham, NC, USA. philip.romero@duke.edu.",
-        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA. philip.romero@duke.edu."
+        "Department of Molecular and Cellular Medicine, Institute of Medical Science, Tokyo Medical University, Tokyo, Japan.",
+        "Department of Cardiovascular Medicine, Nara Medical University, Nara, Japan.",
+        "Global Center for Science and Engineering, Faculty of Science and Engineering, Waseda University, Tokyo, Japan."
       ],
-      "doi": "10.1038/s41467-026-77557-2",
-      "date": "2026-09-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/"
+      "doi": "10.1080/17520363.2026.2749632",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895263/"
     },
     {
       "pmid": "42893704",
@@ -463,86 +464,208 @@
       "doi": "10.1080/17474124.2026.2750985",
       "date": "2026-10-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/"
-    },
-    {
-      "pmid": "42891465",
-      "title": "RAS Mutations as Prognostic Biomarkers in Digestive Cancers: From Binary Classification to Variant-Specific and Context-Dependent Risk Stratification.",
-      "abstract": "In digestive cancers, activating RAS mutations - primarily KRAS, less frequently NRAS - are among the most prevalent oncogenic drivers. Their clinical significance depends strongly on the tumor type, disease stage, treatment context, and specific RAS variant. In colorectal cancer (CRC), RAS alterations are well-established predictors of resistance to anti-EGFR therapy. However, KRAS G12C-mutant tumors represent a distinct subgroup with demonstrated sensitivity to KRAS G12C inhibitors. However, growing evidence supports the negative prognostic impact of RAS mutations on both primary CRC and colorectal cancer liver metastases (CRLM) in both post-resection and adjuvant therapies. In pancreatic ductal adenocarcinoma (PDAC), where KRAS alterations are nearly universal, prognostic evaluation has evolved from a binary mutant versus wild-type classification to a more refined approach based on mutation subtype (e.g., G12D/V vs. G12R) and KRAS mutant dosage, both of which influence clinical outcomes. In biliary tract cancers, KRAS mutations occur in a relevant subset and are consistently associated with poor survival. Liquid biopsy approaches increasingly enable noninvasive detection and longitudinal monitoring. In gastric cancer, RAS alterations are less frequent overall but may identify biologically aggressive subsets and may also be associated with inferior outcomes under HER2-targeted therapy in selected populations. This review synthesizes contemporary data supporting RAS alterations as prognostic biomarkers across digestive cancers, highlights practical considerations for integrating variant-level RAS information into risk stratification and trial designs, and discusses how emerging RAS-directed therapies may reshape the prognostic significance of specific molecular subsets.",
-      "journal": "Cureus",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Hepatogastroenterology and Digestive Oncology, CHU de Reims, University of Reims Champagne-Ardenne, Reims, FRA.",
-        "General, Digestive and Endocrine Surgery, CHU de Reims, University of Reims Champagne-Ardenne, Reims, FRA.",
-        "Medical Oncology, Robert Debré Hospital, CHU de Reims, University of Reims Champagne-Ardenne, Reims, FRA.",
-        "General, Digestive and Endocrine Surgery, Cabrol Hospital, CHU de Reims, University of Reims Champagne-Ardenne, Reims, FRA."
-      ],
-      "doi": "10.7759/cureus.116374",
-      "date": "2026-09-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891465/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42893502",
-      "date": "2026-10-18",
-      "title": "Acinar-Derived Organoids Reveal Stage-Specific Control of Acinar Plasticity.",
+      "id": "pubmed-42895516",
+      "date": "2026-10-19",
+      "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893502/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895516/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "肿瘤"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893502。",
-      "report": "Adult pancreatic acinar cells undergo ordered metaplastic conversion during injury and tumor initiation. Whether individual cells retain redifferentiation capacity after metaplastic expansion, and what signals each transition requires, remains unknown. Here, u...",
+      "fact": "PubMed 记录显示该文献收录于 AJOB neuroscience，PMID 为 42895516。",
+      "report": "Donors of cells used to create induced pluripotent stem cells (iPSCs) and brain organoids may not understand what brain organoids are, how they will be used, or the long-term implications of the research. Informed consent documents (ICDs) often contain highly...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42893406",
-      "date": "2026-10-18",
-      "title": "Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.",
+      "id": "pubmed-42895300",
+      "date": "2026-10-19",
+      "title": "From organoids to assembloids: modeling tissue crosstalk in female reproductive biology and disease.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893406/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895300/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular human reproduction，PMID 为 42895300。",
+      "report": "The female reproductive tract is a multi-tissue system in which epithelial, stromal, immune, and vascular cells coordinate responses to hormonal signals. Single-tissue organoids have advanced epithelial modeling in vitro but cannot capture the inter-tissue com...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42895197",
+      "date": "2026-10-19",
+      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895197/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Multi-omics"
+        "Clinical Evidence",
+        "Regulatory Watch"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "多组学"
+        "临床",
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42893406。",
-      "report": "HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. T...",
+      "fact": "PubMed 记录显示该文献收录于 The Analyst，PMID 为 42895197。",
+      "report": "Identification of metabolic markers of prohibited and emerging performance-enhancing substances remains a key challenge in anti-doping analysis, where limitations of conventional in vitro models in resembling authentic physiological conditions exist. Organ-on-...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42895135",
+      "date": "2026-10-19",
+      "title": "Low-order lateral transducer modes enabling millimeter-scale acoustofluidics.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895135/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42895135。",
+      "report": "Bulk acoustic wave devices commonly use thickness modes of piezoelectric plates to generate standing waves in microfluidic cavities, typically at 2 MHz and above, with corresponding wavelengths well below the millimeter scale. However, handling larger mesoscop...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42895134",
+      "date": "2026-10-19",
+      "title": "Myrica rubra juice attenuates DSS-induced colitis and is associated with changes in the gut microbiota-metabolite-host axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895134/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Food & function，PMID 为 42895134。",
+      "report": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We ev...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42895482",
+      "date": "2026-10-19",
+      "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895482/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Genomics, proteomics & bioinformatics，PMID 为 42895482。",
+      "report": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engin...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42895263",
+      "date": "2026-10-19",
+      "title": "Circulating extracellular vesicles as biomarkers of cardiac fibrosis: promise, pitfalls, and the path to clinical validation.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895263/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biomarkers in medicine，PMID 为 42895263。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -603,66 +726,6 @@
       "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
       "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42892521",
-      "date": "2026-10-17",
-      "title": "2-Hydroxyisobutyrylation of SRSF9 Regulates CD44 Alternative Splicing to Promote Colorectal Cancer Liver Metastasis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892521/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer letters，PMID 为 42892521。",
-      "report": "Colorectal cancer liver metastasis (CRLM) remains a major cause of cancer mortality, yet the metabolic mechanisms that remodel metastatic RNA-splicing programs are poorly defined. Here, integrated quantitative proteomics and lysine 2-hydroxyisobutyrylation (Kh...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42892455",
-      "date": "2026-10-17",
-      "title": "Nebulization-stable lipid-polymer hybrid nanoparticles for mRNA delivery in advanced in vitro respiratory models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892455/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics，PMID 为 42892455。",
-      "report": "Pulmonary delivery of messenger RNA (mRNA) offers a promising strategy for local vaccination and treating respiratory diseases, but aerosolization stress and airway barriers remain major obstacles. Here, we developed PEG-free lipid-polymer hybrid nanoparticles...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -974,6 +1037,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42895119",
+      "date": "2026-10-01",
+      "title": "Patient-Derived Organoids in Functional Precision Oncology: Tumor Modeling, Drug-Response Prediction, and Clinical Translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895119/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and function，PMID 为 42895119。",
+      "report": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived dir...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42871461",
       "date": "2026-09-29",
       "title": "MolecureAI: an agentic AI platform for autonomous drug discovery.",
@@ -1004,69 +1097,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42871461。",
       "report": "Accelerating the identification of viable drug candidates across therapeutic areas demands autonomous systems for molecular generation that enforce chemical correctness by structural invariants rather than model capability. We present MolecureAI, an autonomous...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42891465",
-      "date": "2026-09-16",
-      "title": "RAS Mutations as Prognostic Biomarkers in Digestive Cancers: From Binary Classification to Variant-Specific and Context-Dependent Risk Stratification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891465/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cureus，PMID 为 42891465。",
-      "report": "In digestive cancers, activating RAS mutations - primarily KRAS, less frequently NRAS - are among the most prevalent oncogenic drivers. Their clinical significance depends strongly on the tumor type, disease stage, treatment context, and specific RAS variant....",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42869909",
-      "date": "2026-09-12",
-      "title": "Functional alignment of protein language models via reinforcement learning.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869909/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42869909。",
-      "report": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in na...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1131,70 +1161,6 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42894212",
-      "date": "2026-07-22",
-      "title": "ACSF2 Functions as a regulatory switch for PARP inhibitor sensitivity in platinum-sensitive and homologous recombination-proficient high-grade serous ovarian cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894212/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42894212。",
-      "report": "Poly(ADP-ribose) polymerase (PARP) inhibitor resistance represents a major clinical challenge in both homologous recombination deficiency-positive (HRD+) and deficiency-negative (HRD-) high-grade serous ovarian carcinoma (HGSOC). ACSF2 is aberrantly overexpres...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42894194",
-      "date": "2026-07-22",
-      "title": "CFI-400945 enhances radiosensitivity in colorectal cancer models by promoting mitotic dysregulation and DNA damage-associated apoptosis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894194/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell international，PMID 为 42894194。",
-      "report": "Radioresistance remains a major barrier to improving radiotherapy (RT) efficacy in colorectal cancer (CRC). Since mitotic fidelity and centrosome homeostasis influence cell fate under genotoxic stress, we investigated whether CFI-400945 enhances the radiation...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -36345,6 +36345,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001674416-000119312526425243",
           "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
           "evidence-company-crispr-therapeutics-official-4896d033c3d0",
           "evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
@@ -36355,6 +36356,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001674416-000119312526425243",
+            "date": "2026-10-19",
+            "title": "CRISPR Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001674416-000119312526425243",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526425243/crsp-20261019.htm"
+          },
           {
             "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
             "date": "2026-09-01",
@@ -36398,17 +36410,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001674416-000119312526330672",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001674416-000119312526330644",
-            "date": "2026-08-03",
-            "title": "CRISPR Therapeutics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001674416-000119312526330644",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330644/crsp-20260803.htm"
           }
         ],
         "inferences": [],
@@ -36419,12 +36420,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-01",
+        "lastEvidenceDate": "2026-10-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -36433,6 +36434,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001674416-000119312526425243",
+          "date": "2026-10-19",
+          "title": "CRISPR Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001674416-000119312526425243",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526425243/crsp-20261019.htm"
+        },
         {
           "id": "event-evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
           "date": "2026-09-01",
