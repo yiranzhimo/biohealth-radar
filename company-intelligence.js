@@ -49915,7 +49915,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-9ba52f9d0691",
             "date": "2026-10-18",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49991,7 +49991,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-9ba52f9d0691",
           "date": "2026-10-18",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56291,7 +56291,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-mimetas-official-1201d3291c3d",
             "date": "2026-10-18",
             "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -56333,7 +56333,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-mimetas-official-1201d3291c3d",
           "date": "2026-10-18",
           "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -57905,7 +57905,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
+            "evidenceId": "evidence-company-natera-official-803ef9314eca",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
+            "text": "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
+            "evidenceId": "evidence-company-natera-official-803ef9314eca",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57913,7 +57921,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s Signatera™ MRD Test Named to TIME’s List of the Best Inventions of 2026",
             "text": "Natera’s Signatera™ MRD Test Named to TIME’s List of the Best Inventions of 2026",
-            "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
+            "evidenceId": "evidence-company-natera-official-803ef9314eca",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57921,15 +57929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
             "text": "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
-            "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
+            "evidenceId": "evidence-company-natera-official-803ef9314eca",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57953,7 +57953,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-f11ac2c5df2e",
+          "evidence-company-natera-official-803ef9314eca",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57965,14 +57965,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-f11ac2c5df2e",
-            "date": "2026-10-16",
+            "id": "event-evidence-company-natera-official-803ef9314eca",
+            "date": "2026-10-19",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
+            "evidenceId": "evidence-company-natera-official-803ef9314eca",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -58032,7 +58032,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-16",
+        "lastEvidenceDate": "2026-10-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -58041,14 +58041,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-f11ac2c5df2e",
-          "date": "2026-10-16",
+          "id": "event-evidence-company-natera-official-803ef9314eca",
+          "date": "2026-10-19",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-f11ac2c5df2e",
+          "evidenceId": "evidence-company-natera-official-803ef9314eca",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -61120,40 +61120,40 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。；公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
-        "summaryOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements. Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
+        "summary": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。；公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
+        "summaryOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads. Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
             "text": "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Oxford Nanopore Technologies products are RUO.",
             "text": "Oxford Nanopore Technologies products are RUO.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
             "text": "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
             "text": "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-            "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-            "sourceUrl": "https://nanoporetech.com/platform",
+            "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "sourceUrl": "https://nanoporetech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
@@ -61168,13 +61168,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
-          "evidence-company-oxford-nanopore-official-ed4824a89165"
+          "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+          "evidence-company-oxford-nanopore-pipeline-f611c963a9b5"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "date": "2026-10-19",
+            "title": "Welcome to Oxford Nanopore Technologies",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+            "sourceUrl": "https://nanoporetech.com/"
+          },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
             "date": "2026-09-30",
@@ -61185,17 +61196,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
             "sourceUrl": "https://nanoporetech.com/platform"
-          },
-          {
-            "id": "event-evidence-company-oxford-nanopore-official-ed4824a89165",
-            "date": "2026-09-30",
-            "title": "Welcome to Oxford Nanopore Technologies",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-oxford-nanopore-official-ed4824a89165",
-            "sourceUrl": "https://nanoporetech.com/"
           }
         ],
         "inferences": [],
@@ -61209,7 +61209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-09-30",
+        "lastEvidenceDate": "2026-10-19",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -61217,6 +61217,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-oxford-nanopore-official-fffbdbc2b208",
+          "date": "2026-10-19",
+          "title": "Welcome to Oxford Nanopore Technologies",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+          "sourceUrl": "https://nanoporetech.com/"
+        },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
           "date": "2026-09-30",
@@ -61227,17 +61238,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
           "sourceUrl": "https://nanoporetech.com/platform"
-        },
-        {
-          "id": "event-evidence-company-oxford-nanopore-official-ed4824a89165",
-          "date": "2026-09-30",
-          "title": "Welcome to Oxford Nanopore Technologies",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-oxford-nanopore-official-ed4824a89165",
-          "sourceUrl": "https://nanoporetech.com/"
         }
       ]
     },

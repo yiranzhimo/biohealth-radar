@@ -48064,7 +48064,7 @@
       "publishedAt": "2026-10-18",
       "snapshotDate": "2026-10-18",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -48094,7 +48094,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9ba52f9d0691777aff0fe16115917e860d286020da9897c76b2e316e211c38c8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -48342,7 +48342,7 @@
       "publishedAt": "2026-10-18",
       "snapshotDate": "2026-10-18",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -48372,7 +48372,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1201d3291c3d4d0dd4e44d4d06dfdf1e9972425a943b299d97a519af402b80c0",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -48665,15 +48665,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-f11ac2c5df2e",
+      "id": "evidence-company-natera-official-803ef9314eca",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-16",
+      "publishedAt": "2026-10-19",
+      "snapshotDate": "2026-10-19",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -48689,7 +48689,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f11ac2c5df2e5d7c1229e3ae00ee864206ef51208bfd38158f7b917debb6a3c2.",
+      "fact": "The official page was captured with normalized-content hash 803ef9314eca41633ae4766ae52f425777552edab44c0c33d53816f740ad4772.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -48702,14 +48702,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f11ac2c5df2e5d7c1229e3ae00ee864206ef51208bfd38158f7b917debb6a3c2",
-      "changeType": "unchanged",
+      "contentHash": "803ef9314eca41633ae4766ae52f425777552edab44c0c33d53816f740ad4772",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
         "Natera’s Signatera™ MRD Test Named to TIME’s List of the Best Inventions of 2026",
-        "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
-        "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)"
+        "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -49058,15 +49058,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-ed4824a89165",
+      "id": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-09-30",
+      "publishedAt": "2026-10-19",
+      "snapshotDate": "2026-10-19",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -49082,7 +49082,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ed4824a89165f97b6ccd800f08aae9ac2794e85ae029437023fc857ca14d5b96.",
+      "fact": "The official page was captured with normalized-content hash fffbdbc2b20842a4a93f6d527d9f2f9f2c38ae9aed30b0300974e4cf7ce2b49e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -49095,8 +49095,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ed4824a89165f97b6ccd800f08aae9ac2794e85ae029437023fc857ca14d5b96",
-      "changeType": "unchanged",
+      "contentHash": "fffbdbc2b20842a4a93f6d527d9f2f9f2c38ae9aed30b0300974e4cf7ce2b49e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
