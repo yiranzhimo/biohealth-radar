@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-20T11:46:17.703972+00:00",
+  "capturedAt": "2026-10-20T17:15:26.104881+00:00",
   "summary": {
-    "mentionCount": 661,
-    "candidateCount": 594,
+    "mentionCount": 663,
+    "candidateCount": 595,
     "corroboratedCount": 2,
     "identifiedCount": 589,
-    "needsReviewCount": 3,
+    "needsReviewCount": 4,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 5,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,94 +20,140 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-51c8e270af028527",
-      "observedName": "Jacobio Pharmaceuticals Co., Ltd.",
-      "normalizedName": "jacobio pharmaceuticals",
+      "id": "mention-clinicaltrials-11a0cbdd81d31a55",
+      "observedName": "Biofourmis Inc.",
+      "normalizedName": "biofourmis",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05490472",
-      "sourceDate": "2026-01-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05490472",
+      "sourceRecordId": "NCT04191330",
+      "sourceDate": "2024-06-17",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04191330",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Artificial Intelligence Mobile Health Trial Of A Digital Platform To Optimize GDMT Using Wearable Sensors"
+    },
+    {
+      "id": "mention-clinicaltrials-bc37349b44b6ced1",
+      "observedName": "Columbia Research Laboratories",
+      "normalizedName": "columbia research laboratories",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06615830",
+      "sourceDate": "2026-02-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06615830",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Organoids",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "精准医疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "active_trial"
+      ],
+      "contextTitle": "Predictive Value of Transcriptome-based OncoTreat/Oncotarget and Organoid Testing in Metastatic Pancreatic Cancer."
+    },
+    {
+      "id": "mention-clinicaltrials-c58ce30b83163beb",
+      "observedName": "CanariaBio Inc.",
+      "normalizedName": "canariabio",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03162562",
+      "sourceDate": "2020-12-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03162562",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
-        "Recruiting",
-        "中国",
         "临床试验",
-        "乳腺癌",
         "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "The Safety and Antitumor Activity of the Combination of Oregovomab and Hiltonol in Recurrent Advanced Ovarian Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-e7403de6d055cfc5",
+      "observedName": "Abbott Diagnostics Division",
+      "normalizedName": "abbott diagnostics division",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00979979",
+      "sourceDate": "2014-10-21",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00979979",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Clinical Performance of Abbott RealTime Hepatitis C Virus (HCV) Genotype II Test"
+    },
+    {
+      "id": "mention-clinicaltrials-fbb451c2f0f1abad",
+      "observedName": "Novo Nordisk A/S",
+      "normalizedName": "novo nordisk a s",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06789900",
+      "sourceDate": "2026-04-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
       ],
       "activitySignals": [
         "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "JAB-2485 Activity in Adult Patients With Advanced Solid Tumors"
-    },
-    {
-      "id": "mention-clinicaltrials-6b4708178c2cd247",
-      "observedName": "Skin Analytics Limited",
-      "normalizedName": "skin analytics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04123678",
-      "sourceDate": "2021-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Oncology",
-        "Precision Oncology",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "DERM Health Economics Study"
-    },
-    {
-      "id": "mention-clinicaltrials-a917cc2751770c57",
-      "observedName": "Peerbridge Health, Inc",
-      "normalizedName": "peerbridge health",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07775976",
-      "sourceDate": "2026-08-21",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Diagnostics",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "Precision Medicine",
-        "biomarker",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "精准医疗",
-        "衰老",
-        "诊断"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
+      "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43914,39 +43960,35 @@
       ]
     },
     {
-      "id": "candidate-jacobio-pharmaceuticals",
-      "name": "Jacobio Pharmaceuticals Co., Ltd.",
+      "id": "candidate-biofourmis",
+      "name": "Biofourmis Inc.",
       "aliases": [
-        "Jacobio Pharmaceuticals Co., Ltd."
+        "Biofourmis Inc."
       ],
-      "normalizedName": "jacobio pharmaceuticals",
+      "normalizedName": "biofourmis",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-01-09",
-      "lastSeenAt": "2026-01-09",
+      "firstSeenAt": "2024-06-17",
+      "lastSeenAt": "2024-06-17",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
           "临床试验",
-          "乳腺癌",
-          "肿瘤"
+          "医疗 AI"
         ],
         "themes": [
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "中国",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
           "临床试验",
-          "乳腺癌",
-          "肿瘤"
+          "医疗 AI"
         ],
         "tags": []
       },
@@ -43959,127 +44001,47 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-51c8e270af028527"
+        "mention-clinicaltrials-11a0cbdd81d31a55"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-01-09",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05490472",
-          "externalId": "NCT05490472",
-          "contextTitle": "JAB-2485 Activity in Adult Patients With Advanced Solid Tumors"
+          "sourceDate": "2024-06-17",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04191330",
+          "externalId": "NCT04191330",
+          "contextTitle": "Artificial Intelligence Mobile Health Trial Of A Digital Platform To Optimize GDMT Using Wearable Sensors"
         }
       ]
     },
     {
-      "id": "candidate-peerbridge-health",
-      "name": "Peerbridge Health, Inc",
+      "id": "candidate-canariabio",
+      "name": "CanariaBio Inc.",
       "aliases": [
-        "Peerbridge Health, Inc"
+        "CanariaBio Inc."
       ],
-      "normalizedName": "peerbridge health",
+      "normalizedName": "canariabio",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-21",
-      "lastSeenAt": "2026-08-21",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "Precision Medicine",
-          "biomarker",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "themes": [
-          "Biomarkers",
-          "Clinical Trials",
-          "Diagnostics",
-          "Healthcare AI",
-          "Longevity",
-          "Medical AI",
-          "Precision Medicine",
-          "biomarker",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI",
-          "精准医疗",
-          "衰老",
-          "诊断"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-a917cc2751770c57"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-08-21",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07775976",
-          "externalId": "NCT07775976",
-          "contextTitle": "Cor360: Clinician-Facing Broad-Spectrum Cardiac Phenotyping and Risk Assessment Using COR® Wearable ECG to Inform Outcomes-Oriented Care Pathways"
-        }
-      ]
-    },
-    {
-      "id": "candidate-skin-analytics",
-      "name": "Skin Analytics Limited",
-      "aliases": [
-        "Skin Analytics Limited"
-      ],
-      "normalizedName": "skin analytics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2021-08-13",
-      "lastSeenAt": "2021-08-13",
+      "firstSeenAt": "2020-12-22",
+      "lastSeenAt": "2020-12-22",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "临床决策支持",
           "临床试验",
-          "医疗 AI",
           "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
           "Oncology",
           "Precision Oncology",
-          "临床决策支持",
           "临床试验",
-          "医疗 AI",
           "肿瘤"
         ],
         "tags": []
@@ -44093,17 +44055,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6b4708178c2cd247"
+        "mention-clinicaltrials-c58ce30b83163beb"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2021-08-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
-          "externalId": "NCT04123678",
-          "contextTitle": "DERM Health Economics Study"
+          "sourceDate": "2020-12-22",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03162562",
+          "externalId": "NCT03162562",
+          "contextTitle": "The Safety and Antitumor Activity of the Combination of Oregovomab and Hiltonol in Recurrent Advanced Ovarian Cancer"
         }
       ]
     },
@@ -47477,6 +47439,142 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
+        }
+      ]
+    },
+    {
+      "id": "candidate-columbia-research-laboratories",
+      "name": "Columbia Research Laboratories",
+      "aliases": [
+        "Columbia Research Laboratories"
+      ],
+      "normalizedName": "columbia research laboratories",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-02-11",
+      "lastSeenAt": "2026-02-11",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Diagnostics",
+          "Oncology",
+          "Organoids",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "精准医疗",
+          "肿瘤",
+          "诊断"
+        ],
+        "themes": [
+          "Advanced Disease Models",
+          "Clinical Trials",
+          "Diagnostics",
+          "Oncology",
+          "Organoids",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "疾病模型",
+          "类器官",
+          "精准医疗",
+          "肿瘤",
+          "诊断"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-bc37349b44b6ced1"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-02-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06615830",
+          "externalId": "NCT06615830",
+          "contextTitle": "Predictive Value of Transcriptome-based OncoTreat/Oncotarget and Organoid Testing in Metastatic Pancreatic Cancer."
+        }
+      ]
+    },
+    {
+      "id": "candidate-novo-nordisk-a-s",
+      "name": "Novo Nordisk A/S",
+      "aliases": [
+        "Novo Nordisk A/S"
+      ],
+      "normalizedName": "novo nordisk a s",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-04-07",
+      "lastSeenAt": "2026-04-07",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "肿瘤",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-fbb451c2f0f1abad"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-04-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
+          "externalId": "NCT06789900",
+          "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
         }
       ]
     }
