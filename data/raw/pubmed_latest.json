@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-20T04:57:48.850536+00:00",
+  "capturedAt": "2026-10-20T11:46:13.734791+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-20"
   },
   "pmids": [
-    "42896703",
-    "42896566",
-    "42895516",
-    "42895300",
-    "42895197",
-    "42895135",
+    "42897657",
+    "42897609",
+    "42897599",
+    "42897542",
+    "42897295",
+    "42897224",
     "42893561",
     "42890802",
     "42880218",
@@ -32,121 +32,126 @@
     "42873630",
     "42872591",
     "42871461",
+    "42897661",
     "42896975",
     "42896913",
     "42896885",
     "42895263",
-    "42893704",
-    "42893629"
+    "42893704"
   ],
   "records": [
     {
-      "pmid": "42896703",
-      "title": "Minimal essentials for humanized vessel-on-a-chip model for vascular research.",
-      "abstract": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical models. We aimed to develop a vessel-on-a-chip using a biocompatible microfluidic device co-cultured with human umbilical vein endothelial cells (HUVEC) and vascular smooth muscle cells (VSMC). VSMC and HUVEC were isolated from umbilical cords and co-cultured in a polydimethylsiloxane (PDMS) chip using specific growth media and tropoelastin-enriched media to favour extracellular matrix (ECM) synthesis, which was measured by gene expression (quantitative polymerase chain reaction) and deposition (immunofluorescence), to establish an organized structure. Then, using a microfluidic pump system, the functional relevance of the model was evaluated by fluidic and permeability studies after a 9-day- cell growth period. Our vessel-on-a-chip model showed a bilayer structure, cell specific morphology and biomarkers phenotypes, and cell integrity. Gene and protein expression demonstrated the presence of ECM components, providing structural support and microenvironment control. It was observed that shear stress closer to the physiological range provided stability to the model and control of the permeability function. Our 3D model may serve as a promising preclinical research tool that closely mimics the structural conformation of blood vessels and reflects essential physiological parameters, including cell maturity, shear stress, and functional permeability. Consequently, it could potentially be applied to cellular and molecular research to further elucidate vascular biology in cardiovascular diseases.",
-      "journal": "Life sciences",
+      "pmid": "42897657",
+      "title": "Alveolar organoids: from model systems to applications in respiratory diseases.",
+      "abstract": "Organoid technology has emerged as a research hotspot in the biomedical field in recent years, providing important methodologies for disease modeling, drug screening, and regenerative medicine. Alveolar organoids serve as crucial models for studying respiratory diseases, and their technological evolution and application expansion reflect key advances in this field. This article systematically reviews the developmental history of organoids, provides an in-depth comparison of the applicability and limitations of different culture and characterization strategies for alveolar organoids, summarizes and critically analyzes alveolar organoid models established for common respiratory diseases, and offers perspectives on future directions in this area.",
+      "journal": "Journal of translational medicine",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain.",
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; Photonics4Life Research Group, Departamento de Física Aplicada, Facultade de Física and Facultade de Óptica e Optometría, Instituto de Materiais (iMATUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
-        "Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
-        "Photonics4Life Research Group, Departamento de Física Aplicada, Facultade de Física and Facultade de Óptica e Optometría, Instituto de Materiais (iMATUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
-        "CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
-        "CIBERCV, Madrid, Spain; Servicio de Cardiología y Unidad de Hemodinámica, Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
-        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain; Departamento de Farmacología, Farmacia y Tecnología Farmacéutica, Universidad de Santiago de Compostela, 15782, Santiago de Compostela, A Coruña, Spain. Electronic address: ezequiel.alvarez@usc.es."
+        "Beijing Tuberculosis and Thoracic Tumor Research Institute, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China.",
+        "Department of Respiratory and Critical Care Medicine, Beijing Chest Hospital, Capital Medical University, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China.",
+        "Department of Respiratory and Critical Care Medicine, Peking University Third Hospital, Peking University, Beijing, 100191, China.",
+        "Beijing Tuberculosis and Thoracic Tumor Research Institute, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China. wangdongchang@bjxkyy.cn.",
+        "Department of Respiratory and Critical Care Medicine, Beijing Chest Hospital, Capital Medical University, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China. wangdongchang@bjxkyy.cn.",
+        "Beijing Tuberculosis and Thoracic Tumor Research Institute, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China. yedahuan@yeah.net.",
+        "Department of Respiratory and Critical Care Medicine, Beijing Chest Hospital, Capital Medical University, Courtyard 1, No.9 Beiguan Street, Tongzhou District, Beijing, 101199, China. yedahuan@yeah.net."
       ],
-      "doi": "10.1016/j.lfs.2026.124745",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896703/"
+      "doi": "10.1186/s12967-026-08616-x",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897657/"
     },
     {
-      "pmid": "42896566",
-      "title": "Granular hydrogel bioink for macroporous pancreatic spheroid scaffolds.",
-      "abstract": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in large, engineered 3D constructs which exceed the diffusion limitation of 100 - 200 µm, resulting in necrotic cores. Granular hydrogels have emerged as a promising approach for tissue engineering due to their inherent porosity. Their interconnected pores can facilitate mass transport of oxygen and nutrients, and therefore support cellular function. In this work, we developed a facile method to prepare bioprintable granular hydrogel bioink containing microparticles with tunable diameters, that can form porous scaffolds with different pore sizes and porosities. The bioink remained shelf-stable for at least 60 days when stored at 4 °C, as determined by the melt temperature. The macroporous granular hydrogel scaffold has inherent void spaces between the hydrogel microparticles, in which spheroids can be embedded. Pancreatic spheroids incorporated into the scaffold showed improved viability compared to free spheroids, indicating the granular microenvironment supports spheroid survival. Furthermore, functional studies of embedded pancreatic spheroids with glucose-stimulated insulin secretion (GSIS) demonstrated preserved insulin secretion functionality. Our approach thus serves as a tunable platform for supporting the culture of functional spheroids and organoids, that has potential regenerative medicine applications in restoration of physiological functions when implanted.",
-      "journal": "Biofabrication",
+      "pmid": "42897609",
+      "title": "FUBP1 lactylation suppresses trophoblast function in fetal growth restriction.",
+      "abstract": "Fetal growth restriction (FGR) is a common complication of pregnancy; however, its exact molecular mechanisms remain unclear. Excessive lactate accumulation in the placenta is often observed during FGR. High concentrations of lactate can regulate the proliferation of pathological cells through lactylation of key proteins. Therefore, we aimed to screen key lactylation modification-related genes (LMRGs) and provide new directions for the diagnosis and treatment of FGR. The Differentially expressed LMRGs (DE-LMRGs) in FGR were evaluated using the Gene Expression Omnibus database. Functional enrichment analysis was performed, and a protein-protein interaction (PPI) network was created to explore the characteristics of placental gene networks associated with FGR. In addition, secondary cluster analysis was performed using a machine learning algorithm to screen critical genes. We evaluated the degree of immune cell infiltration of key genes using single-sample gene set enrichment analysis. The expression and function of key genes in FGR were verified experimentally. Furthermore, FUBP1 lactylation was assessed using mass spectrometry and immunoprecipitation. We overexpressed wild-type and mutant FUBP1 in HTR-8/SVneo cells to investigate how its lactylation regulates trophoblast function. Finally, patient-derived organoids (PDO) were cultured to confirm the underlying mechanism of FUBP1. In total, 35 DE-LMRGs were identified, and their PPI network was constructed. Two distinct FGR clusters were obtained using unsupervised consensus clustering. Moreover, the DE-LMRGs between the two patterns were mainly enriched in immune cell regulation-related molecular functions. We identified 5 overlapping key genes (BCLAF1, FUBP1, S100A6, CSRP1, CSRP2) by integrating the LASSO, random forest (RF), and SVM-RFE algorithms and screening for genes with a large fold change (using log2-FC). FUBP1 and BCLAF1 expression was lower in FGR placental tissues than in normal controls. Functional assays showed that both genes typically promote HTR-8/SVneo cell proliferation and invasion. However, lactylation of FUBP1 exerted the opposite effect by inhibiting proliferation and invasion and promoting apoptosis, indicating that FUBP1 lactylation regulates trophoblast function. Furthermore, PDO derived from the trophoblast tissues of patients with FGR revealed that FUBP1 lactylation suppressed PDO formation. FUBP1 lactylation is identified as a novel mechanism suppressing trophoblast function in FGR. This finding expands the field of FGR research by highlighting the role of lactylation-modified proteins and provides crucial insights into the pathological mechanisms of FGR.",
+      "journal": "Clinical epigenetics",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Bioprocessing Technology Institute, Agency for Science Technology and Research, 31 Biopolis Way, Nanos, Singapore, 138669, Singapore.",
-        "Institute of Molecular and Cell Biology, Agency for Science Technology and Research, 61 Biopolis Dr, Proteos, Singapore, 138673, Singapore."
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China.",
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. doctormajian@126.com.",
+        "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, Shenyang, 110004, Liaoning, China. qwertyuiop-yxz@163.com."
       ],
-      "doi": "10.1088/1758-5090/aeb62d",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896566/"
+      "doi": "10.1186/s13148-026-02208-8",
+      "date": "2026-07-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897609/"
     },
     {
-      "pmid": "42895516",
-      "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
-      "abstract": "Donors of cells used to create induced pluripotent stem cells (iPSCs) and brain organoids may not understand what brain organoids are, how they will be used, or the long-term implications of the research. Informed consent documents (ICDs) often contain highly technical language and are written at reading grade levels higher than those attained by the target population. Our goal was to evaluate informed consent documents used for brain organoid research. We compared 20 currently active, IRB-approved consent documents to published templates/guidelines for iPSC research consent. Analyzed ICDs adhered to guidelines in explaining risks and benefits, de-identification, commercial potential, storage, and results sharing. However, descriptions of current and future use were lacking in detail, and the average reading level of ICDs far exceeded that of the general population. Our findings suggest additional transparency in ICDs would assist participants in making an informed choice about participation in iPSC and brain organoid research.",
-      "journal": "AJOB neuroscience",
+      "pmid": "42897599",
+      "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment.",
+      "abstract": "Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant challenges for functional genetic studies. To address these limitations, this study aimed to establish porcine lung organoid (PLOs) and to develop a robust, high-efficiency genome-editing platform by leveraging the high physiological and anatomical similarity between pigs and humans. PLOs were derived from lung tissues and characterized by immunofluorescence and immunohistochemistry analysis. To enhance genome-editing efficiency using CRISPR/Cas9 and prime editing, a GFP-guided enrichment strategy was used by co-targeting a GFP transgene and endogenous loci, followed by the selection of GFP-negative organoids. Clonal expansion from single organoids was performed to generate genetically homogenous lines. Genetic modifications were validated through cDNA sequencing and western blot analysis. Structural integrity was assessed using AlphaFold2 modeling, and functional changes were evaluated using the forskolin-induced swelling assay. The established PLOs exhibited sustained self-renewal capacity and expression of surfactant protein C alongside both proximal epithelial and mesenchymal markers, reflecting a composite lung organoid identity. GFP-guided enrichment significantly enriched edited cells; the mutation ratio in the GFP-negative group was significantly higher than that in the GFP-positive group. This system successfully generated fully gene-edited clones with high genetic homogeneity, and effectively enriched for precisely edited organoids, even when applying complex modalities such as prime editing. The PLOs and genome-editing platform developed in this study provide a powerful resource for translational medicine. By enabling precise genetic manipulation in a model that closely mimics human lung physiology, this system offers an essential platform for recapitulating human lung pathologies, studying zoonotic infectious diseases, and validating the efficacy of gene therapies.",
+      "journal": "Stem cell research & therapy",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "University of Washington.",
-        "Washington National Biomedical Research Center.",
-        "Seattle Children's Research Institute.",
-        "University of Washington School of Medicine."
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "LARTBio Inc., Gyeonggi-Do, Republic of Korea.",
+        "Laboratory of Theriogenology and Biotechnology, Department of Veterinary Clinical Science, College of Veterinary Medicine, BK21 FOUR Future Veterinary Medicine Leading Education, and the Research Institute of Veterinary Science, Seoul National University, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "Comparative Medicine Disease Research Center, Seoul National University, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "LARTBio Inc., Gyeonggi-Do, Republic of Korea. snujang@snu.ac.kr."
       ],
-      "doi": "10.1080/21507740.2026.2736005",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895516/"
+      "doi": "10.1186/s13287-026-05185-0",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897599/"
     },
     {
-      "pmid": "42895300",
-      "title": "From organoids to assembloids: modeling tissue crosstalk in female reproductive biology and disease.",
-      "abstract": "The female reproductive tract is a multi-tissue system in which epithelial, stromal, immune, and vascular cells coordinate responses to hormonal signals. Single-tissue organoids have advanced epithelial modeling in vitro but cannot capture the inter-tissue communication underlying key reproductive processes. Assembloids, which recombine cells from distinct tissue compartments in three-dimensional space, offer a means to restore these missing interactions. This review examines reproductive assembloid research across three biology-driven contexts. In menstrual cycle modeling, organoid-based systems have recapitulated epithelial breakdown and regeneration, yet stromal, immune, and vascular integration remain incomplete. In implantation modeling, embryo-endometrial co-cultures and receptive assembloids have begun to capture maternal-fetal crosstalk, though immune and vascular dimensions are largely missing. In endometriosis and adenomyosis modeling, assembloids have started to reconstruct pathogenic microenvironments that single organoids cannot replicate. Three issues are examined in depth. The first is the gap between what current models can and cannot reveal about reproductive biology. The second is the risk that added complexity may only confirm findings already established in vivo. The third is the point at which an additional tissue component stops contributing new information. Progress in this field is likely to depend not on greater structural complexity but on questions that only multi-tissue models can address.",
-      "journal": "Molecular human reproduction",
+      "pmid": "42897542",
+      "title": "Patient-derived organoids for precision oncology in colorectal cancer: from tumor modeling to clinical translation.",
+      "abstract": "Precision oncology in colorectal cancer (CRC) has been profoundly informed by genomic and transcriptomic profiling, yet molecular stratification remains only partially predictive of therapeutic benefit. This reflects a broader challenge: moving from static molecular information to dynamic, adaptive, and time-resolved predictions of drug response for individual patients along their clinical history. In CRC, this challenge is compounded by extensive inter- and intratumoral heterogeneity, clonal evolution, chromosomal instability, phenotypic plasticity and tumor-microenvironment (TME) interactions, all of which reshape therapeutic vulnerabilities over time.Patient-derived organoids (PDOs) have emerged as a functional platform to address this gap, with CRC providing one of the most fertile contexts for their development and application. By preserving key histopathological, molecular, and phenotypic features of parental tumors while remaining experimentally tractable, expandable, and amenable to pharmacological and genetic perturbation, PDOs add a functional layer to precision oncology in CRC. Living organoid biobanks and ex vivo screening studies have shown that PDOs can capture interpatient heterogeneity, uncover mechanisms of sensitivity and resistance, and, in selected contexts, mirror clinical responses to chemotherapy and targeted agents. The same experimental tractability has made these systems powerful tools for investigating tumor initiation and clonal evolution, while enabling exploration of cellular plasticity through the lens of dynamic cellular hierarchies. In parallel, next-generation CRC organoid systems incorporating stromal and immune components may extend functional testing to TME-dependent processes, including response to immunotherapy.In this review, we discuss the conceptual foundations of organoid technology and its emergence as a functional precision oncology platform in CRC. We examine how CRC organoids have advanced understanding of tumor initiation, evolution, chromosomal instability, and phenotypic plasticity; summarize their applications in drug discovery, therapy-response prediction, and resistance modeling; and highlight the development of next-generation multicellular organoid systems incorporating immune and stromal components. Finally, we address the major technical, biological, and clinical challenges that must be overcome to translate PDO-based approaches into robust and clinically actionable tools for precision medicine.",
+      "journal": "Molecular cancer",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Obstetrics and Gynecology, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
-        "Department of Gynecologic Oncology, Zhongshan Hospital, Fudan University, Shanghai, China.",
-        "Department of Obstetrics and Gynecology, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China.",
-        "Reproductive Medicine Center, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China."
+        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Viale della Ricerca 7, Torino, Candiolo, 10060, Italy.",
+        "Department of Oncology, University of Torino, Torino, Candiolo, 10060, Italy.",
+        "INOC - Istituto Nazionale Oncologico Candiolo; IRCCS, Viale della Ricerca 7, Torino, Candiolo, 10060, Italy. livio.trusolino@inoc.it.",
+        "Department of Oncology, University of Torino, Torino, Candiolo, 10060, Italy. livio.trusolino@inoc.it."
       ],
-      "doi": "10.1093/molehr/gaag060",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895300/"
+      "doi": "10.1186/s12943-026-02747-x",
+      "date": "2026-07-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897542/"
     },
     {
-      "pmid": "42895197",
-      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
-      "abstract": "Identification of metabolic markers of prohibited and emerging performance-enhancing substances remains a key challenge in anti-doping analysis, where limitations of conventional in vitro models in resembling authentic physiological conditions exist. Organ-on-a-chip (OoC) systems combining 3D human liver-cell cultures with microfluidic perfusion offer a predictive alternative for human-like drug metabolism. In this study, a HepaRG™-based liver OoC model incorporating hepatic stellate cells was characterized over a three-week period with a focus on cytochrome P450 (CYP)-mediated metabolism. CYP activity, gene expression, and inducibility were assessed for major hepatic CYP isoforms, complemented by pharmacogenomic profiling. Metabolic performance was further evaluated using S107, a non-approved and prohibited doping agent, with metabolite formation being determined by liquid chromatography and high-resolution mass spectrometry (LC-HRMS/MS) in comparison with published in vitro data. The OoC system maintained stable viability and hepatic functionality throughout the culture period, demonstrating phase-I metabolic competence. Isoform-specific differences in mRNA expression and enzymatic activity highlighted complex regulatory effects within the microphysiological environment, while rifampicin responses confirmed preserved nuclear receptor-mediated inducibility across the system. Functional limitations were observed for CYP2D6 and CYP2B6, which showed absent or restricted activity despite detectable transcriptional signals. For S107, the model generated both phase-I and phase-II metabolites, consistent with literature data from microsomal incubation experiments. Metabolite formation was stable over the three-week period under dynamic perfusion conditions, demonstrating sustained biotransformation capacity. Overall, the HepaRG™ OoC system represents a physiologically relevant in vitro platform for long-term metabolism and demonstrates potential as a predictive tool for anti-doping applications and for elucidating metabolic pathways of emerging performance-enhancing substances.",
-      "journal": "The Analyst",
+      "pmid": "42897295",
+      "title": "The molecular footprint of valproic acid in human hippocampal organoid.",
+      "abstract": "Autism spectrum disorder (ASD) is a multifaceted neurodevelopmental condition characterized by neuroinflammation, and disruption in neuronal development. Valproic acid (VPA) is a known environmental risk factor for ASD. Induced pluripotent stem cells (IPSCs IMR90-4)-derived human hippocampal organoids (hHOs) at 60 days of development were used to investigate VPA-induced changes in mRNA and microRNA (miRNA) profiles. The molecular effects of VPA on hHOs were deciphered by meaningfully integrating the ability of miRNA to regulate expression of their predicted mRNA targets crucial to altering neuroinflammatory pathways. Molecular footprint can be defined as the VPA-induced changes to the miRNA profile resulting in coordinated post-transcriptional (mRNA) regulation of neuronal and inflammatory pathways associated with ASD. Based on the results, the molecular footprint of VPA in hHOs was generated for the first time. These findings highlight the contribution of miRNA-mediated regulatory mRNA networks to VPA-induced neuroinflammation-associated with ASD in hHOs.",
+      "journal": "Molecular neurobiology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Center for Preventive Doping Research/Institute of Biochemistry, German Sport University Cologne, Cologne, Germany. thevis@dshs-koeln.de.",
-        "European Monitoring Center for Emerging Doping Agents, Cologne/Bonn, Germany."
+        "Department of Microbiology & Immunology, Brody School of Medicine at East Carolina University, Greenville, NC, 27834, USA.",
+        "Department of Internal Medicine, Brody School of Medicine at East Carolina University, Greenville, NC, 27834, USA. cookp@ecu.edu.",
+        "Department of Microbiology & Immunology, Brody School of Medicine at East Carolina University, Greenville, NC, 27834, USA. akulas@ecu.edu."
       ],
-      "doi": "10.1039/d6an00963h",
+      "doi": "10.1007/s12035-026-06260-6",
       "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895197/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897295/"
     },
     {
-      "pmid": "42895135",
-      "title": "Low-order lateral transducer modes enabling millimeter-scale acoustofluidics.",
-      "abstract": "Bulk acoustic wave devices commonly use thickness modes of piezoelectric plates to generate standing waves in microfluidic cavities, typically at 2 MHz and above, with corresponding wavelengths well below the millimeter scale. However, handling larger mesoscopic objects-such as organoids and small model organisms, including nematodes-requires millimeter-scale fluidic structures. Single-node alignment in such cavities demands half-wavelength fields and thus sub-megahertz actuation. Conventional sub-megahertz operation requires thicker piezoelectric plates, resulting in bulky designs or requiring plate thicknesses that are not readily available commercially. Here, we demonstrate a practical yet elegant alternative based on a low-order lateral extensional mode of the transducer plate. Compared with thickness-mode devices of identical footprint, the approach lowers the operating frequency approximately fourfold and increases the channel cross section sixteenfold. Unlike typical Lamb-wave devices based on multiwavelength propagation at several megahertz and above, the present approach uses a low-order standing S0 Lamb mode. The numerically optimized devices operate at approximately 540 kHz and achieve rapid particle focusing in millimeter-wide channels, while vibrometry confirms the predicted vibration patterns and admittance measurements show that the lateral resonance is well preserved upon chip loading, with only a small, predictable shift in resonance frequency. The present study focuses on modal characterization and particle-focusing validation. Practical limitations include heating at high actuation voltages and the finite lifetime of the liquid acoustic coupling layer.",
-      "journal": "Lab on a chip",
+      "pmid": "42897224",
+      "title": "MMP14-mediated proteolytic cleavage of LAMC2 domain III fragment drives osimertinib resistance in EGFR-mutant non-small cell lung cancer.",
+      "abstract": "Acquired resistance to osimertinib remains a critical clinical challenge in EGFR-mutant non-small cell lung cancer (NSCLC), with 40%-60% of progressing patients lacking an identifiable genetic resistance driver. Through quantitative secretomic profiling of paired osimertinib-sensitive and -resistant NSCLC cell lines, we identified laminin subunit γ2 (LAMC2) as markedly enriched in resistant cell secretomes. Single-cell RNA sequencing reanalysis revealed a LAMC2-high drug-tolerant persister subpopulation that expanded under osimertinib pressure, with pseudotime analysis suggesting progressive co-upregulation of LAMC2 and matrix metalloproteinase 14 (MMP14) along the treatment-to-resistance trajectory. Across four independent cohorts, MMP14 exhibited the strongest co-expression with LAMC2 among all metalloproteinases; the two proteins also physically interacted, and their concurrent high expression predicted the worst overall survival. Mechanistically, MMP14 cleaved LAMC2 to release a bioactive Domain III (DIII) fragment harboring EGF-like repeats, which reactivated EGFR/AKT/ERK signaling despite continued osimertinib exposure. Exogenous DIII conferred resistance in sensitive cells, whereas an anti-DIII blocking antibody reversed MMP14-driven resistance in cell lines and patient-derived organoids. The selective MMP14 inhibitor NSC405020 restored osimertinib sensitivity in vitro and suppressed xenograft growth. In residual tumor tissues from neoadjuvant osimertinib-treated patients, non-responders exhibited higher LAMC2/MMP14 co-expression and more prominent spatial exclusion of CD8⁺ T-cells from the tumor core compared with major pathological responders. These findings identify the MMP14-LAMC2-DIII proteolytic axis as a non-genetic resistance mechanism and suggest that MMP14 inhibition or DIII neutralization may represent a rational strategy to overcome acquired osimertinib resistance.",
+      "journal": "Acta pharmacologica Sinica",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Institute for Microelectronics and Microsensors, Johannes Kepler University Linz, Linz, Austria. andreas.fuchsluger@jku.at.",
-        "Microfab Division, Silicon Austria Labs GmbH, Villach, Austria."
+        "Department of Respiratory Disease, Daping Hospital, Army Medical University, Chongqing, 400042, China.",
+        "State Key Laboratory of Trauma and Chemical Poisoning, Department of Trauma Medical Center, Daping Hospital, Army Medical University, Chongqing, 400042, China.",
+        "Department of Respiratory Disease, Daping Hospital, Army Medical University, Chongqing, 400042, China. heyong@tmmu.edu.cn.",
+        "Department of Respiratory Disease, Daping Hospital, Army Medical University, Chongqing, 400042, China. dpyyhxlili@tmmu.edu.cn."
       ],
-      "doi": "10.1039/d6lc00493h",
+      "doi": "10.1038/s41401-026-01901-x",
       "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895135/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897224/"
     },
     {
       "pmid": "42893561",
@@ -354,6 +359,28 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871461/"
     },
     {
+      "pmid": "42897661",
+      "title": "Advancing assisted reproductive technology in Africa: a narrative review on the promising role of molecular biology and molecular techniques.",
+      "abstract": "Assisted Reproductive Technology (ART) has significantly improved fertility outcomes globally, yet its full potential remains underutilized. In Africa, persistent barriers including high costs, limited access, inadequate infrastructure, lack of awareness, and sociocultural and ethical concerns impedes its utility. This review explores the promising role of molecular biology and advanced molecular techniques in overcoming these challenges and advancing ART on the continent. Techniques such as preimplantation genetic testing (PGT), non-invasive prenatal testing (NIPT), CRISPR/Cas9 gene editing, mitochondrial replacement therapy (MRT), and single-cell RNA sequencing offer opportunities to enhance embryo selection, minimize genetic and epigenetic risks, and improve pregnancy success rates. Furthermore, innovations like biomarker discovery, liquid biopsy, and genomic screening can personalize treatment strategies and improve reproductive outcomes. We also provide a narrative on the progress made in expanding ART services, improving affordability through low-cost protocols, and building local expertise through training and collaborations. While challenges persist, especially in regulation and access to ART, the integration of molecular innovations in a phased manner has the potential to transform ART if implemented within appropriate infrastructural, ethical, and policy frameworks. This review underscores the need for sustained investment, policy reform, and interdisciplinary collaboration to bridge existing gaps and ensure that ART technologies are accessible, safe, and effective for all individuals and couples affected by infertility in the region.",
+      "journal": "Reproductive health",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Molecular Biology and Biotechnology, University of Cape Coast, Cape Coast, Ghana.",
+        "Department of Assisted Reproductive Technology, The Chosen Hospital and Fertility Centre, Accra, Ghana.",
+        "Department of Population, Family and Reproductive Health, School of Public Health, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.",
+        "Royal Diadem School, Achimota Mkt, Accra, Ghana.",
+        "Department of Forensic Sciences, University of Cape Coast, Cape Coast, Ghana.",
+        "Department of Molecular Biology and Biotechnology, University of Cape Coast, Cape Coast, Ghana. kwafos.kf@gmail.com.",
+        "West African Center of Cell Biology of Infectious Pathogens and Department of Biochemistry, Cell and Molecular Biology, University of Ghana, Legon, Accra, Ghana. kwafos.kf@gmail.com."
+      ],
+      "doi": "10.1186/s12978-026-02410-0",
+      "date": "2026-07-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897661/"
+    },
+    {
       "pmid": "42896975",
       "title": "[Advances on Postoperative Recurrence Risk Prediction in Non-small Cell Lung Cancer].",
       "abstract": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients with resectable NSCLC; however, postoperative recurrence persists in a subset of patients, thereby compromising long-term survival outcomes. Consequently, the precise prediction of postoperative recurrence risk, identification of high-risk populations, and formulation of individualized adjuvant therapy and surveillance strategies are of paramount importance for improving patient prognosis. In recent years, fueled by the rapid evolution of artificial intelligence (AI) and liquid biopsy technologies, the prediction of postoperative recurrence in NSCLC has progressively transitioned toward greater precision and personalization. This review summarizes the current applications of traditional predictive models, AI-based models, and liquid biopsy techniques in forecasting NSCLC recurrence following surgery, evaluating their respective strengths and limitations. Furthermore, it provides insights into future research trajectories. .",
@@ -445,152 +472,20 @@
       "doi": "10.1016/j.nano.2026.103042",
       "date": "2026-10-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893704/"
-    },
-    {
-      "pmid": "42893629",
-      "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
-      "abstract": "Lung cancer remains the leading cause of cancer-related deaths worldwide. Leptomeningeal metastasis (LM), a serious complication of advanced lung cancer, poses significant challenges in both clinical diagnosis and treatment monitoring, and is associated with a poor prognosis. Conventional diagnostic methods include magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) cytology; however, their sensitivity is limited, particularly in the early stages of the disease. Against this backdrop, liquid biopsy has emerged as a minimally invasive and practical approach for molecular assessment and longitudinal monitoring of LM. Recent studies have reported that, in selected cohorts of patients with non-small cell lung cancer (NSCLC) and LM, CSF-derived circulating tumor DNA (ctDNA) detects driver and resistance-associated alterations more frequently than paired plasma, while epithelial cell adhesion molecule (EpCAM)-based CSF circulating tumor cell (CTC) assays have reported sensitivities of 76%-100% and specificities of 84%-100%, compared with a first-lumbar-puncture sensitivity of 44%-67% for conventional CSF cytology. These performance estimates should be interpreted in the context of selected cohorts and heterogeneous reference frameworks. Furthermore, cerebrospinal fluid circulating tumor cell (CSF-CTC) burden holds prognostic value, with higher CTC levels associated with poorer survival outcomes. This review summarizes recent advances in liquid biopsy biomarkers including ctDNA, DNA methylation, microRNA (miRNA), proteins, and circulating tumor cells (CTCs), focusing on their applications in the diagnosis, treatment monitoring, and prognostic assessment of lung cancer-associated LM, and provides a comparative discussion of liquid biopsy based on plasma and cerebrospinal fluid specimens. It further explores the potential, current challenges, and directions for clinical translation of multi-omics integration in the personalized management of LM.",
-      "journal": "Lung cancer (Amsterdam, Netherlands)",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China; Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China.",
-        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China.",
-        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China. Electronic address: 13783100985@163.com.",
-        "Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China; State Key Laboratory of Neurology and Oncology Drug Development, Nanjing, 210042, China. Electronic address: chenocean017@126.com.",
-        "The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, 471003, China; Department of Internal Medicine, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Institute of Cancer Research, Henan Academy of Innovations in Medical Sciences, Zhengzhou, 450000, China; State Key Laboratory of Neurology and Oncology Drug Development, Nanjing, 210042, China. Electronic address: qimingwang1006@126.com."
-      ],
-      "doi": "10.1016/j.lungcan.2026.109667",
-      "date": "2026-10-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893629/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42896703",
+      "id": "pubmed-42897295",
       "date": "2026-10-19",
-      "title": "Minimal essentials for humanized vessel-on-a-chip model for vascular research.",
+      "title": "The molecular footprint of valproic acid in human hippocampal organoid.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896703/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42896703。",
-      "report": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical mode...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42896566",
-      "date": "2026-10-19",
-      "title": "Granular hydrogel bioink for macroporous pancreatic spheroid scaffolds.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896566/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42896566。",
-      "report": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in la...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42895516",
-      "date": "2026-10-19",
-      "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895516/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 AJOB neuroscience，PMID 为 42895516。",
-      "report": "Donors of cells used to create induced pluripotent stem cells (iPSCs) and brain organoids may not understand what brain organoids are, how they will be used, or the long-term implications of the research. Informed consent documents (ICDs) often contain highly...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42895300",
-      "date": "2026-10-19",
-      "title": "From organoids to assembloids: modeling tissue crosstalk in female reproductive biology and disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895300/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular human reproduction，PMID 为 42895300。",
-      "report": "The female reproductive tract is a multi-tissue system in which epithelial, stromal, immune, and vascular cells coordinate responses to hormonal signals. Single-tissue organoids have advanced epithelial modeling in vitro but cannot capture the inter-tissue com...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42895197",
-      "date": "2026-10-19",
-      "title": "Microphysiological organ-on-a-chip system for anti-doping research: long-term CYP activity characterization and S107 metabolism in a HepaRG™-based 3D liver model.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895197/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897295/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -607,36 +502,40 @@
         "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Analyst，PMID 为 42895197。",
-      "report": "Identification of metabolic markers of prohibited and emerging performance-enhancing substances remains a key challenge in anti-doping analysis, where limitations of conventional in vitro models in resembling authentic physiological conditions exist. Organ-on-...",
+      "fact": "PubMed 记录显示该文献收录于 Molecular neurobiology，PMID 为 42897295。",
+      "report": "Autism spectrum disorder (ASD) is a multifaceted neurodevelopmental condition characterized by neuroinflammation, and disruption in neuronal development. Valproic acid (VPA) is a known environmental risk factor for ASD. Induced pluripotent stem cells (IPSCs IM...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42895135",
+      "id": "pubmed-42897224",
       "date": "2026-10-19",
-      "title": "Low-order lateral transducer modes enabling millimeter-scale acoustofluidics.",
+      "title": "MMP14-mediated proteolytic cleavage of LAMC2 domain III fragment drives osimertinib resistance in EGFR-mutant non-small cell lung cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895135/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897224/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42895135。",
-      "report": "Bulk acoustic wave devices commonly use thickness modes of piezoelectric plates to generate standing waves in microfluidic cavities, typically at 2 MHz and above, with corresponding wavelengths well below the millimeter scale. However, handling larger mesoscop...",
+      "fact": "PubMed 记录显示该文献收录于 Acta pharmacologica Sinica，PMID 为 42897224。",
+      "report": "Acquired resistance to osimertinib remains a critical clinical challenge in EGFR-mutant non-small cell lung cancer (NSCLC), with 40%-60% of progressing patients lacking an identifiable genetic resistance driver. Through quantitative secretomic profiling of pai...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -758,38 +657,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nanomedicine : nanotechnology, biology, and medicine，PMID 为 42893704。",
       "report": "HER2, a member of the epidermal growth factor receptor family, is a cell surface protein that plays a critical role in the development of aggressive breast cancer phenotypes and serves as a molecular target for HER2-directed therapy. The extracellular domain o...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42893629",
-      "date": "2026-10-17",
-      "title": "Multi-omics liquid biopsy for leptomeningeal metastases in lung cancer: from molecular mechanisms to precision diagnosis and treatment.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893629/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Lung cancer (Amsterdam, Netherlands)，PMID 为 42893629。",
-      "report": "Lung cancer remains the leading cause of cancer-related deaths worldwide. Leptomeningeal metastasis (LM), a serious complication of advanced lung cancer, poses significant challenges in both clinical diagnosis and treatment monitoring, and is associated with a...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1168,6 +1035,169 @@
       "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42896975。",
       "report": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42897609",
+      "date": "2026-07-23",
+      "title": "FUBP1 lactylation suppresses trophoblast function in fetal growth restriction.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897609/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical epigenetics，PMID 为 42897609。",
+      "report": "Fetal growth restriction (FGR) is a common complication of pregnancy; however, its exact molecular mechanisms remain unclear. Excessive lactate accumulation in the placenta is often observed during FGR. High concentrations of lactate can regulate the prolifera...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42897661",
+      "date": "2026-07-23",
+      "title": "Advancing assisted reproductive technology in Africa: a narrative review on the promising role of molecular biology and molecular techniques.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897661/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Reproductive health，PMID 为 42897661。",
+      "report": "Assisted Reproductive Technology (ART) has significantly improved fertility outcomes globally, yet its full potential remains underutilized. In Africa, persistent barriers including high costs, limited access, inadequate infrastructure, lack of awareness, and...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42897657",
+      "date": "2026-07-22",
+      "title": "Alveolar organoids: from model systems to applications in respiratory diseases.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897657/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42897657。",
+      "report": "Organoid technology has emerged as a research hotspot in the biomedical field in recent years, providing important methodologies for disease modeling, drug screening, and regenerative medicine. Alveolar organoids serve as crucial models for studying respirator...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42897599",
+      "date": "2026-07-22",
+      "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897599/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell research & therapy，PMID 为 42897599。",
+      "report": "Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant ch...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42897542",
+      "date": "2026-07-22",
+      "title": "Patient-derived organoids for precision oncology in colorectal cancer: from tumor modeling to clinical translation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42897542/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular cancer，PMID 为 42897542。",
+      "report": "Precision oncology in colorectal cancer (CRC) has been profoundly informed by genomic and transcriptomic profiling, yet molecular stratification remains only partially predictive of therapeutic benefit. This reflects a broader challenge: moving from static mol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
