@@ -1,70 +1,28 @@
 {
-  "capturedAt": "2026-10-19T22:25:14.023774+00:00",
+  "capturedAt": "2026-10-20T04:57:57.168712+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42895516",
-      "responseId": "resp_00f19d0ebbe7934a006ad698cae8f887d288e998fe8f6f9221",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献标题可能暗示了研究结果的临床应用，但实际上未提供足够的证据支撑这种推论，需人类审核。 ",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主分类与子分类不完全符合文献内容，需人类审核以确保适当分类。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告中包含潜在的临床结论和缺乏支持证据的推论，未将事实、报告和推论明确分开。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Clinical Research",
-          "subCategory": "Informed Consent",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Informed Consent",
-            "Ethical Considerations"
-          ],
-          "tags": [
-            "知情同意",
-            "伦理问题"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 AJOB neuroscience，PMID 为 42895516。",
-          "report": "Donors of cells used to create induced pluripotent stem cells (iPSCs) and brain organoids may not understand what brain organoids are, how they will be used, or the long-term implications of the research. Informed consent documents (ICDs) often contain highly technical language.",
-          "inference": "无法单独判断研究质量、样本量、利益冲突、临床阶段或商业化状态，故推论不确定。",
-          "unknown": "研究质量和其他相关信息未明确说明。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895300",
-      "responseId": "resp_02d21684f7d345ae006ad698cfb35c87d297df48811fd04ef6",
+      "signalId": "pubmed-42896703",
+      "responseId": "resp_00980345603947ad006ad6f4d5eb8087d0aee7c3b63e593684",
       "review": {
         "status": "pass",
-        "confidence": 0.85,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录清晰，信息来源可靠。没有提出未经支持的临床结论。",
+        "reviewSummaryCn": "该文献记录清晰、分类合理，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "主类别和子类别合理，符合文献主题。"
+          "notesCn": "主要类别和子类别与源信息一致，支持的主题明确。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分隔，证据水平合适。"
+          "notesCn": "事实、报告和推论清晰分开，证据级别符合报告内容。"
         },
-        "riskFlags": [
-          "commercial_claim"
-        ],
+        "riskFlags": [],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
@@ -77,296 +35,180 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular human reproduction，PMID 为 42895300。",
-          "report": "The female reproductive tract is a multi-tissue system in which epithelial, stromal, immune, and vascular cells coordinate responses to hormonal signals. Single-tissue organoids have advanced epithelial modeling in vitro but cannot capture the inter-tissue com...",
+          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42896703。",
+          "report": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical mode...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42895197",
-      "responseId": "resp_0ec50dab50d137b5006ad698d4243887d28f0410f6da2d1c7a",
+      "signalId": "pubmed-42896566",
+      "responseId": "resp_01ecf2550d20c390006ad6f4da424487d08b5761e01dfece85",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录结构清晰，符合发表标准，不含未支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42896566。",
+          "report": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in la...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42896913",
+      "responseId": "resp_0f7fd359d957e16e006ad6f4de20a887d0b5411e2658ea1de4",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献提供了关于经颅聚焦超声的现有和新兴应用的信息，分类和证据水平合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分明，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 AJNR. American journal of neuroradiology，PMID 为 42896913。",
+          "report": "Transcranial MR-guided high-intensity focused ultrasound (HIFU) thermoablation is an established incisionless image-guided treatment for movement disorders; however, neuroradiologist involvement in clinical decision-making and procedural workflows is highly va...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42896885",
+      "responseId": "resp_0852caaab6f4d28c006ad6f4e3a19887d0a15799ddf8bc9823",
       "review": {
         "status": "needs_human",
         "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献在推进反兴奋剂研究方面具有潜力，但分类和证据水平需进一步验证。",
+        "reviewSummaryCn": "研究质量、样本量、利益冲突等信息缺失，需要人工审核。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类与证据水平的支持不足，需额外验证。"
+          "notesCn": "分类判断不支持，因为缺乏对研究质量和其他关键信息的验证。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但研究质量和临床应用未评估，信息不足以支持此级别分类。"
+          "notesCn": "证据水平不合理，缺少对研究质量的明确来源。"
         },
         "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The Analyst，PMID 为 42895197。",
-          "report": "Identification of metabolic markers of prohibited and emerging performance-enhancing substances remains a key challenge in anti-doping analysis, where limitations of conventional in vitro models in resembling authentic physiological conditions exist. Organ-on-...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895135",
-      "responseId": "resp_0654001b6f8bbe45006ad698d7f33887d29799418598476763",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录准确区分了事实、报告及推论，没有不当临床结论或建议，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论清晰分开，证据水平符合预期。"
-        },
-        "riskFlags": [
-          "research"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Lab on a chip，PMID 为 42895135。",
-          "report": "Bulk acoustic wave devices commonly use thickness modes of piezoelectric plates to generate standing waves in microfluidic cavities, typically at 2 MHz and above, with corresponding wavelengths well below the millimeter scale. However, handling larger mesoscop...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895134",
-      "responseId": "resp_08a7dced3cd32172006ad698df38e487d2a3a7182cdd561230",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰，分类合理，无临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献主题相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平符合所提供的元数据。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Food & function，PMID 为 42895134。",
-          "report": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We ev...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895482",
-      "responseId": "resp_036ff41f1e2a4063006ad698e2e77c87d2acc6fcbb85f9a3d8",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "符合发布标准，未发现不当临床结论或推荐。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题所在领域。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献引用可靠，证据水平适中，未进行临床推广。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Drug Screening"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Genomics, proteomics & bioinformatics，PMID 为 42895482。",
-          "report": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engin...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895263",
-      "responseId": "resp_08cf4d6fe6a14bd7006ad698e6f0b887d28b610bebc6bf1915",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献的证据级别被标记为低，但并未提供关于研究质量的具体信息，需人工评审。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主分类和子分类不够合理，证据级别偏低。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别被标记为低，并与主要分类不一致。"
-        },
-        "riskFlags": [
+          "insufficient_source",
           "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Research",
-          "subCategory": "Cardiac Biomarkers",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
-            "Cardiology"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
           ],
           "tags": [
-            "biomarkers",
-            "cardiac fibrosis"
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "药筛",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biomarkers in medicine，PMID 为 42895263。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：fallback。",
-          "unknown": "缺乏对研究质量、样本量、利益冲突、临床阶段或商业化状态的判断。"
+          "fact": "PubMed 记录显示该文献收录于 Thoracic cancer，PMID 为 42896885。",
+          "report": "Lung cancer remains the leading cause of cancer-related mortality globally. Although low-dose computed tomography (LDCT) is the current standard for early screening, its high false-positive rates and cumulative radiation exposure create a pressing clinical need...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "sec-0001674416-000119312526425243",
-      "responseId": "resp_06479b8f134c4846006ad698ebec3887d295705c5c922f925f",
+      "signalId": "pubmed-42896975",
+      "responseId": "resp_031490c8c160f84d006ad6f4e825e887d080ea66c013b7de17",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且无临床建议。",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片包含关于肺癌手术后的复发风险预测的信息，但存在未经验证的临床推论，需要人类审核。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合源数据。"
+          "isSupported": false,
+          "notesCn": "证据水平是中等，但未能支持使用该研究的临床结论。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论明确分开，所有方面均合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Gene Editing"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "CRSP"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-425243 for CRISPR Therapeutics, Form 8-K, filed on 2026-10-19.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42895119",
-      "responseId": "resp_0b545eaca35ad092006ad698ef064087d28d9cbfa401ee864b",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息区分明确。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，符合信号元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源和报告内容均合理，推断明确。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管文献已被收录，但缺乏对研究质量的验证，且结论可能不可靠。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
+            "Diagnostics",
+            "Precision Medicine",
             "Precision Oncology"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
+            "诊断",
+            "精准医疗",
             "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and function，PMID 为 42895119。",
-          "report": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived dir...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42896975。",
+          "report": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

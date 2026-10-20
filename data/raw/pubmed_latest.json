@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-19T22:25:06.179278+00:00",
+  "capturedAt": "2026-10-20T04:57:48.850536+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-19",
-    "end": "2026-10-19"
+    "start": "2025-10-20",
+    "end": "2026-10-20"
   },
   "pmids": [
+    "42896703",
+    "42896566",
     "42895516",
     "42895300",
     "42895197",
     "42895135",
-    "42895134",
-    "42895119",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,54 @@
     "42873630",
     "42872591",
     "42871461",
+    "42896975",
+    "42896913",
+    "42896885",
     "42895263",
     "42893704",
-    "42893629",
-    "42893057",
-    "42892233",
-    "42891682"
+    "42893629"
   ],
   "records": [
+    {
+      "pmid": "42896703",
+      "title": "Minimal essentials for humanized vessel-on-a-chip model for vascular research.",
+      "abstract": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical models. We aimed to develop a vessel-on-a-chip using a biocompatible microfluidic device co-cultured with human umbilical vein endothelial cells (HUVEC) and vascular smooth muscle cells (VSMC). VSMC and HUVEC were isolated from umbilical cords and co-cultured in a polydimethylsiloxane (PDMS) chip using specific growth media and tropoelastin-enriched media to favour extracellular matrix (ECM) synthesis, which was measured by gene expression (quantitative polymerase chain reaction) and deposition (immunofluorescence), to establish an organized structure. Then, using a microfluidic pump system, the functional relevance of the model was evaluated by fluidic and permeability studies after a 9-day- cell growth period. Our vessel-on-a-chip model showed a bilayer structure, cell specific morphology and biomarkers phenotypes, and cell integrity. Gene and protein expression demonstrated the presence of ECM components, providing structural support and microenvironment control. It was observed that shear stress closer to the physiological range provided stability to the model and control of the permeability function. Our 3D model may serve as a promising preclinical research tool that closely mimics the structural conformation of blood vessels and reflects essential physiological parameters, including cell maturity, shear stress, and functional permeability. Consequently, it could potentially be applied to cellular and molecular research to further elucidate vascular biology in cardiovascular diseases.",
+      "journal": "Life sciences",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain.",
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; Photonics4Life Research Group, Departamento de Física Aplicada, Facultade de Física and Facultade de Óptica e Optometría, Instituto de Materiais (iMATUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
+        "Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
+        "Photonics4Life Research Group, Departamento de Física Aplicada, Facultade de Física and Facultade de Óptica e Optometría, Instituto de Materiais (iMATUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",
+        "CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
+        "CIBERCV, Madrid, Spain; Servicio de Cardiología y Unidad de Hemodinámica, Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain.",
+        "Cardiovascular Area, Centro Singular de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain; CIBERCV, Madrid, Spain; Instituto de Investigación Sanitaria de Santiago de Compostela (IDIS), Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), SERGAS, Travesía da Choupana s/n, 15706, Santiago de Compostela, A Coruña, Spain; Departamento de Farmacología, Farmacia y Tecnología Farmacéutica, Universidad de Santiago de Compostela, 15782, Santiago de Compostela, A Coruña, Spain. Electronic address: ezequiel.alvarez@usc.es."
+      ],
+      "doi": "10.1016/j.lfs.2026.124745",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896703/"
+    },
+    {
+      "pmid": "42896566",
+      "title": "Granular hydrogel bioink for macroporous pancreatic spheroid scaffolds.",
+      "abstract": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in large, engineered 3D constructs which exceed the diffusion limitation of 100 - 200 µm, resulting in necrotic cores. Granular hydrogels have emerged as a promising approach for tissue engineering due to their inherent porosity. Their interconnected pores can facilitate mass transport of oxygen and nutrients, and therefore support cellular function. In this work, we developed a facile method to prepare bioprintable granular hydrogel bioink containing microparticles with tunable diameters, that can form porous scaffolds with different pore sizes and porosities. The bioink remained shelf-stable for at least 60 days when stored at 4 °C, as determined by the melt temperature. The macroporous granular hydrogel scaffold has inherent void spaces between the hydrogel microparticles, in which spheroids can be embedded. Pancreatic spheroids incorporated into the scaffold showed improved viability compared to free spheroids, indicating the granular microenvironment supports spheroid survival. Furthermore, functional studies of embedded pancreatic spheroids with glucose-stimulated insulin secretion (GSIS) demonstrated preserved insulin secretion functionality. Our approach thus serves as a tunable platform for supporting the culture of functional spheroids and organoids, that has potential regenerative medicine applications in restoration of physiological functions when implanted.",
+      "journal": "Biofabrication",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Bioprocessing Technology Institute, Agency for Science Technology and Research, 31 Biopolis Way, Nanos, Singapore, 138669, Singapore.",
+        "Institute of Molecular and Cell Biology, Agency for Science Technology and Research, 61 Biopolis Dr, Proteos, Singapore, 138673, Singapore."
+      ],
+      "doi": "10.1088/1758-5090/aeb62d",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896566/"
+    },
     {
       "pmid": "42895516",
       "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
@@ -107,43 +147,6 @@
       "doi": "10.1039/d6lc00493h",
       "date": "2026-10-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895135/"
-    },
-    {
-      "pmid": "42895134",
-      "title": "Myrica rubra juice attenuates DSS-induced colitis and is associated with changes in the gut microbiota-metabolite-host axis.",
-      "abstract": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We evaluated Myrica rubra juice (MRJ) in a dextran sulfate sodium (DSS)-induced mouse model of colitis and a TNF-α-injured colonic organoid model. The study combined 16S rRNA gene sequencing, untargeted serum and fecal metabolomics, and molecular docking. MRJ treatment attenuated disease severity and was associated with increased expression of occludin and MUC2 in DSS-treated mice. MRJ also altered microbial diversity and taxonomic composition in a taxon-specific manner. Serum and fecal metabolomic profiles differed after MRJ treatment, including pathways related to amino acid and bile acid metabolism. Integrated analyses identified associations among microbial taxa, putatively annotated metabolites, and host inflammatory and barrier-related variables. Direct exposure to 20% (v/v) whole MRJ increased occludin immunofluorescence in TNF-α-injured colonic organoids cultured without a gut microbial community. This single-marker result is consistent with an epithelial response to whole MRJ under the applied in vitro conditions. Molecular docking generated predicted poses and docking scores for selected parent compound-protein pairs. These calculations did not demonstrate physical binding, functional inhibition, or target engagement in vivo. Together, the findings support a direct epithelial response and identify concurrent microbiota-associated changes. However, the present design could not determine whether these microbial changes contributed to protection. It also could not separate or quantify the host-directed and microbiota-mediated contributions or identify the active chemical species.",
-      "journal": "Food & function",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Food Science and Resources, Jiangnan University, 214122 Wuxi, China. guoyahui@jiangnan.edu.cn.",
-        "School of Food Science and Technology, Jiangnan University, 214122 Wuxi, China.",
-        "Jiangnan University - Riyuan Joint Research Center, Jiangnan University, 214122 Wuxi, China."
-      ],
-      "doi": "10.1039/d6fo01741j",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895134/"
-    },
-    {
-      "pmid": "42895119",
-      "title": "Patient-Derived Organoids in Functional Precision Oncology: Tumor Modeling, Drug-Response Prediction, and Clinical Translation.",
-      "abstract": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived directly from patient tissues, preserve essential architectural, genomic, and phenotypic characteristics of their tumors of origin, enabling more accurate modeling of tumor heterogeneity and disease evolution. Over the last decade, rapid methodological advances in organoid culture systems, extracellular matrices (ECMs), and growth factor optimization have facilitated the establishment of organoid models for a wide range of malignancies and the development of large living biobanks representing diverse patient populations. These models are increasingly being utilized to study cancer biology, elucidate mechanisms of treatment resistance, and evaluate patient-specific therapeutic responses, highlighting their potential as tools for precision oncology. However, important challenges remain, including incomplete representation of the tumor microenvironment (TME), variability in culture conditions, and limited scalability, and the need for greater standardization and validation. Consequently, although PDOs show considerable promise for translational research and personalized medicine, their routine clinical implementation remains largely investigational, and their clinical utility has not yet been fully established. This review examines the technological foundations of PDO generation, assesses their role as experimental models of tumor biology, and discusses their expanding applications in translational cancer research and precision oncology while highlighting key challenges that must be addressed before their widespread clinical adoption.",
-      "journal": "Cell biochemistry and function",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.",
-        "Department of Internal Medicine, Acıbadem MAA University, Istanbul, Turkey.",
-        "College of Medicine, AlMaarefa University, Riyadh, Saudi Arabia.",
-        "King Faisal Specialist Hospital and Research Center, Riyadh, Saudi Arabia.",
-        "King Faisal Specialist Hospital and Research Center, Jeddah, Saudi Arabia."
-      ],
-      "doi": "10.1002/cbf.70321",
-      "date": "2026-10-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895119/"
     },
     {
       "pmid": "42893561",
@@ -351,6 +354,60 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42871461/"
     },
     {
+      "pmid": "42896975",
+      "title": "[Advances on Postoperative Recurrence Risk Prediction in Non-small Cell Lung Cancer].",
+      "abstract": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients with resectable NSCLC; however, postoperative recurrence persists in a subset of patients, thereby compromising long-term survival outcomes. Consequently, the precise prediction of postoperative recurrence risk, identification of high-risk populations, and formulation of individualized adjuvant therapy and surveillance strategies are of paramount importance for improving patient prognosis. In recent years, fueled by the rapid evolution of artificial intelligence (AI) and liquid biopsy technologies, the prediction of postoperative recurrence in NSCLC has progressively transitioned toward greater precision and personalization. This review summarizes the current applications of traditional predictive models, AI-based models, and liquid biopsy techniques in forecasting NSCLC recurrence following surgery, evaluating their respective strengths and limitations. Furthermore, it provides insights into future research trajectories. .",
+      "journal": "Zhongguo fei ai za zhi = Chinese journal of lung cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "affiliations": [
+        "Provincial School of Clinical Medicine, Fujian Medical University; Department of Pulmonary and Critical Care Medicine, Provincial Hospital of Fuzhou University, Fuzhou 350001, China."
+      ],
+      "doi": "10.3779/j.issn.1009-3419.2026.101.21",
+      "date": "2026-08-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896975/"
+    },
+    {
+      "pmid": "42896913",
+      "title": "Transcranial Focused Ultrasound: Established and Emerging Applications in Neurosciences.",
+      "abstract": "Transcranial MR-guided high-intensity focused ultrasound (HIFU) thermoablation is an established incisionless image-guided treatment for movement disorders; however, neuroradiologist involvement in clinical decision-making and procedural workflows is highly variable and site-specific. Transcranial low-intensity focused ultrasound (LIFU) is a rapidly evolving non-invasive, image-guided technology for neuromodulation and blood-brain barrier disruption. Compared with HIFU, the optimal protocol, therapeutic mechanism, and safety limits remain uncertain for LIFU. Despite these gaps, LIFU has significant potential for neuropsychiatric and neuro-oncologic diseases. Familiarity with transcranial ultrasound principles and the pivotal role of CT and MR imaging for targeting and evaluating outcomes is increasingly important for neuroradiologists. This review uses HIFU as a clinical model to illustrate the integration of imaging into focused ultrasound workflows. We then discuss LIFU with respect to technical factors, imaging considerations, safety, and limitations. We highlight its emerging applications, including neuromodulation, targeted drug delivery, and liquid biopsy. Finally, we conclude by summarizing key knowledge gaps, outlining future directions, and proposing strategies to more actively engage neuroradiologists in this emerging field.",
+      "journal": "AJNR. American journal of neuroradiology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "From the Department of Radiology and Biomedical Imaging, University of California, San Francisco, California, United States; Department of Radiology, Mayo Clinic, Rochester, United States; Department of Radiology, University of Utah, Utah, United States; and UTSW Transcranial Focused Ultrasound Lab, Department of Radiology and Neurological Surgery, University of Texas Southwestern Medical Center, Texas, United States. phuong.2.nguyen@cuanschutz.edu plcnguyen.md@gmail.com.",
+        "From the Department of Radiology and Biomedical Imaging, University of California, San Francisco, California, United States; Department of Radiology, Mayo Clinic, Rochester, United States; Department of Radiology, University of Utah, Utah, United States; and UTSW Transcranial Focused Ultrasound Lab, Department of Radiology and Neurological Surgery, University of Texas Southwestern Medical Center, Texas, United States."
+      ],
+      "doi": "10.3174/ajnr.A9685",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896913/"
+    },
+    {
+      "pmid": "42896885",
+      "title": "Exhaled Breath Analysis for Lung Cancer Detection: From VOCs Signatures to EBC-Based Liquid Biopsy and Clinical Translation.",
+      "abstract": "Lung cancer remains the leading cause of cancer-related mortality globally. Although low-dose computed tomography (LDCT) is the current standard for early screening, its high false-positive rates and cumulative radiation exposure create a pressing clinical need for complementary, non-invasive diagnostic tools. Exhaled breath analysis represents an accessible strategy for early detection and risk stratification. Early breathomics primarily focused on gas-phase volatile organic compounds (VOCs). However, as volatile metabolites, VOCs are chemically unstable and highly susceptible to background ambient air and physiological confounders. Distinct from gas-phase analysis, exhaled breath condensate (EBC) offers enhanced biomarker stability and functions as a lung-proximal liquid biopsy. By capturing non-volatile, high-molecular-weight analytes, including tumor-derived nucleic acids and proteins, EBC more closely reflects the underlying molecular mechanisms of the respiratory microenvironment. Nevertheless, the clinical translation of EBC remains constrained by severe sample dilution, unstandardized collection device architectures, and pre-analytical inconsistencies. This review summarizes the progression from VOCs profiling to EBC-based platforms, detailing recent advances in sample harvesting, ultrasensitive detection technologies, and multi-omics integration. Advancing EBC toward routine clinical use requires consensus-driven standard operating procedures and the application of machine learning algorithms to high-dimensional datasets. Future efforts should prioritize large-scale, multicenter prospective trials to validate specific EBC signatures, thereby establishing this technology as a reliable liquid biopsy for precision pulmonary oncology.",
+      "journal": "Thoracic cancer",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Thoracic Surgery, Peking University People's Hospital, Beijing, China.",
+        "Thoracic Oncology Institute, Peking University People's Hospital, Beijing, China.",
+        "Research Unit of Intelligence Diagnosis and Treatment in Early Non-Small Cell Lung Cancer, Chinese Academy of Medical Sciences, 2021RU002, Beijing, China.",
+        "Institute of Advanced Clinical Medicine, Peking University, Beijing, China.",
+        "Frontiers Science Center for Cancer Integrative Omics, Peking University People's Hospital, Beijing, China."
+      ],
+      "doi": "10.1111/1759-7714.70404",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896885/"
+    },
+    {
       "pmid": "42895263",
       "title": "Circulating extracellular vesicles as biomarkers of cardiac fibrosis: promise, pitfalls, and the path to clinical validation.",
       "abstract": "",
@@ -408,65 +465,65 @@
       "doi": "10.1016/j.lungcan.2026.109667",
       "date": "2026-10-17",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893629/"
-    },
-    {
-      "pmid": "42893057",
-      "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer.",
-      "abstract": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs) in metastatic castration-resistant prostate cancer (mCRPC). However, current liquid biopsy approaches typically require separate cell-free DNA (cfDNA) and cfRNA workflows to evaluate these distinct alteration classes, increasing sample input requirements, assay complexity, and cost. Because plasma cell-free nucleic acid yield is often limited, an integrated assay capable of interrogating DNA and RNA-derived biomarkers from a single blood draw remain an unmet clinical need. Here we describe the development and proof-of-concept validation of a novel multiplex multimodal digital PCR (dPCR) assay that co-detects AR copy-number amplification, somatic point mutations (T878A), and the AR-V7 splice variant from plasma cell-free nucleic acids (cfNAs) in a single streamlined reaction. The assay employs RNase H-dependent PCR (rhPCR) primers with ultra-short amplicons (≤68 bp) that simultaneously interrogate both cfDNA and cfRNA, enabling multimodal detection without separate DNA and RNA workflows. Using prostate cancer cell lines with defined AR alteration status, the assay detected AR amplification at 2% of tumor DNA, quantified T878A mutations at a mutant allele frequency as low as 0.024%, and AR-V7 splicing variant with a sensitivity of 0.096% tumor cell fraction. In two mCRPC patient plasma samples, the assay tracked dynamic changes of these AR variants during ARPI therapy, revealing distinct patterns of clonal evolution that are consistent with treatment pressure and clinical outcomes. This multimodal dPCR platform provides a cost-effective, highly sensitive liquid biopsy tool for detection of clinically significant AR alterations and represents a foundation for a laboratory-developed test (LDT) to guide personalized therapy in mCRPC.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Tumor Microenvironment and Metastasis, Moffitt Cancer Center, Tampa, FL, USA.",
-        "Department of Genitourinary Oncology, Moffitt Cancer Center, Tampa, FL, USA.",
-        "Zelda Stein Weiss Cancer Center, Mon Health Medical Center, Morgantown, WV, USA.",
-        "Department of Biostatistics and Bioinformatics, Moffitt Cancer Center, Tampa, FL, USA.",
-        "Division of Oncology, Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA."
-      ],
-      "doi": "10.1016/j.jlb.2026.100672",
-      "date": "2026-10-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893057/"
-    },
-    {
-      "pmid": "42892233",
-      "title": "Unipoint-anchored cascade amplification strategy integrating FUSE probe-activated CRISPR-Cas12a for dual mode osteopontin detection toward osteosarcoma assessment and therapeutic response evaluation.",
-      "abstract": "Reliable assessment of disease status and therapeutic response in osteosarcoma remains an unmet clinical need. Integrative bioinformatics analysis and protein-level verification in paired clinical specimens prioritized secreted phosphoprotein 1 (SPP1, osteopontin) as a liquid biopsy target associated with osteosarcoma progression and patient survival. On this basis, CRUMP, a CRISPR-Cas12a and FUSE Probe-based dual-mode biosensing platform, was developed for SPP1 quantification. A bifunctional NH2-ZIF-8 probe co-immobilizes the components required for target recognition and Cas12a activation, while MoS2@AuNPs interfaces transduce the resulting signals. Signal amplification is achieved through a unipoint-anchored multisite cascade based on a DNA tetrahedron-HCR architecture, enabling one-to-multiple parallel amplification while balancing stability and sensitivity. A single Cas12a cleavage event simultaneously decreases the electrochemical (EC) signal and increases the fluorescence (FL) signal. These reciprocal changes allow the two readouts to provide an internal consistency check for each measurement. Each channel covers more than five orders of magnitude, with detection limits of 167.7 fg/mL for EC and 331.6 fg/mL for FL. The broad measurement ranges allow most serum samples to be analyzed directly, without the per-sample dilution optimization that ELISA requires, and the complete analysis takes only approximately 85 min. Validation across osteosarcoma cell lines, clinical specimens, and tumor-bearing mouse models provided preliminary evidence for the feasibility of CRUMP in SPP1 quantification and endpoint assessment of chemotherapeutic response. By combining biomarker prioritization, biosensor engineering, and preliminary application testing, this work presents CRUMP as a candidate platform for SPP1-based assessment of osteosarcoma and its therapeutic response.",
-      "journal": "Biosensors & bioelectronics",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Tianjin Hospital, Tianjin University, Tianjin, 300072, China; Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
-        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China.",
-        "The Third Central Clinical College of Tianjin Medical University, Tianjin, 300170, China.",
-        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China.",
-        "Department of Orthopedics, Tianjin Hospital, Tianjin, 300211, China. Electronic address: zhangjingyu2010@tju.edu.cn.",
-        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: yangshuang@nankai.edu.cn.",
-        "Tianjin Key Laboratory of Tumor Microenvironment and Neurovascular Regulation, School of Medicine, Nankai University, Tianjin, 300071, China. Electronic address: junjiao@nankai.edu.cn."
-      ],
-      "doi": "10.1016/j.bios.2026.119343",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892233/"
-    },
-    {
-      "pmid": "42891682",
-      "title": "Rethinking selection criteria for liver transplantation in hepatocellular carcinoma: from morphology to artificial intelligence.",
-      "abstract": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the past three decades, selection has evolved from simple morphologic thresholds toward increasingly multidimensional models of oncologic risk. This review examines the evolution of selection criteria for LT in HCC, from the Milan criteria and subsequent morphology-based expansions to models incorporating tumor biology, serum biomarkers, treatment response, waiting-list dynamics, and artificial intelligence. The literature discussed includes landmark morphologic criteria, AFP-based models, PIVKA-II and AFP-L3 integration, downstaging strategies, dynamic scores such as TRAIN and NYCA, and machine-learning models including MoRAL-AI, TRIUMPH, and TRAIN-AI. The field is moving from categorical eligibility rules toward individualized, continuous risk estimation. Future selection should not aim merely to expand transplant access, but to identify patients most likely to achieve durable oncologic benefit. Artificial intelligence, radiomics, liquid biopsy, and multi-omic profiling may refine risk prediction, but their clinical adoption will require prospective validation, transparency, calibration, transportability, and integration into allocation systems.",
-      "journal": "Expert review of gastroenterology & hepatology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "General Surgery and Organ Transplantation Unit, Department of General and Specialty Surgery & Anesthesiology, Sapienza University of Rome, AOU Policlinico Umberto I, Rome, Italy."
-      ],
-      "doi": "10.1080/17474124.2026.2750985",
-      "date": "2026-10-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42896703",
+      "date": "2026-10-19",
+      "title": "Minimal essentials for humanized vessel-on-a-chip model for vascular research.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896703/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42896703。",
+      "report": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical mode...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42896566",
+      "date": "2026-10-19",
+      "title": "Granular hydrogel bioink for macroporous pancreatic spheroid scaffolds.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896566/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42896566。",
+      "report": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in la...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42895516",
       "date": "2026-10-19",
@@ -584,34 +641,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42895134",
-      "date": "2026-10-19",
-      "title": "Myrica rubra juice attenuates DSS-induced colitis and is associated with changes in the gut microbiota-metabolite-host axis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895134/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food & function，PMID 为 42895134。",
-      "report": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We ev...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42895482",
       "date": "2026-10-19",
       "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
@@ -640,6 +669,40 @@
       "fact": "PubMed 记录显示该文献收录于 Genomics, proteomics & bioinformatics，PMID 为 42895482。",
       "report": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engin...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42896913",
+      "date": "2026-10-19",
+      "title": "Transcranial Focused Ultrasound: Established and Emerging Applications in Neurosciences.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896913/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 AJNR. American journal of neuroradiology，PMID 为 42896913。",
+      "report": "Transcranial MR-guided high-intensity focused ultrasound (HIFU) thermoablation is an established incisionless image-guided treatment for movement disorders; however, neuroradiologist involvement in clinical decision-making and procedural workflows is highly va...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -695,36 +758,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nanomedicine : nanotechnology, biology, and medicine，PMID 为 42893704。",
       "report": "HER2, a member of the epidermal growth factor receptor family, is a cell surface protein that plays a critical role in the development of aggressive breast cancer phenotypes and serves as a molecular target for HER2-directed therapy. The extracellular domain o...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42891682",
-      "date": "2026-10-18",
-      "title": "Rethinking selection criteria for liver transplantation in hepatocellular carcinoma: from morphology to artificial intelligence.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
-      "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -919,36 +952,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42892233",
-      "date": "2026-10-13",
-      "title": "Unipoint-anchored cascade amplification strategy integrating FUSE probe-activated CRISPR-Cas12a for dual mode osteopontin detection toward osteosarcoma assessment and therapeutic response evaluation.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892233/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42892233。",
-      "report": "Reliable assessment of disease status and therapeutic response in osteosarcoma remains an unmet clinical need. Integrative bioinformatics analysis and protein-level verification in paired clinical specimens prioritized secreted phosphoprotein 1 (SPP1, osteopon...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42865067",
       "date": "2026-10-12",
       "title": "Dynamic Graph Prior-Guided Latent Adaptation for Generalizable Single-Cell Perturbation Response Prediction.",
@@ -1007,63 +1010,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42893057",
-      "date": "2026-10-06",
-      "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer.",
+      "id": "pubmed-42896885",
+      "date": "2026-10-01",
+      "title": "Exhaled Breath Analysis for Lung Cancer Detection: From VOCs Signatures to EBC-Based Liquid Biopsy and Clinical Translation.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893057/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896885/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "肿瘤"
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42893057。",
-      "report": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs...",
+      "fact": "PubMed 记录显示该文献收录于 Thoracic cancer，PMID 为 42896885。",
+      "report": "Lung cancer remains the leading cause of cancer-related mortality globally. Although low-dose computed tomography (LDCT) is the current standard for early screening, its high false-positive rates and cumulative radiation exposure create a pressing clinical nee...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42895119",
-      "date": "2026-10-01",
-      "title": "Patient-Derived Organoids in Functional Precision Oncology: Tumor Modeling, Drug-Response Prediction, and Clinical Translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895119/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and function，PMID 为 42895119。",
-      "report": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived dir...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1161,6 +1138,36 @@
       "fact": "PubMed 记录显示该文献收录于 Mycology，PMID 为 42852178。",
       "report": "Fungi are important chassis organisms for sustainable biomanufacturing owing to their strong secretion capacity, metabolic diversity, and adaptability to industrial processes. Driven by the rapid development of Artificial Intelligence (AI), computational appro...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42896975",
+      "date": "2026-08-20",
+      "title": "[Advances on Postoperative Recurrence Risk Prediction in Non-small Cell Lung Cancer].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896975/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42896975。",
+      "report": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

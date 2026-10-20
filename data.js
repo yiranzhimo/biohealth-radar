@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,140 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42896703",
+      "date": "2026-10-19",
+      "title": "Minimal essentials for humanized vessel-on-a-chip model for vascular research.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896703/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42896703。",
+      "report": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical mode...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00980345603947ad006ad6f4d5eb8087d0aee7c3b63e593684",
+        "reviewedAt": "2026-10-20T04:57:57.168712+00:00",
+        "inputHash": "487056c926a5081150c54a20252729b7e3b6ebfa13d2fc3f06bf878d805a1491",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录清晰、分类合理，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和子类别与源信息一致，支持的主题明确。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分开，证据级别符合报告内容。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42896703。",
+          "report": "During the last decade, in vitro 3D models based on organ-on-a-chip technology have been developed, representing a biotechnology research advance towards more physiologically relevant models that aim to provide more predictable and less costly preclinical mode...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42896566",
+      "date": "2026-10-19",
+      "title": "Granular hydrogel bioink for macroporous pancreatic spheroid scaffolds.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896566/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42896566。",
+      "report": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in la...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01ecf2550d20c390006ad6f4da424487d08b5761e01dfece85",
+        "reviewedAt": "2026-10-20T04:57:57.168712+00:00",
+        "inputHash": "1114eb6befb4e376afa12490fc8bce00acb4090392b291ecd894ca1c8756e725",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录结构清晰，符合发表标准，不含未支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42896566。",
+          "report": "Cells positioned more than several hundred microns away from a vascular network experience insufficient oxygen and nutrient supply due to diffusion limitations, leading to compromised viability and impaired function. This challenge is especially relevant in la...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42895516",
       "date": "2026-10-19",
       "title": "What Does a Donor Need to Know? Content Analysis of Informed Consent Documents Used for Brain Organoid Research.",
@@ -1107,76 +1241,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42895134",
-      "date": "2026-10-19",
-      "title": "Myrica rubra juice attenuates DSS-induced colitis and is associated with changes in the gut microbiota-metabolite-host axis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895134/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food & function，PMID 为 42895134。",
-      "report": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We ev...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08a7dced3cd32172006ad698df38e487d2a3a7182cdd561230",
-        "reviewedAt": "2026-10-19T22:25:14.023774+00:00",
-        "inputHash": "d373aee857ee18e890f89c9ac0f05d467b0e5ecd0283acb5fceb1b89b2d5e728",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰，分类合理，无临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献主题相符。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平符合所提供的元数据。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Food & function，PMID 为 42895134。",
-          "report": "Ulcerative colitis (UC) is characterized by chronic intestinal inflammation and impaired mucosal barrier function. Myrica rubra contains polyphenols and flavonoids, but the mechanisms underlying its potential protective effects in colitis remain unclear. We ev...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42895482",
       "date": "2026-10-19",
       "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
@@ -1248,6 +1312,88 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Genomics, proteomics & bioinformatics，PMID 为 42895482。",
           "report": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engin...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42896913",
+      "date": "2026-10-19",
+      "title": "Transcranial Focused Ultrasound: Established and Emerging Applications in Neurosciences.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896913/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 AJNR. American journal of neuroradiology，PMID 为 42896913。",
+      "report": "Transcranial MR-guided high-intensity focused ultrasound (HIFU) thermoablation is an established incisionless image-guided treatment for movement disorders; however, neuroradiologist involvement in clinical decision-making and procedural workflows is highly va...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0f7fd359d957e16e006ad6f4de20a887d0b5411e2658ea1de4",
+        "reviewedAt": "2026-10-20T04:57:57.168712+00:00",
+        "inputHash": "ea2073d238ae68afeb7c543778e0d1735a4b2d9b731b987e2a265610918b061a",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献提供了关于经颅聚焦超声的现有和新兴应用的信息，分类和证据水平合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分明，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 AJNR. American journal of neuroradiology，PMID 为 42896913。",
+          "report": "Transcranial MR-guided high-intensity focused ultrasound (HIFU) thermoablation is an established incisionless image-guided treatment for movement disorders; however, neuroradiologist involvement in clinical decision-making and procedural workflows is highly va...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1612,80 +1758,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Nanomedicine : nanotechnology, biology, and medicine，PMID 为 42893704。",
           "report": "HER2, a member of the epidermal growth factor receptor family, is a cell surface protein that plays a critical role in the development of aggressive breast cancer phenotypes and serves as a molecular target for HER2-directed therapy. The extracellular domain o...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42891682",
-      "date": "2026-10-18",
-      "title": "Rethinking selection criteria for liver transplantation in hepatocellular carcinoma: from morphology to artificial intelligence.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891682/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
-      "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0274d6ffc523c2a9006ad5a1673bb887d0816ef688d0940308",
-        "reviewedAt": "2026-10-19T04:49:34.049891+00:00",
-        "inputHash": "23a904e84a1ea7f7fd2f56f031242ae819332555376418d91b7599267c59d179",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献已收录于PubMed，信息清晰，符合出版标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "信息来源可靠，报道与推断明确区分。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Expert review of gastroenterology & hepatology，PMID 为 42891682。",
-          "report": "Liver transplantation (LT) is a uniquely curative treatment for hepatocellular carcinoma (HCC), as it removes both the tumor and the underlying cirrhotic liver. However, organ scarcity makes candidate selection a central clinical and ethical issue. Over the pa...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -2439,81 +2511,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42892233",
-      "date": "2026-10-13",
-      "title": "Unipoint-anchored cascade amplification strategy integrating FUSE probe-activated CRISPR-Cas12a for dual mode osteopontin detection toward osteosarcoma assessment and therapeutic response evaluation.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892233/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biosensors & bioelectronics，PMID 为 42892233。",
-      "report": "Reliable assessment of disease status and therapeutic response in osteosarcoma remains an unmet clinical need. Integrative bioinformatics analysis and protein-level verification in paired clinical specimens prioritized secreted phosphoprotein 1 (SPP1, osteopon...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c15cb4df85c8999006ad4aaaa7fd087d19507c043ea7068f3",
-        "reviewedAt": "2026-10-18T11:16:29.907519+00:00",
-        "inputHash": "44110f39202e4e862e0d52790b6243266a7eeb00351b6762ebb15bb312ac26d2",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "出版需要人类判断或修正，存在潜在的证据膨胀或临床结论不当。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类可能不准确，因为研究质量和临床相关性未得到验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但缺乏足够的研究质量支持。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biosensors & Bioelectronics，PMID 为 42892233。",
-          "report": "Reliable assessment of disease status and therapeutic response in osteosarcoma remains an unmet clinical need. Integrative bioinformatics analysis and protein-level verification in paired clinical specimens prioritized secreted phosphoprotein 1 (SPP1, osteopon...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001110803-000111080326000195",
       "date": "2026-10-13",
       "title": "Illumina filed Form 8-K",
@@ -3094,80 +3091,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42893057",
-      "date": "2026-10-06",
-      "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893057/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42893057。",
-      "report": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05a1898ffdc42dac006ad4aab02ba087d1afaeaba478e64fa7",
-        "reviewedAt": "2026-10-18T11:16:29.907519+00:00",
-        "inputHash": "46754fc1c4dbaae8dccc68687eadfb9663a0e6da33c2d6ddee0e94bd857256c1",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人类审核以验证研究质量和潜在的临床结论。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类依据不够明确，缺乏临床结论的支持。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "报告中暗示了潜在的临床应用，但缺乏足够的论据支持这些推论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42893057。",
-          "report": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs...",
-          "inference": "分类仅用于情报分流，不能直接用于临床结论或推论。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态未明。"
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000132",
       "date": "2026-10-05",
       "title": "Genmab filed Form 6-K",
@@ -3314,75 +3237,83 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42895119",
+      "id": "pubmed-42896885",
       "date": "2026-10-01",
-      "title": "Patient-Derived Organoids in Functional Precision Oncology: Tumor Modeling, Drug-Response Prediction, and Clinical Translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Exhaled Breath Analysis for Lung Cancer Detection: From VOCs Signatures to EBC-Based Liquid Biopsy and Clinical Translation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895119/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896885/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and function，PMID 为 42895119。",
-      "report": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived dir...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Thoracic cancer，PMID 为 42896885。",
+      "report": "Lung cancer remains the leading cause of cancer-related mortality globally. Although low-dose computed tomography (LDCT) is the current standard for early screening, its high false-positive rates and cumulative radiation exposure create a pressing clinical nee...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b545eaca35ad092006ad698ef064087d28d9cbfa401ee864b",
-        "reviewedAt": "2026-10-19T22:25:14.023774+00:00",
-        "inputHash": "445615022c9fc4f7e0cd1073e512f6c2c50cc8a57dc1ec0069e5a2478b612b72",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息区分明确。",
+        "responseId": "resp_0852caaab6f4d28c006ad6f4e3a19887d0a15799ddf8bc9823",
+        "reviewedAt": "2026-10-20T04:57:57.168712+00:00",
+        "inputHash": "88cb2f6e73603a338cdf95475d7c64ab71b8f96deffcb6de826b0c385e7d868e",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "研究质量、样本量、利益冲突等信息缺失，需要人工审核。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理，符合信号元数据。"
+          "isSupported": false,
+          "notesCn": "分类判断不支持，因为缺乏对研究质量和其他关键信息的验证。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源和报告内容均合理，推断明确。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，缺少对研究质量的明确来源。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
+          "insufficient_source",
+          "weak_classification"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
           "evidenceLevel": "Medium",
           "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
           ],
           "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "药筛",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cell biochemistry and function，PMID 为 42895119。",
-          "report": "Patient-derived organoids (PDOs) have emerged as an effective experimental platform for bridging the long-standing gap between traditional in vitro cancer models and the biological complexity of actual tumors. These three-dimensional cultures (3D), derived dir...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Thoracic cancer，PMID 为 42896885。",
+          "report": "Lung cancer remains the leading cause of cancer-related mortality globally. Although low-dose computed tomography (LDCT) is the current standard for early screening, its high false-positive rates and cumulative radiation exposure create a pressing clinical need...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -5237,6 +5168,80 @@ window.BHR_DATA = {
           "report": "Cor360 is an observational study evaluating whether extended wearable electrocardiogram (ECG) data can support broad-spectrum cardiac phenotyping and risk assessment beyond conventional single-purpose ambulatory rhythm monitoring. The study evaluates a clinician-facing approach to inform outcomes-oriented care pathways.",
           "inference": "虽然主题包括多个重要领域，但数据的有效性和安全性无法从当前记录直接推断。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42896975",
+      "date": "2026-08-20",
+      "title": "[Advances on Postoperative Recurrence Risk Prediction in Non-small Cell Lung Cancer].",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896975/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42896975。",
+      "report": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_031490c8c160f84d006ad6f4e825e887d080ea66c013b7de17",
+        "reviewedAt": "2026-10-20T04:57:57.168712+00:00",
+        "inputHash": "5906abd597683408be2ffc3155261cccdbc3f967a22b488a5e266749abd0e5d5",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片包含关于肺癌手术后的复发风险预测的信息，但存在未经验证的临床推论，需要人类审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平是中等，但未能支持使用该研究的临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管文献已被收录，但缺乏对研究质量的验证，且结论可能不可靠。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Zhongguo fei ai za zhi = Chinese journal of lung cancer，PMID 为 42896975。",
+          "report": "Lung cancer remains the malignant tumor with the highest incidence and mortality rates worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85% of cases. Radical surgical resection serves as the primary curative modality for patients...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
