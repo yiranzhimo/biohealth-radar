@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,88 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42902510",
+      "date": "2026-10-20",
+      "title": "MZF1 Inhibits TGFβ-1/SMAD Signaling by Transcriptionally Activating SnoN to Augment Tumorigenic Potential in Colon Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902510/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42902510。",
+      "report": "Colon cancer progression is associated with transcriptional and signaling abnormalities. MZF1, linked to leukemogenesis, has an unclear role in colon cancer. This study examined its function in colon tumorigenesis and signaling-targeted therapies. Multi-omics...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bd2d799de46a9a9006ad8a8e37e0c87d08b1fd418059b1b3b",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "8ad30e965a074452fc653c0224fa11f85eba64cec43ac56990f105cda42fa728",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录符合出版标准，信息分离明确，且未包含未支持的临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42902510。",
+          "report": "Colon cancer progression is associated with transcriptional and signaling abnormalities. MZF1, linked to leukemogenesis, has an unclear role in colon cancer. This study examined its function in colon tumorigenesis and signaling-targeted therapies. Multi-omics...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42900586",
       "date": "2026-10-20",
       "title": "Protocol for isolation and culture establishment of adult murine neural stem cells using tissue grinder and dissociator-based mechanical dissociation.",
@@ -881,306 +963,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900586。",
           "report": "Here, we present an enzyme-free workflow for isolating murine adult neural stem cells (aNSCs) using tissue grinder- and dissociator-based mechanical dissociation (TIGR-MD). We describe dissection of the dentate gyrus and subventricular zone, mechanical tissue...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42900324",
-      "date": "2026-10-20",
-      "title": "Curcumin analogue FLLL32 induces ferroptosis by targeting the STAT3-GPX4/SLC40A1 axis in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900324/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42900324。",
-      "report": "FLLL32 is a curcumin analogue with reported anti-tumor activity, mainly through inhibition of signal transducer and activator of transcription 3 (STAT3) signaling and induction of apoptosis. However, whether FLLL32 regulates ferroptosis in colorectal cancer (C...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c9d475479752156006ad7e00a024887d193616d565c2045e9",
-        "reviewedAt": "2026-10-20T21:41:25.021592+00:00",
-        "inputHash": "97a25b7ac331f6365ffa84283b38534081a2d9e487e6fb80fe52d6fe867b2e04",
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，因为文献中暗示了生物学效能，而不是仅仅报告研究发现。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实、报告和推论分开，但证据水平为中等，可能不足以支持生物学效能的结论。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42900324。",
-          "report": "FLLL32 is a curcumin analogue with reported anti-tumor activity, mainly through inhibition of signal transducer and activator of transcription 3 (STAT3) signaling and induction of apoptosis. However, whether FLLL32 regulates ferroptosis in colorectal cancer (C...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42899767",
-      "date": "2026-10-20",
-      "title": "Engineered Vascularization: Neurovascular Niche Remodeling Enables Biomimetic Brain Organoids for Central Nervous System Research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899767/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42899767。",
-      "report": "Preclinical central nervous system (CNS) disease models face a persistent translational gap arising from interspecies differences and limited representation of the human neurovascular microenvironment. Human induced pluripotent stem cell-derived brain organoid...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08146644371f8ba5006ad7e00e3d7887d1b46c0a982e062bc4",
-        "reviewedAt": "2026-10-20T21:41:25.021592+00:00",
-        "inputHash": "c5af34e30459969f03732dc2fd793842e62e1f9f8b97d1e57403a7a5d172b63e",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号依据高可靠性文献，分类合理，无临床建议或未验证结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，符合文献内容。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42899767。",
-          "report": "Preclinical central nervous system (CNS) disease models face a persistent translational gap arising from interspecies differences and limited representation of the human neurovascular microenvironment. Human induced pluripotent stem cell-derived brain organoid...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42899469",
-      "date": "2026-10-20",
-      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8+ T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899469/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42899469。",
-      "report": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human indu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04a824ca682e6777006ad7e0126fc087d1a86f94da194910c6",
-        "reviewedAt": "2026-10-20T21:41:25.021592+00:00",
-        "inputHash": "e2e3dc207cc27d138a44a61e22a9f0fa2ffd7eeb0b6dc0fd07cddd91adc8308f",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号包含来自PubMed的高可靠性研究记录，信息合规，不涉及未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，依据研究内容和类别参数"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平处于合理范围，事实、报告与推断之间清晰分离"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42899469。",
-          "report": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human indu...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42899406",
-      "date": "2026-10-20",
-      "title": "Defining GRAMD2 expression in the alveolar epithelium using organoid and single cell approaches.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899406/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42899406。",
-      "report": "Alveolar epithelial regeneration is critical for normal lung function and disrupted in disease. Precise identification of alveolar epithelial cell populations, particularly type I (AT1) cells, remains a barrier to understanding alveolar homeostasis and repair....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_05c858c5d51eea75006ad7e016724087d1a2a176c2bd532726",
-        "reviewedAt": "2026-10-20T21:41:25.021592+00:00",
-        "inputHash": "bcce86852c46b1d4d53549d6c8d314beb1f5fc6559b843f3b2b3cfb7b0da187d",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰且内部一致，无治疗建议或不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间清晰分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42899406。",
-          "report": "Alveolar epithelial regeneration is critical for normal lung function and disrupted in disease. Precise identification of alveolar epithelial cell populations, particularly type I (AT1) cells, remains a barrier to understanding alveolar homeostasis and repair....",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1254,6 +1036,77 @@ window.BHR_DATA = {
           "report": "Enzymes are powerful natural catalysts distinguished by high efficiency and selectivity. The use of enzymes in the chemical industry can theoretically enable numerous efficient and sustainable reaction pathways. Nevertheless, the application of enzymes is hind...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42902326",
+      "date": "2026-10-20",
+      "title": "Cancer metastasis: biological mechanisms, therapeutic bottlenecks, and emerging interventions.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of hematology & oncology，PMID 为 42902326。",
+      "report": "Metastatic cancer remains a major clinical challenge, which is driven by the continuous adaptation of disseminated tumor cells to diverse tissue environments and therapeutic pressures. Although current treatments, including conventional therapies, small-molecu...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06360fdcd5b5034c006ad8a8e8339087d0a6d5a67948377a65",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "1a21cdedead863ac7d044106b87d93b67a6ad6012746ceb2b9f1c884ec9f29be",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献内容提供了有关转移性癌症的挑战和治疗的讨论，但缺乏关于研究质量和临床适用性的明确判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与实际文献内容不符，可能引发误解。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据水平标记为中，这对于其内容的支持力度不够。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology",
+          "subCategory": "Cancer Metastasis",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Cancer Challenges",
+            "Therapeutic Strategies"
+          ],
+          "tags": [
+            "癌症转移",
+            "治疗策略"
+          ],
+          "fact": "文献讨论了转移性癌症的临床挑战和治疗方法。",
+          "report": "转移性癌症依然是重大临床挑战，相关治疗仍在不断适应肿瘤细胞。",
+          "inference": "文献分类适合情报分流，但不应视为研究的质量或临床有效性的直接指示。",
+          "unknown": "需要对研究质量、样本量、利益冲突等进一步评估。"
         }
       }
     },
@@ -1486,75 +1339,6 @@ window.BHR_DATA = {
           "report": "This phase II trial tests how well biologically guided radiation therapy (BgRT) and stereotactic body radiation therapy (SBRT) with osimertinib works for the treatment of EGFR positive non-small cell lung carcinoma that has spread from where it first started (...",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42900585",
-      "date": "2026-10-19",
-      "title": "Protocol for simulating cell-contact dynamics of proliferating epithelia using the vertex model.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900585/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900585。",
-      "report": "Vertex models simulate epithelial mechanics at single-cell resolution but represent cell division as a single in-plane split, agnostic to the differential apicobasal geometry of mitotic cells. Here, we present a protocol that simulates basal mitosis as two seq...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0669701018665101006ad7e029609487d1a3cd8ab759d5bdbe",
-        "reviewedAt": "2026-10-20T21:41:25.021592+00:00",
-        "inputHash": "54f3555c1a7ce0cf427a0057347676630364913d49d8f6830d5935c5584a7ae4",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，信息分隔清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合来源信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平与研究类型一致。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Multi-omics"
-          ],
-          "tags": [
-            "biotech",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900585。",
-          "report": "Vertex models simulate epithelial mechanics at single-cell resolution but represent cell division as a single in-plane split, agnostic to the differential apicobasal geometry of mitotic cells. Here, we present a protocol that simulates basal mitosis as two seq...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3108,84 +2892,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42898703",
-      "date": "2026-10-05",
-      "title": "Multimodal biomarkers for early detection and immunotherapy assessment in hepatocellular carcinoma: integrating liquid biopsy, AI-based imaging and tumor immune profiling.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898703/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42898703。",
-      "report": "Hepatocellular carcinoma (HCC) commonly develops in chronically diseased liver and remains challenging because of late detection, heterogeneity, recurrence and limited hepatic reserve. Immune checkpoint inhibitor (ICI)-based combinations improve outcomes in ad...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0d6b833f7768f1ef006ad7a1cedf3c87d08484f4e2098412d3",
-        "reviewedAt": "2026-10-20T17:15:30.757622+00:00",
-        "inputHash": "d19ac69456f645e7f29fc2abd8f948ec0318d24097cc95229aca59a9eb3ce02a",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献展示了免疫治疗评估和早期检测的生物标志物，存在临床推论不明确的问题。需要人工审查以确认研究质量和结果的可靠性。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管分类合理，但文献的证据级别为中等，且质量评估缺失。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42898703。",
-          "report": "Hepatocellular carcinoma (HCC) commonly develops in chronically diseased liver and remains challenging because of late detection, heterogeneity, recurrence and limited hepatic reserve. Immune checkpoint inhibitor (ICI)-based combinations improve outcomes in ad...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000132",
       "date": "2026-10-05",
       "title": "Genmab filed Form 6-K",
@@ -3328,6 +3034,83 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42901885",
+      "date": "2026-09-30",
+      "title": "PIP5K-Ras bistability triggers plasma membrane symmetry breaking to define cellular polarity and regulate migration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901885/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42901885。",
+      "report": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transitio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0528f28c9a125c0b006ad8a8eba2b887d0a5aea36f11c99795",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "3197abaa522a292efeab9a697f248d49b25bff4e11a43442da9e52fb90e48a09",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献符合出版标准，无支持性临床结论或治疗推荐。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分离，证据级别适当。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42901885。",
+          "report": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transition...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -8676,6 +8459,235 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42901917",
+      "date": "2026-07-25",
+      "title": "Identification and validation of NCOA5-ZCCHC3/FGF22 axis as a prognostic marker in lung adenocarcinoma migration and invasion.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901917/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death & disease，PMID 为 42901917。",
+      "report": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in L...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0304b6cb9501051e006ad8a8f12a9c87d0b806deba26e9eef3",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "4de8307840a1865029bdaba3401f5f86cab32f912010fabb14b6c54a01599616",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，文献中的结论可能不够明确。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不充分支持文献的实际结论或研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据层级标记为中等，但不符合文献质量的预期标准。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell death & disease，PMID 为 42901917。",
+          "report": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in lung adenocarcinoma need further investigation.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42902385",
+      "date": "2026-07-24",
+      "title": "Epigenetic modulation of NKG2D ligands enhances NKG2D-CAR T cell efficacy in neuroblastoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902385/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42902385。",
+      "report": "Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_05bd5f6659719f35006ad8a8f934d887d0922165980af8548d",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "07dd502e0a3a7b9a6a1ab6757bd8431555ad8858c690923f457014bc3b745944",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，报告部分含有未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合元数据"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据级别未能合理支撑该领域的声明"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42902385。",
+          "report": "Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42902292",
+      "date": "2026-07-24",
+      "title": "Single cell RNA sequencing and emerging transcriptomic technologies in Alzheimer's disease cerebral organoids: a mini review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902292/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular brain，PMID 为 42902292。",
+      "report": "Alzheimer's disease (AD), the most common cause of dementia worldwide, presents a formidable challenge due to its complex, multifactorial etiology, and limited translational success of existing models. Recent advances in stem cell biology have enabled the gene...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0fe49db693784eec006ad8a8fd847487d0b10b5b5efd2a9f67",
+        "reviewedAt": "2026-10-21T11:58:26.839624+00:00",
+        "inputHash": "27ac4caecf05985422885f9136df008dc9ca824d3b2a09c877c6c03b159d6bcf",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录清晰分离了事实、报告、推论和未知信息，并未包含未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信号主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源的可靠性评估良好，证据水平适中。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular brain，PMID 为 42902292。",
+          "report": "Alzheimer's disease (AD), the most common cause of dementia worldwide, presents a formidable challenge due to its complex, multifactorial etiology, and limited translational success of existing models. Recent advances in stem cell biology have enabled the gene...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

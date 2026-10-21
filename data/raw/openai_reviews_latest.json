@@ -1,68 +1,30 @@
 {
-  "capturedAt": "2026-10-20T21:41:25.021592+00:00",
+  "capturedAt": "2026-10-21T11:58:26.839624+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42900586",
-      "responseId": "resp_0492ecf247de002b006ad7e005c61087d199fa3a7ff15ca5b9",
+      "signalId": "pubmed-42902510",
+      "responseId": "resp_0bd2d799de46a9a9006ad8a8e37e0c87d08b1fd418059b1b3b",
       "review": {
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献的记录符合发布标准，信息清晰且中立。",
+        "reviewSummaryCn": "该文献记录符合出版标准，信息分离明确，且未包含未支持的临床结论或治疗建议。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "类目合理且与所提供的元数据一致。"
+          "notesCn": ""
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清楚分隔，证据水平合乎逻辑。"
+          "notesCn": ""
         },
         "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech"
-          ],
-          "tags": [
-            "biotech"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900586。",
-          "report": "Here, we present an enzyme-free workflow for isolating murine adult neural stem cells (aNSCs) using tissue grinder- and dissociator-based mechanical dissociation (TIGR-MD). We describe dissection of the dentate gyrus and subventricular zone, mechanical tissue...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42900324",
-      "responseId": "resp_0c9d475479752156006ad7e00a024887d193616d565c2045e9",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.85,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，因为文献中暗示了生物学效能，而不是仅仅报告研究发现。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管事实、报告和推论分开，但证据水平为中等，可能不足以支持生物学效能的结论。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source",
-          "clinical_claim"
+          "clinical_claim",
+          "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -72,82 +34,82 @@
             "Organoids",
             "Advanced Disease Models",
             "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42900324。",
-          "report": "FLLL32 is a curcumin analogue with reported anti-tumor activity, mainly through inhibition of signal transducer and activator of transcription 3 (STAT3) signaling and induction of apoptosis. However, whether FLLL32 regulates ferroptosis in colorectal cancer (C...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42899767",
-      "responseId": "resp_08146644371f8ba5006ad7e00e3d7887d1b46c0a982e062bc4",
-      "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号依据高可靠性文献，分类合理，无临床建议或未验证结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别与文献内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，符合文献内容。"
-        },
-        "riskFlags": [
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
             "Drug Screening",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
+            "肿瘤",
             "药筛",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42899767。",
-          "report": "Preclinical central nervous system (CNS) disease models face a persistent translational gap arising from interspecies differences and limited representation of the human neurovascular microenvironment. Human induced pluripotent stem cell-derived brain organoid...",
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42902510。",
+          "report": "Colon cancer progression is associated with transcriptional and signaling abnormalities. MZF1, linked to leukemogenesis, has an unclear role in colon cancer. This study examined its function in colon tumorigenesis and signaling-targeted therapies. Multi-omics...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42899469",
-      "responseId": "resp_04a824ca682e6777006ad7e0126fc087d1a86f94da194910c6",
+      "signalId": "pubmed-42902326",
+      "responseId": "resp_06360fdcd5b5034c006ad8a8e8339087d0a6d5a67948377a65",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献内容提供了有关转移性癌症的挑战和治疗的讨论，但缺乏关于研究质量和临床适用性的明确判断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与实际文献内容不符，可能引发误解。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据水平标记为中，这对于其内容的支持力度不够。"
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology",
+          "subCategory": "Cancer Metastasis",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Cancer Challenges",
+            "Therapeutic Strategies"
+          ],
+          "tags": [
+            "癌症转移",
+            "治疗策略"
+          ],
+          "fact": "文献讨论了转移性癌症的临床挑战和治疗方法。",
+          "report": "转移性癌症依然是重大临床挑战，相关治疗仍在不断适应肿瘤细胞。",
+          "inference": "文献分类适合情报分流，但不应视为研究的质量或临床有效性的直接指示。",
+          "unknown": "需要对研究质量、样本量、利益冲突等进一步评估。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42901885",
+      "responseId": "resp_0528f28c9a125c0b006ad8a8eba2b887d0a5aea36f11c99795",
       "review": {
         "status": "pass",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号包含来自PubMed的高可靠性研究记录，信息合规，不涉及未经支持的临床结论。",
+        "reviewSummaryCn": "文献符合出版标准，无支持性临床结论或治疗推荐。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，依据研究内容和类别参数"
+          "notesCn": "分类合理，符合提供的元数据。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平处于合理范围，事实、报告与推断之间清晰分离"
+          "notesCn": "事实、报告和推断清晰分离，证据级别适当。"
         },
-        "riskFlags": [],
+        "riskFlags": [
+          "commercial_claim"
+        ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
@@ -155,36 +117,126 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
+            "Precision Oncology",
             "Drug Screening"
           ],
           "tags": [
             "类器官",
             "疾病模型",
+            "肿瘤",
             "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42899469。",
-          "report": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human indu...",
+          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42901885。",
+          "report": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transition...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42899406",
-      "responseId": "resp_05c858c5d51eea75006ad7e016724087d1a2a176c2bd532726",
+      "signalId": "pubmed-42901917",
+      "responseId": "resp_0304b6cb9501051e006ad8a8f12a9c87d0b806deba26e9eef3",
       "review": {
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录清晰且内部一致，无治疗建议或不支持的临床结论。",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，文献中的结论可能不够明确。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不充分支持文献的实际结论或研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据层级标记为中等，但不符合文献质量的预期标准。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell death & disease，PMID 为 42901917。",
+          "report": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in lung adenocarcinoma need further investigation.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42902385",
+      "responseId": "resp_05bd5f6659719f35006ad8a8f934d887d0922165980af8548d",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，报告部分含有未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
+          "notesCn": "分类合理，符合元数据"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "中等证据级别未能合理支撑该领域的声明"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42902385。",
+          "report": "Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42902292",
+      "responseId": "resp_0fe49db693784eec006ad8a8fd847487d0b10b5b5efd2a9f67",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录清晰分离了事实、报告、推论和未知信息，并未包含未支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信号主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间清晰分离，证据水平合理。"
+          "notesCn": "来源的可靠性评估良好，证据水平适中。"
         },
         "riskFlags": [
           "weak_classification"
@@ -203,300 +255,9 @@
             "疾病模型",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42899406。",
-          "report": "Alveolar epithelial regeneration is critical for normal lung function and disrupted in disease. Precise identification of alveolar epithelial cell populations, particularly type I (AT1) cells, remains a barrier to understanding alveolar homeostasis and repair....",
+          "fact": "PubMed 记录显示该文献收录于 Molecular brain，PMID 为 42902292。",
+          "report": "Alzheimer's disease (AD), the most common cause of dementia worldwide, presents a formidable challenge due to its complex, multifactorial etiology, and limited translational success of existing models. Recent advances in stem cell biology have enabled the gene...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42899582",
-      "responseId": "resp_008fe010fb6eb20a006ad7e01ac6e087d1b6c9c12805fa7fff",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献内容涉及酶的应用与AI药物发现，需进一步验证研究质量及商业化状态。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类适当，但基于文献内容需审查研究质量。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中但不支持确定结论。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42899582。",
-          "report": "Enzymes are powerful natural catalysts distinguished by high efficiency and selectivity. The use of enzymes in the chemical industry can theoretically enable numerous efficient and sustainable reaction pathways. Nevertheless, the application of enzymes is hind...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42900864",
-      "responseId": "resp_0eaa6975d8f099b9006ad7e020122487d1a42e1631253a1d7c",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，内容明确且无治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理并匹配文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分离，证据等级合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of clinical oncology : official journal of the American Society of Clinical Oncology，PMID 为 42900864。",
-          "report": "Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HER2-) breast cancer, the most common subtype, lacks simple, noninvasive biomarkers for recurrence. We evaluated circulating eosinophil count as a clinically applicable biomarker for...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42900500",
-      "responseId": "resp_0913025ce03bce61006ad7e024576487d1b0ffa1b2e137ffd3",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献记录展示了有关胰腺导管腺癌转移性特征的研究，但缺乏对研究质量和临床结论的评估。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类合理，但未能支持研究质量评估。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "尽管信息分离清晰，但证据水平标记为中等，可能不足以支持相关临床应用。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42900500。",
-          "report": "Clinical and molecular features of pancreatic adenocarcinoma (PDAC) according to involved metastatic sites have not been well characterized. We used the Foundry platform to query information for patients with metastatic PDAC at MD Anderson Cancer Center. Invol...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42900585",
-      "responseId": "resp_0669701018665101006ad7e029609487d1a3cd8ab759d5bdbe",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，信息分隔清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合来源信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平与研究类型一致。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Biotech",
-            "Multi-omics"
-          ],
-          "tags": [
-            "biotech",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900585。",
-          "report": "Vertex models simulate epithelial mechanics at single-cell resolution but represent cell division as a single in-plane split, agnostic to the differential apicobasal geometry of mitotic cells. Here, we present a protocol that simulates basal mitosis as two seq...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42898997",
-      "responseId": "resp_0d637c275e71e091006ad7e02e782487d1b89936de5ec8cf31",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条记录信息一致，符合出版要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主题分类合理，符合来源信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献归类合理，依据充分。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42898997。",
-          "report": "As research in molecular biology continues to advance, the classification of endometrial cancer has gradually shifted from traditional histology toward risk stratification based on the integration of molecular subtyping with clinicopathologic factors.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42898919",
-      "responseId": "resp_08ed7a5d6e9df7e5006ad7e03505c487d1ab286e42fdf9c7cb",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录信息清晰，陈述各项内容合理，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合PubMed记录的主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适合于提供的信息。"
-        },
-        "riskFlags": [
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in immunology，PMID 为 42898919。",
-          "report": "Cutaneous melanoma remains one of the most challenging neoplasms and the deadliest form of skin cancer. miRNAs are a class of non-coding RNA molecules found in both tissues and body fluids that can negatively regulate gene expression in eukaryotic cells, playi...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42899609",
-      "responseId": "resp_0a2d0b56a1ca002d006ad7e038fadc87d18ff39149097080e9",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号需要人工评审以确认相关性和研究质量。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，但涉及患者影响的具体结论未完全验证。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "虽然源信息可靠，但鉴于医学领域未能支持的效能结论，证据水平被认为不强，需进一步评估。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Revista medica de Chile，PMID 为 42899609。",
-          "report": "Diffuse large B-cell lymphoma (DLBCL) is the most prevalent non-Hodgkin lymphoma subtype. Although R-CHOP remains the standard first-line therapy, up to 30% of patients experience relapse or refractory disease. Currently, therapeutic monitoring relies on imagi...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }

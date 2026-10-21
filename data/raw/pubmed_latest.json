@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-20T21:41:16.371100+00:00",
+  "capturedAt": "2026-10-21T11:58:18.079023+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-20",
-    "end": "2026-10-20"
+    "start": "2025-10-21",
+    "end": "2026-10-21"
   },
   "pmids": [
+    "42902510",
+    "42902385",
+    "42902292",
+    "42901917",
+    "42901885",
     "42900586",
-    "42900585",
-    "42900324",
-    "42899767",
-    "42899469",
-    "42899406",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,122 @@
     "42895482",
     "42885407",
     "42880220",
+    "42902326",
     "42900864",
     "42900500",
     "42899609",
     "42898997",
-    "42898919",
-    "42898703"
+    "42898919"
   ],
   "records": [
+    {
+      "pmid": "42902510",
+      "title": "MZF1 Inhibits TGFβ-1/SMAD Signaling by Transcriptionally Activating SnoN to Augment Tumorigenic Potential in Colon Cancer.",
+      "abstract": "Colon cancer progression is associated with transcriptional and signaling abnormalities. MZF1, linked to leukemogenesis, has an unclear role in colon cancer. This study examined its function in colon tumorigenesis and signaling-targeted therapies. Multi-omics (RNA-seq, CUT&Tag) identified MZF1 targets, validated in vitro/in vivo using xenografts and epithelial-specific MZF1 knockout mice. Virtual screening found MZF1 inhibitors. MZF1 activated SnoN transcription, suppressing TGF-β/SMAD signaling. Overexpression enhanced proliferation and colony formation; knockdown reversed these. In vivo, MZF1-overexpressing xenografts grew faster with more Ki67+ cells, while MZF1-/- mice had reduced tumor burden. Organoids from MZF1-/- mice grew poorly. 10Panx Acetate, an MZF1 inhibitor, disrupted MZF1-SnoN interaction, inhibiting cell and xenograft growth. Our results indicate MZF1 as a key colon cancer regulator via SnoN-mediated TGF-β pathway suppression and suggest 10Panx Acetate for precision therapy. MZF1/SnoN co-expression may predict aggressive disease.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Medical School, Affiliated Jinling Hospital, Nanjing University, Nanjing, Jiangsu Province, China.",
+        "Department of Medical Oncology, Jinling Clinical Medical College, Nanjing University of Chinese Medicine, Nanjing, Jiangsu Province, China.",
+        "Department of Medical Oncology, Jinling Hospital, Nanjing Medical University, Nanjing, Jiangsu Province, China.",
+        "Department of Medical Oncology, The First School of Clinical Medicine, Jinling Hospital, Southern Medical University, Nanjing, Jiangsu Province, China.",
+        "Department of Oncology, School of Medicine, Affiliated Jinling Hospital, Southeast University, Nanjing, China."
+      ],
+      "doi": "10.1002/advs.77277",
+      "date": "2026-10-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902510/"
+    },
+    {
+      "pmid": "42902385",
+      "title": "Epigenetic modulation of NKG2D ligands enhances NKG2D-CAR T cell efficacy in neuroblastoma.",
+      "abstract": "Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist due to immune evasion mechanisms by tumor cells. Specifically, the interaction between the natural killer group 2D (NKG2D) receptor on cytotoxic immune cells and its ligands (NKG2DL) is critical for antitumor immunity. However, the expression of NKG2DL is tightly regulated by different means, including epigenetic mechanisms. NB cells often downregulate NKG2DL expression to evade immune control, and this reduction is associated with poorer survival and worse prognosis. The NKG2DL expression was assessed in a set of NB cell lines and patient-derived xenograft organoids (PDXOs) under basal conditions and following treatment with epigenetic drugs, valproic acid (VPA) and tazemetostat (TZM). NKG2D-CAR T cells were generated, and their proliferation, phenotype, cell-killing assays and cytokine production were performed in vitro. Cell-based assays were performed combining epigenetic drugs and NKG2D-CAR T cells in the different NB models. Our study revealed that NKG2DL expression in NB models and patient samples exhibited considerable heterogeneity, but it was low overall. Although NKG2DL expression does not necessarily preclude susceptibility, its downregulation may compromise the cytotoxicity of NKG2D-CAR T cells. Treatment with epigenetic drugs, VPA and TZM, significantly increased NKG2DL expression and improved NKG2D-CAR T cell-mediated killing in vitro and in vivo. This work suggests that targeting epigenetic pathways can enhance the susceptibility of NB cells to NKG2D-CAR T cell therapy, thereby providing a potential new approach to treat high-risk NB.",
+      "journal": "Journal of translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Translational Research in Pediatric Oncology, Hematopoietic Transplantation and Cell Therapy, IdiPAZ, La Paz University Hospital, CIBERER-ISCIII, Madrid, Spain.",
+        "Pediatric Onco-Hematology Clinical Research Unit, IdiPAZ-CNIO (Spanish National Cancer Research Center), Madrid, Spain.",
+        "Pathology Department, La Paz University Hospital, Madrid, Spain.",
+        "Advanced Therapies Mixed Unit, CIEMAT/IIS-FJD, Madrid, Spain.",
+        "Translational Research in Pediatric Oncology, Hematopoietic Transplantation and Cell Therapy, IdiPAZ, La Paz University Hospital, CIBERER-ISCIII, Madrid, Spain. aperezmartinez@salud.madrid.org.",
+        "Pediatric Onco-Hematology Clinical Research Unit, IdiPAZ-CNIO (Spanish National Cancer Research Center), Madrid, Spain. aperezmartinez@salud.madrid.org.",
+        "Pediatric Hemato-Oncology Department, La Paz University Hospital, Madrid, Spain. aperezmartinez@salud.madrid.org.",
+        "Pediatric Department, Autonomous University of Madrid, Madrid, Spain. aperezmartinez@salud.madrid.org.",
+        "Pediatric Onco-Hematology Clinical Research Unit, IdiPAZ-CNIO (Spanish National Cancer Research Center), Madrid, Spain. lvfernandez@cnio.es."
+      ],
+      "doi": "10.1186/s12967-026-08685-y",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902385/"
+    },
+    {
+      "pmid": "42902292",
+      "title": "Single cell RNA sequencing and emerging transcriptomic technologies in Alzheimer's disease cerebral organoids: a mini review.",
+      "abstract": "Alzheimer's disease (AD), the most common cause of dementia worldwide, presents a formidable challenge due to its complex, multifactorial etiology, and limited translational success of existing models. Recent advances in stem cell biology have enabled the generation of three-dimensional human cerebral organoids which exhibit multicellular complexity and self-organisation, recapitulating key aspects of fetal brain development in vitro. This mini review highlights the landscape of AD modelling in human cerebral organoids. While studies using single cell RNA sequencing (scRNA-seq) form the core of this review, we also discuss single-nucleus RNA sequencing, computational deconvolution, and spatial approaches as translationally relevant extensions. We categorise current organoid research into distinct model types: (1) familial AD models driven by APP, PSEN1, and PSEN2 mutations; (2) sporadic AD models incorporating genetic APOE variants and environmental risk factors (serum exposure, pollutants, and viral reactivation); (3) tauopathy models highlighting astrocyte-driven metabolic disruption; (4) models featuring glial-immune interactions; and (5) emerging models of mitochondrial dysfunction as an early disease initiator. Across these categories, single cell technologies reveal critical alterations in lipid metabolism, synaptic programs, and glial-immune crosstalk. Finally, we review methodological innovations-drawing on non-AD developmental organoid studies such as region-specific patterning, morphodynamic control, and enhanced cellular diversity, which offer a roadmap for improving the physiological fidelity of next-generation AD organoid models. Ultimately, integrating these advanced cerebral organoid platforms with single cell technologies offer a powerful toolkit to dissect early disease mechanisms and accelerate the development of personalised therapeutics.",
+      "journal": "Molecular brain",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Faculty of Medicine and Health Sciences, Universiti Malaysia Sarawak, Kota Samarahan, 94300, Sarawak, Malaysia. armfazilah@unimas.my.",
+        "Department of Clinical Oncology, Faculty of Medicine, Universiti Malaya, 50603, Kuala Lumpur, Malaysia. francistieng@um.edu.my.",
+        "Department of Clinical Oncology, Universiti Malaya Medical Centre, 50603, Petaling Jaya, Malaysia. francistieng@um.edu.my.",
+        "Sunway Medical Clinical Research Centre, Sunway Medical Research Ethics Committee (SREC), 47500, Bandar Sunway, Selangor, Malaysia. francistieng@um.edu.my."
+      ],
+      "doi": "10.1186/s13041-026-01335-w",
+      "date": "2026-07-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902292/"
+    },
+    {
+      "pmid": "42901917",
+      "title": "Identification and validation of NCOA5-ZCCHC3/FGF22 axis as a prognostic marker in lung adenocarcinoma migration and invasion.",
+      "abstract": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in LUAD remain largely unknown. In this study, NCOA5 expression was evaluated in 94 paired LUAD and adjacent tissues using immunohistochemistry, RT-PCR, and Western blotting. Functional analyses were conducted using shRNA knockdown, CRISPR-mediated knockout, and overexpression models to assess the effects of NCOA5 on LUAD cell proliferation, migration, invasion, apoptosis, cell cycle progression, and organoid formation. Xenograft models were used to validate tumorigenicity in vivo. IP-MS and co-immunoprecipitation identified NCOA5-interacting proteins, while ChIP-seq and dual-luciferase assays interrogated downstream transcriptional regulation. NCOA5 was significantly upregulated in LUAD tissues and associated with advanced stage, poor differentiation, and reduced overall survival, serving as an independent prognostic factor (P < .040). NCOA5 knockdown inhibited LUAD cell proliferation, migration, invasion, induced G0/G1 arrest, promoted apoptosis, reduced organoid formation, and suppressed xenograft growth, whereas NCOA5 overexpression produced the opposite effects. Among 39 candidate interacting proteins identified by IP-MS, ZCCHC3 was validated as a direct NCOA5-binding partner. ZCCHC3 depletion phenocopied NCOA5 loss and reversed NCOA5-induced proliferation, migration, invasion, and colony formation, supporting a functional NCOA5-ZCCHC3 interaction. ChIP-seq analysis identified fibroblast growth factor 22 (FGF22) as a direct transcriptional target of NCOA5. FGF22 was markedly downregulated in LUAD tissues and higher FGF22 expression was associated with improved patient survival. NCOA5 suppressed FGF22 transcription, while NCOA5 inhibition increased FGF22 expression. Functionally, FGF22 knockdown enhanced LUAD aggressiveness, whereas FGF22 restoration abrogated the oncogenic effects of NCOA5 in vitro and in vivo. Collectively, these findings identify a previously unrecognized NCOA5-ZCCHC3/FGF22 axis that drives LUAD progression and provide new mechanistic insight into the role of NCOA5 in LUAD biology.",
+      "journal": "Cell death & disease",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Graduate School of Inner Mongolia Medical University, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Thoracic Surgery Department of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China.",
+        "Clinical Medical Research Center of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu.",
+        "Oncology Department of Inner Mongolia People's Hospital, Hohhot, China. rsu5@alumni.jh.edu."
+      ],
+      "doi": "10.1038/s41419-026-09127-9",
+      "date": "2026-07-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901917/"
+    },
+    {
+      "pmid": "42901885",
+      "title": "PIP5K-Ras bistability triggers plasma membrane symmetry breaking to define cellular polarity and regulate migration.",
+      "abstract": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transition remains unknown. Using Dictyostelium amoebae, leukocytes, cancer cells, and 3D organoids, we show that mutual antagonism between activated Ras and phosphatidylinositol 4-phosphate 5-kinase (PIP5K) forms a positive feedback loop fundamental to symmetry breaking and cell polarity. Through dynamic localization mapping, optogenetic perturbation, RasGEF screening, and single-molecule tracking, we reveal that localized Ras activation shortens the membrane lifetime of PIP5K, lowering local PI(4,5)P2, while recruited RasGEF amplifies Ras activation. Dissociated PIP5K redistributes to other membrane domains, suppressing local Ras activation and intrinsically segregating the membrane into complementary activated and inactivated zones, independent of receptor inputs or cytoskeletal dynamics. Incorporating this feedback loop into an excitable network integrated with a reaction-diffusion model and a viscoelastic framework yielded computational simulations that accurately predict spatiotemporal self-organization and polarized cell movement.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cell Biology and Center for Cell Dynamics, School of Medicine, Johns Hopkins University, Baltimore, MD, USA.",
+        "Department of Chemical and Biomolecular Engineering, Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, USA.",
+        "Howard Hughes Medical Institute, Whitehead Institute for Biomedical Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Laboratory of Single Molecule Biology, Graduate School of Science and Graduate School of Frontier Biosciences, Osaka University, Suita, Japan.",
+        "Laboratory for Computational Sensing and Robotics, Johns Hopkins University, Baltimore, MD, USA.",
+        "Department of Microbiology and Immunology, State University of New York Upstate Medical University, Syracuse, NY, USA.",
+        "Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD, USA.",
+        "Biological and Biochemistry Programs, The Graduate Center, The City University of New York, New York, NY, USA.",
+        "Department of Biological Sciences, Hunter College, The City University of New York, New York, NY, USA.",
+        "Department of Electrical and Computer Engineering, Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, USA.",
+        "Department of Applied Mathematics and Statistics, Whiting School of Engineering, Johns Hopkins University, Baltimore, MD, USA.",
+        "Department of Cell Biology and Center for Cell Dynamics, School of Medicine, Johns Hopkins University, Baltimore, MD, USA. pnd@jhmi.edu.",
+        "Department of Biological Chemistry, School of Medicine, Johns Hopkins University, Baltimore, MD, USA. pnd@jhmi.edu."
+      ],
+      "doi": "10.1038/s41467-026-77894-2",
+      "date": "2026-09-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901885/"
+    },
     {
       "pmid": "42900586",
       "title": "Protocol for isolation and culture establishment of adult murine neural stem cells using tissue grinder and dissociator-based mechanical dissociation.",
@@ -58,101 +166,6 @@
       "doi": "10.1016/j.xpro.2026.104908",
       "date": "2026-10-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900586/"
-    },
-    {
-      "pmid": "42900585",
-      "title": "Protocol for simulating cell-contact dynamics of proliferating epithelia using the vertex model.",
-      "abstract": "Vertex models simulate epithelial mechanics at single-cell resolution but represent cell division as a single in-plane split, agnostic to the differential apicobasal geometry of mitotic cells. Here, we present a protocol that simulates basal mitosis as two sequential changes: basal-cell diminution followed by daughter-cell reinsertion. Apical-side simulations can be performed with minimal code modification. We provide instructions for generating initial configurations, running simulations, and quantifying mechanical and topological rearrangements using command-line operations accessible to experimental biologists. For complete details on the use and execution of this protocol, please refer to Ramanathan et al.1.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Theory Division, Saha Institute of Nuclear Physics, A CI of Homi Bhabha National Institute, 1/AF, Bidhannagar, Kolkata 700064, West Bengal, India; School of Physics, Indian Institute of Science Education and Research Thiruvananthapuram, Maruthamala PO, Thiruvananthapuram, Kerala 695551, India; Jožef Stefan Institute, Jamova 39, SI-1000 Ljubljana, Slovenia. Electronic address: tanmoy.sarkar@saha.ac.in.",
-        "Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center, Omaha, NE, USA.",
-        "Jožef Stefan Institute, Jamova 39, SI-1000 Ljubljana, Slovenia.",
-        "Department of Genetics, Cell Biology & Anatomy, University of Nebraska Medical Center, Omaha, NE, USA.",
-        "Department of Genetics, Cell Biology & Anatomy, University of Nebraska Medical Center, Omaha, NE, USA; Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, NE, USA. Electronic address: sramanathan@unmc.edu."
-      ],
-      "doi": "10.1016/j.xpro.2026.104909",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900585/"
-    },
-    {
-      "pmid": "42900324",
-      "title": "Curcumin analogue FLLL32 induces ferroptosis by targeting the STAT3-GPX4/SLC40A1 axis in colorectal cancer.",
-      "abstract": "FLLL32 is a curcumin analogue with reported anti-tumor activity, mainly through inhibition of signal transducer and activator of transcription 3 (STAT3) signaling and induction of apoptosis. However, whether FLLL32 regulates ferroptosis in colorectal cancer (CRC) and the underlying mechanism remain unclear. Here, using a patient-derived CRC organoid screening platform, we identified FLLL32 as a potent anti-CRC compound. FLLL32 suppressed CRC organoid growth, inhibited CRC cell proliferation and migration in vitro, and inhibited xenograft tumor growth in vivo. In parallel, FLLL32 induced ferroptosis-associated iron accumulation, reactive oxygen species (ROS) production, lipid peroxidation, mitochondrial morphological and functional abnormalities. The ferroptosis inhibitor Ferrostatin-1 markedly restored FLLL32-impaired cell viability and reduced ROS, whereas the apoptosis inhibitor Z-VAD-FMK showed weaker protection. These findings suggest that ferroptosis is a major contributor to FLLL32-induced cell death, although apoptotic features are also present. Mechanistically, FLLL32 interacted with STAT3, and Glu638 and Met726 contributed to the FLLL32-STAT3 interaction. FLLL32 also suppressed STAT3 Tyr705 phosphorylation and nuclear signaling, thereby disrupting pSTAT3-mediated transcriptional regulation of glutathione peroxidase 4 (GPX4) and solute carrier family 40 member 1 (SLC40A1), weakening lipid peroxide detoxification and cellular iron efflux, promoting intracellular iron accumulation, and enhancing ferroptosis in CRC cells. These findings define a STAT3-GPX4/SLC40A1-dependent mechanism underlying the anti-CRC activity of FLLL32 and support further investigation of STAT3-associated ferroptosis regulation as a potential therapeutic vulnerability in CRC.",
-      "journal": "Molecular biomedicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Gastrointestinal Tumor Epigenetics and Genomics, State Key Laboratory of Biotherapy and Cancer Center, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China.",
-        "Colorectal Cancer Center, West China Hospital, Sichuan University, Chengdu, China.",
-        "Colorectal Cancer Center, West China Hospital, Sichuan University, Chengdu, China. yangxuyang@wchscu.cn.",
-        "Laboratory of Gastrointestinal Tumor Epigenetics and Genomics, State Key Laboratory of Biotherapy and Cancer Center, Frontiers Science Center for Disease-related Molecular Network, West China Hospital, Sichuan University, Chengdu, 610041, China. hjunhong@scu.edu.cn."
-      ],
-      "doi": "10.1186/s43556-026-00575-5",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900324/"
-    },
-    {
-      "pmid": "42899767",
-      "title": "Engineered Vascularization: Neurovascular Niche Remodeling Enables Biomimetic Brain Organoids for Central Nervous System Research.",
-      "abstract": "Preclinical central nervous system (CNS) disease models face a persistent translational gap arising from interspecies differences and limited representation of the human neurovascular microenvironment. Human induced pluripotent stem cell-derived brain organoids provide a human-relevant platform for modeling brain development and disease, but limited vascularization restricts tissue growth, maturation, and neurovascular function. Engineering approaches, including genetic engineering, biomaterials, 3D bioprinting, and organ-on-a-chip technologies, enable greater control over vascular specification, spatial organization, extracellular matrix properties, and perfusion, facilitating more controlled remodeling of the neurovascular niche. This Review summarizes recent advances in engineered vascularization of brain organoids, focusing on engineering strategies, biological outcomes, and applications in neurodevelopmental research, CNS disease modeling, and preclinical drug screening. Particular emphasis is placed on evaluating vascularization using complementary evidence rather than individual vascular markers. Based on quantitative data from 13 published studies, we propose the Multidimensional Quality Assessment Framework for Vascularized Brain Organoids (MQAF-VBO) and highlight relationships between engineering parameters and biological outcomes. Emerging opportunities in nanoengineered biomaterials, programmable platforms, spatial profiling, integrated biosensing, and adaptive bioelectronic systems are also discussed. Collectively, these advances may facilitate the development of more reproducible and physiologically relevant vascularized brain organoids for CNS disease modeling and preclinical drug evaluation.",
-      "journal": "ACS nano",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Jiangsu Key Laboratory of Organoid Engineering and Precision Medicine, Suzhou Institute of Nano-Tech and Nano-Bionics (SINANO), Chinese Academy of Sciences, 398 Ruoshui Road, Suzhou, Jiangsu215123, China.",
-        "School of Nano-Tech and Nano-Bionics, University of Science and Technology of China, Hefei, Anhui230026, China.",
-        "Department of Neurosurgery, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu215006, China."
-      ],
-      "doi": "10.1021/acsnano.6c12492",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899767/"
-    },
-    {
-      "pmid": "42899469",
-      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8+ T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
-      "abstract": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human induced pluripotent stem cell-derived microglia and CD8+ T cells to reconstitute multicellular AD pathology. This system enables functional interrogation of both innate and adaptive immune components in a human-relevant context. Using this platform, we demonstrate that microglia mediate amyloid-β clearance and neuronal maturation but also drive inflammatory activation and recruit CD8+ T cells through CCL4/5 signaling via CCR1/5 and CXCR3, establishing a neuroinflammatory feedback loop. Pharmacological targeting of CCR5 or CXCR3 blocks T cell recruitment and modulates autophagy in a microglia-dependent manner. This modular organoid platform provides a versatile tool for dissecting neuron-immune interactions and enables cell-type-specific therapeutic screening in human neuroinflammatory disease models.",
-      "journal": "eLife",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Biopharmaceutical and Health Engineering (iBHE), Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, Shenzhen, China.",
-        "Key Laboratory of Active Proteins and Peptides Green Biomanufacturing of Guangdong Higher Education Institutes, Tsinghua Shenzhen International Graduate School, Shenzhen, China.",
-        "Key Laboratory of Industrial Biocatalysis, Ministry of Education, Tsinghua University, Beijing, China."
-      ],
-      "doi": "10.7554/eLife.111730",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899469/"
-    },
-    {
-      "pmid": "42899406",
-      "title": "Defining GRAMD2 expression in the alveolar epithelium using organoid and single cell approaches.",
-      "abstract": "Alveolar epithelial regeneration is critical for normal lung function and disrupted in disease. Precise identification of alveolar epithelial cell populations, particularly type I (AT1) cells, remains a barrier to understanding alveolar homeostasis and repair. We previously identified GRAM domain-containing 2 (GRAMD2) as enriched in distal alveolar epithelium, with predominant expression in type I (AT1) cells. However, recent single-cell datasets reveal low level Gramd2 transcripts in other lung epithelial populations raising questions about specificity. To address this, we performed immunofluorescence of whole lung and cytospins of GFPhigh cells from Gramd2CreERT2;mTmG mice. Cre-induced lineage labeling predominantly marked cells expressing established AT1 markers, with minimal labeling of AT2 or club cells. GFPhigh cells were enriched for AT1 cells and formed organoids in culture that over time showed expression of AT2 and airway markers, suggesting plasticity. Despite apparent purity of the GFPhigh population by immunostaining, single-cell RNAseq identified AT2 cells and a small number of club cells in the labeled population, revealing discordance between GRAMD2 transcript and protein expression. Gramd2CreERT2;mTmG mice enable enrichment of AT1 cells but have limitations for definitive lineage tracing.",
-      "journal": "American journal of respiratory cell and molecular biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA.",
-        "Hastings Center for Pulmonary Research, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA.",
-        "Department of Integrative Translational Sciences, Beckman Research Institute, City of Hope, Duarte, CA 91010, USA.",
-        "Department of Surgery, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA.",
-        "Division of Pulmonary, Critical Care, Sleep Medicine and Physiology, Department of Medicine, University of California, San Diego, CA 92037, USA.",
-        "Department of Translational Genomics, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA.",
-        "Department of Molecular and Cellular Pathology, Kanazawa University, Kakumamachi, Kanazawa, Ishikawa 920-1192, Japan.",
-        "Department of Pediatrics, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA.",
-        "USC Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA."
-      ],
-      "doi": "10.1093/ajrcmb/aanag167",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899406/"
     },
     {
       "pmid": "42893561",
@@ -368,6 +381,24 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42880220/"
     },
     {
+      "pmid": "42902326",
+      "title": "Cancer metastasis: biological mechanisms, therapeutic bottlenecks, and emerging interventions.",
+      "abstract": "Metastatic cancer remains a major clinical challenge, which is driven by the continuous adaptation of disseminated tumor cells to diverse tissue environments and therapeutic pressures. Although current treatments, including conventional therapies, small-molecule drugs, antibody-drug conjugates, and immunotherapies, have improved clinical outcomes in selected patients, they rarely achieve durable disease control, largely because each stage of the metastatic cascade presents distinct therapeutic bottlenecks. This review examines these bottlenecks and identifies therapeutic vulnerabilities that can be targeted at each metastatic stage. Cross-stage adaptive programs, encompassing genetic, epigenetic, metabolic, immune, and microenvironmental alterations, are linked to the specific modes of therapeutic failure they drive, thereby connecting underlying mechanisms with their corresponding clinical consequences. Emerging therapeutic strategies are discussed in the context of the metastatic stage, and general design principles for combination regimens are proposed. We also highlight the potential of liquid biopsy-guided dynamic treatment adjustment and advanced preclinical models to inform patient selection, treatment timing, and the design of therapies aimed at overcoming resistance. By integrating metastatic biology, mechanisms of therapeutic failure, and emerging interventions, this review provides a framework for understanding and targeting the bottlenecks that limit durable disease control in metastatic cancer.",
+      "journal": "Journal of hematology & oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Laboratory of Aging Research and Immunology, State Key Laboratory of Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Laboratory of Aging Research and Immunology, State Key Laboratory of Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, Sichuan, China. hexuemei1116@126.com.",
+        "Laboratory of Aging Research and Immunology, State Key Laboratory of Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, Sichuan, China. xiaweiwei@scu.edu.cn."
+      ],
+      "doi": "10.1186/s13045-026-01856-w",
+      "date": "2026-10-20",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902326/"
+    },
+    {
       "pmid": "42900864",
       "title": "Association of Circulating Eosinophils With Systemic Immune Activation and Reduced Recurrence in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer.",
       "abstract": "Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HER2-) breast cancer, the most common subtype, lacks simple, noninvasive biomarkers for recurrence. We evaluated circulating eosinophil count as a clinically applicable biomarker for recurrence in this population. Associations between preoperative eosinophil count and patient outcomes were evaluated in a multimodal discovery cohort (N = 472) and validated via propensity score overlap weighting in an independent expanded cohort (N = 23,170). We assessed the additive value of eosinophils in patients with 21-gene recurrence scores (RSs; n = 2,973) and their predictive role for adjuvant cyclin-dependent kinase 4/6 (CDK4/6) inhibitors in high-risk patients (n = 3,471). Mechanisms were investigated using integrated multiomics, spatial digital pathology, and in vivo preclinical models. Higher circulating eosinophil counts correlated with significantly improved recurrence-free and distant metastasis-free survival in the discovery cohort. Genomic analysis associated these elevated counts with lower human leukocyte antigen homozygosity and increased intratumoral immune activation. Functionally, eosinophils were associated with antitumor effects, with evidence of CD8+ T-cell involvement. These findings were further validated in vivo, where eosinophil adoptive transfer significantly reduced tumor burden in both the EMT6 (BALB/c) and E0771 (C57BL/6) mouse models. Spatial profiling demonstrated that tumor-infiltrating eosinophils predominantly coaggregated with lymphocytes. These clinical associations were then validated in the independent expanded cohort through multivariable and propensity score-weighted analyses. Critically, eosinophil levels provided additive prognostic value beyond the 21-gene RS and, among high-risk patients, predicted the subset that would derive greater benefit from CDK4/6 inhibition. Circulating eosinophil count serves as a potential clinically applicable, liquid biopsy biomarker that independently prognosticates recurrence risk and predicts CDK4/6 inhibitor benefit, reflecting systemic immune activation in hormone receptor-positive/HER2- breast cancer.",
@@ -463,26 +494,43 @@
       "doi": "10.3389/fimmu.2026.1949578",
       "date": "2026-10-05",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898919/"
-    },
-    {
-      "pmid": "42898703",
-      "title": "Multimodal biomarkers for early detection and immunotherapy assessment in hepatocellular carcinoma: integrating liquid biopsy, AI-based imaging and tumor immune profiling.",
-      "abstract": "Hepatocellular carcinoma (HCC) commonly develops in chronically diseased liver and remains challenging because of late detection, heterogeneity, recurrence and limited hepatic reserve. Immune checkpoint inhibitor (ICI)-based combinations improve outcomes in advanced HCC, but durable responses occur in only a subset of patients. This structured narrative review evaluates biomarkers by intended use: surveillance and early detection, pretreatment prognostic stratification, treatment selection, on-treatment monitoring, neoadjuvant response assessment and postoperative minimal residual disease (MRD) detection. Serum alpha-fetoprotein and clinical scores are accessible but largely reflect tumor burden, inflammation or liver function. Cell-free DNA methylation and fragmentomics provide early-detection and tissue-of-origin signals, while circulating tumor DNA tracks molecular burden and clonal evolution. Tissue and spatial profiling clarify immune responsiveness and resistance, whereas radiomics and deep learning noninvasively assess whole-tumor and peritumoral heterogeneity. These modalities are complementary but require distinct evidence standards. Most early-detection studies use case-control or enriched cohorts, and most immunotherapy associations are retrospective, prognostic or monitoring-related. No biomarker yet supports routine selection among ICI regimens. Unlike modality-specific summaries, this review aligns each biomarker with a defined clinical decision and evidentiary category and proposes a longitudinal framework integrating baseline blood, imaging and tissue features with on-treatment dynamics, preoperative reassessment and postoperative molecular surveillance. Clinical translation requires standardized assays, representative multicenter cohorts, locked external validation and biomarker-guided trials demonstrating value beyond established criteria.",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Food & Pharmaceutical Science and Technology, Guangzhou College of Technology and Business, Guangzhou, China.",
-        "Department of Medical Oncology, The First Affiliated Hospital of Henan University of Science and Technology, Luoyang, China."
-      ],
-      "doi": "10.3389/fgene.2026.1951687",
-      "date": "2026-10-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898703/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42902510",
+      "date": "2026-10-20",
+      "title": "MZF1 Inhibits TGFβ-1/SMAD Signaling by Transcriptionally Activating SnoN to Augment Tumorigenic Potential in Colon Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902510/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42902510。",
+      "report": "Colon cancer progression is associated with transcriptional and signaling abnormalities. MZF1, linked to leukemogenesis, has an unclear role in colon cancer. This study examined its function in colon tumorigenesis and signaling-targeted therapies. Multi-omics...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42900586",
       "date": "2026-10-20",
@@ -507,130 +555,6 @@
       "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900586。",
       "report": "Here, we present an enzyme-free workflow for isolating murine adult neural stem cells (aNSCs) using tissue grinder- and dissociator-based mechanical dissociation (TIGR-MD). We describe dissection of the dentate gyrus and subventricular zone, mechanical tissue...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42900324",
-      "date": "2026-10-20",
-      "title": "Curcumin analogue FLLL32 induces ferroptosis by targeting the STAT3-GPX4/SLC40A1 axis in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900324/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42900324。",
-      "report": "FLLL32 is a curcumin analogue with reported anti-tumor activity, mainly through inhibition of signal transducer and activator of transcription 3 (STAT3) signaling and induction of apoptosis. However, whether FLLL32 regulates ferroptosis in colorectal cancer (C...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42899767",
-      "date": "2026-10-20",
-      "title": "Engineered Vascularization: Neurovascular Niche Remodeling Enables Biomimetic Brain Organoids for Central Nervous System Research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899767/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS nano，PMID 为 42899767。",
-      "report": "Preclinical central nervous system (CNS) disease models face a persistent translational gap arising from interspecies differences and limited representation of the human neurovascular microenvironment. Human induced pluripotent stem cell-derived brain organoid...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42899469",
-      "date": "2026-10-20",
-      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8+ T cell recruitment and neuroimmune dysfunction in Alzheimer's disease pathology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899469/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42899469。",
-      "report": "Genetic evidence implicates immune dysfunction in Alzheimer's disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human indu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42899406",
-      "date": "2026-10-20",
-      "title": "Defining GRAMD2 expression in the alveolar epithelium using organoid and single cell approaches.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899406/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of respiratory cell and molecular biology，PMID 为 42899406。",
-      "report": "Alveolar epithelial regeneration is critical for normal lung function and disrupted in disease. Precise identification of alveolar epithelial cell populations, particularly type I (AT1) cells, remains a barrier to understanding alveolar homeostasis and repair....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -660,6 +584,36 @@
       "fact": "PubMed 记录显示该文献收录于 Accounts of chemical research，PMID 为 42899582。",
       "report": "Enzymes are powerful natural catalysts distinguished by high efficiency and selectivity. The use of enzymes in the chemical industry can theoretically enable numerous efficient and sustainable reaction pathways. Nevertheless, the application of enzymes is hind...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42902326",
+      "date": "2026-10-20",
+      "title": "Cancer metastasis: biological mechanisms, therapeutic bottlenecks, and emerging interventions.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902326/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of hematology & oncology，PMID 为 42902326。",
+      "report": "Metastatic cancer remains a major clinical challenge, which is driven by the continuous adaptation of disseminated tumor cells to diverse tissue environments and therapeutic pressures. Although current treatments, including conventional therapies, small-molecu...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -722,34 +676,6 @@
       "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42900500。",
       "report": "Clinical and molecular features of pancreatic adenocarcinoma (PDAC) according to involved metastatic sites have not been well characterized. We used the Foundry platform to query information for patients with metastatic PDAC at MD Anderson Cancer Center. Invol...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42900585",
-      "date": "2026-10-19",
-      "title": "Protocol for simulating cell-contact dynamics of proliferating epithelia using the vertex model.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900585/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42900585。",
-      "report": "Vertex models simulate epithelial mechanics at single-cell resolution but represent cell division as a single in-plane split, agnostic to the differential apicobasal geometry of mitotic cells. Here, we present a protocol that simulates basal mitosis as two seq...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1061,35 +987,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42898703",
-      "date": "2026-10-05",
-      "title": "Multimodal biomarkers for early detection and immunotherapy assessment in hepatocellular carcinoma: integrating liquid biopsy, AI-based imaging and tumor immune profiling.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
+      "id": "pubmed-42901885",
+      "date": "2026-09-30",
+      "title": "PIP5K-Ras bistability triggers plasma membrane symmetry breaking to define cellular polarity and regulate migration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898703/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901885/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Organoids",
+        "Advanced Disease Models",
         "Precision Oncology",
-        "Multi-omics"
+        "Drug Screening"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "类器官",
+        "疾病模型",
         "肿瘤",
-        "多组学"
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42898703。",
-      "report": "Hepatocellular carcinoma (HCC) commonly develops in chronically diseased liver and remains challenging because of late detection, heterogeneity, recurrence and limited hepatic reserve. Immune checkpoint inhibitor (ICI)-based combinations improve outcomes in ad...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42901885。",
+      "report": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transitio...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1184,6 +1110,100 @@
       "fact": "PubMed 记录显示该文献收录于 Revista medica de Chile，PMID 为 42899609。",
       "report": "Diffuse large B-cell lymphoma (DLBCL) is the most prevalent non-Hodgkin lymphoma subtype. Although R-CHOP remains the standard first-line therapy, up to 30% of patients experience relapse or refractory disease. Currently, therapeutic monitoring relies on imagi...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42901917",
+      "date": "2026-07-25",
+      "title": "Identification and validation of NCOA5-ZCCHC3/FGF22 axis as a prognostic marker in lung adenocarcinoma migration and invasion.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901917/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell death & disease，PMID 为 42901917。",
+      "report": "Lung adenocarcinoma (LUAD), the most common subtype of lung cancer, is associated with substantial global mortality. Nuclear receptor coactivator 5 (NCOA5) has been implicated in several malignancies; however, its functional role and regulatory mechanisms in L...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42902385",
+      "date": "2026-07-24",
+      "title": "Epigenetic modulation of NKG2D ligands enhances NKG2D-CAR T cell efficacy in neuroblastoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902385/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42902385。",
+      "report": "Neuroblastoma (NB) is the most common extracranial solid tumor in children and is associated with high mortality despite aggressive multimodal therapies for high-risk patients. Novel treatments such as CAR T cell therapy offer promise, yet challenges persist d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42902292",
+      "date": "2026-07-24",
+      "title": "Single cell RNA sequencing and emerging transcriptomic technologies in Alzheimer's disease cerebral organoids: a mini review.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902292/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular brain，PMID 为 42902292。",
+      "report": "Alzheimer's disease (AD), the most common cause of dementia worldwide, presents a formidable challenge due to its complex, multifactorial etiology, and limited translational success of existing models. Recent advances in stem cell biology have enabled the gene...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
