@@ -821,6 +821,154 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "sec-0001717115-000119312526427866",
+      "date": "2026-10-21",
+      "title": "Tempus AI filed Form 424B3",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "424B3",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-427866 for Tempus AI, Form 424B3, filed on 2026-10-21.",
+      "report": "SEC metadata describes the primary document as: 424B3.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0c51d847f0f35253006ad932e98e0087d2b75781664c6e1d77",
+        "reviewedAt": "2026-10-21T21:47:20.493545+00:00",
+        "inputHash": "809d6f157cef1abc2e639a07b6e115afa03e1e7854dec44dca24a8082d67d360",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此条记录符合发布标准，内容合理且中立。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合所提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分开清晰，证据水平符合合理范围。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Prospectus",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "424B3",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-427866 for Tempus AI, Form 424B3, filed on 2026-10-21.",
+          "report": "SEC metadata describes the primary document as: 424B3.",
+          "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0000874015-000114036126040388",
+      "date": "2026-10-21",
+      "title": "Ionis Pharmaceuticals filed Form 8-K",
+      "entity": "Ionis Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "IONS"
+      ],
+      "companyIds": [
+        "ionis"
+      ],
+      "fact": "SEC EDGAR lists accession 0001140361-26-040388 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-10-21.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0de619076ce5d8e8006ad932ed6abc87d2a81fb383f0f6c7c3",
+        "reviewedAt": "2026-10-21T21:47:20.493545+00:00",
+        "inputHash": "4871ee0779bef9287d8946added0fc4176d78b4a058375a6b87535b26236e1f9",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文件信息与SEC报告一致，未含治疗建议或市场影响推断。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提交元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断分离明确，证据水平中等合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "RNA Therapeutics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "IONS"
+          ],
+          "fact": "SEC EDGAR lists accession 0001140361-26-040388 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-10-21.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
       "id": "pubmed-42902510",
       "date": "2026-10-20",
       "title": "MZF1 Inhibits TGFβ-1/SMAD Signaling by Transcriptionally Activating SnoN to Augment Tumorigenic Potential in Colon Cancer.",

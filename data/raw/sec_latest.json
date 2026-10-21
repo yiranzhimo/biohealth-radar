@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-21T17:18:01.823212+00:00",
+  "capturedAt": "2026-10-21T21:47:20.238023+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-07",
@@ -139,6 +139,57 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-10-21",
+      "reportDate": "",
+      "acceptanceDateTime": "2026-10-21T20:20:29.000Z",
+      "act": "33",
+      "form": "424B3",
+      "fileNumber": "333-298668",
+      "filmNumber": "261475936",
+      "items": "",
+      "size": 2483288,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "d864810d424b3.htm",
+      "primaryDocDescription": "424B3",
+      "accessionNumber": "0001193125-26-427866",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm"
+    },
+    {
+      "filingDate": "2026-10-21",
+      "reportDate": "2026-10-20",
+      "acceptanceDateTime": "2026-10-21T20:15:17.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "000-19125",
+      "filmNumber": "261475853",
+      "items": "7.01,8.01,9.01",
+      "size": 210357,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ef20084189_8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001140361-26-040388",
+      "companyId": "ionis",
+      "companyName": "Ionis Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "IONS",
+      "cik": "0000874015",
+      "secName": "IONIS PHARMACEUTICALS INC",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm"
+    },
     {
       "filingDate": "2026-10-19",
       "reportDate": "2026-10-19",
@@ -416,6 +467,69 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001717115-000119312526427866",
+      "date": "2026-10-21",
+      "title": "Tempus AI filed Form 424B3",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Prospectus",
+      "eventType": "Offering",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "424B3",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-427866 for Tempus AI, Form 424B3, filed on 2026-10-21.",
+      "report": "SEC metadata describes the primary document as: 424B3.",
+      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0000874015-000114036126040388",
+      "date": "2026-10-21",
+      "title": "Ionis Pharmaceuticals filed Form 8-K",
+      "entity": "Ionis Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "IONS"
+      ],
+      "companyIds": [
+        "ionis"
+      ],
+      "fact": "SEC EDGAR lists accession 0001140361-26-040388 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-10-21.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001674416-000119312526425243",
       "date": "2026-10-19",
