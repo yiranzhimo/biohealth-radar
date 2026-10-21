@@ -4433,15 +4433,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-ca2a41ee3401",
+      "id": "evidence-company-akeso-official-bdc4cdd040c9",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -4457,7 +4457,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ca2a41ee3401f61b12d7de7a262a53a89919be31e0d543350069818a4faf0574.",
+      "fact": "The official page was captured with normalized-content hash bdc4cdd040c9092a4ee1e99007b726285a9ff610646bae03cb74620be08f2c97.",
       "report": "公司官方页面表述：公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
       "reportOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
       "reportCn": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
@@ -4470,8 +4470,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ca2a41ee3401f61b12d7de7a262a53a89919be31e0d543350069818a4faf0574",
-      "changeType": "unchanged",
+      "contentHash": "bdc4cdd040c9092a4ee1e99007b726285a9ff610646bae03cb74620be08f2c97",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -5356,15 +5356,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beone-medicines-official-61d43f99854e",
+      "id": "evidence-company-beone-medicines-official-d609999d0bfe",
       "signalId": null,
       "companyIds": [
         "beone-medicines"
       ],
-      "publishedAt": "2026-09-23",
-      "snapshotDate": "2026-09-23",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -5380,7 +5380,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 61d43f99854e4af7736a8bfe6377987e2e72d0ac761dd06c7496b88ca4662464.",
+      "fact": "The official page was captured with normalized-content hash d609999d0bfe9f3d20f92d2336094b7055fb0ebc28c6872d447734a2d0edb7a9.",
       "report": "公司官方页面表述：BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
       "reportOriginal": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
       "reportCn": "BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
@@ -5393,8 +5393,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "61d43f99854e4af7736a8bfe6377987e2e72d0ac761dd06c7496b88ca4662464",
-      "changeType": "unchanged",
+      "contentHash": "d609999d0bfe9f3d20f92d2336094b7055fb0ebc28c6872d447734a2d0edb7a9",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
@@ -47503,15 +47503,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-guardant-health-official-d53f62164028",
+      "id": "evidence-company-guardant-health-official-1e25833c0777",
       "signalId": null,
       "companyIds": [
         "guardant-health"
       ],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-14",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Guardant Health | Conquering Cancer With Data",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Official Website",
@@ -47527,7 +47527,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash d53f62164028183765b9cf608ed7b76fe09501e8acecbd7c41427dc0534036bc.",
+      "fact": "The official page was captured with normalized-content hash 1e25833c0777be18b6a3c58a9e42a27bb6af460864de2bae96471839f5b76be6.",
       "report": "公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
       "reportOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
       "reportCn": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
@@ -47540,14 +47540,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "d53f62164028183765b9cf608ed7b76fe09501e8acecbd7c41427dc0534036bc",
-      "changeType": "unchanged",
+      "contentHash": "1e25833c0777be18b6a3c58a9e42a27bb6af460864de2bae96471839f5b76be6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
         "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
-        "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
-        "View all of our screening, early-stage cancer, and advanced cancer clinical studies."
+        "October 20, 2026 Guardant Health Highlights Broad Liquid Biopsy Research Portfolio at ESMO Congress 2026",
+        "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data."
       ],
       "businessExcerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
@@ -47670,15 +47670,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-88ab2ea0be50",
+      "id": "evidence-company-illumina-official-cdd3df2ff89e",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-16",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -47694,7 +47694,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 88ab2ea0be50f7a47a25ec6f37959d543d8645a3ae1be269456ee48122ec3fc4.",
+      "fact": "The official page was captured with normalized-content hash cdd3df2ff89ebfeaa1a37ed8835e49b3c42eff43e00c8ce35b19ba60f5a5f828.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -47707,8 +47707,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "88ab2ea0be50f7a47a25ec6f37959d543d8645a3ae1be269456ee48122ec3fc4",
-      "changeType": "unchanged",
+      "contentHash": "cdd3df2ff89ebfeaa1a37ed8835e49b3c42eff43e00c8ce35b19ba60f5a5f828",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -48064,15 +48064,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-9ba52f9d0691",
+      "id": "evidence-company-ionis-official-a6b5f32b25c3",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-10-18",
-      "snapshotDate": "2026-10-18",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -48088,7 +48088,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9ba52f9d0691777aff0fe16115917e860d286020da9897c76b2e316e211c38c8.",
+      "fact": "The official page was captured with normalized-content hash a6b5f32b25c3528b6dba13e0e5efb36961250bd6e330cc1f69c85c7b0dff1c1c.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -48101,8 +48101,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9ba52f9d0691777aff0fe16115917e860d286020da9897c76b2e316e211c38c8",
-      "changeType": "unchanged",
+      "contentHash": "a6b5f32b25c3528b6dba13e0e5efb36961250bd6e330cc1f69c85c7b0dff1c1c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -48342,15 +48342,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-mimetas-official-1201d3291c3d",
+      "id": "evidence-company-mimetas-official-f9a42b3eb390",
       "signalId": null,
       "companyIds": [
         "mimetas"
       ],
-      "publishedAt": "2026-10-18",
-      "snapshotDate": "2026-10-18",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -48366,7 +48366,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 1201d3291c3d4d0dd4e44d4d06dfdf1e9972425a943b299d97a519af402b80c0.",
+      "fact": "The official page was captured with normalized-content hash f9a42b3eb3907c1e0c7518fdbce3e73e03dfe40d7fa672db0e75fc4d690e829e.",
       "report": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "reportOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "reportCn": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
@@ -48379,8 +48379,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "1201d3291c3d4d0dd4e44d4d06dfdf1e9972425a943b299d97a519af402b80c0",
-      "changeType": "unchanged",
+      "contentHash": "f9a42b3eb3907c1e0c7518fdbce3e73e03dfe40d7fa672db0e75fc4d690e829e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -48681,7 +48681,7 @@
       "publishedAt": "2026-10-19",
       "snapshotDate": "2026-10-19",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -48711,7 +48711,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "803ef9314eca41633ae4766ae52f425777552edab44c0c33d53816f740ad4772",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -48990,7 +48990,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bf502f76aad98396272b2409238971579be0c206bb25646270ad1a9af00b4d94",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -49066,13 +49066,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-fffbdbc2b208",
+      "id": "evidence-company-oxford-nanopore-official-e981c4e8f214",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-10-19",
-      "snapshotDate": "2026-10-19",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Welcome to Oxford Nanopore Technologies",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -49090,7 +49090,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash fffbdbc2b20842a4a93f6d527d9f2f9f2c38ae9aed30b0300974e4cf7ce2b49e.",
+      "fact": "The official page was captured with normalized-content hash e981c4e8f214d3f6b0ef1feca737ebb383e85b464ddf392326dcda84444a382e.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -49103,7 +49103,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "fffbdbc2b20842a4a93f6d527d9f2f9f2c38ae9aed30b0300974e4cf7ce2b49e",
+      "contentHash": "e981c4e8f214d3f6b0ef1feca737ebb383e85b464ddf392326dcda84444a382e",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -49112,7 +49112,9 @@
         "Search Oxford Nanopore Technologies Which site do you wish to search in?",
         "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
-      "businessExcerpts": [],
+      "businessExcerpts": [
+        "Appointment of Chief Business Development Officer"
+      ],
       "productExcerpts": [
         "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
       ],
@@ -49346,15 +49348,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-retro-biosciences-official-7bd186323220",
+      "id": "evidence-company-retro-biosciences-official-973c041d129b",
       "signalId": null,
       "companyIds": [
         "retro-biosciences"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-21",
       "title": "Retro Biosciences | Healthy Human Lifespan",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Retro Biosciences — Official Website",
@@ -49370,7 +49372,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083.",
+      "fact": "The official page was captured with normalized-content hash 973c041d129bb53db26ac4565bf38863fa53728035515136fb25a4797ee217fd.",
       "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
@@ -49383,8 +49385,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083",
-      "changeType": "unchanged",
+      "contentHash": "973c041d129bb53db26ac4565bf38863fa53728035515136fb25a4797ee217fd",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
