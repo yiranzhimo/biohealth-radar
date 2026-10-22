@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-10-21T21:47:20.238023+00:00",
+  "capturedAt": "2026-10-22T04:57:31.368017+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-07",
-    "end": "2026-10-21"
+    "start": "2026-10-08",
+    "end": "2026-10-22"
   },
   "forms": [
     "10-K",
@@ -142,7 +142,7 @@
     {
       "filingDate": "2026-10-21",
       "reportDate": "",
-      "acceptanceDateTime": "2026-10-21T20:20:29.000Z",
+      "acceptanceDateTime": "2026-10-22T00:20:29.000Z",
       "act": "33",
       "form": "424B3",
       "fileNumber": "333-298668",
@@ -168,7 +168,7 @@
     {
       "filingDate": "2026-10-21",
       "reportDate": "2026-10-20",
-      "acceptanceDateTime": "2026-10-21T20:15:17.000Z",
+      "acceptanceDateTime": "2026-10-22T00:15:17.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "000-19125",
@@ -439,31 +439,6 @@
       "cik": "0001549595",
       "secName": "Nurix Therapeutics, Inc.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000048/nrix-20261012.htm"
-    },
-    {
-      "filingDate": "2026-10-07",
-      "reportDate": "2026-10-07",
-      "acceptanceDateTime": "2026-10-07T20:27:38.000Z",
-      "act": "34",
-      "form": "6-K",
-      "fileNumber": "001-38976",
-      "filmNumber": "261446242",
-      "items": "",
-      "size": 110420,
-      "isXBRL": 0,
-      "isInlineXBRL": 0,
-      "primaryDocument": "gmab_20261007x6k.htm",
-      "primaryDocDescription": "6-K",
-      "accessionNumber": "0001434265-26-000134",
-      "companyId": "genmab",
-      "companyName": "Genmab",
-      "companyDirections": [
-        "Antibody / ADC"
-      ],
-      "secTicker": "GMAB",
-      "cik": "0001434265",
-      "secName": "GENMAB A/S",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm"
     }
   ],
   "signals": [
@@ -837,37 +812,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0001549595-26-000048 for Nurix Therapeutics, Form 8-K, filed on 2026-10-13.",
       "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001434265-000143426526000134",
-      "date": "2026-10-07",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000134/gmab_20261007x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000134 for Genmab, Form 6-K, filed on 2026-10-07.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
