@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-10-07T11:20:26+00:00",
-  "sourceCapturedAt": "2026-10-07T11:17:55+00:00",
+  "capturedAt": "2026-10-22T09:36:10+00:00",
+  "sourceCapturedAt": "2026-10-22T09:34:53+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -4970,6 +4970,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0b29899af36cf068006a7ab558587881a3bd97bd35619c5946"
+    },
+    {
+      "id": "translation-eda5bdfcbd54f6e4",
+      "sourceTextHash": "eda5bdfcbd54f6e4354f6ff90e92bde0657aab18438ea16d3c660fe2296bd9f6",
+      "sourceText": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
+      "sourceUses": [
+        {
+          "companyId": "akeso",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "Akeso宣布Summit Therapeutics和ECOG-ACRIN癌症研究小组达成II/III期临床试验合作，以评估Ivonescimab在一线胆道癌中的应用。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-10-22T09:36:10+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_0ccfb3645ca0fbe3006ad9d90b078087d18c50eb3392f77f00"
     },
     {
       "id": "translation-ef28e796e61ee048",

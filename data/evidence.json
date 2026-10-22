@@ -4532,13 +4532,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-bdc4cdd040c9",
+      "id": "evidence-company-akeso-official-507deb492061",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-21",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Akeso, Inc | Home",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -4556,27 +4556,27 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash bdc4cdd040c9092a4ee1e99007b726285a9ff610646bae03cb74620be08f2c97.",
-      "report": "公司官方页面表述：公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
-      "reportOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-      "reportCn": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
+      "fact": "The official page was captured with normalized-content hash 507deb4920611dfb109d51887cb52ba4fa6ff0aadb24f841275de13239c6f8be.",
+      "report": "公司官方页面表述：Akeso宣布Summit Therapeutics和ECOG-ACRIN癌症研究小组达成II/III期临床试验合作，以评估Ivonescimab在一线胆道癌中的应用。",
+      "reportOriginal": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
+      "reportCn": "Akeso宣布Summit Therapeutics和ECOG-ACRIN癌症研究小组达成II/III期临床试验合作，以评估Ivonescimab在一线胆道癌中的应用。",
       "translation": {
         "status": "translated",
         "provider": "openai",
         "model": "gpt-4o-mini",
-        "translatedAt": "2026-08-26T05:08:48+00:00",
-        "sourceTextHash": "75cf7f9e89c832bc7c40f17d6b7578f1bfcc4b830a2754e67b577f5e3208d66a"
+        "translatedAt": "2026-10-22T09:36:10+00:00",
+        "sourceTextHash": "eda5bdfcbd54f6e4354f6ff90e92bde0657aab18438ea16d3c660fe2296bd9f6"
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bdc4cdd040c9092a4ee1e99007b726285a9ff610646bae03cb74620be08f2c97",
+      "contentHash": "507deb4920611dfb109d51887cb52ba4fa6ff0aadb24f841275de13239c6f8be",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
         "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-        "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…"
+        "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform)."
       ],
       "businessExcerpts": [
         "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
@@ -4592,15 +4592,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-alnylam-investor_relations-87f19ce1ebb2",
+      "id": "evidence-company-alnylam-investor_relations-698b788f631a",
       "signalId": null,
       "companyIds": [
         "alnylam"
       ],
-      "publishedAt": "2026-10-07",
-      "snapshotDate": "2026-10-07",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Information and Resources for Investors | Alnylam",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Alnylam Pharmaceuticals — Investor Relations Page",
@@ -4616,7 +4616,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 87f19ce1ebb28c438784f2b89a4eb3d5eebce68bc98e6c177f28f22f218b44b3.",
+      "fact": "The official page was captured with normalized-content hash 698b788f631a33a74479dc87053ad2d157651e32a5d13c38d30e7616898c896a.",
       "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
       "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
@@ -4629,12 +4629,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "87f19ce1ebb28c438784f2b89a4eb3d5eebce68bc98e6c177f28f22f218b44b3",
-      "changeType": "unchanged",
+      "contentHash": "698b788f631a33a74479dc87053ad2d157651e32a5d13c38d30e7616898c896a",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
-        "Alnylam Presents New Data at ESC Congress 2026 Reinforcing Strength in RNAi-Powered TTR Silencing Across ATTR-CM Patient Populations and Treatment Settings",
+        "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
         "Alnylam to Webcast Presentations at Upcoming September Investor Conferences",
         "Visit our social channels to learn more about the innovative work we are doing at Alnylam."
       ],
@@ -5463,7 +5463,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -5493,7 +5493,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d609999d0bfe9f3d20f92d2336094b7055fb0ebc28c6872d447734a2d0edb7a9",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
@@ -47551,15 +47551,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-guardant-health-investor_relations-f157425f10df",
+      "id": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
       "signalId": null,
       "companyIds": [
         "guardant-health"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "For Investors | Guardant Health Investor Relations",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Investor Relations Page",
@@ -47575,7 +47575,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash f157425f10df69f5aef4c0891e61e4ab4567dfab8f45212997222a0daef48e72.",
+      "fact": "The official page was captured with normalized-content hash 06bf2888d5b1b781445716cc33c25f51fd26ffa8d567e50b24cbb5a1b5a7f3df.",
       "report": "公司官方页面表述：通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。",
       "reportOriginal": "Stay informed with Guardant Health's Investor Relations. Access financial reports, upcoming events, and key updates on our mission.",
       "reportCn": "通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。",
@@ -47588,17 +47588,20 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f157425f10df69f5aef4c0891e61e4ab4567dfab8f45212997222a0daef48e72",
-      "changeType": "unchanged",
+      "contentHash": "06bf2888d5b1b781445716cc33c25f51fd26ffa8d567e50b24cbb5a1b5a7f3df",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Stay informed with Guardant Health's Investor Relations.",
         "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures.",
-        "Access financial reports, upcoming events, and key updates on our mission.",
-        "Investor Alert Options * News Quarterly Reports Annual Reports SEC Filings End of Day Stock Quote Events & Presentations"
+        "Access financial reports, upcoming events, and key updates on our mission."
       ],
-      "businessExcerpts": [],
-      "productExcerpts": [],
+      "businessExcerpts": [
+        "Access financial reports, upcoming events, and key updates on our mission."
+      ],
+      "productExcerpts": [
+        "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures."
+      ],
       "planExcerpts": []
     },
     {
@@ -47610,7 +47613,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "Guardant Health | Conquering Cancer With Data",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Official Website",
@@ -47640,7 +47643,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "1e25833c0777be18b6a3c58a9e42a27bb6af460864de2bae96471839f5b76be6",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
@@ -47777,7 +47780,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -47807,7 +47810,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "cdd3df2ff89ebfeaa1a37ed8835e49b3c42eff43e00c8ce35b19ba60f5a5f828",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -47830,15 +47833,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-pipeline-dda577433e9a",
+      "id": "evidence-company-illumina-pipeline-3e2858fee81b",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Lab Instruments | Illumina",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Pipeline Page",
@@ -47854,7 +47857,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash dda577433e9a8e8bc684b9ffeeb19900720a07ef20c8e7896b325f511a07199e.",
+      "fact": "The official page was captured with normalized-content hash 3e2858fee81b93d7cf5aec24c23a52db3d573f455d027553494f736d5fbe6ff2.",
       "report": "公司官方页面表述：探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。",
       "reportOriginal": "Explore the Illumina portfolio of lab instruments offering proven, innovative technology for a wide range of throughput and application needs.",
       "reportCn": "探索Illumina实验室仪器的产品组合，提供经过验证的创新技术，以满足广泛的通量和应用需求。",
@@ -47867,8 +47870,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "dda577433e9a8e8bc684b9ffeeb19900720a07ef20c8e7896b325f511a07199e",
-      "changeType": "unchanged",
+      "contentHash": "3e2858fee81b93d7cf5aec24c23a52db3d573f455d027553494f736d5fbe6ff2",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Doing Business With Us MyIllumina Platform",
@@ -48171,7 +48174,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -48201,7 +48204,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a6b5f32b25c3528b6dba13e0e5efb36961250bd6e330cc1f69c85c7b0dff1c1c",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis recognized as a Top 3 Best Place to Work by San Diego Business Journal",
@@ -48449,7 +48452,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -48479,7 +48482,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f9a42b3eb3907c1e0c7518fdbce3e73e03dfe40d7fa672db0e75fc4d690e829e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -48499,15 +48502,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-mimetas-pipeline-eb331a18de27",
+      "id": "evidence-company-mimetas-pipeline-77204469585c",
       "signalId": null,
       "companyIds": [
         "mimetas"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Organ-on-a-Chip Technology | OrganoPlate® Platform by MIMETAS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Pipeline Page",
@@ -48523,7 +48526,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash eb331a18de27eae5467e32705481457a225ed6f4ff6d634a81221aadb700f0af.",
+      "fact": "The official page was captured with normalized-content hash 77204469585cc42f75fc5429fd837801f8c8f3be21b8fab84ee1c24045171f2c.",
       "report": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
       "reportOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
       "reportCn": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
@@ -48536,8 +48539,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "eb331a18de27eae5467e32705481457a225ed6f4ff6d634a81221aadb700f0af",
-      "changeType": "unchanged",
+      "contentHash": "77204469585cc42f75fc5429fd837801f8c8f3be21b8fab84ee1c24045171f2c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
@@ -48938,13 +48941,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-pipeline-ca9c05c3bb02",
+      "id": "evidence-company-nurix-pipeline-aefedb6a65da",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-15",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -48962,7 +48965,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash ca9c05c3bb02c4e043cc482f44533f092ebdcb2c386e83491c328068eeac100d.",
+      "fact": "The official page was captured with normalized-content hash aefedb6a65da220a696fb17eb30ad53643cb3a51a06b33f0c4a017ef3b6826ef.",
       "report": "公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
       "reportOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.",
       "reportCn": "Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
@@ -48975,7 +48978,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ca9c05c3bb02c4e043cc482f44533f092ebdcb2c386e83491c328068eeac100d",
+      "contentHash": "aefedb6a65da220a696fb17eb30ad53643cb3a51a06b33f0c4a017ef3b6826ef",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -49089,7 +49092,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bf502f76aad98396272b2409238971579be0c206bb25646270ad1a9af00b4d94",
       "changeType": "unchanged",
-      "lastCheckStatus": "failed",
+      "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "Nykode Therapeutics Presents Comprehensive Preclinical Data, Optimized Manufacturing, and ...",
@@ -49173,7 +49176,7 @@
       "publishedAt": "2026-10-21",
       "snapshotDate": "2026-10-21",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -49203,7 +49206,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e981c4e8f214d3f6b0ef1feca737ebb383e85b464ddf392326dcda84444a382e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -49220,15 +49223,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-pipeline-f611c963a9b5",
+      "id": "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-09-30",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Oxford Nanopore Technologies Platform Solution",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Pipeline Page",
@@ -49244,7 +49247,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash f611c963a9b52ad6c829e873506f6d6aae2c84c66b443e739a405d4851d27af1.",
+      "fact": "The official page was captured with normalized-content hash 4b9be1e95e506624d2203946711c2dad6918efdd6a487b28aebd39266103145a.",
       "report": "公司官方页面表述：发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
       "reportOriginal": "Discover the benefits of nanopore sequencing and find out which sequencing device is right for your output requirements.",
       "reportCn": "发现纳米孔测序的优势，并找出哪种测序设备适合您的输出需求。",
@@ -49257,8 +49260,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f611c963a9b52ad6c829e873506f6d6aae2c84c66b443e739a405d4851d27af1",
-      "changeType": "unchanged",
+      "contentHash": "4b9be1e95e506624d2203946711c2dad6918efdd6a487b28aebd39266103145a",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
@@ -49386,15 +49389,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-recursion-pipeline-949dcf6f0c4e",
+      "id": "evidence-company-recursion-pipeline-f4c3ef602fcc",
       "signalId": null,
       "companyIds": [
         "recursion"
       ],
-      "publishedAt": "2026-10-07",
-      "snapshotDate": "2026-10-07",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Recursion's Drug Discovery Pipeline | Recursion",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Pipeline Page",
@@ -49410,7 +49413,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 949dcf6f0c4e31fd2d57410bb11092afe449f06f486432be4bb844acd46a4c5f.",
+      "fact": "The official page was captured with normalized-content hash f4c3ef602fcc7111427f0e7538968098f3b28568bf21c71a633f8816f120eed6.",
       "report": "公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。",
       "reportOriginal": "Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today!",
       "reportCn": "探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。",
@@ -49423,18 +49426,18 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "949dcf6f0c4e31fd2d57410bb11092afe449f06f486432be4bb844acd46a4c5f",
-      "changeType": "unchanged",
+      "contentHash": "f4c3ef602fcc7111427f0e7538968098f3b28568bf21c71a633f8816f120eed6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease expected to enter Phase 1 clinical trials in 2027",
         "Explore Recursion's dynamic drug discovery pipeline.",
-        "We will consider applications to provide the investigational drug that will not, among other things, compromise the scientific validity of our broader development programs, or interfere with or delay clinical trials or regulatory filings designed to make the drug available to a…",
-        "Our leading AI-driven drug discovery pipeline",
-        "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets."
+        "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease, with Phase 1 planned for 2027",
+        "We will consider applications to provide the investigational drug that will not, among other things, compromise the scientific validity of our broader development programs, or interfere with or delay clinical trials or regulatory filings designed to make the drug available to a…"
       ],
       "businessExcerpts": [
         "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets.",
-        "Investor Relations ESG Download Day Company Materials",
+        "Investor Relations ESG Company Materials",
         "We believe that the best way to succeed in our mission is through well-designed clinical trials that determine the safety and effectiveness of investigational medicines.",
         "At Recursion Pharmaceuticals, we are committed to radically improving the lives of patients and their families by developing therapies that will make a lasting, positive, and transformative impact on diseases and conditions for which there are high unmet needs."
       ],
@@ -49447,13 +49450,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-retro-biosciences-official-973c041d129b",
+      "id": "evidence-company-retro-biosciences-official-971d76784d6a",
       "signalId": null,
       "companyIds": [
         "retro-biosciences"
       ],
-      "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-21",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Retro Biosciences | Healthy Human Lifespan",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -49471,7 +49474,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 973c041d129bb53db26ac4565bf38863fa53728035515136fb25a4797ee217fd.",
+      "fact": "The official page was captured with normalized-content hash 971d76784d6a1090eb889e957e1f66a82e8797f5bf258e2afef7e477abccd52c.",
       "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
@@ -49484,32 +49487,32 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "973c041d129bb53db26ac4565bf38863fa53728035515136fb25a4797ee217fd",
+      "contentHash": "971d76784d6a1090eb889e957e1f66a82e8797f5bf258e2afef7e477abccd52c",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
-        "Retro aspires to be a generational pharma company proportional to the scale of our mission.",
         "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-        "Retro Biosciences develops therapies that meaningfully reverse age-related diseases."
+        "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
+        "We’re building a generational pharma company.",
+        "We run a portfolio of programs rather than betting on one."
       ],
       "businessExcerpts": [
-        "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
-        "Retro aspires to be a generational pharma company proportional to the scale of our mission."
+        "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
+        "We’re building a generational pharma company."
       ],
       "productExcerpts": [],
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-retro-biosciences-pipeline-7bd186323220",
+      "id": "evidence-company-retro-biosciences-pipeline-971d76784d6a",
       "signalId": null,
       "companyIds": [
         "retro-biosciences"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-10-22",
+      "snapshotDate": "2026-10-22",
       "title": "Retro Biosciences | Healthy Human Lifespan",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Retro Biosciences — Pipeline Page",
@@ -49525,7 +49528,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083.",
+      "fact": "The official page was captured with normalized-content hash 971d76784d6a1090eb889e957e1f66a82e8797f5bf258e2afef7e477abccd52c.",
       "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
@@ -49538,18 +49541,18 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7bd18632322012adbac1757ca2fff38dcbf597718c8dcabe8c4c1ea30fccd083",
-      "changeType": "unchanged",
+      "contentHash": "971d76784d6a1090eb889e957e1f66a82e8797f5bf258e2afef7e477abccd52c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
-        "Retro aspires to be a generational pharma company proportional to the scale of our mission.",
         "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-        "Retro Biosciences develops therapies that meaningfully reverse age-related diseases."
+        "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
+        "We’re building a generational pharma company.",
+        "We run a portfolio of programs rather than betting on one."
       ],
       "businessExcerpts": [
-        "We focus on cellular drivers of aging to design therapeutics that will eventually prevent & reverse age-related diseases.",
-        "Retro aspires to be a generational pharma company proportional to the scale of our mission."
+        "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
+        "We’re building a generational pharma company."
       ],
       "productExcerpts": [],
       "planExcerpts": []
