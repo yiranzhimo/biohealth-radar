@@ -5704,7 +5704,7 @@
     },
     {
       "companyId": "candidate-agenus",
-      "name": "Agenus Inc.",
+      "name": "Agenus Inc",
       "asOfDate": "2026-10-22",
       "profileStatus": "partial",
       "identity": {
@@ -5731,12 +5731,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"

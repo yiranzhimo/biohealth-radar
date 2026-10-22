@@ -4,102 +4,110 @@
   "asOfDate": "2026-10-22",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1ce639be9651c9a1",
-      "observedName": "NovoCure Ltd.",
-      "normalizedName": "novocure",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06136611",
-      "sourceDate": "2026-05-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06136611",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Preoperative Preradiotherapy TTFields"
-    },
-    {
-      "id": "mention-clinicaltrials-b21d4d97b1bd7de8",
-      "observedName": "Agenus Inc.",
-      "normalizedName": "agenus",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06076837",
-      "sourceDate": "2026-06-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06076837",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "The Seven Trial: Exploiting the Unfolded Protein Response"
-    },
-    {
-      "id": "mention-clinicaltrials-d29b03a978ba4670",
+      "id": "mention-clinicaltrials-0a340ea04d2eefed",
       "observedName": "Novartis Pharmaceuticals",
       "normalizedName": "novartis pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02565511",
-      "sourceDate": "2021-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02565511",
+      "sourceRecordId": "NCT00375505",
+      "sourceDate": "2015-09-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00375505",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "乳腺癌",
+        "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of CAD106 and CNP520 Versus Placebo in Participants at Risk for the Onset of Clinical Symptoms of Alzheimer's Disease"
+      "contextTitle": "The Safety and Efficacy of Zoledronic Acid in the Prevention of Cancer Therapy Induced Bone Loss"
     },
     {
-      "id": "mention-clinicaltrials-f2a6cf981b1a59b7",
-      "observedName": "Truway Health, Inc.",
-      "normalizedName": "truway health",
+      "id": "mention-clinicaltrials-507724f641a0269e",
+      "observedName": "VUNO Inc.",
+      "normalizedName": "vuno",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07805044",
-      "sourceDate": "2026-09-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07805044",
+      "sourceRecordId": "NCT07378956",
+      "sourceDate": "2026-04-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07378956",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
-        "biomarker",
+        "Healthcare AI",
+        "Medical AI",
+        "Recruiting",
+        "临床决策支持",
         "临床试验",
-        "衰老"
+        "医疗 AI"
       ],
       "activitySignals": [
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Truway Whole-Body Digital Twin and Physiologic Resilience Study (TRU-OMNIBODY)"
+      "contextTitle": "Clinical Efficacy of Implementing an AI-SaMD for Funduscopy Analysis in Patients With Diabetes Mellitus"
+    },
+    {
+      "id": "mention-clinicaltrials-96ac0ba6d22f5634",
+      "observedName": "Beijing Immunochina Medical Science & Technology Co., Ltd.",
+      "normalizedName": "beijing immunochina medical science and technology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04537442",
+      "sourceDate": "2020-09-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04537442",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Oncology",
+        "中国",
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Clinical Study to Evaluate the Safety and Efficacy of IM21 CAR-T Cells in the Treatment of Elderly Patients With Relapsed or Refractory Multiple Myeloma"
+    },
+    {
+      "id": "mention-clinicaltrials-f6666da397cf1e8d",
+      "observedName": "Janssen Research & Development, LLC",
+      "normalizedName": "janssen research and development",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01724346",
+      "sourceDate": "2024-09-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01724346",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
