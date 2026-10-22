@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-22T04:57:22.099371+00:00",
+  "capturedAt": "2026-10-22T12:00:42.993178+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -127,7 +127,8 @@
       "abstract": "An initial break in plasma membrane symmetry triggers hundreds of spatiotemporally controlled signaling and cytoskeletal events that regulate cell polarization during migration and macropinocytosis. However, the mechanism driving this self-organizing transition remains unknown. Using Dictyostelium amoebae, leukocytes, cancer cells, and 3D organoids, we show that mutual antagonism between activated Ras and phosphatidylinositol 4-phosphate 5-kinase (PIP5K) forms a positive feedback loop fundamental to symmetry breaking and cell polarity. Through dynamic localization mapping, optogenetic perturbation, RasGEF screening, and single-molecule tracking, we reveal that localized Ras activation shortens the membrane lifetime of PIP5K, lowering local PI(4,5)P2, while recruited RasGEF amplifies Ras activation. Dissociated PIP5K redistributes to other membrane domains, suppressing local Ras activation and intrinsically segregating the membrane into complementary activated and inactivated zones, independent of receptor inputs or cytoskeletal dynamics. Incorporating this feedback loop into an excitable network integrated with a reaction-diffusion model and a viscoelastic framework yielded computational simulations that accurately predict spatiotemporal self-organization and polarized cell movement.",
       "journal": "Nature communications",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
       ],
       "affiliations": [
         "Department of Cell Biology and Center for Cell Dynamics, School of Medicine, Johns Hopkins University, Baltimore, MD, USA.",
