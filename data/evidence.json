@@ -1,52 +1,112 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_evidence",
-  "asOfDate": "2026-10-22",
+  "asOfDate": "2026-10-23",
   "evidence": [
     {
-      "id": "evidence-pubmed-42904985",
-      "signalId": "pubmed-42904985",
+      "id": "evidence-pubmed-42907531",
+      "signalId": "pubmed-42907531",
       "companyIds": [],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
-      "title": "Recombinant Lactococcus lactis Expressing IFN-γ Alleviates Viral Enteritis via Microbial and Metabolic Modulation.",
+      "snapshotDate": "2026-10-23",
+      "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42904985/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907531/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42907531。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42906857",
+      "signalId": "pubmed-42906857",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Automated Spheroid and Organoid Image Analysis from Rule-Based Methods to Deep Learning.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906857/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 SLAS discovery : advancing life sciences R & D，PMID 为 42906857。",
+      "report": "The increased adoption of three-dimensional (3D) cultures in high-content screening has created an analytical bottleneck in image analysis, prompting the development of automated image analysis tools. This review examines the evolution of automated tools for a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42906827",
+      "signalId": "pubmed-42906827",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Microbiota-Taurine Pathway Links Dietary Fiber to Mucosal Healing.",
+      "eventType": "Clinical Study",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906827/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": false,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
         "Clinical Evidence",
-        "Regulatory Watch"
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "临床",
-        "监管"
+        "监管",
+        "药筛"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of agricultural and food chemistry，PMID 为 42904985。",
-      "report": "Viral enteritis severely impacts the animal industry. Current vaccines and antibiotics have limited efficacy due to virus mutation, drug resistance, and side effects. This study developed an edible lactic acid bacteria (LAB) delivery system, constructing a rec...",
+      "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42906827。",
+      "report": "Dietary fibers modulate host-microbiota interactions. Whether fiber promotes epithelial repair through microbiota-dependent mechanisms remains unclear. We determined how alginate influences colitis recovery and whether the pathway is relevant to ulcerative col...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42904902",
-      "signalId": "pubmed-42904902",
+      "id": "evidence-pubmed-42906763",
+      "signalId": "pubmed-42906763",
       "companyIds": [],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
-      "title": "Cuproptosis-based nanomedicine targeting metabolic vulnerabilities for cancer therapy.",
+      "snapshotDate": "2026-10-23",
+      "title": "Navigating the landscape of stem cell therapeutics: Overcoming translational hurdles via emerging technologies and regulatory frontiers.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42904902/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906763/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -64,37 +124,184 @@
         "监管",
         "肿瘤"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Nanomedicine (London, England)，PMID 为 42904902。",
-      "report": "Cancer remains the leading cause of mortality worldwide, with metastatic disease accounting for the majority of cancer-related deaths. Despite advances in conventional therapies, the outcome for patients with advanced malignancies remains poor due to tumor het...",
+      "fact": "PubMed 记录显示该文献收录于 Pharmacology & therapeutics，PMID 为 42906763。",
+      "report": "Global population aging has increased the incidence of intractable diseases. Accordingly, regenerative medicine using stem cell therapies offers a critical shift from symptom management to functional tissue restoration. Hematopoietic, mesenchymal, and pluripot...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42904636",
-      "signalId": "pubmed-42904636",
+      "id": "evidence-pubmed-42907516",
+      "signalId": "pubmed-42907516",
       "companyIds": [],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
-      "title": "Modelling herpes simplex virus type 2 and Zika virus replication in mouse vaginal organoids and human vaginal spheroids.",
+      "snapshotDate": "2026-10-23",
+      "title": "Programmable design of functional proteins from natural language.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42904636/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907516/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
-      "fact": "PubMed 记录显示该文献收录于 Microbiology spectrum，PMID 为 42904636。",
-      "report": "Sexually transmitted viral infections disproportionately affect women and have adverse outcomes on maternal and fetal health. Since they are acquired through the vaginal tract, the vaginal epithelium is an important site to study host-viral interactions. An in...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42907516。",
+      "report": "Programming biological function-designing bespoke proteins to perform specified molecular tasks-is a foundational goal of molecular engineering. However, current design models remain fundamentally limited1-3: they typically require either natural proteins as s...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42906913",
+      "signalId": "pubmed-42906913",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906913/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 42906913。",
+      "report": "The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42905563",
+      "signalId": "pubmed-42905563",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Structure of a sparsely populated chimeric intermediate that facilitates fold-switching of a metamorphic protein.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905563/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42905563。",
+      "report": "Metamorphic proteins challenge the single-sequence-structure-function paradigm by switching between distinct folds that often adopt complementary functions. However, the conformational states sampled along the fold-switching pathway have remained elusive becau...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42906787",
+      "signalId": "pubmed-42906787",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Mitochondrial DNA mediated Kupffer cell activation in the pathogenesis and progression of liver diseases.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906787/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Autoimmunity reviews，PMID 为 42906787。",
+      "report": "The liver serves as a pivotal metabolic and immunological hub, yet its homeostatic equilibrium is highly susceptible to mitochondrial dysfunction. Recent studies have implicated mitochondrial DNA (mtDNA) as an important damage-associated molecular pattern (DAM...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42905206",
+      "signalId": "pubmed-42905206",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Inferring tissue origin from cell-free DNA in metastatic cancer.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905206/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42905206。",
+      "report": "A major clinical challenge in metastatic cancer management is determining not only the presence of tumor-derived cell-free DNA (cfDNA) but also the tissue lineage and organ context reflected by circulating cfDNA signals. CfDNA supports such inference by retain...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42905185",
+      "signalId": "pubmed-42905185",
+      "companyIds": [],
+      "publishedAt": "2026-10-21",
+      "snapshotDate": "2026-10-23",
+      "title": "GSTP1 promoter hypermethylation in prostate cancer detection: current evidence, clinical positioning, and translational gaps.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905185/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42905185。",
+      "report": "GSTP1 promoter hypermethylation is one of the most consistently documented molecular alterations in prostate cancer, with high prevalence in malignant tissue and a well-established relationship with transcriptional silencing. However, despite more than two dec...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -102,7 +309,7 @@
       "signalId": "clinicaltrials-NCT07886996",
       "companyIds": [],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "AI-Based CT Analysis of Coronary Plaque Evolution",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -136,7 +343,7 @@
         "tempus-ai"
       ],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Tempus AI filed Form 424B3",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -168,7 +375,7 @@
         "ionis"
       ],
       "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -193,41 +400,11 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42904354",
-      "signalId": "pubmed-42904354",
-      "companyIds": [],
-      "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
-      "title": "Pharmacogenetic Determinants of Chemotherapy Response in Breast Cancer: A Comprehensive Review of Chemotherapeutic Agents.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42904354/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Annals of African medicine，PMID 为 42904354。",
-      "report": "Tumor organoids and pharmacogenetic profiling represent two rapidly advancing tools in precision oncology. Organoids provide physiologically relevant three-dimensional models that retain the genomic, architectural and functional features of patient tumors, ena...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42899582",
       "signalId": "pubmed-42899582",
       "companyIds": [],
       "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Editing Enzymes with Multiscale Metal-Based Components.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
@@ -252,168 +429,13 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42902833",
-      "signalId": "pubmed-42902833",
-      "companyIds": [],
-      "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
-      "title": "Diagnostic Performance of cfDNA-Based Liquid Biopsy for Hepatocellular Carcinoma: A Systematic Review and Meta-Analysis.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902833/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Cancer science，PMID 为 42902833。",
-      "report": "Conventional surveillance tools for hepatocellular carcinoma (HCC) have limited sensitivity. Circulating cell-free DNA (cfDNA)-based liquid biopsy is a promising minimally invasive approach; however, its overall diagnostic performance remains unclear. This met...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42902326",
-      "signalId": "pubmed-42902326",
-      "companyIds": [],
-      "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
-      "title": "Cancer metastasis: biological mechanisms, therapeutic bottlenecks, and emerging interventions.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42902326/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of hematology & oncology，PMID 为 42902326。",
-      "report": "Metastatic cancer remains a major clinical challenge, which is driven by the continuous adaptation of disseminated tumor cells to diverse tissue environments and therapeutic pressures. Although current treatments, including conventional therapies, small-molecu...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42900864",
-      "signalId": "pubmed-42900864",
-      "companyIds": [],
-      "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
-      "title": "Association of Circulating Eosinophils With Systemic Immune Activation and Reduced Recurrence in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900864/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Journal of clinical oncology : official journal of the American Society of Clinical Oncology，PMID 为 42900864。",
-      "report": "Hormone receptor-positive/human epidermal growth factor receptor 2-negative (HER2-) breast cancer, the most common subtype, lacks simple, noninvasive biomarkers for recurrence. We evaluated circulating eosinophil count as a clinically applicable biomarker for...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42900500",
-      "signalId": "pubmed-42900500",
-      "companyIds": [],
-      "publishedAt": "2026-10-20",
-      "snapshotDate": "2026-10-22",
-      "title": "Site-Specific Outcomes and Genomics in Metastatic Pancreatic Ductal Adenocarcinoma.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42900500/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The oncologist，PMID 为 42900500。",
-      "report": "Clinical and molecular features of pancreatic adenocarcinoma (PDAC) according to involved metastatic sites have not been well characterized. We used the Foundry platform to query information for patients with metastatic PDAC at MD Anderson Cancer Center. Invol...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42895482",
-      "signalId": "pubmed-42895482",
-      "companyIds": [],
-      "publishedAt": "2026-10-19",
-      "snapshotDate": "2026-10-22",
-      "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895482/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Genomics, proteomics & bioinformatics，PMID 为 42895482。",
-      "report": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engin...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001674416-000119312526425243",
       "signalId": "sec-0001674416-000119312526425243",
       "companyIds": [
         "crispr-therapeutics"
       ],
       "publishedAt": "2026-10-19",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "CRISPR Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -438,44 +460,11 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42885407",
-      "signalId": "pubmed-42885407",
-      "companyIds": [],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-22",
-      "title": "HDAC8 Assistant: a QSAR-guided molecular generation platform for de novo design and virtual screening of HDAC8 inhibitors.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42885407/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 SAR and QSAR in environmental research，PMID 为 42885407。",
-      "report": "Histone deacetylase 8 (HDAC8) inhibitors are considered promising therapeutic agents for the treatment of cancer and several other diseases. In this study, regression QSAR models for HDAC8 inhibitors were developed using various types of molecular descriptors...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42880218",
       "signalId": "pubmed-42880218",
       "companyIds": [],
       "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Emerging frontiers for AI in single-cell genomics.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
@@ -505,42 +494,13 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "evidence-pubmed-42880220",
-      "signalId": "pubmed-42880220",
-      "companyIds": [],
-      "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
-      "title": "Programming biological behavior with AI-guided de novo protein design.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42880220/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Molecular cell，PMID 为 42880220。",
-      "report": "Driven by advances in artificial intelligence, de novo protein design can now generate diverse molecular functions from the ground up, achieving remarkable success in engineering binders against many macromolecular targets. Here, we provide a perspective on ho...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001601830-000160183026000134",
       "signalId": "sec-0001601830-000160183026000134",
       "companyIds": [
         "recursion"
       ],
       "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 424B5",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -571,7 +531,7 @@
         "recursion"
       ],
       "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -602,7 +562,7 @@
         "recursion"
       ],
       "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 424B5",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -633,7 +593,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-10-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -662,7 +622,7 @@
       "signalId": "clinicaltrials-NCT06330441",
       "companyIds": [],
       "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Pancreatic Cancer Screening in a Population at High Risk",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -698,7 +658,7 @@
         "illumina"
       ],
       "publishedAt": "2026-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -729,7 +689,7 @@
         "genmab"
       ],
       "publishedAt": "2026-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -760,7 +720,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -791,7 +751,7 @@
         "nurix"
       ],
       "publishedAt": "2026-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Nurix Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -822,7 +782,7 @@
         "nurix"
       ],
       "publishedAt": "2026-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Nurix Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -847,43 +807,11 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42904200",
-      "signalId": "pubmed-42904200",
-      "companyIds": [],
-      "publishedAt": "2026-10-12",
-      "snapshotDate": "2026-10-22",
-      "title": "Protocol for fabricating immune-regulatory bone organoids via plant-based bioinks.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42904200/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42904200。",
-      "report": "Bone organoids offer three-dimensional systems for studying skeletal development, disease, and regeneration. However, many existing bone organoid systems do not adequately incorporate immune-regulatory cues, despite their central role in bone repair. Their tra...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-pubmed-42865067",
       "signalId": "pubmed-42865067",
       "companyIds": [],
       "publishedAt": "2026-10-12",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Dynamic Graph Prior-Guided Latent Adaptation for Generalizable Single-Cell Perturbation Response Prediction.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
@@ -911,7 +839,7 @@
       "signalId": "pubmed-42860076",
       "companyIds": [],
       "publishedAt": "2026-10-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Benchmarking biological knowledge-graph priors against single-cell foundation models for Perturb-seq prediction.",
       "eventType": "Research",
       "evidenceKind": "Scientific Publication",
@@ -943,7 +871,7 @@
         "genmab"
       ],
       "publishedAt": "2026-10-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -968,76 +896,13 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42898797",
-      "signalId": "pubmed-42898797",
-      "companyIds": [],
-      "publishedAt": "2026-10-05",
-      "snapshotDate": "2026-10-22",
-      "title": "Engineering a hemoglobin variant with enhanced stability and oxygen affinity using a protein language model.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898797/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech"
-      ],
-      "tags": [
-        "biotech"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in chemistry，PMID 为 42898797。",
-      "report": "Engineered hemoglobin variants offer therapeutic promise for artificial blood substitutes and oxygen therapeutics, but rational design is constrained by protein stability and heme-binding. Protein language models (pLMs) predict mutation fitness, yet their inte...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42898688",
-      "signalId": "pubmed-42898688",
-      "companyIds": [],
-      "publishedAt": "2026-10-05",
-      "snapshotDate": "2026-10-22",
-      "title": "Advances and applications of engineered protein therapeutics and their role in precision medicine.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42898688/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42898688。",
-      "report": "Proteins are a vital class of biomolecules. They play essential roles in biological processes, including building cellular structures, forming cellular channels and receptors, catalyzing biological reactions, transporting molecules, and contributing to immune...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001434265-000143426526000132",
       "signalId": "sec-0001434265-000143426526000132",
       "companyIds": [
         "genmab"
       ],
       "publishedAt": "2026-10-05",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1062,13 +927,47 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42907240",
+      "signalId": "pubmed-42907240",
+      "companyIds": [],
+      "publishedAt": "2026-10-02",
+      "snapshotDate": "2026-10-23",
+      "title": "Irinotecan Plus Cetuximab Rechallenge Versus Trifluridine/Tipiracil Plus Bevacizumab as Third-Line Treatment in Circulating Tumor DNA-Selected Metastatic Colorectal Cancer (ROMANCE Trial).",
+      "eventType": "Clinical Study",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907240/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Clinical colorectal cancer，PMID 为 42907240。",
+      "report": "In patients with RAS/BRAF wild-type (WT) metastatic colorectal cancer (mCRC), anti-epidermal growth factor receptor (EGFR) monoclonal antibodies combined with chemotherapy represent an established first-line option and may provide clinically meaningful tumor s...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001434265-000143426526000129",
       "signalId": "sec-0001434265-000143426526000129",
       "companyIds": [
         "genmab"
       ],
       "publishedAt": "2026-10-02",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1099,7 +998,7 @@
         "moderna"
       ],
       "publishedAt": "2026-09-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Moderna filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1130,7 +1029,7 @@
         "genmab"
       ],
       "publishedAt": "2026-09-29",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1155,13 +1054,42 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42906022",
+      "signalId": "pubmed-42906022",
+      "companyIds": [],
+      "publishedAt": "2026-09-28",
+      "snapshotDate": "2026-10-23",
+      "title": "A Simulation-Free Topological Basis for Building Compact Koopman Models of Protein Folding.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906022/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42906022。",
+      "report": "Unravelling protein-folding mechanisms and kinetics is a key challenge to biochemical science. The variational approach for Markov processes (VAMP) is a powerful tool to build Markov Models that capture key kinetic and structural information despite the confor...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001801198-000117184326006229",
       "signalId": "sec-0001801198-000117184326006229",
       "companyIds": [
         "legend-biotech"
       ],
       "publishedAt": "2026-09-25",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1192,7 +1120,7 @@
         "c4-therapeutics"
       ],
       "publishedAt": "2026-09-25",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "C4 Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1223,7 +1151,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-09-24",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1254,7 +1182,7 @@
         "genmab"
       ],
       "publishedAt": "2026-09-24",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1283,7 +1211,7 @@
       "signalId": "clinicaltrials-NCT07806396",
       "companyIds": [],
       "publishedAt": "2026-09-23",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Effect of AI-Supported Virtual Patient Chatbot Training on Nursing Students' Self-Perceived Clinical Decision-Making and Gynecological Cancer Knowledge",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -1318,7 +1246,7 @@
         "ionis"
       ],
       "publishedAt": "2026-09-23",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1343,13 +1271,41 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42907468",
+      "signalId": "pubmed-42907468",
+      "companyIds": [],
+      "publishedAt": "2026-09-22",
+      "snapshotDate": "2026-10-23",
+      "title": "Oropouche virus disrupts neurodevelopment and exhibits congenital infection potential.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907468/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42907468。",
+      "report": "Oropouche virus (OROV) historically caused a self-limiting disease, yet recent strains have been clinically linked to congenital infection and neurodevelopmental disease. These observations highlight the need to study OROV as a congenital pathogen. Here, using...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001730463-000119312526398045",
       "signalId": "sec-0001730463-000119312526398045",
       "companyIds": [
         "autolus"
       ],
       "publishedAt": "2026-09-22",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Autolus Therapeutics filed Form 424B3",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -1374,13 +1330,46 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42907456",
+      "signalId": "pubmed-42907456",
+      "companyIds": [],
+      "publishedAt": "2026-09-21",
+      "snapshotDate": "2026-10-23",
+      "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907456/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42907456。",
+      "report": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different prot...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001601830-000160183026000112",
       "signalId": "sec-0001601830-000160183026000112",
       "companyIds": [
         "recursion"
       ],
       "publishedAt": "2026-09-21",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1411,7 +1400,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-09-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1442,7 +1431,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-09-14",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1473,7 +1462,7 @@
         "genmab"
       ],
       "publishedAt": "2026-09-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1504,7 +1493,7 @@
         "genmab"
       ],
       "publishedAt": "2026-09-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1533,7 +1522,7 @@
       "signalId": "clinicaltrials-NCT00001888",
       "companyIds": [],
       "publishedAt": "2026-09-08",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Sample Collections From the Airways of Asthmatic Patients",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -1561,7 +1550,7 @@
         "intellia"
       ],
       "publishedAt": "2026-09-08",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Intellia Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1592,7 +1581,7 @@
         "genmab"
       ],
       "publishedAt": "2026-09-08",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1623,7 +1612,7 @@
         "ionis"
       ],
       "publishedAt": "2026-09-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1654,7 +1643,7 @@
         "intellia"
       ],
       "publishedAt": "2026-09-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Intellia Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1685,7 +1674,7 @@
         "ionis"
       ],
       "publishedAt": "2026-09-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1714,7 +1703,7 @@
       "signalId": "pubmed-42893561",
       "companyIds": [],
       "publishedAt": "2026-09-01",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Virtual cells: progress and challenges from mechanistic modeling to data-driven integration.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
@@ -1746,7 +1735,7 @@
         "moderna"
       ],
       "publishedAt": "2026-09-01",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Moderna filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1775,7 +1764,7 @@
       "signalId": "pubmed-42852178",
       "companyIds": [],
       "publishedAt": "2026-08-31",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "AI-enabled fungal biomanufacturing: from genome mining to the artificial intelligence virtual cell.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
@@ -1811,7 +1800,7 @@
         "beone-medicines"
       ],
       "publishedAt": "2026-08-26",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "BeOne Medicines filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1843,7 +1832,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-08-18",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1874,7 +1863,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-17",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1905,7 +1894,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1936,7 +1925,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 424B2",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -1967,7 +1956,7 @@
         "genmab"
       ],
       "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -1998,7 +1987,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-12",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2029,7 +2018,7 @@
         "autolus"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Autolus Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2060,7 +2049,7 @@
         "genmab"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2091,7 +2080,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2122,7 +2111,7 @@
         "autolus"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Autolus Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2153,7 +2142,7 @@
         "c4-therapeutics"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "C4 Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2184,7 +2173,7 @@
         "c4-therapeutics"
       ],
       "publishedAt": "2026-08-11",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "C4 Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2215,7 +2204,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 424B2",
       "eventType": "Offering",
       "evidenceKind": "Corporate Filing",
@@ -2246,7 +2235,7 @@
         "illumina"
       ],
       "publishedAt": "2026-08-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2277,7 +2266,7 @@
         "natera"
       ],
       "publishedAt": "2026-08-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Natera filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2308,7 +2297,7 @@
         "10x-genomics"
       ],
       "publishedAt": "2026-08-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "10x Genomics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2339,7 +2328,7 @@
         "intellia"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Intellia Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2370,7 +2359,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2401,7 +2390,7 @@
         "natera"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Natera filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2432,7 +2421,7 @@
         "10x-genomics"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "10x Genomics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2463,7 +2452,7 @@
         "genmab"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2494,7 +2483,7 @@
         "intellia"
       ],
       "publishedAt": "2026-08-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Intellia Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2525,7 +2514,7 @@
         "recursion"
       ],
       "publishedAt": "2026-08-05",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2556,7 +2545,7 @@
         "recursion"
       ],
       "publishedAt": "2026-08-05",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Recursion Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2587,7 +2576,7 @@
         "beone-medicines"
       ],
       "publishedAt": "2026-08-05",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "BeOne Medicines filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2619,7 +2608,7 @@
         "beone-medicines"
       ],
       "publishedAt": "2026-08-05",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "BeOne Medicines filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2651,7 +2640,7 @@
         "arvinas"
       ],
       "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Arvinas filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2682,7 +2671,7 @@
         "beam-therapeutics"
       ],
       "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Beam Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2713,7 +2702,7 @@
         "beam-therapeutics"
       ],
       "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Beam Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2744,7 +2733,7 @@
         "arvinas"
       ],
       "publishedAt": "2026-08-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Arvinas filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2775,7 +2764,7 @@
         "crispr-therapeutics"
       ],
       "publishedAt": "2026-08-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "CRISPR Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2806,7 +2795,7 @@
         "crispr-therapeutics"
       ],
       "publishedAt": "2026-08-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "CRISPR Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2837,7 +2826,7 @@
         "autolus"
       ],
       "publishedAt": "2026-08-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Autolus Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2868,7 +2857,7 @@
         "autolus"
       ],
       "publishedAt": "2026-08-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Autolus Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -2893,43 +2882,13 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
-      "id": "evidence-pubmed-42899609",
-      "signalId": "pubmed-42899609",
-      "companyIds": [],
-      "publishedAt": "2026-08-01",
-      "snapshotDate": "2026-10-22",
-      "title": "Potential Role of BCL2 and BCL6 Overexpression in Circulating Tumor Cells as Molecular Biomarkers in DLBCL After R-CHOP Therapy.",
-      "eventType": "Research",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899609/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Revista medica de Chile，PMID 为 42899609。",
-      "report": "Diffuse large B-cell lymphoma (DLBCL) is the most prevalent non-Hodgkin lymphoma subtype. Although R-CHOP remains the standard first-line therapy, up to 30% of patients experience relapse or refractory disease. Currently, therapeutic monitoring relies on imagi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-sec-0001110803-000111080326000160",
       "signalId": "sec-0001110803-000111080326000160",
       "companyIds": [
         "illumina"
       ],
       "publishedAt": "2026-07-31",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2960,7 +2919,7 @@
         "moderna"
       ],
       "publishedAt": "2026-07-31",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Moderna filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -2991,7 +2950,7 @@
         "moderna"
       ],
       "publishedAt": "2026-07-31",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Moderna filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3022,7 +2981,7 @@
         "guardant-health"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Guardant Health filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -3053,7 +3012,7 @@
         "guardant-health"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Guardant Health filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3084,7 +3043,7 @@
         "illumina"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Illumina filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3115,7 +3074,7 @@
         "tempus-ai"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Tempus AI filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -3147,7 +3106,7 @@
         "tempus-ai"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Tempus AI filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3179,7 +3138,7 @@
         "alnylam"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Alnylam Pharmaceuticals filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -3210,7 +3169,7 @@
         "alnylam"
       ],
       "publishedAt": "2026-07-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Alnylam Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3241,7 +3200,7 @@
         "ionis"
       ],
       "publishedAt": "2026-07-29",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -3272,7 +3231,7 @@
         "ionis"
       ],
       "publishedAt": "2026-07-29",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3297,13 +3256,73 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42908017",
+      "signalId": "pubmed-42908017",
+      "companyIds": [],
+      "publishedAt": "2026-07-27",
+      "snapshotDate": "2026-10-23",
+      "title": "Early and accurate detection of ovarian cancer by profiling cell-free mitochondrial DNA fragmentomics in multi-ethnic population.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908017/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42908017。",
+      "report": "Ovarian cancer (OC) remains highly lethal due to frequent late-stage diagnosis and the challenge of distinguishing malignant from benign adnexal masses (BAM) preoperatively. Reliable non-invasive diagnostic biomarkers remain an unmet clinical need. This multi-...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "evidence-pubmed-42907972",
+      "signalId": "pubmed-42907972",
+      "companyIds": [],
+      "publishedAt": "2026-07-27",
+      "snapshotDate": "2026-10-23",
+      "title": "ClinNetDx: a novel explainable ai framework for acute lymphoblastic leukemia detection using multi-modal clinical data.",
+      "eventType": "Research",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907972/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 BMC cancer，PMID 为 42907972。",
+      "report": "Early identification of Acute Lymphoblastic Leukemia (ALL) is vital to respond on time; yet, presently existing diagnostic procedures still depend on laboratory knowledge, manual interpretation and many supplementary exams. This paper introduces ClinNetDx, a n...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001801198-000119312526316760",
       "signalId": "sec-0001801198-000119312526316760",
       "companyIds": [
         "legend-biotech"
       ],
       "publishedAt": "2026-07-27",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3328,13 +3347,45 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "evidence-pubmed-42907928",
+      "signalId": "pubmed-42907928",
+      "companyIds": [],
+      "publishedAt": "2026-07-25",
+      "snapshotDate": "2026-10-23",
+      "title": "From cytoreduction to precision oncology: evolution of ovarian cancer therapy.",
+      "eventType": "Review",
+      "evidenceKind": "Scientific Publication",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907928/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "fact": "PubMed 记录显示该文献收录于 Journal of ovarian research，PMID 为 42907928。",
+      "report": "Ovarian cancer remains the most lethal gynecologic malignancy due to its asymptomatic progression, limited screening modalities, and late-stage diagnosis. Although initial responses to platinum-based chemotherapy are common, recurrence and multidrug resistance...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "evidence-sec-0001717115-000119312526309073",
       "signalId": "sec-0001717115-000119312526309073",
       "companyIds": [
         "tempus-ai"
       ],
       "publishedAt": "2026-07-20",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Tempus AI filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3366,7 +3417,7 @@
         "tempus-ai"
       ],
       "publishedAt": "2026-07-20",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Tempus AI filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3398,7 +3449,7 @@
         "legend-biotech"
       ],
       "publishedAt": "2026-07-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Legend Biotech filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3429,7 +3480,7 @@
         "genmab"
       ],
       "publishedAt": "2026-07-15",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Genmab filed Form 6-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3460,7 +3511,7 @@
         "ionis"
       ],
       "publishedAt": "2026-07-10",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3491,7 +3542,7 @@
         "nurix"
       ],
       "publishedAt": "2026-07-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Nurix Therapeutics filed Form 10-Q",
       "eventType": "Periodic Report",
       "evidenceKind": "Corporate Filing",
@@ -3522,7 +3573,7 @@
         "nurix"
       ],
       "publishedAt": "2026-07-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Nurix Therapeutics filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3553,7 +3604,7 @@
         "ionis"
       ],
       "publishedAt": "2026-07-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Ionis Pharmaceuticals filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3584,7 +3635,7 @@
         "moderna"
       ],
       "publishedAt": "2026-07-08",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Moderna filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3615,7 +3666,7 @@
         "natera"
       ],
       "publishedAt": "2026-07-06",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Natera filed Form 8-K",
       "eventType": "Corporate Update",
       "evidenceKind": "Corporate Filing",
@@ -3644,7 +3695,7 @@
       "signalId": "pubmed-42890802",
       "companyIds": [],
       "publishedAt": "2026-04-14",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Progress of metabolomics-centric multi-omics research in medicine.",
       "eventType": "Review",
       "evidenceKind": "Scientific Publication",
@@ -3674,7 +3725,7 @@
       "signalId": "clinicaltrials-NCT07378956",
       "companyIds": [],
       "publishedAt": "2026-04-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Clinical Efficacy of Implementing an AI-SaMD for Funduscopy Analysis in Patients With Diabetes Mellitus",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3705,7 +3756,7 @@
       "signalId": "clinicaltrials-NCT06865924",
       "companyIds": [],
       "publishedAt": "2026-03-24",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Colangioids to Define the Genetic Factors Involved in Atypical Primary Sclerosing Cholangitis",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3745,7 +3796,7 @@
       "signalId": "clinicaltrials-NCT07406269",
       "companyIds": [],
       "publishedAt": "2026-02-12",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Clinical Evaluation of AI Decision Support for Early Rehabilitation After Surgery",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3775,77 +3826,11 @@
       "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
     },
     {
-      "id": "evidence-pubmed-42903379",
-      "signalId": "pubmed-42903379",
-      "companyIds": [],
-      "publishedAt": "2026-01-31",
-      "snapshotDate": "2026-10-22",
-      "title": "Can Current Innovations in Diagnostic and Therapeutic Strategies Transform Gastroesophageal Cancer Care?",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42903379/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Middle East journal of digestive diseases，PMID 为 42903379。",
-      "report": "Gastric and esophageal cancers pose major global health challenges due to high incidence, frequent late-stage diagnosis, and poor survival outcomes. This review synthesized current evidence on emerging technologies and innovative approaches shaping research an...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "evidence-pubmed-42903963",
-      "signalId": "pubmed-42903963",
-      "companyIds": [],
-      "publishedAt": "2026-01-06",
-      "snapshotDate": "2026-10-22",
-      "title": "Organoid application in virology research: Recent progress and emerging directions.",
-      "eventType": "Review",
-      "evidenceKind": "Scientific Publication",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42903963/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Infectious diseases & immunity，PMID 为 42903963。",
-      "report": "Organoids, as in vitro three-dimensional structures derived from stem cell differentiation, have emerged as cutting-edge technologies in biomedical research due to their effectiveness in mimicking the complex architectures and physiological functions of human...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "evidence-clinicaltrials-NCT05303337",
       "signalId": "clinicaltrials-NCT05303337",
       "companyIds": [],
       "publishedAt": "2025-09-25",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Evolution of HIV Reservoir, Inflammation and Microbiota Footprint of PLWH Switching to Long-acting Injectable Treatment Compared to Patients on Oral Dual or Triple Anti-integrase-based Therapy",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3876,7 +3861,7 @@
       "signalId": "clinicaltrials-NCT05740761",
       "companyIds": [],
       "publishedAt": "2025-08-20",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Gene Editing as a Therapeutic Approach for Rett Syndrome",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3907,7 +3892,7 @@
       "signalId": "clinicaltrials-NCT06935929",
       "companyIds": [],
       "publishedAt": "2025-04-20",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "A Study on the Associations Between Microribonucleic Acid Gene Polymorphisms and Crohn's Disease",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3934,7 +3919,7 @@
       "signalId": "clinicaltrials-NCT06813456",
       "companyIds": [],
       "publishedAt": "2025-02-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Implementation of Solid Digital PCR to Support Gold-standard Methods for Evaluation of HER2 Amplification Status: Focus on HER2-low Subtype",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -3969,7 +3954,7 @@
       "signalId": "clinicaltrials-NCT06653127",
       "companyIds": [],
       "publishedAt": "2024-12-30",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Circulating Tumor Mitochondrial DNA (ct-mtDNA) As a Biomarker for Biliary Tract Cancer Recurrence Surveillance",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4004,7 +3989,7 @@
       "signalId": "clinicaltrials-NCT01724346",
       "companyIds": [],
       "publishedAt": "2024-09-19",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma",
       "eventType": "Clinical Trial Results",
       "evidenceKind": "Clinical Registry Record",
@@ -4034,7 +4019,7 @@
       "signalId": "clinicaltrials-NCT06534151",
       "companyIds": [],
       "publishedAt": "2024-08-02",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "VITAL - the Heart Failure With Reduced Ejection Fraction Sub-study",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4069,7 +4054,7 @@
       "signalId": "clinicaltrials-NCT04825873",
       "companyIds": [],
       "publishedAt": "2023-10-13",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "A Study to Assess Safety of Nivolumab in Routine Oncology Practice in China",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4099,7 +4084,7 @@
       "signalId": "clinicaltrials-NCT04647994",
       "companyIds": [],
       "publishedAt": "2022-06-09",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Exploratory Study: COVID-19 and Pregnancy",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4125,7 +4110,7 @@
       "signalId": "clinicaltrials-NCT02907827",
       "companyIds": [],
       "publishedAt": "2020-12-17",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Whole-body DW-MRI and cfDNA Analysis for the Surveillance of Melanoma Patients at High Risk for Recurrence.",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4159,7 +4144,7 @@
       "signalId": "clinicaltrials-NCT04555473",
       "companyIds": [],
       "publishedAt": "2020-09-18",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Translational Analysis In Longitudinal Series of Ovarian Cancer ORganoids",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4192,7 +4177,7 @@
       "signalId": "clinicaltrials-NCT04537442",
       "companyIds": [],
       "publishedAt": "2020-09-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Clinical Study to Evaluate the Safety and Efficacy of IM21 CAR-T Cells in the Treatment of Elderly Patients With Relapsed or Refractory Multiple Myeloma",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4223,7 +4208,7 @@
       "signalId": "clinicaltrials-NCT03823872",
       "companyIds": [],
       "publishedAt": "2020-08-25",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Exercise Training and Time-restricted Feeding in Overweight and Obese Adults",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4253,7 +4238,7 @@
       "signalId": "clinicaltrials-NCT04281641",
       "companyIds": [],
       "publishedAt": "2020-05-04",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Markers to Evaluate the Efficacy of PH-based Regimen as a Neoadjuvant Therapy for Operable HER2 Positive Breast Cancer",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4289,7 +4274,7 @@
       "signalId": "clinicaltrials-NCT02980354",
       "companyIds": [],
       "publishedAt": "2019-05-03",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Bayraktutan Dunhill Medical Trust EPC Study",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
@@ -4323,7 +4308,7 @@
       "signalId": "clinicaltrials-NCT00375505",
       "companyIds": [],
       "publishedAt": "2015-09-07",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "The Safety and Efficacy of Zoledronic Acid in the Prevention of Cancer Therapy Induced Bone Loss",
       "eventType": "Clinical Trial Results",
       "evidenceKind": "Clinical Registry Record",
@@ -4353,7 +4338,7 @@
       "signalId": "clinicaltrials-NCT01287468",
       "companyIds": [],
       "publishedAt": "2011-02-01",
-      "snapshotDate": "2026-10-22",
+      "snapshotDate": "2026-10-23",
       "title": "Academia Sinica Investigator Award 2010",
       "eventType": "Clinical Trial",
       "evidenceKind": "Clinical Registry Record",
