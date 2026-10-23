@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-23T04:59:07.942401+00:00",
+  "capturedAt": "2026-10-23T11:46:12.677944+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-23"
   },
   "pmids": [
+    "42908732",
+    "42908429",
+    "42908392",
+    "42908214",
+    "42908192",
     "42907531",
-    "42907468",
-    "42907456",
-    "42906857",
-    "42906827",
-    "42906763",
     "42893561",
     "42890802",
     "42880218",
@@ -27,19 +27,113 @@
     "42860076",
     "42852178",
     "42907516",
+    "42907456",
     "42906913",
     "42906022",
     "42905563",
     "42899582",
+    "42908741",
     "42908017",
     "42907928",
     "42907240",
     "42906787",
-    "42905206",
-    "42905185",
-    "42907972"
+    "42908212"
   ],
   "records": [
+    {
+      "pmid": "42908732",
+      "title": "Breast cancer brain metastasis: mechanisms, emerging biomarkers, and therapeutic opportunities.",
+      "abstract": "Breast cancer brain metastasis (BCBM) is a clinically distinct form of metastatic breast cancer that causes substantial neurological morbidity and mortality. This review examines the biological bottlenecks that precede a detectable brain lesion: survival in the circulation, interaction with the cerebral endothelium, passage across the blood-brain barrier (BBB), persistence in neural tissue, and intracranial outgrowth. We emphasize how astrocytes, microglia, neurons, stromal cells, and the nutrient environment of the brain shape these events and influence treatment response. These biological features also shape disease assessment. Magnetic resonance imaging defines lesion burden but cannot reliably determine molecular status, whereas tissue sampling is invasive and plasma biomarkers may underrepresent disease confined to the central nervous system. We therefore examine the complementary roles and current limitations of tissue reassessment, blood- and cerebrospinal fluid-based liquid biopsy, molecular imaging, and artificial intelligence-assisted image analysis. Experimental evidence is interpreted according to the questions that individual models can answer. Spontaneous, intravascular, and intracranial models retain different stages of the metastatic cascade, while immunocompetent, patient-derived xenograft, and organoid systems differ in their ability to reproduce immune interactions and patient heterogeneity. Treatment is considered by subtype and clinical setting, including the need for immediate local control, intracranial disease burden, leptomeningeal involvement, previous therapy, and extracranial disease status. Clinical evidence is most developed for human epidermal growth factor receptor 2 (HER2)-positive BCBM, whereas treatment of hormone receptor-positive/HER2-negative disease and triple-negative breast cancer remains more dependent on local therapy and systemic indications derived from extracranial disease. Linking brain-specific mechanisms with biomarker selection, model interpretation, and subtype-guided treatment may improve the translation of experimental findings into clinically meaningful strategies.",
+      "journal": "American journal of cancer research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Rehabilitation Medicine Center and Institute of Rehabilitation Medicine, Key Laboratory of Rehabilitation Medicine in Sichuan Province, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University Chengdu 610041, Sichuan, China.",
+        "West China School of Pharmacy, Sichuan University Chengdu 610041, Sichuan, China.",
+        "Joint Lab of Reproductive Medicine of SCU-CUHK, Lab of Reproductive Genetics and Epigenetics, Department of Obstetrics/Gynecology, Key Laboratory of Birth Defects and Related Disease of Women and Children of MOE, West China Second University Hospital, Sichuan University Chengdu 610041, Sichuan, China.",
+        "Department of Obstetrics and Gynecology, Sichuan Provincial People's Hospital, School of Medicine, University of Electronic Science and Technology of China Chengdu 610072, Sichuan, China."
+      ],
+      "doi": "10.62347/VMYD7831",
+      "date": "2026-09-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908732/"
+    },
+    {
+      "pmid": "42908429",
+      "title": "Human cell models for inherited platelet disorders: strengths, limitations and emerging technologies.",
+      "abstract": "Inherited platelet disorders (IPD) comprise a clinically and genetically heterogeneous group of conditions affecting platelet number, function, or both. Although next-generation sequencing has accelerated gene discovery, it has also produced a growing number of variants of uncertain significance, creating a pressing need for experimental systems that can establish causal genotype-phenotype relationships. Because megakaryocytes are scarce in the bone marrow and murine models incompletely recapitulate human platelet biology, human cell-based models are indispensable for studying megakaryopoiesis and platelet formation. Here we review the evolution of such models and their application to IPD research. Leukemia-derived megakaryocytic cell lines provided the first genetically tractable models but incompletely reproduce physiological thrombopoiesis. Megakaryocytes derived from primary hematopoietic stem cells remain the gold standard for patient-specific disease modeling, offering high biological relevance but requiring donor material and being subject to significant inter-donor variability. Induced pluripotent stem cells provide a renewable source of megakaryocytes for disease modeling, although efficient platelet production and functional characterization remain challenging. In contrast, the immortalized megakaryocyte cell line offers a scalable and genetically tractable platform that faithfully recapitulates megakaryocyte maturation, supports platelet production, and enables selected platelet function assays. We further discuss emerging three-dimensional and organoid systems that begin to capture the complexity of the bone-marrow niche. Across these platforms we discuss applications in disease mechanism discovery, functional validation of novel variants, and preclinical evaluation of therapies. No single model is universally optimal; rather, model choice should be guided by the biological question, with validation against primary patient material remaining essential.",
+      "journal": "Haematologica",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Cardiovascular Sciences, Center for Molecular and Vascular Biology, KULeuven.",
+        "Department of Cardiovascular Sciences, Center for Molecular and Vascular Biology, KULeuven. kathleen.freson@kuleuven.be."
+      ],
+      "doi": "10.3324/haematol.2026.301744",
+      "date": "2026-10-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908429/"
+    },
+    {
+      "pmid": "42908392",
+      "title": "3D Printed Solid-Walled Zein Vascular Network With Long-Term Perfusion Stability and Trans-Wall Transport.",
+      "abstract": "As in vitro tissue models, including organoids, become thicker and more complex, diffusion-limited three-dimensional (3D) culture increasingly fails to sustain long-term viability, nutrient supply, and spatial microenvironmental regulation. Existing vascularization, perfusion, and chip-based strategies still struggle to integrate complex 3D architecture, durable perfusion, mechanical integrity, and controlled trans-wall exchange in thick constructs. Here, a fibril-reinforced, 3D-printed solid-walled zein vascular interface is developed to couple long-term perfusion stability with wall-mediated mass transport. Homologous zein fibrils enable direct printing of branched perfusable conduits with tunable porous walls, avoiding sacrificial hollow-channel templating while improving deformation resistance and preserving permeability during 30 days of continuous perfusion. Wall architecture establishes two application-specific transport regimes. In a regulated-exchange regime, the interface supports nutrient delivery in 33 × 21 × 11 mm cell-laden constructs, maintaining long-term survival and enhancing CD31 expression within a continuously perfused peri-conduit microenvironment. In a high-permeability regime, enlarged porous walls generate spatial transport gradients, distance-dependent heterogeneity, and enhanced permeability and retention (EPR)-relevant trans-wall nanocarrier transport with peri-conduit accumulation, enabling evaluation of photoresponsive liposomal delivery and polyaniline-mediated photothermal responses. This zein platform integrates printable biomaterial architecture, perfusion durability, and tunable wall-mediated transport for thick tissue support and EPR-relevant therapeutic evaluation in advanced in vitro model systems.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China.",
+        "Jiaxing Yaojiao Medical Device Co. Ltd., Jiaxing, China.",
+        "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China."
+      ],
+      "doi": "10.1002/adhm.71882",
+      "date": "2026-10-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908392/"
+    },
+    {
+      "pmid": "42908214",
+      "title": "A Photocurable Hydrogel Cardiac Patch Incorporating Formononetin-Loaded Lipid Nanoparticles for Myocardial Repair After Acute Ischemia.",
+      "abstract": "Myocardial infarction (MI) induces ventricular dysfunction through ischemic necrosis and fibrotic remodeling, progressing to heart failure and constituting a major global cardiovascular burden. To address this, we developed a photocurable, hydrogel-based cardiac patch (Gel-CS/FMN@LNP hydrogel) with favorable mechanical robustness. The patch is composed of methacryloylated carboxymethyl chitosan (CACSMA) and methacryloylated gelatin (GelMA), incorporating Formononetin-loaded lipid nanoparticles (FMN@LNPs) for myocardial restoration. In vitro studies demonstrated that the Gel-CS/FMN@LNP hydrogel not only inhibited cardiomyocyte apoptosis by scavenging reactive oxygen species (ROS) but also promoted migration and tube formation of human umbilical vein endothelial cells (HUVECs). Moreover, when a co-culture system of the Gel-CS/FMN@LNP hydrogel and heart-forming organoids (HFOs) was subjected to oxygen-glucose deprivation (OGD) conditions, the system effectively inhibited HFO apoptosis and suppressed HFO fibrosis. In vivo experiments in MI model rats revealed that the Gel-CS/FMN@LNP hydrogel group preserved a higher left ventricular ejection fraction (LVEF: 67.2 ± 1.9%) compared to the MI group (LVEF: 41.7 ± 4.7%) at 28 days post-MI, thereby improving cardiac function. Histological analysis showed that the Gel-CS/FMN@LNP hydrogel reduced myocardial fibrosis in the infarct border zone, promoted angiogenesis, and facilitated macrophage polarization toward the M2 phenotype. RNA sequencing (RNA-seq) identified pathways associated with metabolic regulation (PPAR signaling pathway), myocardial protection (PI3K-Akt signaling pathway), anti-fibrosis (inhibition of extracellular matrix remodeling), and anti-inflammatory immune regulation (TNF signaling pathway). Single-cell RNA sequencing (scRNA-seq) revealed that the Gel-CS/FMN@LNP hydrogel promoted post-MI cardiac repair through a multi-target network involving circadian rhythm remodeling, matrix regulation, immune balance, and vascular protection. Our hydrogel system, which combines facile injectability, sustained release of active factors, and synergistic therapeutic effects, represents a promising therapeutic approach for post-MI repair.",
+      "journal": "Advanced healthcare materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Cardiovascular Translational Medicine, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
+        "Neocellmed Co. Ltd., Shanghai, China.",
+        "State Key Laboratory For Modification of Chemical Fibers and Polymer Materials, College of Biological Science and Medical Engineering, Donghua University, Shanghai, China."
+      ],
+      "doi": "10.1002/adhm.71879",
+      "date": "2026-10-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908214/"
+    },
+    {
+      "pmid": "42908192",
+      "title": "Oncolytic Virus-Engineered Extracellular Vesicles Rewire Glioblastoma Immunity.",
+      "abstract": "Immunotherapy with oncolytic Herpes simplex virus type 1 (oHSV-1) shows promise for glioblastoma; however, clinical benefit remains uncommon due to tumour- and host-mediated immunosuppression, which limits immune targeting of residual glioblastoma stem-like cells (GSCs). To address this barrier, extracellular vesicles (EVs) harvested from oHSV-1-infected GSCs (EVOV) were evaluated for their immunomodulatory capacity by priming peripheral blood mononuclear cells (PBMCs) ex vivo and in vivo. In GSC-PBMC organoids analysed by single-cell RNA sequencing, IFN-response and antigen-presentation programs were induced in both immune and tumour compartments, despite the GSC state. EVOV organoid transcriptome associated with patient tumour antigen-processing programs linked to improved clinical outcome, and EVOV immunopeptidomics identified candidate biomarker peptides that were also detected in patient immunopeptidomes from the clinical-trial cohort. In PBMC-engrafted NOD scid gamma mice bearing intracranial GSC xenografts, EVOV delivery increased circulating interferon (IFN) levels and enhanced systemic activation of T-cell subsets, while spatial transcriptomics revealed recruitment of peripheral immune cells to the tumour, accompanied by reprogramming of GSC states. Blocking vesicle-associated major histocompatibility complex I (MHC-I) attenuated EVOV-driven PBMC cytotoxicity against GSCs, supporting an MHC-I peptide-dependent mechanism of immune priming and a vaccine- or adjuvant-like, non-infectious, vesicle-based immunotherapeutic strategy.",
+      "journal": "Journal of extracellular vesicles",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Tumor Microenvironment Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland.",
+        "Translational Medicine Doctoral School, Center of Postgraduate Medical Education, Warsaw, Poland.",
+        "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
+        "NeuroRepair Department, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland.",
+        "Department of Medical Microbiology, Medical University of Warsaw, Warsaw, Poland.",
+        "The Laboratory of Cytometry, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
+        "Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts, USA.",
+        "Institute of Human Genetics, Polish Academy of Sciences, Poznań, Poland.",
+        "Department of Biochemistry and Biotechnology, Poznań University of Life Sciences, Poznań, Poland.",
+        "Mass Spectrometry Laboratory, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland.",
+        "Department of NeuroOncology, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland."
+      ],
+      "doi": "10.1002/jev2.70389",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908192/"
+    },
     {
       "pmid": "42907531",
       "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture.",
@@ -63,116 +157,6 @@
       "doi": "10.1038/s41591-026-04749-0",
       "date": "2026-10-21",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907531/"
-    },
-    {
-      "pmid": "42907468",
-      "title": "Oropouche virus disrupts neurodevelopment and exhibits congenital infection potential.",
-      "abstract": "Oropouche virus (OROV) historically caused a self-limiting disease, yet recent strains have been clinically linked to congenital infection and neurodevelopmental disease. These observations highlight the need to study OROV as a congenital pathogen. Here, using both a historical and currently circulating strain, we show OROV infects neurons across differentiation states in human forebrain organoids. Compared with the neurotropic congenital pathogen Zika virus (ZIKV), OROV exhibits a heightened capacity for neuroinfection and pathology in both forebrain organoids and neonatal mice. The increased permissiveness of OROV is driven, in part, by a broader neuronal tropism and a relative insensitivity to neuronal type I interferon-mediated antiviral responses. Consistent with clinical observations, neonatal neuroinfection results in rapid and severe neuropathology marked by cerebral hemorrhage. Finally, using a transient type I interferon-blockade model, we demonstrate that OROV can productively infect the murine placenta and cause fetal growth restriction. Together, our complementary models support a unified framework in which placental and fetal barriers limit productive fetal brain infection, yet OROV exhibits marked neurotropism and neuropathogenic potential upon gaining access to developing neural tissues. These findings reinforce the need for vigilant monitoring of OROV as an emerging pathogen associated with adverse pregnancy outcomes and congenital disease.",
-      "journal": "Nature communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
-        "Department of Neuroscience, Mahoney Institute for Neurosciences, Institute for Regenerative Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
-        "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. kellie.jurado@pennmedicine.upenn.edu."
-      ],
-      "doi": "10.1038/s41467-026-77859-5",
-      "date": "2026-09-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907468/"
-    },
-    {
-      "pmid": "42907456",
-      "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
-      "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
-      "journal": "Nature communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
-        "Department of Data Science, City University of Hong Kong, Kowloon, Hong Kong.",
-        "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Polymer Chemistry & Physics of Ministry of Education, Center for Soft Matter Science and Engineering, College of Chemistry and Molecular Engineering, Peking University, Beijing, P. R. China.",
-        "School of AI for Science (AI4S), Shenzhen Graduate School, Peking University, Shenzhen, P. R. China.",
-        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. kefsun@ust.hk.",
-        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. hanyugao@ust.hk."
-      ],
-      "doi": "10.1038/s41467-026-77607-9",
-      "date": "2026-09-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907456/"
-    },
-    {
-      "pmid": "42906857",
-      "title": "Automated Spheroid and Organoid Image Analysis from Rule-Based Methods to Deep Learning.",
-      "abstract": "The increased adoption of three-dimensional (3D) cultures in high-content screening has created an analytical bottleneck in image analysis, prompting the development of automated image analysis tools. This review examines the evolution of automated tools for analysing brightfield and phase-contrast images of spheroids and organoids, from semi-automated approaches through classical machine learning pipelines to modern deep learning tools. Each generation is evaluated according to its underlying principles and limitations, especially when applied to heterogeneous datasets. Rule-based tools were introduced to automate the measurement of morphometric parameters established in manual workflows but may not generalise when experimental conditions change. Classical machine learning improved robustness to post-treatment morphologies but requires retraining when imaging conditions change. A range of deep learning architectures that learn directly from datasets has been introduced, partially reducing the retraining burden associated with classical machine learning. No generation supersedes another across all experimental contexts, and tool selection should be guided by the biological endpoint, image conditions, culture morphology, annotation availability and computational resources. Most tools analyse two-dimensional projections of inherently 3D structures, reducing the accuracy of volume estimates for irregular structures. Independent benchmarks demonstrate that tool performance varies across datasets and imaging laboratories. Future tool development should prioritise robustness across imaging conditions, identification of segmentation failure modes and validation on shared datasets.",
-      "journal": "SLAS discovery : advancing life sciences R & D",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Pharmacology, School of Medicine, University of Pretoria, Pretoria, South Africa. Electronic address: eith.ncube@up.ac.za.",
-        "Department of Physiology, School of Medicine, University of Pretoria, Pretoria, South Africa.",
-        "Department of Pharmacology, School of Medicine, University of Pretoria, Pretoria, South Africa; African Institute of Data Science and Artificial Intelligence, University of Pretoria, Pretoria, South Africa."
-      ],
-      "doi": "10.1016/j.slasd.2026.100344",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906857/"
-    },
-    {
-      "pmid": "42906827",
-      "title": "Microbiota-Taurine Pathway Links Dietary Fiber to Mucosal Healing.",
-      "abstract": "Dietary fibers modulate host-microbiota interactions. Whether fiber promotes epithelial repair through microbiota-dependent mechanisms remains unclear. We determined how alginate influences colitis recovery and whether the pathway is relevant to ulcerative colitis (UC). We screened fibers in dextran sodium sulfate (DSS)-induced murine colitis and assessed survival, inflammation, barrier function, and epithelial regeneration. Microbiota dependence was evaluated using antibiotics and bacterial supplementation. Metabolites were profiled using capillary electrophoresis-time-of-flight mass spectrometry (CE-TOFMS), and epithelial programs were analyzed using RNA-seq and colonic organoid injury assays. Slc6a6-/- and Cyp2c55-/- mice were used to determine mechanistic requirements. Translational relevance was examined in a randomized, placebo-controlled trial of UC patients receiving antibiotic-primed fecal microbiota transplantation (A-FMT) followed by alginate or placebo. Clinical outcomes, histology, fecal taurine, and colonic CYP2C18 expression were assessed. Alginate improved DSS colitis recovery, reducing inflammation, restoring barrier integrity, and enhancing crypt proliferation. Alginate enriched taurine-releasing bacteria, including Bacteroides acidifaciens and Ligilactobacillus murinus, and increased intestinal taurine; antibiotic disruption abrogated these effects. Taurine was required for benefit, as alginate failed in Slc6a6-/- mice. Alginate and taurine induced epithelial Cyp2c55, and protection was lost in Cyp2c55-/- mice and organoids. In the clinical trial, the primary endpoint was not met. However, alginate supplementation was associated with biological changes, including fecal taurine levels and colonic CYP2C18 expression, consistent with preclinical mechanisms. Alginate engages a fiber-microbiota-taurine-epithelial signaling pathway that promotes recovery in preclinical models. The clinical trial did not meet its primary endpoint; however, the biological changes warrant further investigation of alginate as a microbiota-targeted intervention. jRCTs031200103 (https://jrct.mhlw.go.jp/), registered September 1, 2020: UMIN000041968 (https://www.umin.ac.jp/ctr/index.htm), October 1, 2020.",
-      "journal": "Gastroenterology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan; Department of Gastroenterology, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan.",
-        "Research center for Drug Discovery, Faculty of Pharmacy and Graduate School of Pharmaceutical Science, Keio University; Tokyo, 105-8512, Japan.",
-        "Research center for Drug Discovery, Faculty of Pharmacy and Graduate School of Pharmaceutical Science, Keio University; Tokyo, 105-8512, Japan; Department of Microbiology, School of Pharmacy, Kitasato University; Tokyo, 108-8641, Japan.",
-        "Department of Human Pathology, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan.",
-        "Laboratory for Symbiotic Microbiome Sciences, RIKEN Center for Integrative Medical Sciences, Yokohama 230-0045, Japan.",
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan.",
-        "Department of Gastroenterology, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan.",
-        "Medical Technology Innovation Center, Juntendo University; Tokyo, 113-8421, Japan.",
-        "Advanced Genomics Center, National Institute of Genetics; Mishima, 411-8540, Japan; School of Life Science and Technology, Institute of Science Tokyo; Tokyo, 152-8550, Japan.",
-        "Advanced Genomics Center, National Institute of Genetics; Mishima, 411-8540, Japan.",
-        "Department of Microbiology, School of Pharmacy, Kitasato University; Tokyo, 108-8641, Japan.",
-        "Department of Bioscience and Biotechnology, Fukui Prefectural University; Fukui, 910-1195, Japan.",
-        "Department of Gastroenterology, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan; Department of Pathophysiological Research and Therapeutics for Gastrointestinal Diseases, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan.",
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan; Gut Environmental Design Group, Kanagawa Institute of Industrial Science and Technology; Kawasaki, 210-0821, Japan.",
-        "Laboratory for Mucosal Ecosystem Design, The Institute for Molecular and Cellular Regulation, Gunma University; Maebashi, 371-8512, Japan.",
-        "Division of Biochemistry, Faculty of Pharmacy and Graduate School of Pharmaceutical Sciences Keio University; Tokyo, 105-8512, Japan; Human Biology-Microbiome-Quantum Research Center (WPI-Bio2Q), Keio University; Tokyo 108-8345, Japan; Institute of Fermentation Sciences (IFeS), Faculty of Food and Agricultural Sciences, Fukushima University; Fukushima 960-1296, Japan; International Vaccine Design Center, The Institute of Medical Science, The University of Tokyo (IMSUT); Tokyo 108-8639, Japan.",
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan; Gut Environmental Design Group, Kanagawa Institute of Industrial Science and Technology; Kawasaki, 210-0821, Japan; Institute for Advanced Biosciences, Keio University; Yamagata 997-0052, Japan; Transborder Medical Research Center, University of Tsukuba; Tsukuba, 305-8575, Japan.",
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan; Department of Gastroenterology, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan; Department of Pathophysiological Research and Therapeutics for Gastrointestinal Diseases, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan.",
-        "Innovative Microbiome Therapy Research Center, Juntendo University Graduate School of Medicine; Tokyo, 113-8421, Japan; Department of Gastroenterology, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan; Department of Pathophysiological Research and Therapeutics for Gastrointestinal Diseases, Juntendo University Faculty of Medicine; Tokyo, 113-8421, Japan. Electronic address: dai@juntendo.ac.jp.",
-        "Research center for Drug Discovery, Faculty of Pharmacy and Graduate School of Pharmaceutical Science, Keio University; Tokyo, 105-8512, Japan; Department of Microbiology, School of Pharmacy, Kitasato University; Tokyo, 108-8641, Japan. Electronic address: kim.yungi@kitasato-u.ac.jp."
-      ],
-      "doi": "10.1053/j.gastro.2026.09.028",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906827/"
-    },
-    {
-      "pmid": "42906763",
-      "title": "Navigating the landscape of stem cell therapeutics: Overcoming translational hurdles via emerging technologies and regulatory frontiers.",
-      "abstract": "Global population aging has increased the incidence of intractable diseases. Accordingly, regenerative medicine using stem cell therapies offers a critical shift from symptom management to functional tissue restoration. Hematopoietic, mesenchymal, and pluripotent stem cells (embryonic and induced pluripotent stem cells) have shown promising therapeutic potential. However, their clinical translation is constrained by persistent biological, manufacturing, and regulatory hurdles associated with genomic instability, tumorigenic risk, and batch-to-batch heterogeneity. This review provides a comprehensive overview of the current stem cell research landscape, highlighting the strategic shift from traditional cell-centric development to a multi-disciplinary and technology-driven approach. Emerging technologies, including three-dimensional organoids, advanced biomaterials, genome editing, and artificial intelligence-integrated automated manufacturing, are actively resolving long-standing translational bottlenecks to ensure scalable, safe, and reproducible clinical implementation. Regulatory approaches differ across major countries; however, the trend toward incorporating patient needs is growing. This has accelerated access to innovative therapies, with ongoing efforts to ensure that these advances do not compromise safety or efficacy. Moving forward, the successful clinical integration of next-generation stem cell therapeutics is likely to be shaped by the synergy between harmonized regulatory requirements and reliable real-world evidence. Collectively, these factors serve to bridge the transition from early patient access to definitive licensing.",
-      "journal": "Pharmacology & therapeutics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institution of Convergence Medicine, Ewha Womans University Mokdong Hospital, Ewha Womans University, Seoul, Republic of Korea.",
-        "Department of Biological Sciences and Biotechnology, School of Biological Sciences, College of Natural Sciences, Chungbuk National University, Cheongju, Republic of Korea.",
-        "Department of Biomedical Sciences, Inha University College of Medicine, Incheon, Republic of Korea.",
-        "Department of Otorhinolaryngology-Head and Neck Surgery, College of Medicine, Ewha Womans University, Seoul, Republic of Korea.",
-        "Department of Biochemistry, College of Medicine, Ewha Womans University, Seoul, Republic of Korea.",
-        "Department of Molecular Medicine, College of Medicine, Ewha Womans University, Seoul, Republic of Korea; Korean Fund for Regenerative Medicine, Republic of Korea; Gyeongbuk Institute for Bio industry, Republic of Korea. Electronic address: inhojo@ewha.ac.kr."
-      ],
-      "doi": "10.1016/j.pharmthera.2026.109133",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906763/"
     },
     {
       "pmid": "42893561",
@@ -316,6 +300,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907516/"
     },
     {
+      "pmid": "42907456",
+      "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
+      "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
+        "Department of Data Science, City University of Hong Kong, Kowloon, Hong Kong.",
+        "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Polymer Chemistry & Physics of Ministry of Education, Center for Soft Matter Science and Engineering, College of Chemistry and Molecular Engineering, Peking University, Beijing, P. R. China.",
+        "School of AI for Science (AI4S), Shenzhen Graduate School, Peking University, Shenzhen, P. R. China.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. kefsun@ust.hk.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. hanyugao@ust.hk."
+      ],
+      "doi": "10.1038/s41467-026-77607-9",
+      "date": "2026-09-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907456/"
+    },
+    {
       "pmid": "42906913",
       "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts.",
       "abstract": "The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.1-5 This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.",
@@ -384,6 +388,25 @@
       "doi": "10.1021/acs.accounts.6c00338",
       "date": "2026-10-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899582/"
+    },
+    {
+      "pmid": "42908741",
+      "title": "Population-specific molecular features and clinical significance of urinary tumor DNA mutations in Chinese patients with newly diagnosed non-muscle-invasive bladder cancer.",
+      "abstract": "Non-muscle-invasive bladder cancer (NMIBC) is characterized by high recurrence rates, highlighting the need for effective, non-invasive diagnostic and risk stratification tools. Although urinary biomarkers are increasingly used worldwide, molecular data specific to Chinese NMIBC populations remain limited. This study explores the potential utility of TERT promoter and FGFR3 hotspot mutations detected in urinary tumor DNA (utDNA) in a prospective Chinese cohort. We prospectively enrolled 106 newly diagnosed NMIBC patients between February 2023 and August 2023 at Fudan University Shanghai Cancer Center (ChiCTR2300076543). First-morning urine samples were collected prior to TURBT. A PCR-based UI-Seek assay was employed to detect hotspot mutations in the promoter region (M1: c.-146 C>T, C250T; M2: c.-124 C>T, C228T) and FGFR3 gene (M1: c.742 C>T, p.R248C; M2: c.746 C>G, p.S249C). The overall mutation rates for TERT promoter and FGFR3 were 49.06% and 15.09%, respectively, with a combined sensitivity of 55.66%. Compared with published study cohorts from Western countries and Japan, Chinese NMIBC patients showed differences in molecular mutation profiles. Notably, the TERT-M2 mutation was associated with tumor aggressiveness, with significant correlations observed for T1 stage (P = 0.011), high-grade tumors (P = 0.011), and high/very high EAU risk categories (P < 0.001). In the subgroup of patients with rapid recurrence within 12 months, TERT promoter mutations (particularly M2), high-grade histology, T1 stage, and high/very high EAU risk categories were significantly enriched. Conversely, FGFR3 mutations showed no significant correlation with clinicopathological parameters. Patients were stratified into early recurrence (≤12 months, n = 14) and long-term recurrence-free (>24 months, n = 40) groups. T1 stage, high tumor grade, high/very high-risk stratification, and TERT mutations (especially the TERT-M2 subtype) were significantly associated with early recurrence (P < 0.05), whereas sex, tumor multiplicity, presence of CIS, and FGFR3 mutations showed no significant correlation with recurrence timing (P > 0.05). This study characterizes the mutational landscape of urinary tumor DNA (utDNA) in Chinese patients with non-muscle invasive bladder cancer (NMIBC). Our findings suggest that utDNA-based detection of TERT promoter mutations, particularly the M2 subtype, and FGFR3 mutations may provide complementary molecular information for recurrence risk assessment. Larger prospective multicenter studies are warranted to validate these findings and evaluate the clinical potential of utDNA as a non-invasive molecular tool in NMIBC management.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Urology, Guangyuan Central Hospital of Sichuan Province, Guangyuan, China.",
+        "Department of Urology, Fudan University Shanghai Cancer Center, Shanghai, China.",
+        "Department of Nursing, Fudan University Shanghai Cancer Center, Shanghai, China.",
+        "Shanghai Medical College, Fudan University, Shanghai, China.",
+        "Acornmed Biotechnology Co., Ltd, Beijing, China."
+      ],
+      "doi": "10.3389/fonc.2026.1914617",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908741/"
     },
     {
       "pmid": "42908017",
@@ -500,70 +523,116 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906787/"
     },
     {
-      "pmid": "42905206",
-      "title": "Inferring tissue origin from cell-free DNA in metastatic cancer.",
-      "abstract": "A major clinical challenge in metastatic cancer management is determining not only the presence of tumor-derived cell-free DNA (cfDNA) but also the tissue lineage and organ context reflected by circulating cfDNA signals. CfDNA supports such inference by retaining molecular signatures specific to its tissue-of-origin, including DNA methylation, 5-hydroxymethylcytosine (5hmC), fragmentomic profiles, nucleosome positioning patterns, and histone modifications. This review examines the biological principles underlying cfDNA-based tissue-of-origin determination, the computational frameworks used to interpret these signals, and the key barriers to clinical translation. We additionally compare representative deconvolution and classification strategies, including linear and probabilistic models, machine/deep learning, and single-cell-informed reference approaches. Despite substantial progress, clinical integration remains hindered by low tumor fractions, heterogeneous contributions from multiple tissues, background noise from nonmalignant cell death, and a lack of robust prospective validation. We further emphasize that source estimates in metastatic plasma should be interpreted in the context of mixed tissue contributions, differential shedding, reference design, and model uncertainty, rather than as direct measures of anatomical metastatic burden.",
-      "journal": "Cancer metastasis reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Clinical Medicine, Shandong Second Medical University, Weifang, China.",
-        "The First Affiliated Hospital of Shantou University Medical College, Shantou, Guangdong, China.",
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China. sdyujinming@163.com.",
-        "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China. tengff@sd-cancer.com."
-      ],
-      "doi": "10.1007/s10555-026-10386-3",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905206/"
-    },
-    {
-      "pmid": "42905185",
-      "title": "GSTP1 promoter hypermethylation in prostate cancer detection: current evidence, clinical positioning, and translational gaps.",
-      "abstract": "GSTP1 promoter hypermethylation is one of the most consistently documented molecular alterations in prostate cancer, with high prevalence in malignant tissue and a well-established relationship with transcriptional silencing. However, despite more than two decades of biological and diagnostic investigation, GSTP1-based testing has not acquired a clearly defined stand-alone role in contemporary prostate cancer detection. This narrative review examines why extensive biological evidence has not translated into routine clinical use and where, if anywhere, GSTP1 testing might provide meaningful value within current diagnostic pathways. Evidence from prostate tissue, urine and circulating cell-free DNA is considered alongside the effects of biospecimen selection, preanalytical handling, CpG target selection, assay design and interpretation thresholds. Tissue demonstrates the most reproducible signal and has achieved partial clinical translation through multiplex testing such as ConfirmMDx, whereas urinary and blood-based approaches remain investigational. Recent urinary findings, including in men with moderately elevated PSA, are promising but remain preliminary and have not established incremental value beyond contemporary risk assessment, biomarkers and multiparametric MRI. The translational priority is therefore not to demonstrate again that GSTP1 detects prostate cancer, but to determine whether a standardised assay provides reproducible, nonredundant and clinically actionable information at a defined decision point. Future development should prioritise clearly specified target populations, analytically validated assay configurations, clinically significant prostate cancer as the relevant endpoint, and prospective evaluation against contemporary diagnostic pathways.",
-      "journal": "Molecular biology reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biomedical Sciences, Jeffrey Cheah Sunway Medical School, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Malaysia.",
-        "Department of Medical Education, Jeffrey Cheah Sunway Medical School, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Malaysia.",
-        "Faculty of Medicine, University of Cyberjaya, Cyberjaya, Malaysia.",
-        "Centre for Learning and Teaching, University of Cyberjaya, Cyberjaya, Malaysia.",
-        "School of Clinical and Health Sciences, Faculty of Health, University of Technology Sydney, NSW, 2007, Sydney, Australia. goh.beyhing@uts.edu.au.",
-        "Sunway Biofunctional Molecules Discovery Centre, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Malaysia. goh.beyhing@uts.edu.au.",
-        "Graduate Institute of Cancer Biology and Drug Discovery, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan. goh.beyhing@uts.edu.au.",
-        "Department of Medical Education, Jeffrey Cheah Sunway Medical School, Faculty of Medical and Life Sciences, Sunway University, Sunway City, Malaysia. nancy.ng@kpju.edu.my.",
-        "Graduate School of Medicine, KPJ Healthcare University, Nilai, Malaysia. nancy.ng@kpju.edu.my."
-      ],
-      "doi": "10.1007/s11033-026-13011-2",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905185/"
-    },
-    {
-      "pmid": "42907972",
-      "title": "ClinNetDx: a novel explainable ai framework for acute lymphoblastic leukemia detection using multi-modal clinical data.",
-      "abstract": "Early identification of Acute Lymphoblastic Leukemia (ALL) is vital to respond on time; yet, presently existing diagnostic procedures still depend on laboratory knowledge, manual interpretation and many supplementary exams. This paper introduces ClinNetDx, a new hybrid deep learning model for Acute Lymphoblastic Leukaemia prediction that combines a Convolutional Neural Network (CNN) and a Deep Neural Network (DNN) and employs structured blood test data and (optional) medical images to support good health and well-being. The proposed methodology includes a tabular-to-spatial transformation that converts numerical clinical measures into 2D representations, enabling a CNN to learn spatial correlations among features from structured medical data. We use advanced pre-processing methods (normalization, imputation, SMOTE) that are robust to class imbalance and missing variables. For interpretability, we use dual explainability: SHAP values to explain feature contributions for numerical data and Grad-CAM visualizations to generate localized heatmaps for image inputs. To make it accessible in a clinical environment, the system is built as a Django-powered web application that provides on-the-fly predictions and an intuitive presentation of findings. The design is flexible and deployed as a RESTful API for interface with medical information systems, mHealth apps and cloud platforms. To demonstrate the promising predictive and generalizing power of the proposed system, it was evaluated on publicly available multi-modal haematological datasets comprising 5,000 structured CBC records, 2,500 ALL smear images, and 2,000 synchronized multi-modal samples using k-fold cross-validation, with confusion matrices and ROC-AUC reported. Experimental assessment shows that ClinNetDx achieves 98.1% classification accuracy, outperforming conventional machine learning and unimodal deep learning models while maintaining strong precision, recall, and ROC-AUC performance. The proposed system combines accurate multi-modal prediction with interpretable decision support, making it a potential option for computer-assisted early diagnosis of Acute Lymphoblastic Leukaemia and for future clinical decision-support applications.",
-      "journal": "BMC cancer",
+      "pmid": "42908212",
+      "title": "Accuracy of Large Language Model Chatbots in Retrieving MRI Safety Conditions for Medical Implants.",
+      "abstract": "Retrieving MRI safety conditions for implanted devices is increasingly complex and time-consuming. To evaluate the accuracy of internet-enabled large language model (LLM) chatbots in retrieving implant-specific MRI safety conditions, using manufacturer documentation as the reference standard. Prospective comparative evaluation in a constructed device cohort, followed by a retrospective clinical pilot. Fifty purposively selected device configurations and 20 patients (10 with cardiac and 10 with noncardiac devices) referred to the MRI Safety Committee. No field-strength or sequence restrictions. Standardized single-shot prompts requested eight parameters from ChatGPT-5.0, Gemini 2.5 Pro, and Claude Sonnet 4.5: MRI safety label, field strengths, eligible regions/centering, transmit-coil restrictions, RF exposure limits, maximum spatial gradient, maximum gradient slew rate, and scan duration. Two radiologists (10 and 25 years' experience) and an MRI technologist (32 years) independently scored 1200 parameter-level outputs against manufacturer Instructions for use and technical manuals using a 5-point scale (5, fully correct; 1, substantively incorrect or fabricated); scores of 4-5 indicated accuracy. In the pilot, 160 outputs from ChatGPT-5.6, a newer version of the best-performing chatbot, were scored identically. Intraclass correlation coefficient; Gwet's first-order agreement coefficient (AC1); Friedman test; Wilcoxon signed-rank tests; device-clustered bootstrap 95% confidence intervals (CIs); two-sided significance threshold, p < 0.05. Mean ordinal scores were 4.76 (ChatGPT), 4.20 (Gemini), and 4.17 (Claude); ChatGPT scored significantly higher. Respective pooled parameter-level accuracies were 0.94 (95% CI, 0.89-0.98), 0.79 (0.71-0.86), and 0.78 (0.69-0.87). Pilot accuracy with ChatGPT-5.6 was 0.98 (95% CI, 0.94-1.00). Internet-enabled LLM chatbots correctly retrieved up to 94% of MRI safety parameters in the constructed cohort and 98% in the clinical pilot. Errors occurred even with the best-performing chatbot, requiring direct verification against current manufacturer documentation before clinical use. Stage 2. Stage 2.",
+      "journal": "Journal of magnetic resonance imaging : JMRI",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Computing, SRM Institute of Engineering and Technology Tiruchirappalli, 621105, Tiruchirappalli, India.",
-        "Department of Mathematics, Saveetha School of Engineering, Saveetha Institute of Medical and Technical Sciences, Chennai, 602105, Tamil Nadu, India.",
-        "School of Computing, SASTRA Deemed University, Thirumalaisamudram, Thanjavur, Tamil Nadu, 613401, India.",
-        "Department of Mathematics, Busitema University, Tororo, 236, Uganda. rnalule.sci@busitema.ac.ug.",
-        "GRC Department, Applied College, King Abdulaziz University, Jeddah, 21589, Saudi Arabia.",
-        "Biological Sciences Department, College of Science & Arts, King Abdulaziz University, Rabigh Campus, Jeddah, 21589, Saudi Arabia."
+        "Department of Radiology, Chaim Sheba Medical Center, Tel Hashomer, Israel; Affiliated With the Gray Faculty of Medical and Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Division of Cardiology, Leviev Cardiovascular & Thoracic Center, Chaim Sheba Medical Center, Tel Hashomer, Israel; Affiliated With the Faculty of Medicine and Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
+        "Windreich Department of Artificial Intelligence and Human Health, Mount Sinai Medical Center, New York, New York, USA.",
+        "Department of Neurology, Lady Davis Carmel Medical Center, Haifa, Israel.",
+        "Department of Radiology, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA."
       ],
-      "doi": "10.1186/s12885-026-16632-9",
-      "date": "2026-07-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907972/"
+      "doi": "10.1002/jmri.70578",
+      "date": "2026-10-21",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908212/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42908429",
+      "date": "2026-10-22",
+      "title": "Human cell models for inherited platelet disorders: strengths, limitations and emerging technologies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908429/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Haematologica，PMID 为 42908429。",
+      "report": "Inherited platelet disorders (IPD) comprise a clinically and genetically heterogeneous group of conditions affecting platelet number, function, or both. Although next-generation sequencing has accelerated gene discovery, it has also produced a growing number o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42908392",
+      "date": "2026-10-22",
+      "title": "3D Printed Solid-Walled Zein Vascular Network With Long-Term Perfusion Stability and Trans-Wall Transport.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908392/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42908392。",
+      "report": "As in vitro tissue models, including organoids, become thicker and more complex, diffusion-limited three-dimensional (3D) culture increasingly fails to sustain long-term viability, nutrient supply, and spatial microenvironmental regulation. Existing vasculariz...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42908214",
+      "date": "2026-10-21",
+      "title": "A Photocurable Hydrogel Cardiac Patch Incorporating Formononetin-Loaded Lipid Nanoparticles for Myocardial Repair After Acute Ischemia.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908214/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42908214。",
+      "report": "Myocardial infarction (MI) induces ventricular dysfunction through ischemic necrosis and fibrotic remodeling, progressing to heart failure and constituting a major global cardiovascular burden. To address this, we developed a photocurable, hydrogel-based cardi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42907531",
       "date": "2026-10-21",
@@ -590,104 +659,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42907531。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42906857",
-      "date": "2026-10-21",
-      "title": "Automated Spheroid and Organoid Image Analysis from Rule-Based Methods to Deep Learning.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906857/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 SLAS discovery : advancing life sciences R & D，PMID 为 42906857。",
-      "report": "The increased adoption of three-dimensional (3D) cultures in high-content screening has created an analytical bottleneck in image analysis, prompting the development of automated image analysis tools. This review examines the evolution of automated tools for a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42906827",
-      "date": "2026-10-21",
-      "title": "Microbiota-Taurine Pathway Links Dietary Fiber to Mucosal Healing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906827/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Gastroenterology，PMID 为 42906827。",
-      "report": "Dietary fibers modulate host-microbiota interactions. Whether fiber promotes epithelial repair through microbiota-dependent mechanisms remains unclear. We determined how alginate influences colitis recovery and whether the pathway is relevant to ulcerative col...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42906763",
-      "date": "2026-10-21",
-      "title": "Navigating the landscape of stem cell therapeutics: Overcoming translational hurdles via emerging technologies and regulatory frontiers.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906763/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacology & therapeutics，PMID 为 42906763。",
-      "report": "Global population aging has increased the incidence of intractable diseases. Accordingly, regenerative medicine using stem cell therapies offers a critical shift from symptom management to functional tissue restoration. Hematopoietic, mesenchymal, and pluripot...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -808,61 +779,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42905206",
+      "id": "pubmed-42908212",
       "date": "2026-10-21",
-      "title": "Inferring tissue origin from cell-free DNA in metastatic cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
+      "title": "Accuracy of Large Language Model Chatbots in Retrieving MRI Safety Conditions for Medical Implants.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905206/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908212/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM",
         "Multi-omics"
       ],
       "tags": [
-        "biotech",
-        "肿瘤",
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 42905206。",
-      "report": "A major clinical challenge in metastatic cancer management is determining not only the presence of tumor-derived cell-free DNA (cfDNA) but also the tissue lineage and organ context reflected by circulating cfDNA signals. CfDNA supports such inference by retain...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42905185",
-      "date": "2026-10-21",
-      "title": "GSTP1 promoter hypermethylation in prostate cancer detection: current evidence, clinical positioning, and translational gaps.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42905185/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42905185。",
-      "report": "GSTP1 promoter hypermethylation is one of the most consistently documented molecular alterations in prostate cancer, with high prevalence in malignant tissue and a well-established relationship with transcriptional silencing. However, despite more than two dec...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of magnetic resonance imaging : JMRI，PMID 为 42908212。",
+      "report": "Retrieving MRI safety conditions for implanted devices is increasingly complex and time-consuming. To evaluate the accuracy of internet-enabled large language model (LLM) chatbots in retrieving implant-specific MRI safety conditions, using manufacturer documen...",
+      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -987,6 +934,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42908741",
+      "date": "2026-10-07",
+      "title": "Population-specific molecular features and clinical significance of urinary tumor DNA mutations in Chinese patients with newly diagnosed non-muscle-invasive bladder cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908741/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42908741。",
+      "report": "Non-muscle-invasive bladder cancer (NMIBC) is characterized by high recurrence rates, highlighting the need for effective, non-invasive diagnostic and risk stratification tools. Although urinary biomarkers are increasingly used worldwide, molecular data specif...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42907240",
       "date": "2026-10-02",
       "title": "Irinotecan Plus Cetuximab Rechallenge Versus Trifluridine/Tipiracil Plus Bevacizumab as Third-Line Treatment in Circulating Tumor DNA-Selected Metastatic Colorectal Cancer (ROMANCE Trial).",
@@ -1021,6 +996,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42908192",
+      "date": "2026-10-01",
+      "title": "Oncolytic Virus-Engineered Extracellular Vesicles Rewire Glioblastoma Immunity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908192/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42908192。",
+      "report": "Immunotherapy with oncolytic Herpes simplex virus type 1 (oHSV-1) shows promise for glioblastoma; however, clinical benefit remains uncommon due to tumour- and host-mediated immunosuppression, which limits immune targeting of residual glioblastoma stem-like ce...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42906022",
       "date": "2026-09-28",
       "title": "A Simulation-Free Topological Basis for Building Compact Koopman Models of Protein Folding.",
@@ -1047,34 +1054,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42906022。",
       "report": "Unravelling protein-folding mechanisms and kinetics is a key challenge to biochemical science. The variational approach for Markov processes (VAMP) is a powerful tool to build Markov Models that capture key kinetic and structural information despite the confor...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42907468",
-      "date": "2026-09-22",
-      "title": "Oropouche virus disrupts neurodevelopment and exhibits congenital infection potential.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907468/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42907468。",
-      "report": "Oropouche virus (OROV) historically caused a self-limiting disease, yet recent strains have been clinically linked to congenital infection and neurodevelopmental disease. These observations highlight the need to study OROV as a congenital pathogen. Here, using...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1108,6 +1087,40 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42907456。",
       "report": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different prot...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42908732",
+      "date": "2026-09-15",
+      "title": "Breast cancer brain metastasis: mechanisms, emerging biomarkers, and therapeutic opportunities.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908732/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of cancer research，PMID 为 42908732。",
+      "report": "Breast cancer brain metastasis (BCBM) is a clinically distinct form of metastatic breast cancer that causes substantial neurological morbidity and mortality. This review examines the biological bottlenecks that precede a detectable brain lesion: survival in th...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1202,36 +1215,6 @@
       "fact": "PubMed 记录显示该文献收录于 Genome medicine，PMID 为 42908017。",
       "report": "Ovarian cancer (OC) remains highly lethal due to frequent late-stage diagnosis and the challenge of distinguishing malignant from benign adnexal masses (BAM) preoperatively. Reliable non-invasive diagnostic biomarkers remain an unmet clinical need. This multi-...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42907972",
-      "date": "2026-07-27",
-      "title": "ClinNetDx: a novel explainable ai framework for acute lymphoblastic leukemia detection using multi-modal clinical data.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907972/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BMC cancer，PMID 为 42907972。",
-      "report": "Early identification of Acute Lymphoblastic Leukemia (ALL) is vital to respond on time; yet, presently existing diagnostic procedures still depend on laboratory knowledge, manual interpretation and many supplementary exams. This paper introduces ClinNetDx, a n...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
