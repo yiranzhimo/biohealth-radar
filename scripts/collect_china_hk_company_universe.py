@@ -7,7 +7,9 @@ import argparse
 import datetime as dt
 import json
 import re
+import sys
 import urllib.request
+from urllib.parse import urlencode
 import xml.etree.ElementTree as ET
 import zipfile
 from io import BytesIO
@@ -31,8 +33,15 @@ HKEX_SECURITIES_URL = (
     "securitieslists/ListOfSecurities.xlsx"
 )
 HKEX_EQUITIES_URL = "https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=en"
-HSI_BIOTECH_FACTSHEET_URL = (
-    "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+HSI_GCS_DOWNLOAD_URL = (
+    "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download"
+)
+HSI_FACTSHEET_MANIFEST_URL = HSI_GCS_DOWNLOAD_URL + "?" + urlencode(
+    {"resource": "/public-website/webapp/factsheets/factsheet.json"}
+)
+HSI_BIOTECH_FACTSHEET_RESOURCE = "/public-website/webapp/factsheets/en-hk/hsbio.pdf"
+HSI_BIOTECH_FACTSHEET_URL = HSI_GCS_DOWNLOAD_URL + "?" + urlencode(
+    {"resource": HSI_BIOTECH_FACTSHEET_RESOURCE}
 )
 HSI_BIOTECH_INDEX_URL = "https://www.hsi.com.hk/eng/indexes/all-indexes/hsbio"
 USER_AGENT = "BioHealthRadar/0.1 (official company discovery)"
@@ -232,7 +241,9 @@ def parse_hsi_date(text: str) -> str:
         return ""
 
 
-def parse_hsi_text(pages: list[str]) -> tuple[str, list[dict[str, Any]]]:
+def parse_hsi_text(
+    pages: list[str], source_url: str = HSI_BIOTECH_FACTSHEET_URL
+) -> tuple[str, list[dict[str, Any]]]:
     text = "\n".join(pages)
     observed_on = parse_hsi_date(text)
     row_re = re.compile(
@@ -257,7 +268,7 @@ def parse_hsi_text(pages: list[str]) -> tuple[str, list[dict[str, Any]]]:
                 "weight": float(weight),
                 "industryClassification": "Healthcare",
                 "observedOn": observed_on or None,
-                "sourceUrl": HSI_BIOTECH_FACTSHEET_URL,
+                "sourceUrl": source_url,
             }
         )
     records.sort(key=lambda item: item["stockCode"])
@@ -266,7 +277,9 @@ def parse_hsi_text(pages: list[str]) -> tuple[str, list[dict[str, Any]]]:
     return observed_on, records
 
 
-def parse_hsi_records(content: bytes) -> tuple[str, list[dict[str, Any]]]:
+def parse_hsi_records(
+    content: bytes, source_url: str = HSI_BIOTECH_FACTSHEET_URL
+) -> tuple[str, list[dict[str, Any]]]:
     try:
         from pypdf import PdfReader
     except ImportError as exc:
@@ -274,26 +287,99 @@ def parse_hsi_records(content: bytes) -> tuple[str, list[dict[str, Any]]]:
             "pypdf is required to parse the HSI factsheet; install requirements-company-discovery.txt"
         ) from exc
     reader = PdfReader(BytesIO(content))
-    return parse_hsi_text([page.extract_text() or "" for page in reader.pages])
+    return parse_hsi_text([page.extract_text() or "" for page in reader.pages], source_url)
 
 
-def collect(timeout: float = 30.0) -> dict[str, Any]:
+def hsi_factsheet_url(payload: dict[str, Any]) -> str:
+    entries = payload.get("data") or []
+    if not isinstance(entries, list):
+        raise ValueError("HSI factsheet manifest did not contain a list of resources")
+    resource = next(
+        (
+            str(item.get("fileEng") or "")
+            for item in entries
+            if isinstance(item, dict) and item.get("seriesCode") == "hsbio"
+        ),
+        "",
+    )
+    if not resource.startswith("/public-website/webapp/factsheets/") or not resource.endswith(".pdf"):
+        raise ValueError("HSI factsheet manifest did not include a valid HSBIO English PDF")
+    return HSI_GCS_DOWNLOAD_URL + "?" + urlencode({"resource": resource})
+
+
+def fetch_csi(timeout: float) -> tuple[str, list[dict[str, Any]]]:
     csi_details = request_json(CSI_DETAILS_URL, timeout)
     csi_file_url = csi_constituent_file_url(csi_details)
     csi_content = request_bytes(csi_file_url, timeout, "application/vnd.ms-excel")
+    return parse_csi_records(csi_content)
+
+
+def fetch_hkex(timeout: float) -> tuple[str, list[dict[str, Any]]]:
     hkex_content = request_bytes(
         HKEX_SECURITIES_URL,
         timeout,
         "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
-    hsi_content = request_bytes(HSI_BIOTECH_FACTSHEET_URL, timeout, "application/pdf")
-    csi_observed_on, csi_records = parse_csi_records(csi_content)
-    hkex_observed_on, hkex_records = parse_hkex_records(hkex_content)
-    hsi_observed_on, hsi_records = parse_hsi_records(hsi_content)
+    return parse_hkex_records(hkex_content)
+
+
+def fetch_hsi(timeout: float) -> tuple[str, list[dict[str, Any]]]:
+    factsheet_url = hsi_factsheet_url(request_json(HSI_FACTSHEET_MANIFEST_URL, timeout))
+    hsi_content = request_bytes(factsheet_url, timeout, "application/pdf")
+    return parse_hsi_records(hsi_content, factsheet_url)
+
+
+SOURCE_REFRESH_ERRORS = (OSError, RuntimeError, ValueError, zipfile.BadZipFile, ET.ParseError)
+
+
+def refresh_source(
+    source_id: str,
+    fetch: Any,
+    timeout: float,
+    previous: dict[str, Any],
+    captured_at: str,
+) -> tuple[str, list[dict[str, Any]], dict[str, Any]]:
+    try:
+        observed_on, records = fetch(timeout)
+        if not records:
+            raise ValueError("source returned no records")
+        return observed_on, records, {
+            "refreshStatus": "fresh",
+            "lastSuccessfulCaptureAt": captured_at,
+        }
+    except SOURCE_REFRESH_ERRORS as exc:
+        old_source = next(
+            (item for item in previous.get("sources", []) if item.get("id") == source_id),
+            None,
+        )
+        if not old_source or not old_source.get("records"):
+            raise RuntimeError(f"{source_id} failed and no prior records are available: {exc}") from exc
+        print(f"Warning: {source_id} refresh failed; retaining prior records: {exc}", file=sys.stderr)
+        return old_source.get("observedOn") or "", old_source["records"], {
+            "refreshStatus": "carried_forward",
+            "lastRefreshError": str(exc)[:250],
+            "lastSuccessfulCaptureAt": old_source.get("lastSuccessfulCaptureAt")
+            or previous.get("capturedAt"),
+        }
+
+
+def collect(timeout: float = 30.0, previous: dict[str, Any] | None = None) -> dict[str, Any]:
+    previous = previous or {}
+    captured_at = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+    csi_observed_on, csi_records, csi_refresh = refresh_source(
+        "csi-star-biology-medicine-constituents", fetch_csi, timeout, previous, captured_at
+    )
+    hkex_observed_on, hkex_records, hkex_refresh = refresh_source(
+        "hkex-active-biotech-marker", fetch_hkex, timeout, previous, captured_at
+    )
+    hsi_observed_on, hsi_records, hsi_refresh = refresh_source(
+        "hsi-biotech-constituents", fetch_hsi, timeout, previous, captured_at
+    )
+    if all(status["refreshStatus"] == "carried_forward" for status in (csi_refresh, hkex_refresh, hsi_refresh)):
+        raise RuntimeError("all China/Hong Kong company sources failed to refresh")
     hong_kong_security_codes = {
         str(record.get("stockCode") or "") for record in [*hkex_records, *hsi_records]
     }
-    captured_at = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     return {
         "schemaVersion": "1.0",
         "kind": "china_hk_biotech_company_universe",
@@ -314,6 +400,7 @@ def collect(timeout: float = 30.0) -> dict[str, Any]:
                 "reliability": "High",
                 "url": CSI_INDEX_URL,
                 "observedOn": csi_observed_on or None,
+                **csi_refresh,
                 "coverage": "上证科创板生物医药指数当日全部成分股，不是全部中国 biotech 公司。",
                 "records": csi_records,
             },
@@ -324,6 +411,7 @@ def collect(timeout: float = 30.0) -> dict[str, Any]:
                 "reliability": "High",
                 "url": HKEX_SECURITIES_URL,
                 "observedOn": hkex_observed_on or None,
+                **hkex_refresh,
                 "coverage": (
                     "当前证券简称仍带 B/SB 标记的港交所股票；名称为官方交易简称，"
                     "不是法定全称；不包含已转为一般上市的历史 18A 公司。"
@@ -337,6 +425,7 @@ def collect(timeout: float = 30.0) -> dict[str, Any]:
                 "reliability": "High",
                 "url": HSI_BIOTECH_INDEX_URL,
                 "observedOn": hsi_observed_on or None,
+                **hsi_refresh,
                 "coverage": (
                     "恒生生物科技指数当前 30 家成分公司，覆盖部分已移除 B 标记的成熟公司；"
                     "仅覆盖符合港股通资格且按该指数方法筛选的最大公司。"
@@ -349,12 +438,13 @@ def collect(timeout: float = 30.0) -> dict[str, Any]:
 
 def main() -> int:
     args = parse_args()
-    payload = collect(args.timeout)
+    output = Path(args.output)
+    previous = json.loads(output.read_text(encoding="utf-8")) if output.exists() else {}
+    payload = collect(args.timeout, previous)
     serialized = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     if args.dry_run:
         print(serialized, end="")
     else:
-        output = Path(args.output)
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_text(serialized, encoding="utf-8")
     summary = payload["summary"]

@@ -1,9 +1,15 @@
 import unittest
 import zipfile
 from io import BytesIO
+from unittest.mock import patch
 
 from scripts.collect_china_hk_company_universe import (
+    HSI_BIOTECH_FACTSHEET_URL,
+    HSI_FACTSHEET_MANIFEST_URL,
+    collect,
     csi_constituent_file_url,
+    fetch_hsi,
+    hsi_factsheet_url,
     issuer_short_name,
     parse_csi_rows,
     parse_hkex_records,
@@ -122,6 +128,74 @@ class ChinaHkCompanyUniverseCollectorTests(unittest.TestCase):
         self.assertEqual([item["stockCode"] for item in records], ["06160", "09606"])
         self.assertEqual(records[1]["issuerShortNameEn"], "DUALITYBIO")
         self.assertEqual(records[0]["isin"], "CH1391448177")
+
+    def test_resolves_hsi_factsheet_from_official_manifest(self):
+        manifest = {"data": [{"seriesCode": "hsbio", "fileEng": "/public-website/webapp/factsheets/en-hk/hsbio.pdf"}]}
+        self.assertEqual(hsi_factsheet_url(manifest), HSI_BIOTECH_FACTSHEET_URL)
+        with (
+            patch("scripts.collect_china_hk_company_universe.request_json", return_value=manifest) as request_json,
+            patch("scripts.collect_china_hk_company_universe.request_bytes", return_value=b"pdf") as request_bytes,
+            patch("scripts.collect_china_hk_company_universe.parse_hsi_records", return_value=("2026-09-30", [{"stockCode": "06160"}])) as parse_records,
+        ):
+            fetch_hsi(10)
+        request_json.assert_called_once_with(HSI_FACTSHEET_MANIFEST_URL, 10)
+        request_bytes.assert_called_once_with(HSI_BIOTECH_FACTSHEET_URL, 10, "application/pdf")
+        parse_records.assert_called_once_with(b"pdf", HSI_BIOTECH_FACTSHEET_URL)
+
+    def test_rejects_invalid_hsi_factsheet_manifest_path(self):
+        with self.assertRaisesRegex(ValueError, "valid HSBIO English PDF"):
+            hsi_factsheet_url({"data": [{"seriesCode": "hsbio", "fileEng": "https://elsewhere.test/file.pdf"}]})
+
+    def test_failed_hsi_refresh_keeps_prior_records_while_other_sources_update(self):
+        previous_hsi = {
+            "id": "hsi-biotech-constituents",
+            "observedOn": "2026-08-31",
+            "records": [{"stockCode": "06160"}],
+        }
+        previous = {
+            "capturedAt": "2026-10-02T09:48:31+00:00",
+            "sources": [previous_hsi],
+        }
+        with (
+            patch("scripts.collect_china_hk_company_universe.fetch_csi", return_value=("2026-10-23", [{"securityCode": "688235"}])),
+            patch("scripts.collect_china_hk_company_universe.fetch_hkex", return_value=("2026-10-23", [{"stockCode": "09688"}])),
+            patch("scripts.collect_china_hk_company_universe.fetch_hsi", side_effect=OSError("HTTP Error 404")),
+        ):
+            payload = collect(previous=previous)
+
+        sources = {source["id"]: source for source in payload["sources"]}
+        hsi = sources["hsi-biotech-constituents"]
+        self.assertEqual(hsi["records"], previous_hsi["records"])
+        self.assertEqual(hsi["observedOn"], "2026-08-31")
+        self.assertEqual(hsi["refreshStatus"], "carried_forward")
+        self.assertEqual(hsi["lastSuccessfulCaptureAt"], previous["capturedAt"])
+        self.assertEqual(sources["hkex-active-biotech-marker"]["refreshStatus"], "fresh")
+        self.assertEqual(payload["summary"]["recordCount"], 3)
+
+    def test_failed_source_without_prior_records_still_fails(self):
+        with patch("scripts.collect_china_hk_company_universe.fetch_csi", side_effect=OSError("HTTP Error 404")):
+            with self.assertRaisesRegex(RuntimeError, "no prior records"):
+                collect()
+
+    def test_all_sources_failed_still_fails(self):
+        previous = {
+            "capturedAt": "2026-10-02T09:48:31+00:00",
+            "sources": [
+                {"id": source_id, "records": [{"stockCode": "1"}]}
+                for source_id in (
+                    "csi-star-biology-medicine-constituents",
+                    "hkex-active-biotech-marker",
+                    "hsi-biotech-constituents",
+                )
+            ],
+        }
+        with (
+            patch("scripts.collect_china_hk_company_universe.fetch_csi", side_effect=OSError("HTTP Error 404")),
+            patch("scripts.collect_china_hk_company_universe.fetch_hkex", side_effect=OSError("HTTP Error 404")),
+            patch("scripts.collect_china_hk_company_universe.fetch_hsi", side_effect=OSError("HTTP Error 404")),
+        ):
+            with self.assertRaisesRegex(RuntimeError, "all China/Hong Kong company sources failed"):
+                collect(previous=previous)
 
 
 if __name__ == "__main__":

@@ -146,6 +146,8 @@ python3 scripts/build_company_intelligence.py
 - `data/company_universe.json`: 正式画像公司与自动审核通过公司的统一公司池
 - `data/company_profiles.json`: 正式 registry 公司的业务与证据画像
 
+中港公司名单刷新会分别处理这三个官方来源。恒生生物科技指数事实表通过恒生官网的事实表目录定位，不依赖旧 PDF 直链。单个来源暂时不可用时，保留该来源上次成功采集的记录，并在 `sources[].refreshStatus` 标记为 `carried_forward`；`observedOn` 保留原日期，`lastSuccessfulCaptureAt` 和 `lastRefreshError` 说明数据新鲜度及失败原因。没有历史记录可沿用，或三个来源全部刷新失败时，任务仍会失败并发送通知。
+
 定时刷新会在采集和复核之后重建上述文件。CI 和 Pages 部署使用 `--check` 阻止陈旧的公司画像发布。
 
 ## PubMed Collection Test
