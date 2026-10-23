@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-23T11:46:12.677944+00:00",
+  "capturedAt": "2026-10-23T17:13:47.590561+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-23"
   },
   "pmids": [
+    "42909412",
+    "42909312",
+    "42909286",
+    "42909034",
     "42908732",
     "42908429",
-    "42908392",
-    "42908214",
-    "42908192",
-    "42907531",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,93 @@
     "42906022",
     "42905563",
     "42899582",
+    "42909369",
     "42908741",
     "42908017",
     "42907928",
     "42907240",
-    "42906787",
-    "42908212"
+    "42909110"
   ],
   "records": [
+    {
+      "pmid": "42909412",
+      "title": "Reconstructing the Tumor Mechanical Microenvironment in Organoids: From Mechanical Cues to Biomimetic Modeling and Therapeutic Insights.",
+      "abstract": "The tumor mechanical microenvironment (TMME) is a critical regulator of cancer initiation, progression, metastasis, and therapeutic response. Beyond biochemical signaling, physical cues such as matrix stiffness, solid stress, interstitial fluid flow, and extracellular matrix (ECM) architecture regulate tumor-cell behavior, stromal remodeling, abnormal vascular proliferation and leakage, immune interactions, and drug resistance. However, conventional in vitro and in vivo models remain limited in recapitulating the dynamic, heterogeneous, and coupled mechanical features of native tumors. Tumor organoids, particularly patient-derived tumor organoids (PDOs), have emerged as physiologically relevant and experimentally tractable platforms for modeling tumor mechanics, as they preserve key aspects of tumor architecture, cellular heterogeneity, and genetic background while enabling precise experimental manipulation and high-throughput analysis. This review summarizes recent advances in modeling the TMME in tumor organoids. We first discuss major mechanical features of the tumor microenvironment (TME). We then discuss current strategies for recreating these features in organoid models, including stiffness-defined matrices, engineered ECMs, microfluidic platforms, mechanical actuation systems, multicellular co-culture models, and three-dimensional (3D) bioprinting. We also highlight their applications in mechanistic studies, disease modeling, and drug testing. Finally, we discuss current limitations including the overemphasis on stiffness-based design, limited reproducibility and standardization, and insufficient preservation of tumor spatial heterogeneity and mechanical gradients. We further outline future directions toward controllable, standardized, and patient-specific organoid platforms through advances in engineered matrices, microfluidics, automation, and computational analysis. By shifting from single-parameter modeling to systems-level reconstruction of the TMME, tumor organoid models are becoming increasingly powerful platforms for mechanistic discovery and therapeutic evaluation.",
+      "journal": "International journal of medical sciences",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Shenzhen Campus, Sun Yat-Sen University, Shenzhen, China.",
+        "Department of Chemistry, The Chinese University of Hong Kong, Shatin, N. T., Hong Kong, China.",
+        "3B's Research Group, I3Bs-Research Institute on Biomaterials, Biodegradables and Biomimetics, University of Minho, Headquarters of the European Institute of Excellence on Tissue Engineering and Regenerative Medicine, Avepark - Parque de Ciência e Tecnologia, Rua Ave 1, Edifício 1 (Sede), 4805-0 17, Barco, Guimarães, Portugal.",
+        "ICVS/3B's - PT Government Associate Laboratory, Braga/Guimarães, Portugal.",
+        "Department of Scientific Research Center, Department of Critical Care Medicine, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, China."
+      ],
+      "doi": "10.7150/ijms.138880",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909412/"
+    },
+    {
+      "pmid": "42909312",
+      "title": "Chromatin remodeling in bone organoids: from epigenetic regulation to disease modeling and therapeutic translation.",
+      "abstract": "Chromatin remodeling contributes to skeletal development, tissue homeostasis, and disease by regulating nucleosome positioning, chromatin accessibility, and histone modifications. Bone organoids can partially reproduce the three-dimensional human bone microenvironment and provide new in vitro models for studying skeletal pathophysiology. This review summarizes recent progress in chromatin remodeling and bone organoid research, with a focus on the roles of switch/sucrose non-fermenting (SWI/SNF), imitation switch (ISWI), and chromodomain helicase deoxyribonucleic acid (DNA)-binding (CHD) complexes in bone organoid regulation. We also discuss the relationships between bone organoids and enhancer remodeling, DNA methylation, histone modifications, chromatin organization, and cellular metabolism. In addition, we summarize the applications of emerging technologies, including multiomics, spatial epigenomics, and live cell imaging, in bone organoid studies. The current limitations of these models are also considered. Finally, we discuss potential directions for the further development and refinement of bone organoids. We highlight their potential applications in bone disease research, drug screening, and future clinical translation within the context of chromatin remodeling.",
+      "journal": "Frontiers in genetics",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Clinical Medicine, Qiqihar Medical University, Qiqihar, China.",
+        "Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan Province, China.",
+        "School of Clinical Medicine, Chengdu Medical College, The First Affiliated Hospital of Chengdu Medical College, Chengdu, Sichuan, China.",
+        "Orthopedic Center, Liangjiang Hospital Affiliated to Chongqing Medical University, Chongqing, China.",
+        "Orthopedic Center, the People's Hospital of Chongqing Liangjiang New Area, Chongqing, China.",
+        "Jiulongpo District Maternal and Child Healthcare Hospital, Chongqing, China."
+      ],
+      "doi": "10.3389/fgene.2026.1975296",
+      "date": "2026-09-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909312/"
+    },
+    {
+      "pmid": "42909286",
+      "title": "Scalable manufacturing of human iPSC-derived functional liver organoids for acute liver failure treatment.",
+      "abstract": "Acute liver failure (ALF) is a life-threatening disease associated with high mortality rates. Human induced pluripotent stem cell (hiPSC)-derived liver organoids (LOs) hold considerable promise as cell-based bridging therapies for ALF. However, the scalable production of highly consistent and mature LOs remains a major barrier to their clinical translation. In this study, we aimed to establish a scalable manufacturing platform for the reproducible generation of highly uniform and functionally mature liver organoids. We generated LOs from hiPSCs and established a differentiation platform designed for high-density LO production using low-attachment culture vessels combined with spin culture. The hepatic functions of conventionally cultured LOs (Con-LOs) and spin-cultured LOs (Spin-LOs) were evaluated using qPCR, albumin secretion assay, and detoxification assay. The molecular effects of spin culture on LO development were further analyzed using RNA sequencing. Furthermore, microwell bags were introduced to enhance manufacturing scalability. Finally, the LOs were transplanted into the intraperitoneal spaces of acetaminophen (APAP)-induced ALF mice to assess their therapeutic potential. Compared to Con-LOs, Spin-LOs exhibited markedly elevated hepatic gene expression and significantly enhanced liver-specific functions. Mechanistically, spin culture enabled a metabolic transition from glycolysis to oxidative phosphorylation, thereby driving further functional maturation of liver organoids, resulting in improved synthetic, metabolic, and detoxification capacities. Moreover, integrating a microwell bag-based LO formation system with spin-culture-driven LO differentiation further promoted the efficiency and scalability of functional LO manufacturing. Importantly, these LOs provided short-term metabolic support following intraperitoneal transplantation into immunocompetent mice and significantly ameliorated APAP-induced liver failure. This study establishes a scalable manufacturing platform for the reproducible generation of highly uniform and functionally mature liver organoids. Our findings provide an evidence-supported foundation for their future clinical translation as cell-based bridging therapies for ALF.",
+      "journal": "Theranostics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Regenerative Medicine, Center for Stem Cell Biology and Regenerative Medicine, The Institute of Medical Science, The University of Tokyo, Minato, Tokyo, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Minato, Tokyo, Japan.",
+        "Advanced Medical Research Center, Graduate School of Medicine, Yokohama City University, Yokohama, Kanagawa, Japan.",
+        "Division of Immunology, Jiangsu Key Laboratory of Molecular Medicine, Medical School, Nanjing University, Nanjing, PR China.",
+        "Department of Pathology, Immunology and Microbiology, Graduate School of Medicine, The University of Tokyo, Minato, Tokyo, Japan.",
+        "Department of Clinical Pharmaceutics, Nihon Pharmaceutical University, Saitama, Japan.",
+        "Division of Clinical Genome Research, Advanced Clinical Research Center, The Institute of Medical Science, The University of Tokyo, Tokyo, Japan."
+      ],
+      "doi": "10.7150/thno.137714",
+      "date": "2026-09-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909286/"
+    },
+    {
+      "pmid": "42909034",
+      "title": "Equine (Equus caballus) primary post-natal brain-derived cells: immortalization and preliminary reprogramming attempts to induced pluripotent stem cells.",
+      "abstract": "Equines represent an underexplored yet highly relevant model for studying neurological diseases within a One Health framework. Here, we report the first establishment of post-natal equine brain-derived in vitro systems, including equine primary post-natal brain-derived cells (EpBCs) and their immortalized counterparts (EiBCs). EpBCs were isolated from the hippocampus and successfully expanded, while immortalization via Simian virus 40 large T antigen generated EiBCs lines with distinct transcriptomic reprogramming characterized by cell cycle activation and partial dedifferentiation. Despite testing three non-integrating approaches-Sendai virus, episomal vectors, and synthetic mRNA-no induced pluripotent stem cells (iPSCs)-like colonies were detected under the tested conditions, possibly reflecting a combination of species-specific, cell-intrinsic, and donor-specific factors, as well as culture conditions, factor compatibility, and delivery efficiency. Together, these findings establish a foundational equine brain-derived cell platform and highlight key challenges in equine reprogramming. Its One Health relevance is prospective, as this system may support future comparative neurological research and the development of equine brain organoids.",
+      "journal": "Frontiers in veterinary science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Comparative Biomedicine and Food Science, University of Padua, Padua, Italy.",
+        "Department of Molecular Medicine, University of Padua, Padua, Italy.",
+        "Department of Agronomy, Food, Natural Resources, Animals, and Environment, University of Padua, Padua, Italy."
+      ],
+      "doi": "10.3389/fvets.2026.1931938",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909034/"
+    },
     {
       "pmid": "42908732",
       "title": "Breast cancer brain metastasis: mechanisms, emerging biomarkers, and therapeutic opportunities.",
@@ -74,89 +153,6 @@
       "doi": "10.3324/haematol.2026.301744",
       "date": "2026-10-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908429/"
-    },
-    {
-      "pmid": "42908392",
-      "title": "3D Printed Solid-Walled Zein Vascular Network With Long-Term Perfusion Stability and Trans-Wall Transport.",
-      "abstract": "As in vitro tissue models, including organoids, become thicker and more complex, diffusion-limited three-dimensional (3D) culture increasingly fails to sustain long-term viability, nutrient supply, and spatial microenvironmental regulation. Existing vascularization, perfusion, and chip-based strategies still struggle to integrate complex 3D architecture, durable perfusion, mechanical integrity, and controlled trans-wall exchange in thick constructs. Here, a fibril-reinforced, 3D-printed solid-walled zein vascular interface is developed to couple long-term perfusion stability with wall-mediated mass transport. Homologous zein fibrils enable direct printing of branched perfusable conduits with tunable porous walls, avoiding sacrificial hollow-channel templating while improving deformation resistance and preserving permeability during 30 days of continuous perfusion. Wall architecture establishes two application-specific transport regimes. In a regulated-exchange regime, the interface supports nutrient delivery in 33 × 21 × 11 mm cell-laden constructs, maintaining long-term survival and enhancing CD31 expression within a continuously perfused peri-conduit microenvironment. In a high-permeability regime, enlarged porous walls generate spatial transport gradients, distance-dependent heterogeneity, and enhanced permeability and retention (EPR)-relevant trans-wall nanocarrier transport with peri-conduit accumulation, enabling evaluation of photoresponsive liposomal delivery and polyaniline-mediated photothermal responses. This zein platform integrates printable biomaterial architecture, perfusion durability, and tunable wall-mediated transport for thick tissue support and EPR-relevant therapeutic evaluation in advanced in vitro model systems.",
-      "journal": "Advanced healthcare materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China.",
-        "Jiaxing Yaojiao Medical Device Co. Ltd., Jiaxing, China.",
-        "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China."
-      ],
-      "doi": "10.1002/adhm.71882",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908392/"
-    },
-    {
-      "pmid": "42908214",
-      "title": "A Photocurable Hydrogel Cardiac Patch Incorporating Formononetin-Loaded Lipid Nanoparticles for Myocardial Repair After Acute Ischemia.",
-      "abstract": "Myocardial infarction (MI) induces ventricular dysfunction through ischemic necrosis and fibrotic remodeling, progressing to heart failure and constituting a major global cardiovascular burden. To address this, we developed a photocurable, hydrogel-based cardiac patch (Gel-CS/FMN@LNP hydrogel) with favorable mechanical robustness. The patch is composed of methacryloylated carboxymethyl chitosan (CACSMA) and methacryloylated gelatin (GelMA), incorporating Formononetin-loaded lipid nanoparticles (FMN@LNPs) for myocardial restoration. In vitro studies demonstrated that the Gel-CS/FMN@LNP hydrogel not only inhibited cardiomyocyte apoptosis by scavenging reactive oxygen species (ROS) but also promoted migration and tube formation of human umbilical vein endothelial cells (HUVECs). Moreover, when a co-culture system of the Gel-CS/FMN@LNP hydrogel and heart-forming organoids (HFOs) was subjected to oxygen-glucose deprivation (OGD) conditions, the system effectively inhibited HFO apoptosis and suppressed HFO fibrosis. In vivo experiments in MI model rats revealed that the Gel-CS/FMN@LNP hydrogel group preserved a higher left ventricular ejection fraction (LVEF: 67.2 ± 1.9%) compared to the MI group (LVEF: 41.7 ± 4.7%) at 28 days post-MI, thereby improving cardiac function. Histological analysis showed that the Gel-CS/FMN@LNP hydrogel reduced myocardial fibrosis in the infarct border zone, promoted angiogenesis, and facilitated macrophage polarization toward the M2 phenotype. RNA sequencing (RNA-seq) identified pathways associated with metabolic regulation (PPAR signaling pathway), myocardial protection (PI3K-Akt signaling pathway), anti-fibrosis (inhibition of extracellular matrix remodeling), and anti-inflammatory immune regulation (TNF signaling pathway). Single-cell RNA sequencing (scRNA-seq) revealed that the Gel-CS/FMN@LNP hydrogel promoted post-MI cardiac repair through a multi-target network involving circadian rhythm remodeling, matrix regulation, immune balance, and vascular protection. Our hydrogel system, which combines facile injectability, sustained release of active factors, and synergistic therapeutic effects, represents a promising therapeutic approach for post-MI repair.",
-      "journal": "Advanced healthcare materials",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Cardiovascular Translational Medicine, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
-        "Neocellmed Co. Ltd., Shanghai, China.",
-        "State Key Laboratory For Modification of Chemical Fibers and Polymer Materials, College of Biological Science and Medical Engineering, Donghua University, Shanghai, China."
-      ],
-      "doi": "10.1002/adhm.71879",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908214/"
-    },
-    {
-      "pmid": "42908192",
-      "title": "Oncolytic Virus-Engineered Extracellular Vesicles Rewire Glioblastoma Immunity.",
-      "abstract": "Immunotherapy with oncolytic Herpes simplex virus type 1 (oHSV-1) shows promise for glioblastoma; however, clinical benefit remains uncommon due to tumour- and host-mediated immunosuppression, which limits immune targeting of residual glioblastoma stem-like cells (GSCs). To address this barrier, extracellular vesicles (EVs) harvested from oHSV-1-infected GSCs (EVOV) were evaluated for their immunomodulatory capacity by priming peripheral blood mononuclear cells (PBMCs) ex vivo and in vivo. In GSC-PBMC organoids analysed by single-cell RNA sequencing, IFN-response and antigen-presentation programs were induced in both immune and tumour compartments, despite the GSC state. EVOV organoid transcriptome associated with patient tumour antigen-processing programs linked to improved clinical outcome, and EVOV immunopeptidomics identified candidate biomarker peptides that were also detected in patient immunopeptidomes from the clinical-trial cohort. In PBMC-engrafted NOD scid gamma mice bearing intracranial GSC xenografts, EVOV delivery increased circulating interferon (IFN) levels and enhanced systemic activation of T-cell subsets, while spatial transcriptomics revealed recruitment of peripheral immune cells to the tumour, accompanied by reprogramming of GSC states. Blocking vesicle-associated major histocompatibility complex I (MHC-I) attenuated EVOV-driven PBMC cytotoxicity against GSCs, supporting an MHC-I peptide-dependent mechanism of immune priming and a vaccine- or adjuvant-like, non-infectious, vesicle-based immunotherapeutic strategy.",
-      "journal": "Journal of extracellular vesicles",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Tumor Microenvironment Laboratory, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland.",
-        "Translational Medicine Doctoral School, Center of Postgraduate Medical Education, Warsaw, Poland.",
-        "Laboratory of Sequencing, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
-        "NeuroRepair Department, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland.",
-        "Department of Medical Microbiology, Medical University of Warsaw, Warsaw, Poland.",
-        "The Laboratory of Cytometry, Nencki Institute of Experimental Biology, Polish Academy of Sciences, Warsaw, Poland.",
-        "Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts, USA.",
-        "Institute of Human Genetics, Polish Academy of Sciences, Poznań, Poland.",
-        "Department of Biochemistry and Biotechnology, Poznań University of Life Sciences, Poznań, Poland.",
-        "Mass Spectrometry Laboratory, Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, Poland.",
-        "Department of NeuroOncology, Mossakowski Medical Research Institute, Polish Academy of Sciences, Warsaw, Poland."
-      ],
-      "doi": "10.1002/jev2.70389",
-      "date": "2026-10-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908192/"
-    },
-    {
-      "pmid": "42907531",
-      "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture.",
-      "abstract": "",
-      "journal": "Nature medicine",
-      "publicationTypes": [
-        "Expression of Concern"
-      ],
-      "affiliations": [
-        "Department of Medicine, Hematology Division, Stanford University School of Medicine, Stanford, California, USA.",
-        "Department of Internal Medicine, Saga Medical School, Saga, Japan.",
-        "Department of Pathology, Stanford University School of Medicine, Stanford, California, USA.",
-        "Department of Radiology, Stanford University School of Medicine, Stanford, California, USA.",
-        "Baxter Laboratories, Stanford University School of Medicine, Stanford, California, USA.",
-        "Division of Oncology, Stanford University School of Medicine, Stanford, California, USA.",
-        "Equipe de Morphogenèse et Signalisation Cellulaires, UMR 144 CNRS/Institut Curie, Paris, France.",
-        "Division of Radiation Biology, Stanford University School of Medicine, Stanford, California, USA.",
-        "Department of Medicine, Sackler School of Graduate Biomedical Sciences, Tufts University School of Medicine, Boston, Massachusetts, USA.",
-        "Department of Medicine, Hematology Division, Stanford University School of Medicine, Stanford, California, USA. cjkuo@stanford.edu."
-      ],
-      "doi": "10.1038/s41591-026-04749-0",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907531/"
     },
     {
       "pmid": "42893561",
@@ -305,7 +301,8 @@
       "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
       "journal": "Nature communications",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "affiliations": [
         "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
@@ -388,6 +385,25 @@
       "doi": "10.1021/acs.accounts.6c00338",
       "date": "2026-10-20",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42899582/"
+    },
+    {
+      "pmid": "42909369",
+      "title": "Insights into extracellular vesicles: From biogenesis and tumor immune modulation to their clinical potential in immunotherapy.",
+      "abstract": "Extracellular vesicles (EVs) constitute a key mode of intercellular communication that remodels the complex tumor immune microenvironment by delivering diverse bioactive cargoes between tumor and immune cells. Nucleic acid species, encompassing microRNAs (miRNAs), messenger RNA (mRNAs), and other RNA transcripts, are functionally potent EV cargoes whose selective packaging dictates downstream immune signaling output. This review describes the molecular mechanisms driving selective RNA sorting into EVs, emphasizing sequence-motif recognition and core RNA-binding proteins FMR1 and TRIM25, which govern the enrichment of distinct RNA populations. We illustrate how EV-shuttled RNA molecules elicit context-dependent functional changes across regulatory T cells, myeloid-derived suppressor cells, and macrophages to shape antitumor or pro-tumor immune states. It critically integrates liquid biopsy evidence for EV-borne RNAs and EV-associated programmed death-ligand 1 (PD-L1) as predictive biomarkers of immunotherapy response in melanoma, non-small cell lung cancer, and hepatocellular carcinoma and dissects technical confounders such as non-vesicular RNA contamination and inconsistent isolation protocols. This review further compares nucleic acid loading strategies for native EVs versus cell-membrane-mimetic nanovesicles and explores their applicability for mRNA-based nanovaccines and combinatorial immunotherapy. We highlight underappreciated translational obstacles, noting that harmonized analytical standards, strict encapsulated cargo validation, and independent prospective multicenter trials are essential to translate EV-nucleic acid signatures into personalized cancer immunotherapy.",
+      "journal": "Molecular therapy. Nucleic acids",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Information Science and Engineering, Shenyang Ligong University, Shenyang 110159, China.",
+        "School of Mathematics and Statistics, Liaoning University, Shenyang 110036, China.",
+        "Department of Anesthesiology, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan, China.",
+        "Department of Anesthesiology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China."
+      ],
+      "doi": "10.1016/j.omtn.2026.103116",
+      "date": "2026-09-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909369/"
     },
     {
       "pmid": "42908741",
@@ -504,42 +520,19 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907240/"
     },
     {
-      "pmid": "42906787",
-      "title": "Mitochondrial DNA mediated Kupffer cell activation in the pathogenesis and progression of liver diseases.",
-      "abstract": "The liver serves as a pivotal metabolic and immunological hub, yet its homeostatic equilibrium is highly susceptible to mitochondrial dysfunction. Recent studies have implicated mitochondrial DNA (mtDNA) as an important damage-associated molecular pattern (DAMP) that links mitochondrial injury to sterile hepatic inflammation and KCs (KCs) activation. This review provides a comprehensive synthesis of the mtDNA mediated KCs across four major hepatic pathologies: Alcohol-associated Liver Disease (ALD), Metabolic Dysfunction-associated Steatotic Liver Disease (MASLD), Hepatic Ischemia-Reperfusion Injury (IRI), and Hepatocellular Carcinoma (HCC). We discuss emerging evidence that Z-DNA-binding protein 1 (ZBP1) associated PANoptosis and nerve injury-induced protein 1 (NINJ1) mediated plasma membrane rupture may contribute to inflammatory cell death in severe liver injury, complementing rather than superseding canonical pyroptotic mechanisms. However, the extent to which mtDNA directly activates this axis remains unresolved. Furthermore, we delineate the cell-type-specific dichotomy of cyclic GMP-AMP synthase (cGAS) signaling, which fuels pro-inflammatory storms in KCs via the stimulator of interferon genes (STING) pathway while promoting protective mitophagy in hepatocytes through a STING-independent cGAS-Beclin-1 interaction. In the context of immunometabolism, we also summarize preclinical evidence linking cytidine/uridine monophosphate kinase 2 (CMPK2) dependent mtDNA synthesis to inflammasome activation and mitochondrial calcium uniporter (MCU) acetylation to age-associated mtDNA release during IRI. Finally, we evaluate the clinical translational potential of targeting these molecular hubs and the emergence of cell-free mitochondrial DNA (cf-mtDNA) fragmentomics-including 5' end motif analysis and diversity scoring as a transformative liquid biopsy tool for precision diagnosis. Collectively, available evidence positions mtDNA mediated KCs activation as an important, context-dependent contributor to liver disease and a potential therapeutic target, while underscoring the need for cell-specific and human validation.",
-      "journal": "Autoimmunity reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Occupational Health and Environmental Health, School of Public Health, Anhui Medical University, Hefei, Anhui, China.",
-        "Department of Neurology, The First People's Hospital of Hefei, China.",
-        "Department of Dermatology, First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Key Laboratory of Dermatology (Anhui Medical University), Ministry of Education, Hefei, Anhui, China; Institute of Dermatology, Anhui Medical University, Hefei 230032, Anhui, China.",
-        "Department of Occupational Health and Environmental Health, School of Public Health, Anhui Medical University, Hefei, Anhui, China; Department of Dermatology, First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China; Key Laboratory of Dermatology (Anhui Medical University), Ministry of Education, Hefei, Anhui, China. Electronic address: jiaxiang5337@ahmu.edu.cn."
-      ],
-      "doi": "10.1016/j.autrev.2026.104208",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906787/"
-    },
-    {
-      "pmid": "42908212",
-      "title": "Accuracy of Large Language Model Chatbots in Retrieving MRI Safety Conditions for Medical Implants.",
-      "abstract": "Retrieving MRI safety conditions for implanted devices is increasingly complex and time-consuming. To evaluate the accuracy of internet-enabled large language model (LLM) chatbots in retrieving implant-specific MRI safety conditions, using manufacturer documentation as the reference standard. Prospective comparative evaluation in a constructed device cohort, followed by a retrospective clinical pilot. Fifty purposively selected device configurations and 20 patients (10 with cardiac and 10 with noncardiac devices) referred to the MRI Safety Committee. No field-strength or sequence restrictions. Standardized single-shot prompts requested eight parameters from ChatGPT-5.0, Gemini 2.5 Pro, and Claude Sonnet 4.5: MRI safety label, field strengths, eligible regions/centering, transmit-coil restrictions, RF exposure limits, maximum spatial gradient, maximum gradient slew rate, and scan duration. Two radiologists (10 and 25 years' experience) and an MRI technologist (32 years) independently scored 1200 parameter-level outputs against manufacturer Instructions for use and technical manuals using a 5-point scale (5, fully correct; 1, substantively incorrect or fabricated); scores of 4-5 indicated accuracy. In the pilot, 160 outputs from ChatGPT-5.6, a newer version of the best-performing chatbot, were scored identically. Intraclass correlation coefficient; Gwet's first-order agreement coefficient (AC1); Friedman test; Wilcoxon signed-rank tests; device-clustered bootstrap 95% confidence intervals (CIs); two-sided significance threshold, p < 0.05. Mean ordinal scores were 4.76 (ChatGPT), 4.20 (Gemini), and 4.17 (Claude); ChatGPT scored significantly higher. Respective pooled parameter-level accuracies were 0.94 (95% CI, 0.89-0.98), 0.79 (0.71-0.86), and 0.78 (0.69-0.87). Pilot accuracy with ChatGPT-5.6 was 0.98 (95% CI, 0.94-1.00). Internet-enabled LLM chatbots correctly retrieved up to 94% of MRI safety parameters in the constructed cohort and 98% in the clinical pilot. Errors occurred even with the best-performing chatbot, requiring direct verification against current manufacturer documentation before clinical use. Stage 2. Stage 2.",
-      "journal": "Journal of magnetic resonance imaging : JMRI",
+      "pmid": "42909110",
+      "title": "Prediction without intervention: why fifteen years of no-show models have not closed the loop on patient adherence.",
+      "abstract": "Fifty-two published studies since 2010 have modeled which patients will miss which appointments. Ambulatory no-show rates have moved only modestly. This Perspective asks why fifteen years of prediction research has produced so little change in care, and argues that the answer is architectural, not algorithmic. In most health systems, the no-show model, the patient outreach platform, and the clinical risk tool are separate tools run by separate teams. Prediction is now routine, and prediction-guided interventions have reduced no-shows in trials. None of the systems in the studies and reviews examined here sense the full behavioral signal of their own outreach, fuse behavioral prediction into clinical risk, or learn in routine practice from the interventions they deliver. I describe three failures behind this gap: outreach platforms that discard the behavioral data they generate, behavioral and clinical risk models that never exchange a feature, and interventions that are never measured. I then propose three design principles for a closed-loop alternative, and a research agenda to test them. Maternal health, where a missed prenatal visit can mean an unmonitored pregnancy complication, is the motivating case; the principles apply wherever outcomes depend on sustained engagement with care.",
+      "journal": "Frontiers in digital health",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Radiology, Chaim Sheba Medical Center, Tel Hashomer, Israel; Affiliated With the Gray Faculty of Medical and Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
-        "Division of Cardiology, Leviev Cardiovascular & Thoracic Center, Chaim Sheba Medical Center, Tel Hashomer, Israel; Affiliated With the Faculty of Medicine and Health Sciences, Tel Aviv University, Tel Aviv, Israel.",
-        "Windreich Department of Artificial Intelligence and Human Health, Mount Sinai Medical Center, New York, New York, USA.",
-        "Department of Neurology, Lady Davis Carmel Medical Center, Haifa, Israel.",
-        "Department of Radiology, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA."
+        "Doctor of Technology Program, Purdue University, West Lafayette, IN, United States."
       ],
-      "doi": "10.1002/jmri.70578",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908212/"
+      "doi": "10.3389/fdgth.2026.1949255",
+      "date": "2026-10-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909110/"
     }
   ],
   "signals": [
@@ -570,94 +563,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Haematologica，PMID 为 42908429。",
       "report": "Inherited platelet disorders (IPD) comprise a clinically and genetically heterogeneous group of conditions affecting platelet number, function, or both. Although next-generation sequencing has accelerated gene discovery, it has also produced a growing number o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42908392",
-      "date": "2026-10-22",
-      "title": "3D Printed Solid-Walled Zein Vascular Network With Long-Term Perfusion Stability and Trans-Wall Transport.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908392/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42908392。",
-      "report": "As in vitro tissue models, including organoids, become thicker and more complex, diffusion-limited three-dimensional (3D) culture increasingly fails to sustain long-term viability, nutrient supply, and spatial microenvironmental regulation. Existing vasculariz...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42908214",
-      "date": "2026-10-21",
-      "title": "A Photocurable Hydrogel Cardiac Patch Incorporating Formononetin-Loaded Lipid Nanoparticles for Myocardial Repair After Acute Ischemia.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908214/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42908214。",
-      "report": "Myocardial infarction (MI) induces ventricular dysfunction through ischemic necrosis and fibrotic remodeling, progressing to heart failure and constituting a major global cardiovascular burden. To address this, we developed a photocurable, hydrogel-based cardi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42907531",
-      "date": "2026-10-21",
-      "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42907531/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature medicine，PMID 为 42907531。",
-      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -746,70 +651,6 @@
       "fact": "PubMed 记录显示该文献收录于 Proceedings of the National Academy of Sciences of the United States of America，PMID 为 42905563。",
       "report": "Metamorphic proteins challenge the single-sequence-structure-function paradigm by switching between distinct folds that often adopt complementary functions. However, the conformational states sampled along the fold-switching pathway have remained elusive becau...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42906787",
-      "date": "2026-10-21",
-      "title": "Mitochondrial DNA mediated Kupffer cell activation in the pathogenesis and progression of liver diseases.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42906787/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Autoimmunity reviews，PMID 为 42906787。",
-      "report": "The liver serves as a pivotal metabolic and immunological hub, yet its homeostatic equilibrium is highly susceptible to mitochondrial dysfunction. Recent studies have implicated mitochondrial DNA (mtDNA) as an important damage-associated molecular pattern (DAM...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42908212",
-      "date": "2026-10-21",
-      "title": "Accuracy of Large Language Model Chatbots in Retrieving MRI Safety Conditions for Medical Implants.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908212/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Healthcare AI",
-        "Medical LLM",
-        "Multi-omics"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "医疗 AI",
-        "临床决策支持",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of magnetic resonance imaging : JMRI，PMID 为 42908212。",
-      "report": "Retrieving MRI safety conditions for implanted devices is increasingly complex and time-consuming. To evaluate the accuracy of internet-enabled large language model (LLM) chatbots in retrieving implant-specific MRI safety conditions, using manufacturer documen...",
-      "inference": "自动分类命中规则：Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -934,6 +775,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42909034",
+      "date": "2026-10-07",
+      "title": "Equine (Equus caballus) primary post-natal brain-derived cells: immortalization and preliminary reprogramming attempts to induced pluripotent stem cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909034/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in veterinary science，PMID 为 42909034。",
+      "report": "Equines represent an underexplored yet highly relevant model for studying neurological diseases within a One Health framework. Here, we report the first establishment of post-natal equine brain-derived in vitro systems, including equine primary post-natal brai...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42908741",
       "date": "2026-10-07",
       "title": "Population-specific molecular features and clinical significance of urinary tumor DNA mutations in Chinese patients with newly diagnosed non-muscle-invasive bladder cancer.",
@@ -958,6 +829,32 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 42908741。",
       "report": "Non-muscle-invasive bladder cancer (NMIBC) is characterized by high recurrence rates, highlighting the need for effective, non-invasive diagnostic and risk stratification tools. Although urinary biomarkers are increasingly used worldwide, molecular data specif...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42909110",
+      "date": "2026-10-07",
+      "title": "Prediction without intervention: why fifteen years of no-show models have not closed the loop on patient adherence.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909110/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in digital health，PMID 为 42909110。",
+      "report": "Fifty-two published studies since 2010 have modeled which patients will miss which appointments. Ambulatory no-show rates have moved only modestly. This Perspective asks why fifteen years of prediction research has produced so little change in care, and argues...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -996,34 +893,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42908192",
-      "date": "2026-10-01",
-      "title": "Oncolytic Virus-Engineered Extracellular Vesicles Rewire Glioblastoma Immunity.",
+      "id": "pubmed-42909312",
+      "date": "2026-09-28",
+      "title": "Chromatin remodeling in bone organoids: from epigenetic regulation to disease modeling and therapeutic translation.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908192/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909312/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42908192。",
-      "report": "Immunotherapy with oncolytic Herpes simplex virus type 1 (oHSV-1) shows promise for glioblastoma; however, clinical benefit remains uncommon due to tumour- and host-mediated immunosuppression, which limits immune targeting of residual glioblastoma stem-like ce...",
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42909312。",
+      "report": "Chromatin remodeling contributes to skeletal development, tissue homeostasis, and disease by regulating nucleosome positioning, chromatin accessibility, and histone modifications. Bone organoids can partially reproduce the three-dimensional human bone microenv...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1057,6 +954,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42909369",
+      "date": "2026-09-26",
+      "title": "Insights into extracellular vesicles: From biogenesis and tumor immune modulation to their clinical potential in immunotherapy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909369/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Nucleic acids，PMID 为 42909369。",
+      "report": "Extracellular vesicles (EVs) constitute a key mode of intercellular communication that remodels the complex tumor immune microenvironment by delivering diverse bioactive cargoes between tumor and immune cells. Nucleic acid species, encompassing microRNAs (miRN...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42907456",
       "date": "2026-09-21",
       "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
@@ -1087,6 +1018,66 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42907456。",
       "report": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different prot...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42909412",
+      "date": "2026-09-18",
+      "title": "Reconstructing the Tumor Mechanical Microenvironment in Organoids: From Mechanical Cues to Biomimetic Modeling and Therapeutic Insights.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909412/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of medical sciences，PMID 为 42909412。",
+      "report": "The tumor mechanical microenvironment (TMME) is a critical regulator of cancer initiation, progression, metastasis, and therapeutic response. Beyond biochemical signaling, physical cues such as matrix stiffness, solid stress, interstitial fluid flow, and extra...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42909286",
+      "date": "2026-09-18",
+      "title": "Scalable manufacturing of human iPSC-derived functional liver organoids for acute liver failure treatment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42909286/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Theranostics，PMID 为 42909286。",
+      "report": "Acute liver failure (ALF) is a life-threatening disease associated with high mortality rates. Human induced pluripotent stem cell (hiPSC)-derived liver organoids (LOs) hold considerable promise as cell-based bridging therapies for ALF. However, the scalable pr...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-23T11:46:20.882232+00:00",
+  "capturedAt": "2026-10-23T17:13:54.790246+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-09",
@@ -139,6 +139,57 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-10-23",
+      "reportDate": "2026-10-23",
+      "acceptanceDateTime": "2026-10-23T15:58:39.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-38976",
+      "filmNumber": "261480957",
+      "items": "",
+      "size": 137397,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "gmab_20261023x6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001434265-26-000138",
+      "companyId": "genmab",
+      "companyName": "Genmab",
+      "companyDirections": [
+        "Antibody / ADC"
+      ],
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm"
+    },
+    {
+      "filingDate": "2026-10-23",
+      "reportDate": "2026-10-23",
+      "acceptanceDateTime": "2026-10-23T13:00:30.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261480018",
+      "items": "8.01",
+      "size": 144534,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d135568d8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-429533",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
+    },
     {
       "filingDate": "2026-10-21",
       "reportDate": "",
@@ -442,6 +493,69 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001434265-000143426526000138",
+      "date": "2026-10-23",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000138 for Genmab, Form 6-K, filed on 2026-10-23.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001717115-000119312526429533",
+      "date": "2026-10-23",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001717115-000119312526427866",
       "date": "2026-10-21",

@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-23T11:46:16.460767+00:00",
+  "capturedAt": "2026-10-23T17:13:50.688392+00:00",
   "summary": {
-    "mentionCount": 662,
-    "candidateCount": 595,
+    "mentionCount": 661,
+    "candidateCount": 593,
     "corroboratedCount": 2,
     "identifiedCount": 589,
-    "needsReviewCount": 4,
+    "needsReviewCount": 2,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 4,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,15 +20,15 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0a340ea04d2eefed",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-44eb1ebfb7ba35c8",
+      "observedName": "Constellation Pharmaceuticals",
+      "normalizedName": "constellation pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00375505",
-      "sourceDate": "2015-09-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00375505",
+      "sourceRecordId": "NCT01949883",
+      "sourceDate": "2024-05-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01949883",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -36,94 +36,70 @@
         "Oncology",
         "Precision Oncology",
         "临床试验",
-        "乳腺癌",
         "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "The Safety and Efficacy of Zoledronic Acid in the Prevention of Cancer Therapy Induced Bone Loss"
+      "contextTitle": "A Phase 1 Study Evaluating CPI-0610 in Patients With Progressive Lymphoma"
     },
     {
-      "id": "mention-clinicaltrials-507724f641a0269e",
-      "observedName": "VUNO Inc.",
-      "normalizedName": "vuno",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07378956",
-      "sourceDate": "2026-04-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07378956",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Clinical Efficacy of Implementing an AI-SaMD for Funduscopy Analysis in Patients With Diabetes Mellitus"
-    },
-    {
-      "id": "mention-clinicaltrials-96ac0ba6d22f5634",
-      "observedName": "Beijing Immunochina Medical Science & Technology Co., Ltd.",
-      "normalizedName": "beijing immunochina medical science and technology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04537442",
-      "sourceDate": "2020-09-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04537442",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Cell Therapy",
-        "Clinical Trials",
-        "Oncology",
-        "中国",
-        "临床试验",
-        "细胞治疗",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Clinical Study to Evaluate the Safety and Efficacy of IM21 CAR-T Cells in the Treatment of Elderly Patients With Relapsed or Refractory Multiple Myeloma"
-    },
-    {
-      "id": "mention-clinicaltrials-f6666da397cf1e8d",
-      "observedName": "Janssen Research & Development, LLC",
-      "normalizedName": "janssen research and development",
+      "id": "mention-clinicaltrials-b09b2a38b27ac89e",
+      "observedName": "Rocket Medical plc",
+      "normalizedName": "rocket medical",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01724346",
-      "sourceDate": "2024-09-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01724346",
+      "sourceRecordId": "NCT03661801",
+      "sourceDate": "2020-11-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03661801",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
+        "Longevity",
         "Oncology",
         "Precision Oncology",
-        "中国",
+        "biomarker",
         "临床试验",
-        "肿瘤"
+        "肿瘤",
+        "衰老"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Novel Pleural Fluid, Biopsy and Serum Biomarkers for the Investigation of Pleural Effusions"
+    },
+    {
+      "id": "mention-clinicaltrials-fbb451c2f0f1abad",
+      "observedName": "Novo Nordisk A/S",
+      "normalizedName": "novo nordisk a s",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06789900",
+      "sourceDate": "2026-04-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "肿瘤",
+        "衰老"
       ],
       "activitySignals": [
+        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma"
+      "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43930,76 +43906,18 @@
       ]
     },
     {
-      "id": "candidate-beijing-immunochina-medical-science-and-technology",
-      "name": "Beijing Immunochina Medical Science & Technology Co., Ltd.",
+      "id": "candidate-constellation-pharmaceuticals",
+      "name": "Constellation Pharmaceuticals",
       "aliases": [
-        "Beijing Immunochina Medical Science & Technology Co., Ltd."
+        "Constellation Pharmaceuticals"
       ],
-      "normalizedName": "beijing immunochina medical science and technology",
+      "normalizedName": "constellation pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-09-03",
-      "lastSeenAt": "2020-09-03",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-96ac0ba6d22f5634"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-09-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04537442",
-          "externalId": "NCT04537442",
-          "contextTitle": "Clinical Study to Evaluate the Safety and Efficacy of IM21 CAR-T Cells in the Treatment of Elderly Patients With Relapsed or Refractory Multiple Myeloma"
-        }
-      ]
-    },
-    {
-      "id": "candidate-novartis-pharmaceuticals",
-      "name": "Novartis Pharmaceuticals",
-      "aliases": [
-        "Novartis Pharmaceuticals"
-      ],
-      "normalizedName": "novartis pharmaceuticals",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2021-07-08",
-      "lastSeenAt": "2015-09-07",
+      "firstSeenAt": "2024-05-08",
+      "lastSeenAt": "2024-05-08",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -44007,7 +43925,6 @@
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "乳腺癌",
           "肿瘤"
         ],
         "themes": [
@@ -44015,7 +43932,6 @@
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "乳腺癌",
           "肿瘤"
         ],
         "tags": []
@@ -44029,75 +43945,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-0a340ea04d2eefed"
+        "mention-clinicaltrials-44eb1ebfb7ba35c8"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2015-09-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00375505",
-          "externalId": "NCT00375505",
-          "contextTitle": "The Safety and Efficacy of Zoledronic Acid in the Prevention of Cancer Therapy Induced Bone Loss"
-        }
-      ]
-    },
-    {
-      "id": "candidate-vuno",
-      "name": "VUNO Inc.",
-      "aliases": [
-        "VUNO Inc."
-      ],
-      "normalizedName": "vuno",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-04-13",
-      "lastSeenAt": "2026-04-13",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "Recruiting",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-507724f641a0269e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-04-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07378956",
-          "externalId": "NCT07378956",
-          "contextTitle": "Clinical Efficacy of Implementing an AI-SaMD for Funduscopy Analysis in Patients With Diabetes Mellitus"
+          "sourceDate": "2024-05-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01949883",
+          "externalId": "NCT01949883",
+          "contextTitle": "A Phase 1 Study Evaluating CPI-0610 in Patients With Progressive Lymphoma"
         }
       ]
     },
@@ -47475,35 +47333,43 @@
       ]
     },
     {
-      "id": "candidate-janssen-research-and-development",
-      "name": "Janssen Research & Development, LLC",
+      "id": "candidate-novo-nordisk-a-s",
+      "name": "Novo Nordisk A/S",
       "aliases": [
-        "Janssen Research & Development, LLC"
+        "Novo Nordisk A/S"
       ],
-      "normalizedName": "janssen research and development",
+      "normalizedName": "novo nordisk a s",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-09-19",
-      "lastSeenAt": "2024-09-19",
+      "firstSeenAt": "2026-04-07",
+      "lastSeenAt": "2026-04-07",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Biomarkers",
           "Clinical Trials",
+          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "中国",
+          "Recruiting",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "themes": [
+          "Biomarkers",
           "Clinical Trials",
+          "Longevity",
           "Oncology",
           "Precision Oncology",
-          "中国",
+          "Recruiting",
+          "biomarker",
           "临床试验",
-          "肿瘤"
+          "肿瘤",
+          "衰老"
         ],
         "tags": []
       },
@@ -47516,17 +47382,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-f6666da397cf1e8d"
+        "mention-clinicaltrials-fbb451c2f0f1abad"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2024-09-19",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01724346",
-          "externalId": "NCT01724346",
-          "contextTitle": "Open-label Extension Study in Patients 65 Years or Older With Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma"
+          "sourceDate": "2026-04-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
+          "externalId": "NCT06789900",
+          "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
         }
       ]
     }
