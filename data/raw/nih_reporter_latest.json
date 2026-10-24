@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-10-02T09:48:25+00:00",
+  "capturedAt": "2026-10-24T08:09:53+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -20,9 +20,9 @@
   ],
   "queryMatchCounts": {
     "biotechnology": 302,
-    "gene therapy": 1141,
-    "cell therapy": 1650,
-    "drug discovery": 320,
+    "gene therapy": 1152,
+    "cell therapy": 1661,
+    "drug discovery": 326,
     "molecular diagnostics": 142
   },
   "records": [
@@ -248,6 +248,32 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11406639"
     },
     {
+      "applId": 11405186,
+      "projectNum": "1R44EY038152-01A1",
+      "projectTitle": "Development of OPGx-RDH12 as a gene therapy for RDH12 deficiency associated Leber congenital amaurosis (LCA)",
+      "fiscalYear": 2026,
+      "awardAmount": 1004925,
+      "awardNoticeDate": "2026-09-19",
+      "projectStartDate": "2026-09-30",
+      "projectEndDate": "2028-06-30",
+      "organization": {
+        "name": "OPUS GENETICS INC.",
+        "city": "RALEIGH",
+        "state": "NC",
+        "country": "UNITED STATES",
+        "uei": "YD2GB4S983V9",
+        "ipf": "10076450",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Leber congenital amaurosis (LCA) is a genetically heterogeneous inherited retinal dystrophy (IRD) that causes early-onset and severe retinal degeneration. LCA13, also known as RDH12-IRD, is a form of LCA caused by mutations in the RDH12 gene, which encodes a…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11405186"
+    },
+    {
       "applId": 11190585,
       "projectNum": "4UH3NS135350-02",
       "projectTitle": "A novel oral immunotherapy for chronic visceral pain of irritable bowel syndrome",
@@ -272,6 +298,31 @@
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract: Chronic visceral pain is a defining feature of irritable bowel syndrome (IBS) that is currently considered as a disorder of brain-gut interaction. Although pain is the most common driver of healthcare visits for IBS patients, the current treatment options are often…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11190585"
+    },
+    {
+      "applId": 11009481,
+      "projectNum": "4U44NS125160-03",
+      "projectTitle": "Development and Testing of LUCID: A Therapeutic Device for Brain Injury Following Infant Cardiac Arrest",
+      "fiscalYear": 2026,
+      "awardAmount": 1481005,
+      "awardNoticeDate": "2026-09-19",
+      "projectStartDate": "2022-09-21",
+      "projectEndDate": "2029-08-31",
+      "organization": {
+        "name": "MITOVATION, INC.",
+        "city": "ANN ARBOR",
+        "state": "MI",
+        "country": "UNITED STATES",
+        "uei": "RDNAEF71R5E6",
+        "ipf": "10045289",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Cardiac arrest in infants is a medical emergency requiring rapid resuscitation to restore circulation. However, resuscitation often results in significant brain injury, caused by ischemia/reperfusion injury. Only 36% of infants (<1yr old) treated for out-of-hospital cardiac…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11009481"
     },
     {
       "applId": 11419053,
@@ -329,6 +380,32 @@
       ],
       "projectSummaryExcerpt": "PROJECT SUMMARY Neuropathic pain, a chronic condition from nerve damage frequently caused by physical injury, diabetes, or chemotherapy, is a debilitating situation that affects up to 10% of people worldwide. Current therapies are helpful but clearly inadequate; 17% of people…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11415152"
+    },
+    {
+      "applId": 11409867,
+      "projectNum": "1R43EY038150-01A1",
+      "projectTitle": "PRMT5 Inhibitors as a Novel Therapy for Anti-VEGF-Sensitive and -Resistant Neovascular Age-Related Macular Degeneration",
+      "fiscalYear": 2026,
+      "awardAmount": 233247,
+      "awardNoticeDate": "2026-09-18",
+      "projectStartDate": "2026-09-30",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "EQON PHARMACEUTICALS, LLC",
+        "city": "CARMEL",
+        "state": "IN",
+        "country": "UNITED STATES",
+        "uei": "K7N4NMVHDU95",
+        "ipf": "10059620",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Project Summary Aberrant neovascularization (NV) is a hallmark of major blinding eye diseases, including neovascular age- related macular degeneration (nAMD) and proliferative diabetic retinopathy (PDR). While therapies targeting VEGF and angiopoietin (ANGPT) signaling have…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409867"
     },
     {
       "applId": 11408359,
@@ -1193,59 +1270,31 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11402931"
     },
     {
-      "applId": 11401239,
-      "projectNum": "5R44CA306750-02",
-      "projectTitle": "Lung Cancer FAST (Fragment Analysis, SNP, and Translocations) Testing",
+      "applId": 11401308,
+      "projectNum": "1R43EY037591-01A1",
+      "projectTitle": "Novel gene mutation agnostic small molecule to treat retinitis pigmentosa",
       "fiscalYear": 2026,
-      "awardAmount": 714448,
+      "awardAmount": 320790,
       "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2025-08-01",
-      "projectEndDate": "2028-07-31",
+      "projectStartDate": "2026-09-30",
+      "projectEndDate": "2027-08-31",
       "organization": {
-        "name": "CEREUS DIAGNOSTICS CORP.",
-        "city": "DALLAS",
-        "state": "TX",
+        "name": "MITOCHEM THERAPEUTICS INC.",
+        "city": "CHARLESTON",
+        "state": "SC",
         "country": "UNITED STATES",
-        "uei": "ZQYGNNNXSHS6",
-        "ipf": "10079453",
+        "uei": "D93QYNUYWXN5",
+        "ipf": "10081719",
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
-        "Precision Diagnostics"
+        "RNA Therapeutics"
       ],
-      "projectSummaryExcerpt": "Project Summary Lung cancer is the leading cause of cancer deaths in the U.S., with over 235,000 diagnoses annually. Timely, accurate testing is crucial for effective treatment, but current methods like Next Generation Sequencing (NGS) are slow, costly, and ineffective for…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11401239"
-    },
-    {
-      "applId": 11394173,
-      "projectNum": "1R44DK148134-01",
-      "projectTitle": "An allogeneic and gut specific Engineered T regulatory cell therapy for the treatment of Inflammatory Bowel Disease",
-      "fiscalYear": 2026,
-      "awardAmount": 1061227,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-17",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "GENTIBIO, INC.",
-        "city": "CAMBRIDGE",
-        "state": "MA",
-        "country": "UNITED STATES",
-        "uei": "HNHTFLZ9U5D4",
-        "ipf": "10089556",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "ABSTRACT Inflammatory Bowel Disease (IBD), including Crohn’s Disease and Ulcerative Colitis, affects over 2.4 million individuals in the United States and continues to rise globally. Despite progress in biologic therapies, a significant subset of patients fail to achieve…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11394173"
+      "projectSummaryExcerpt": "Project Summary Retinitis pigmentosa (RP) is a group of inherited retinal disease involving over 250 gene mutations that lead to progressive vision loss and blindness. There are no approved treatments for the approximately 90,000 US patients, representing a significant unmet…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11401308"
     },
     {
       "applId": 11387631,
@@ -1405,41 +1454,15 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
+        "RNA Therapeutics",
         "Precision Diagnostics",
-        "RNA Therapeutics"
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "Abstract Alzheimer’s Disease (AD) is the most common form of late-onset dementia, affecting 7 million Americans, with prevalence expected to double by 2050. AD is associated with accumulation of misfolded protein aggregates including β-amyloid and tau, with apolipoprotein E and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
-    },
-    {
-      "applId": 11314326,
-      "projectNum": "1R42CA310337-01",
-      "projectTitle": "Dual Acting Bone Defenders for Inhibiting Cancer Mediated Bone Destruction",
-      "fiscalYear": 2026,
-      "awardAmount": 400000,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-18",
-      "projectEndDate": "2027-08-31",
-      "organization": {
-        "name": "BONESTRONG THERAPEUTICS INC.",
-        "city": "PORTLAND",
-        "state": "OR",
-        "country": "UNITED STATES",
-        "uei": "XUNHXKKMFJ63",
-        "ipf": "10091062",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "BoneStrong Therapeutics Inc. seeks to develop a first-in-class therapeutic that inhibits bone destruction caused by cancer. Cancer-mediated bone destruction is a common, longstanding, unmet need costing the US economy $5.3B/year. Current therapy has limited efficacy and…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
     },
     {
       "applId": 11314303,
@@ -1467,36 +1490,6 @@
       ],
       "projectSummaryExcerpt": "SUMMARY The integration of multi-omics data provides a comprehensive understanding of human physiology, offering an exciting approach for disease monitoring and health management. Unfortunately, challenges remain in acquiring appropriate biospecimens for multi-omics analysis,…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
-    },
-    {
-      "applId": 11314137,
-      "projectNum": "1R44CA310250-01",
-      "projectTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics",
-      "fiscalYear": 2026,
-      "awardAmount": 1052108,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-18",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "CELLFE INC.",
-        "city": "ATLANTA",
-        "state": "GA",
-        "country": "UNITED STATES",
-        "uei": "M34JNT47EKK3",
-        "ipf": "10048774",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Genetic modification of patient blood cells in the laboratory (“ex vivo”) has been transformational in treatment of blood malignancies, most notably through the use of engineering T-cells (CAR-T or TCR T-cells) to recognize and attack blood cancer cells. Despite…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
     },
     {
       "applId": 11313383,
@@ -1602,7 +1595,8 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
@@ -1627,9 +1621,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
@@ -1665,33 +1657,32 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
     },
     {
-      "applId": 11409383,
-      "projectNum": "1R43GM165210-01",
-      "projectTitle": "Development of the High-Density SNAP-Dimer Microarray for Functional Analysis of Dimeric Protein Complexes",
+      "applId": 11204793,
+      "projectNum": "4R44NS137868-02",
+      "projectTitle": "Validation of a novel treatment for glioblastoma using oncolytic Zika virus",
       "fiscalYear": 2026,
-      "awardAmount": 286118,
-      "awardNoticeDate": "2026-09-16",
-      "projectStartDate": "2026-09-15",
-      "projectEndDate": "2027-08-31",
+      "awardAmount": 1268244,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2024-09-20",
+      "projectEndDate": "2028-06-30",
       "organization": {
-        "name": "PROTEOVISTA, LLC",
-        "city": "MADISON",
+        "name": "UP ONCOLYTICS, INC.",
+        "city": "MILWAUKEE",
         "state": "WI",
         "country": "UNITED STATES",
-        "uei": "GYNUUKETC8F4",
-        "ipf": "10026976",
+        "uei": "TVNLCARQLKC8",
+        "ipf": "10073837",
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery"
+        "cell therapy",
+        "gene therapy"
       ],
       "topicHints": [
-        "RNA Therapeutics",
-        "Precision Diagnostics",
-        "AI Drug Discovery"
+        "Cell Therapy"
       ],
-      "projectSummaryExcerpt": "Project Summary Development of the High-Density SNAP-Dimer Microarray for Functional Analysis of Dimeric Protein Complexes Opportunity Number: PA-24-245 PIs: Mary S. Ozers and Christopher L. Warren The development of therapeutics has historically focused on small molecules…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11409383"
+      "projectSummaryExcerpt": "Project Summary / Abstract Glioblastoma multiforme (GBM) is a highly aggressive and malignant brain tumor with no known cure. GBM is projected to account for almost 14,500 new cases and approximately 10,000 deaths in the United States (U.S.) in 2023. The prognosis for patients…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
     }
   ]
 }

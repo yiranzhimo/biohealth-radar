@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
   "kind": "china_hk_biotech_company_universe",
-  "capturedAt": "2026-10-02T09:48:31+00:00",
+  "capturedAt": "2026-10-24T08:09:54+00:00",
   "summary": {
     "recordCount": 156,
     "chinaRecordCount": 50,
     "hongKongRecordCount": 76,
     "hongKongIndexRecordCount": 30,
-    "hongKongUniqueSecurityCount": 104,
-    "uniqueSecurityCount": 154
+    "hongKongUniqueSecurityCount": 103,
+    "uniqueSecurityCount": 153
   },
   "sources": [
     {
@@ -17,7 +17,9 @@
       "type": "Official Biotech Index",
       "reliability": "High",
       "url": "https://www.csindex.com.cn/#/indices/family/detail?indexCode=000683",
-      "observedOn": "2026-09-30",
+      "observedOn": "2026-10-23",
+      "refreshStatus": "fresh",
+      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
       "coverage": "上证科创板生物医药指数当日全部成分股，不是全部中国 biotech 公司。",
       "records": [
         {
@@ -32,7 +34,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -47,7 +49,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -62,7 +64,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -77,7 +79,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -92,7 +94,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -107,7 +109,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -122,7 +124,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -137,7 +139,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -152,7 +154,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -167,7 +169,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -182,7 +184,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -197,7 +199,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -212,7 +214,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -227,7 +229,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -242,7 +244,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -257,7 +259,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -272,7 +274,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -287,7 +289,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -302,7 +304,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -317,7 +319,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -332,7 +334,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -347,7 +349,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -362,7 +364,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -377,7 +379,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -392,7 +394,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -407,7 +409,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -422,7 +424,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -437,7 +439,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -452,7 +454,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -467,7 +469,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -482,7 +484,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -497,7 +499,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -512,7 +514,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -527,7 +529,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -542,7 +544,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -557,7 +559,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -572,7 +574,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -587,7 +589,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -602,7 +604,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -617,7 +619,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -632,7 +634,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -647,7 +649,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -662,7 +664,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -677,7 +679,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -692,7 +694,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -707,7 +709,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -722,7 +724,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -737,7 +739,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -752,7 +754,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         },
         {
@@ -767,7 +769,7 @@
           "indexNameEn": "STAR Biology and Medicine",
           "exchangeNameCn": "上海证券交易所",
           "exchangeNameEn": "Shanghai Stock Exchange",
-          "observedOn": "2026-09-30",
+          "observedOn": "2026-10-23",
           "sourceUrl": "https://www.csindex.com.cn/csindex-home/indexInfo/index-details-data?fileLang=2&indexCode=000683"
         }
       ]
@@ -778,7 +780,9 @@
       "type": "Official Securities List",
       "reliability": "High",
       "url": "https://www.hkex.com.hk/eng/services/trading/securities/securitieslists/ListOfSecurities.xlsx",
-      "observedOn": "2026-10-02",
+      "observedOn": "2026-10-26",
+      "refreshStatus": "fresh",
+      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
       "coverage": "当前证券简称仍带 B/SB 标记的港交所股票；名称为官方交易简称，不是法定全称；不包含已转为一般上市的历史 18A 公司。",
       "records": [
         {
@@ -793,7 +797,7 @@
           "isin": "KYG4987A1094",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1167&sc_lang=en"
         },
         {
@@ -808,7 +812,7 @@
           "isin": "KYG1821D1097",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en"
         },
         {
@@ -823,7 +827,7 @@
           "isin": "KYG674111011",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1477&sc_lang=en"
         },
         {
@@ -838,7 +842,7 @@
           "isin": "CNE100006624",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1541&sc_lang=en"
         },
         {
@@ -853,7 +857,7 @@
           "isin": "KYG0520K1094",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1672&sc_lang=en"
         },
         {
@@ -868,7 +872,7 @@
           "isin": "CNE100007NF2",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1779&sc_lang=en"
         },
         {
@@ -883,7 +887,7 @@
           "isin": "HK0000545266",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1875&sc_lang=en"
         },
         {
@@ -898,7 +902,7 @@
           "isin": "KYG5340S1093",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2105&sc_lang=en"
         },
         {
@@ -913,7 +917,7 @@
           "isin": "KYG5210T1040",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en"
         },
         {
@@ -928,7 +932,7 @@
           "isin": "KYG1645A1094",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en"
         },
         {
@@ -943,7 +947,7 @@
           "isin": "KYG4403H1002",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2142&sc_lang=en"
         },
         {
@@ -958,7 +962,7 @@
           "isin": "KYG6082P1211",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2160&sc_lang=en"
         },
         {
@@ -973,7 +977,7 @@
           "isin": "KYG5252B1023",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2162&sc_lang=en"
         },
         {
@@ -988,7 +992,7 @@
           "isin": "CNE100004BC1",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2170&sc_lang=en"
         },
         {
@@ -1003,7 +1007,7 @@
           "isin": "KYG1996C1006",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2171&sc_lang=en"
         },
         {
@@ -1018,7 +1022,7 @@
           "isin": "CNE1000057K9",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2179&sc_lang=en"
         },
         {
@@ -1033,7 +1037,7 @@
           "isin": "KYG5780F1046",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2181&sc_lang=en"
         },
         {
@@ -1048,7 +1052,7 @@
           "isin": "CNE100004JH3",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2185&sc_lang=en"
         },
         {
@@ -1063,7 +1067,7 @@
           "isin": "KYG2280A1076",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2197&sc_lang=en"
         },
         {
@@ -1078,7 +1082,7 @@
           "isin": "KYG1609T1022",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2216&sc_lang=en"
         },
         {
@@ -1093,7 +1097,7 @@
           "isin": "CNE100004QN6",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en"
         },
         {
@@ -1108,7 +1112,7 @@
           "isin": "CNE100004QQ9",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
         },
         {
@@ -1123,7 +1127,7 @@
           "isin": "CNE100004QP1",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en"
         },
         {
@@ -1138,7 +1142,7 @@
           "isin": "KYG0028A1085",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2256&sc_lang=en"
         },
         {
@@ -1153,7 +1157,7 @@
           "isin": "KYG2050P1028",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2257&sc_lang=en"
         },
         {
@@ -1168,7 +1172,7 @@
           "isin": "KYG7360A1094",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en"
         },
         {
@@ -1183,7 +1187,7 @@
           "isin": "CNE100005D27",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2315&sc_lang=en"
         },
         {
@@ -1198,7 +1202,7 @@
           "isin": "CNE100007Q79",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2335&sc_lang=en"
         },
         {
@@ -1213,7 +1217,7 @@
           "isin": "CNE100007CT6",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en"
         },
         {
@@ -1228,7 +1232,7 @@
           "isin": "CNE100006L34",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2410&sc_lang=en"
         },
         {
@@ -1243,7 +1247,7 @@
           "isin": "CNE100005YD8",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2480&sc_lang=en"
         },
         {
@@ -1258,7 +1262,7 @@
           "isin": "KYG2606C1006",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2487&sc_lang=en"
         },
         {
@@ -1273,7 +1277,7 @@
           "isin": "CNE100007HT5",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2493&sc_lang=en"
         },
         {
@@ -1288,7 +1292,7 @@
           "isin": "CNE1000063C4",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2496&sc_lang=en"
         },
         {
@@ -1303,7 +1307,7 @@
           "isin": "CNE100003PJ8",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2500&sc_lang=en"
         },
         {
@@ -1318,7 +1322,7 @@
           "isin": "CNE1000069W9",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2509&sc_lang=en"
         },
         {
@@ -1333,7 +1337,7 @@
           "isin": "KYG4568L1023",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2511&sc_lang=en"
         },
         {
@@ -1348,7 +1352,7 @@
           "isin": "CNE100007JC7",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en"
         },
         {
@@ -1363,7 +1367,7 @@
           "isin": "KYG4644K1022",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2552&sc_lang=en"
         },
         {
@@ -1378,7 +1382,7 @@
           "isin": "KYG93Y5D1039",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2561&sc_lang=en"
         },
         {
@@ -1393,7 +1397,7 @@
           "isin": "CNE100006NB3",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2563&sc_lang=en"
         },
         {
@@ -1408,7 +1412,7 @@
           "isin": "CNE100006T44",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2565&sc_lang=en"
         },
         {
@@ -1423,7 +1427,7 @@
           "isin": "CNE1000074Q1",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2575&sc_lang=en"
         },
         {
@@ -1438,7 +1442,7 @@
           "isin": "CNE1000071Q7",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2591&sc_lang=en"
         },
         {
@@ -1453,7 +1457,7 @@
           "isin": "KYG2215S1084",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en"
         },
         {
@@ -1468,7 +1472,7 @@
           "isin": "CNE1000074L2",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2595&sc_lang=en"
         },
         {
@@ -1483,7 +1487,7 @@
           "isin": "KYG2588M1006",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2616&sc_lang=en"
         },
         {
@@ -1498,7 +1502,7 @@
           "isin": "CNE100006T02",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2617&sc_lang=en"
         },
         {
@@ -1513,7 +1517,7 @@
           "isin": "CNE1000071P9",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en"
         },
         {
@@ -1528,7 +1532,7 @@
           "isin": "KYG6152E1052",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2629&sc_lang=en"
         },
         {
@@ -1543,7 +1547,7 @@
           "isin": "CNE1000076N3",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2630&sc_lang=en"
         },
         {
@@ -1558,7 +1562,7 @@
           "isin": "CNE100007B92",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en"
         },
         {
@@ -1573,7 +1577,7 @@
           "isin": "CNE1000062R4",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=en"
         },
         {
@@ -1588,7 +1592,7 @@
           "isin": "CNE100007QR0",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2697&sc_lang=en"
         },
         {
@@ -1603,7 +1607,7 @@
           "isin": "KYG8572S1021",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2898&sc_lang=en"
         },
         {
@@ -1618,7 +1622,7 @@
           "isin": "CNE100007C34",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3378&sc_lang=en"
         },
         {
@@ -1633,7 +1637,7 @@
           "isin": "HK0000544194",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3681&sc_lang=en"
         },
         {
@@ -1648,7 +1652,7 @@
           "isin": "CNE100007PD2",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6132&sc_lang=en"
         },
         {
@@ -1663,7 +1667,7 @@
           "isin": "CNE100004MN5",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6609&sc_lang=en"
         },
         {
@@ -1678,7 +1682,7 @@
           "isin": "KYG989M51017",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6622&sc_lang=en"
         },
         {
@@ -1693,7 +1697,7 @@
           "isin": "KYG9005B1041",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6628&sc_lang=en"
         },
         {
@@ -1708,7 +1712,7 @@
           "isin": "KYG0096M1096",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6669&sc_lang=en"
         },
         {
@@ -1723,7 +1727,7 @@
           "isin": "KYG1300R1083",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6681&sc_lang=en"
         },
         {
@@ -1738,7 +1742,7 @@
           "isin": "CNE100007KG6",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6872&sc_lang=en"
         },
         {
@@ -1753,7 +1757,7 @@
           "isin": "CNE100005MV5",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6922&sc_lang=en"
         },
         {
@@ -1768,7 +1772,7 @@
           "isin": "CNE100007DS6",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6938&sc_lang=en"
         },
         {
@@ -1783,7 +1787,7 @@
           "isin": "KYG4721A1004",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6978&sc_lang=en"
         },
         {
@@ -1798,7 +1802,7 @@
           "isin": "KYG039571008",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6996&sc_lang=en"
         },
         {
@@ -1813,7 +1817,7 @@
           "isin": "CNE100007LG4",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en"
         },
         {
@@ -1828,7 +1832,7 @@
           "isin": "KYG2929M1087",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9606&sc_lang=en"
         },
         {
@@ -1843,7 +1847,7 @@
           "isin": "CNE100007QD0",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9637&sc_lang=en"
         },
         {
@@ -1858,7 +1862,7 @@
           "isin": "CNE100005KC9",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9877&sc_lang=en"
         },
         {
@@ -1873,7 +1877,7 @@
           "isin": "CNE1000070H8",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9887&sc_lang=en"
         },
         {
@@ -1888,7 +1892,7 @@
           "isin": "KYG5273B1077",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9939&sc_lang=en"
         },
         {
@@ -1903,7 +1907,7 @@
           "isin": "KYG0330A1013",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9966&sc_lang=en"
         },
         {
@@ -1918,7 +1922,7 @@
           "isin": "KYG6981F1090",
           "category": "Equity",
           "subCategory": "Equity Securities (Main Board)",
-          "observedOn": "2026-10-02",
+          "observedOn": "2026-10-26",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=9996&sc_lang=en"
         }
       ]
@@ -1929,23 +1933,11 @@
       "type": "Official Biotech Index",
       "reliability": "High",
       "url": "https://www.hsi.com.hk/eng/indexes/all-indexes/hsbio",
-      "observedOn": "2026-08-31",
+      "observedOn": "2026-09-30",
+      "refreshStatus": "fresh",
+      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
       "coverage": "恒生生物科技指数当前 30 家成分公司，覆盖部分已移除 B 标记的成熟公司；仅覆盖符合港股通资格且按该指数方法筛选的最大公司。",
       "records": [
-        {
-          "market": "HK",
-          "exchange": "HKEX",
-          "stockCode": "00013",
-          "issuerShortNameEn": "HUTCHMED",
-          "securityName": "HUTCHMED",
-          "nameQuality": "official_index_name",
-          "legalNameStatus": "unresolved",
-          "isin": "KYG4672N1198",
-          "weight": 1.04,
-          "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
-        },
         {
           "market": "HK",
           "exchange": "HKEX",
@@ -1955,10 +1947,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "BMG0171K1018",
-          "weight": 0.94,
+          "weight": 0.83,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -1969,10 +1961,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "BMG210A71016",
-          "weight": 0.76,
+          "weight": 0.7,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -1983,10 +1975,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG608371046",
-          "weight": 0.71,
+          "weight": 0.67,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -1997,10 +1989,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG211081248",
-          "weight": 1.42,
+          "weight": 1.28,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2011,10 +2003,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CNE100000171",
-          "weight": 0.75,
+          "weight": 0.73,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2025,10 +2017,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "HK1093012172",
-          "weight": 7.04,
+          "weight": 7.23,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2039,10 +2031,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CNE100000FN7",
-          "weight": 0.98,
+          "weight": 0.89,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2053,10 +2045,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG8167W1380",
-          "weight": 5.31,
+          "weight": 5.23,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2067,10 +2059,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG8875G1029",
-          "weight": 3.09,
+          "weight": 2.98,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2081,10 +2073,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG3825B1059",
-          "weight": 4.55,
+          "weight": 5.68,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2095,10 +2087,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG4818G1010",
-          "weight": 11.08,
+          "weight": 9.24,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2111,8 +2103,8 @@
           "isin": "HK0000658531",
           "weight": 0.95,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2123,10 +2115,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG7S12M1051",
-          "weight": 2.57,
+          "weight": 2.66,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2137,10 +2129,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CNE100004QP1",
-          "weight": 0.92,
+          "weight": 0.87,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2151,10 +2143,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG9808A1058",
-          "weight": 2.49,
+          "weight": 3.22,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2165,10 +2157,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG970081173",
-          "weight": 11.7,
+          "weight": 10.74,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2179,10 +2171,24 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CNE100003F19",
-          "weight": 8.67,
+          "weight": 8.92,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
+        },
+        {
+          "market": "HK",
+          "exchange": "HKEX",
+          "stockCode": "02526",
+          "issuerShortNameEn": "DIAGENS",
+          "securityName": "DIAGENS - B",
+          "nameQuality": "official_index_name",
+          "legalNameStatus": "unresolved",
+          "isin": "CNE100007JC7",
+          "weight": 0.2,
+          "industryClassification": "Healthcare",
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2193,10 +2199,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "HK0000311099",
-          "weight": 0.8,
+          "weight": 0.75,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2207,10 +2213,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG549581067",
-          "weight": 5.05,
+          "weight": 4.76,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2221,10 +2227,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG4790P1037",
-          "weight": 0.35,
+          "weight": 2.46,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2235,10 +2241,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG8813K1085",
-          "weight": 0.92,
+          "weight": 0.84,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2249,10 +2255,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CH1391448177",
-          "weight": 10.74,
+          "weight": 10.01,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2263,10 +2269,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG5074A1004",
-          "weight": 1.94,
+          "weight": 1.8,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2277,10 +2283,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG0519B1023",
-          "weight": 0.94,
+          "weight": 0.82,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2291,10 +2297,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "CNE1000062J1",
-          "weight": 3.06,
+          "weight": 3.34,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2305,10 +2311,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG2929M1087",
-          "weight": 1.26,
+          "weight": 1.3,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2319,10 +2325,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG9887T1168",
-          "weight": 2.12,
+          "weight": 2.09,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2333,10 +2339,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG0146B1032",
-          "weight": 6.25,
+          "weight": 7.13,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         },
         {
           "market": "HK",
@@ -2347,10 +2353,10 @@
           "nameQuality": "official_index_name",
           "legalNameStatus": "unresolved",
           "isin": "KYG4783B1032",
-          "weight": 1.61,
+          "weight": 1.67,
           "industryClassification": "Healthcare",
-          "observedOn": "2026-08-31",
-          "sourceUrl": "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/factsheets/hsbioe.pdf"
+          "observedOn": "2026-09-30",
+          "sourceUrl": "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fhsbio.pdf"
         }
       ]
     }

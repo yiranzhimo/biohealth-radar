@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-10-02T09:49:43+00:00",
-  "count": 591,
+  "capturedAt": "2026-10-24T08:11:43+00:00",
+  "count": 588,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -585,8 +585,8 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-adia-nutrition",
-      "name": "Adia Nutrition, Inc.",
+      "companyId": "candidate-adia-med",
+      "name": "Adia Med, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
       "identifiers": {
         "cik": [
@@ -856,23 +856,6 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-akanda",
-      "name": "Akanda Corp.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-      "identifiers": {
-        "cik": [
-          "0001888014"
-        ],
-        "ticker": [
-          "AKAN"
-        ]
-      },
-      "sourceTypes": [
-        "Medicinal Chemicals and Botanical Products"
       ],
       "status": "needs_official_domain"
     },
@@ -1295,23 +1278,6 @@
         ],
         "ticker": [
           "AMRN"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-america-great-health",
-      "name": "America Great Health",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-      "identifiers": {
-        "cik": [
-          "0001098009"
-        ],
-        "ticker": [
-          "AAGH"
         ]
       },
       "sourceTypes": [
@@ -2515,23 +2481,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-bespoke-extracts",
-      "name": "Bespoke Extracts, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-      "identifiers": {
-        "cik": [
-          "0001409197"
-        ],
-        "ticker": [
-          "BSPK"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-betterlife-pharma",
       "name": "BetterLife Pharma Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001464165",
@@ -3258,23 +3207,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-bonestrong-therapeutics",
-      "name": "Bonestrong Therapeutics Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
-      "identifiers": {
-        "nihIpf": [
-          "10091062"
-        ],
-        "uei": [
-          "XUNHXKKMFJ63"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3770,9 +3702,7 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -4015,27 +3945,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-cellfe",
-      "name": "Cellfe Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
-      "identifiers": {
-        "nihIpf": [
-          "10048774"
-        ],
-        "uei": [
-          "M34JNT47EKK3"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001752828",
@@ -4066,24 +3975,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cereus-diagnostics",
-      "name": "Cereus Diagnostics Corp.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11401239",
-      "identifiers": {
-        "nihIpf": [
-          "10079453"
-        ],
-        "uei": [
-          "ZQYGNNNXSHS6"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -4850,7 +4741,8 @@
         ]
       },
       "sourceTypes": [
-        "HKEX Chapter 18A biotech marker"
+        "HKEX Chapter 18A biotech marker",
+        "Hang Seng Biotech Index constituent"
       ],
       "status": "needs_official_domain"
     },
@@ -5087,6 +4979,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-eqon-pharmaceuticals",
+      "name": "Eqon Pharmaceuticals, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409867",
+      "identifiers": {
+        "nihIpf": [
+          "10059620"
+        ],
+        "uei": [
+          "K7N4NMVHDU95"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-estrella-immunopharma",
       "name": "Estrella Immunopharma, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001844417",
@@ -5274,8 +5184,7 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -5383,25 +5292,6 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-gentibio",
-      "name": "Gentibio, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11394173",
-      "identifiers": {
-        "nihIpf": [
-          "10089556"
-        ],
-        "uei": [
-          "HNHTFLZ9U5D4"
-        ]
-      },
-      "sourceTypes": [
-        "Organoids & Disease Models",
-        "Precision Diagnostics",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5730,19 +5620,19 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-hutchmed",
-      "name": "Hutchmed",
-      "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
+      "companyId": "candidate-iambic-therapeutics",
+      "name": "Iambic Therapeutics, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001997038",
       "identifiers": {
-        "hkexStockCode": [
-          "00013"
+        "cik": [
+          "0001997038"
         ],
-        "isin": [
-          "KYG4672N1198"
+        "ticker": [
+          "IAM"
         ]
       },
       "sourceTypes": [
-        "Hang Seng Biotech Index constituent"
+        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
@@ -6183,6 +6073,23 @@
         ],
         "ticker": [
           "IOVA"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-irulya-therapeutics",
+      "name": "IRulya Therapeutics Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
+      "identifiers": {
+        "cik": [
+          "0001662774"
+        ],
+        "ticker": [
+          "IRLA"
         ]
       },
       "sourceTypes": [
@@ -6678,6 +6585,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-lycia-therapeutics",
+      "name": "Lycia Therapeutics, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001806540",
+      "identifiers": {
+        "cik": [
+          "0001806540"
+        ],
+        "ticker": [
+          "LYCA"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-mabpharm",
       "name": "Mabpharm",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2181&sc_lang=en",
@@ -6964,6 +6888,41 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-mitochem-therapeutics",
+      "name": "Mitochem Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11401308",
+      "identifiers": {
+        "nihIpf": [
+          "10081719"
+        ],
+        "uei": [
+          "D93QYNUYWXN5"
+        ]
+      },
+      "sourceTypes": [
+        "RNA Therapeutics",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-mitovation",
+      "name": "Mitovation, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11009481",
+      "identifiers": {
+        "nihIpf": [
+          "10045289"
+        ],
+        "uei": [
+          "RDNAEF71R5E6"
+        ]
+      },
+      "sourceTypes": [
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7426,7 +7385,7 @@
     {
       "companyId": "candidate-opus-genetics",
       "name": "Opus Genetics Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409872",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11405186",
       "identifiers": {
         "nihIpf": [
           "10076450"
@@ -7436,7 +7395,9 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7717,26 +7678,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-proteovista",
-      "name": "Proteovista, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409383",
-      "identifiers": {
-        "nihIpf": [
-          "10026976"
-        ],
-        "uei": [
-          "GYNUUKETC8F4"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "RNA Therapeutics",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-q-c-technologies",
       "name": "Q/C Technologies, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001321834",
@@ -7784,23 +7725,6 @@
       },
       "sourceTypes": [
         "In Vitro and In Vivo Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-quince-therapeutics",
-      "name": "Quince Therapeutics, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-      "identifiers": {
-        "cik": [
-          "0001662774"
-        ],
-        "ticker": [
-          "QNCX"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
@@ -8024,7 +7948,8 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8743,6 +8668,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-trex-bio",
+      "name": "TRex Bio, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002139097",
+      "identifiers": {
+        "cik": [
+          "0002139097"
+        ],
+        "ticker": [
+          "TRXB"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-trinity-biotech",
       "name": "Trinity Biotech PLC",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000888721",
@@ -8841,6 +8783,25 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11204793",
+      "identifiers": {
+        "nihIpf": [
+          "10073837"
+        ],
+        "uei": [
+          "TVNLCARQLKC8"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -9131,23 +9092,6 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-windtree-therapeutics-inc-de",
-      "name": "Windtree Therapeutics Inc /De/",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-      "identifiers": {
-        "cik": [
-          "0000946486"
-        ],
-        "ticker": [
-          "WINT"
-        ]
-      },
-      "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },

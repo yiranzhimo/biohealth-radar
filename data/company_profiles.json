@@ -4590,10 +4590,10 @@
       ]
     },
     {
-      "companyId": "candidate-adia-nutrition",
-      "name": "Adia Nutrition, Inc.",
+      "companyId": "candidate-adia-med",
+      "name": "Adia Med, Inc.",
       "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": "Public",
         "ticker": "ADIA",
@@ -4624,97 +4624,40 @@
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：查看所有内部交易 教育 受益所有权（时间表13D和13G） 在过去几天内没有此公司的受益所有权申报",
-        "summaryOriginal": "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Medicinal Chemicals and Botanical Products；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
-            "text": "查看所有内部交易 教育 受益所有权（时间表13D和13G） 在过去几天内没有此公司的受益所有权申报",
-            "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
+        "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-adia-nutrition-official-7550f90e31bc"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-adia-nutrition-official-7550f90e31bc",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-adial-pharmaceuticals",
@@ -6577,133 +6520,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-airdoc-official-901fef751452",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-akanda",
-      "name": "Akanda Corp.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "AKAN",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001888014"
-          ],
-          "ticker": [
-            "AKAN"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Medicinal Chemicals and Botanical Products"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：查看所有内部交易 教育 受益所有权（时间表13D和13G） 在过去几天内没有此公司的受益所有权申报",
-        "summaryOriginal": "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
-            "text": "查看所有内部交易 教育 受益所有权（时间表13D和13G） 在过去几天内没有此公司的受益所有权申报",
-            "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-akanda-official-7550f90e31bc"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-akanda-official-7550f90e31bc",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-akanda-official-7550f90e31bc",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-akanda-official-7550f90e31bc",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001888014"
         }
       ]
     },
@@ -10430,133 +10246,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-amarin-corp-plc-uk-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-america-great-health",
-      "name": "America Great Health",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "AAGH",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001098009"
-          ],
-          "ticker": [
-            "AAGH"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Pharmaceutical Preparations"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-america-great-health-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-america-great-health-official-c644ef580088",
-            "date": "2026-08-16",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-16",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-america-great-health-official-c644ef580088",
-          "date": "2026-08-16",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-america-great-health-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001098009"
         }
       ]
     },
@@ -20654,133 +20343,6 @@
       ]
     },
     {
-      "companyId": "candidate-bespoke-extracts",
-      "name": "Bespoke Extracts, Inc.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "BSPK",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001409197"
-          ],
-          "ticker": [
-            "BSPK"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Pharmaceutical Preparations"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-bespoke-extracts-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-bespoke-extracts-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001409197"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-betterlife-pharma",
       "name": "BetterLife Pharma Inc.",
       "asOfDate": "2026-10-24",
@@ -26083,100 +25645,6 @@
       ]
     },
     {
-      "companyId": "candidate-bonestrong-therapeutics",
-      "name": "Bonestrong Therapeutics Inc.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314326",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10091062"
-          ],
-          "uei": [
-            "XUNHXKKMFJ63"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "cell therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "asOfDate": "2026-10-24",
@@ -30106,9 +29574,7 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "biotechnology",
-          "cell therapy",
-          "gene therapy"
+          "biotechnology"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -31974,104 +31440,6 @@
       ]
     },
     {
-      "companyId": "candidate-cellfe",
-      "name": "Cellfe Inc.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11314137",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10048774"
-          ],
-          "uei": [
-            "M34JNT47EKK3"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Cell Therapy",
-          "Gene Editing / Gene Therapy",
-          "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-cellfe-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "asOfDate": "2026-10-24",
@@ -32322,101 +31690,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-century-therapeutics-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001850119"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-cereus-diagnostics",
-      "name": "Cereus Diagnostics Corp.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11401239",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10079453"
-          ],
-          "uei": [
-            "ZQYGNNNXSHS6"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-cereus-diagnostics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-cereus-diagnostics-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cereus-diagnostics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11401239"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-cereus-diagnostics-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cereus-diagnostics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11401239"
         }
       ]
     },
@@ -38411,7 +37684,8 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "HKEX Chapter 18A biotech marker"
+          "HKEX Chapter 18A biotech marker",
+          "Hang Seng Biotech Index constituent"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -40295,6 +39569,77 @@
       ]
     },
     {
+      "companyId": "candidate-eqon-pharmaceuticals",
+      "name": "Eqon Pharmaceuticals, LLC",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11409867",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10059620"
+          ],
+          "uei": [
+            "K7N4NMVHDU95"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，cell therapy, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-estrella-immunopharma",
       "name": "Estrella Immunopharma, Inc.",
       "asOfDate": "2026-10-24",
@@ -41499,8 +40844,7 @@
           "AI Drug Discovery",
           "Precision Diagnostics",
           "RNA Therapeutics",
-          "drug discovery",
-          "gene therapy"
+          "drug discovery"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -42599,102 +41943,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-genscript-bio-official-339ae1ac3a74",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1548&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-gentibio",
-      "name": "Gentibio, Inc.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11394173",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10089556"
-          ],
-          "uei": [
-            "HNHTFLZ9U5D4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-gentibio-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
-            "date": "2026-08-31",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11394173"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-31",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-gentibio-official-6701336049be",
-          "date": "2026-08-31",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-gentibio-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11394173"
         }
       ]
     },
@@ -45637,153 +44885,74 @@
       ]
     },
     {
-      "companyId": "candidate-hutchmed",
-      "name": "Hutchmed",
+      "companyId": "candidate-iambic-therapeutics",
+      "name": "Iambic Therapeutics, Inc.",
       "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
+      "profileStatus": "seed_only",
       "identity": {
         "ownership": "Public",
-        "ticker": "00013",
-        "exchange": "HKEX",
+        "ticker": "IAM",
+        "exchange": "SEC",
         "headquarters": null,
-        "officialUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001997038",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
-          "hkexStockCode": [
-            "00013"
+          "cik": [
+            "0001997038"
           ],
-          "isin": [
-            "KYG4672N1198"
+          "ticker": [
+            "IAM"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
         "legalNameStatus": "unresolved",
         "periodicReports": [],
-        "reportPortals": [
-          {
-            "label": "港交所披露易",
-            "source": "HKEXnews",
-            "url": "https://www1.hkexnews.hk/index.htm"
-          }
-        ]
+        "reportPortals": []
       },
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Hang Seng Biotech Index constituent"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "modalities": [],
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-        "summaryOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-        "translationStatus": "translated",
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
         "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
-            "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
-            "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
-            "text": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "[Company Name + Stock Code] - stock price, quote, history",
-            "text": "[Company Name + Stock Code] - stock price, quote, history",
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
+        "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-hutchmed-official-339ae1ac3a74"
-        ]
+        "evidenceIds": []
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "date": "2026-10-07",
-            "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-            "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en"
-          }
-        ],
+        "observedMoves": [],
         "inferences": [],
         "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-10-07",
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
         "programCandidateCount": 0,
         "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-          "date": "2026-10-07",
-          "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-hutchmed-official-339ae1ac3a74",
-          "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=13&sc_lang=en"
-        }
-      ]
+      "recentEvents": []
     },
     {
       "companyId": "candidate-idexx-laboratories-inc-de",
@@ -50186,6 +49355,76 @@
       ]
     },
     {
+      "companyId": "candidate-irulya-therapeutics",
+      "name": "IRulya Therapeutics Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "IRLA",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0001662774"
+          ],
+          "ticker": [
+            "IRLA"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Biological Products, Except Diagnostic Substances"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-jacobio",
       "name": "Jacobio",
       "asOfDate": "2026-10-24",
@@ -54200,6 +53439,76 @@
       ]
     },
     {
+      "companyId": "candidate-lycia-therapeutics",
+      "name": "Lycia Therapeutics, Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "LYCA",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001806540",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0001806540"
+          ],
+          "ticker": [
+            "LYCA"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Biological Products, Except Diagnostic Substances"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-mabpharm",
       "name": "Mabpharm",
       "asOfDate": "2026-10-24",
@@ -56609,6 +55918,147 @@
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2629&sc_lang=en"
         }
       ]
+    },
+    {
+      "companyId": "candidate-mitochem-therapeutics",
+      "name": "Mitochem Therapeutics Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11401308",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10081719"
+          ],
+          "uei": [
+            "D93QYNUYWXN5"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "RNA Therapeutics",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，RNA Therapeutics, drug discovery；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
+      "companyId": "candidate-mitovation",
+      "name": "Mitovation, Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11009481",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10045289"
+          ],
+          "uei": [
+            "RDNAEF71R5E6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "NIH RePORTER biotech 相关营利机构记录，gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "moderna",
@@ -60761,7 +60211,7 @@
         "ticker": null,
         "exchange": null,
         "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409872",
+        "officialUrl": "https://reporter.nih.gov/project-details/11405186",
         "irUrl": null,
         "pipelineUrl": null,
         "identifiers": {
@@ -60780,7 +60230,9 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "biotechnology"
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -63014,103 +62466,6 @@
       ]
     },
     {
-      "companyId": "candidate-proteovista",
-      "name": "Proteovista, LLC",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11409383",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10026976"
-          ],
-          "uei": [
-            "GYNUUKETC8F4"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "AI Drug Discovery",
-          "Precision Diagnostics",
-          "RNA Therapeutics",
-          "drug discovery"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-proteovista-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-proteovista-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-proteovista-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409383"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-proteovista-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-proteovista-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409383"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-q-c-technologies",
       "name": "Q/C Technologies, Inc.",
       "asOfDate": "2026-10-24",
@@ -63488,133 +62843,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-quidelortho-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001906324"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-quince-therapeutics",
-      "name": "Quince Therapeutics, Inc.",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "QNCX",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0001662774"
-          ],
-          "ticker": [
-            "QNCX"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Biological Products, Except Diagnostic Substances"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-quince-therapeutics-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-quince-therapeutics-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774"
         }
       ]
     },
@@ -65657,7 +64885,8 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "biotechnology"
+          "biotechnology",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -71330,6 +70559,76 @@
       ]
     },
     {
+      "companyId": "candidate-trex-bio",
+      "name": "TRex Bio, Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "TRXB",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0002139097",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0002139097"
+          ],
+          "ticker": [
+            "TRXB"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Biological Products, Except Diagnostic Substances"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-trinity-biotech",
       "name": "Trinity Biotech PLC",
       "asOfDate": "2026-10-24",
@@ -72132,6 +71431,102 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-united-lab-official-339ae1ac3a74",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3933&sc_lang=en"
+        }
+      ]
+    },
+    {
+      "companyId": "candidate-up-oncolytics",
+      "name": "Up Oncolytics, Inc.",
+      "asOfDate": "2026-10-24",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11204793",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10073837"
+          ],
+          "uei": [
+            "TVNLCARQLKC8"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "cell therapy",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-up-oncolytics-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-up-oncolytics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-up-oncolytics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-up-oncolytics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-up-oncolytics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
         }
       ]
     },
@@ -74347,133 +73742,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-weigao-group-official-339ae1ac3a74",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1066&sc_lang=en"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-windtree-therapeutics-inc-de",
-      "name": "Windtree Therapeutics Inc /De/",
-      "asOfDate": "2026-10-24",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": "Public",
-        "ticker": "WINT",
-        "exchange": "SEC",
-        "headquarters": null,
-        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "cik": [
-            "0000946486"
-          ],
-          "ticker": [
-            "WINT"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "Biological Products, Except Diagnostic Substances"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
-        "summaryOriginal": "This company's Exchange Act registration has been revoked",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [
-          {
-            "textOriginal": "This company's Exchange Act registration has been revoked",
-            "text": "该公司的交易法注册已被撤销",
-            "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
-            "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
-            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
-            "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "No 8-K filing data for this company in last days",
-            "text": "No 8-K filing data for this company in last days",
-            "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486",
-            "needsReview": true,
-            "claimType": "Report"
-          }
-        ],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "date": "2026-08-18",
-            "title": "EDGAR Entity Landing Page",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-08-18",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-          "date": "2026-08-18",
-          "title": "EDGAR Entity Landing Page",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-windtree-therapeutics-inc-de-official-c644ef580088",
-          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000946486"
         }
       ]
     },
