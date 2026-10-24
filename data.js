@@ -2745,75 +2745,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42915681",
-      "date": "2026-10-06",
-      "title": "Multiple Pickering Emulsions Enable Highly Efficient Interfacial Catalysis and Extracellular Vesicle Classification via In Situ Surface-Enhanced Raman Spectroscopy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42915681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42915681。",
-      "report": "Multiple Pickering emulsions show great potential in catalysis and bioanalysis but remain limited by insufficient structural stability, unclear interfacial mechanisms, and limited functional integration. Here, a stable water-in-oil-in-water multicompartment Pi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0157da45e7ab79f3006adc37ccae7887d0af3adb49cf3f50bc",
-        "reviewedAt": "2026-10-24T04:44:24.458391+00:00",
-        "inputHash": "5c4ae5341356cfa87b01ac2ec9db7b2bb2b70e6d7cbc38ae33582d2accab9973",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献符合出版标准，报告与事实分离明确。未包含未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "来源证据水平适中，支持报告内容。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42915681。",
-          "report": "Multiple Pickering emulsions show great potential in catalysis and bioanalysis but remain limited by insufficient structural stability, unclear interfacial mechanisms, and limited functional integration. Here, a stable water-in-oil-in-water multicompartment Pi...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000132",
       "date": "2026-10-05",
       "title": "Genmab filed Form 6-K",
@@ -3846,73 +3777,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42918795。",
           "report": "Precise gene dosage control is critical for cellular identity and development, particularly for imprinted genes, where dosage imbalances are linked to neurodevelopmental disorders. The Mest/Copg2 imprinted locus exemplifies this fine-tuned regulation: while Me...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42918777",
-      "date": "2026-09-23",
-      "title": "A principal-stress rule for cell division in epithelia.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42918777/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42918777。",
-      "report": "Dense active materials must continuously relieve internal mechanical stress to remain structurally stable as they are driven far from equilibrium. In epithelial tissues, this relief occurs through cell division, where, according to Hertwig's century-old rule,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_022165a2c965adc3006adc37e6b7e887d09672195c65b7363e",
-        "reviewedAt": "2026-10-24T04:44:24.458391+00:00",
-        "inputHash": "8d7ef79c3283b5f184336d1cbd8e8295e8939c829aa24625a2ed0dee0916aa78",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录清晰且无临床结论，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告与推论分隔清晰，证据水平合适。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42918777。",
-          "report": "Dense active materials must continuously relieve internal mechanical stress to remain structurally stable as they are driven far from equilibrium. In epithelial tissues, this relief occurs through cell division, where, according to Hertwig's century-old rule,...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -8743,6 +8607,153 @@ window.BHR_DATA = {
           "report": "Acquired resistance significantly limits the long-term clinical benefit of osimertinib in EGFR-mutant lung adenocarcinoma (LUAD). However, the early non-genetic adaptations and microenvironmental crosstalk that enable initial tumor survival remain poorly defined.",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42920187",
+      "date": "2026-07-28",
+      "title": "BRCA2 reversion mutations as a resistance mechanism to olaparib in patients with BRCA2-mutated mCRPC: a case series.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920187/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Hereditary cancer in clinical practice，PMID 为 42920187。",
+      "report": "Prostate cancer with BRCA2 mutations has shown sensitivity to poly (ADP-ribose) polymerase (PARP) inhibitors such as olaparib. However, acquired resistance remains a clinical concern. One potential mechanism of resistance is the emergence of reversion mutation...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04b0f8aef773ce18006adc92453f9c87d0be2d89c779dc7e94",
+        "reviewedAt": "2026-10-24T11:11:00.445806+00:00",
+        "inputHash": "4daf502e15fdd4cd3f204a9a2c7f8406b6cf4f1d665766cef268c27756d9b03d",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号涉及BRCA2突变与olaparib抗药性相关的研究，可能存在未充分支持的效能或安全性推断。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "主要分类和子分类不足以支持现有信号的主题，需重审。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告与推断的分离不明确，且现有的证据水平为中等，可能过于宽泛。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Oncology",
+          "subCategory": "Cancer Resistance Mechanisms",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Cancer Resistance",
+            "PARP Inhibitors"
+          ],
+          "tags": [],
+          "fact": "PubMed 记录显示该文献收录于 Hereditary cancer in clinical practice，PMID 为 42920187。",
+          "report": "患者BRCA2突变的前列腺癌已显示出对聚腺苷二磷酸核糖聚合酶（PARP）抑制剂如olaparib的敏感性，但耐药性是一个临床问题。",
+          "inference": "该信号的推断并未确认该研究的实际质量。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42920175",
+      "date": "2026-07-27",
+      "title": "Precise immunomodulation by mesenchymal stem cells mitigates hepatitis B virus-specific CD8⁺ T cell-mediated acute liver injury without compromising viral clearance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920175/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell research & therapy，PMID 为 42920175。",
+      "report": "Hepatitis B virus-related acute-on-chronic liver failure (HBV-ACLF) is associated with a high mortality rate. Although mesenchymal stem cell (MSC) therapy markedly improves liver function and survival in patients with HBV-ACLF, it remains unclear whether the i...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_01028c1cb73f7bc3006adc9249b59487d0b2f78decc71dc500",
+        "reviewedAt": "2026-10-24T11:11:00.445806+00:00",
+        "inputHash": "66b52623e5f210495c91f31f46d59548683262bcec1dfa36877ca6d8c9435350",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以判断研究质量及支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献的分类与提供的证据水平不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "文献的证据水平被标记为中等，但支持的临床结论并不明确。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Stem cell research & therapy，PMID 为 42920175。",
+          "report": "Hepatitis B virus-related acute-on-chronic liver failure (HBV-ACLF) is associated with a high mortality rate. Although mesenchymal stem cell (MSC) therapy markedly improves liver function and survival in patients with HBV-ACLF, it remains unclear whether the intervention works.",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

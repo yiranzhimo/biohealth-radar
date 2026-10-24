@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-24T04:44:14.539966+00:00",
+  "capturedAt": "2026-10-24T11:10:52.175332+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-24"
   },
   "pmids": [
+    "42920175",
     "42919499",
     "42919465",
     "42919388",
     "42919317",
     "42918795",
-    "42918777",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,34 @@
     "42916580",
     "42915857",
     "42915632",
+    "42920187",
     "42918940",
     "42918619",
     "42918104",
     "42916338",
-    "42916089",
-    "42915681"
+    "42916089"
   ],
   "records": [
+    {
+      "pmid": "42920175",
+      "title": "Precise immunomodulation by mesenchymal stem cells mitigates hepatitis B virus-specific CD8⁺ T cell-mediated acute liver injury without compromising viral clearance.",
+      "abstract": "Hepatitis B virus-related acute-on-chronic liver failure (HBV-ACLF) is associated with a high mortality rate. Although mesenchymal stem cell (MSC) therapy markedly improves liver function and survival in patients with HBV-ACLF, it remains unclear whether the immunomodulatory effects of MSCs suppress antiviral CD8⁺ T cell function and trigger HBV reactivation. Here, we developed a novel in vitro HBV-specific CD8⁺ T cell-mediated acute liver injury organoid model, which was co-cultured with either menstrual blood-derived MSCs (MenSCs) or umbilical cord-derived MSCs (UC-MSCs). We found that both MenSCs and UC-MSCs coordinate liver repair and antiviral immunity through precise immunomodulation, primarily via paracrine signaling. Both MSC types significantly downregulated pro-inflammatory (IFN-γ, TNF-α, IL-8, and CXCL10) and apoptosis-related genes (FasL and CASP7), while promoting hepatic regeneration through IL-6 and HGF upregulation, without compromising CD8⁺ T cell-mediated HBV clearance. This study provides critical insights into the safety of MSC therapy for HBV-ACLF.",
+      "journal": "Stem cell research & therapy",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pharmacology, Joint Laboratory of Guangdong-Hong Kong Universities for Vascular Homeostasis and Diseases, School of Medicine, Southern University of Science and Technology, Shenzhen, 518000, China.",
+        "Department of Hepato-Biliary Surgery, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, Guangdong, Shenzhen, China.",
+        "State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Biotherapy Clinical Research Center, Shenzhen Third People's Hospital, Second Hospital Affiliated to Southern University of Science and Technology, Shenzhen, Guangdong, China.",
+        "Department of Pharmacology, Joint Laboratory of Guangdong-Hong Kong Universities for Vascular Homeostasis and Diseases, School of Medicine, Southern University of Science and Technology, Shenzhen, 518000, China. liaosm2022@sustech.edu.cn.",
+        "Department of Pharmacology, Joint Laboratory of Guangdong-Hong Kong Universities for Vascular Homeostasis and Diseases, School of Medicine, Southern University of Science and Technology, Shenzhen, 518000, China. lil@sustech.edu.cn."
+      ],
+      "doi": "10.1186/s13287-026-05105-2",
+      "date": "2026-07-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920175/"
+    },
     {
       "pmid": "42919499",
       "title": "Emerging Tools and Biomarker Approaches to Understand and Diagnose Necrotizing Enterocolitis.",
@@ -141,28 +161,6 @@
       "doi": "10.1038/s41467-026-77877-3",
       "date": "2026-09-23",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42918795/"
-    },
-    {
-      "pmid": "42918777",
-      "title": "A principal-stress rule for cell division in epithelia.",
-      "abstract": "Dense active materials must continuously relieve internal mechanical stress to remain structurally stable as they are driven far from equilibrium. In epithelial tissues, this relief occurs through cell division, where, according to Hertwig's century-old rule, cells divide along their long axis. We show that as epithelia densify, this geometric rule is superseded by a mechanical one: cells divide along the principal axis of anisotropic stress, independently of the isotropic stress state. Using direct force measurements and stress inference, we demonstrate that stress orientation governs division across mechanically distinct systems, from fluid-like to jammed monolayers and structurally heterogeneous organoids, remaining predictive where cell shape fails. This stress-oriented remodeling is reciprocally coupled to the material's mechanical state: anisotropic stress accelerates cell-cycle progression, while division locally dissipates it, closing a negative feedback loop. This \"principal-stress rule\" provides a general mechanical framework linking internal stress, structural remodeling and homeostasis in living materials.",
-      "journal": "Nature communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Université Paris Cité, CNRS, Institut Jacques Monod, F-75013, Paris, France.",
-        "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark.",
-        "Institut Curie, Paris Université Sciences et Lettres, Sorbonne Université, CNRS, UMR144, Paris, France.",
-        "Université Paris Cité, CNRS, Institut Jacques Monod, F-75013, Paris, France. rene-marc.mege@ijm.fr.",
-        "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark. doostmohammadi@nbi.ku.dk.",
-        "Université Paris Cité, CNRS, Institut Jacques Monod, F-75013, Paris, France. benoit.ladoux@fau.de.",
-        "Department of Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany. benoit.ladoux@fau.de.",
-        "Max-Planck-Zentrum für Physik und Medizin and Max Planck Institute for the Science of Light, Erlangen, Germany. benoit.ladoux@fau.de."
-      ],
-      "doi": "10.1038/s41467-026-77813-5",
-      "date": "2026-09-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42918777/"
     },
     {
       "pmid": "42893561",
@@ -382,6 +380,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42915632/"
     },
     {
+      "pmid": "42920187",
+      "title": "BRCA2 reversion mutations as a resistance mechanism to olaparib in patients with BRCA2-mutated mCRPC: a case series.",
+      "abstract": "Prostate cancer with BRCA2 mutations has shown sensitivity to poly (ADP-ribose) polymerase (PARP) inhibitors such as olaparib. However, acquired resistance remains a clinical concern. One potential mechanism of resistance is the emergence of reversion mutations that restore the function of BRCA2. Although this mechanism has been observed in other tumor types, only a limited number of clinical reports have described this phenomenon in prostate cancer. This case series highlights three patients in whom BRCA2 reversion mutations were detected following disease progression on olaparib. We present three male patients diagnosed with metastatic castration-resistant prostate cancer, each carrying a germline BRCA2 mutation. All patients initially responded to olaparib, with a reduction in prostate-specific antigen levels and radiographic disease control. However, after approximately one year of treatment, each patient developed disease progression. Circulating tumor DNA analysis using a commercial liquid biopsy platform was performed after progression. In all cases, additional BRCA2 mutations were detected, including multiple variants predicted to restore the disrupted open reading frame of the BRCA2 gene. These findings were consistent with reversion mutations potentially restoring BRCA2 protein function and thereby conferring resistance to the PARP inhibitor. One patient additionally developed neuroendocrine differentiation during disease progression, highlighting the complexity of resistance evolution. This case series provides clinical evidence that BRCA2 reversion mutations may underlie acquired resistance to olaparib in prostate cancer. These observations support the utility of liquid biopsy for detecting molecular mechanisms of resistance and suggest that reversion mutations may serve as a biomarker of treatment failure. Understanding such resistance mechanisms is essential for optimizing treatment sequencing and developing novel therapeutic strategies in BRCA2-mutated prostate cancer.",
+      "journal": "Hereditary cancer in clinical practice",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.",
+        "Department of Advanced Medical Development, The Cancer Institute Hospital of Japanese Foundation for Cancer Research, Tokyo, Japan.",
+        "Clinical Genetics Center, Toranomon Hospital, Tokyo, Japan.",
+        "Department of Clinical Genetics, Graduate School of Medicine, Juntendo University, Tokyo, Japan.",
+        "Department of Urology, Toranomon Hospital, Tokyo, Japan.",
+        "Department of Medical Oncology, The Cancer Institute Hospital of Japanese Foundation for Cancer Research, 3-8-31, Ariake, Koto-ku, Tokyo, 135-8550, Japan. yuji.miura@jfcr.or.jp."
+      ],
+      "doi": "10.1186/s13053-026-00346-x",
+      "date": "2026-07-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920187/"
+    },
+    {
       "pmid": "42918940",
       "title": "Acoustofluidic enrichment of small extracellular vesicles: physical principles, microfluidic implementations, and prospects for Parkinson's disease liquid biopsy.",
       "abstract": "Reliable blood-based small extracellular vesicle (sEV) analysis for Parkinson's disease (PD) is constrained by co-isolation of lipoproteins and proteins from plasma. This review examines acoustofluidics as a sample-preprocessing and integration-enabling strategy for PD liquid biopsy. We first summarize the analytical value and limitations of sEV-associated α-synuclein, microRNA panels, and multi-omics cargo, and then compare conventional and microfluidic enrichment methods with particular attention to lipoprotein co-isolation, recovery, fraction purity, throughput, and compatibility with downstream assays. We further analyze the physical basis of acoustofluidic separation, including particle volume, density, compressibility, and acoustic contrast factor, and assess its potential integration with on-chip lysis, nucleic acid amplification, protein assays, and signal readout. Current evidence suggests that acoustofluidics can provide label-free, noncontact enrichment of sEV-containing fractions while offering a physical separation dimension complementary to size and buoyant density. However, it achieves reduced lipoprotein co-isolation rather than complete removal, yielding sEV-enriched fractions rather than highly pure isolates. Clinical translation will therefore require standardized pre-analytical workflows, explicit reporting of sEV recovery and lipoprotein depletion, demonstration that improved fraction quality enhances biomarker measurement, and prospective multicenter validation. Acoustofluidics should thus be viewed as a promising front-end technology for improving the analytical reliability and integration of PD sEV liquid biopsy rather than as an independent diagnostic method. The critical question remains whether improved sEV enrichment can ultimately translate into more reliable and clinically useful PD biomarker measurements. We use sEV terminology without assuming endosomal origin.",
@@ -480,21 +498,6 @@
       "doi": "10.1021/acsnano.6c05580",
       "date": "2026-09-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42916089/"
-    },
-    {
-      "pmid": "42915681",
-      "title": "Multiple Pickering Emulsions Enable Highly Efficient Interfacial Catalysis and Extracellular Vesicle Classification via In Situ Surface-Enhanced Raman Spectroscopy.",
-      "abstract": "Multiple Pickering emulsions show great potential in catalysis and bioanalysis but remain limited by insufficient structural stability, unclear interfacial mechanisms, and limited functional integration. Here, a stable water-in-oil-in-water multicompartment Pickering emulsion was constructed through the synergistic coassembly of polyvinylpyrrolidone-modified gold nanoparticles (Au@PVP) and bovine serum albumin (BSA). The suitable wettability of Au@PVP, together with BSA adsorption and reorganization, promoted the formation of a dense composite nanoparticle film at the oil-water interface, enabling long-term emulsion stability. Using the BSA-catalyzed condensation of chalcone and malononitrile as a model reaction, in situ surface-enhanced Raman spectroscopy (SERS) revealed significantly enhanced interfacial reaction kinetics compared with those in the monolayer emulsion system, with the target product yield increasing by approximately 6.8-fold after 24 h. Fourier transform infrared spectroscopy independently confirmed the kinetic trend. For bioanalysis, replacing BSA with cell-secreted components generated functional emulsion substrates with highly reproducible SERS signals. Combined with feed-forward neural network analysis, the platform achieved classification accuracies exceeding 95% for three types of extracellular vesicles. This multicompartment emulsion platform integrates interfacial engineering, reaction acceleration, real-time monitoring, and intelligent biosensing, providing a versatile strategy for organic catalysis, biomarker detection, and liquid biopsy.",
-      "journal": "Analytical chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Joint Research Center for Food Derived Functional Factors and Synthetic Biology of IHM, Anhui Provincial International Science and Technology Cooperation Base for Major Metabolic Diseases and Nutritional Interventions, China Light Industry Key Laboratory of Meat Microbial Control and Utilization, School of Food and Biological Engineering, Engineering Research Center of Bio-Process of Ministry of Education, Hefei University of Technology, Hefei230601, P. R. China."
-      ],
-      "doi": "10.1021/acs.analchem.6c03152",
-      "date": "2026-10-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42915681/"
     }
   ],
   "signals": [
@@ -775,34 +778,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42915681",
-      "date": "2026-10-06",
-      "title": "Multiple Pickering Emulsions Enable Highly Efficient Interfacial Catalysis and Extracellular Vesicle Classification via In Situ Surface-Enhanced Raman Spectroscopy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42915681/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Analytical chemistry，PMID 为 42915681。",
-      "report": "Multiple Pickering emulsions show great potential in catalysis and bioanalysis but remain limited by insufficient structural stability, unclear interfacial mechanisms, and limited functional integration. Here, a stable water-in-oil-in-water multicompartment Pi...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42918104",
       "date": "2026-10-02",
       "title": "Circulating Proteomic Signatures for Multicancer Early Detection: Cross-Platform Evidence for a Matrix-Immune-Secretory Biomarker Axis.",
@@ -946,34 +921,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42918795。",
       "report": "Precise gene dosage control is critical for cellular identity and development, particularly for imprinted genes, where dosage imbalances are linked to neurodevelopmental disorders. The Mest/Copg2 imprinted locus exemplifies this fine-tuned regulation: while Me...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42918777",
-      "date": "2026-09-23",
-      "title": "A principal-stress rule for cell division in epithelia.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42918777/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42918777。",
-      "report": "Dense active materials must continuously relieve internal mechanical stress to remain structurally stable as they are driven far from equilibrium. In epithelial tissues, this relief occurs through cell division, where, according to Hertwig's century-old rule,...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1156,6 +1103,68 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42919317。",
       "report": "Acquired resistance significantly limits the long-term clinical benefit of osimertinib in EGFR-mutant lung adenocarcinoma (LUAD). However, the early non-genetic adaptations and microenvironmental crosstalk that enable initial tumor survival remain poorly defin...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42920187",
+      "date": "2026-07-28",
+      "title": "BRCA2 reversion mutations as a resistance mechanism to olaparib in patients with BRCA2-mutated mCRPC: a case series.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920187/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Hereditary cancer in clinical practice，PMID 为 42920187。",
+      "report": "Prostate cancer with BRCA2 mutations has shown sensitivity to poly (ADP-ribose) polymerase (PARP) inhibitors such as olaparib. However, acquired resistance remains a clinical concern. One potential mechanism of resistance is the emergence of reversion mutation...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42920175",
+      "date": "2026-07-27",
+      "title": "Precise immunomodulation by mesenchymal stem cells mitigates hepatitis B virus-specific CD8⁺ T cell-mediated acute liver injury without compromising viral clearance.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42920175/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell research & therapy，PMID 为 42920175。",
+      "report": "Hepatitis B virus-related acute-on-chronic liver failure (HBV-ACLF) is associated with a high mortality rate. Although mesenchymal stem cell (MSC) therapy markedly improves liver function and survival in patients with HBV-ACLF, it remains unclear whether the i...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
