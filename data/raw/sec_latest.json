@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-24T16:01:50.621967+00:00",
+  "capturedAt": "2026-10-24T20:55:21.228642+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-10",
@@ -167,32 +167,6 @@
     {
       "filingDate": "2026-10-23",
       "reportDate": "2026-10-23",
-      "acceptanceDateTime": "2026-10-23T17:00:30.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-42130",
-      "filmNumber": "261480018",
-      "items": "8.01",
-      "size": 144534,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d135568d8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-429533",
-      "companyId": "tempus-ai",
-      "companyName": "Tempus AI",
-      "companyDirections": [
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "secTicker": "TEM",
-      "cik": "0001717115",
-      "secName": "Tempus AI, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
-    },
-    {
-      "filingDate": "2026-10-23",
-      "reportDate": "2026-10-23",
       "acceptanceDateTime": "2026-10-23T15:58:39.000Z",
       "act": "34",
       "form": "6-K",
@@ -216,9 +190,35 @@
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm"
     },
     {
+      "filingDate": "2026-10-23",
+      "reportDate": "2026-10-23",
+      "acceptanceDateTime": "2026-10-23T13:00:30.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261480018",
+      "items": "8.01",
+      "size": 144534,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d135568d8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-429533",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
+    },
+    {
       "filingDate": "2026-10-21",
       "reportDate": "",
-      "acceptanceDateTime": "2026-10-22T00:20:29.000Z",
+      "acceptanceDateTime": "2026-10-21T20:20:29.000Z",
       "act": "33",
       "form": "424B3",
       "fileNumber": "333-298668",
@@ -244,7 +244,7 @@
     {
       "filingDate": "2026-10-21",
       "reportDate": "2026-10-20",
-      "acceptanceDateTime": "2026-10-22T00:15:17.000Z",
+      "acceptanceDateTime": "2026-10-21T20:15:17.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "000-19125",
@@ -269,7 +269,7 @@
     {
       "filingDate": "2026-10-19",
       "reportDate": "2026-10-19",
-      "acceptanceDateTime": "2026-10-20T00:11:18.000Z",
+      "acceptanceDateTime": "2026-10-19T20:11:18.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-37923",
@@ -294,7 +294,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "",
-      "acceptanceDateTime": "2026-10-16T01:31:14.000Z",
+      "acceptanceDateTime": "2026-10-15T21:31:14.000Z",
       "act": "33",
       "form": "424B5",
       "fileNumber": "333-284878",
@@ -319,7 +319,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "2026-10-15",
-      "acceptanceDateTime": "2026-10-15T16:46:40.000Z",
+      "acceptanceDateTime": "2026-10-15T12:46:40.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-40323",
@@ -344,7 +344,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "",
-      "acceptanceDateTime": "2026-10-15T16:19:50.000Z",
+      "acceptanceDateTime": "2026-10-15T12:19:50.000Z",
       "act": "33",
       "form": "424B5",
       "fileNumber": "333-284878",
@@ -369,7 +369,7 @@
     {
       "filingDate": "2026-10-15",
       "reportDate": "2026-10-15",
-      "acceptanceDateTime": "2026-10-15T16:00:20.000Z",
+      "acceptanceDateTime": "2026-10-15T12:00:20.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-39307",
@@ -394,7 +394,7 @@
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-10-13",
-      "acceptanceDateTime": "2026-10-14T00:48:27.000Z",
+      "acceptanceDateTime": "2026-10-13T20:48:27.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-35406",
@@ -419,7 +419,7 @@
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-10-13",
-      "acceptanceDateTime": "2026-10-13T15:50:04.000Z",
+      "acceptanceDateTime": "2026-10-13T11:50:04.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-38976",
@@ -444,7 +444,7 @@
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-10-13",
-      "acceptanceDateTime": "2026-10-13T15:30:04.000Z",
+      "acceptanceDateTime": "2026-10-13T11:30:04.000Z",
       "act": "34",
       "form": "6-K",
       "fileNumber": "001-39307",
@@ -469,7 +469,7 @@
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-08-31",
-      "acceptanceDateTime": "2026-10-13T14:21:23.000Z",
+      "acceptanceDateTime": "2026-10-13T10:21:23.000Z",
       "act": "34",
       "form": "10-Q",
       "fileNumber": "001-39398",
@@ -494,7 +494,7 @@
     {
       "filingDate": "2026-10-13",
       "reportDate": "2026-10-12",
-      "acceptanceDateTime": "2026-10-13T14:19:25.000Z",
+      "acceptanceDateTime": "2026-10-13T10:19:25.000Z",
       "act": "34",
       "form": "8-K",
       "fileNumber": "001-39398",
@@ -550,6 +550,37 @@
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },
     {
+      "id": "sec-0001434265-000143426526000138",
+      "date": "2026-10-23",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000138 for Genmab, Form 6-K, filed on 2026-10-23.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
       "id": "sec-0001717115-000119312526429533",
       "date": "2026-10-23",
       "title": "Tempus AI filed Form 8-K",
@@ -578,37 +609,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
       "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001434265-000143426526000138",
-      "date": "2026-10-23",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000138 for Genmab, Form 6-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     },

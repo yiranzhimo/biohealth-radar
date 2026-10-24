@@ -1124,79 +1124,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "sec-0001717115-000119312526429533",
-      "date": "2026-10-23",
-      "title": "Tempus AI filed Form 8-K",
-      "entity": "Tempus AI",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "TEM"
-      ],
-      "companyIds": [
-        "tempus-ai"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_08bb4f9ccdcf4e04006adb95e21e3087d2ad9f9afd68118d1c",
-        "reviewedAt": "2026-10-23T17:13:54.994917+00:00",
-        "inputHash": "287b45966ea800fdc74a430cf21e052252770c3442839f0d351f5c64e992b1c6",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息分离清晰无误。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提交信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据层次与信息一致，报告内容清晰。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Precision Diagnostics",
-            "Healthcare AI"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "TEM"
-          ],
-          "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
       "id": "sec-0001434265-000143426526000138",
       "date": "2026-10-23",
       "title": "Genmab filed Form 6-K",
@@ -1264,6 +1191,79 @@ window.BHR_DATA = {
           ],
           "fact": "SEC EDGAR lists accession 0001434265-26-000138 for Genmab, Form 6-K, filed on 2026-10-23.",
           "report": "SEC metadata describes the primary document as: 6-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001717115-000119312526429533",
+      "date": "2026-10-23",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_08bb4f9ccdcf4e04006adb95e21e3087d2ad9f9afd68118d1c",
+        "reviewedAt": "2026-10-23T17:13:54.994917+00:00",
+        "inputHash": "287b45966ea800fdc74a430cf21e052252770c3442839f0d351f5c64e992b1c6",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，信息分离清晰无误。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提交信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据层次与信息一致，报告内容清晰。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics",
+            "Healthcare AI"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TEM"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
