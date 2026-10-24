@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-10-22T09:36:10+00:00",
-  "sourceCapturedAt": "2026-10-22T09:34:53+00:00",
+  "capturedAt": "2026-10-24T09:04:10+00:00",
+  "sourceCapturedAt": "2026-10-24T09:03:53+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -102,6 +102,11 @@
       "sourceUses": [
         {
           "companyId": "candidate-achieve-life-sciences",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-adia-med",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -720,11 +725,6 @@
       "sourceUses": [
         {
           "companyId": "calico",
-          "sourceRole": "official",
-          "field": "business_summary"
-        },
-        {
-          "companyId": "calico",
           "sourceRole": "pipeline",
           "field": "business_summary"
         }
@@ -1192,6 +1192,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-eqon-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-everest-biolabs",
           "sourceRole": "official",
           "field": "business_summary"
@@ -1503,6 +1508,16 @@
         },
         {
           "companyId": "candidate-mitegen",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-mitochem-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-mitovation",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -3959,6 +3974,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-iambic-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-imagenebio",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4029,6 +4049,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-irulya-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-jasper-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4075,6 +4100,11 @@
         },
         {
           "companyId": "candidate-liminatus-pharma",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-lycia-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -4339,6 +4369,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-trex-bio",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-tscan-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4515,6 +4550,24 @@
       "translatedAt": "2026-08-10T12:30:00+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": null
+    },
+    {
+      "id": "translation-a9a9efd32473666c",
+      "sourceTextHash": "a9a9efd32473666ca901bc882b9dd8b7798a76f7d5bd259173231997694addda",
+      "sourceText": "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
+      "sourceUses": [
+        {
+          "companyId": "calico",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-10-24T09:04:10+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_0a4717a617cc687d006adc748bbacc87d1a2d57fda4db1d824"
     },
     {
       "id": "translation-aad82ab2fa3e72f3",
