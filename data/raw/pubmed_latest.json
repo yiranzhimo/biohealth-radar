@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-24T20:55:13.292220+00:00",
+  "capturedAt": "2026-10-25T04:50:50.944536+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-24",
-    "end": "2026-10-24"
+    "start": "2025-10-25",
+    "end": "2026-10-25"
   },
   "pmids": [
     "42920175",
