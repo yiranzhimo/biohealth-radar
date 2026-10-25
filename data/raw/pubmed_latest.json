@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-25T11:40:21.009445+00:00",
+  "capturedAt": "2026-10-25T16:29:42.362318+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-25"
   },
   "pmids": [
+    "42927452",
+    "42927416",
+    "42927287",
+    "42927277",
+    "42927220",
     "42926891",
-    "42926605",
-    "42926580",
-    "42926548",
-    "42926365",
-    "42926195",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,102 @@
     "42917106",
     "42916734",
     "42916680",
+    "42927396",
     "42927017",
     "42927000",
     "42926854",
     "42926544",
-    "42925769",
-    "42925688"
+    "42925769"
   ],
   "records": [
+    {
+      "pmid": "42927452",
+      "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
+      "abstract": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and morphometric parameters discriminate between euploid and aneuploid embryos during post-implantation in vitro culture with endometrial cell support. Extended in vitro culture systems with and without endometrial cells have enabled the study of early human post-implantation development and highlighted the importance of embryo-endometrial crosstalk during implantation. However, how embryo chromosomal status influences implantation dynamics and embryo-endometrial interactions remain poorly understood. Laboratory-based study. Sixty-nine supernumerary human embryos donated for research at blastocyst stage (5 days post-fertilization, d.p.f.) (EU, n = 24; T21, n = 21; M21, n = 24) were used. Extended in vitro culture until 14 d.p.f. was performed using two systems: a cell-free culture medium optimized for post-implantation development, and a 3D culture based on cell-engineered receptive endometrial scaffold technology (CREST), providing epithelial and stromal cell support. Secreted levels of CALR (calreticulin), β-hCG, human placental lactogen (hPL), pregnancy-associated plasma protein A (PAPP-A), and placental growth factor (PlGF) were quantified at different developmental time points corresponding to 7, 10, 12, and 14 d.p.f. Embryo morphometric parameters, including area, degree of expansion, axis ratio, and circularity were also measured. Embryos cultured without endometrial support showed compromised viability beyond 10 d.p.f., with significantly reduced secretion of β-hCG, hPL, PAPP-A, PlGF, and CALR. The area of post-implanted EU and T21 embryos cultured in cell-free medium progressively increased up to 9 d.p.f., unlike M21 embryos. However, all showed no changes in blastocoel expansion and maintained a rounded morphology throughout all post-implantation culture. CREST systems extended viability up to 14 d.p.f. and enhanced secretion levels of all evaluated protein markers compared with embryos cultured in cell-free conditions. Among embryos cultured in CREST systems, M21 embryos exhibited diminished hPL, CALR, and PlGF secretion as early as 7 d.p.f. At 10 d.p.f., PAPP-A levels distinguished EU from both T21 and M21 embryos. Progressive increases in PAPP-A and PlGF were observed in EU embryos until 14 d.p.f., but not in T21 embryos. Morphometric analysis revealed that only EU and T21 embryos underwent implantation-like expansion, blastocoel collapse, and increased axis ratio. In contrast, M21 embryos retained a rounded morphology and failed to expand. No OMIC technique was performed in this research. One of the main limitations of this study is the number of embryos used. Although more than 10 embryos were included in each culture condition, biological variability may still have influenced the results. This limitation is related to the difficulty of obtaining pure chromosome 21 aneuploid embryos. In addition, while the CREST system successfully recapitulates key structural features of the endometrium, it lacks endothelial and immune cell components, which may influence embryo development and implantation dynamics. Finally, we selected a targeted set of secreted proteins based on their relevance to the main objective of the study; however, the use of broader secretomic approaches could have provided a more comprehensive characterization of embryo-endometrial interactions. The findings are limited to pure chromosome 21 aneuploidies; therefore, further studies including aneuploidies affecting other chromosomes are warranted to assess the generalizability of the results. The obtained results demonstrate the usefulness of the CREST system to study implantation process. Besides, these findings support the potential of secreted proteins analysis in extended culture as a non-invasive strategy to improve embryo selection beyond conventional morphological assessment. In parallel, we establish the CREST model as a translational platform to identify novel reproductive competence biomarkers and evaluate interventions aimed at improving maternal-embryo communication, not only after implantation but also during the pre-implantation phase. This research was funded by the Institute of Health Carlos III (ISCIII) (Spanish Ministry of Science and Innovation) through the FIS program granted to F.D. (PI20/00405, PI23/00860), co-funded by the European Union, the Generalitat Valenciana through the Grant Program for Consolidated Research Groups (CIAICO/2022/203 [F.D.]), Centro para el Desarrollo Tecnológico y la Innovación (CDTI; reference number IDI-20210916) (Spanish Ministry of Science and Innovation) granted to I.S.-R. and Fundación Merck Salud through XXXI Merck Research Grant on Fertility granted to F.D. A.P. and R.Y.-S. are funded by Generalitat Valenciana Grant for the hiring of support staff linked to a technology transfer project (CIAPOT/2022/18 [A.P.]) and training research (CIACIF/2021/051 [R.Y.-S.]). S.M.-A. is funded by Institute of Health Carlos III (ISCIII) (Spanish Ministry of Science and Innovation) through the contract of training research personnel into health (FI24/00068), co-funded by the European Union. M.A.M. was supported by the Stanford Dunlevie Maternal Fetal Medicine Center for Discovery, Innovation and Impact, the Duan Family Faculty Scholar in Maternal-Fetal Medicine, the FY25 ASRM Discovery & Innovation Grant from the American Society for Reproductive Medicine, and the California Institute for Regenerative Medicine (DISC0-17685). Matteo Molè, declares that he serves as an advisory board member and consultant for Opal Therapeutics (CA, USA) and Genie Fertility (UK). He is also a co-inventor of the patent 'A Method of Generating an In Vitro Endometrium Assembloid' (UK Patent No. BAB-C-P3371GBp). All other authors have no financial nor competing interest to declare. N/A.",
+      "journal": "Human reproduction (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "IVIRMA Global Research Alliance, IVI Foundation, Instituto de Investigación Sanitaria La Fe (IIS La Fe), Valencia, Spain.",
+        "IVIRMA Global Research Alliance, IVIRMA Barcelona, Barcelona, Spain.",
+        "IVIRMA Global Research Alliance, IVIRMA Valencia, Valencia, Spain.",
+        "Division of Reproductive, Stem Cell and Perinatal Biology, Department of Obstetrics and Gynecology, School of Medicine, Stanford University, Stanford, CA, USA.",
+        "Dunlevie Maternal Fetal Medicine Center for Discovery, Innovation and Impact, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford, CA, USA."
+      ],
+      "doi": "10.1093/humrep/deag166",
+      "date": "2026-10-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927452/"
+    },
+    {
+      "pmid": "42927416",
+      "title": "Deubiquitinase USP5 suppresses ferroptosis in lung adenocarcinoma by deubiquitinating and stabilizing GPX3.",
+      "abstract": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade ferroptosis remain to be further elucidated. We conducted integrative transcriptomic analyses of published NSCLC datasets to identify ubiquitin-specific proteases (USPs) potentially involved in the regulation of ferroptosis. Multiple USP proteins were screened and their prognostic significance evaluated, ultimately selecting USP5 for functional studies in two lung adenocarcinoma (LUAD) cell lines and patient-derived LUAD organoids. Following treatment with the ferroptosis inducer erastin, survival rates and metastatic capacity were assessed. Ferroptosis was evaluated by measuring established ferroptotic markers and examining mitochondrial ultrastructure. Protein interactions were investigated using mass spectrometry, immunoprecipitation, and GST pull-down assays. USP5 was significantly upregulated in LUAD tissues and correlated with poor patient prognosis. Functional experiments demonstrated that USP5 suppresses ferroptosis in LUAD cells treated with erastin, thereby promoting cell survival, proliferation, and invasiveness. Mechanistically, USP5 directly binds to and deubiquitinates GPX3, a key antioxidant enzyme, to enhance its stability. Rescue experiments confirmed that GPX3 is a functional mediator of USP5's ferroptosis-inhibitory role. These findings are further supported in patient-derived LUAD organoids. Our study identifies USP5 as a critical suppressor of ferroptosis in LUAD through its stabilization of GPX3, revealing a novel USP5-GPX3 regulatory axis that enables tumor resistance to oxidative stress. Targeting this pathway may represent a promising therapeutic strategy.",
+      "journal": "Journal of cell communication and signaling",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Oncology Xiamen Haicang Hospital Xiamen Fujian China.",
+        "Xiamen Cancer Hospital (The First Affiliated Hospital of Xiamen University (Haicang Campus)) Xiamen China."
+      ],
+      "doi": "10.1002/ccs3.70121",
+      "date": "2026-10-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927416/"
+    },
+    {
+      "pmid": "42927287",
+      "title": "MOLECULAR CONTROL OF EPITHELIAL BARRIER DYNAMICS AND REPAIR.",
+      "abstract": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling hubs that regulate permeability, polarity, and epithelial responses to physiological and inflammatory cues. Junctional proteins undergo continuous remodeling during differentiation, stress, and immune activation, and their dysregulation contributes to barrier dysfunction in inflammatory diseases, ischemia, and cancer. This review highlights advances in defining the molecular architecture, signaling roles, and inflammation-induced remodeling of intestinal junctional proteins, incorporating key contributions from our group. In parallel, we summarize how epithelial cells activate specialized repair programs following injury and integrate leukocyte-derived protein and lipid mediators to coordinate mucosal wound closure. Finally, we discuss emerging regenerative engineering approaches, including synthetic hydrogels that support human intestinal organoids and nanoparticle delivery of pro-repair molecules, which provide new opportunities to restore epithelial integrity in chronic mucosal disease.",
+      "journal": "Transactions of the American Clinical and Climatological Association",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Ann Arbor, Michigan."
+      ],
+      "doi": "",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927287/"
+    },
+    {
+      "pmid": "42927277",
+      "title": "CD73 targeted combination therapy reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC: Evidence from pleural effusion organoids.",
+      "abstract": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to overcome this resistance. Thus, this study aimed to reverse PD-1 inhibitor resistance in PD-L1-negative NSCLC by identifying novel predictive biomarkers and developing effective targeted immunotherapeutic regimens. Pleural effusion-derived organoids (PEOs) were established and validated from driver gene wild-type, PD-L1-negative NSCLC patients. Four treatment groups were set: control, anti-PD-1 monotherapy (Toripalimab), anti-CD73 monotherapy (Uliledlimab), and anti-PD-1 + anti-CD73 combination (Toripalimab + Uliledlimab). ATP assay was used to detect tumor cell viability. Spearman's rank correlation analysis was applied to evaluate the association between CD73 expression and tumor inhibition rates. Flow cytometry was employed to measure T cell activation markers. Enzyme-linked Immunospot assay was used to detect IFN-γ and TNF-α secretion. PEO models recapitulated the biological features of primary pleural effusion. Toripalimab monotherapy showed no antitumor efficacy in PD-L1-negative subgroup regardless of CD73 expression levels, whereas Toripalimab + Uliledlimab combination significantly reversed PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC patients. Furthermore, a significant positive correlation was observed between CD73 expression levels and tumor inhibition rates. This study validates CD73 as a potential predictive biomarker for stratifying PD-L1-negative NSCLC patients and establishes anti-PD-1+ anti-CD73 combination regimen that effectively reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC patients.",
+      "journal": "Global medical genetics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Guangdong Lung Cancer Institute, Guangdong Provincial Key Laboratory of Translational Medicine in Lung Cancer, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China.",
+        "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, China.",
+        "School of Medicine, South China University of Technology, Guangzhou, China.",
+        "Shantou University Medical College, Shantou, Guangdong, China."
+      ],
+      "doi": "10.1016/j.gmg.2026.100142",
+      "date": "2026-10-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/"
+    },
+    {
+      "pmid": "42927220",
+      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
+      "abstract": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patient-derived microtumors (PDMs) from core needle biopsies and small tissue specimens were established using a modified culture protocol and an optimized fetal bovine serum (FBS)-based culture medium, achieving a 75% success rate (6 of 8 cases). PDM characteristics mostly agreed with the tissue origins, according to growth evaluation, histopathology, immunohistochemistry, and genetic profiling. As a proof of concept, PDMs were tested with neoadjuvant chemotherapy alongside the patients' treatment. Notably, the PDM results were positively correlated with the patient outcomes and were obtained within a clinically relevant time frame (∼2-3 weeks). Collectively, our protocol and FBS-based medium efficiently generate breast cancer PDMs from core needle biopsies and small tissue specimens, with promising potential to guide neoadjuvant chemotherapy decisions.",
+      "journal": "iScience",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Department of Surgery, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Department of Pathology, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
+        "Translational Medicine Research Center, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand."
+      ],
+      "doi": "10.1016/j.isci.2026.117914",
+      "date": "2026-10-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/"
+    },
     {
       "pmid": "42926891",
       "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
@@ -58,90 +146,6 @@
       "doi": "10.1016/j.bbiosy.2026.100150",
       "date": "2026-10-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926891/"
-    },
-    {
-      "pmid": "42926605",
-      "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.",
-      "abstract": "Hair cell (HC) loss in the auditory organ (cochlea) is irreversible and represents the leading cause of deafness in humans. The absence of HC regeneration is primarily due to the limited plasticity of cochlear supporting cells (SCs). Using a novel doxycycline-inducible TRIM71 transgenic mouse model, this study demonstrates that overexpression of the RNA-binding protein TRIM71 promotes spontaneous cochlear HC regeneration in neonatal mice. Experiments in cochlear organoids indicate that TRIM71 reprograms SCs into progenitor-like cells and that this reprogramming is further enhanced by coactivation of follistatin (FST). FST augments TRIM71-induced increases in chromatin accessibility at progenitor and HC-specific gene loci, facilitating their transcriptional activation in SCs. Notably, FST also enhances TRIM71-induced reactivation of Sall4, which, like Trim71, is highly expressed in early otic progenitors. Using cochlear organoids and explants, we show that the early otic transcription factor SALL4 is required for TRIM71-induced HC formation. By contrast, SALL4 overexpression inhibits HC formation by maintaining reprogrammed SCs in an undifferentiated, proliferative state. These findings establish TRIM71 as an activator of HC regeneration in vivo, provide mechanistic insights into TRIM71's role in SC reprogramming, and identify SALL4 as its essential effector. The mammalian cochlea lacks intrinsic capacity for hair cell (HC) regeneration, a deficiency that underlies the permanent nature of hearing loss. Using a novel inducible transgenic mouse model, we demonstrate that reactivation of Trim71, an otic progenitor gene, promotes HC regeneration in perinatal mice. TRIM71 induces an otic progenitor-like transcriptional program in supporting cells (SCs) through Sall4 activation, while concurrently initiating mesenchymal gene expression. This conflicting transcriptional state is resolved by co-activating follistatin, which suppresses mesenchymal conversion genes and increases chromatin accessibility at progenitor- and HC-specific gene loci. Collectively, our findings establish a mechanistic framework wherein TRIM71 functions as a key regulator of SC plasticity and identify the transcription factor SALL4 as a critical downstream effector in HC regeneration.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.05.756655",
-      "date": "2026-10-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926605/"
-    },
-    {
-      "pmid": "42926580",
-      "title": "HIV remodels germinal centers through T follicular helper cell loss.",
-      "abstract": "T follicular helper cells (Tfh) within germinal centers are among the most permissive cells for HIV infection and serve as a critical part of the viral reservoir. Given the key role of Tfh in affinity maturation and the production of plasma cells and memory B cells, an understanding of this critical viral reservoir is fundamental not only for cure strategies but also for understanding immunodeficiency in people living with HIV (PLWH). Using rare clinical specimens from PLWH, we demonstrate that HIV causes both a change in the cellular composition of germinal centers and changes in their overall architecture in ways that are consistent with the immunodeficiency seen in PLWH, independent of their CD4 count. We note a significant decrease in the number of GC Tfh cells and an increase in the number of follicular CD8 T cells in lymphoid tissues obtained from PLWH. Our data further show that GC size is decreased both by HIV and with increased age. Single-cell RNA sequencing data demonstrate that HIV acutely decreases the expression of Tfh B-cell support pathways and disrupts Tfh expression of cell trafficking receptors. Additionally, in a lymphoid organoid model of acute infection that forms GC-like structures, these findings are recapitulated, suggesting that New Approach Methodologies could be germane to understanding the impact of HIV on the reservoir and immunodeficiency. This study describes previously undocumented remodeling of the germinal center niche in PLWH, providing insight into the immune microenvironment of a key HIV reservoir that may help inform future cure strategies. Human immunodeficiency virus (HIV) is a chronic viral infection that affects more than 40 million people worldwide. Even with antiretroviral therapy, people living with HIV remain at increased risk for a variety of comorbidities and exhibit persistent immune dysfunction that may worsen with age. Understanding how HIV impacts key immune structures such as germinal centers is important for preventing or reversing these effects. This study reveals changes in germinal center composition and cellular function, including decreased T follicular helper cells and germinal center size, that may contribute to persistent immune dysfunction in people living with HIV. Our findings provide new insight into how HIV alters the lymphoid tissue microenvironment despite antiretroviral therapy and establish a lymphoid organoid model for investigating these changes, which may help identify new strategies to reduce HIV-associated morbidity.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.08.757815",
-      "date": "2026-10-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926580/"
-    },
-    {
-      "pmid": "42926548",
-      "title": "p38α MAPK integrates opposing oncogenic APC/β-catenin/TCF and GUCY2C tumor-suppressor axes in colorectal cancer.",
-      "abstract": "Sporadic colorectal cancers (CRCs) form following initiating APC mutations, inducing constitutive β-catenin/TCF signaling. Similarly, the guanylyl cyclase C (GUCY2C) tumor suppressor axis is universally silenced in CRC. While the GUCY2C receptor is retained, loss of its paracrine hormones guanylin (GUCA2A) and uroguanylin (GUCA2B) is among the earliest events in transformation. Mutant APC/β-catenin/TCF signaling driving CRC transcriptionally silences GUCY2C hormone expression while suppressing that oncogenic pathway reconstitutes hormone production opposing tumorigenesis. p38α opposes tumor initiation, and its loss promotes transformation in chemical and genetic mouse models of CRC. In healthy intestine, p38α supports a gradient of epithelial differentiation along the crypt-surface axis. Here, we reveal that p38α links regulation of oncogenic APC/β-catenin/TCF signaling and GUCY2C hormone expression. Regulation of p38α by APC/β-catenin/TCF signaling was defined in four genetically engineered human CRC cell lines with conditional oncogenic APC/β-catenin/TCF signaling and healthy human colon organoids. Expression of p38α was eliminated from conditional human CRC cell lines by pharmacological inhibition, RNA knockdown, and CRISPR/Cas9 gene editing. Transcriptomic analysis of these cells by RNA sequencing defined the set of genes regulated by APC/β-catenin/TCF signaling controlled through p38α. In CRC cell lines, APC/β-catenin/TCF signaling suppressed p38α phosphorylation and activity, whereas inhibition of APC/β-catenin/TCF restored p38α signaling. In the absence of APC/β-catenin/TCF signaling, inhibiting p38α repressed GUCY2C hormone expression. Inhibiting APC/β-catenin/TCF signaling enriched phosphorylated p38α at the GUCA2A promoter. In that context, analysis of the CPTAC proteomic database revealed that phosphorylation of p38α and its upstream kinases MKK3 and MKK4 was reduced in human CRC. Finally, transcriptomic analysis revealed that p38α is a critical signaling node controlling the expression of a substantial subset of APC/β-catenin/TCF-regulated genes in human CRC cells and patient tumors. APC/β-catenin/TCF signaling inhibits p38α phosphorylation and transcriptional activity, suppressing GUCA2A and GUCA2B expression and functionally silencing the retained GUCY2C receptor. These findings identify p38α as a signaling intermediary integrating oncogenic APC/β-catenin/TCF activity to extinction of the GUCY2C tumor-suppressor axis and reveal a broader p38α-dependent component of the APC/β-catenin/TCF-regulated transcriptome.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.05.756833",
-      "date": "2026-10-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926548/"
-    },
-    {
-      "pmid": "42926365",
-      "title": "Islet size and spatial organization govern endocrine cell composition throughout the human pancreas.",
-      "abstract": "Stem cell-derived (SC) islets hold promise as a transformative therapy for type 1 diabetes (T1D). To enhance graft uniformity, SC-islet organoids are often dissociated and reaggregated into standardized sizes. However, how endocrine cell composition varies with islet size in native human islets remains largely unknown. Defining this relationship is essential for establishing physiological benchmarks for islet engineering for transplantation. In this study, we examined the relationships among islet size, endocrine cell composition, and spatial distribution throughout whole pancreata from 10 age-matched, non-diabetic male subjects. Insulin-, glucagon-, and somatostatin-positive endocrine cells were identified as single-, double-, and triple-hormone populations ranging from non-islet single endocrine cells and small clusters (niSSCs) to large islets. Approximately 80% of the total endocrine area was contained in islets positive for all three hormones. Islet size strongly correlated with endocrine composition. Specifically, larger islets had increased alpha-cell fractions and reduced beta-cell fractions, while delta-cell fractions were consistent across sizes. Spatial analysis revealed that niSSCs, mono-, and tri-hormone islets frequently exhibit a clustered distribution. Additionally, tri-hormone islets were positioned near the core of the pancreas, whereas mono-somatostatin islets were often localized in the periphery. These findings were consistent across all three pancreatic regions (head, body and tail).",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.01.756003",
-      "date": "2026-10-07",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926365/"
-    },
-    {
-      "pmid": "42926195",
-      "title": "ERG inhibition selectively sensitizes ERG-positive prostate cancer to radiation through DNA repair vulnerabilities and enhances response to androgen receptor inhibitors.",
-      "abstract": "ERG overexpression, driven by TMPRSS2-ERG gene fusion, occurs in ~ 50% of prostate cancers (PCa) and defines a molecular subtype with distinct therapeutic vulnerabilities. Radiotherapy (RT) is a cornerstone for localized and locally advanced PCa, yet substantial number of patients experience treatment failure. This study investigates whether direct ERG inhibition selectively impairs the resolution of DNA damage signaling and radiosensitizes ERG-positive PCa, providing a precision medicine strategy. ERG-positive VCaP cells, ERG-negative DU145/BPH1 cells, ex vivo patient PCa tissue slice cultures (TSCs, n = 14 from 10 patients), and patient-derived organoids (PDOs, n = 2) were treated with ERG inhibitors (ERGi-USU, VPC-18005) or ERG siRNA ± irradiation (2-6 Gy). DNA double-strand break (DSB) repair was assessed via γ H2AX/53BP1 immunofluorescence and pEJ-GFP reporter assay. Clonogenic survival was evaluated in 2D/3D assays. Label-free quantitative LC-MS/MS proteomics identified differentially regulated pathways, validated by immunoblotting. Promoter activity was measured using GLuc-ON™ Promoter Reporter plasmids. Here, we show that direct ERG inhibition selectively delays the resolution of radiation-induced DSB-associated damage signals and reduces end-joining activity in ERG-positive models, leading to enhanced radiosensitivity. In ERG-positive VCaP cells, ex vivo patient PCa tissue slices, and patient-derived PCa organoids, treatment with ERG inhibitors or ERG-targeted siRNA significantly increased residual γH2AX/53BP1 foci and reduced clonogenic survival following irradiation, whereas ERG-negative tumors remained unaffected. Quantitative LC-MS/MS proteomics, confirmed by immunoblotting and promoter activity assay, revealed that ERG inhibition downregulates key PARP1-mediated end-joining pathway components, including PARP1, LIG3, XRCC1, and the end-resection factor MRE11. Functional assays showed that ERG and PARP inhibition converge on a common mechanism to block alternative end joining, whereas combined ERG and androgen receptor (AR) pathway inhibition further suppressed growth in ERG-positive PCa spheroids and PDOs, probably through metabolic reprogramming. These data position ERG as a master regulator of DNA repair vulnerabilities in PCa and provide a strong mechanistic rationale for clinical evaluation of ERG-directed radiosensitization and combination therapy strategies in molecularly defined ERG-positive disease.",
-      "journal": "Journal of experimental & clinical cancer research : CR",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiotherapy and Radiooncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Mildred Scheel Cancer Career Center HaTriCS4, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Section of Mass Spectrometric Proteomics, University Medical Center Hamburg Eppendorf, Hamburg, Germany.",
-        "Pharmacology and Experimental Oncology Unit, Cancer Biology Department, National Cancer Institute, Cairo University, Cairo, Egypt.",
-        "Martini-Klinik Prostate Cancer Center, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Otorhinolaryngology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Molecular & Clinical Cancer Medicine, University of Liverpool, Liverpool, UK.",
-        "Department of Urology, University Hospital Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Urology, Koc University Hospital, Istanbul, Türkiye.",
-        "Department of Oncology, II Med. Klinik, Hematology, BMT With Section Pneumology, University Cancer Center Hamburg, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Radiotherapy and Radiooncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. sabrina.koecher.hh@gmail.com.",
-        "Department of Radiotherapy and Radiooncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. wmansour@uke.de.",
-        "Mildred Scheel Cancer Career Center HaTriCS4, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. wmansour@uke.de.",
-        "Department of Oncology, II Med. Klinik, Hematology, BMT With Section Pneumology, University Cancer Center Hamburg, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. wmansour@uke.de."
-      ],
-      "doi": "10.1186/s13046-026-03854-9",
-      "date": "2026-10-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926195/"
     },
     {
       "pmid": "42893561",
@@ -347,6 +351,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42916680/"
     },
     {
+      "pmid": "42927396",
+      "title": "Retrospective Analysis of Real-World Elacestrant Use in Two Large Austrian Cancer Centers.",
+      "abstract": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine therapy and CDK4/6 inhibitors. While randomized trial data from the EMERALD study demonstrated its clinical benefit, real-world evidence remains limited. We conducted a retrospective chart review of patients with HR-positive/HER2-negative MBC treated with elacestrant at two large cancer centers in Vienna, Austria. Clinical outcomes and safety were evaluated in routine clinical practice by experienced oncologists. Elacestrant demonstrated clinically meaningful efficacy in a heavily pretreated patient population of 30 patients with estrogen receptor 1 (ESR1) mutations. Median age was 65 years and the cohort was predominantly postmenopausal (86.7%). Before initiation of elacestrant, patients had received a median of two lines of endocrine therapy and one line of chemotherapy. Co-mutations of ESR1/PIK3CA were present in 33.3% of patients. Median progression-free survival (PFS) was 3.6 months (95% CI 2.96-4.24) and median overall survival was 20.2 months (95% CI 5.04-35.36). In univariate analyses, de novo metastatic disease and the presence of a single ESR1-mutated exon were associated with longer PFS, whereas the ESR1 E380Q mutation was associated with shorter PFS. Adverse events of any grade occured in 46.7% of patients. Within our cohort, a low rate of dose reductions (3.3%) was found. Subsequent therapies after elacestrant mainly consisted of antibody-drug conjugates (36.7% of patients) and chemotherapy (26.7%). In this real-world cohort, elacestrant showed effectiveness and tolerability similar to data observed in the EMERALD trial. Larger prospective real-world analyses are warranted to further validate these findings and define optimal patient selection.",
+      "journal": "Breast care (Basel, Switzerland)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Division of Oncology, Department of Medicine I, Medical University Vienna, Vienna, Austria.",
+        "1st Department of Medicine, Center for Oncology and Hematology, Klinik Ottakring, Austria.",
+        "Division of Visceral Surgery, Department of General Surgery, Medical University Vienna, Vienna, Austria.",
+        "Department of Gynecology and Gynecological Oncology, Medical University of Vienna, Vienna, Austria.",
+        "Institute for Pathology, Medical University Vienna, Vienna, Austria.",
+        "Department of Radiation Oncology, Medical University Vienna, Vienna, Austria."
+      ],
+      "doi": "10.1159/brc/abrag003",
+      "date": "2026-10-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927396/"
+    },
+    {
       "pmid": "42927017",
       "title": "Peripheral and selective venous liquid biopsy profiling in localized prostate cancer: A pilot feasibility study.",
       "abstract": "Liquid biopsy profiling via next-generation sequencing (NGS) is increasingly being used in prostate cancer to identify actionable genomic alterations, monitor disease dynamics, and provide prognostic information. However, the circulating tumor DNA (ctDNA) fraction correlates with disease burden, often remaining near the analytical limit of detection in localized disease. Accordingly, strategies to enhance the molecular characterization in earlier-stage disease represent a clinically relevant priority. We conducted a retrospective, single-center observational analysis in a cohort of patients with localized prostate cancer undergoing liquid biopsy. Patients underwent peripheral venous sampling for genomic profiling. When peripheral testing failed to identify genomic alterations or was non-informative, patients proceeded to selective venous blood sampling within the cavo-iliac venous compartment. The primary outcome was the detection rate of reportable genomic alterations in peripheral blood, while exploratory outcomes included findings from selective sampling. Thirty-one patients were enrolled. Peripheral blood liquid biopsy was evaluable in 28 patients. Genomic alterations were detected in 20 of them (20/28, 71.4%; 95% CI, 51.3-86.8%). Patients most frequently harbored mutations in ATM (21.4%), RB1 (14.3%), and BRCA1 or BRCA2 (7.1% each). Eight patients underwent selective venous sampling, with 4 out of 8 (50.0%) demonstrating the presence of at least one genomic alteration. Conversion to mutation-positive occurred in two patients (50.0%) who initially lacked detectable alterations in peripheral blood sampling. Across all available peripheral and selective samples, at least one reportable genomic alteration was identified in 23 of the 31 enrolled patients (74.2%). Our findings demonstrate a high prevalence of genomic mutations in localized prostate cancer. Selective venous sampling was feasible and safe in this small exploratory cohort and provided additional molecular findings in selected patients. These hypothesis-generating data support selective sampling as a potential complementary approach for molecular profiling in localized prostate cancer, deserving prospective validation.",
@@ -447,28 +471,75 @@
       "doi": "10.1016/j.tranon.2026.103079",
       "date": "2026-10-24",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925769/"
-    },
-    {
-      "pmid": "42925688",
-      "title": "Lightweight interpretable support vector machine SERS (LiSVM-SERS) learning framework for serological diagnosis of psoriatic arthritis and biomarker identification.",
-      "abstract": "Psoriatic arthritis (PsA), a chronic, autoimmune form of arthritis that causes joint inflammation and occurs with the skin condition psoriasis, is difficult to clinically diagnose at an early stage due to insignificant symptoms and lack of biomarkers. Surface-enhanced Raman spectroscopy (SERS) is a powerful tool to identify specific biomolecules for liquid biopsy. Here, we establish a lightweight interpretable support vector machine SERS (LiSVM-SERS) learning framework for serological diagnosis of PsA and identification of potential biomarkers. The fs-laser-nanofabricated Au@mica SERS substrates with a relative standard deviation of 8.80% in intensity homogeneity are employed to obtain reliable serum Raman spectra. The SVM algorithm is performed to train the machine-learning model for PsA classification using only 26 samples (PsA = 13 and healthy controls = 13). The hyperplane coefficient vectors from the trained SVM model are then employed as the filtered weights of Raman shifts, followed by logistic-probability mapping and Welch's t-test to filter highly-significant spectral features, identifying 432 most-significant Raman shifts for 7 potential biomarkers. The trained LiSVM-SERS model demonstrates the outstanding sensitivity and specificity of 98.0% and 96.0%, respectively, validated by an internal independent blind-test cohort (PsA = 30, healthy controls = 30) and a cross disease-control cohort (systemic lupus erythematosus = 15, rheumatoid arthritis = 15, and osteoarthritis = 15). The present work not only provides a simple and lightweight non-invasive technique to diagnose PsA, but also paves a new way to identify the potential biomarkers from the label-free serum SERS spectra for autoimmune disorders.",
-      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Physics and Optoelectronic Engineering, Beijing University of Technology, Beijing, 100124, China.",
-        "Department of Rheumatology and Immunology, Peking University People's Hospital and Beijing Key Laboratory for Rheumatism Mechanism and Immune Diagnosis (BZ0135), Beijing, 100044, China.",
-        "School of Physics and Optoelectronic Engineering, Beijing University of Technology, Beijing, 100124, China; Beijing Colleges and Universities Engineering Research Center of Advanced Laser Manufacturing, Beijing, 100124, China.",
-        "Department of Rheumatology and Immunology, Peking University People's Hospital and Beijing Key Laboratory for Rheumatism Mechanism and Immune Diagnosis (BZ0135), Beijing, 100044, China. Electronic address: jiayuan1023@bjmu.edu.cn.",
-        "School of Physics and Optoelectronic Engineering, Beijing University of Technology, Beijing, 100124, China; Beijing Colleges and Universities Engineering Research Center of Advanced Laser Manufacturing, Beijing, 100124, China. Electronic address: yyan@bjut.edu.cn."
-      ],
-      "doi": "10.1016/j.saa.2026.129004",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925688/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42927452",
+      "date": "2026-10-25",
+      "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927452/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 42927452。",
+      "report": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and mor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42927416",
+      "date": "2026-10-24",
+      "title": "Deubiquitinase USP5 suppresses ferroptosis in lung adenocarcinoma by deubiquitinating and stabilizing GPX3.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927416/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of cell communication and signaling，PMID 为 42927416。",
+      "report": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade fe...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42925769",
       "date": "2026-10-24",
@@ -498,65 +569,63 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42926195",
-      "date": "2026-10-23",
-      "title": "ERG inhibition selectively sensitizes ERG-positive prostate cancer to radiation through DNA repair vulnerabilities and enhances response to androgen receptor inhibitors.",
+      "id": "pubmed-42927396",
+      "date": "2026-10-19",
+      "title": "Retrospective Analysis of Real-World Elacestrant Use in Two Large Austrian Cancer Centers.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927396/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Breast care (Basel, Switzerland)，PMID 为 42927396。",
+      "report": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42927220",
+      "date": "2026-10-15",
+      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926195/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
         "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "诊断",
-        "精准医疗",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42926195。",
-      "report": "ERG overexpression, driven by TMPRSS2-ERG gene fusion, occurs in ~ 50% of prostate cancers (PCa) and defines a molecular subtype with distinct therapeutic vulnerabilities. Radiotherapy (RT) is a cornerstone for localized and locally advanced PCa, yet substanti...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42925688",
-      "date": "2026-10-20",
-      "title": "Lightweight interpretable support vector machine SERS (LiSVM-SERS) learning framework for serological diagnosis of psoriatic arthritis and biomarker identification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925688/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 42925688。",
-      "report": "Psoriatic arthritis (PsA), a chronic, autoimmune form of arthritis that causes joint inflammation and occurs with the skin condition psoriasis, is difficult to clinically diagnose at an early stage due to insignificant symptoms and lack of biomarkers. Surface-...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
+      "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -624,6 +693,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42927277",
+      "date": "2026-10-12",
+      "title": "CD73 targeted combination therapy reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC: Evidence from pleural effusion organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Global medical genetics，PMID 为 42927277。",
+      "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42926891",
       "date": "2026-10-11",
       "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
@@ -681,36 +780,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926544。",
       "report": "Red blood cells (RBCs) modulate host inflammatory responses by scavenging mitochondrial and pathogen DNA. However, how RBC surface properties govern the capture of tumor-derived DNA remains poorly understood. We show that RBCs tether and retain tumor-derived D...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42926580",
-      "date": "2026-10-09",
-      "title": "HIV remodels germinal centers through T follicular helper cell loss.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926580/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926580。",
-      "report": "T follicular helper cells (Tfh) within germinal centers are among the most permissive cells for HIV infection and serve as a critical part of the viral reservoir. Given the key role of Tfh in affinity maturation and the production of plasma cells and memory B...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -835,36 +904,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42926365",
-      "date": "2026-10-07",
-      "title": "Islet size and spatial organization govern endocrine cell composition throughout the human pancreas.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926365/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926365。",
-      "report": "Stem cell-derived (SC) islets hold promise as a transformative therapy for type 1 diabetes (T1D). To enhance graft uniformity, SC-islet organoids are often dissociated and reaggregated into standardized sizes. However, how endocrine cell composition varies wit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42916680",
       "date": "2026-10-07",
       "title": "XL-MS and De Novo Protein Design Identified a Common Motif for TREM2 Binding.",
@@ -893,66 +932,6 @@
       "fact": "PubMed 记录显示该文献收录于 ACS chemical neuroscience，PMID 为 42916680。",
       "report": "Apolipoprotein E (APOE) and triggering receptor expressed on myeloid cells 2 (TREM2) are the two strongest genetic risk factors of late-onset Alzheimer's disease. ApoE binds to the low-density lipoprotein receptor (LDLR) to facilitate the uptake of ApoE-lipopr...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42926605",
-      "date": "2026-10-06",
-      "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926605/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926605。",
-      "report": "Hair cell (HC) loss in the auditory organ (cochlea) is irreversible and represents the leading cause of deafness in humans. The absence of HC regeneration is primarily due to the limited plasticity of cochlear supporting cells (SCs). Using a novel doxycycline-...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42926548",
-      "date": "2026-10-06",
-      "title": "p38α MAPK integrates opposing oncogenic APC/β-catenin/TCF and GUCY2C tumor-suppressor axes in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926548/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926548。",
-      "report": "Sporadic colorectal cancers (CRCs) form following initiating APC mutations, inducing constitutive β-catenin/TCF signaling. Similarly, the guanylyl cyclase C (GUCY2C) tumor suppressor axis is universally silenced in CRC. While the GUCY2C receptor is retained, l...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1197,6 +1176,36 @@
       "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42890802。",
       "report": "Metabolomics reveals molecular changes at the metabolic level during biological processes. Recent advancements, particularly through integration with other omics and artificial intelligence (AI), are advancing metabolic data analysis and multi-omics interpreta...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42927287",
+      "date": "2026-01-01",
+      "title": "MOLECULAR CONTROL OF EPITHELIAL BARRIER DYNAMICS AND REPAIR.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927287/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Transactions of the American Clinical and Climatological Association，PMID 为 42927287。",
+      "report": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

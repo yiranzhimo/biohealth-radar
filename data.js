@@ -821,6 +821,166 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42927452",
+      "date": "2026-10-25",
+      "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927452/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 42927452。",
+      "report": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and mor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_074b702f4615b2d2006ade2e80058487d0bc7f338d578e40b1",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "83e6b0bd1158bdecd8223e53340bcf1e8ac1ed94993dfb2a20c8c9880294ef20",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片传达的信息基于可靠的来源，并且没有提出未支持的临床结论。所有内容均已明确分离。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 42927452。",
+          "report": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and mor...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42927416",
+      "date": "2026-10-24",
+      "title": "Deubiquitinase USP5 suppresses ferroptosis in lung adenocarcinoma by deubiquitinating and stabilizing GPX3.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927416/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of cell communication and signaling，PMID 为 42927416。",
+      "report": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade fe...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02dbe706bad859ef006ade2e850a7487d0acdf65fd41c927c7",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "0263cc420573db73b59eb4168fd1dc85adc59521f6fa315a37b1c2919012b369",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录中事实、报告、推论和未知信息清晰分离，符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of cell communication and signaling，PMID 为 42927416。",
+          "report": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade fe...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42925769",
       "date": "2026-10-24",
       "title": "A multivariate plasma biomarker model for glioblastoma exclusion: a retrospective case-control study.",
@@ -885,88 +1045,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42925769。",
           "report": "Glioblastoma (GBM) remains the most aggressive primary brain tumour, with limited diagnostic tools able to capture its molecular heterogeneity in real time. Current clinical practice relies on MRI and invasive biopsies, which are poorly suited for early or dyn...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42926195",
-      "date": "2026-10-23",
-      "title": "ERG inhibition selectively sensitizes ERG-positive prostate cancer to radiation through DNA repair vulnerabilities and enhances response to androgen receptor inhibitors.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926195/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42926195。",
-      "report": "ERG overexpression, driven by TMPRSS2-ERG gene fusion, occurs in ~ 50% of prostate cancers (PCa) and defines a molecular subtype with distinct therapeutic vulnerabilities. Radiotherapy (RT) is a cornerstone for localized and locally advanced PCa, yet substanti...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_090fc91aaee3cae3006addeab3f0bc87d19554d74cd42fda2d",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "9264d6c076e01dc394b939a12de8aa1c6dd9a9bf4c7ba2fb9ee7d7e81245c506",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及生物医学研究，在治疗效果和安全性方面缺乏明确支持，需人工审查以确保中立性和风险评估。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要分类与所提供的元数据不完全匹配，需进一步细化。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被描述为中等，但需更多信息以支持该论断。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of experimental & clinical cancer research : CR，PMID 为 42926195。",
-          "report": "ERG overexpression, driven by TMPRSS2-ERG gene fusion, occurs in ~ 50% of prostate cancers (PCa) and defines a molecular subtype with distinct therapeutic vulnerabilities. Radiotherapy (RT) is a cornerstone for localized and locally advanced PCa, yet substanti...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1421,73 +1499,76 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42925688",
-      "date": "2026-10-20",
-      "title": "Lightweight interpretable support vector machine SERS (LiSVM-SERS) learning framework for serological diagnosis of psoriatic arthritis and biomarker identification.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
+      "id": "pubmed-42927396",
+      "date": "2026-10-19",
+      "title": "Retrospective Analysis of Real-World Elacestrant Use in Two Large Austrian Cancer Centers.",
+      "entity": "Clinical Evidence",
+      "primaryCategory": "Clinical & Regulatory",
+      "subCategory": "Clinical Evidence",
+      "eventType": "Clinical Study",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925688/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927396/",
       "reliability": "High",
-      "evidenceLevel": "Medium",
+      "evidenceLevel": "High",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗"
+        "临床",
+        "监管",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 42925688。",
-      "report": "Psoriatic arthritis (PsA), a chronic, autoimmune form of arthritis that causes joint inflammation and occurs with the skin condition psoriasis, is difficult to clinically diagnose at an early stage due to insignificant symptoms and lack of biomarkers. Surface-...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Breast care (Basel, Switzerland)，PMID 为 42927396。",
+      "report": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine...",
+      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04ff49837d603670006addeab8d27487d1855b8f1d73f842cb",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "3c0cca3ee07cb2408776ff25d2bce70185e59417029d7cc32adab64fae020e0b",
+        "responseId": "resp_0c4b685ecdedbb3f006ade2e8af22487d0b13eb0a0db2cbce6",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "ae8570054cc795da74fb43796b526343d6118dbd649da40a2e00b279c651abb3",
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.75,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及多种诊断信息，包括新诊断框架和自身免疫性关节炎，但未清楚阐明研究的质量和有效性，需人工审查。",
+        "reviewSummaryCn": "该信号需人工审查以解决潜在的安全和有效性结论。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持性不足，且缺乏足够的研究质量评估。"
+          "isSupported": true,
+          "notesCn": "主要类别和证据水平合理。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
+          "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "未明确区分事实、报告和推论，影响证据水平的合理性。"
+          "notesCn": "部分临床试验的有效性和安全性结论未标记为未知，需纠正。"
         },
         "riskFlags": [
           "clinical_claim",
-          "weak_classification",
-          "insufficient_source"
+          "regulatory_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
+          "primaryCategory": "Clinical & Regulatory",
+          "subCategory": "Clinical Evidence",
+          "evidenceLevel": "High",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
           ],
           "tags": [
-            "诊断",
-            "精准医疗"
+            "临床",
+            "监管",
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 42925688。",
-          "report": "Psoriatic arthritis (PsA), a chronic, autoimmune form of arthritis that causes joint inflammation and occurs with the skin condition psoriasis, is difficult to clinically diagnose at an early stage due to insignificant symptoms and lack of biomarkers. Surface-...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+          "fact": "PubMed 记录显示该文献收录于 Breast care (Basel, Switzerland)，PMID 为 42927396。",
+          "report": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine...",
+          "inference": "当前结论需确认各种研究质量因素以支持出版。",
+          "unknown": "现有信号缺少关于研究质量、样本量、利益冲突、临床阶段和商业化状态的信息。"
         }
       }
     },
@@ -1561,6 +1642,80 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42927220",
+      "date": "2026-10-15",
+      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
+      "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_09d8ea9a61fb751e006ade2e8f6a3087d0b3db14528ec1fe78",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "cfd813a7d88d042ae44777c199427ecea118cec58adbf596aa89937114cd0ef8",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "研究质量、样本量和潜在利益冲突未评估，建议人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但缺乏对研究质量的评估，可能影响分类支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "研究的证据水平被认为是不合理的，因未提供足够的信息支持中等水平。"
+        },
+        "riskFlags": [
+          "insufficient_source",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
+          "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2373,6 +2528,80 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42927277",
+      "date": "2026-10-12",
+      "title": "CD73 targeted combination therapy reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC: Evidence from pleural effusion organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Global medical genetics，PMID 为 42927277。",
+      "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_014f6edbba66565a006ade2e93883087d0af42a48f500e9af4",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "89706bbcc177dd136031b28d90651df3af8e0ab92d2538ca7d257b33ba43e0ed",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "内容缺乏必要的研究质量和临床背景信息，需进一步审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平与分类不符，临床相关性未得到支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "缺乏对研究质量和样本量的评估，影响了证据水平的合理性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Global medical genetics，PMID 为 42927277。",
+          "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes.",
+          "inference": "此研究提供了对PD-1抑制剂耐药性的见解，但未提供足够的证据支持临床应用。",
+          "unknown": "研究质量、样本量、利益冲突、临床阶段及商业化状态未被评估。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42926891",
       "date": "2026-10-11",
       "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
@@ -2515,80 +2744,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926544。",
           "report": "Red blood cells (RBCs) modulate host inflammatory responses by scavenging mitochondrial and pathogen DNA. However, how RBC surface properties govern the capture of tumor-derived DNA remains poorly understood. We show that RBCs tether and retain tumor-derived D...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42926580",
-      "date": "2026-10-09",
-      "title": "HIV remodels germinal centers through T follicular helper cell loss.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926580/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926580。",
-      "report": "T follicular helper cells (Tfh) within germinal centers are among the most permissive cells for HIV infection and serve as a critical part of the viral reservoir. Given the key role of Tfh in affinity maturation and the production of plasma cells and memory B...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0892627060930ae7006addeaccfb6c87d18ea07af61d3f79c7",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "9b06267d513f90d5030d1a5ac35639002361ce0637257fc216867576259919f7",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以确认研究质量和其他细节。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "尽管主题相关，但分类不明确，可能导致误解研究的质量或临床意义。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平在此上下文中不够明确，可能需要更严格的验证。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology, PMID 为 42926580。",
-          "report": "T follicular helper cells (Tfh) within germinal centers are among the most permissive cells for HIV infection and serve as a critical part of the viral reservoir.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2890,80 +3045,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42926365",
-      "date": "2026-10-07",
-      "title": "Islet size and spatial organization govern endocrine cell composition throughout the human pancreas.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926365/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926365。",
-      "report": "Stem cell-derived (SC) islets hold promise as a transformative therapy for type 1 diabetes (T1D). To enhance graft uniformity, SC-islet organoids are often dissociated and reaggregated into standardized sizes. However, how endocrine cell composition varies wit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ce356576d39fa0f006addead9ac4c87d185afe42033cff847",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "ef094f74bd622f60598e13d301b5a2b8221b036b2912516bfbd405798b258a45",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献符合中立情报记录的发布标准，所有信息清晰分开。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合源信息，适合情报分流。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适中，信息分离清晰。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926365。",
-          "report": "Stem cell-derived (SC) islets hold promise as a transformative therapy for type 1 diabetes (T1D). To enhance graft uniformity, SC-islet organoids are often dissociated and reaggregated into standardized sizes. However, how endocrine cell composition varies with...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42916680",
       "date": "2026-10-07",
       "title": "XL-MS and De Novo Protein Design Identified a Common Motif for TREM2 Binding.",
@@ -3109,153 +3190,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42926605",
-      "date": "2026-10-06",
-      "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926605/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926605。",
-      "report": "Hair cell (HC) loss in the auditory organ (cochlea) is irreversible and represents the leading cause of deafness in humans. The absence of HC regeneration is primarily due to the limited plasticity of cochlear supporting cells (SCs). Using a novel doxycycline-...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00536c0addb2816a006addeadde13887d1bb100fea0393c85f",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "8884bba45612d505d32f7446139881315d1e96cbb889f6bb433fff765a15a1b9",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "记录符合出版要求，独立元信息清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据水平合理。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论均已分开。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926605。",
-          "report": "Hair cell (HC) loss in the auditory organ (cochlea) is irreversible and represents the leading cause of deafness in humans. The absence of HC regeneration is primarily due to the limited plasticity of cochlear supporting cells (SCs).",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42926548",
-      "date": "2026-10-06",
-      "title": "p38α MAPK integrates opposing oncogenic APC/β-catenin/TCF and GUCY2C tumor-suppressor axes in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926548/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926548。",
-      "report": "Sporadic colorectal cancers (CRCs) form following initiating APC mutations, inducing constitutive β-catenin/TCF signaling. Similarly, the guanylyl cyclase C (GUCY2C) tumor suppressor axis is universally silenced in CRC. While the GUCY2C receptor is retained, l...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0503f4930852e002006addeae1c69087d1a2a869588eedc8ea",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "4f06196935b35fbb8536fb3c34333dd22c00fa097b2ff3a802218ca7f591dbf7",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录需要人类审核以确保临床声明和结论的适当性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "primaryCategory 和 evidenceLevel 可能未能合理支持研究的性质。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "evidenceLevel 为 Medium，可能不足以支持研究声明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926548。",
-          "report": "Sporadic colorectal cancers (CRCs) form following initiating APC mutations, inducing constitutive β-catenin/TCF signaling. Similarly, the guanylyl cyclase C (GUCY2C) tumor suppressor axis is universally silenced in CRC. While the GUCY2C receptor is retained, l...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -9955,6 +9889,80 @@ window.BHR_DATA = {
           "report": "Background and Purpose Accurate interpretation of an Electrocardiogram is a vital skill for nursing staff to ensure patient safety and timely intervention in cardiovascular care. Traditional training methods often lack the interactive and complex nature of real scenarios.",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Healthcare AI, Medical AI。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42927287",
+      "date": "2026-01-01",
+      "title": "MOLECULAR CONTROL OF EPITHELIAL BARRIER DYNAMICS AND REPAIR.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927287/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Transactions of the American Clinical and Climatological Association，PMID 为 42927287。",
+      "report": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a30874c55e91672006ade2e97e87c87d087e740c16feada4c",
+        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
+        "inputHash": "2624867ff809d6425b46885f85b8900de2ed400b5ea9628e535b1212ec29e556",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献的分类和证据级别尚需进一步验证，并缺乏关于研究质量和临床应用的详细信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类与文献内容和证据水平不完全一致，需进一步审核支持程度。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别被评估为中等，但未能充分支持所述内容的有效性与临床应用。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Transactions of the American Clinical and Climatological Association，PMID 为 42927287。",
+          "report": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
