@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "china_hk_biotech_company_universe",
-  "capturedAt": "2026-10-24T08:09:54+00:00",
+  "capturedAt": "2026-10-25T08:27:16+00:00",
   "summary": {
     "recordCount": 156,
     "chinaRecordCount": 50,
@@ -19,7 +19,7 @@
       "url": "https://www.csindex.com.cn/#/indices/family/detail?indexCode=000683",
       "observedOn": "2026-10-23",
       "refreshStatus": "fresh",
-      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
+      "lastSuccessfulCaptureAt": "2026-10-25T08:27:16+00:00",
       "coverage": "上证科创板生物医药指数当日全部成分股，不是全部中国 biotech 公司。",
       "records": [
         {
@@ -782,7 +782,7 @@
       "url": "https://www.hkex.com.hk/eng/services/trading/securities/securitieslists/ListOfSecurities.xlsx",
       "observedOn": "2026-10-26",
       "refreshStatus": "fresh",
-      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
+      "lastSuccessfulCaptureAt": "2026-10-25T08:27:16+00:00",
       "coverage": "当前证券简称仍带 B/SB 标记的港交所股票；名称为官方交易简称，不是法定全称；不包含已转为一般上市的历史 18A 公司。",
       "records": [
         {
@@ -1935,7 +1935,7 @@
       "url": "https://www.hsi.com.hk/eng/indexes/all-indexes/hsbio",
       "observedOn": "2026-09-30",
       "refreshStatus": "fresh",
-      "lastSuccessfulCaptureAt": "2026-10-24T08:09:54+00:00",
+      "lastSuccessfulCaptureAt": "2026-10-25T08:27:16+00:00",
       "coverage": "恒生生物科技指数当前 30 家成分公司，覆盖部分已移除 B 标记的成熟公司；仅覆盖符合港股通资格且按该指数方法筛选的最大公司。",
       "records": [
         {
