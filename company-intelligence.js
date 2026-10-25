@@ -8527,7 +8527,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
             "date": "2026-10-24",
             "title": "The Leading RNAi Therapeutics Company | Alnylam",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -8603,7 +8603,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
           "date": "2026-10-24",
           "title": "The Leading RNAi Therapeutics Company | Alnylam",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -20166,7 +20166,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-beone-medicines-official-7cb1d98f005b",
             "date": "2026-10-24",
             "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -20242,7 +20242,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-beone-medicines-official-7cb1d98f005b",
           "date": "2026-10-24",
           "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -28128,7 +28128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-calico-official-9be876fad9b5",
             "date": "2026-10-24",
             "title": "Home - Calico",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -28170,7 +28170,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-calico-official-9be876fad9b5",
           "date": "2026-10-24",
           "title": "Home - Calico",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -49245,7 +49245,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-e74f6d412ab3",
             "date": "2026-10-24",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49321,7 +49321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-e74f6d412ab3",
           "date": "2026-10-24",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56453,7 +56453,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
             "text": "Our platform enables rapid design, research and testing of multiple mRNAs, within days.",
-            "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
+            "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
             "sourceUrl": "https://www.modernatx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56461,7 +56461,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Discover career opportunities, our product pipeline, and browse media resources.",
             "text": "Discover career opportunities, our product pipeline, and browse media resources.",
-            "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
+            "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
             "sourceUrl": "https://www.modernatx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56469,7 +56469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
             "text": "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
-            "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
+            "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
             "sourceUrl": "https://www.modernatx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56477,7 +56477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
             "text": "mRNA medicine contains no animal products or preservatives, making medicine accessible for as many people as possible.",
-            "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
+            "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
             "sourceUrl": "https://www.modernatx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -56501,8 +56501,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-moderna-official-e083cb30e33f",
           "evidence-sec-0001682852-000119312526408289",
-          "evidence-company-moderna-official-fd2d5dacf706",
           "evidence-sec-0001682852-000119312526378505",
           "evidence-company-moderna-pipeline-0a111596e2a2",
           "evidence-company-moderna-investor_relations-7a5ab762d10c",
@@ -56515,6 +56515,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-moderna-official-e083cb30e33f",
+            "date": "2026-10-25",
+            "title": "Pioneering mRNA technology - Moderna",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
+            "sourceUrl": "https://www.modernatx.com/"
+          },
+          {
             "id": "event-sec-0001682852-000119312526408289",
             "date": "2026-09-30",
             "title": "Moderna filed Form 8-K",
@@ -56524,17 +56535,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001682852-000119312526408289",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337d8k.htm"
-          },
-          {
-            "id": "event-evidence-company-moderna-official-fd2d5dacf706",
-            "date": "2026-09-25",
-            "title": "Pioneering mRNA technology - Moderna",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
-            "sourceUrl": "https://www.modernatx.com/"
           },
           {
             "id": "event-sec-0001682852-000119312526378505",
@@ -56582,7 +56582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-09-30",
+        "lastEvidenceDate": "2026-10-25",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56590,6 +56590,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-moderna-official-e083cb30e33f",
+          "date": "2026-10-25",
+          "title": "Pioneering mRNA technology - Moderna",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-moderna-official-e083cb30e33f",
+          "sourceUrl": "https://www.modernatx.com/"
+        },
         {
           "id": "event-sec-0001682852-000119312526408289",
           "date": "2026-09-30",
@@ -56600,17 +56611,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001682852-000119312526408289",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337d8k.htm"
-        },
-        {
-          "id": "event-evidence-company-moderna-official-fd2d5dacf706",
-          "date": "2026-09-25",
-          "title": "Pioneering mRNA technology - Moderna",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-moderna-official-fd2d5dacf706",
-          "sourceUrl": "https://www.modernatx.com/"
         },
         {
           "id": "event-sec-0001682852-000119312526378505",
@@ -59580,7 +59580,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nykode-therapeutics-official-131d209674c4",
             "date": "2026-10-24",
             "title": "Home - Nykode",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59633,7 +59633,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nykode-therapeutics-official-131d209674c4",
           "date": "2026-10-24",
           "title": "Home - Nykode",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -64876,7 +64876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-retro-biosciences-official-f22baaf09fc1",
             "date": "2026-10-24",
             "title": "Retro Biosciences",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64918,7 +64918,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-retro-biosciences-official-f22baaf09fc1",
           "date": "2026-10-24",
           "title": "Retro Biosciences",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
