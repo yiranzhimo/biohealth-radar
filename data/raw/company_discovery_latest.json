@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-26T08:58:29+00:00",
+  "capturedAt": "2026-10-26T13:12:55.317184+00:00",
   "summary": {
-    "mentionCount": 660,
-    "candidateCount": 590,
+    "mentionCount": 662,
+    "candidateCount": 593,
     "corroboratedCount": 3,
     "identifiedCount": 585,
-    "needsReviewCount": 2,
+    "needsReviewCount": 5,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 5,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,15 +20,38 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-44eb1ebfb7ba35c8",
-      "observedName": "Constellation Pharmaceuticals",
-      "normalizedName": "constellation pharmaceuticals",
+      "id": "mention-clinicaltrials-440bc0157f69aa23",
+      "observedName": "Cooperación Listo Maní+, S.A.",
+      "normalizedName": "cooperación listo maní s a",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07804667",
+      "sourceDate": "2026-10-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07804667",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Recruiting",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Pilot Study of a Modified Therapeutic Food Compared With a Standard Nutrient Supplement in Young Children in Rural Guatemala"
+    },
+    {
+      "id": "mention-clinicaltrials-62dbeac410581ff6",
+      "observedName": "Aduro Biotech, Inc.",
+      "normalizedName": "aduro biotech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01949883",
-      "sourceDate": "2024-05-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01949883",
+      "sourceRecordId": "NCT01675765",
+      "sourceDate": "2020-09-30",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01675765",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -42,64 +65,93 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Phase 1 Study Evaluating CPI-0610 in Patients With Progressive Lymphoma"
+      "contextTitle": "Safety and Efficacy of Listeria in Combination With Chemotherapy as Front-line Treatment for Malignant Pleural Mesothelioma"
     },
     {
-      "id": "mention-clinicaltrials-b09b2a38b27ac89e",
-      "observedName": "Rocket Medical plc",
-      "normalizedName": "rocket medical",
+      "id": "mention-clinicaltrials-6b4708178c2cd247",
+      "observedName": "Skin Analytics Limited",
+      "normalizedName": "skin analytics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03661801",
-      "sourceDate": "2020-11-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03661801",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04123678",
+      "sourceDate": "2021-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
+        "Healthcare AI",
+        "Medical AI",
         "Oncology",
         "Precision Oncology",
-        "biomarker",
+        "临床决策支持",
         "临床试验",
-        "肿瘤",
-        "衰老"
+        "医疗 AI",
+        "肿瘤"
       ],
-      "activitySignals": [],
-      "contextTitle": "Novel Pleural Fluid, Biopsy and Serum Biomarkers for the Investigation of Pleural Effusions"
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "DERM Health Economics Study"
     },
     {
-      "id": "mention-clinicaltrials-fbb451c2f0f1abad",
-      "observedName": "Novo Nordisk A/S",
-      "normalizedName": "novo nordisk a s",
+      "id": "mention-clinicaltrials-8a3b2ac40be1ba34",
+      "observedName": "Pierian Biosciences",
+      "normalizedName": "pierian biosciences",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06789900",
-      "sourceDate": "2026-04-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06844136",
+      "sourceDate": "2025-02-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
         "Clinical Trials",
-        "Longevity",
         "Oncology",
         "Precision Oncology",
         "Recruiting",
-        "biomarker",
         "临床试验",
-        "肿瘤",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
+    },
+    {
+      "id": "mention-clinicaltrials-f1f5c72f91c8ca72",
+      "observedName": "Union Strong（Beijing）Technology Co.Ltd.",
+      "normalizedName": "union strong beijing technology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07749404",
+      "sourceDate": "2026-08-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Healthcare AI",
+        "Longevity",
+        "Medical AI",
+        "Recruiting",
+        "biomarker",
+        "中国",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
         "衰老"
       ],
       "activitySignals": [
         "active_trial",
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
+      "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43786,18 +43838,18 @@
       ]
     },
     {
-      "id": "candidate-constellation-pharmaceuticals",
-      "name": "Constellation Pharmaceuticals",
+      "id": "candidate-aduro-biotech",
+      "name": "Aduro Biotech, Inc.",
       "aliases": [
-        "Constellation Pharmaceuticals"
+        "Aduro Biotech, Inc."
       ],
-      "normalizedName": "constellation pharmaceuticals",
+      "normalizedName": "aduro biotech",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-05-08",
-      "lastSeenAt": "2024-05-08",
+      "firstSeenAt": "2020-09-30",
+      "lastSeenAt": "2020-09-30",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -43825,17 +43877,135 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-44eb1ebfb7ba35c8"
+        "mention-clinicaltrials-62dbeac410581ff6"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-05-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01949883",
-          "externalId": "NCT01949883",
-          "contextTitle": "A Phase 1 Study Evaluating CPI-0610 in Patients With Progressive Lymphoma"
+          "sourceDate": "2020-09-30",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01675765",
+          "externalId": "NCT01675765",
+          "contextTitle": "Safety and Efficacy of Listeria in Combination With Chemotherapy as Front-line Treatment for Malignant Pleural Mesothelioma"
+        }
+      ]
+    },
+    {
+      "id": "candidate-pierian-biosciences",
+      "name": "Pierian Biosciences",
+      "aliases": [
+        "Pierian Biosciences"
+      ],
+      "normalizedName": "pierian biosciences",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-02-28",
+      "lastSeenAt": "2025-02-28",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-8a3b2ac40be1ba34"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2025-02-28",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
+          "externalId": "NCT06844136",
+          "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
+        }
+      ]
+    },
+    {
+      "id": "candidate-skin-analytics",
+      "name": "Skin Analytics Limited",
+      "aliases": [
+        "Skin Analytics Limited"
+      ],
+      "normalizedName": "skin analytics",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2021-08-13",
+      "lastSeenAt": "2021-08-13",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-6b4708178c2cd247"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2021-08-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
+          "externalId": "NCT04123678",
+          "contextTitle": "DERM Health Economics Study"
         }
       ]
     },
@@ -47160,42 +47330,96 @@
       ]
     },
     {
-      "id": "candidate-novo-nordisk-a-s",
-      "name": "Novo Nordisk A/S",
+      "id": "candidate-cooperaci-n-listo-man-s-a",
+      "name": "Cooperación Listo Maní+, S.A.",
       "aliases": [
-        "Novo Nordisk A/S"
+        "Cooperación Listo Maní+, S.A."
       ],
-      "normalizedName": "novo nordisk a s",
+      "normalizedName": "cooperación listo maní s a",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-04-07",
-      "lastSeenAt": "2026-04-07",
+      "firstSeenAt": "2026-10-16",
+      "lastSeenAt": "2026-10-16",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-440bc0157f69aa23"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-10-16",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07804667",
+          "externalId": "NCT07804667",
+          "contextTitle": "Pilot Study of a Modified Therapeutic Food Compared With a Standard Nutrient Supplement in Young Children in Rural Guatemala"
+        }
+      ]
+    },
+    {
+      "id": "candidate-union-strong-beijing-technology",
+      "name": "Union Strong（Beijing）Technology Co.Ltd.",
+      "aliases": [
+        "Union Strong（Beijing）Technology Co.Ltd."
+      ],
+      "normalizedName": "union strong beijing technology",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-06",
+      "lastSeenAt": "2026-08-06",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Biomarkers",
           "Clinical Trials",
+          "Healthcare AI",
           "Longevity",
-          "Oncology",
-          "Precision Oncology",
+          "Medical AI",
           "Recruiting",
           "biomarker",
+          "中国",
+          "临床决策支持",
           "临床试验",
-          "肿瘤",
+          "医疗 AI",
           "衰老"
         ],
         "themes": [
           "Biomarkers",
           "Clinical Trials",
+          "Healthcare AI",
           "Longevity",
-          "Oncology",
-          "Precision Oncology",
+          "Medical AI",
           "Recruiting",
           "biomarker",
+          "中国",
+          "临床决策支持",
           "临床试验",
-          "肿瘤",
+          "医疗 AI",
           "衰老"
         ],
         "tags": []
@@ -47209,17 +47433,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-fbb451c2f0f1abad"
+        "mention-clinicaltrials-f1f5c72f91c8ca72"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2026-04-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06789900",
-          "externalId": "NCT06789900",
-          "contextTitle": "Everolimus and/or Exercise to Prevent Bone Loss in Postmenopausal Women"
+          "sourceDate": "2026-08-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
+          "externalId": "NCT07749404",
+          "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
         }
       ]
     }

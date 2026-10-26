@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-26T04:55:10.833020+00:00",
+  "capturedAt": "2026-10-26T13:12:51.345672+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-26"
   },
   "pmids": [
-    "42927948",
-    "42927540",
-    "42927452",
-    "42927416",
-    "42927287",
-    "42927277",
+    "42928538",
+    "42928513",
+    "42928431",
+    "42928365",
+    "42928339",
+    "42928288",
     "42893561",
     "42890802",
     "42880218",
@@ -32,120 +32,138 @@
     "42917106",
     "42916734",
     "42916680",
+    "42928622",
     "42928030",
     "42927396",
     "42927017",
     "42927000",
-    "42926854",
-    "42926544"
+    "42926854"
   ],
   "records": [
     {
-      "pmid": "42927948",
-      "title": "[Drug sensitivity analysis of monotherapy and combination therapy with Chinese and Western drugs in lung cancer organoid models].",
-      "abstract": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A total of 10 pathologically confirmed lung adenocarcinoma specimens were collected from Tianjin Fifth Central Hospital between June 2024 and June 2025, including six surgical tumor tissue specimens and four pleural effusion samples. These samples were cultured in vitro to establish lung cancer organoid models. Morphological examination, hematoxylin and eosin (HE) staining, and immunohistochemical staining were used to verify the consistence between the organoids and their parental tissues. One organoid model with available genomic profiling data (n=1) was subjected to drug sensitivity testing against commonly used antitumor drugs/regimens, and the results were compared with the clinical response. In successfully established organoid models, antitumor monotherapies (5-fluorouracil [5-FU], cisplatin and osimertinib), active components of Chinese drugs (elemene and ginsenoside Rg3) and combined regimens of Chinese and Western drugs (cisplatin plus ginsenoside Rg3 and 5-FU plus ginsenoside Rg3) were applied. Cell viability was assessed, and the half-maximal inhibitory concentration (IC50) and normalized area under the curve (AUC) values were calculated for each treatment to evaluate drug sensitivity. Results: Among the 10 samples, organoids were successfully cultured from 7 samples, and the organoids closely resembled their parental tissues in morphology and molecular marker expression. In one organoid model with increased epidermal growth factor receptor (EGFR) gene copy number gain and the EGFR p.E746_A750del mutation, sensitivity testing of commonly used antitumor drugs/regimens, including osimertinib, paclitaxel, cisplatin, the GP regimen (gemcitabine plus cisplatin), and the PP regimen (pemetrexed plus cisplatin), showed that osimertinib exhibited potent antitumor activity (IC50=1.91 μmol/L), markedly superior to the other tested drugs, and the results were consistent with the clinical response. After cryopreservation and rivival, the 7 organoid lines were continued cultured and passaged; 3 were successfully recovered. Drug sensitivity analysis of the 3 successfully established lung cancer organoid models revealed that organoids from different sources responded differently to the same drug. Osimertinib and 5-FU showed higher activity in sample 1 and sample 2, respectively, whereas sample 3 was highly resistant to cisplatin. Active components of Chinese drugs used alone showed no significant inhibitory effect, with normalized AUC values all >0.925. Combination treatment showed stronger inhibition effect in all organoid models, and IC50 values decreased to varying degrees compared with monotherapy. In samples 1 and 3, the IC50 values of cisplatin monotherapy were 152.70 and 475.00 μmol/L, respectively, and decreased to 127.30 and 121.50 μmol/L after combination treatment. Among all models, 5-FU had the lowest monotherapy IC50 among the antitumor drugs (28.08 μmol/L), which was further reduced to 11.26 μmol/L after combination treatment. Conclusion: Patient-derived lung cancer organoid models capture interindividual differences in drug sensitivity and provide a feasible approach for rapid in vitro screening of sensitive regimens and for personalized therapeutic strategies, such as combined therapy with Chinese and Western drugs.",
-      "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pathology, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
-        "Tianjin Key Laboratory of Epigenetics for Preterm Infant Organ Development, Tianjin 300450, China.",
-        "Department of General Surgery, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
-        "School of Medicine, Tianjin University, Tianjin 300450, China.",
-        "Department of Emergency Medicine, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
-        "Emergency Research Institute, Tianjin Fifth Central Hospital, Tianjin 300450, China."
-      ],
-      "doi": "10.3760/cma.j.cn112152-20251219-00624",
-      "date": "2026-10-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927948/"
-    },
-    {
-      "pmid": "42927540",
-      "title": "Exploratory donor-aware analysis of developmental transcriptomic trajectories in 15q13.3-deletion cortical organoids.",
-      "abstract": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs. Signatures derived from early RA exposure and prolonged, 7-day all-trans RA (ATRA) treatment were evaluated in public cortical organoid data from three deletion and 17 control donors. Donors, rather than individual samples, were the units of inference; 16 controls and all three deletion donors had sufficient time points for slope testing. Early human, early mouse, and conserved early RA signatures were not significant. A broad ATRA-derived differentiation score showed a negative deletion-control slope difference (exact P = 0.0083; false-discovery rate = 0.0206), but a non-RA maturation score was also significant. The prolonged score correlated strongly with maturity. Sensitivity analyses adjusting for measured maturation and composition did not identify an RA-specific component; neither the targeted RA program nor the covariate-adjusted joint trajectory test was significant. External and single-cell analyses provided biological context, not independent validation. The findings suggest a developmental/maturation-associated trajectory difference overlapping a broad prolonged ATRA-associated program. The three-donor case group and heterogeneous source models limit stability and generalizability; the results do not establish altered RA signaling, vitamin A deficiency, or retinoid-treatment relevance.",
-      "journal": "Mammalian genome : official journal of the International Mammalian Genome Society",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Child Health Care, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, Guangzhou, China.",
-        "Department of Gastroenterology, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, No. 9 Jinsui Road, Guangzhou, China. 357923160@qq.com."
-      ],
-      "doi": "10.1007/s00335-026-10286-5",
-      "date": "2026-10-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927540/"
-    },
-    {
-      "pmid": "42927452",
-      "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
-      "abstract": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and morphometric parameters discriminate between euploid and aneuploid embryos during post-implantation in vitro culture with endometrial cell support. Extended in vitro culture systems with and without endometrial cells have enabled the study of early human post-implantation development and highlighted the importance of embryo-endometrial crosstalk during implantation. However, how embryo chromosomal status influences implantation dynamics and embryo-endometrial interactions remain poorly understood. Laboratory-based study. Sixty-nine supernumerary human embryos donated for research at blastocyst stage (5 days post-fertilization, d.p.f.) (EU, n = 24; T21, n = 21; M21, n = 24) were used. Extended in vitro culture until 14 d.p.f. was performed using two systems: a cell-free culture medium optimized for post-implantation development, and a 3D culture based on cell-engineered receptive endometrial scaffold technology (CREST), providing epithelial and stromal cell support. Secreted levels of CALR (calreticulin), β-hCG, human placental lactogen (hPL), pregnancy-associated plasma protein A (PAPP-A), and placental growth factor (PlGF) were quantified at different developmental time points corresponding to 7, 10, 12, and 14 d.p.f. Embryo morphometric parameters, including area, degree of expansion, axis ratio, and circularity were also measured. Embryos cultured without endometrial support showed compromised viability beyond 10 d.p.f., with significantly reduced secretion of β-hCG, hPL, PAPP-A, PlGF, and CALR. The area of post-implanted EU and T21 embryos cultured in cell-free medium progressively increased up to 9 d.p.f., unlike M21 embryos. However, all showed no changes in blastocoel expansion and maintained a rounded morphology throughout all post-implantation culture. CREST systems extended viability up to 14 d.p.f. and enhanced secretion levels of all evaluated protein markers compared with embryos cultured in cell-free conditions. Among embryos cultured in CREST systems, M21 embryos exhibited diminished hPL, CALR, and PlGF secretion as early as 7 d.p.f. At 10 d.p.f., PAPP-A levels distinguished EU from both T21 and M21 embryos. Progressive increases in PAPP-A and PlGF were observed in EU embryos until 14 d.p.f., but not in T21 embryos. Morphometric analysis revealed that only EU and T21 embryos underwent implantation-like expansion, blastocoel collapse, and increased axis ratio. In contrast, M21 embryos retained a rounded morphology and failed to expand. No OMIC technique was performed in this research. One of the main limitations of this study is the number of embryos used. Although more than 10 embryos were included in each culture condition, biological variability may still have influenced the results. This limitation is related to the difficulty of obtaining pure chromosome 21 aneuploid embryos. In addition, while the CREST system successfully recapitulates key structural features of the endometrium, it lacks endothelial and immune cell components, which may influence embryo development and implantation dynamics. Finally, we selected a targeted set of secreted proteins based on their relevance to the main objective of the study; however, the use of broader secretomic approaches could have provided a more comprehensive characterization of embryo-endometrial interactions. The findings are limited to pure chromosome 21 aneuploidies; therefore, further studies including aneuploidies affecting other chromosomes are warranted to assess the generalizability of the results. The obtained results demonstrate the usefulness of the CREST system to study implantation process. Besides, these findings support the potential of secreted proteins analysis in extended culture as a non-invasive strategy to improve embryo selection beyond conventional morphological assessment. In parallel, we establish the CREST model as a translational platform to identify novel reproductive competence biomarkers and evaluate interventions aimed at improving maternal-embryo communication, not only after implantation but also during the pre-implantation phase. This research was funded by the Institute of Health Carlos III (ISCIII) (Spanish Ministry of Science and Innovation) through the FIS program granted to F.D. (PI20/00405, PI23/00860), co-funded by the European Union, the Generalitat Valenciana through the Grant Program for Consolidated Research Groups (CIAICO/2022/203 [F.D.]), Centro para el Desarrollo Tecnológico y la Innovación (CDTI; reference number IDI-20210916) (Spanish Ministry of Science and Innovation) granted to I.S.-R. and Fundación Merck Salud through XXXI Merck Research Grant on Fertility granted to F.D. A.P. and R.Y.-S. are funded by Generalitat Valenciana Grant for the hiring of support staff linked to a technology transfer project (CIAPOT/2022/18 [A.P.]) and training research (CIACIF/2021/051 [R.Y.-S.]). S.M.-A. is funded by Institute of Health Carlos III (ISCIII) (Spanish Ministry of Science and Innovation) through the contract of training research personnel into health (FI24/00068), co-funded by the European Union. M.A.M. was supported by the Stanford Dunlevie Maternal Fetal Medicine Center for Discovery, Innovation and Impact, the Duan Family Faculty Scholar in Maternal-Fetal Medicine, the FY25 ASRM Discovery & Innovation Grant from the American Society for Reproductive Medicine, and the California Institute for Regenerative Medicine (DISC0-17685). Matteo Molè, declares that he serves as an advisory board member and consultant for Opal Therapeutics (CA, USA) and Genie Fertility (UK). He is also a co-inventor of the patent 'A Method of Generating an In Vitro Endometrium Assembloid' (UK Patent No. BAB-C-P3371GBp). All other authors have no financial nor competing interest to declare. N/A.",
-      "journal": "Human reproduction (Oxford, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "IVIRMA Global Research Alliance, IVI Foundation, Instituto de Investigación Sanitaria La Fe (IIS La Fe), Valencia, Spain.",
-        "IVIRMA Global Research Alliance, IVIRMA Barcelona, Barcelona, Spain.",
-        "IVIRMA Global Research Alliance, IVIRMA Valencia, Valencia, Spain.",
-        "Division of Reproductive, Stem Cell and Perinatal Biology, Department of Obstetrics and Gynecology, School of Medicine, Stanford University, Stanford, CA, USA.",
-        "Dunlevie Maternal Fetal Medicine Center for Discovery, Innovation and Impact, Stanford University School of Medicine, Stanford, CA, USA.",
-        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford, CA, USA."
-      ],
-      "doi": "10.1093/humrep/deag166",
-      "date": "2026-10-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927452/"
-    },
-    {
-      "pmid": "42927416",
-      "title": "Deubiquitinase USP5 suppresses ferroptosis in lung adenocarcinoma by deubiquitinating and stabilizing GPX3.",
-      "abstract": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade ferroptosis remain to be further elucidated. We conducted integrative transcriptomic analyses of published NSCLC datasets to identify ubiquitin-specific proteases (USPs) potentially involved in the regulation of ferroptosis. Multiple USP proteins were screened and their prognostic significance evaluated, ultimately selecting USP5 for functional studies in two lung adenocarcinoma (LUAD) cell lines and patient-derived LUAD organoids. Following treatment with the ferroptosis inducer erastin, survival rates and metastatic capacity were assessed. Ferroptosis was evaluated by measuring established ferroptotic markers and examining mitochondrial ultrastructure. Protein interactions were investigated using mass spectrometry, immunoprecipitation, and GST pull-down assays. USP5 was significantly upregulated in LUAD tissues and correlated with poor patient prognosis. Functional experiments demonstrated that USP5 suppresses ferroptosis in LUAD cells treated with erastin, thereby promoting cell survival, proliferation, and invasiveness. Mechanistically, USP5 directly binds to and deubiquitinates GPX3, a key antioxidant enzyme, to enhance its stability. Rescue experiments confirmed that GPX3 is a functional mediator of USP5's ferroptosis-inhibitory role. These findings are further supported in patient-derived LUAD organoids. Our study identifies USP5 as a critical suppressor of ferroptosis in LUAD through its stabilization of GPX3, revealing a novel USP5-GPX3 regulatory axis that enables tumor resistance to oxidative stress. Targeting this pathway may represent a promising therapeutic strategy.",
-      "journal": "Journal of cell communication and signaling",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oncology Xiamen Haicang Hospital Xiamen Fujian China.",
-        "Xiamen Cancer Hospital (The First Affiliated Hospital of Xiamen University (Haicang Campus)) Xiamen China."
-      ],
-      "doi": "10.1002/ccs3.70121",
-      "date": "2026-10-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927416/"
-    },
-    {
-      "pmid": "42927287",
-      "title": "MOLECULAR CONTROL OF EPITHELIAL BARRIER DYNAMICS AND REPAIR.",
-      "abstract": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling hubs that regulate permeability, polarity, and epithelial responses to physiological and inflammatory cues. Junctional proteins undergo continuous remodeling during differentiation, stress, and immune activation, and their dysregulation contributes to barrier dysfunction in inflammatory diseases, ischemia, and cancer. This review highlights advances in defining the molecular architecture, signaling roles, and inflammation-induced remodeling of intestinal junctional proteins, incorporating key contributions from our group. In parallel, we summarize how epithelial cells activate specialized repair programs following injury and integrate leukocyte-derived protein and lipid mediators to coordinate mucosal wound closure. Finally, we discuss emerging regenerative engineering approaches, including synthetic hydrogels that support human intestinal organoids and nanoparticle delivery of pro-repair molecules, which provide new opportunities to restore epithelial integrity in chronic mucosal disease.",
-      "journal": "Transactions of the American Clinical and Climatological Association",
+      "pmid": "42928538",
+      "title": "Organ-on-a-Chip Technology in Otorhinolaryngology: Design Strategies and Applications in Mucosal Tissues and Head and Neck Cancer.",
+      "abstract": "The complex mucosal microenvironment of the upper aerodigestive tract influences otorhinolaryngologic diseases. Therefore, establishing preclinical models that recapitulate the structural and functional characteristics of otorhinolaryngologic tissues is important for understanding disease pathophysiology and evaluating therapeutic responses. Recently, organ-on-a-chip (OoC) has emerged as a promising in vitro approach to address limitations of conventional models. OoC can reproduce key tissue-level features under controlled microenvironmental conditions by integrating relevant cell or tissue sources, spatial organization, dynamic culture conditions, and multicellular interactions. In this review, we focus on representative OoC applications in oral mucosa and gingiva, nasal mucosa and airway, and head and neck cancer (HNC). We discuss how OoC design strategies are tailored to the intended biological or preclinical application and summarize the current applications, translational challenges, and future directions of these models. Continued advances in patient-relevant model development, reproducibility, standardization, and validation against in vivo and clinical findings may further strengthen the role of OoC as a complementary preclinical platform in otorhinolaryngology.",
+      "journal": "Clinical and experimental otorhinolaryngology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Ann Arbor, Michigan."
+        "Dongguk University, College of Medicine, 32 Dongguk-ro, Ilsandong-gu, Goyangsi, Gyeonggi-do, 10326, Republic of Korea.",
+        "Dongguk University, College of Medicine, 32 Dongguk-ro, Ilsandong-gu, Goyangsi, Gyeonggi-do, 10326, Republic of Korea. bohae111@naver.com.",
+        "Dongguk University Ilsan Hospital, Department of Otorhinolaryngology-Head and Neck Surgery, 27 Dongguk-ro, Ilsandong-gu, Goyangsi, Gyeonggi-do, 10326, Republic of Korea. bohae111@naver.com.",
+        "Dongguk University, College of Medicine, 32 Dongguk-ro, Ilsandong-gu, Goyangsi, Gyeonggi-do, 10326, Republic of Korea. bskwak@dongguk.ac.kr.",
+        "MediSphere Inc., 280, Daehak-ro, Gyeongsan-si, Gyeongsangbuk-do, 38541, Republic of Korea. bskwak@dongguk.ac.kr."
       ],
-      "doi": "",
-      "date": "2026-01-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927287/"
+      "doi": "10.21053/ceo.2026-00259",
+      "date": "2026-10-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928538/"
     },
     {
-      "pmid": "42927277",
-      "title": "CD73 targeted combination therapy reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC: Evidence from pleural effusion organoids.",
-      "abstract": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to overcome this resistance. Thus, this study aimed to reverse PD-1 inhibitor resistance in PD-L1-negative NSCLC by identifying novel predictive biomarkers and developing effective targeted immunotherapeutic regimens. Pleural effusion-derived organoids (PEOs) were established and validated from driver gene wild-type, PD-L1-negative NSCLC patients. Four treatment groups were set: control, anti-PD-1 monotherapy (Toripalimab), anti-CD73 monotherapy (Uliledlimab), and anti-PD-1 + anti-CD73 combination (Toripalimab + Uliledlimab). ATP assay was used to detect tumor cell viability. Spearman's rank correlation analysis was applied to evaluate the association between CD73 expression and tumor inhibition rates. Flow cytometry was employed to measure T cell activation markers. Enzyme-linked Immunospot assay was used to detect IFN-γ and TNF-α secretion. PEO models recapitulated the biological features of primary pleural effusion. Toripalimab monotherapy showed no antitumor efficacy in PD-L1-negative subgroup regardless of CD73 expression levels, whereas Toripalimab + Uliledlimab combination significantly reversed PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC patients. Furthermore, a significant positive correlation was observed between CD73 expression levels and tumor inhibition rates. This study validates CD73 as a potential predictive biomarker for stratifying PD-L1-negative NSCLC patients and establishes anti-PD-1+ anti-CD73 combination regimen that effectively reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC patients.",
-      "journal": "Global medical genetics",
+      "pmid": "42928513",
+      "title": "NCLX Inhibition plus Ca2+ Delivery Potentiates Electroporation and Antitumor Immunity in Pancreatic Ductal Adenocarcinoma.",
+      "abstract": "Irreversible electroporation (IRE) is increasingly used for locally advanced pancreatic ductal adenocarcinoma (PDAC), yet electric-field heterogeneity leaves a low-field rim where residual cells survive, and recurrence is frequent, compounded by a profoundly immunosuppressive tumor microenvironment. Here, an electroporation-synchronized adjuvant strategy is developed that integrates intratumoral Ca2+ delivery with nanoparticle-mediated inhibition of mitochondrial NCLX using CGP37157 (mPEG-PCL@CGP37157). This regimen markedly enhances cytotoxicity in PDAC cell lines and patient-derived organoids and significantly improves local control and survival in syngeneic subcutaneous and orthotopic PDAC models, without overt systemic toxicity. Reduced therapeutic efficacy in T cell-deficient hosts demonstrates the importance of adaptive immunity. Mechanistically, EP-resistant PDAC cells upregulate NCLX to buffer mitochondrial Ca2+ stress. Concurrent Ca2+ delivery and pharmacological NCLX inhibition induce sustained mitochondrial Ca2+ overload, triggering immunogenic GSDMD-dependent pyroptosis. This is accompanied by enhanced dendritic cell activation and CD8+ T-cell responses, as well as suppression of a tumor-myeloid SPP1-CD44 axis, promoting pro-inflammatory macrophage polarization. Collectively, targeting NCLX potentiates the immunogenic effects of IRE and provides a translatable strategy for eliminating residual disease in PDAC.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Guangdong Lung Cancer Institute, Guangdong Provincial Key Laboratory of Translational Medicine in Lung Cancer, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China.",
-        "Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, China.",
-        "School of Medicine, South China University of Technology, Guangzhou, China.",
-        "Shantou University Medical College, Shantou, Guangdong, China."
+        "Department of Pancreatic Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Sino-German Laboratory of Personalized Medicine for Pancreatic Cancer, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+        "Department of Hepato-Biliary-Pancreatic Surgery, Sichuan Clinical Research Center, Sichuan Cancer Center, Sichuan Cancer Hospital & Institute, Affiliated Cancer Hospital of University of Electronic Science and Technology of China, Chengdu, China."
       ],
-      "doi": "10.1016/j.gmg.2026.100142",
-      "date": "2026-10-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/"
+      "doi": "10.1002/advs.78288",
+      "date": "2026-10-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928513/"
+    },
+    {
+      "pmid": "42928431",
+      "title": "The VCPIP1-UBE3A Deubiquitination-Ubiquitination Cascade Contributes to Castration-Resistant Prostate Cancer Progression.",
+      "abstract": "The molecular mechanisms underlying progression from metastatic hormone-sensitive prostate cancer (mHSPC) to metastatic castration-resistant prostate cancer (mCRPC) remain incompletely understood. Paired proteomic profiling of specimens from 10 patients identified VCPIP1 as a candidate regulator, and its clinical relevance was evaluated in an independent cohort of 128 mHSPC patients. Elevated VCPIP1 expression was independently associated with shorter CRPC-free survival. Functional studies demonstrated that VCPIP1 promoted prostate cancer proliferation, migration, invasion, and metastasis in a deubiquitinase activity-dependent manner. Mechanistically, VCPIP1 directly bound UBE3A and stabilized it by removing K48-linked polyubiquitin chains at Lys711, thereby enhancing UBE3A-mediated p53 ubiquitination and proteasomal degradation. Wild-type UBE3A, but not its catalytically inactive C833A mutant, rescued the malignant phenotypes suppressed by VCPIP1 depletion. TP53 knockdown partially reversed these effects in TP53-wild-type LNCaP cells but not in TP53-mutant DU145 cells, indicating a TP53 context-dependent contribution of p53. VCPIP1 depletion also reduced androgen receptor expression in LNCaP cells and enhanced enzalutamide sensitivity in patient-derived organoids. These findings identify a VCPIP1/UBE3A deubiquitination-ubiquitination cascade contributing to CRPC progression and support further investigation of VCPIP1 as a potential prognostic biomarker and therapeutic target.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Urology, Urology Research Institute, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China.",
+        "Department of Urology, National Regional Medical Center, Binhai Campus of the First Affiliated Hospital, Fujian Medical University, Fuzhou, China.",
+        "Fujian Key Laboratory of Tumor Immunotherapy, the First Affiliated Hospital, Fujian Medical University, Fuzhou, China."
+      ],
+      "doi": "10.1002/advs.78433",
+      "date": "2026-10-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928431/"
+    },
+    {
+      "pmid": "42928365",
+      "title": "Theratyping for personalized medicine across cystic fibrosis disease models.",
+      "abstract": "In the era of CFTR modulators, cystic fibrosis (CF) is being profoundly reshaped for treatment-eligible individuals. Theratyping, an ex vivo strategy assessing individual responses to CFTR modulators, supports precision medicine, particularly for rare variants where conventional trials are limited. In this Review, we discussed advances in CF disease modelling, highlighting strengths, limitations and translational relevance. We also outlined future directions aligned with the Replacement, Reduction, and Refinement (3 R) ethical principles in animal research, including organ-on-a-chip technologies, to improve mechanistic insight and preclinical predictivity. CF research offers therefore a paradigmatic framework for therapeutic innovation in other rare genetic diseases.",
+      "journal": "Communications medicine",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Cystic Fibrosis Center, Azienda Ospedaliera Universitaria Integrata, Verona, Italy.",
+        "Department of Life Sciences, Health, and Health Professions, Link Campus University, Rome, Italy.",
+        "Program in Translational Medicine, Hospital for Sick Children, Toronto, ON, Canada.",
+        "Pediatric Gastroenterology, Toronto Hospital for Sick Children, Toronto, ON, Canada.",
+        "Pediatric Gastroenterology, David Geffen School of Medicine, University of California, Los Angeles, CA, USA.",
+        "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON, Canada.",
+        "Department of Pediatrics, Division of Respiratory Medicine, Hospital for Sick Children, Toronto, ON, Canada.",
+        "Beth Israel Deaconess, Medical Center Harvard Medical School, Boston, MA, USA.",
+        "Cystic Fibrosis Center, Azienda Ospedaliera Universitaria Integrata, Verona, Italy. marco.cipolli@aovr.veneto.it."
+      ],
+      "doi": "10.1038/s43856-026-01965-0",
+      "date": "2026-10-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928365/"
+    },
+    {
+      "pmid": "42928339",
+      "title": "Reprogramming of Metabolic and Adipokine-related Gene Expression in 3D Mammary Epithelial Organoids by Dietary Bioactive Compounds.",
+      "abstract": "Dietary bioactive compounds can modulate mammary gland gene expression, potentially influencing milk composition and infant metabolic programming. This study investigated whether selected dietary bioactive compounds modulate leptin and adiponectin expression in rat mammary epithelial organoids (MEO), a 3D in vitro model of the mammary gland. 18 nutrients were initially screened for effects on leptin gene expression, followed by confirmatory and dose-dependent analyses focusing on oleic acid (OA), leucine (Leu), betaine (Bet), and their triple combination. mRNA levels of leptin, adiponectin, and β-casein (Csn2), as well as selected genes related to one-carbon and lipid metabolism and specific microRNAs, were analyzed. OA, alone or in combination, consistently increased leptin, adiponectin, and Csn2 mRNA expression in MEO compared with controls. These effects were accompanied by downregulation of lipogenic markers, including Srebp1, and increased Cpt1b expression under the triple-combination treatment, without significant changes in miRNA levels. In contrast, Bet and Leu showed more variable, context-dependent effects on leptin, adiponectin, and Csn2 expression, while altering miRNA profiles that differed from those observed under OA-containing treatments. Overall, the results indicate that dietary bioactive compounds modulate gene expression of rat MEO.",
+      "journal": "Journal of mammary gland biology and neoplasia",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Group of Nutrigenomics, Biomarkers and Risk Evaluation (NuBE), University of the Balearic Islands, Palma, Spain.",
+        "Institut d'Investigació Sanitària Illes Balears (IdISBa), Palma, Spain.",
+        "CIBER de Fisiopatología de la Obesidad y Nutrición (CIBEROBN), Instituto de Salud Carlos III, Madrid, Spain.",
+        "Artificial Intelligence Research Institute of the Balearic Islands (IAIB), Palma, Spain.",
+        "Alimentómica S.L. (Spin Off No. 001 From UIB), Palma, Spain.",
+        "Group of Nutrigenomics, Biomarkers and Risk Evaluation (NuBE), University of the Balearic Islands, Palma, Spain. cati.pico@uib.es.",
+        "Institut d'Investigació Sanitària Illes Balears (IdISBa), Palma, Spain. cati.pico@uib.es.",
+        "CIBER de Fisiopatología de la Obesidad y Nutrición (CIBEROBN), Instituto de Salud Carlos III, Madrid, Spain. cati.pico@uib.es.",
+        "Artificial Intelligence Research Institute of the Balearic Islands (IAIB), Palma, Spain. cati.pico@uib.es.",
+        "Alimentómica S.L. (Spin Off No. 001 From UIB), Palma, Spain. cati.pico@uib.es."
+      ],
+      "doi": "10.1007/s10911-026-09612-z",
+      "date": "2026-07-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928339/"
+    },
+    {
+      "pmid": "42928288",
+      "title": "ARHGEF2 isoform switching couples intestinal epithelial barrier function with autophagic host defense response to pathogens.",
+      "abstract": "Intestinal epithelial integrity is essential for host defense, yet how epithelial junctional scaffolds coordinate antimicrobial immunity remains unclear. We show that the long GEF-H1 isoforms (mouse Arhgef2-207; human ARHGEF2-219) localize to adherens junctions in polarized epithelial cells through interactions with actin and Nectin-3, whereas the shorter Arhgef2-201 isoform localizes to tight junctions. Conditional deletion of epithelial Arhgef2-207 induces Arhgef2-201 expression, disrupts barrier integrity, activates autophagy, and causes small-intestinal inflammation. In human intestinal organoids, Listeria monocytogenes selectively depletes junction-associated ARHGEF2-219, triggering a switch to ARHGEF2-201 and RhoA- and STING-mediated autophagic signaling. This transition coincides with loss of the Na⁺/K⁺-ATPase and epithelial polarity. Here we show that a pathogen-induced ARHGEF2 isoform switch links junctional perturbation to autophagic responses and immune activation, revealing a mechanism that couples barrier disruption to cell-intrinsic antimicrobial defense.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Medicine, Division of Digestive and Liver Diseases, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA.",
+        "Department of Immunology, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA.",
+        "Quantitative Biomedical Research Center, Peter O'Donnell Jr. School of Public Health University of Texas Southwestern Medical Center, Dallas, Texas, USA.",
+        "Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Biochemistry, University of Texas Southwestern Medical Center, Dallas, TX, USA.",
+        "Department of Medicine, Division of Digestive and Liver Diseases, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA. Hans-Christian.Reinecker@utsouthwestern.edu.",
+        "Department of Immunology, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA. Hans-Christian.Reinecker@utsouthwestern.edu.",
+        "Center for the Genetics of Host Defense, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA. Hans-Christian.Reinecker@utsouthwestern.edu.",
+        "Simmons Cancer Center, University of Texas Southwestern Medical Center, 5959 Harry Hines Boulevard, Dallas, Texas, USA. Hans-Christian.Reinecker@utsouthwestern.edu."
+      ],
+      "doi": "10.1038/s41467-026-78030-w",
+      "date": "2026-09-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928288/"
     },
     {
       "pmid": "42893561",
@@ -351,6 +369,21 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42916680/"
     },
     {
+      "pmid": "42928622",
+      "title": "From Isolated Intelligence to Interpretive Infrastructure in Radiology AI.",
+      "abstract": "Radiology has more regulatory-cleared artificial intelligence tools than any other medical specialty, yet they have delivered less consistent clinical impact than their benchmark performance suggested. We argue that the dominant response, scaling perceptual models and extending them toward autonomous agency, mistakes the nature of the problem. The limitation is architectural, not algorithmic: current systems perform isolated perception while remaining disconnected from the temporal, contextual, and experiential integration that interpretation requires. We trace this to a fundamental simulation gap, the absence of the counterfactual signal that lets AI reach superhuman performance in other domains, and argue that scaling alone cannot close it. In response, we outline a hybrid orchestration layer, grounded in established clinical frameworks, that assembles a comprehensive evidence base for the radiologist while keeping generative components constrained and interpretive judgment human. The shift is one of design paradigm: from isolated tools deployed alongside the radiologist to interpretive infrastructure that composes validated outputs into coherent evidence without anchoring the reader's own assessment.",
+      "journal": "The British journal of radiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+      ],
+      "doi": "10.1093/bjr/tqag259",
+      "date": "2026-10-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928622/"
+    },
+    {
       "pmid": "42928030",
       "title": "Artificial intelligence in myeloproliferative neoplasms: From digital bone marrow pathology to clinical decision support.",
       "abstract": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched through August 2026, supplemented by hand-searching and conference abstracts) appraises the evidence for AI applications across the MPN continuum. Artificial intelligence (AI), and its principal subfields, machine learning (ML) and deep learning (DL), learn predictive patterns directly from data rather than from explicitly programmed rules, and are increasingly suited to this multidimensional complexity. Across the MPN continuum, AI has produced substantial technical progress across several domains: automated bone marrow biopsy analysis and continuous quantification of fibrosis and megakaryocyte morphology; peripheral blood- and complete blood count-based diagnosis, including blood-based prediction of marrow fibrosis and emerging liquid-biopsy approaches; quantitative disease assessment such as spleen volume segmentation; risk stratification for survival, thrombosis, disease progression, and post-transplant outcomes; therapy response prediction; in silico drug discovery; and natural language processing for large-scale mining of electronic health records; maturity and level of validation differ markedly across these domains. External validation is increasingly reported in selected applications, though most published models to date remain confined to internal or single-cohort validation, and prospective evaluation has been reported only for blood count-based fibrosis prediction. Correspondingly, to our knowledge, no tool has yet been shown to change clinical decision-making or improve patient outcomes, and predictive performance should not be conflated with clinical utility. As multimodal data integration, foundation models, and generative approaches mature, AI has the potential to support a faster, more objective, and more personalized diagnostic and decision-making pathway in MPN.",
@@ -456,149 +489,163 @@
       "doi": "10.1016/j.isci.2026.117893",
       "date": "2026-10-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926854/"
-    },
-    {
-      "pmid": "42926544",
-      "title": "The Red Blood Cell Surface Defines a Distinct Tumor DNA Compartment for Liquid Biopsy.",
-      "abstract": "Red blood cells (RBCs) modulate host inflammatory responses by scavenging mitochondrial and pathogen DNA. However, how RBC surface properties govern the capture of tumor-derived DNA remains poorly understood. We show that RBCs tether and retain tumor-derived DNA on their surface, forming a distinct circulating pool of RBC-bound tumor DNA (rtDNA). Desialylation increased DNA capture in a Toll-like receptor 9 (TLR9)-dependent manner, identifying RBC surface sialylation and TLR9 as regulators of DNA binding. In mice bearing lung cancer xenografts, rtDNA was detected in all animals and its abundance correlated with tumor burden, whereas tumor DNA was undetectable in matched plasma samples. In patients with lung cancer, the majority of detected mutant tumor DNA was associated with RBCs rather than plasma, and RBC-derived mutations were concordant with molecular alterations identified in matched tumor tissue. Collectively, these findings establish the RBC surface as a tunable site of tumor DNA capture and retention and challenge the plasma-centric paradigm of liquid biopsy by identifying a distinct cellular reservoir of tumor-derived genetic material.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.07.755430",
-      "date": "2026-10-10",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926544/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42927540",
-      "date": "2026-10-25",
-      "title": "Exploratory donor-aware analysis of developmental transcriptomic trajectories in 15q13.3-deletion cortical organoids.",
+      "id": "pubmed-42928538",
+      "date": "2026-10-26",
+      "title": "Organ-on-a-Chip Technology in Otorhinolaryngology: Design Strategies and Applications in Mucosal Tissues and Head and Neck Cancer.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927540/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928538/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
+        "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
+        "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Mammalian genome : official journal of the International Mammalian Genome Society，PMID 为 42927540。",
-      "report": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs. Signatures derived from early RA exposure and prol...",
+      "fact": "PubMed 记录显示该文献收录于 Clinical and experimental otorhinolaryngology，PMID 为 42928538。",
+      "report": "The complex mucosal microenvironment of the upper aerodigestive tract influences otorhinolaryngologic diseases. Therefore, establishing preclinical models that recapitulate the structural and functional characteristics of otorhinolaryngologic tissues is import...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42927452",
+      "id": "pubmed-42928513",
       "date": "2026-10-25",
-      "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
+      "title": "NCLX Inhibition plus Ca2+ Delivery Potentiates Electroporation and Antitumor Immunity in Pancreatic Ductal Adenocarcinoma.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927452/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928513/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Human reproduction (Oxford, England)，PMID 为 42927452。",
-      "report": "Do euploid (EU), trisomy 21 (T21), and monosomy 21 (M21) human embryos exhibit different patterns of secreted proteins and morphometric changes during extended in vitro culture, either with or without endometrial cell support? Secreted protein profiles and mor...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42928513。",
+      "report": "Irreversible electroporation (IRE) is increasingly used for locally advanced pancreatic ductal adenocarcinoma (PDAC), yet electric-field heterogeneity leaves a low-field rim where residual cells survive, and recurrence is frequent, compounded by a profoundly i...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42927416",
+      "id": "pubmed-42928431",
+      "date": "2026-10-25",
+      "title": "The VCPIP1-UBE3A Deubiquitination-Ubiquitination Cascade Contributes to Castration-Resistant Prostate Cancer Progression.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928431/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42928431。",
+      "report": "The molecular mechanisms underlying progression from metastatic hormone-sensitive prostate cancer (mHSPC) to metastatic castration-resistant prostate cancer (mCRPC) remain incompletely understood. Paired proteomic profiling of specimens from 10 patients identi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42928365",
+      "date": "2026-10-25",
+      "title": "Theratyping for personalized medicine across cystic fibrosis disease models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928365/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Communications medicine，PMID 为 42928365。",
+      "report": "In the era of CFTR modulators, cystic fibrosis (CF) is being profoundly reshaped for treatment-eligible individuals. Theratyping, an ex vivo strategy assessing individual responses to CFTR modulators, supports precision medicine, particularly for rare variants...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42928622",
       "date": "2026-10-24",
-      "title": "Deubiquitinase USP5 suppresses ferroptosis in lung adenocarcinoma by deubiquitinating and stabilizing GPX3.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "From Isolated Intelligence to Interpretive Infrastructure in Radiology AI.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927416/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928622/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
         "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
+        "Regulatory Watch"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "临床",
-        "监管",
-        "肿瘤",
-        "药筛",
-        "多组学"
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of cell communication and signaling，PMID 为 42927416。",
-      "report": "Ferroptosis is a regulated form of cell death driven by iron-dependent lipid peroxidation and has emerged as a promising therapeutic target in nonsmall cell lung cancer (NSCLC). However, the specific mechanisms by which nonsmall cell lung cancer cells evade fe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42927948",
-      "date": "2026-10-23",
-      "title": "[Drug sensitivity analysis of monotherapy and combination therapy with Chinese and Western drugs in lung cancer organoid models].",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927948/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Zhonghua zhong liu za zhi [Chinese journal of oncology]，PMID 为 42927948。",
-      "report": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 The British journal of radiology，PMID 为 42928622。",
+      "report": "Radiology has more regulatory-cleared artificial intelligence tools than any other medical specialty, yet they have delivered less consistent clinical impact than their benchmark performance suggested. We argue that the dominant response, scaling perceptual mo...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -725,66 +772,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42926854。",
       "report": "Liquid biopsy using circulating tumor DNA (ctDNA) is increasingly used for cancer profiling and monitoring, but blood-based analysis may not capture tumor heterogeneity across anatomical compartments. We evaluated cell-free DNA from cerebrospinal (n = 7), pleu...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42927277",
-      "date": "2026-10-12",
-      "title": "CD73 targeted combination therapy reverses PD-1 inhibitor resistance in CD73-high PD-L1-negative NSCLC: Evidence from pleural effusion organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Global medical genetics，PMID 为 42927277。",
-      "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42926544",
-      "date": "2026-10-10",
-      "title": "The Red Blood Cell Surface Defines a Distinct Tumor DNA Compartment for Liquid Biopsy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926544/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42926544。",
-      "report": "Red blood cells (RBCs) modulate host inflammatory responses by scavenging mitochondrial and pathogen DNA. However, how RBC surface properties govern the capture of tumor-derived DNA remains poorly understood. We show that RBCs tether and retain tumor-derived D...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1001,6 +988,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42928288",
+      "date": "2026-09-24",
+      "title": "ARHGEF2 isoform switching couples intestinal epithelial barrier function with autophagic host defense response to pathogens.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928288/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42928288。",
+      "report": "Intestinal epithelial integrity is essential for host defense, yet how epithelial junctional scaffolds coordinate antimicrobial immunity remains unclear. We show that the long GEF-H1 isoforms (mouse Arhgef2-207; human ARHGEF2-219) localize to adherens junction...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42927000",
       "date": "2026-09-23",
       "title": "A Cost-Effective, Kit-Free Method for Extracting Nuclear and Mitochondrial DNA From Low-Abundance Cells in Urine Samples.",
@@ -1155,6 +1170,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42928339",
+      "date": "2026-07-29",
+      "title": "Reprogramming of Metabolic and Adipokine-related Gene Expression in 3D Mammary Epithelial Organoids by Dietary Bioactive Compounds.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928339/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of mammary gland biology and neoplasia，PMID 为 42928339。",
+      "report": "Dietary bioactive compounds can modulate mammary gland gene expression, potentially influencing milk composition and infant metabolic programming. This study investigated whether selected dietary bioactive compounds modulate leptin and adiponectin expression i...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42890802",
       "date": "2026-04-14",
       "title": "Progress of metabolomics-centric multi-omics research in medicine.",
@@ -1182,36 +1227,6 @@
       "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42890802。",
       "report": "Metabolomics reveals molecular changes at the metabolic level during biological processes. Recent advancements, particularly through integration with other omics and artificial intelligence (AI), are advancing metabolic data analysis and multi-omics interpreta...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42927287",
-      "date": "2026-01-01",
-      "title": "MOLECULAR CONTROL OF EPITHELIAL BARRIER DYNAMICS AND REPAIR.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927287/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Transactions of the American Clinical and Climatological Association，PMID 为 42927287。",
-      "report": "Epithelial cells form dynamic barriers that are maintained by highly organized intercellular junctions, including tight junctions (TJs), adherens junctions (AJs), and desmosomes (DMs). These complexes provide structural adhesion while functioning as signaling...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
