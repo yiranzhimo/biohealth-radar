@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-10-25T08:27:16+00:00",
+  "capturedAt": "2026-10-26T08:58:17+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -20,10 +20,10 @@
   ],
   "queryMatchCounts": {
     "biotechnology": 302,
-    "gene therapy": 1152,
-    "cell therapy": 1661,
-    "drug discovery": 326,
-    "molecular diagnostics": 142
+    "gene therapy": 1154,
+    "cell therapy": 1664,
+    "drug discovery": 329,
+    "molecular diagnostics": 145
   },
   "records": [
     {
@@ -382,32 +382,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11415152"
     },
     {
-      "applId": 11409867,
-      "projectNum": "1R43EY038150-01A1",
-      "projectTitle": "PRMT5 Inhibitors as a Novel Therapy for Anti-VEGF-Sensitive and -Resistant Neovascular Age-Related Macular Degeneration",
-      "fiscalYear": 2026,
-      "awardAmount": 233247,
-      "awardNoticeDate": "2026-09-18",
-      "projectStartDate": "2026-09-30",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "EQON PHARMACEUTICALS, LLC",
-        "city": "CARMEL",
-        "state": "IN",
-        "country": "UNITED STATES",
-        "uei": "K7N4NMVHDU95",
-        "ipf": "10059620",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "Project Summary Aberrant neovascularization (NV) is a hallmark of major blinding eye diseases, including neovascular age- related macular degeneration (nAMD) and proliferative diabetic retinopathy (PDR). While therapies targeting VEGF and angiopoietin (ANGPT) signaling have…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11409867"
-    },
-    {
       "applId": 11408359,
       "projectNum": "1R43NS147623-01A1",
       "projectTitle": "Development of antisense oligonucleotides against PEG10 in the fight against ALS-FTD",
@@ -691,6 +665,34 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
     },
     {
+      "applId": 11416294,
+      "projectNum": "5R44CA302091-02",
+      "projectTitle": "Ultra-fast manufactured CAR-T therapy",
+      "fiscalYear": 2026,
+      "awardAmount": 1125000,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2025-09-15",
+      "projectEndDate": "2027-08-31",
+      "organization": {
+        "name": "KURE CELLS INC",
+        "city": "SHAKER HEIGHTS",
+        "state": "OH",
+        "country": "UNITED STATES",
+        "uei": "JCZPXLMQQ2D1",
+        "ipf": "10065823",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Novel therapeutic approaches are urgently needed for patients with relapsed/refractory cancers. Chimeric Antigen Receptor (CAR) T cell therapies have exhibited remarkable promise particularly for patients with relapsed/refractory B cell malignancies. Though current CAR-T…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
+    },
+    {
       "applId": 11411298,
       "projectNum": "5R44CA309843-02",
       "projectTitle": "Novel Telomere-Targeting Therapy for Advanced Non-Small Cell Lung Cancer",
@@ -714,6 +716,63 @@
       "topicHints": [],
       "projectSummaryExcerpt": "Summary: With non-small cell lung cancer (NSCLC) persisting as a leading cause of cancer mortality worldwide and resistant to many standard treatments, MAIA Biotechnology, Inc. is focused on developing THIO, a novel therapeutic agent aimed at improving treatment outcomes in…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11411298"
+    },
+    {
+      "applId": 11410609,
+      "projectNum": "1R43AG102280-01",
+      "projectTitle": "Extracellular Vesicle encapsulated Adeno-associated virus (EV-AAV)-mediated delivery of Neurotrophic factor-α1(NF- α1)/Carboxypeptidase E (CPE) gene (EV-AAV-CPE) as a therapy for Alzheimer's Disease.",
+      "fiscalYear": 2026,
+      "awardAmount": 349359,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-17",
+      "projectEndDate": "2028-02-29",
+      "organization": {
+        "name": "XOSOMIX LLC",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "KCWEJH659NZ9",
+        "ipf": "10062583",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy",
+        "RNA Therapeutics"
+      ],
+      "projectSummaryExcerpt": "PROJECT ABSTRACT. About 56 million people globally suffer from dementia, with Alzheimer’s disease (AD) accounting for 60 to 80% of the cases. This number is expected to triple by 2050. In United States alone, about 6.7 million older adults have Alzheimer's disease, and around…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11410609"
+    },
+    {
+      "applId": 11410331,
+      "projectNum": "1R43AG099682-01A1",
+      "projectTitle": "Rejuvenis: A Partially Reprogramming Small Molecule Drug for Brain Rejuvenation and Alzheimer's Disease Therapy",
+      "fiscalYear": 2026,
+      "awardAmount": 544789,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-17",
+      "projectEndDate": "2027-09-16",
+      "organization": {
+        "name": "BELLWETHERS INC.",
+        "city": "MURRIETA",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "XV3NP1RSMHM7",
+        "ipf": "10075739",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy",
+        "Precision Diagnostics",
+        "Organoids & Disease Models"
+      ],
+      "projectSummaryExcerpt": "Significance: Alzheimer’s disease (AD) is a progressive neurodegenerative disorder that impairs cognition, function, and independence, ultimately leading to death. Over 55 million people worldwide are affected, with aging as the greatest risk factor. Existing therapies provide…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
     },
     {
       "applId": 11410177,
@@ -814,11 +873,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
+        "AI Drug Discovery",
+        "Precision Diagnostics"
       ],
       "projectSummaryExcerpt": "Project Summary/Abstract Circulating tumor cells (CTCs) and other rare circulating cells in blood can serve as early warning signs of cancer, but they are extremely rare and hard to identify – akin to looking for a needle in a haystack. Fluorescent Whole Slide Imaging (fWSI)…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11409312"
@@ -1465,6 +1525,31 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
     },
     {
+      "applId": 11314326,
+      "projectNum": "1R42CA310337-01",
+      "projectTitle": "Dual Acting Bone Defenders for Inhibiting Cancer Mediated Bone Destruction",
+      "fiscalYear": 2026,
+      "awardAmount": 400000,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-18",
+      "projectEndDate": "2027-08-31",
+      "organization": {
+        "name": "BONESTRONG THERAPEUTICS INC.",
+        "city": "PORTLAND",
+        "state": "OR",
+        "country": "UNITED STATES",
+        "uei": "XUNHXKKMFJ63",
+        "ipf": "10091062",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "BoneStrong Therapeutics Inc. seeks to develop a first-in-class therapeutic that inhibits bone destruction caused by cancer. Cancer-mediated bone destruction is a common, longstanding, unmet need costing the US economy $5.3B/year. Current therapy has limited efficacy and…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+    },
+    {
       "applId": 11314303,
       "projectNum": "1R43HG014430-01A1",
       "projectTitle": "Development of fecal exfoliome sequencing as a multi-omics approach for gut health management",
@@ -1595,94 +1680,11 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
-    },
-    {
-      "applId": 11292808,
-      "projectNum": "2R44HL167349-03",
-      "projectTitle": "CRI-103 gene therapy as Investigational New Drug for Dilated Cardiomyopathy",
-      "fiscalYear": 2026,
-      "awardAmount": 1159408,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2023-09-14",
-      "projectEndDate": "2029-08-31",
-      "organization": {
-        "name": "CARDIAC RSK3 INHIBITORS, LLC",
-        "city": "LOS ALTOS",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "D38ER7T7B8L8",
-        "ipf": "10039821",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
-    },
-    {
-      "applId": 11254697,
-      "projectNum": "2R44TR005335-02A1",
-      "projectTitle": "High-throughput kinetic system for small-molecule drug discovery",
-      "fiscalYear": 2026,
-      "awardAmount": 1401698,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-15",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "CAPIENDA BIOTECH, LLC",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "EGF7MDLBABC6",
-        "ipf": "10049147",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology",
-        "drug discovery"
-      ],
-      "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
-    },
-    {
-      "applId": 11204793,
-      "projectNum": "4R44NS137868-02",
-      "projectTitle": "Validation of a novel treatment for glioblastoma using oncolytic Zika virus",
-      "fiscalYear": 2026,
-      "awardAmount": 1268244,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2024-09-20",
-      "projectEndDate": "2028-06-30",
-      "organization": {
-        "name": "UP ONCOLYTICS, INC.",
-        "city": "MILWAUKEE",
-        "state": "WI",
-        "country": "UNITED STATES",
-        "uei": "TVNLCARQLKC8",
-        "ipf": "10073837",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy"
-      ],
-      "projectSummaryExcerpt": "Project Summary / Abstract Glioblastoma multiforme (GBM) is a highly aggressive and malignant brain tumor with no known cure. GBM is projected to account for almost 14,500 new cases and approximately 10,000 deaths in the United States (U.S.) in 2023. The prognosis for patients…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11204793"
     }
   ]
 }

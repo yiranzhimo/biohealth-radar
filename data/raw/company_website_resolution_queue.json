@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-10-25T08:29:16+00:00",
+  "capturedAt": "2026-10-26T09:00:00+00:00",
   "count": 588,
   "items": [
     {
@@ -2447,6 +2447,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bellwethers",
+      "name": "Bellwethers Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410331",
+      "identifiers": {
+        "nihIpf": [
+          "10075739"
+        ],
+        "uei": [
+          "XV3NP1RSMHM7"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "Precision Diagnostics",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001808898",
@@ -3207,6 +3227,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
+      "identifiers": {
+        "nihIpf": [
+          "10091062"
+        ],
+        "uei": [
+          "XUNHXKKMFJ63"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3648,27 +3685,8 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-capienda-biotech",
-      "name": "Capienda Biotech, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
-      "identifiers": {
-        "nihIpf": [
-          "10049147"
-        ],
-        "uei": [
-          "EGF7MDLBABC6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
         "biotechnology",
-        "drug discovery"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -3686,23 +3704,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cardiac-rsk3-inhibitors",
-      "name": "Cardiac Rsk3 Inhibitors, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11292808",
-      "identifiers": {
-        "nihIpf": [
-          "10039821"
-        ],
-        "uei": [
-          "D38ER7T7B8L8"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -4975,24 +4976,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-eqon-pharmaceuticals",
-      "name": "Eqon Pharmaceuticals, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11409867",
-      "identifiers": {
-        "nihIpf": [
-          "10059620"
-        ],
-        "uei": [
-          "K7N4NMVHDU95"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6322,6 +6305,25 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
+      "identifiers": {
+        "nihIpf": [
+          "10065823"
+        ],
+        "uei": [
+          "JCZPXLMQQ2D1"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7948,8 +7950,7 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology",
-        "gene therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -8787,25 +8788,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-up-oncolytics",
-      "name": "Up Oncolytics, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11204793",
-      "identifiers": {
-        "nihIpf": [
-          "10073837"
-        ],
-        "uei": [
-          "TVNLCARQLKC8"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "cell therapy",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-usana-health-sciences",
       "name": "Usana Health Sciences Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000896264",
@@ -9160,6 +9142,25 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-xosomix",
+      "name": "Xosomix LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410609",
+      "identifiers": {
+        "nihIpf": [
+          "10062583"
+        ],
+        "uei": [
+          "KCWEJH659NZ9"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "RNA Therapeutics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
