@@ -1,8 +1,140 @@
 {
-  "capturedAt": "2026-10-25T20:56:07.737638+00:00",
+  "capturedAt": "2026-10-26T04:55:21.254918+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42927540",
+      "responseId": "resp_0e4e466582d23ba4006adedd39feb087d1b80d9ffb90c19708",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，报告中暗示了可能的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合元数据支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然信息分离清晰，但证据水平被认为不合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Mammalian genome : official journal of the International Mammalian Genome Society，PMID 为 42927540。",
+          "report": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42927948",
+      "responseId": "resp_0b5a9931b9bae301006adedd3edbfc87d1ab8842d739b43748",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "文献条目内部一致，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，与文献内容一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源可靠，标记清晰，证据水平适中。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Zhonghua zhong liu za zhi [Chinese journal of oncology]，PMID 为 42927948。",
+          "report": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42928030",
+      "responseId": "resp_0bda56c65cc3924f006adedd431fc087d1b0fe12a73b1e9dcd",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息清晰且合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "源信息、报告和推断明确分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "medical_advice_risk"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Healthcare AI",
+            "Medical LLM"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Blood reviews，PMID 为 42928030。",
+          "report": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched thr...",
+          "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

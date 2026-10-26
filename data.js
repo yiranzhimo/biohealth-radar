@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,80 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42927540",
+      "date": "2026-10-25",
+      "title": "Exploratory donor-aware analysis of developmental transcriptomic trajectories in 15q13.3-deletion cortical organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927540/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Mammalian genome : official journal of the International Mammalian Genome Society，PMID 为 42927540。",
+      "report": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs. Signatures derived from early RA exposure and prol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0e4e466582d23ba4006adedd39feb087d1b80d9ffb90c19708",
+        "reviewedAt": "2026-10-26T04:55:21.254918+00:00",
+        "inputHash": "7d2af8ca8fd920baef760143a7e7705e3bca2d0e4055e7c88b662b8660b37833",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，报告中暗示了可能的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合元数据支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "虽然信息分离清晰，但证据水平被认为不合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Mammalian genome : official journal of the International Mammalian Genome Society，PMID 为 42927540。",
+          "report": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42927452",
       "date": "2026-10-25",
       "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
@@ -981,70 +1055,159 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42925769",
-      "date": "2026-10-24",
-      "title": "A multivariate plasma biomarker model for glioblastoma exclusion: a retrospective case-control study.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42927948",
+      "date": "2026-10-23",
+      "title": "[Drug sensitivity analysis of monotherapy and combination therapy with Chinese and Western drugs in lung cancer organoid models].",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925769/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927948/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
-        "Biotech",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "biotech",
-        "肿瘤"
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42925769。",
-      "report": "Glioblastoma (GBM) remains the most aggressive primary brain tumour, with limited diagnostic tools able to capture its molecular heterogeneity in real time. Current clinical practice relies on MRI and invasive biopsies, which are poorly suited for early or dyn...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Zhonghua zhong liu za zhi [Chinese journal of oncology]，PMID 为 42927948。",
+      "report": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0cdbbb2589ac84a0006addeaaf634487d1a52b31a222f2fc8c",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "ad0f22fe6d2530adf854e1603f2178d02d195bde511e2cbc76d988055e1cd392",
+        "responseId": "resp_0b5a9931b9bae301006adedd3edbfc87d1ab8842d739b43748",
+        "reviewedAt": "2026-10-26T04:55:21.254918+00:00",
+        "inputHash": "43fc9820c5ed066e6465072b6776b9197363f7a10df329b80562d94005ea0062",
         "status": "pass",
-        "confidence": 0.8,
+        "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "文献登记准确，报告内容符合来源，未做出临床推论或治疗建议。",
+        "reviewSummaryCn": "文献条目内部一致，符合发布标准。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理且有根据。"
+          "notesCn": "分类合理，与文献内容一致。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "来源可靠，信息分离清晰。"
+          "notesCn": "信息来源可靠，标记清晰，证据水平适中。"
         },
         "riskFlags": [
+          "clinical_claim",
           "insufficient_source"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Biotech",
-            "Precision Oncology"
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
           ],
           "tags": [
-            "biotech",
-            "肿瘤"
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42925769。",
-          "report": "Glioblastoma (GBM) remains the most aggressive primary brain tumour, with limited diagnostic tools able to capture its molecular heterogeneity in real time. Current clinical practice relies on MRI and invasive biopsies, which are poorly suited for early or dyn...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Zhonghua zhong liu za zhi [Chinese journal of oncology]，PMID 为 42927948。",
+          "report": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42928030",
+      "date": "2026-10-23",
+      "title": "Artificial intelligence in myeloproliferative neoplasms: From digital bone marrow pathology to clinical decision support.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928030/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Blood reviews，PMID 为 42928030。",
+      "report": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched thr...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0bda56c65cc3924f006adedd431fc087d1b0fe12a73b1e9dcd",
+        "reviewedAt": "2026-10-26T04:55:21.254918+00:00",
+        "inputHash": "867d0306c007d80ccc6152cf815f95be4092e92ef76264a46065038abab45f17",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合出版标准，信息清晰且合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "源信息、报告和推断明确分离，证据水平合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "medical_advice_risk"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "AI Drug Discovery",
+          "subCategory": "AI-enabled Discovery",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "AI for Biology",
+            "Drug Discovery",
+            "Healthcare AI",
+            "Medical LLM"
+          ],
+          "tags": [
+            "AI 制药",
+            "蛋白设计",
+            "分子生成",
+            "医疗 AI",
+            "临床决策支持"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Blood reviews，PMID 为 42928030。",
+          "report": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched thr...",
+          "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1642,80 +1805,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42927220",
-      "date": "2026-10-15",
-      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
-      "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_09d8ea9a61fb751e006ade2e8f6a3087d0b3db14528ec1fe78",
-        "reviewedAt": "2026-10-25T16:29:51.377431+00:00",
-        "inputHash": "cfd813a7d88d042ae44777c199427ecea118cec58adbf596aa89937114cd0ef8",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "研究质量、样本量和潜在利益冲突未评估，建议人工审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平为中等，但缺乏对研究质量的评估，可能影响分类支持。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": false,
-          "evidenceLevelReasonable": false,
-          "notesCn": "研究的证据水平被认为是不合理的，因未提供足够的信息支持中等水平。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
-          "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2598,79 +2687,6 @@ window.BHR_DATA = {
           "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes.",
           "inference": "此研究提供了对PD-1抑制剂耐药性的见解，但未提供足够的证据支持临床应用。",
           "unknown": "研究质量、样本量、利益冲突、临床阶段及商业化状态未被评估。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42926891",
-      "date": "2026-10-11",
-      "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926891/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials and biosystems，PMID 为 42926891。",
-      "report": "Developing physiologically relevant 3D tumor models is critical to study cell-stroma interactions driving cancer progression. In pancreatic ductal adenocarcinoma (PDAC), pancreatic stellate cells (PSCs) are key stromal actors that acquire pro-tumoral functions...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_076c2244f9843cc7006addeac29b5c87d1920b5fe1bb599604",
-        "reviewedAt": "2026-10-25T11:40:30.497204+00:00",
-        "inputHash": "b515649037f3f4732171bcc496fbe31de22c4afd83c9c411f0232d6d84cc7e41",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合发布标准，信息分离清晰，没有不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别符合文献内容。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适当，信息分离清晰。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomaterials and biosystems，PMID 为 42926891。",
-          "report": "Developing physiologically relevant 3D tumor models is critical to study cell-stroma interactions driving cancer progression. In pancreatic ductal adenocarcinoma (PDAC), pancreatic stellate cells (PSCs) are key stromal actors that acquire pro-tumoral functions...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

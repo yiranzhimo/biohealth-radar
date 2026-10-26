@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-25T20:55:58.318585+00:00",
+  "capturedAt": "2026-10-26T04:55:10.833020+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-25",
-    "end": "2026-10-25"
+    "start": "2025-10-26",
+    "end": "2026-10-26"
   },
   "pmids": [
+    "42927948",
+    "42927540",
     "42927452",
     "42927416",
     "42927287",
     "42927277",
-    "42927220",
-    "42926891",
     "42893561",
     "42890802",
     "42880218",
@@ -32,14 +32,51 @@
     "42917106",
     "42916734",
     "42916680",
+    "42928030",
     "42927396",
     "42927017",
     "42927000",
     "42926854",
-    "42926544",
-    "42925769"
+    "42926544"
   ],
   "records": [
+    {
+      "pmid": "42927948",
+      "title": "[Drug sensitivity analysis of monotherapy and combination therapy with Chinese and Western drugs in lung cancer organoid models].",
+      "abstract": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A total of 10 pathologically confirmed lung adenocarcinoma specimens were collected from Tianjin Fifth Central Hospital between June 2024 and June 2025, including six surgical tumor tissue specimens and four pleural effusion samples. These samples were cultured in vitro to establish lung cancer organoid models. Morphological examination, hematoxylin and eosin (HE) staining, and immunohistochemical staining were used to verify the consistence between the organoids and their parental tissues. One organoid model with available genomic profiling data (n=1) was subjected to drug sensitivity testing against commonly used antitumor drugs/regimens, and the results were compared with the clinical response. In successfully established organoid models, antitumor monotherapies (5-fluorouracil [5-FU], cisplatin and osimertinib), active components of Chinese drugs (elemene and ginsenoside Rg3) and combined regimens of Chinese and Western drugs (cisplatin plus ginsenoside Rg3 and 5-FU plus ginsenoside Rg3) were applied. Cell viability was assessed, and the half-maximal inhibitory concentration (IC50) and normalized area under the curve (AUC) values were calculated for each treatment to evaluate drug sensitivity. Results: Among the 10 samples, organoids were successfully cultured from 7 samples, and the organoids closely resembled their parental tissues in morphology and molecular marker expression. In one organoid model with increased epidermal growth factor receptor (EGFR) gene copy number gain and the EGFR p.E746_A750del mutation, sensitivity testing of commonly used antitumor drugs/regimens, including osimertinib, paclitaxel, cisplatin, the GP regimen (gemcitabine plus cisplatin), and the PP regimen (pemetrexed plus cisplatin), showed that osimertinib exhibited potent antitumor activity (IC50=1.91 μmol/L), markedly superior to the other tested drugs, and the results were consistent with the clinical response. After cryopreservation and rivival, the 7 organoid lines were continued cultured and passaged; 3 were successfully recovered. Drug sensitivity analysis of the 3 successfully established lung cancer organoid models revealed that organoids from different sources responded differently to the same drug. Osimertinib and 5-FU showed higher activity in sample 1 and sample 2, respectively, whereas sample 3 was highly resistant to cisplatin. Active components of Chinese drugs used alone showed no significant inhibitory effect, with normalized AUC values all >0.925. Combination treatment showed stronger inhibition effect in all organoid models, and IC50 values decreased to varying degrees compared with monotherapy. In samples 1 and 3, the IC50 values of cisplatin monotherapy were 152.70 and 475.00 μmol/L, respectively, and decreased to 127.30 and 121.50 μmol/L after combination treatment. Among all models, 5-FU had the lowest monotherapy IC50 among the antitumor drugs (28.08 μmol/L), which was further reduced to 11.26 μmol/L after combination treatment. Conclusion: Patient-derived lung cancer organoid models capture interindividual differences in drug sensitivity and provide a feasible approach for rapid in vitro screening of sensitive regimens and for personalized therapeutic strategies, such as combined therapy with Chinese and Western drugs.",
+      "journal": "Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+      "publicationTypes": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Pathology, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
+        "Tianjin Key Laboratory of Epigenetics for Preterm Infant Organ Development, Tianjin 300450, China.",
+        "Department of General Surgery, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
+        "School of Medicine, Tianjin University, Tianjin 300450, China.",
+        "Department of Emergency Medicine, Tianjin Fifth Central Hospital, Tianjin 300450, China.",
+        "Emergency Research Institute, Tianjin Fifth Central Hospital, Tianjin 300450, China."
+      ],
+      "doi": "10.3760/cma.j.cn112152-20251219-00624",
+      "date": "2026-10-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927948/"
+    },
+    {
+      "pmid": "42927540",
+      "title": "Exploratory donor-aware analysis of developmental transcriptomic trajectories in 15q13.3-deletion cortical organoids.",
+      "abstract": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs. Signatures derived from early RA exposure and prolonged, 7-day all-trans RA (ATRA) treatment were evaluated in public cortical organoid data from three deletion and 17 control donors. Donors, rather than individual samples, were the units of inference; 16 controls and all three deletion donors had sufficient time points for slope testing. Early human, early mouse, and conserved early RA signatures were not significant. A broad ATRA-derived differentiation score showed a negative deletion-control slope difference (exact P = 0.0083; false-discovery rate = 0.0206), but a non-RA maturation score was also significant. The prolonged score correlated strongly with maturity. Sensitivity analyses adjusting for measured maturation and composition did not identify an RA-specific component; neither the targeted RA program nor the covariate-adjusted joint trajectory test was significant. External and single-cell analyses provided biological context, not independent validation. The findings suggest a developmental/maturation-associated trajectory difference overlapping a broad prolonged ATRA-associated program. The three-donor case group and heterogeneous source models limit stability and generalizability; the results do not establish altered RA signaling, vitamin A deficiency, or retinoid-treatment relevance.",
+      "journal": "Mammalian genome : official journal of the International Mammalian Genome Society",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Child Health Care, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, Guangzhou, China.",
+        "Department of Gastroenterology, Guangzhou Women and Children's Medical Center, Guangzhou Medical University, No. 9 Jinsui Road, Guangzhou, China. 357923160@qq.com."
+      ],
+      "doi": "10.1007/s00335-026-10286-5",
+      "date": "2026-10-25",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927540/"
+    },
     {
       "pmid": "42927452",
       "title": "Mapping developmental and targeted secretory signatures of euploid and aneuploid human embryos using an advanced endometrial model.",
@@ -109,43 +146,6 @@
       "doi": "10.1016/j.gmg.2026.100142",
       "date": "2026-10-12",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927277/"
-    },
-    {
-      "pmid": "42927220",
-      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
-      "abstract": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patient-derived microtumors (PDMs) from core needle biopsies and small tissue specimens were established using a modified culture protocol and an optimized fetal bovine serum (FBS)-based culture medium, achieving a 75% success rate (6 of 8 cases). PDM characteristics mostly agreed with the tissue origins, according to growth evaluation, histopathology, immunohistochemistry, and genetic profiling. As a proof of concept, PDMs were tested with neoadjuvant chemotherapy alongside the patients' treatment. Notably, the PDM results were positively correlated with the patient outcomes and were obtained within a clinically relevant time frame (∼2-3 weeks). Collectively, our protocol and FBS-based medium efficiently generate breast cancer PDMs from core needle biopsies and small tissue specimens, with promising potential to guide neoadjuvant chemotherapy decisions.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biomedical Sciences and Biomedical Engineering, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
-        "Department of Surgery, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
-        "Department of Pathology, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand.",
-        "Translational Medicine Research Center, Faculty of Medicine, Prince of Songkla University, Songkhla 90110, Thailand."
-      ],
-      "doi": "10.1016/j.isci.2026.117914",
-      "date": "2026-10-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/"
-    },
-    {
-      "pmid": "42926891",
-      "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
-      "abstract": "Developing physiologically relevant 3D tumor models is critical to study cell-stroma interactions driving cancer progression. In pancreatic ductal adenocarcinoma (PDAC), pancreatic stellate cells (PSCs) are key stromal actors that acquire pro-tumoral functions upon activation into cancer-associated fibroblasts (CAFs). We aimed to create a 3D co-culture model combining PSCs (or CAFs) and tumor organoids (or spheroids) that reproduces the tumor microenvironment while preserving the viability of fragile stroma cells. Gelatin methacryloyl (GelMA) was selected as a biocompatible scaffold with mechanical properties comparable to pancreatic tissue. However, fragile stromal cells, such as PSCs, displayed extensive photopolymerization-induced cell death when embedded in GelMA, preventing long-term culture. We developed a simple preconditioning protocol with an antioxidant (N-acetylcysteine, NAC) that protects sensitive cells prior to GelMA encapsulation. This approach allowed long-term 3D culture of healthy PSCs and CAFs, alone or in co-culture with tumor spheroids or organoids. Cells self-organized, maintained physiological morphology, secreted extracellular matrix, and formed stromal networks around tumor structures, closely mimicking the PDAC tissue architecture. This straightforward and reproducible approach enables sensitive stromal cells to thrive in 3D GelMA, providing a robust platform to study tumor-stroma crosstalk and to support drug testing in PDAC-relevant models.",
-      "journal": "Biomaterials and biosystems",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Univ. Toulouse, CNRS, Inserm, CRCT, Toulouse, France.",
-        "LAAS-CNRS, Univ Toulouse, CNRS, Toulouse, France.",
-        "Univ. Lille, CHU Lille, Inserm U1190, EGID, Institut Pasteur de Lille, Lille, France.",
-        "Biotherapy Platform, CHU Lille, Lille, France.",
-        "EA 3842 Laboratory, Medicine and Pharmacy Faculties, Limoges University, Limoges, France."
-      ],
-      "doi": "10.1016/j.bbiosy.2026.100150",
-      "date": "2026-10-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926891/"
     },
     {
       "pmid": "42893561",
@@ -351,6 +351,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42916680/"
     },
     {
+      "pmid": "42928030",
+      "title": "Artificial intelligence in myeloproliferative neoplasms: From digital bone marrow pathology to clinical decision support.",
+      "abstract": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched through August 2026, supplemented by hand-searching and conference abstracts) appraises the evidence for AI applications across the MPN continuum. Artificial intelligence (AI), and its principal subfields, machine learning (ML) and deep learning (DL), learn predictive patterns directly from data rather than from explicitly programmed rules, and are increasingly suited to this multidimensional complexity. Across the MPN continuum, AI has produced substantial technical progress across several domains: automated bone marrow biopsy analysis and continuous quantification of fibrosis and megakaryocyte morphology; peripheral blood- and complete blood count-based diagnosis, including blood-based prediction of marrow fibrosis and emerging liquid-biopsy approaches; quantitative disease assessment such as spleen volume segmentation; risk stratification for survival, thrombosis, disease progression, and post-transplant outcomes; therapy response prediction; in silico drug discovery; and natural language processing for large-scale mining of electronic health records; maturity and level of validation differ markedly across these domains. External validation is increasingly reported in selected applications, though most published models to date remain confined to internal or single-cohort validation, and prospective evaluation has been reported only for blood count-based fibrosis prediction. Correspondingly, to our knowledge, no tool has yet been shown to change clinical decision-making or improve patient outcomes, and predictive performance should not be conflated with clinical utility. As multimodal data integration, foundation models, and generative approaches mature, AI has the potential to support a faster, more objective, and more personalized diagnostic and decision-making pathway in MPN.",
+      "journal": "Blood reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie Avanzate \"G.F. Ingrassia\", University of Catania, Catania, Italy; Hematology with BMT Unit, A.O.U. \"G. Rodolico-San Marco\", Catania, Italy. Electronic address: andrea.duminuco@unict.it.",
+        "Department of Haematology, Guy's and St Thomas' Hospital NHS Foundation Trust, London, UK.",
+        "Department of Hematology, IDIS University Hospital of Santiago de Compostela, Santiago de Compostela, Spain.",
+        "Department of Translational and Precision Medicine, Sapienza University, Rome, Italy.",
+        "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Istituto di Ematologia \"Seràgnoli\", Bologna, Italy.",
+        "Dipartimento di Scienze Mediche, Chirurgiche e Tecnologie Avanzate \"G.F. Ingrassia\", University of Catania, Catania, Italy; Hematology with BMT Unit, A.O.U. \"G. Rodolico-San Marco\", Catania, Italy."
+      ],
+      "doi": "10.1016/j.blre.2026.101440",
+      "date": "2026-10-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928030/"
+    },
+    {
       "pmid": "42927396",
       "title": "Retrospective Analysis of Real-World Elacestrant Use in Two Large Austrian Cancer Centers.",
       "abstract": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine therapy and CDK4/6 inhibitors. While randomized trial data from the EMERALD study demonstrated its clinical benefit, real-world evidence remains limited. We conducted a retrospective chart review of patients with HR-positive/HER2-negative MBC treated with elacestrant at two large cancer centers in Vienna, Austria. Clinical outcomes and safety were evaluated in routine clinical practice by experienced oncologists. Elacestrant demonstrated clinically meaningful efficacy in a heavily pretreated patient population of 30 patients with estrogen receptor 1 (ESR1) mutations. Median age was 65 years and the cohort was predominantly postmenopausal (86.7%). Before initiation of elacestrant, patients had received a median of two lines of endocrine therapy and one line of chemotherapy. Co-mutations of ESR1/PIK3CA were present in 33.3% of patients. Median progression-free survival (PFS) was 3.6 months (95% CI 2.96-4.24) and median overall survival was 20.2 months (95% CI 5.04-35.36). In univariate analyses, de novo metastatic disease and the presence of a single ESR1-mutated exon were associated with longer PFS, whereas the ESR1 E380Q mutation was associated with shorter PFS. Adverse events of any grade occured in 46.7% of patients. Within our cohort, a low rate of dose reductions (3.3%) was found. Subsequent therapies after elacestrant mainly consisted of antibody-drug conjugates (36.7% of patients) and chemotherapy (26.7%). In this real-world cohort, elacestrant showed effectiveness and tolerability similar to data observed in the EMERALD trial. Larger prospective real-world analyses are warranted to further validate these findings and define optimal patient selection.",
@@ -449,31 +470,39 @@
       "doi": "10.64898/2026.10.07.755430",
       "date": "2026-10-10",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926544/"
-    },
-    {
-      "pmid": "42925769",
-      "title": "A multivariate plasma biomarker model for glioblastoma exclusion: a retrospective case-control study.",
-      "abstract": "Glioblastoma (GBM) remains the most aggressive primary brain tumour, with limited diagnostic tools able to capture its molecular heterogeneity in real time. Current clinical practice relies on MRI and invasive biopsies, which are poorly suited for early or dynamic disease monitoring. Sensitive and accessible blood-based biomarkers could offer a minimally invasive alternative to aid GBM diagnosis and exclusion. In this retrospective case-control study, plasma concentrations of seven neurological and inflammatory proteins (GFAP, UCH-L1, NfL, Tau, NSE, MPO, and PMN elastase) were quantified in 72 GBM patients and 102 healthy individuals (NAB-X biobank, n = 20; Clinique Saint-Luc Bouge, n = 82, age-matched) using ultrasensitive immunoassay platforms, complemented by conventional clinical laboratory assays and standard ELISA methods. Diagnostic accuracy was evaluated through ROC analysis and logistic regression modelling, with internal validation performed by 10-fold cross-validation and bootstrap resampling. GFAP and NfL showed the highest individual discriminative performances (AUC = 0.995 and 0.957, respectively). A multivariate model integrating GFAP, NfL, Tau, NSE, MPO, and PMN elastase showed excellent discrimination between GBM and healthy controls (AUC = 0.999; sensitivity = 98.6%; specificity = 100%). The model's negative predictive value remained above 0.999 in simulated population settings, supporting its use as a potential high-sensitivity exclusion tool. This study reports the possibility of using a plasma-based multivariate biomarker framework to discriminate GBM from healthy individuals with high sensitivity, providing proof-of-concept evidence supporting the future development of a plasma-based exclusion tool. This needs validation in clinically representative symptomatic populations. By integrating astrocytic, neuronal, and inflammatory markers into a single logistic model, this approach bridges analytical precision with clinical applicability, paving the way for a minimally invasive blood test to support diagnostic rule-out in neuro-oncology.",
-      "journal": "Translational oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Clinical Pharmacology and Toxicology Research Unit, Namur Research Institute for Life Sciences, University of Namur, Namur, 5000, Belgium.",
-        "QUALIblood s.a., QUALIresearch, Liège, 4000, Belgium.",
-        "Clinical Pharmacology and Toxicology Research Unit, Namur Research Institute for Life Sciences, University of Namur, Namur, 5000, Belgium; Department of Laboratory Medicine, Clinique St-Luc Bouge, Namur, 5000, Belgium.",
-        "Department of Laboratory Medicine, Clinique St-Luc Bouge, Namur, 5000, Belgium.",
-        "Biobank, CHU UCL Namur Site Godinne, Université Catholique de Louvain, Yvoir, 5530, Belgium.",
-        "Department of Neurosurgery, CHU UCL Namur Site Godinne, Université Catholique de Louvain, Yvoir, 5530, Belgium.",
-        "Department of Oncology, CHU UCL Namur Site Godinne, Université Catholique de Louvain, Yvoir, 5530, Belgium.",
-        "Clinical Pharmacology and Toxicology Research Unit, Namur Research Institute for Life Sciences, University of Namur, Namur, 5000, Belgium; QUALIblood s.a., QUALIresearch, Liège, 4000, Belgium; Department of Biological Hematology, Centre Hospitalier Universitaire Clermont-Ferrand, Hôpital Estaing, Clermont-Ferrand, 63100, France. Electronic address: jonathan.douxfils@unamur.be."
-      ],
-      "doi": "10.1016/j.tranon.2026.103079",
-      "date": "2026-10-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925769/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42927540",
+      "date": "2026-10-25",
+      "title": "Exploratory donor-aware analysis of developmental transcriptomic trajectories in 15q13.3-deletion cortical organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927540/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Mammalian genome : official journal of the International Mammalian Genome Society，PMID 为 42927540。",
+      "report": "This descriptive, hypothesis-generating study examined whether 15q13.3-deletion cortical organoids show developmental transcriptomic differences overlapping retinoic acid (RA)-related gene-expression programs. Signatures derived from early RA exposure and prol...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42927452",
       "date": "2026-10-25",
@@ -541,31 +570,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42925769",
-      "date": "2026-10-24",
-      "title": "A multivariate plasma biomarker model for glioblastoma exclusion: a retrospective case-control study.",
-      "entity": "Biotech Research",
+      "id": "pubmed-42927948",
+      "date": "2026-10-23",
+      "title": "[Drug sensitivity analysis of monotherapy and combination therapy with Chinese and Western drugs in lung cancer organoid models].",
+      "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925769/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927948/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech",
-        "Precision Oncology"
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
-        "biotech",
-        "肿瘤"
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Translational oncology，PMID 为 42925769。",
-      "report": "Glioblastoma (GBM) remains the most aggressive primary brain tumour, with limited diagnostic tools able to capture its molecular heterogeneity in real time. Current clinical practice relies on MRI and invasive biopsies, which are poorly suited for early or dyn...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Zhonghua zhong liu za zhi [Chinese journal of oncology]，PMID 为 42927948。",
+      "report": "Objective: To construct patient-derived lung cancer organoid models and evaluate the sensitivity of the organoids to antitumor monotherapies, active components of traditional Chinese medicine (TCM) and combined regimens of Chinese and Western drugs. Methods: A...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42928030",
+      "date": "2026-10-23",
+      "title": "Artificial intelligence in myeloproliferative neoplasms: From digital bone marrow pathology to clinical decision support.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42928030/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Blood reviews，PMID 为 42928030。",
+      "report": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched thr...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -596,36 +662,6 @@
       "fact": "PubMed 记录显示该文献收录于 Breast care (Basel, Switzerland)，PMID 为 42927396。",
       "report": "Elacestrant is an oral selective estrogen receptor degrader (SERD) approved for the treatment of hormone receptor-positive (HR-positive), human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer (MBC) following progression on endocrine...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42927220",
-      "date": "2026-10-15",
-      "title": "Core needle biopsy-derived breast cancer microtumors enable functional drug-response testing for precision oncology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42927220/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42927220。",
-      "report": "To predict neoadjuvant chemotherapeutic outcomes, breast cancer organoids have been developed. However, low yields from small tissue specimens and the high cost of niche factor-enriched medium remain barriers to clinical translation. Here, breast cancer patien...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -719,36 +755,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Global medical genetics，PMID 为 42927277。",
       "report": "Patients with PD-L1-negative non-small cell lung cancer (NSCLC) often exhibit inherent PD-1 inhibitor resistance, leading to poor monotherapy efficacy and unfavorable clinical outcomes. Notably, no effective stratification biomarkers are currently available to...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42926891",
-      "date": "2026-10-11",
-      "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42926891/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials and biosystems，PMID 为 42926891。",
-      "report": "Developing physiologically relevant 3D tumor models is critical to study cell-stroma interactions driving cancer progression. In pancreatic ductal adenocarcinoma (PDAC), pancreatic stellate cells (PSCs) are key stromal actors that acquire pro-tumoral functions...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
