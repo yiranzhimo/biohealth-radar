@@ -4,138 +4,33 @@
   "asOfDate": "2026-10-27",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-440bc0157f69aa23",
-      "observedName": "Cooperación Listo Maní+, S.A.",
-      "normalizedName": "cooperación listo maní s a",
+      "id": "mention-clinicaltrials-30defb4d547dac06",
+      "observedName": "Chongqing Kingbiotech Co.,Ltd",
+      "normalizedName": "chongqing kingbiotech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07804667",
-      "sourceDate": "2026-10-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07804667",
+      "sourceRecordId": "NCT06246630",
+      "sourceDate": "2024-05-16",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246630",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Clinical Trials",
-        "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Pilot Study of a Modified Therapeutic Food Compared With a Standard Nutrient Supplement in Young Children in Rural Guatemala"
-    },
-    {
-      "id": "mention-clinicaltrials-62dbeac410581ff6",
-      "observedName": "Aduro Biotech, Inc.",
-      "normalizedName": "aduro biotech",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01675765",
-      "sourceDate": "2020-09-30",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01675765",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
+        "Advanced Disease Models",
         "Clinical Trials",
         "Oncology",
+        "Organoids",
         "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety and Efficacy of Listeria in Combination With Chemotherapy as Front-line Treatment for Malignant Pleural Mesothelioma"
-    },
-    {
-      "id": "mention-clinicaltrials-6b4708178c2cd247",
-      "observedName": "Skin Analytics Limited",
-      "normalizedName": "skin analytics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04123678",
-      "sourceDate": "2021-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04123678",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Oncology",
-        "Precision Oncology",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "DERM Health Economics Study"
-    },
-    {
-      "id": "mention-clinicaltrials-8a3b2ac40be1ba34",
-      "observedName": "Pierian Biosciences",
-      "normalizedName": "pierian biosciences",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06844136",
-      "sourceDate": "2025-02-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "Recruiting",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
-    },
-    {
-      "id": "mention-clinicaltrials-f1f5c72f91c8ca72",
-      "observedName": "Union Strong（Beijing）Technology Co.Ltd.",
-      "normalizedName": "union strong beijing technology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07749404",
-      "sourceDate": "2026-08-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07749404",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Healthcare AI",
-        "Longevity",
-        "Medical AI",
-        "Recruiting",
-        "biomarker",
         "中国",
-        "临床决策支持",
         "临床试验",
-        "医疗 AI",
-        "衰老"
+        "疾病模型",
+        "类器官",
+        "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Intelligent Microcatheter Shaping for Intracranial Aneurysm Coil Embolization"
+      "contextTitle": "In Vitro Organoid Drug Sensitivity-Guided Treatment for Advanced Pancreatic Neuroendocrine Tumor"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
