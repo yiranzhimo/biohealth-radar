@@ -1,72 +1,30 @@
 {
-  "capturedAt": "2026-10-26T22:43:42.776663+00:00",
+  "capturedAt": "2026-10-27T05:12:58.363994+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42932496",
-      "responseId": "resp_055cb37b69c6fbb2006adfd79f8d4c87d1bb9ffaf08117e9af",
+      "signalId": "pubmed-42933758",
+      "responseId": "resp_0fd4f09fdd9e482c006ae032db309487d2845bf2140cf63662",
       "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号整体一致，符合发布标准。",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "论文报告了Ginsenoside Rh2在心肌梗死后心衰中的潜在作用，但尚无明确的结论和必要的质量评估。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别合理，符合文献主题。"
+          "isSupported": false,
+          "notesCn": "研究质量未被评估，分类结果可能存在偏差。"
         },
         "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适中，信息分离清晰。"
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "报告的内容和推断未明确分隔，证据级别不合适。"
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42932496。",
-          "report": "In line with the Food and Drug Administration's (FDA's) initiative to reduce, refine, and potentially replace animal testing in drug development through New Approach Methodologies, including toxicity testing, cancer organoids are emerging as human-relevant platforms.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42932119",
-      "responseId": "resp_02b56cb736c3de2f006adfd7a48b7887d190ca750274a25972",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需人工审查以纠正未明确的证据水平和研究质量判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "初步的分类不符合研究标题所暗示的高标准，证据水平仅为低。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献来源无法支持所声明的证据水平。"
-        },
-        "riskFlags": [
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -76,126 +34,89 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42932119。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42932116",
-      "responseId": "resp_09787f1ab442916c006adfd7a9c1dc87d1948d18a13b8c5e1e",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录合理，信息清晰，未做出临床结论或治疗推荐。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Annals of surgical oncology，PMID 为 42932116。",
-          "report": "Responses to chemotherapeutic agents vary substantially among patients with bladder cancer. The lack of preclinical models that accurately predict the clinical efficacy of intravesical chemotherapy remains a major barrier to precision oncology. In this prospec...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42931829",
-      "responseId": "resp_0a94d97eb0538b26006adfd7b0591087d1b063ef5b3fec8d0b",
-      "review": {
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，存在潜在的临床结论或分类支持不充分的问题。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "初步分类未能充分反映研究质量。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据等级为中等，但未充分支持该分类。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Medical oncology (Northwood, London, England)，PMID 为 42931829。",
-          "report": "Glioblastoma (GBM) is the most common malignant tumor of the adult central nervous system and is associated with an extremely poor prognosis. Despite standard-of-care treatment, including surgery, radiotherapy, and chemotherapy, mortality rates remain high, hi...",
+          "fact": "PubMed 记录显示该文献收录于 European journal of pharmacology，PMID 为 42933758。",
+          "report": "Myocardial fibrosis and oxidative stress are key drivers of post-myocardial infarction heart failure (post-MI HF). Ginsenoside Rh2 (GRh2) has shown cardioprotective potential, but its role in post-MI HF and the underlying mechanism remain unclear.",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42931826",
-      "responseId": "resp_0a3076414cc0dae5006adfd7b4b1dc87d1b41999e84e541d2e",
+      "signalId": "pubmed-42933691",
+      "responseId": "resp_07d36a1cb58066b7006ae032e05ad887d2ad9c694729d7f3c6",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "文献摘要中含有未验证的临床结论，需人工审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "文献摘要中的临床适用性存疑，分类不支持。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别评估为中等，但文献中临床适用性不明确，因此需更高证据级别支持。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "High",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42933691。",
+          "report": "Patient-derived organoids (PDO) are three-dimensional cultures established from cancer tissues. While PDOs can replicate morphology and drug sensitivity of cancer from given patients, their clinical applicability is limited by their lack of integration in clin...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42933394",
+      "responseId": "resp_031be270f27f9c50006ae032e6610c87d2af97995332b07d31",
       "review": {
         "status": "pass",
         "confidence": 0.85,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布要求，分类和证据水平合理，信息清晰分离。",
+        "reviewSummaryCn": "该文献讨论了人脑细胞异种移植模型的应用，但未做出未支持的临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": ""
+          "notesCn": "分类合理，符合文献主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "报告和推断清晰分开，证据等级合理。"
         },
         "riskFlags": [
-          "clinical_claim"
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -209,243 +130,33 @@
             "类器官",
             "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Emerging microbes & infections，PMID 为 42931826。",
-          "report": "AbstractHuman adenoviruses (HAdVs) are common respiratory pathogens that cause severe, life-threatening infections in immunocompromised individuals and children. Despite their medical importance, no clinically approved antiviral drugs exist. Here, we showed th...",
+          "fact": "PubMed 记录显示该文献收录于 Immunity，PMID 为 42933394。",
+          "report": "Human brain cellular xenograft (HBCX) models are emerging as a platform to study human brain physiology and pathology in vivo. HBCXs involve transplanting human pluripotent stem cell-derived neurons, glia, or organoids into immunodeficient mice to model human...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42929592",
-      "responseId": "resp_0dba7554258b8f22006adfd7b8c05887d190cb6cc12e92fa99",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录符合标准，内容明确且无治疗建议或不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主要类别和子类别符合源领域。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已清楚分开。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Multi-omics"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42929592。",
-          "report": "In recent years, deep generative models have been increasingly adopted for molecular optimization and design. In many such models, molecules are encoded into latent spaces that provide compact representations of their features. However, these latent spaces rem...",
-          "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42932791",
-      "responseId": "resp_0187b1965f9e67fb006adfd7bd197c87d18318508f7e10b2ff",
-      "review": {
-        "status": "pass",
-        "confidence": 0.8,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献提供了关于乳腺癌相关miRNA检测的新型传感器的信息，分类和证据水平合理，且信息明确分隔。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "文献分类合理，符合诊断和精准医疗的主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告与事实分离明确，证据水平被合理评估为中等。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42932791。",
-          "report": "Early and sensitive detection of breast cancer biomarkers is essential for improving patient prognosis, yet rapid and amplification-free analysis of low-abundance circulating miRNAs remains challenging. Herein, we report a CRISPR/Cas13a-regulated surface-enhanced...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42932296",
-      "responseId": "resp_06f49ffe601328b6006adfd7c1699887d1a2d9882f7c4a7dc5",
+      "signalId": "pubmed-42933333",
+      "responseId": "resp_003669c14153f5e0006ae032eb202487d285728512919f7ac8",
       "review": {
         "status": "needs_human",
-        "confidence": 0.75,
+        "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查，因为报告中提到FDA批准的信息和临床结论需谨慎处理。",
+        "reviewSummaryCn": "该文献讨论了与神经发育障碍相关的体细胞突变，但存在可能的临床推论，需要人类审查以确保准确性和中立性。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，支持该文献主题。"
+          "isSupported": false,
+          "notesCn": "虽然类别和证据水平部分合理，但需要更明确的数据支持以验证研究质量和结果。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "文献的有效性水平被评估为中等，但可以支持的证据不足以支持关键结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 PloS one，PMID 为 42932296。",
-          "report": "On June 12, 2026, the US Food and Drug Administration (FDA) approved capivasertib (Truqap; AstraZeneca) in combination with abiraterone and prednisone for adult patients with metastatic androgen pathway modulation-naive or -sensitive (mAPMN/S) prostate cancer,...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42931874",
-      "responseId": "resp_016f846a6cfc4f1c006adfd7c8b19087d19a5b33ca067f7f85",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此条信号的分类和证据水平合理，信息分离清晰，无不支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
+          "notesCn": "虽然事实和报告部分明确，但推论似乎暗示了临床应用，未充分支持。"
         },
         "riskFlags": [
           "clinical_claim",
           "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Mikrochimica acta，PMID 为 42931874。",
-          "report": "A target-driven DNA walker photothermal sensor based on Sn-doped carbon dots loaded onto N-doped nanoporous carbon (Sn-CDs/NPC) was constructed for highly sensitive detection of prostate cancer cells LNCaP. Fe3O4@Apt/S3 served as a capture unit to specifically...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42931764",
-      "responseId": "resp_0da0f7f39bef8366006adfd7ce1db887d1baea851128c579f8",
-      "review": {
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献适合发布，信息清晰且没有临床建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "研究方向与分类一致，支持精准医疗和诊断领域。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献来源可靠，适宜的证据水平。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Endocrine reviews，PMID 为 42931764。",
-          "report": "Paraneoplastic syndromes (PNS) represent uncommon but clinically significant manifestations of neuroendocrine neoplasms (NENs) arising from ectopic hormone secretion, aberrant peptide processing, cytokine-mediated effects, or immune-mediated mechanisms. Although...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42931718",
-      "responseId": "resp_0a1f3dac6121d9d8006adfd7d2abb087d19924b90578b943e8",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该卡片信息清晰，符合出版要求。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平合理，事实、报告和推断分开明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -454,130 +165,81 @@
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology"
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤"
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Toxics，PMID 为 42931718。",
-          "report": "Antibody-drug conjugates (ADCs) represent a rapidly advancing class of biological drugs used for cancer treatment. The integration of monoclonal antibodies, connected via chemical linkers, ensures the targeting potential of small-molecule payloads with cytotox...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Current opinion in genetics & development，PMID 为 42933333。",
+          "report": "Somatic mosaicism, the presence of genetically distinct cell populations within a single individual, has emerged as a key driver of human brain diversity and pathology. Originally associated with focal epilepsies and malformations of cortical development, rece...",
+          "inference": "该文献的分类可能暗示研究具有临床意义，需审查以确保中立。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42930128",
-      "responseId": "resp_0bba2122d9d4d641006adfd7d7fd1087d1bbd2c910ddd2640a",
-      "review": {
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "记录符合发布标准，未包含临床建议或未支持的结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合领域及主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平适中，信息来源良好。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "Virtual Cell / Cell Foundation Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Virtual Cell",
-            "AI for Biology",
-            "Multi-omics",
-            "Clinical Evidence",
-            "Regulatory Watch"
-          ],
-          "tags": [
-            "虚拟细胞",
-            "细胞基础模型",
-            "多组学",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biosensors，PMID 为 42930128。",
-          "report": "Single-cell RNA sequencing has supplied cell atlases and artificial intelligence (AI)-enabled virtual-cell models with scalable, gene-level descriptions of cellular state. Yet prevalent poly(A)-based counting assays capture only part of the RNA landscape. Here...",
-          "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "signalId": "pubmed-42931112",
-      "responseId": "resp_003b56dc8c368d51006adfd7dc50b887d18f6d7caa5a8e48aa",
+      "signalId": "pubmed-42933106",
+      "responseId": "resp_08235013fb1f5ee8006ae032f19b0487d28474c8e6ada90d7e",
       "review": {
         "status": "needs_human",
-        "confidence": 0.75,
+        "confidence": 0.7,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "此卡片需要人工审核，因为存在关于研究质量和临床结论的未确定因素。 ",
+        "reviewSummaryCn": "文献总结提供了研究发现的报告，但未明确研究质量和临床意义，存在未验证的结论。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，适用于提供的信息。"
+          "isSupported": false,
+          "notesCn": "所提供的分类与实际报告的内容不完全对应，需进一步审查。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "文献证据水平被评估为中等，但缺乏足够的信息来支持此评价。"
+          "notesCn": "证据级别被认为不合理，尽管报告已分开。"
         },
         "riskFlags": [
-          "commercial_claim",
-          "insufficient_source"
+          "weak_classification",
+          "commercial_claim"
         ],
         "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
           "evidenceLevel": "Medium",
           "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
           ],
           "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
+            "类器官",
+            "疾病模型",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Non-coding RNA，PMID 为 42931112。",
-          "report": "Skin-derived extracellular nucleic acids-particularly non-coding RNAs (ncRNAs) such as miRNAs and lncRNAs-are a rapidly evolving frontier in molecular diagnostics. These molecules are present in skin tissue, dermal interstitial fluid, and sweat, whilst ncRNAs...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 EBioMedicine，PMID 为 42933106。",
+          "report": "Alcohol use disorder (AUD) drives intestinal barrier dysfunction, endotoxemia, and liver injury, yet the epithelial mechanisms remain undefined. Autophagy and lysosomes maintain intestinal epithelial homoeostasis and barrier integrity, but their response to ch...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42932845",
-      "responseId": "resp_0f14de07a714a952006adfd7e1c97c87d1b1f5588300f63b1b",
+      "signalId": "pubmed-42933412",
+      "responseId": "resp_0722d5557cb9c321006ae032f7a68087d2b1fda2a2c662ebe6",
       "review": {
         "status": "pass",
         "confidence": 0.95,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该条记录符合发布要求，信息准确且无临床结论。",
+        "reviewSummaryCn": "该文献在组织和分类上合理，未涉及临床建议或未证实的疗效结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
+          "notesCn": "分类与提供的元数据一致，具有逻辑支持。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "证据水平中等，来源可靠。"
+          "notesCn": "事实、报告和推论之间的区分清晰，证据水平中等符合内容。"
         },
         "riskFlags": [
-          "weak_classification"
+          "commercial_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "AI Drug Discovery",
@@ -586,62 +248,103 @@
           "themes": [
             "AI for Biology",
             "Drug Discovery",
-            "Multi-omics"
+            "Precision Oncology"
           ],
           "tags": [
             "AI 制药",
             "蛋白设计",
             "分子生成",
-            "多组学"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42932845。",
-          "report": "Designing amino acid sequences that uniquely fold into target three-dimensional conformations defines the protein inverse folding problem, a formidable bottleneck in de novo protein design. Current computational paradigms, including deep learning-based approac...",
+          "fact": "PubMed 记录显示该文献收录于 Cell chemical biology，PMID 为 42933412。",
+          "report": "Small protein scaffolds enable precise targeting but often rely on flexible linkers that increase conformational heterogeneity and immunogenic liabilities. Here we develop Chimeraffibodies (CABs), a linker-free bispecific scaffold class that encodes interdomain...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42932556",
-      "responseId": "resp_06422f685ca43bf9006adfd7e779c887d1ab6df778591f7f45",
+      "signalId": "pubmed-42934010",
+      "responseId": "resp_096dcd1c9836e754006ae032fe60d087d2a5e7e5db2846c99d",
       "review": {
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献摘要包含无助于临床的推断，需人工审查。",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录内独立地报告了一项关于胸腺上皮肿瘤的研究，未涉及临床建议或未经支持的结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类符合文献内容。"
+          "notesCn": "主要类别和证据级别合理，与提供的元数据相符。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平过于模糊，无法支持临床影响推断。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论已明确分开."
         },
         "riskFlags": [
           "clinical_claim",
-          "regulatory_claim"
+          "diagnosis",
+          "precision_medicine"
         ],
         "suggestedEdits": {
           "primaryCategory": "Diagnostics & Precision Medicine",
           "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Low",
+          "evidenceLevel": "High",
           "themes": [
             "Diagnostics",
             "Precision Medicine",
-            "Clinical Evidence",
-            "Regulatory Watch"
+            "Precision Oncology"
           ],
           "tags": [
             "诊断",
             "精准医疗",
-            "临床",
-            "监管"
+            "肿瘤"
           ],
-          "fact": "PubMed 记录显示该文献收录于 NEJM AI，PMID 为 42932556。",
-          "report": "AbstractHematoxylin and eosin-stained tissue analysis has remained the global foundation of diagnostic pathology since the 19th century, and recent advances in artificial intelligence (AI) now enable the extraction of clinical and molecular insights from routi...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态信息不足。"
+          "fact": "PubMed 记录显示该文献收录于 Revue des maladies respiratoires，PMID 为 42934010。",
+          "report": "In the absence of randomized phase III trial data, thymic epithelial tumors (TETs) are rare malignancies of the prevascular mediastinum managed according to the WHO histological and the Masaoka-Koga classifications. Next-generation sequencing has revealed dist...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42934002",
+      "responseId": "resp_06762607730ad96a006ae03304217887d2a42ad6c60ecbf445",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片存在对研究质量和临床结论的未确定性，需要人工审查。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类适当，但未指定研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别为中等，但未明确支持的临床结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Urologic oncology，PMID 为 42934002。",
+          "report": "Penile squamous cell carcinoma (PSCC) is highly prevalent in low- and middle-income countries and is associated with significant rates of morbidity and mortality. Lymph node involvement is the most critical predictor of survival, making management approaches e...",
+          "inference": "分类仅用于情报分流，不代表研究质量或临床结论。具体临床应用需进一步验证。",
+          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态待评估。"
         }
       }
     }
