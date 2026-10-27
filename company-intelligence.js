@@ -60703,7 +60703,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-candidate-opus-genetics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11409872"
+            "sourceUrl": "https://reporter.nih.gov/project-details/11405186"
           }
         ],
         "inferences": [],
@@ -60734,7 +60734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-opus-genetics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11409872"
+          "sourceUrl": "https://reporter.nih.gov/project-details/11405186"
         }
       ]
     },
