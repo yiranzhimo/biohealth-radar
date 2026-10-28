@@ -5137,15 +5137,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-d5b878c0b10a",
+      "id": "evidence-company-arvinas-official-a0ef0aba1601",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-10-14",
-      "snapshotDate": "2026-10-14",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -5161,7 +5161,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash d5b878c0b10af4bee77a1cf9dca741b513dcdfe9d536df0f2e6f690e2e1c6ed9.",
+      "fact": "The official page was captured with normalized-content hash a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -5174,14 +5174,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "d5b878c0b10af4bee77a1cf9dca741b513dcdfe9d536df0f2e6f690e2e1c6ed9",
-      "changeType": "unchanged",
+      "contentHash": "a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
         "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
         "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-        "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform."
+        "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation"
       ],
       "businessExcerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -5700,15 +5700,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-calico-official-9be876fad9b5",
+      "id": "evidence-company-calico-official-bce445e38a29",
       "signalId": null,
       "companyIds": [
         "calico"
       ],
-      "publishedAt": "2026-10-24",
-      "snapshotDate": "2026-10-24",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Home - Calico",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Calico Life Sciences — Official Website",
@@ -5724,7 +5724,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9be876fad9b5935c16b7cf406130b9f54f708ba45e0a7d5297488dc1ee06b24a.",
+      "fact": "The official page was captured with normalized-content hash bce445e38a29c0bdfcbeecb6cc34e2f9ce9ef6304a03f503e9a9125568f0d58d.",
       "report": "公司官方页面表述：我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
       "reportOriginal": "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
       "reportCn": "我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
@@ -5737,14 +5737,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9be876fad9b5935c16b7cf406130b9f54f708ba45e0a7d5297488dc1ee06b24a",
-      "changeType": "unchanged",
+      "contentHash": "bce445e38a29c0bdfcbeecb6cc34e2f9ce9ef6304a03f503e9a9125568f0d58d",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
+        "CAMOLE: An Integrated Machine Learning Platform for Therapeutic Peptide Development",
         "Calico is working to better understand the biology of aging and using those insights to advance foundational discoveries into potential medicines that enable people to lead longer and healthier lives.",
-        "Our progress is charted in high-quality publications, our many collaborations and the expanding pipeline of early- and clinical-stage compounds that target diseases commonly linked with aging.",
-        "Learn more about our clinical programs and ongoing studies."
+        "Our progress is charted in high-quality publications, our many collaborations and the expanding pipeline of early- and clinical-stage compounds that target diseases commonly linked with aging."
       ],
       "businessExcerpts": [
         "Learn more about our clinical programs and ongoing studies.",
@@ -5754,9 +5754,9 @@
       ],
       "productExcerpts": [
         "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
+        "CAMOLE: An Integrated Machine Learning Platform for Therapeutic Peptide Development",
         "Our progress is charted in high-quality publications, our many collaborations and the expanding pipeline of early- and clinical-stage compounds that target diseases commonly linked with aging.",
-        "Learn how we collaborate with scientific and industry partners to advance research and drug development",
-        "Find out about Calico’s growing portfolio of new therapy programs"
+        "Learn how we collaborate with scientific and industry partners to advance research and drug development"
       ],
       "planExcerpts": []
     },
@@ -47887,15 +47887,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-emulate-official-24a08e52e0f4",
+      "id": "evidence-company-emulate-official-f5f5bde8e819",
       "signalId": null,
       "companyIds": [
         "emulate"
       ],
-      "publishedAt": "2026-10-10",
-      "snapshotDate": "2026-10-10",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Emulate | Organ-Chips for Research & Development",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Emulate — Official Website",
@@ -47911,7 +47911,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 24a08e52e0f4669f5362c7c4cfbcd400d2061dc27dc14638fb3cfe086352b7ff.",
+      "fact": "The official page was captured with normalized-content hash f5f5bde8e81987ac4a755947332d049a06294f1b481917cfffac337618802164.",
       "report": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
       "reportOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "reportCn": "下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
@@ -47924,8 +47924,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "24a08e52e0f4669f5362c7c4cfbcd400d2061dc27dc14638fb3cfe086352b7ff",
-      "changeType": "unchanged",
+      "contentHash": "f5f5bde8e81987ac4a755947332d049a06294f1b481917cfffac337618802164",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
@@ -48266,15 +48266,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-cdd3df2ff89e",
+      "id": "evidence-company-illumina-official-276ec0a2d6af",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-21",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -48290,7 +48290,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash cdd3df2ff89ebfeaa1a37ed8835e49b3c42eff43e00c8ce35b19ba60f5a5f828.",
+      "fact": "The official page was captured with normalized-content hash 276ec0a2d6af5c5778a72fccb87c2c7a66c244a376a162a6de0cb656021cf338.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -48303,8 +48303,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "cdd3df2ff89ebfeaa1a37ed8835e49b3c42eff43e00c8ce35b19ba60f5a5f828",
-      "changeType": "unchanged",
+      "contentHash": "276ec0a2d6af5c5778a72fccb87c2c7a66c244a376a162a6de0cb656021cf338",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -48826,15 +48826,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-a50d95dafb07",
+      "id": "evidence-company-legend-biotech-official-a281b2e81ad6",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-16",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -48850,7 +48850,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a50d95dafb07184f608134bceace2d9a762a31da058a852f232f9e9de537664d.",
+      "fact": "The official page was captured with normalized-content hash a281b2e81ad61220641058cfc3b1e25682bb859dd0dc3cab06e5f6d94c1b3254.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -48863,8 +48863,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a50d95dafb07184f608134bceace2d9a762a31da058a852f232f9e9de537664d",
-      "changeType": "unchanged",
+      "contentHash": "a281b2e81ad61220641058cfc3b1e25682bb859dd0dc3cab06e5f6d94c1b3254",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -48937,15 +48937,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-mimetas-official-f9a42b3eb390",
+      "id": "evidence-company-mimetas-official-bde1c6a770ee",
       "signalId": null,
       "companyIds": [
         "mimetas"
       ],
-      "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-21",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -48961,7 +48961,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f9a42b3eb3907c1e0c7518fdbce3e73e03dfe40d7fa672db0e75fc4d690e829e.",
+      "fact": "The official page was captured with normalized-content hash bde1c6a770ee2e55231003d587b211a502d2f5dcc575327b09a2ca017d5c67e1.",
       "report": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
       "reportOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "reportCn": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
@@ -48974,17 +48974,18 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f9a42b3eb3907c1e0c7518fdbce3e73e03dfe40d7fa672db0e75fc4d690e829e",
-      "changeType": "unchanged",
+      "contentHash": "bde1c6a770ee2e55231003d587b211a502d2f5dcc575327b09a2ca017d5c67e1",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
         "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
         "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-        "Science Organ Models Vasculature Liver Gut Kidney Blood brain barrier Nervous System Research Areas Oncology Immunology Metabolic Diseases ADME/Toxicity"
+        "Read about our latest research, developments and launches."
       ],
       "businessExcerpts": [
-        "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties."
+        "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
+        "Read about our latest research, developments and launches."
       ],
       "productExcerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -49268,15 +49269,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-803ef9314eca",
+      "id": "evidence-company-natera-official-ff0390184a7a",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-19",
-      "snapshotDate": "2026-10-19",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -49292,7 +49293,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 803ef9314eca41633ae4766ae52f425777552edab44c0c33d53816f740ad4772.",
+      "fact": "The official page was captured with normalized-content hash ff0390184a7add6c057c6f809f2c3b274e38e869f02662212fcccf9fee58fa59.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -49305,14 +49306,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "803ef9314eca41633ae4766ae52f425777552edab44c0c33d53816f740ad4772",
-      "changeType": "unchanged",
+      "contentHash": "ff0390184a7add6c057c6f809f2c3b274e38e869f02662212fcccf9fee58fa59",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
+        "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-        "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
-        "Natera’s Signatera™ MRD Test Named to TIME’s List of the Best Inventions of 2026",
-        "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer"
+        "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
+        "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -49943,15 +49944,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-retro-biosciences-official-f22baaf09fc1",
+      "id": "evidence-company-retro-biosciences-official-9a3581ee2444",
       "signalId": null,
       "companyIds": [
         "retro-biosciences"
       ],
-      "publishedAt": "2026-10-24",
-      "snapshotDate": "2026-10-24",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Retro Biosciences",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Retro Biosciences — Official Website",
@@ -49967,7 +49968,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash f22baaf09fc123d871bbdcf3aca1ce8269281806e88253a95eb5c683a8df9d9e.",
+      "fact": "The official page was captured with normalized-content hash 9a3581ee2444e13ca062de07a830d0c5ad328704a2de2bd00aed439dc86b3b12.",
       "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
@@ -49980,18 +49981,20 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f22baaf09fc123d871bbdcf3aca1ce8269281806e88253a95eb5c683a8df9d9e",
-      "changeType": "unchanged",
+      "contentHash": "9a3581ee2444e13ca062de07a830d0c5ad328704a2de2bd00aed439dc86b3b12",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
-        "Our furthest along, a drug designed to improve cellular recycling (autophagy), is in a Phase 1 trial .",
-        "We clear out old or diseased microglia and blood stem cells and put in young ones, grown from reprogrammed stem cells (iPSCs) in our own GMP facility.",
-        "Most cells can’t be swapped, so we treat them where they are, with small molecules, gene therapy, and AI-designed proteins aimed at the hallmarks of cellular aging."
+        "Our furthest along, a drug designed to improve autophagy (cellular recycling), is in a Phase 1 trial .",
+        "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing.",
+        "We clear out old or diseased microglia and blood stem cells and put in young ones, grown from reprogrammed stem cells (iPSCs) in our own GMP facility."
       ],
-      "businessExcerpts": [],
+      "businessExcerpts": [
+        "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing."
+      ],
       "productExcerpts": [
-        "Our furthest along, a drug designed to improve cellular recycling (autophagy), is in a Phase 1 trial .",
+        "Our furthest along, a drug designed to improve autophagy (cellular recycling), is in a Phase 1 trial .",
         "Most cells can’t be swapped, so we treat them where they are, with small molecules, gene therapy, and AI-designed proteins aimed at the hallmarks of cellular aging."
       ],
       "planExcerpts": []
@@ -50107,15 +50110,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-0124df51da2c",
+      "id": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-10-03",
-      "snapshotDate": "2026-10-03",
+      "publishedAt": "2026-10-28",
+      "snapshotDate": "2026-10-28",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -50131,7 +50134,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 0124df51da2c3127a877bb587232b1dafc0bce48764c1fdc98f95191c495535d.",
+      "fact": "The official page was captured with normalized-content hash d69d813ae7c5ea08ebf0997d58ba8b3dbe9a5e73b536ac9d9319ae87c5d9120e.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -50144,8 +50147,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "0124df51da2c3127a877bb587232b1dafc0bce48764c1fdc98f95191c495535d",
-      "changeType": "unchanged",
+      "contentHash": "d69d813ae7c5ea08ebf0997d58ba8b3dbe9a5e73b536ac9d9319ae87c5d9120e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
@@ -50161,6 +50164,7 @@
       ],
       "productExcerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
+        "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
         "iPS Cell-Derived Product Transportation Project"
       ],
       "planExcerpts": []
