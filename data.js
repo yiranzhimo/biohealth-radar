@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,77 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42945685",
+      "date": "2026-10-27",
+      "title": "Engineering the synovial lining-sublining architecture in a human 3D model to study macrophage-fibroblast interactions in arthritis.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42945685/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Biotech",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42945685。",
+      "report": "The synovial membrane is a key regulator of joint homeostasis, inflammation, and tissue remodeling, yet human in vitro models that reproduce its spatial organization while enabling controlled investigation of macrophage-fibroblast-like stromal cell (FLS) inter...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0fc851c0c3a8443d006ae18d39924c87d0a61d6e79bf6396a9",
+        "reviewedAt": "2026-10-28T05:50:48.797029+00:00",
+        "inputHash": "63515226273ff11ea9f5a479f1eb7152e6043cf0ef154bc0fdef59bcd97a60a7",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录中关于研究的描述清晰，未包含未支持的临床结论或安全性主张，符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理，符合元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断清晰分离，且证据水平合理。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "biotech",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Biofabrication，PMID 为 42945685。",
+          "report": "The synovial membrane is a key regulator of joint homeostasis, inflammation, and tissue remodeling, yet human in vitro models that reproduce its spatial organization while enabling controlled investigation of macrophage-fibroblast-like stromal cell (FLS) inter...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42945260",
       "date": "2026-10-27",
       "title": "An innervated and vascularized HNSCC-on-a-chip model built on defined and tunable engineered extracellular matrices.",
@@ -1114,6 +1185,77 @@ window.BHR_DATA = {
           "report": "Dual-target drug molecule generation is a significant computational challenge due to the structural constraints imposed by two protein binding pockets. Existing generative models typically rely on scarce dual-target drug datasets and struggle to capture three-...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42946309",
+      "date": "2026-10-27",
+      "title": "Prospective circulating tumour DNA surveillance in patients with early high-risk hormone receptor positive, HER2-negative breast cancer in the TRAK-ER study.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Clinical Study",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42946309/",
+      "reliability": "High",
+      "evidenceLevel": "High",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Annals of oncology : official journal of the European Society for Medical Oncology，PMID 为 42946309。",
+      "report": "CtDNA detection during adjuvant endocrine therapy (ET) strongly associates with recurrence in oestrogen receptor (ER) positive early breast cancer (EBC), with potential to direct switches in adjuvant treatment. TRAK-ER is a multicentre study for patients with...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0dc5d92175a2342f006ae18d3eb0ec87d083ce7f5beba23bc3",
+        "reviewedAt": "2026-10-28T05:50:48.797029+00:00",
+        "inputHash": "386b964d6fadb50779abceddf7ea707dc8b59c71e43af42392d745cc7be1e0ac",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审阅以判断研究质量和临床结论。此记录缺乏透明度。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持性较弱，需确定研究的临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平未能合理支持临床推断。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Clinical Studies",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤",
+            "ctDNA"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Annals of oncology : official journal of the European Society for Medical Oncology，PMID 为 42946309。",
+          "report": "CtDNA detection during adjuvant endocrine therapy (ET) strongly associates with recurrence in oestrogen receptor (ER) positive early breast cancer (EBC), with potential to direct switches in adjuvant treatment.",
+          "inference": "研究分类需更精确，以反映临床应用潜力。",
+          "unknown": "需要补充关于研究质量、样本量及其潜在的临床影响的信息。"
         }
       }
     },
@@ -1863,76 +2005,6 @@ window.BHR_DATA = {
           "report": "Background: \\- Some nerve and muscle disorders that start early in life (before age 25), like some forms of muscular dystrophy, can run in families. However, the genetic causes of these disorders are not known. Also, doctors do not fully understand how symptoms manifest.",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42943816",
-      "date": "2026-10-19",
-      "title": "Resveratrol for Post-COVID-19 Cognitive Dysfunction: From Molecular Basis to Clinical Translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42943816/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecules (Basel, Switzerland)，PMID 为 42943816。",
-      "report": "Post-COVID-19 condition can include persistent cognitive symptoms, commonly described as impaired attention, memory difficulties, slowed processing, and \"brain fog.\" Clinical and translational evidence implicates systemic inflammation, neurovascular dysfunctio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07f4e4e6eed9cfd4006ae123b9167087d2b39777da1466c41b",
-        "reviewedAt": "2026-10-27T22:20:17.763494+00:00",
-        "inputHash": "e0d81c107f326d6eeb6c651d474f220a8a93a4b6d62cd8cd7719d62b1c71cf2f",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该信号涉及临床结论，需人工审查以确认有效性和安全性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主题分类与文献内容可能不完全匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别标记为中等，但临床翻译和实验研究的相关性未充分说明。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于Molecules (Basel, Switzerland)，PMID为42943816。",
-          "report": "Post-COVID-19 condition can include persistent cognitive symptoms, commonly described as impaired attention, memory difficulties, slowed processing, and \"brain fog.\" Clinical and translational evidence implicates systemic inflammation, neurovascular dysfunction...",
-          "inference": "该研究可能探讨了与后COVID-19相关的认知障碍，但未明确研究结果或临床应用。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -3172,75 +3244,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Life (Basel, Switzerland)，PMID 为 42942291。",
           "report": "Circulating extracellular vesicle (EV)-associated particle profiles may differ between patients with melanoma and those with benign lesions. Preoperative citrated whole blood from 77 patients with clinically suspicious lesions was assessed by direct fluorescen...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42940096",
-      "date": "2026-10-09",
-      "title": "Thermal Analysis in the Diagnostics of Inflammatory and Septic Conditions.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42940096/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomedicines，PMID 为 42940096。",
-      "report": "Background/Objectives: Differentiating between inflammatory and septic purulent processes in the human body remains difficult today. A number of research techniques have emerged recently, and calorimetric investigations have shown promise in the study of malig...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_015f97827e8d6973006ae123d7d62c87d2ae40b89dad83c052",
-        "reviewedAt": "2026-10-27T22:20:17.763494+00:00",
-        "inputHash": "5fdda5f14dfa75029d9163d427f675d93e992d27394f1ecd634b829ccd90c689",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录了关于使用热分析诊断炎症和脓毒症的研究，分类合理，信息清晰。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biomedicines，PMID 为 42940096。",
-          "report": "Background/Objectives: Differentiating between inflammatory and septic purulent processes in the human body remains difficult today. A number of research techniques have emerged recently, and calorimetric investigations have shown promise in the study of malignancies.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
