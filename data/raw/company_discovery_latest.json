@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-10-28T09:42:19+00:00",
+  "capturedAt": "2026-10-28T13:05:01.109437+00:00",
   "summary": {
-    "mentionCount": 658,
-    "candidateCount": 589,
+    "mentionCount": 660,
+    "candidateCount": 591,
     "corroboratedCount": 3,
     "identifiedCount": 585,
-    "needsReviewCount": 1,
+    "needsReviewCount": 3,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 1,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,33 +20,85 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-30defb4d547dac06",
-      "observedName": "Chongqing Kingbiotech Co.,Ltd",
-      "normalizedName": "chongqing kingbiotech",
+      "id": "mention-clinicaltrials-1792793a299d305a",
+      "observedName": "Immunocore Ltd",
+      "normalizedName": "immunocore",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06246630",
-      "sourceDate": "2024-05-16",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06246630",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT03515551",
+      "sourceDate": "2022-03-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03515551",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Advanced Disease Models",
         "Clinical Trials",
         "Oncology",
-        "Organoids",
         "Precision Oncology",
-        "中国",
         "临床试验",
-        "疾病模型",
-        "类器官",
         "肿瘤"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "In Vitro Organoid Drug Sensitivity-Guided Treatment for Advanced Pancreatic Neuroendocrine Tumor"
+      "contextTitle": "Safety and Efficacy of IMCnyeso in Advanced NY-ESO-1 and/or LAGE-1A Positive Cancers"
+    },
+    {
+      "id": "mention-clinicaltrials-29306d06884e8aa7",
+      "observedName": "Nutrasource Pharmaceutical and Nutraceutical Services, Inc.",
+      "normalizedName": "nutrasource pharmaceutical and nutraceutical services",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07812792",
+      "sourceDate": "2026-10-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
+    },
+    {
+      "id": "mention-clinicaltrials-d52039ac2ce54bcc",
+      "observedName": "ReCellience15, Inc",
+      "normalizedName": "recellience15",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07812792",
+      "sourceDate": "2026-10-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43734,6 +43786,118 @@
       ]
     },
     {
+      "id": "candidate-immunocore",
+      "name": "Immunocore Ltd",
+      "aliases": [
+        "Immunocore Ltd"
+      ],
+      "normalizedName": "immunocore",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2022-03-11",
+      "lastSeenAt": "2022-03-11",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-1792793a299d305a"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2022-03-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03515551",
+          "externalId": "NCT03515551",
+          "contextTitle": "Safety and Efficacy of IMCnyeso in Advanced NY-ESO-1 and/or LAGE-1A Positive Cancers"
+        }
+      ]
+    },
+    {
+      "id": "candidate-recellience15",
+      "name": "ReCellience15, Inc",
+      "aliases": [
+        "ReCellience15, Inc"
+      ],
+      "normalizedName": "recellience15",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-10-05",
+      "lastSeenAt": "2026-10-05",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-d52039ac2ce54bcc"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-10-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
+          "externalId": "NCT07812792",
+          "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
+        }
+      ]
+    },
+    {
       "id": "candidate-accelevir-diagnostics",
       "name": "Accelevir Diagnostics, LLC",
       "aliases": [
@@ -47056,43 +47220,37 @@
       ]
     },
     {
-      "id": "candidate-chongqing-kingbiotech",
-      "name": "Chongqing Kingbiotech Co.,Ltd",
+      "id": "candidate-nutrasource-pharmaceutical-and-nutraceutical-services",
+      "name": "Nutrasource Pharmaceutical and Nutraceutical Services, Inc.",
       "aliases": [
-        "Chongqing Kingbiotech Co.,Ltd"
+        "Nutrasource Pharmaceutical and Nutraceutical Services, Inc."
       ],
-      "normalizedName": "chongqing kingbiotech",
+      "normalizedName": "nutrasource pharmaceutical and nutraceutical services",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-05-16",
-      "lastSeenAt": "2024-05-16",
+      "firstSeenAt": "2026-10-05",
+      "lastSeenAt": "2026-10-05",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Advanced Disease Models",
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "中国",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "衰老"
         ],
         "themes": [
-          "Advanced Disease Models",
+          "Biomarkers",
           "Clinical Trials",
-          "Oncology",
-          "Organoids",
-          "Precision Oncology",
-          "中国",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
           "临床试验",
-          "疾病模型",
-          "类器官",
-          "肿瘤"
+          "衰老"
         ],
         "tags": []
       },
@@ -47105,17 +47263,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-30defb4d547dac06"
+        "mention-clinicaltrials-29306d06884e8aa7"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2024-05-16",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06246630",
-          "externalId": "NCT06246630",
-          "contextTitle": "In Vitro Organoid Drug Sensitivity-Guided Treatment for Advanced Pancreatic Neuroendocrine Tumor"
+          "sourceDate": "2026-10-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
+          "externalId": "NCT07812792",
+          "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
         }
       ]
     }
