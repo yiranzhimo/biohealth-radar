@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-10-24T09:04:10+00:00",
-  "sourceCapturedAt": "2026-10-24T09:03:53+00:00",
+  "capturedAt": "2026-10-29T11:04:24+00:00",
+  "sourceCapturedAt": "2026-10-29T11:03:13+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -3284,6 +3284,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-aspen-neuroscience",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-aspire-biopharma-holdings",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4560,6 +4565,11 @@
           "companyId": "calico",
           "sourceRole": "official",
           "field": "business_summary"
+        },
+        {
+          "companyId": "calico",
+          "sourceRole": "pipeline",
+          "field": "business_summary"
         }
       ],
       "translationCn": "我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
@@ -4627,6 +4637,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0b2535da8e08e092006a7ab54417b0819db7b17cb395c03849"
+    },
+    {
+      "id": "translation-b39908e309a8a75b",
+      "sourceTextHash": "b39908e309a8a75b3ebd26d8036fde8765e81fcf6a7b608f6ee96b61f8c2db95",
+      "sourceText": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
+      "sourceUses": [
+        {
+          "companyId": "akeso",
+          "sourceRole": "official",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-10-29T11:04:24+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_06410d871f45bd9a006ae328395fcc87d1803faf5d03d136de"
     },
     {
       "id": "translation-b9665ee59f11992f",
@@ -5041,6 +5069,24 @@
       "translatedAt": "2026-10-22T09:36:10+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0ccfb3645ca0fbe3006ad9d90b078087d18c50eb3392f77f00"
+    },
+    {
+      "id": "translation-edf4f06eace36467",
+      "sourceTextHash": "edf4f06eace36467cb96c98011e87f94082c62921cad2f41ca9d503e608e46ee",
+      "sourceText": "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
+      "sourceUses": [
+        {
+          "companyId": "tempus-ai",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "Tempus 是一家技术公司，通过在医疗保健中应用人工智能，包括生成式人工智能，推动精准医学的发展，以创建智能诊断。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-10-29T11:04:24+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_06410d871f45bd9a006ae328395fcc87d1803faf5d03d136de"
     },
     {
       "id": "translation-ef28e796e61ee048",

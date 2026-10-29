@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-10-29",
   "summary": {
     "profileCount": 621,
-    "evidenceCount": 1012,
+    "evidenceCount": 1014,
     "programCandidateCount": 0,
     "companyCandidateCount": 592,
     "companyMentionCount": 661,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 621,
-    "companyReportedCount": 619,
-    "withEvidenceCount": 620,
-    "withProductClaimsCount": 511,
+    "companyReportedCount": 621,
+    "withEvidenceCount": 621,
+    "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 52,
+    "failedSourceCount": 51,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -6916,39 +6916,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Akeso宣布Summit Therapeutics和ECOG-ACRIN癌症研究小组达成II/III期临床试验合作，以评估Ivonescimab在一线胆道癌中的应用。",
-        "summaryOriginal": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
+        "summary": "公司官方页面表述：艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
+        "summaryOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform) and AI-driven pharmaceutical R&D, Tetrabody BsAb/MsAb, Dual-Shield ADC, Dual-Lock TCE, Tissue-Smart siRNA, Cell Therapy, and Flex-Nano mRNA…",
-            "text": "公司创建了一个独特的集成研发创新系统，包括全面的端到端药物开发平台（ACE平台）和基于人工智能的制药研发、四体BsAb/MsAb、双盾ADC、双锁TCE、组织智能siRNA、细胞疗法和灵活纳米mRNA…",
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
+            "textOriginal": "Founded in 2012, Akeso has built a comprehensive R&D innovation ecosystem anchored by its proprietary Tetrabody antibody technology platform, AI-powered drug R&D platform, Dual-Shield ADC technology platform, Dual-Lock T-cell engager (TCE) technology platform, Tissue-Smart…",
+            "text": "Founded in 2012, Akeso has built a comprehensive R&D innovation ecosystem anchored by its proprietary Tetrabody antibody technology platform, AI-powered drug R&D platform, Dual-Shield ADC technology platform, Dual-Lock T-cell engager (TCE) technology platform, Tissue-Smart…",
+            "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-            "text": "HK) is a biopharmaceutical company founded by a team of scientists with rich experience in global drug development and focuses on the unmet clinical needs worldwide in major diseases.",
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
-            "sourceUrl": "https://www.akesobio.com/en/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-            "text": "The Company has created a unique integrated R&D innovation system with a comprehensive end-to-end drug development platform (ACE Platform).",
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
-            "sourceUrl": "https://www.akesobio.com/en/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…",
-            "text": "Through efficient and breakthrough R&D innovation, Akeso always integrates superior global resources, develops the first-in-class and best-in-class new drugs, provides affordable therapeutic antibodies for patients worldwide, and continuously creates more commercial and social…",
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
+            "textOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
+            "text": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
+            "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6956,7 +6940,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
             "text": "Akeso宣布Summit Therapeutics和ECOG-ACRIN癌症研究小组达成II/III期临床试验合作，以评估Ivonescimab在一线胆道癌中的应用。",
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
+            "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
+            "sourceUrl": "https://www.akesobio.com/en/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
+            "text": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
+            "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6964,21 +6956,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-507deb492061"
+          "evidence-company-akeso-official-06e3f08adb0e"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-507deb492061",
-            "date": "2026-10-22",
+            "id": "event-evidence-company-akeso-official-06e3f08adb0e",
+            "date": "2026-10-29",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-507deb492061",
+            "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -6993,7 +6985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-10-22",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -7002,14 +6994,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-507deb492061",
-          "date": "2026-10-22",
+          "id": "event-evidence-company-akeso-official-06e3f08adb0e",
+          "date": "2026-10-29",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-507deb492061",
+          "evidenceId": "evidence-company-akeso-official-06e3f08adb0e",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -8457,11 +8449,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。；公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-        "summaryOriginal": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients. The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+        "summary": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。；公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
+        "summaryOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts. Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+            "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
+            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
+            "text": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
+            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "RNAi Roundtable: Brezosiran, Targeting Exon 1 of the Huntingtin Gene to Slow Progression of Huntington’s Disease",
+            "text": "RNAi Roundtable: Brezosiran, Targeting Exon 1 of the Huntingtin Gene to Slow Progression of Huntington’s Disease",
+            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Visit our social channels to learn more about the innovative work we are doing at Alnylam.",
+            "text": "Visit our social channels to learn more about the innovative work we are doing at Alnylam.",
+            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
             "text": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
@@ -8477,44 +8501,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing.",
-            "text": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing.",
-            "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam has pioneered RNA interference (RNAi) therapeutics, an innovative class of medicines that treats diseases in a different way - by silencing the genes that cause or contribute to them.",
-            "text": "Alnylam has pioneered RNA interference (RNAi) therapeutics, an innovative class of medicines that treats diseases in a different way - by silencing the genes that cause or contribute to them.",
-            "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "When RNAi therapeutics silence the genes that cause disease, the activities you love can be amplified .",
-            "text": "When RNAi therapeutics silence the genes that cause disease, the activities you love can be amplified .",
-            "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
-            "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-            "evidenceId": "evidence-company-alnylam-investor_relations-698b788f631a",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-alnylam-investor_relations-07bebc73be2a",
           "evidence-company-alnylam-official-39bb27c0bc8e",
-          "evidence-company-alnylam-investor_relations-698b788f631a",
           "evidence-company-alnylam-pipeline-77914bacd5b2",
           "evidence-sec-0001178670-000117867026000062",
           "evidence-sec-0001178670-000117867026000060"
@@ -8523,6 +8515,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "date": "2026-10-29",
+            "title": "Information and Resources for Investors | Alnylam",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "sourceUrl": "https://investors.alnylam.com/"
+          },
           {
             "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
             "date": "2026-10-24",
@@ -8533,17 +8536,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
             "sourceUrl": "https://www.alnylam.com/"
-          },
-          {
-            "id": "event-evidence-company-alnylam-investor_relations-698b788f631a",
-            "date": "2026-10-22",
-            "title": "Information and Resources for Investors | Alnylam",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-investor_relations-698b788f631a",
-            "sourceUrl": "https://investors.alnylam.com/"
           },
           {
             "id": "event-evidence-company-alnylam-pipeline-77914bacd5b2",
@@ -8591,7 +8583,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-24",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -8599,6 +8591,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-alnylam-investor_relations-07bebc73be2a",
+          "date": "2026-10-29",
+          "title": "Information and Resources for Investors | Alnylam",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+          "sourceUrl": "https://investors.alnylam.com/"
+        },
         {
           "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
           "date": "2026-10-24",
@@ -8609,17 +8612,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
           "sourceUrl": "https://www.alnylam.com/"
-        },
-        {
-          "id": "event-evidence-company-alnylam-investor_relations-698b788f631a",
-          "date": "2026-10-22",
-          "title": "Information and Resources for Investors | Alnylam",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-investor_relations-698b788f631a",
-          "sourceUrl": "https://investors.alnylam.com/"
         },
         {
           "id": "event-evidence-company-alnylam-pipeline-77914bacd5b2",
@@ -14718,64 +14710,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。；公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
-        "summaryOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics. Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+        "summary": "公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。；公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
+        "summaryOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system. Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+            "text": "Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
+            "text": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
+            "text": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
+            "text": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
-            "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
+            "text": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
-            "text": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Learn more about the Arvinas Early Career Researcher Award here .",
+            "text": "Learn more about the Arvinas Early Career Researcher Award here .",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-arvinas-official-a0ef0aba1601",
-          "evidence-company-arvinas-pipeline-8a55bb718901",
+          "evidence-company-arvinas-pipeline-a8299650c0ce",
+          "evidence-company-arvinas-official-2bef897f809f",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
           "evidence-sec-0001655759-000162828026052139"
@@ -14790,33 +14782,33 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "translation": null,
             "claimType": "Report",
             "attribution": "Arvinas — Pipeline Page",
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
             "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true
           }
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
-            "date": "2026-10-28",
+            "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
+            "date": "2026-10-29",
+            "title": "Pipeline | Arvinas",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
+          },
+          {
+            "id": "event-evidence-company-arvinas-official-2bef897f809f",
+            "date": "2026-10-29",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "evidenceId": "evidence-company-arvinas-official-2bef897f809f",
             "sourceUrl": "https://www.arvinas.com/"
-          },
-          {
-            "id": "event-evidence-company-arvinas-pipeline-8a55bb718901",
-            "date": "2026-08-25",
-            "title": "Pipeline | Arvinas",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
           },
           {
             "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -14865,7 +14857,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -14875,26 +14867,26 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
-          "date": "2026-10-28",
+          "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
+          "date": "2026-10-29",
+          "title": "Pipeline | Arvinas",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+          "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
+        },
+        {
+          "id": "event-evidence-company-arvinas-official-2bef897f809f",
+          "date": "2026-10-29",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+          "evidenceId": "evidence-company-arvinas-official-2bef897f809f",
           "sourceUrl": "https://www.arvinas.com/"
-        },
-        {
-          "id": "event-evidence-company-arvinas-pipeline-8a55bb718901",
-          "date": "2026-08-25",
-          "title": "Pipeline | Arvinas",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-pipeline-8a55bb718901",
-          "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
         },
         {
           "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -15741,7 +15733,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-aspen-neuroscience",
       "name": "Aspen Neuroscience, Inc.",
       "asOfDate": "2026-10-29",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "ASPE",
@@ -15772,40 +15764,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-aspen-neuroscience-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "date": "2026-10-29",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+          "date": "2026-10-29",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-aspen-neuroscience-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080"
+        }
+      ]
     },
     {
       "companyId": "candidate-aspira-women-s-health",
@@ -27762,17 +27811,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Learn About Targeted Protein Degradation",
-            "text": "了解靶向蛋白降解。",
-            "evidenceId": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+            "textOriginal": "Recent News C4 Therapeutics Unveils Expansion of Discovery Platform Capabilities Utilizing Target-Centric Approach to Accelerate the Identification of Novel Molecular Glue Degraders",
+            "text": "Recent News C4 Therapeutics Unveils Expansion of Discovery Platform Capabilities Utilizing Target-Centric Approach to Accelerate the Identification of Novel Molecular Glue Degraders",
+            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Recent News C4 Therapeutics Presents New Biomarker Data from the Cemsidomide Phase 1 Trial with Dexamethasone and Phase 1b Trial with Elranatamab (ELREXFIO®) in Relapsed/Refractory Multiple Myeloma at the 23rd International Myeloma Society (IMS) Annual Meeting",
-            "text": "Recent News C4 Therapeutics Presents New Biomarker Data from the Cemsidomide Phase 1 Trial with Dexamethasone and Phase 1b Trial with Elranatamab (ELREXFIO®) in Relapsed/Refractory Multiple Myeloma at the 23rd International Myeloma Society (IMS) Annual Meeting",
-            "evidenceId": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+            "textOriginal": "Learn About Targeted Protein Degradation",
+            "text": "了解靶向蛋白降解。",
+            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27780,7 +27829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
             "text": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
-            "evidenceId": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27788,7 +27837,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+          "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
           "evidence-sec-0001662579-000162828026063497",
           "evidence-sec-0001662579-000162828026055494",
           "evidence-sec-0001662579-000162828026055490"
@@ -27798,14 +27847,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
-            "date": "2026-09-27",
+            "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+            "date": "2026-10-29",
             "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
             "sourceUrl": "https://c4therapeutics.com/"
           },
           {
@@ -27854,7 +27903,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 1,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-27",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -27863,14 +27912,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
-          "date": "2026-09-27",
+          "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+          "date": "2026-10-29",
           "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-c4-therapeutics-official-ecd9c0ccbcd6",
+          "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
           "sourceUrl": "https://c4therapeutics.com/"
         },
         {
@@ -28322,15 +28371,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。；公司官方页面表述：《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
-        "summaryOriginal": "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact. Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
+        "summary": "公司官方页面表述：我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。；公司官方页面表述：我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
+        "summaryOriginal": "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact. We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
             "textOriginal": "We integrate basic research, advanced computational biology and machine learning, and drug development to move discovery toward clinical impact.",
             "text": "我们整合基础研究、先进的计算生物学和机器学习以及药物开发，将发现向临床影响推进。",
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -28338,7 +28387,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "CAMOLE: An Integrated Machine Learning Platform for Therapeutic Peptide Development",
             "text": "CAMOLE: An Integrated Machine Learning Platform for Therapeutic Peptide Development",
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -28346,7 +28395,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our progress is charted in high-quality publications, our many collaborations and the expanding pipeline of early- and clinical-stage compounds that target diseases commonly linked with aging.",
             "text": "Our progress is charted in high-quality publications, our many collaborations and the expanding pipeline of early- and clinical-stage compounds that target diseases commonly linked with aging.",
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -28354,7 +28403,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Learn how we collaborate with scientific and industry partners to advance research and drug development",
             "text": "Learn how we collaborate with scientific and industry partners to advance research and drug development",
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -28362,15 +28411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Calico is working to better understand the biology of aging and using those insights to advance foundational discoveries into potential medicines that enable people to lead longer and healthier lives.",
             "text": "Calico is working to better understand the biology of aging and using those insights to advance foundational discoveries into potential medicines that enable people to lead longer and healthier lives.",
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
-            "sourceUrl": "https://www.calicolabs.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nature Reviews Speaks with Head of Drug Discovery, Philip Kym, Ph.D., About Calico’s Translational Research and Clinical Pipeline",
-            "text": "《自然评论》与药物发现负责人Philip Kym博士讨论Calico的转化研究和临床管道。",
-            "evidenceId": "evidence-company-calico-pipeline-1f156f50e9c6",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -28378,33 +28419,33 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-calico-official-bce445e38a29",
-          "evidence-company-calico-pipeline-1f156f50e9c6"
+          "evidence-company-calico-pipeline-bce445e38a29",
+          "evidence-company-calico-official-bce445e38a29"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-calico-official-bce445e38a29",
-            "date": "2026-10-28",
+            "id": "event-evidence-company-calico-pipeline-bce445e38a29",
+            "date": "2026-10-29",
             "title": "Home - Calico",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-calico-official-bce445e38a29",
+            "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/"
           },
           {
-            "id": "event-evidence-company-calico-pipeline-1f156f50e9c6",
-            "date": "2026-08-10",
+            "id": "event-evidence-company-calico-official-bce445e38a29",
+            "date": "2026-10-28",
             "title": "Home - Calico",
             "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-calico-pipeline-1f156f50e9c6",
+            "evidenceId": "evidence-company-calico-official-bce445e38a29",
             "sourceUrl": "https://www.calicolabs.com/"
           }
         ],
@@ -28419,7 +28460,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -28428,25 +28469,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-calico-official-bce445e38a29",
-          "date": "2026-10-28",
+          "id": "event-evidence-company-calico-pipeline-bce445e38a29",
+          "date": "2026-10-29",
           "title": "Home - Calico",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-calico-official-bce445e38a29",
+          "evidenceId": "evidence-company-calico-pipeline-bce445e38a29",
           "sourceUrl": "https://www.calicolabs.com/"
         },
         {
-          "id": "event-evidence-company-calico-pipeline-1f156f50e9c6",
-          "date": "2026-08-10",
+          "id": "event-evidence-company-calico-official-bce445e38a29",
+          "date": "2026-10-28",
           "title": "Home - Calico",
           "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-calico-pipeline-1f156f50e9c6",
+          "evidenceId": "evidence-company-calico-official-bce445e38a29",
           "sourceUrl": "https://www.calicolabs.com/"
         }
       ]
@@ -37871,7 +37912,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -37879,7 +37920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -37887,7 +37928,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -37895,23 +37936,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "News Centre Snapshot about HKEX latest news and information",
-            "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "textOriginal": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
+            "text": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "textOriginal": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
+            "text": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -37919,21 +37960,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-diagens-official-0dd2a5ec14f1"
+          "evidence-company-candidate-diagens-official-7977dd0a56f0"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-diagens-official-0dd2a5ec14f1",
-            "date": "2026-10-07",
+            "id": "event-evidence-company-candidate-diagens-official-7977dd0a56f0",
+            "date": "2026-10-29",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en"
           }
         ],
@@ -37948,7 +37989,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-10-07",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -37957,14 +37998,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-diagens-official-0dd2a5ec14f1",
-          "date": "2026-10-07",
+          "id": "event-evidence-company-candidate-diagens-official-7977dd0a56f0",
+          "date": "2026-10-29",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-diagens-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-diagens-official-7977dd0a56f0",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2526&sc_lang=en"
         }
       ]
@@ -39063,54 +39104,54 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。；公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
-        "summaryOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today. Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
+        "summary": "公司官方页面表述：了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。；公司官方页面表述：下一代器官芯片技术使研究人员能够模拟生物学并预测人类反应。立即开始。",
+        "summaryOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more. Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "With its versatile modeling capabilities and 12-Chip capacity, Zoë is ideally suited for developing functional models of human biology and disease to identify and validate drug targets.",
+            "text": "With its versatile modeling capabilities and 12-Chip capacity, Zoë is ideally suited for developing functional models of human biology and disease to identify and validate drug targets.",
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Capable of 96 Organ-Chip samples per run, AVA unleashes unprecedented experimental power to rank order lead candidates and optimize the preclinical safety and efficacy of your drug candidates.",
+            "text": "Capable of 96 Organ-Chip samples per run, AVA unleashes unprecedented experimental power to rank order lead candidates and optimize the preclinical safety and efficacy of your drug candidates.",
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Learn more about Emulate Organ-Chips, the Human Emulation System, ready-to-culture BioKits, and more.",
+            "text": "了解Emulate的器官芯片、人类模拟系统、即用型培养生物套件等。",
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Explore our portfolio of sophisticated and user-friendly platforms & consumables that make it easy to get started with Organ-on-a-Chip technology.",
+            "text": "Explore our portfolio of sophisticated and user-friendly platforms & consumables that make it easy to get started with Organ-on-a-Chip technology.",
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our BioKits provide the essential components needed to create validated, functional organ models, including Organ-Chip consumables, pre-qualified human cells, and chip activation reagents.",
+            "text": "Our BioKits provide the essential components needed to create validated, functional organ models, including Organ-Chip consumables, pre-qualified human cells, and chip activation reagents.",
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
             "text": "Backed by a uniquely close collaboration with the FDA—including the first and only Organ‑Chip accepted into the ISTAND program for DILI evaluation 3 —Emulate is the partner positioned to help you meet tomorrow’s regulatory standards, accelerate development timelines, and bring…",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The future of drug development is human.",
-            "text": "The future of drug development is human.",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
-            "text": "The AVATAR Program: Modeling Human Bone Marrow Beyond Earth’s Orbit",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
-            "text": "Emulate Launches Brain-Chip R1 to Advance Neurological Drug Development, in Partnership with FUJIFILM Cellular Dynamics",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
-            "text": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response.",
-            "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
-            "sourceUrl": "https://emulatebio.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
-            "text": "Building a Human-Centric Future for Biologics Development with Organ-on-a-Chip Technology",
             "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
             "sourceUrl": "https://emulatebio.com/",
             "needsReview": true,
@@ -39119,34 +39160,34 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-emulate-official-f5f5bde8e819",
-          "evidence-company-emulate-pipeline-986c5f41e82b"
+          "evidence-company-emulate-pipeline-379202c5c9b2",
+          "evidence-company-emulate-official-f5f5bde8e819"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
+            "date": "2026-10-29",
+            "title": "Emulate Organ-Chip Products",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+            "sourceUrl": "https://emulatebio.com/products/"
+          },
+          {
             "id": "event-evidence-company-emulate-official-f5f5bde8e819",
             "date": "2026-10-28",
             "title": "Emulate | Organ-Chips for Research & Development",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
             "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
             "sourceUrl": "https://emulatebio.com/"
-          },
-          {
-            "id": "event-evidence-company-emulate-pipeline-986c5f41e82b",
-            "date": "2026-10-07",
-            "title": "Emulate Organ-Chip Products",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-emulate-pipeline-986c5f41e82b",
-            "sourceUrl": "https://emulatebio.com/products/"
           }
         ],
         "inferences": [],
@@ -39160,7 +39201,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -39169,26 +39210,26 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
+          "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
+          "date": "2026-10-29",
+          "title": "Emulate Organ-Chip Products",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-emulate-pipeline-379202c5c9b2",
+          "sourceUrl": "https://emulatebio.com/products/"
+        },
+        {
           "id": "event-evidence-company-emulate-official-f5f5bde8e819",
           "date": "2026-10-28",
           "title": "Emulate | Organ-Chips for Research & Development",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
           "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
           "sourceUrl": "https://emulatebio.com/"
-        },
-        {
-          "id": "event-evidence-company-emulate-pipeline-986c5f41e82b",
-          "date": "2026-10-07",
-          "title": "Emulate Organ-Chip Products",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-emulate-pipeline-986c5f41e82b",
-          "sourceUrl": "https://emulatebio.com/products/"
         }
       ]
     },
@@ -43008,7 +43049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures.",
             "text": "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures.",
-            "evidenceId": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+            "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
             "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -43016,7 +43057,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Stay informed with Guardant Health's Investor Relations.",
             "text": "Stay informed with Guardant Health's Investor Relations.",
-            "evidenceId": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+            "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
             "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -43024,7 +43065,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Access financial reports, upcoming events, and key updates on our mission.",
             "text": "Access financial reports, upcoming events, and key updates on our mission.",
-            "evidenceId": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+            "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
+            "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Investor Alert Options * News Quarterly Reports Annual Reports SEC Filings End of Day Stock Quote Events & Presentations",
+            "text": "Investor Alert Options * News Quarterly Reports Annual Reports SEC Filings End of Day Stock Quote Events & Presentations",
+            "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
             "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -43044,19 +43093,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://guardanthealth.com/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
-            "text": "October 5, 2026 Guardant Health COSMOS Study Published in Cancer Research Communications Validates Utility of Guardant Reveal® Liquid Biopsy Test for Predicting Recurrence in Melanoma",
-            "evidenceId": "evidence-company-guardant-health-official-1e25833c0777",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+          "evidence-company-guardant-health-investor_relations-f157425f10df",
           "evidence-company-guardant-health-official-1e25833c0777",
           "evidence-company-guardant-health-pipeline-a2e78138ba78",
           "evidence-sec-0001576280-000157628026000037",
@@ -43067,14 +43108,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-guardant-health-investor_relations-06bf2888d5b1",
-            "date": "2026-10-22",
+            "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
+            "date": "2026-10-29",
             "title": "For Investors | Guardant Health Investor Relations",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+            "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
             "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx"
           },
           {
@@ -43134,7 +43175,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-22",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43143,14 +43184,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-guardant-health-investor_relations-06bf2888d5b1",
-          "date": "2026-10-22",
+          "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
+          "date": "2026-10-29",
           "title": "For Investors | Guardant Health Investor Relations",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-guardant-health-investor_relations-06bf2888d5b1",
+          "evidenceId": "evidence-company-guardant-health-investor_relations-f157425f10df",
           "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx"
         },
         {
@@ -45356,7 +45397,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-illumina-official-276ec0a2d6af",
             "date": "2026-10-28",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45367,7 +45408,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-illumina-pipeline-3e2858fee81b",
             "date": "2026-10-22",
             "title": "Lab Instruments | Illumina",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45432,7 +45473,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-illumina-official-276ec0a2d6af",
           "date": "2026-10-28",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45443,7 +45484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-illumina-pipeline-3e2858fee81b",
           "date": "2026-10-22",
           "title": "Lab Instruments | Illumina",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52555,7 +52596,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
             "date": "2026-10-28",
             "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -52633,7 +52674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
           "date": "2026-10-28",
           "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -55881,55 +55922,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。；公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
-        "summaryOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns. Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
+        "summary": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。；公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
+        "summaryOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research. Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
-            "text": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/",
+            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
+            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
+            "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
-            "text": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/",
+            "textOriginal": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
+            "text": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
+            "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-            "text": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/",
+            "textOriginal": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
+            "text": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
+            "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
-            "text": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/",
+            "textOriginal": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
+            "text": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
+            "sourceUrl": "https://www.mimetas.com/technology",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
+            "text": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
+            "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Read about our latest research, developments and launches.",
             "text": "Read about our latest research, developments and launches.",
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "evidenceId": "evidence-company-mimetas-pipeline-77204469585c",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
             "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
             "claimType": "Report"
@@ -55937,34 +55978,34 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-mimetas-official-bde1c6a770ee",
-          "evidence-company-mimetas-pipeline-77204469585c"
+          "evidence-company-mimetas-pipeline-02c34f2b1653",
+          "evidence-company-mimetas-official-bde1c6a770ee"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
-            "date": "2026-10-28",
-            "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/"
-          },
-          {
-            "id": "event-evidence-company-mimetas-pipeline-77204469585c",
-            "date": "2026-10-22",
+            "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
+            "date": "2026-10-29",
             "title": "Organ-on-a-Chip Technology | OrganoPlate® Platform by MIMETAS",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-pipeline-77204469585c",
+            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
             "sourceUrl": "https://www.mimetas.com/technology"
+          },
+          {
+            "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
+            "date": "2026-10-28",
+            "title": "Human Tissue Models for Advanced Drug Discovery",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
+            "sourceUrl": "https://www.mimetas.com/"
           }
         ],
         "inferences": [],
@@ -55978,7 +56019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -55987,26 +56028,26 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
-          "date": "2026-10-28",
-          "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-          "sourceUrl": "https://www.mimetas.com/"
-        },
-        {
-          "id": "event-evidence-company-mimetas-pipeline-77204469585c",
-          "date": "2026-10-22",
+          "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
+          "date": "2026-10-29",
           "title": "Organ-on-a-Chip Technology | OrganoPlate® Platform by MIMETAS",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-pipeline-77204469585c",
+          "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
           "sourceUrl": "https://www.mimetas.com/technology"
+        },
+        {
+          "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
+          "date": "2026-10-28",
+          "title": "Human Tissue Models for Advanced Drug Discovery",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
+          "sourceUrl": "https://www.mimetas.com/"
         }
       ]
     },
@@ -57814,7 +57855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-natera-official-ff0390184a7a",
             "date": "2026-10-28",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -57890,7 +57931,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-natera-official-ff0390184a7a",
           "date": "2026-10-28",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -59158,7 +59199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nurix-pipeline-aefedb6a65da",
             "date": "2026-10-22",
             "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59234,7 +59275,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nurix-pipeline-aefedb6a65da",
           "date": "2026-10-22",
           "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -61027,7 +61068,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
             "date": "2026-10-22",
             "title": "Oxford Nanopore Technologies Platform Solution",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -61069,7 +61110,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
           "date": "2026-10-22",
           "title": "Oxford Nanopore Technologies Platform Solution",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -63952,7 +63993,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
             "date": "2026-10-22",
             "title": "Recursion's Drug Discovery Pipeline | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64030,7 +64071,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
           "date": "2026-10-22",
           "title": "Recursion's Drug Discovery Pipeline | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -64890,7 +64931,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our furthest along, a drug designed to improve autophagy (cellular recycling), is in a Phase 1 trial .",
             "text": "Our furthest along, a drug designed to improve autophagy (cellular recycling), is in a Phase 1 trial .",
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
             "claimType": "Report"
@@ -64898,7 +64939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Most cells can’t be swapped, so we treat them where they are, with small molecules, gene therapy, and AI-designed proteins aimed at the hallmarks of cellular aging.",
             "text": "Most cells can’t be swapped, so we treat them where they are, with small molecules, gene therapy, and AI-designed proteins aimed at the hallmarks of cellular aging.",
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
             "claimType": "Report"
@@ -64906,7 +64947,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
             "text": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
             "claimType": "Report"
@@ -64914,7 +64955,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing.",
             "text": "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing.",
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
             "claimType": "Report"
@@ -64922,15 +64963,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We clear out old or diseased microglia and blood stem cells and put in young ones, grown from reprogrammed stem cells (iPSCs) in our own GMP facility.",
             "text": "We clear out old or diseased microglia and blood stem cells and put in young ones, grown from reprogrammed stem cells (iPSCs) in our own GMP facility.",
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
-            "sourceUrl": "https://www.retro.bio/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
-            "text": "In the US, about 90% of healthcare spending goes to chronic disease, and age is the biggest risk factor for most of it.",
-            "evidenceId": "evidence-company-retro-biosciences-pipeline-971d76784d6a",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/",
             "needsReview": true,
             "claimType": "Report"
@@ -64938,33 +64971,33 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-retro-biosciences-official-9a3581ee2444",
-          "evidence-company-retro-biosciences-pipeline-971d76784d6a"
+          "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
+          "evidence-company-retro-biosciences-official-9a3581ee2444"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-retro-biosciences-official-9a3581ee2444",
-            "date": "2026-10-28",
+            "id": "event-evidence-company-retro-biosciences-pipeline-9a3581ee2444",
+            "date": "2026-10-29",
             "title": "Retro Biosciences",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+            "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/"
           },
           {
-            "id": "event-evidence-company-retro-biosciences-pipeline-971d76784d6a",
-            "date": "2026-10-22",
-            "title": "Retro Biosciences | Healthy Human Lifespan",
-            "eventType": "Official Source Update",
+            "id": "event-evidence-company-retro-biosciences-official-9a3581ee2444",
+            "date": "2026-10-28",
+            "title": "Retro Biosciences",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-retro-biosciences-pipeline-971d76784d6a",
+            "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
             "sourceUrl": "https://www.retro.bio/"
           }
         ],
@@ -64979,7 +65012,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -64988,25 +65021,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-retro-biosciences-official-9a3581ee2444",
-          "date": "2026-10-28",
+          "id": "event-evidence-company-retro-biosciences-pipeline-9a3581ee2444",
+          "date": "2026-10-29",
           "title": "Retro Biosciences",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
+          "evidenceId": "evidence-company-retro-biosciences-pipeline-9a3581ee2444",
           "sourceUrl": "https://www.retro.bio/"
         },
         {
-          "id": "event-evidence-company-retro-biosciences-pipeline-971d76784d6a",
-          "date": "2026-10-22",
-          "title": "Retro Biosciences | Healthy Human Lifespan",
-          "eventType": "Official Source Update",
+          "id": "event-evidence-company-retro-biosciences-official-9a3581ee2444",
+          "date": "2026-10-28",
+          "title": "Retro Biosciences",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-retro-biosciences-pipeline-971d76784d6a",
+          "evidenceId": "evidence-company-retro-biosciences-official-9a3581ee2444",
           "sourceUrl": "https://www.retro.bio/"
         }
       ]
@@ -68421,7 +68454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68429,7 +68462,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
             "text": "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68437,7 +68470,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68445,7 +68478,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68453,7 +68486,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68461,7 +68494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68469,33 +68502,33 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
-          "evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc"
+          "evidence-company-sumitomo-pharma-official-43968f061605",
+          "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-d69d813ae7c5",
-            "date": "2026-10-28",
+            "id": "event-evidence-company-sumitomo-pharma-official-43968f061605",
+            "date": "2026-10-29",
             "title": "Sumitomo Pharma Co., Ltd.",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
-            "id": "event-evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
-            "date": "2026-10-07",
+            "id": "event-evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+            "date": "2026-10-29",
             "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
             "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
           }
         ],
@@ -68510,7 +68543,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -68519,25 +68552,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-d69d813ae7c5",
-          "date": "2026-10-28",
+          "id": "event-evidence-company-sumitomo-pharma-official-43968f061605",
+          "date": "2026-10-29",
           "title": "Sumitomo Pharma Co., Ltd.",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-d69d813ae7c5",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {
-          "id": "event-evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
-          "date": "2026-10-07",
+          "id": "event-evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+          "date": "2026-10-29",
           "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-d21febf9d5dc",
+          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
           "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
         }
       ]
@@ -69622,15 +69655,65 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "A"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "Registry 将 Tempus AI 归入 Precision Diagnostics, Healthcare AI；当前记录的技术或产品模态包括 Molecular Diagnostics, Clinical Data, AI。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：Tempus 是一家技术公司，通过在医疗保健中应用人工智能，包括生成式人工智能，推动精准医学的发展，以创建智能诊断。",
+        "summaryOriginal": "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "Lens is an analytical platform that enables researchers to quickly find, access, and analyze multimodal data and uncover critical insights to accelerate innovation",
+            "text": "Lens is an analytical platform that enables researchers to quickly find, access, and analyze multimodal data and uncover critical insights to accelerate innovation",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Hub is a secure platform that streamlines providers workflows and gives access to patient insights",
+            "text": "Hub is a secure platform that streamlines providers workflows and gives access to patient insights",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Next is an AI-enabled care pathway platform that helps providers deliver the next step in a patient’s care journey",
+            "text": "Next is an AI-enabled care pathway platform that helps providers deliver the next step in a patient’s care journey",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
+            "text": "Tempus 是一家技术公司，通过在医疗保健中应用人工智能，包括生成式人工智能，推动精准医学的发展，以创建智能诊断。",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "With one of the world’s largest libraries of clinical and molecular data, and an operating system to make that data accessible and useful, Tempus enables physicians to make near real-time, data-driven decisions to deliver personalized patient care.",
+            "text": "With one of the world’s largest libraries of clinical and molecular data, and an operating system to make that data accessible and useful, Tempus enables physicians to make near real-time, data-driven decisions to deliver personalized patient care.",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "The goal is for each patient to benefit from the treatment of others who came before by providing physicians and researchers with tools that learn as the company gathers more data.",
+            "text": "The goal is for each patient to benefit from the treatment of others who came before by providing physicians and researchers with tools that learn as the company gathers more data.",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
           "evidence-sec-0001717115-000119312526429533",
           "evidence-sec-0001717115-000119312526427866",
           "evidence-sec-0001717115-000119312526326090",
@@ -69642,6 +69725,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "date": "2026-10-29",
+            "title": "Investor Relations | Tempus AI, Inc.",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
+          },
           {
             "id": "event-sec-0001717115-000119312526429533",
             "date": "2026-10-23",
@@ -69685,42 +69779,39 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526326083",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
-          },
-          {
-            "id": "event-sec-0001717115-000119312526309073",
-            "date": "2026-07-20",
-            "title": "Tempus AI filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001717115-000119312526309073",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm"
           }
         ],
         "inferences": [],
         "unknowns": [
-          "目前只有 SEC filing metadata，尚未提取 filing 正文中的业务和战略信息。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
+          "Company": 1,
           "Filing": 6
         },
-        "lastEvidenceDate": "2026-10-23",
+        "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
         "gaps": [
-          "目前只有 SEC filing metadata，尚未提取 filing 正文中的业务和战略信息。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+          "date": "2026-10-29",
+          "title": "Investor Relations | Tempus AI, Inc.",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+          "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
+        },
         {
           "id": "event-sec-0001717115-000119312526429533",
           "date": "2026-10-23",
