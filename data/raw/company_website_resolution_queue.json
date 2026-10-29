@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-10-28T09:43:41+00:00",
-  "count": 588,
+  "capturedAt": "2026-10-29T10:01:42+00:00",
+  "count": 589,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -1951,6 +1951,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-aspen-neuroscience",
+      "name": "Aspen Neuroscience, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+      "identifiers": {
+        "cik": [
+          "0002124080"
+        ],
+        "ticker": [
+          "ASPE"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-aspira-women-s-health",
       "name": "Aspira Women's Health Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000926617",
@@ -2462,7 +2479,6 @@
         "Cell Therapy",
         "Organoids & Disease Models",
         "Precision Diagnostics",
-        "cell therapy",
         "gene therapy"
       ],
       "status": "needs_official_domain"
@@ -3228,6 +3244,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
+      "identifiers": {
+        "nihIpf": [
+          "10091062"
+        ],
+        "uei": [
+          "XUNHXKKMFJ63"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3669,7 +3702,8 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -3687,23 +3721,6 @@
       },
       "sourceTypes": [
         "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cardiac-rsk3-inhibitors",
-      "name": "Cardiac Rsk3 Inhibitors, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11292808",
-      "identifiers": {
-        "nihIpf": [
-          "10039821"
-        ],
-        "uei": [
-          "D38ER7T7B8L8"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -9160,7 +9177,6 @@
       "sourceTypes": [
         "Cell Therapy",
         "RNA Therapeutics",
-        "cell therapy",
         "gene therapy"
       ],
       "status": "needs_official_domain"

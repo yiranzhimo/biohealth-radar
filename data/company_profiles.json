@@ -15696,6 +15696,76 @@
       ]
     },
     {
+      "companyId": "candidate-aspen-neuroscience",
+      "name": "Aspen Neuroscience, Inc.",
+      "asOfDate": "2026-10-29",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "ASPE",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0002124080",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0002124080"
+          ],
+          "ticker": [
+            "ASPE"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Pharmaceutical Preparations"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
+    },
+    {
       "companyId": "candidate-aspira-women-s-health",
       "name": "Aspira Women's Health Inc.",
       "asOfDate": "2026-10-29",
@@ -19913,7 +19983,6 @@
           "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "cell therapy",
           "gene therapy"
         ],
         "modalities": [],
@@ -25792,6 +25861,100 @@
       ]
     },
     {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "asOfDate": "2026-10-29",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11314326",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10091062"
+          ],
+          "uei": [
+            "XUNHXKKMFJ63"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "cell therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-bonestrong-therapeutics-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+        }
+      ]
+    },
+    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "asOfDate": "2026-10-29",
@@ -29411,7 +29574,8 @@
         "directions": [
           "AI Drug Discovery",
           "Precision Diagnostics",
-          "biotechnology"
+          "biotechnology",
+          "cell therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -29600,100 +29764,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-capricor-therapeutics-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-cardiac-rsk3-inhibitors",
-      "name": "Cardiac Rsk3 Inhibitors, LLC",
-      "asOfDate": "2026-10-29",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11292808",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10039821"
-          ],
-          "uei": [
-            "D38ER7T7B8L8"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Therapeutics",
-        "directions": [
-          "biotechnology"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
         }
       ]
     },
@@ -74629,7 +74699,6 @@
         "directions": [
           "Cell Therapy",
           "RNA Therapeutics",
-          "cell therapy",
           "gene therapy"
         ],
         "modalities": [],

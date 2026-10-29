@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-10-28T09:42:08+00:00",
+  "capturedAt": "2026-10-29T10:00:18+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -736,7 +736,6 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "gene therapy"
       ],
       "topicHints": [
@@ -765,13 +764,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
         "gene therapy"
       ],
       "topicHints": [
         "Cell Therapy",
-        "Organoids & Disease Models",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "Organoids & Disease Models"
       ],
       "projectSummaryExcerpt": "Significance: Alzheimer’s disease (AD) is a progressive neurodegenerative disorder that impairs cognition, function, and independence, ultimately leading to death. Over 55 million people worldwide are affected, with aging as the greatest risk factor. Existing therapies provide…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
@@ -875,11 +873,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "topicHints": [
-        "Precision Diagnostics",
-        "AI Drug Discovery"
+        "AI Drug Discovery",
+        "Precision Diagnostics"
       ],
       "projectSummaryExcerpt": "Project Summary/Abstract Circulating tumor cells (CTCs) and other rare circulating cells in blood can serve as early warning signs of cancer, but they are extremely rare and hard to identify – akin to looking for a needle in a haystack. Fluorescent Whole Slide Imaging (fWSI)…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11409312"
@@ -1526,6 +1525,31 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
     },
     {
+      "applId": 11314326,
+      "projectNum": "1R42CA310337-01",
+      "projectTitle": "Dual Acting Bone Defenders for Inhibiting Cancer Mediated Bone Destruction",
+      "fiscalYear": 2026,
+      "awardAmount": 400000,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-18",
+      "projectEndDate": "2027-08-31",
+      "organization": {
+        "name": "BONESTRONG THERAPEUTICS INC.",
+        "city": "PORTLAND",
+        "state": "OR",
+        "country": "UNITED STATES",
+        "uei": "XUNHXKKMFJ63",
+        "ipf": "10091062",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "BoneStrong Therapeutics Inc. seeks to develop a first-in-class therapeutic that inhibits bone destruction caused by cancer. Cancer-mediated bone destruction is a common, longstanding, unmet need costing the US economy $5.3B/year. Current therapy has limited efficacy and…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
+    },
+    {
       "applId": 11314303,
       "projectNum": "1R43HG014430-01A1",
       "projectTitle": "Development of fecal exfoliome sequencing as a multi-omics approach for gut health management",
@@ -1661,31 +1685,6 @@
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
-    },
-    {
-      "applId": 11292808,
-      "projectNum": "2R44HL167349-03",
-      "projectTitle": "CRI-103 gene therapy as Investigational New Drug for Dilated Cardiomyopathy",
-      "fiscalYear": 2026,
-      "awardAmount": 1159408,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2023-09-14",
-      "projectEndDate": "2029-08-31",
-      "organization": {
-        "name": "CARDIAC RSK3 INHIBITORS, LLC",
-        "city": "LOS ALTOS",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "D38ER7T7B8L8",
-        "ipf": "10039821",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology"
-      ],
-      "topicHints": [],
-      "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
     }
   ]
 }
