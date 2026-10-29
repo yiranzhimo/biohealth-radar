@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-29T05:55:04.439424+00:00",
+  "capturedAt": "2026-10-29T13:11:33.600190+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,24 +14,24 @@
     "end": "2026-10-29"
   },
   "pmids": [
+    "42952437",
+    "42952183",
+    "42952168",
     "42951087",
     "42950990",
     "42950820",
-    "42949819",
-    "42949640",
-    "42949420",
+    "42952019",
     "42941810",
     "42940052",
     "42930128",
     "42893561",
     "42890802",
-    "42880218",
+    "42951937",
     "42948713",
     "42939789",
     "42935351",
     "42933412",
     "42932845",
-    "42929592",
     "42951714",
     "42949850",
     "42949729",
@@ -40,6 +40,60 @@
     "42948694"
   ],
   "records": [
+    {
+      "pmid": "42952437",
+      "title": "Collagen I-rich microenvironments influence cholangiocyte specification and tubulogenesis in stem cell-derived models of liver development.",
+      "abstract": "Cholangiocyte dysfunction accounts for a substantial proportion of liver transplantations, yet progress towards regenerative therapies is limited by an incomplete understanding of the developmental cues that regulate human cholangiocyte specification and morphogenesis. Here, we established a defined culture system to investigate how collagen I influences hepatobiliary differentiation from human induced pluripotent stem cells (hiPSCs). Increased collagen I presentation was associated with a bias towards cholangiocyte specification, reduced hepatocyte identity and the formation of branched duct-like tubular structures. Similar effects were observed in primary human foetal hepatoblast organoids, indicating that collagen I-dependent lineage bias is conserved across independent model systems. Mechanistically, collagen I presentation was associated with activation of integrin α2β1- and YAP-associated signalling, while inhibition of collagen-integrin interactions impaired both cholangiocyte specification and tubulogenesis. Together, our findings support a role for collagen I-rich extracellular environments in human hepatobiliary differentiation and provide a defined experimental system for investigating extracellular matrix-dependent mechanisms of bile duct development in vitro.",
+      "journal": "Development (Cambridge, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Wellcome-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Puddicombe Way, Cambridge CB2 0AW, UK.",
+        "Istituto di Ricovero e Cura a Carattere Scientifico Humanitas Research Hospital, via Manzoni 56, 20089 Rozzano, Milan, Italy.",
+        "StemBond Technologies, Cambridge Biomedical Campus, Puddicombe Way, Cambridge CB2 0AW, UK.",
+        "Max Planck Institute for Molecular Genetics, Ihnestraße 63-73, 14195, Berlin, Germany.",
+        "Berlin Institute of Health, Anna-Louisa-Karsch-Straße 2, 10178, Berlin, Germany."
+      ],
+      "doi": "10.1242/dev.204480",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952437/"
+    },
+    {
+      "pmid": "42952183",
+      "title": "MEK2 Suppresses IL-4 Polarization via PPARγ and Negatively Impacts Macrophage Epithelial Crosstalk to Delay Repair.",
+      "abstract": "MEK2 is a highly conserved mitogen-activated protein kinase whose pathway activation is increased in both acute respiratory distress syndrome (ARDS) and murine acute lung injury (ALI). We previously demonstrated that leukocyte-specific Mek2-/- mice have accelerated recovery from ALI, including earlier restoration of alveolar barrier function, indicating that leukocyte MEK2 prolongs lung injury. Here, we tested the hypothesis that MEK2 suppresses reparative IL-4-driven macrophage function. Transcriptional profiling of WT and Mek2-/- bone marrow-derived macrophages (BMDM) revealed that MEK2 inhibits a subset of IL-4-dependent gene expression, including those enriched in wound repair pathways. Mechanistically, MEK2 is required for IL-4-induced ERK1/2 phosphorylation and the suppression of PPARγ levels. Pharmacologic inhibition of PPARγ abolished the enhanced IL-4-dependent gene expression observed in Mek2-/- BMDMs, identifying PPARγ as a key mediator by which MEK2 restrains reparative macrophage polarization. To determine the functional relevance of these findings, we evaluated macrophage-supported alveolar epithelial type II (AT2) cell growth using an alveolar organoid model. IL-4-polarized macrophages enhanced AT2 proliferation in a PPARγ-dependent manner, whereas MEK2 suppressed this reparative effect. Together, these findings identify MEK2 as a negative regulator of reparative macrophage programming via suppression of PPARγ. Targeting MEK2 may represent a novel therapeutic strategy to accelerate repair of lung injury via enhancement of PPARγ activity in reparative macrophages.",
+      "journal": "American journal of physiology. Lung cellular and molecular physiology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Lung Biology University of Washington, Seattle, WA.",
+        "Division of Pulmonary, Critical Care and Sleep Medicine, University of Washington, Seattle, WA."
+      ],
+      "doi": "10.1152/ajplung.00191.2026",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952183/"
+    },
+    {
+      "pmid": "42952168",
+      "title": "BRCA1 Mutation-Recognizing Tetrahedral Framework Nucleic Acid Nanoplatform Enables Coordinated PARP/WEE1 Inhibition and STING-Associated Antitumor Immunity in Ovarian Cancer.",
+      "abstract": "Improving therapeutic efficacy and antitumor immune responsiveness in BRCA1-mutant ovarian cancer remains challenging. Here, we developed a BRCA1 mutation-guided tetrahedral framework nucleic acid nanosystem, FBOA-tFNA, for coordinated intracellular delivery of the PARP inhibitor olaparib and the WEE1 inhibitor adavosertib. After folate receptor-mediated uptake, FBOA-tFNA recognizes BRCA1 mutant RNA through toehold-mediated strand displacement, enabling mutation-selective beacon activation, while drug release is independently regulated by reduction-responsive disulfide cleavage. Coordinated PARP/WEE1 inhibition amplified DNA damage, impaired G2/M checkpoint protection, and promoted tumor-cell killing in BRCA1-mutant ovarian cancer models. Resulting DNA damage-associated intracellular dsDNA signals activated STING-associated signaling, type I interferon responses, immunogenic cell death (ICD)-associated stress, dendritic-cell maturation, and CD8+ T-cell activation. Engineered patient-derived ovarian cancer organoids expressing a BRCA12594delC-containing transcript further supported the mutation-selective recognition and therapeutic potential of FBOA-tFNA ex vivo. In vivo, FBOA-tFNA showed tumor-associated fluorescence accumulation, BRCA1 mutant-transcript recognition-associated beacon activation, enhanced antitumor efficacy, and preliminary repeated-dose tolerability. Moreover, FBOA-tFNA enhanced antitumor immune responses and improved the response to anti-PD-1 therapy, accompanied by increased effector and memory-like T-cell populations. This programmable DNA nanoplatform provides a personalized combination strategy for coordinated DNA-damage therapy and immunomodulation in BRCA1-mutant ovarian cancer.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory of Gynecologic Oncology, College of Clinical Medicine for Obstetrics & Gynecology and Pediatrics, Fujian Maternity and Child Health Hospital, Fujian Medical University, Fuzhou, China.",
+        "Fujian Clinical Research Center for Gynecological Oncology, Fujian Maternity and Child Health Hospital (Fujian Obstetrics and Gynecology Hospital), Fuzhou, China.",
+        "Fujian Key Laboratory of Women and Children's Critical Diseases Research, Fuzhou, China.",
+        "School of Medicine, Fuzhou University, Fuzhou, China.",
+        "MOE Key Laboratory For Analytical Science of Food Safety and Biology, Fujian Key Laboratory of Analysis and Testing Technology For Food Safety and Health, College of Chemistry, Fuzhou University, Fuzhou, China."
+      ],
+      "doi": "10.1002/advs.78457",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952168/"
+    },
     {
       "pmid": "42951087",
       "title": "cGAS-STING activation promotes abdominal aortic aneurysm formation in mice and humans: Therapeutic potential of inhibition.",
@@ -103,62 +157,20 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/"
     },
     {
-      "pmid": "42949819",
-      "title": "Bone Organoids Across the Development-to-Remodeling Continuum: From Tissue Formation to Functional Competence and Translation.",
-      "abstract": "Bone organoids are emerging as three-dimensional skeletal models that reproduce selected aspects of bone development, organization, and function under controlled conditions. Physiologically relevant models require more than cellular aggregation and mineral deposition; they must progressively acquire organized matrices, multicellular interactions, vascular and metabolic support, and mechanical responsiveness. In this review, we examine developmental principles guiding bone-organoid construction, including skeletal hierarchy, cellular niches, ossification pathways, and spatiotemporal signaling. We then discuss current strategies based on skeletal, mesenchymal stromal, and pluripotent stem cells, together with advances in biomaterials, three-dimensional bioprinting, perfusion, and microfluidic culture. To organize these developments, we introduce the development-to-remodeling continuum (DRC), which distinguishes tissue formation from multicellular integration, adaptive responsiveness, and remodeling competence. We assess collagen-mineral organization, osteocyte-network formation, vascular and metabolic maturation, osteoblast-osteoclast coupling, marrow and immune integration, and mechanical adaptation. We further evaluate applications in developmental and disease modeling, drug assessment, personalized modeling, and bone regeneration. Current limitations include variability, incomplete maturation, transport constraints, and insufficient functional benchmarking. By linking construction strategies to specific bone-related functions and the evidence supporting them, the DRC provides a framework for evaluating functional claims in relation to intended application and translational readiness.",
+      "pmid": "42952019",
+      "title": "Artificial Cells and Biomimetic Cells: Intelligent Systems Driving a Paradigm Shift in Drug Discovery and Delivery.",
+      "abstract": "The convergence of synthetic biology, materials science, and artificial intelligence drives a transformative shift in biopharmaceutical research, advancing from passive drug carriers to intelligent, programmable therapeutics. This review evaluates artificial and biomimetic cells as a framework that connects fundamental biological discovery with clinical translation. It examines five key technological pathways: membrane-engineered artificial cells, membraneless organelle (MLO) systems, multicompartmental artificial cells, protocell communication networks, and virtual cells. These platforms enable precise regulation of drug stability, targeting, biosynthesis, and adaptive responsiveness. Recent progress includes microenvironment-triggered release, logic-gated intercellular communication, and virtual cell-assisted high-throughput screening and toxicity prediction. Despite these advances, challenges remain in scalable manufacturing, long-term stability, and regulatory adaptation. The integration of closed-loop learning, interpretable models, and advanced biomanufacturing will be essential to position artificial and biomimetic cell systems at the forefront of next-generation precision medicine.",
       "journal": "Advanced healthcare materials",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Department of Orthopaedics, Wuhan Third Hospital, Wuhan, China.",
-        "Hubei Key Laboratory of Exercise Training and Monitoring, Department of Sports Medicine, Wuhan Sports University, Wuhan, China."
+        "Department of Pharmaceutics, School of Pharmaceutical Sciences, Key Laboratory of Smart Drug Delivery, Ministry of Education, Minhang Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, P.R. China."
       ],
-      "doi": "10.1002/adhm.71911",
+      "doi": "10.1002/adhm.71906",
       "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949819/"
-    },
-    {
-      "pmid": "42949640",
-      "title": "Orthogonal Chemical Encoding Enables Sequence-Independent GlycoRNA Imaging in Organoids and Tissues.",
-      "abstract": "Current methods for imaging glycosylated RNAs (glycoRNAs) rely on sequence-specific recognition or bulky DNA nanostructures, which compromise spatial fidelity and largely confine applications to simplified cell systems. Here, we report a Covalent Molecular Proximity Assay (COMPASS) that enables sequence-independent visualization of glycoRNAs in complex physiological contexts. COMPASS integrates orthogonal encoding with proximity-gated signal readout. Through chemoselective precursor uptake, azide groups are installed on terminal sialic acids and alkyne groups on nascent uridine residues, establishing a dual-encoded chemical framework. Independent analysis confirmed the efficient installation of both functionalities. Subsequent dual-color click labeling introduces donor and acceptor fluorophores to these orthogonal handles, producing sensitized acceptor emission when they are located in the same glycoRNA molecule. Accordingly, COMPASS reports the metabolically labeled, sialylated, uridine-containing glycoRNA population generated during the labeling window. This design eliminates the need for bulky nucleic acid probes, reduces probe-induced signal spreading, and enables glycoRNA imaging across diverse systems, including cell cultures, cerebral organoids, and mouse tissues. COMPASS revealed spatially heterogeneous glycoRNA-associated signals, including relatively stronger signals near lumen-adjacent VZ-like regions of cerebral organoids and lower signals in pulmonary metastatic nodules. These observations establish spatial associations with neurodevelopmental and tumor-associated states.",
-      "journal": "Angewandte Chemie (International ed. in English)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Microbial Technology, School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing, China.",
-        "Department of Fundamental and Community Nursing, School of Nursing, Nanjing Medical University, Nanjing, China.",
-        "Department of Stem Cell and Neural Regeneration, School of Pharmacy, Nanjing Medical University, Nanjing, China.",
-        "Department of Chemical and Biological Engineering, Center for Biotechnology and Interdisciplinary Studies, Rensselaer Polytechnic Institute, Troy, New York, USA."
-      ],
-      "doi": "10.1002/anie.6171384",
-      "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949640/"
-    },
-    {
-      "pmid": "42949420",
-      "title": "Neuroendocrine Differentiation Mediates Escape from HER2-Targeted Therapy in Breast Cancer.",
-      "abstract": "Neuroendocrine differentiation (NED) promotes lineage plasticity and therapy resistance in prostate and lung cancers. Here we identify NED as a route of treatment escape in breast cancer: neuroendocrine features emerged or increased in 22% of progressive cases, predominantly, but not exclusively, in HER2-positive subtype. Using patient-derived, epithelial/neuroendocrine organoid and xenograft models, we map the epigenetic and transcriptional divergence between epithelial and neuroendocrine states arising from a shared mutational background and define a breast cancer neuroendocrine signature. NED involves epigenetic silencing of EpCAM and amplified HER2, while NEUROD1 functions as a master transcriptional regulator of the neuroendocrine fate. NCAM-positive putative circulating tumor cells were detected in patients in whom EpCAM-based detection had failed. Neuroendocrine tumor cells exhibit an FGFR1 dependency associated with NCAM-FGFR1 interaction and mesenchymal FGFR1 splicing. Together, these findings establish NED as a mechanism of escape from HER2-targeted therapy in breast cancer, with implications for disease monitoring and intervention.",
-      "journal": "Cancer discovery",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "German Cancer Research Center Heidelberg Germany.",
-        "Heidelberg University Heidelberg Germany.",
-        "National Center for Tumor Diseases Heidelberg Germany.",
-        "German Cancer Research Center Germany.",
-        "Heidelberg University Hospital Germany.",
-        "Heidelberg University Germany.",
-        "DKFZ Heidelberg Germany.",
-        "German Cancer Research Center (DKFZ) Heidelberg Germany.",
-        "Heidelberg University Mannheim Germany."
-      ],
-      "doi": "10.1158/2159-8290.CD-26-1312",
-      "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949420/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952019/"
     },
     {
       "pmid": "42941810",
@@ -254,22 +266,37 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890802/"
     },
     {
-      "pmid": "42880218",
-      "title": "Emerging frontiers for AI in single-cell genomics.",
-      "abstract": "We are just over a decade into the single-cell revolution in biology, which has been coupled to the growing use of artificial intelligence (AI) in single-cell genomics. Most early single-cell RNA embedding models and subsequent \"foundation models\"-representational models pretrained on large single-cell datasets-did not gain wide traction among experimental biologists. However, as massive single-cell RNA-sequencing (scRNA-seq) atlas efforts ramp up, there is a clear rationale for exploiting AI models to interpret new datasets in the context of vast existing data resources. Meanwhile, the advent of single-cell epigenetic/multiomic assays and Perturb-seq technologies presents new opportunities for AI modeling. Here, we review AI embedding and foundation models for scRNA-seq and single-cell assay for transposase-accessible chromatin using sequencing (scATAC-seq), extensive machine-learning efforts to exploit single-cell multiome in regulatory genomics, and AI strategies to learn \"virtual cell\" models from Perturb-seq, ending with a description of current limitations of single-cell AI models and an outlook for future advances.",
-      "journal": "Molecular cell",
+      "pmid": "42951937",
+      "title": "Structural mechanism of programmable gene integration by the R2 retrotransposon coupled with CRISPR-Cas9.",
+      "abstract": "R2 retroelements are non-long-terminal-repeat retrotransposons that primarily insert into 28S ribosomal DNA loci across diverse eukaryotes. R2 elements home to their target sites through target-primed reverse transcription (TPRT), in which the R2 protein recognizes and nicks the target DNA to prime reverse transcription using an R2-encoding RNA as the template. The avian R2 system from Taeniopygia guttata (R2Tg) can insert a payload sequence within an RNA template into 28S ribosomal DNA loci in human cells. Here, we present cryo-electron microscopy structures of the R2Tg-template RNA-target DNA complex in the TPRT initiation state, both alone and bound to a Cas9-guide RNA complex. These structures provide mechanistic insights into R2Tg-mediated TPRT in its natural context and in the programmable gene integration system STITCHR (site-specific target-primed insertion through targeted CRISPR homing of retroelements). Furthermore, we combine these structural insights with computational protein design methods to engineer an enhanced STITCHR system.",
+      "journal": "Nature structural & molecular biology",
       "publicationTypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.",
-        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA; Tri-Institutional Training Program in Computational Biology and Medicine, New York, NY, USA.",
-        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA. Electronic address: lesliec@mskcc.org."
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "Institute for Frontier Science Initiative, Kanazawa University, Ishikawa, Japan.",
+        "WPI Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, Ishikawa, Japan.",
+        "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. jgoot@mit.edu.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. jgoot@mit.edu.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. jgoot@mit.edu.",
+        "Division of Engineering in Medicine, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+        "Gene and Cell Therapy Institute, Mass General Brigham, Cambridge, MA, USA. omar@abudayyeh.science.",
+        "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA. omar@abudayyeh.science.",
+        "McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA. omar@abudayyeh.science.",
+        "Department of Chemistry and Biotechnology, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+        "Structural Biology Division, Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan. nisimasu@g.ecc.u-tokyo.ac.jp.",
+        "Inamori Research Institute for Science, Kyoto, Japan. nisimasu@g.ecc.u-tokyo.ac.jp."
       ],
-      "doi": "10.1016/j.molcel.2026.09.014",
-      "date": "2026-10-15",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42880218/"
+      "doi": "10.1038/s41594-026-01903-7",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951937/"
     },
     {
       "pmid": "42948713",
@@ -357,23 +384,6 @@
       "doi": "10.1093/bib/bbag581",
       "date": "2026-09-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42932845/"
-    },
-    {
-      "pmid": "42929592",
-      "title": "Building a Physically Interpretable Compressed Chemical Space via Grid-Based Optimization.",
-      "abstract": "In recent years, deep generative models have been increasingly adopted for molecular optimization and design. In many such models, molecules are encoded into latent spaces that provide compact representations of their features. However, these latent spaces remain difficult to interpret in physical terms, and it is unclear how much structural and molecular information is retained under compression. This limitation becomes especially important when molecular behavior depends on specific three-dimensional arrangements embedded in an environmental context. Here, we introduce COMPRESS (Compression Of Molecular Physical fields into Reduced Spatial Sites), an optimization framework that represents a small molecule using a fixed number of physically parametrized spatial sites. Each site is defined by three spatial coordinates and three interaction parameters, yielding a fixed-size representation that remains directly interpretable in physical terms. To preserve molecular information, COMPRESS representations are optimized to reproduce the density, electrostatic, and van der Waals fields of the corresponding all-atom molecule on discretized three-dimensional grids. We systematically evaluate how molecular information is retained as the number of sites, K, is reduced. Our analysis covers benzene, 20 chemically diverse chemical scaffolds, benzene dimers, protein-ligand complexes, and 10,000 molecules chosen from the GEOM-Drugs data set. Across systems, field agreement deteriorates slowly at high resolution and then undergoes a rapid, pronounced transition at lower resolution. We further find that K = 25 conformers capture about 97% of the molecules from GEOM-Drugs under a loss threshold of 0.05, which we use as an indicator of fidelity. These results show that COMPRESS can provide a fixed-size, physically interpretable molecular representation, enabling compression to be evaluated directly using molecular interaction fields and resulting physical quantities. We also introduce a decoder that reconstructs all-atom structures directly from a COMPRESS representation, showing that the representation can support molecular generation in addition to field-preservation analysis. Finally, rationally modified COMPRESS representations through changes to site charge and size or the addition or removal of sites are shown to generate realistic chemical compounds upon decoding.",
-      "journal": "Journal of chemical information and modeling",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Pharmacology and Toxicology, Michigan State University, East Lansing, Michigan48824, United States.",
-        "Department of Computational Mathematics, Science, and Engineering, Michigan State University, East Lansing, Michigan48824, United States.",
-        "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States."
-      ],
-      "doi": "10.1021/acs.jcim.6c01542",
-      "date": "2026-10-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42929592/"
     },
     {
       "pmid": "42951714",
@@ -478,6 +488,34 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42952437",
+      "date": "2026-10-29",
+      "title": "Collagen I-rich microenvironments influence cholangiocyte specification and tubulogenesis in stem cell-derived models of liver development.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952437/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42952437。",
+      "report": "Cholangiocyte dysfunction accounts for a substantial proportion of liver transplantations, yet progress towards regenerative therapies is limited by an incomplete understanding of the developmental cues that regulate human cholangiocyte specification and morph...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42951714",
       "date": "2026-10-29",
       "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
@@ -505,6 +543,64 @@
       "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42951714。",
       "report": "Small cell lung cancer (SCLC) remains one of the most lethal thoracic malignancies, characterized by rapid progression, early metastasis, and limited durable responses to conventional therapy. Delta-like ligand 3 (DLL3), a Notch pathway inhibitory ligand aberr...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42952183",
+      "date": "2026-10-28",
+      "title": "MEK2 Suppresses IL-4 Polarization via PPARγ and Negatively Impacts Macrophage Epithelial Crosstalk to Delay Repair.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952183/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 American journal of physiology. Lung cellular and molecular physiology，PMID 为 42952183。",
+      "report": "MEK2 is a highly conserved mitogen-activated protein kinase whose pathway activation is increased in both acute respiratory distress syndrome (ARDS) and murine acute lung injury (ALI). We previously demonstrated that leukocyte-specific Mek2-/- mice have accele...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42952168",
+      "date": "2026-10-28",
+      "title": "BRCA1 Mutation-Recognizing Tetrahedral Framework Nucleic Acid Nanoplatform Enables Coordinated PARP/WEE1 Inhibition and STING-Associated Antitumor Immunity in Ovarian Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952168/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42952168。",
+      "report": "Improving therapeutic efficacy and antitumor immune responsiveness in BRCA1-mutant ovarian cancer remains challenging. Here, we developed a BRCA1 mutation-guided tetrahedral framework nucleic acid nanosystem, FBOA-tFNA, for coordinated intracellular delivery o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -606,93 +702,76 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42949819",
+      "id": "pubmed-42952019",
       "date": "2026-10-28",
-      "title": "Bone Organoids Across the Development-to-Remodeling Continuum: From Tissue Formation to Functional Competence and Translation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Artificial Cells and Biomimetic Cells: Intelligent Systems Driving a Paradigm Shift in Drug Discovery and Delivery.",
+      "entity": "Virtual Cell Model",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "Virtual Cell / Cell Foundation Models",
       "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949819/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952019/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Virtual Cell",
+        "AI for Biology",
+        "Multi-omics",
+        "Drug Discovery",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "虚拟细胞",
+        "细胞基础模型",
+        "多组学",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42949819。",
-      "report": "Bone organoids are emerging as three-dimensional skeletal models that reproduce selected aspects of bone development, organization, and function under controlled conditions. Physiologically relevant models require more than cellular aggregation and mineral dep...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Advanced healthcare materials，PMID 为 42952019。",
+      "report": "The convergence of synthetic biology, materials science, and artificial intelligence drives a transformative shift in biopharmaceutical research, advancing from passive drug carriers to intelligent, programmable therapeutics. This review evaluates artificial a...",
+      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42949640",
+      "id": "pubmed-42951937",
       "date": "2026-10-28",
-      "title": "Orthogonal Chemical Encoding Enables Sequence-Independent GlycoRNA Imaging in Organoids and Tissues.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Structural mechanism of programmable gene integration by the R2 retrotransposon coupled with CRISPR-Cas9.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949640/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951937/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Angewandte Chemie (International ed. in English)，PMID 为 42949640。",
-      "report": "Current methods for imaging glycosylated RNAs (glycoRNAs) rely on sequence-specific recognition or bulky DNA nanostructures, which compromise spatial fidelity and largely confine applications to simplified cell systems. Here, we report a Covalent Molecular Pro...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42949420",
-      "date": "2026-10-28",
-      "title": "Neuroendocrine Differentiation Mediates Escape from HER2-Targeted Therapy in Breast Cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949420/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer discovery，PMID 为 42949420。",
-      "report": "Neuroendocrine differentiation (NED) promotes lineage plasticity and therapy resistance in prostate and lung cancers. Here we identify NED as a route of treatment escape in breast cancer: neuroendocrine features emerged or increased in 22% of progressive cases...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature structural & molecular biology，PMID 为 42951937。",
+      "report": "R2 retroelements are non-long-terminal-repeat retrotransposons that primarily insert into 28S ribosomal DNA loci across diverse eukaryotes. R2 elements home to their target sites through target-primed reverse transcription (TPRT), in which the R2 protein recog...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -870,37 +949,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42929592",
-      "date": "2026-10-26",
-      "title": "Building a Physically Interpretable Compressed Chemical Space via Grid-Based Optimization.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42929592/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 42929592。",
-      "report": "In recent years, deep generative models have been increasingly adopted for molecular optimization and design. In many such models, molecules are encoded into latent spaces that provide compact representations of their features. However, these latent spaces rem...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42939789",
       "date": "2026-10-21",
       "title": "Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.",
@@ -964,40 +1012,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Biosensors，PMID 为 42930128。",
       "report": "Single-cell RNA sequencing has supplied cell atlases and artificial intelligence (AI)-enabled virtual-cell models with scalable, gene-level descriptions of cellular state. Yet prevalent poly(A)-based counting assays capture only part of the RNA landscape. Here...",
-      "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42880218",
-      "date": "2026-10-15",
-      "title": "Emerging frontiers for AI in single-cell genomics.",
-      "entity": "Virtual Cell Model",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "Virtual Cell / Cell Foundation Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42880218/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Virtual Cell",
-        "AI for Biology",
-        "Multi-omics",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "虚拟细胞",
-        "细胞基础模型",
-        "多组学",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular cell，PMID 为 42880218。",
-      "report": "We are just over a decade into the single-cell revolution in biology, which has been coupled to the growing use of artificial intelligence (AI) in single-cell genomics. Most early single-cell RNA embedding models and subsequent \"foundation models\"-representati...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },

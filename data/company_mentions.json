@@ -4,15 +4,124 @@
   "asOfDate": "2026-10-29",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1792793a299d305a",
-      "observedName": "Immunocore Ltd",
-      "normalizedName": "immunocore",
+      "id": "mention-clinicaltrials-1f24b5112d7ec8df",
+      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
+      "normalizedName": "kingbio medical beijing",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06406608",
+      "sourceDate": "2024-05-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406608",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Drug-resistant Recurrent Non-Small Cell Lung Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-3d6a325cfa9775f4",
+      "observedName": "Truway Health, Inc.",
+      "normalizedName": "truway health",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT03515551",
-      "sourceDate": "2022-03-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03515551",
+      "sourceRecordId": "NCT07817550",
+      "sourceDate": "2026-09-14",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07817550",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Multimodal Digital Biomarker Prediction of Acute Clinical Deterioration"
+    },
+    {
+      "id": "mention-clinicaltrials-c6c0c4b97c874714",
+      "observedName": "CIRCULATE, Inc.",
+      "normalizedName": "circulate",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06534450",
+      "sourceDate": "2024-08-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06534450",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "The Effects Of Therapeutic Plasma Exchange (TPE) On Age Related Biomarkers And Epigenetics"
+    },
+    {
+      "id": "mention-clinicaltrials-dba74d990c5cd6ea",
+      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
+      "normalizedName": "kingbio medical beijing",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06406660",
+      "sourceDate": "2024-05-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406660",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Recurrent Small Cell Lung Cancer"
+    },
+    {
+      "id": "mention-clinicaltrials-e419b44087ef68ea",
+      "observedName": "Puma Biotechnology, Inc.",
+      "normalizedName": "puma biotechnology",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT00266877",
+      "sourceDate": "2018-04-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00266877",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -26,63 +135,7 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Safety and Efficacy of IMCnyeso in Advanced NY-ESO-1 and/or LAGE-1A Positive Cancers"
-    },
-    {
-      "id": "mention-clinicaltrials-29306d06884e8aa7",
-      "observedName": "Nutrasource Pharmaceutical and Nutraceutical Services, Inc.",
-      "normalizedName": "nutrasource pharmaceutical and nutraceutical services",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07812792",
-      "sourceDate": "2026-10-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Recruiting",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
-    },
-    {
-      "id": "mention-clinicaltrials-d52039ac2ce54bcc",
-      "observedName": "ReCellience15, Inc",
-      "normalizedName": "recellience15",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07812792",
-      "sourceDate": "2026-10-05",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07812792",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Recruiting",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Effect of Pentadecanoic Acid Supplementation on Red Blood Cell Health and Biological Aging in Healthy Older Adults"
+      "contextTitle": "Study Evaluating the Safety Of HKI-272 (Neratinib) In Subjects With Advanced Non-Small Cell Lung Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
