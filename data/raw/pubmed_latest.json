@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-28T22:39:40.458026+00:00",
+  "capturedAt": "2026-10-29T05:55:04.439424+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-28",
-    "end": "2026-10-28"
+    "start": "2025-10-29",
+    "end": "2026-10-29"
   },
   "pmids": [
+    "42951087",
+    "42950990",
+    "42950820",
     "42949819",
     "42949640",
     "42949420",
-    "42949237",
-    "42948404",
-    "42948349",
     "42941810",
     "42940052",
     "42930128",
@@ -32,14 +32,76 @@
     "42933412",
     "42932845",
     "42929592",
+    "42951714",
     "42949850",
     "42949729",
     "42949520",
     "42949211",
-    "42948694",
-    "42948564"
+    "42948694"
   ],
   "records": [
+    {
+      "pmid": "42951087",
+      "title": "cGAS-STING activation promotes abdominal aortic aneurysm formation in mice and humans: Therapeutic potential of inhibition.",
+      "abstract": "Abdominal aortic aneurysm (AAA) is a life-threatening vascular disease lacking effective pharmacotherapy. The cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) innate immune pathway has been linked to inflammatory conditions, yet its role in AAA remains unclear. Here, we combined single-cell transcriptomics, mouse models, pharmacological inhibition, and human tissue validation to investigate the role of this pathway in AAA. In murine single-cell RNA sequencing (scRNA-seq) data, cGAS-STING activation was predominantly observed in AAA endothelial cells (ECs). Human scRNA-seq and scissor-based classification of stable versus ruptured AAAs showed that cGAS and STING1 were significantly upregulated in ECs from ruptured AAA, implicating pathway activation in rupture risk. Bioinformatic analyses suggested that endothelial cGAS-STING activation correlates with barrier dysfunction and oxidative stress, and that dihydrofolate reductase (DHFR) deficiency may link DNA damage to pathway activation. In Angiotensin II (Ang II) -induced murine AAA, cGAS, p-STING, and p-TBK1 were markedly elevated. Pharmacological blockade with RU.521 (cGAS inhibitor) or STING-IN-2 (STING antagonist) reduced AAA incidence, aortic dilation, and structural damage, while improving endothelial mitochondrial morphology. In human AAA tissues, immunohistochemistry (IHC) confirmed increased cGAS, STING, and TBK1 expression. Moreover, RU.521 or STING-IN-2 treatment of patient-derived 3D AAA organoids significantly downregulated cGAS, p-STING, and p-TBK1, confirming target engagement. Collectively, our findings indicate that the cGAS-STING pathway is activated in murine and human AAA, and that targeting this axis may offer a promising therapeutic approach to limit AAA progression.",
+      "journal": "Biochemical pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Vascular Surgery, Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "Institute of Mechanobiology & Medical Engineering, School of Life Sciences & Biotechnology, Shanghai Jiao Tong University, Shanghai, China.",
+        "Department of Pathology and Frontier Innovation Center, School of Basic Medicine Sciences and Shanghai Pudong Hospital, Fudan University, Shanghai, China.",
+        "Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai, China.",
+        "Department of Vascular Surgery, Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. Electronic address: sunyudong@smmu.edu.cn.",
+        "Institute of Mechanobiology & Medical Engineering, School of Life Sciences & Biotechnology, Shanghai Jiao Tong University, Shanghai, China. Electronic address: huang_kai@sjtu.edu.cn.",
+        "Department of Neurosurgery, Huashan Hospital, Fudan University, Shanghai, China. Electronic address: hui_yang@fudan.edu.cn.",
+        "Department of Vascular Surgery, Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. Electronic address: fjx13108@rjh.com.cn."
+      ],
+      "doi": "10.1016/j.bcp.2026.118577",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951087/"
+    },
+    {
+      "pmid": "42950990",
+      "title": "Engineering human brain microphysiological systems for alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE) modeling and drug testing: translational promise, limitations, and future directions.",
+      "abstract": "This review examines the emerging role of human brain microphysiological systems (HBMPS) in recapitulating diseases and evaluating their translational potential and limitations for Alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE). Both disorders differ in underlying cause, but converge on shared downstream pathophysiology such as tau pathology, neuroinflammation, and blood-brain barrier (BBB) dysfunction. We review the critical pathophysiological features relevant to modeling AD and CTE and introduce HBMPS platforms/validation strategies as potential tools for evaluating therapeutic compounds as well as drug-delivery approaches. We also provide a systematic comparison of the relative advantages and disadvantages of 2D, HBMPS, Xenograft, and animal models and discuss the future potential of HBMPS's drug-testing platform. We further discuss current challenges of HBMPS related to drug testing, engineering extracellular matrix for tissue chips, and BBB penetration in AD and CTE. We suggest future integration of organoid xenografts and AI-assisted frameworks to enhance pathophysiological fidelity/drug predictive capability and to bridge the gap between HBMPS and animal models. In summary, this paper reviews HBMPS technologies as future translation platforms' direction for drug screening and delivery, while providing current limitations and challenges including model validation, reproducibility, and standardized regulatory bases required for preclinical success for HBMPS use. Rather than comparing biological complexity with translational validity, this review applies a decision-oriented framework that distinguishes mechanistic fidelity, comparative candidate ranking, predictive validation, investigational new drug (IND)-supporting use, and replacement of a defined animal test. For each use, we identify quantitative transport, exposure-response, pharmacodynamic, safety, and reproducibility evidence required to support an advance, redesign, or go/stop decision.",
+      "journal": "Advanced drug delivery reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Chemical, Biological and Bio Engineering, FIT BEST Laboratory, NERVE Center, North Carolina Agricultural and Technical State University, Greensboro, NC 27411, USA. Electronic address: yyun@ncat.edu.",
+        "Department of Chemical, Biological and Bio Engineering, FIT BEST Laboratory, NERVE Center, North Carolina Agricultural and Technical State University, Greensboro, NC 27411, USA.",
+        "Department of Chemical, Biological and Bio Engineering, FIT BEST Laboratory, NERVE Center, North Carolina Agricultural and Technical State University, Greensboro, NC 27411, USA; Department of Biology, NERVE Center, North Carolina Agricultural and Technical State University, Greensboro, NC 27411, USA.",
+        "Genetics and Aging Research Unit, Mass General Hospital, Harvard Medical School, 114 16th Street, Charlestown, MA 02129, USA.",
+        "Department of Neurology, Washington University in St. Louis, St. Louis, MO 63110, USA.",
+        "UNC Eshelman School of Pharmacy, Division of Pharmacoengineering and Molecular Pharmaceutics, UNC at Chapel Hill, 4205 Marsico Hall. 125 Mason Farm Road, Chapel Hill, NC 27599, USA."
+      ],
+      "doi": "10.1016/j.addr.2026.115982",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42950990/"
+    },
+    {
+      "pmid": "42950820",
+      "title": "Organoids and organs-on-a-chip as new approach methodologies at the convergence of cell biology and bioengineering.",
+      "abstract": "The rapid growth of new approach methodologies (NAMs), including organoids and organs-on-a-chip (OOCs), has revealed a need for interdisciplinary dialogue between cell biologists and bioengineers to develop human models that can best complement therapeutic development. Stem cell-derived and bioengineered human tissue models are redefining how we understand human physiology and pathophysiology, offering control that traditional preclinical models cannot provide. By recapitulating complex tissue microenvironments, multi-organ interactions, and patient-specific biology, these systems are bridging long-standing gaps in the drug development and clinical application pipelines. Here, we synthesize advances in organoids, OOCs, and other bioengineered technologies for translational medicine to identify remaining gaps, including challenges in reproducibility, validation, and regulatory acceptance. Emerging opportunities at the intersection of synthetic biology, multi-omics, machine learning, and genetic engineering are positioning NAMs not merely as improved experimental tools but as foundational platforms for accelerating therapeutic discovery and enabling personalized medicine at scale.",
+      "journal": "Cell stem cell",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, Columbia University, New York, NY 10025, USA.",
+        "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX 77030, USA; Section of Pediatric Neurology and Developmental Neuroscience, Department of Pediatrics, Baylor College of Medicine, Houston, TX 77030, USA.",
+        "Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, TX 77030, USA; Section of Pediatric Neurology and Developmental Neuroscience, Department of Pediatrics, Baylor College of Medicine, Houston, TX 77030, USA. Electronic address: maletics@bcm.edu.",
+        "Department of Biomedical Engineering, Columbia University, New York, NY 10025, USA; Department of Medicine, Columbia University, New York, NY 10032, USA; School of Dental Medicine, Columbia University, New York, NY 10032, USA. Electronic address: gv2131@columbia.edu."
+      ],
+      "doi": "10.1016/j.stem.2026.10.003",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/"
+    },
     {
       "pmid": "42949819",
       "title": "Bone Organoids Across the Development-to-Remodeling Continuum: From Tissue Formation to Functional Competence and Translation.",
@@ -97,58 +159,6 @@
       "doi": "10.1158/2159-8290.CD-26-1312",
       "date": "2026-10-28",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949420/"
-    },
-    {
-      "pmid": "42949237",
-      "title": "An Inverted Organoid-Derived Intestinal Epithelial Monolayer Model for Studying Immune Cell-Epithelial Interactions.",
-      "abstract": "Human intestinal organoids provide a powerful model system to study epithelial biology by preserving key characteristics of intestinal tissue organization, cellular differentiation, and function. However, their three-dimensional architecture limits direct experimental access to the apical surface, which is enclosed within the organoid lumen. This restricted accessibility complicates studies requiring controlled stimulation of epithelial compartments, barrier analysis, and investigation of interactions between epithelial and immune cells. This protocol describes the generation of an inverted organoid-derived intestinal epithelial model designed to improve accessibility to both the apical and basal compartments while maintaining essential epithelial properties. In this approach, organoid-derived single cells are seeded onto an inverted permeable support, where they establish a polarized epithelial monolayer that retains important features of intestinal differentiation and organization. The open configuration enables direct use of epithelial compartments and facilitates functional applications, including compartment-specific stimulation and immune-epithelial interaction studies. Furthermore, the model allows the integration of immune cell co-culture approaches to investigate cellular communication and migration processes. This platform provides a practical and adaptable experimental system that bridges conventional three-dimensional organoid cultures and accessible epithelial monolayer models. It offers a valuable approach for studying intestinal barrier function, inflammatory responses, immune interactions, and disease-associated mechanisms under controlled experimental conditions.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Department of Pediatric Surgery, University Medical Center Mannheim, Heidelberg University.",
-        "Mannheim Institute for Innate Immunoscience, Medical Faculty Mannheim, Heidelberg University.",
-        "Mannheim Institute for Innate Immunoscience, Medical Faculty Mannheim, Heidelberg University; Jasmin.Knopf@medma.uni-heidelberg.de."
-      ],
-      "doi": "10.3791/73739",
-      "date": "2026-10-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949237/"
-    },
-    {
-      "pmid": "42948404",
-      "title": "PANoptosis: a novel therapeutic target and mechanistic insight into traditional Chinese medicine intervention in inflammatory bowel disease: a review.",
-      "abstract": "The rising incidence of inflammatory bowel disease (IBD) and the limited efficacy of current therapies underscore the need for novel strategies. PANoptosis is an inflammatory programmed cell-death process integrating molecular features of pyroptosis, apoptosis, and necroptosis. Emerging evidence suggests that PANoptosis-related genes and signaling nodes may contribute to intestinal epithelial injury, mucosal immune activation, barrier disruption, and inflammatory amplification in inflammatory bowel disease. Traditional Chinese medicine and its active constituents have been reported to regulate inflammation, intestinal barrier integrity, gut microbiota, and several cell-death pathways. However, direct evidence that these agents inhibit bona fide PANoptosis in intestinal models remains limited. Current mechanistic evidence is strongest for selected compounds, such as baicalin, which has been shown in macrophages to interfere with mitochondrial Z-DNA formation and ZBP1-PANoptosome assembly, whereas other proposed mechanisms are largely extrapolated from extra-intestinal models or from studies of apoptosis, pyroptosis, necroptosis, and inflammatory signaling. This narrative review summarizes the molecular basis of PANoptosis in IBD and critically evaluates the potential of traditional Chinese medicine-derived compounds and formulas to modulate upstream sensors, adaptor proteins, and downstream effectors of PANoptosis-related pathways. We emphasize that future studies should verify these mechanisms in intestinal epithelial cells, intestinal organoids, DSS/TNBS/IL-10-deficient colitis models, and human IBD tissues.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Liaoning University of Traditional Chinese Medicine, Shenyang, China.",
-        "Department of Hemorrhoids and Fistula I, The Third Affiliated Hospital of Liaoning University of Traditional Chinese Medicine, Shenyang, China.",
-        "Department of Proctology, The Second Affiliated Hospital of Liaoning University of Traditional Chinese Medicine, Shenyang, China."
-      ],
-      "doi": "10.3389/fphar.2026.1880406",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948404/"
-    },
-    {
-      "pmid": "42948349",
-      "title": "Mechanisms of traditional Chinese medicine interventions in the gastric 'inflammation-to-carcinoma' cascade: advances in in vitro models from monolayer cells to organoids.",
-      "abstract": "Gastric cancer remains a leading cause of cancer-related mortality worldwide. The Correa cascade, progressing from chronic gastritis through precancerous lesions to adenocarcinoma, provides the framework for understanding gastric mucosal stepwise malignant transformation. Traditional Chinese Medicine (TCM) formulas, such as Zuojin Pills and Wuji Pills, have been historically used to treat gastric disorders including epigastric pain and acid regurgitation, yet their mechanisms of action in blocking the inflammation-to-carcinoma transition remain incompletely understood. The mechanistic diversity of TCM presents challenges for in vitro modeling, and existing reviews have not systematically addressed how model selection should align with specific research questions across different stages of the cascade. This review examines the evolving landscape of in vitro models used in TCM research on gastric mucosal inflammation-to-carcinoma transition, highlighting the paradigm shift from two-dimensional (2D) monolayer GES-1 cell cultures to three-dimensional gastric organoids. We analyzed recent studies conducted across multiple model platforms using various acute or chronic pathogenic factors, with all botanical drugs validated taxonomically through authoritative sources. The GES-1 cell model offers low cost, high throughput, and genetic homogeneity, making it suitable for initial screening of active metabolites from botanical drugs and for dissecting molecular pathways, particularly those involving Nrf2, NF-κB, PI3K/AKT, and MAPK signaling in antioxidative stress, anti-inflammatory, and anti-apoptotic mechanisms. In contrast, gastric organoids preserve three-dimensional architecture, cellular diversity, and patient-specific genetic backgrounds, enabling functional assessment of barrier integrity, stem cell-driven regeneration, and malignant transformation at the tissue level. To address the need for evidence differentiation, we introduce a hierarchical framework (Model Evidence Level) in which GES-1 cells serve for entry-level target discovery and patient-derived organoids for higher-level tissue validation. Based on this framework, we provide stage-specific model selection recommendations corresponding to the distinct phases of the Correa cascade: acute inflammation, chronic atrophy, intestinal metaplasia, dysplasia, and gastric cancer. This review offers a practical, evidence-stratified pathway for in vitro model selection in TCM intervention studies, bridging traditional ethnopharmacological knowledge with modern pharmacological validation to strengthen the translational relevance of preclinical findings.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Spleen and Stomach Diseases, The Affiliated Traditional Chinese Medicine Hospital of Southwest Medical University, Luzhou, Sichuan, China."
-      ],
-      "doi": "10.3389/fphar.2026.1906847",
-      "date": "2026-10-13",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948349/"
     },
     {
       "pmid": "42941810",
@@ -366,6 +376,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42929592/"
     },
     {
+      "pmid": "42951714",
+      "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
+      "abstract": "Small cell lung cancer (SCLC) remains one of the most lethal thoracic malignancies, characterized by rapid progression, early metastasis, and limited durable responses to conventional therapy. Delta-like ligand 3 (DLL3), a Notch pathway inhibitory ligand aberrantly overexpressed on the surface of approximately 70-85% of SCLC tumor cells but largely absent from normal adult tissue, has emerged as a compelling and therapeutically actionable target. Early efforts to exploit DLL3 through the antibody-drug conjugate (ADC) rovalpituzumab tesirine (Rova-T) yielded important mechanistic insights despite failing to demonstrate survival benefit in phase III trials and have since catalyzed a new generation of more refined DLL3-directed strategies. This review critically examines the evolving portfolio of DLL3-targeted therapies across three principal modalities: T-cell engagers, ADCs, and chimeric antigen receptor T-cell (CAR-T) therapies. In parallel, we examine emerging non-DLL3 therapeutic strategies reshaping the broader SCLC landscape. We additionally discuss the translational science underpinning DLL3 as a biomarker, including the emerging roles of circulating tumor cell-based liquid biopsy and DLL3-directed immunoPET-CT imaging in patient selection and treatment monitoring.",
+      "journal": "Cancer treatment reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Internal Medicine, University of California Irvine School of Medicine, 101 The City Drive South, Orange, CA, 92868, United States.",
+        "Department of Internal Medicine, University of California Irvine School of Medicine, 101 The City Drive South, Orange, CA, 92868, United States; Department of Medicine, St. Marianna University School of Medicine, Kawasaki, JAPAN. Electronic address: nagasakm@hs.uci.edu."
+      ],
+      "doi": "10.1016/j.ctrv.2026.103234",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951714/"
+    },
+    {
       "pmid": "42949850",
       "title": "Circulating Tumor DNA in High-Grade Upper Tract Urothelial Carcinoma After Surgical Resection.",
       "abstract": "",
@@ -447,31 +474,137 @@
       "doi": "10.1016/j.apsb.2026.07.050",
       "date": "2026-07-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948694/"
-    },
-    {
-      "pmid": "42948564",
-      "title": "Liquid Biopsy: Past, Present, and Future.",
-      "abstract": "Liquid biopsy has evolved over two decades from an extension of tissue genotyping into a minimally invasive approach for repeat and longitudinal molecular assessment across the cancer continuum. Advances in sequencing, digital PCR, error suppression, and computational analytics have expanded analytes beyond circulating tumor DNA and circulating tumor cells to extracellular vesicles, circulating RNAs, and tumor-educated platelets, while broadening readouts from mutations to methylation, fragmentomics, transcriptomics, proteomics, and multiomic integration. This review traces the field from its technological foundations to current applications in early detection and multicancer early detection, therapy selection and resistance monitoring, minimal residual disease, recurrence-risk stratification, and longitudinal response assessment across major cancers and selected nononcologic settings. We distinguish clinically established applications from emerging and exploratory strategies and emphasize that high analytical performance does not by itself establish clinical utility. We further discuss preanalytical handling, standardization, biological confounders, and evidence required for implementation. Future progress will depend on use-case-driven development, prospective utility studies, longitudinal and multimodal interpretation, and integration with established diagnostic pathways. Together, these priorities define a transition from molecular detectability toward reproducible, actionable, and clinically meaningful liquid biopsy.",
-      "journal": "MedComm",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Urology The Second Xiangya Hospital at Central South University Changsha Hunan China.",
-        "Xiangya School of Medicine Central South University Changsha Hunan China.",
-        "Department of Urology Xiangya Hospital Central South University Changsha Hunan China.",
-        "Washington University School of Medicine St Louis Missouri USA.",
-        "Guangdong Medical University Dongguan Guangdong China.",
-        "Department of Nephrology Xiangya Hospital at Central South University Changsha Hunan China.",
-        "National Clinical Research Center for Metabolic Disease Key Laboratory of Diabetes Immunology (Central South University) Ministry of Education Changsha Hunan China."
-      ],
-      "doi": "10.1002/mco2.71085",
-      "date": "2026-10-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948564/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42951714",
+      "date": "2026-10-29",
+      "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951714/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42951714。",
+      "report": "Small cell lung cancer (SCLC) remains one of the most lethal thoracic malignancies, characterized by rapid progression, early metastasis, and limited durable responses to conventional therapy. Delta-like ligand 3 (DLL3), a Notch pathway inhibitory ligand aberr...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42951087",
+      "date": "2026-10-28",
+      "title": "cGAS-STING activation promotes abdominal aortic aneurysm formation in mice and humans: Therapeutic potential of inhibition.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951087/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochemical pharmacology，PMID 为 42951087。",
+      "report": "Abdominal aortic aneurysm (AAA) is a life-threatening vascular disease lacking effective pharmacotherapy. The cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) innate immune pathway has been linked to inflammatory conditions, yet its role in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42950990",
+      "date": "2026-10-28",
+      "title": "Engineering human brain microphysiological systems for alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE) modeling and drug testing: translational promise, limitations, and future directions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42950990/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced drug delivery reviews，PMID 为 42950990。",
+      "report": "This review examines the emerging role of human brain microphysiological systems (HBMPS) in recapitulating diseases and evaluating their translational potential and limitations for Alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE). Both disor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42950820",
+      "date": "2026-10-28",
+      "title": "Organoids and organs-on-a-chip as new approach methodologies at the convergence of cell biology and bioengineering.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42950820/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42950820。",
+      "report": "The rapid growth of new approach methodologies (NAMs), including organoids and organs-on-a-chip (OOCs), has revealed a need for interdisciplinary dialogue between cell biologists and bioengineers to develop human models that can best complement therapeutic dev...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42949819",
       "date": "2026-10-28",
@@ -675,34 +808,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42949237",
-      "date": "2026-10-27",
-      "title": "An Inverted Organoid-Derived Intestinal Epithelial Monolayer Model for Studying Immune Cell-Epithelial Interactions.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949237/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42949237。",
-      "report": "Human intestinal organoids provide a powerful model system to study epithelial biology by preserving key characteristics of intestinal tissue organization, cellular differentiation, and function. However, their three-dimensional architecture limits direct expe...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42935351",
       "date": "2026-10-27",
       "title": "DRAGON-3D: an electron-density-aware generative model for dual-target drug molecule generation.",
@@ -731,38 +836,6 @@
       "fact": "PubMed 记录显示该文献收录于 Physical chemistry chemical physics : PCCP，PMID 为 42935351。",
       "report": "Dual-target drug molecule generation is a significant computational challenge due to the structural constraints imposed by two protein binding pockets. Existing generative models typically rely on scarce dual-target drug datasets and struggle to capture three-...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42948564",
-      "date": "2026-10-27",
-      "title": "Liquid Biopsy: Past, Present, and Future.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948564/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 42948564。",
-      "report": "Liquid biopsy has evolved over two decades from an extension of tissue genotyping into a minimally invasive approach for repeat and longitudinal molecular assessment across the cancer continuum. Advances in sequencing, digital PCR, error suppression, and compu...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -926,66 +999,6 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular cell，PMID 为 42880218。",
       "report": "We are just over a decade into the single-cell revolution in biology, which has been coupled to the growing use of artificial intelligence (AI) in single-cell genomics. Most early single-cell RNA embedding models and subsequent \"foundation models\"-representati...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42948404",
-      "date": "2026-10-13",
-      "title": "PANoptosis: a novel therapeutic target and mechanistic insight into traditional Chinese medicine intervention in inflammatory bowel disease: a review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948404/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42948404。",
-      "report": "The rising incidence of inflammatory bowel disease (IBD) and the limited efficacy of current therapies underscore the need for novel strategies. PANoptosis is an inflammatory programmed cell-death process integrating molecular features of pyroptosis, apoptosis...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42948349",
-      "date": "2026-10-13",
-      "title": "Mechanisms of traditional Chinese medicine interventions in the gastric 'inflammation-to-carcinoma' cascade: advances in in vitro models from monolayer cells to organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948349/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42948349。",
-      "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide. The Correa cascade, progressing from chronic gastritis through precancerous lesions to adenocarcinoma, provides the framework for understanding gastric mucosal stepwise malignant tra...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
