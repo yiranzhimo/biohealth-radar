@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-30T13:04:27.333857+00:00",
+  "capturedAt": "2026-10-30T22:26:18.067160+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-16",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-10-30",
+      "reportDate": "2026-09-27",
+      "acceptanceDateTime": "2026-10-30T20:14:37.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-35406",
+      "filmNumber": "261508203",
+      "items": "",
+      "size": 8939926,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ilmn-20260927.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001110803-26-000207",
+      "companyId": "illumina",
+      "companyName": "Illumina",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "ILMN",
+      "cik": "0001110803",
+      "secName": "ILLUMINA, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm"
+    },
     {
       "filingDate": "2026-10-29",
       "reportDate": "2026-10-29",
@@ -393,6 +418,37 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001110803-000111080326000207",
+      "date": "2026-10-30",
+      "title": "Illumina filed Form 10-Q",
+      "entity": "Illumina",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ILMN"
+      ],
+      "companyIds": [
+        "illumina"
+      ],
+      "fact": "SEC EDGAR lists accession 0001110803-26-000207 for Illumina, Form 10-Q, filed on 2026-10-30.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001110803-000111080326000202",
       "date": "2026-10-29",

@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-10-30",
   "summary": {
     "profileCount": 621,
-    "evidenceCount": 1017,
+    "evidenceCount": 1018,
     "programCandidateCount": 0,
     "companyCandidateCount": 593,
     "companyMentionCount": 662,
@@ -45523,6 +45523,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-10-30",
+            "title": "Illumina filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-07-31",
             "title": "Illumina filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm",
@@ -45601,6 +45609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001110803-000111080326000207",
           "evidence-sec-0001110803-000111080326000202",
           "evidence-company-illumina-official-276ec0a2d6af",
           "evidence-company-illumina-pipeline-3e2858fee81b",
@@ -45618,6 +45627,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001110803-000111080326000207",
+            "date": "2026-10-30",
+            "title": "Illumina filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001110803-000111080326000207",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm"
+          },
           {
             "id": "event-sec-0001110803-000111080326000202",
             "date": "2026-10-29",
@@ -45661,17 +45681,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001110803-000111080326000195",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
-          },
-          {
-            "id": "event-sec-0001110803-000119312526354010",
-            "date": "2026-08-17",
-            "title": "Illumina filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001110803-000119312526354010",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526354010/d51146d8k.htm"
           }
         ],
         "inferences": [],
@@ -45681,12 +45690,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "coverage": {
-        "evidenceCount": 12,
+        "evidenceCount": 13,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 10
+          "Filing": 11
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-10-30",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -45694,6 +45703,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001110803-000111080326000207",
+          "date": "2026-10-30",
+          "title": "Illumina filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001110803-000111080326000207",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm"
+        },
         {
           "id": "event-sec-0001110803-000111080326000202",
           "date": "2026-10-29",
@@ -45770,17 +45790,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000119312526346923",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
-        },
-        {
-          "id": "event-sec-0001110803-000119312526345802",
-          "date": "2026-08-12",
-          "title": "Illumina filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001110803-000119312526345802",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526345802/d141344d8k.htm"
         }
       ]
     },
@@ -81148,7 +81157,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -81231,7 +81240,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -81306,7 +81315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -81389,7 +81398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "insufficient_identity_evidence"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "ClinicalTrials"
@@ -81470,7 +81479,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81555,7 +81564,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81640,7 +81649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81725,7 +81734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81810,7 +81819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81895,7 +81904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -81980,7 +81989,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82065,7 +82074,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82150,7 +82159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82235,7 +82244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82320,7 +82329,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82405,7 +82414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82490,7 +82499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82575,7 +82584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82660,7 +82669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82745,7 +82754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82830,7 +82839,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -82915,7 +82924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83000,7 +83009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83085,7 +83094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83170,7 +83179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83255,7 +83264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83340,7 +83349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83425,7 +83434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83510,7 +83519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83595,7 +83604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83680,7 +83689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83765,7 +83774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83850,7 +83859,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -83935,7 +83944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84020,7 +84029,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84105,7 +84114,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84190,7 +84199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84275,7 +84284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84360,7 +84369,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84445,7 +84454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84530,7 +84539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84615,7 +84624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84700,7 +84709,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84785,7 +84794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84870,7 +84879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -84955,7 +84964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85040,7 +85049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85125,7 +85134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85210,7 +85219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85295,7 +85304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85380,7 +85389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85465,7 +85474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85550,7 +85559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85635,7 +85644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85720,7 +85729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85805,7 +85814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85890,7 +85899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -85975,7 +85984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86060,7 +86069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86145,7 +86154,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86230,7 +86239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86315,7 +86324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86400,7 +86409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86485,7 +86494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86570,7 +86579,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86655,7 +86664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86740,7 +86749,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86825,7 +86834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86910,7 +86919,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -86995,7 +87004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87080,7 +87089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87165,7 +87174,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87250,7 +87259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87335,7 +87344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87420,7 +87429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87505,7 +87514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87590,7 +87599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87675,7 +87684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87760,7 +87769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87845,7 +87854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -87930,7 +87939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88015,7 +88024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88100,7 +88109,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88185,7 +88194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88270,7 +88279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88355,7 +88364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88440,7 +88449,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88525,7 +88534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88610,7 +88619,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88695,7 +88704,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88780,7 +88789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88865,7 +88874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -88950,7 +88959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89035,7 +89044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89120,7 +89129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89205,7 +89214,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89290,7 +89299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89375,7 +89384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89460,7 +89469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89545,7 +89554,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89630,7 +89639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89715,7 +89724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89800,7 +89809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89885,7 +89894,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -89970,7 +89979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90055,7 +90064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90140,7 +90149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90225,7 +90234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90310,7 +90319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90395,7 +90404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90480,7 +90489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90565,7 +90574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90650,7 +90659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90735,7 +90744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90820,7 +90829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90905,7 +90914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -90990,7 +90999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91075,7 +91084,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91160,7 +91169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91245,7 +91254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91330,7 +91339,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91415,7 +91424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91500,7 +91509,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91585,7 +91594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91670,7 +91679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91755,7 +91764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91840,7 +91849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -91925,7 +91934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92010,7 +92019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92095,7 +92104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92180,7 +92189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92265,7 +92274,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92350,7 +92359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92435,7 +92444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92520,7 +92529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92605,7 +92614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92690,7 +92699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92775,7 +92784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92860,7 +92869,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -92945,7 +92954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93030,7 +93039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93115,7 +93124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93200,7 +93209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93285,7 +93294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93370,7 +93379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93455,7 +93464,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93540,7 +93549,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93625,7 +93634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93710,7 +93719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93795,7 +93804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93880,7 +93889,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -93965,7 +93974,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94050,7 +94059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94135,7 +94144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94220,7 +94229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94305,7 +94314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94390,7 +94399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94475,7 +94484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94560,7 +94569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94645,7 +94654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94730,7 +94739,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94815,7 +94824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94900,7 +94909,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -94985,7 +94994,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95070,7 +95079,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95155,7 +95164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95240,7 +95249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95325,7 +95334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95410,7 +95419,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95495,7 +95504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95580,7 +95589,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95665,7 +95674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95750,7 +95759,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95835,7 +95844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -95920,7 +95929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96005,7 +96014,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96090,7 +96099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96175,7 +96184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96260,7 +96269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96345,7 +96354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96430,7 +96439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96515,7 +96524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96600,7 +96609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96685,7 +96694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96770,7 +96779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96855,7 +96864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -96940,7 +96949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97025,7 +97034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97110,7 +97119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97195,7 +97204,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97280,7 +97289,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97365,7 +97374,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97450,7 +97459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97535,7 +97544,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97620,7 +97629,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97705,7 +97714,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97790,7 +97799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97875,7 +97884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -97960,7 +97969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98045,7 +98054,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98130,7 +98139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98215,7 +98224,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98300,7 +98309,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98385,7 +98394,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98470,7 +98479,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98555,7 +98564,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98640,7 +98649,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98725,7 +98734,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98810,7 +98819,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98895,7 +98904,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -98980,7 +98989,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99065,7 +99074,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99150,7 +99159,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99235,7 +99244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99320,7 +99329,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99405,7 +99414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99490,7 +99499,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99575,7 +99584,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99660,7 +99669,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99745,7 +99754,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99830,7 +99839,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -99915,7 +99924,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100000,7 +100009,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100085,7 +100094,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100170,7 +100179,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100255,7 +100264,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100340,7 +100349,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100425,7 +100434,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100510,7 +100519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100595,7 +100604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100680,7 +100689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100765,7 +100774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100850,7 +100859,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -100935,7 +100944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101020,7 +101029,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101105,7 +101114,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101190,7 +101199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101275,7 +101284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101360,7 +101369,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101445,7 +101454,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101530,7 +101539,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101615,7 +101624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101700,7 +101709,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101785,7 +101794,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101870,7 +101879,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -101955,7 +101964,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102040,7 +102049,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102125,7 +102134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102210,7 +102219,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102295,7 +102304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102380,7 +102389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102465,7 +102474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102550,7 +102559,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102635,7 +102644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102720,7 +102729,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102805,7 +102814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102890,7 +102899,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -102975,7 +102984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103060,7 +103069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103145,7 +103154,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103230,7 +103239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103315,7 +103324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103400,7 +103409,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103485,7 +103494,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103570,7 +103579,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103655,7 +103664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103740,7 +103749,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103825,7 +103834,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103910,7 +103919,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -103995,7 +104004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104080,7 +104089,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104165,7 +104174,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104250,7 +104259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104335,7 +104344,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104420,7 +104429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104505,7 +104514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104590,7 +104599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104675,7 +104684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104760,7 +104769,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104845,7 +104854,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -104930,7 +104939,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105015,7 +105024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105100,7 +105109,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105185,7 +105194,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105270,7 +105279,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105355,7 +105364,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105440,7 +105449,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105525,7 +105534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105610,7 +105619,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105695,7 +105704,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105780,7 +105789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105865,7 +105874,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -105950,7 +105959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106035,7 +106044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106120,7 +106129,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106205,7 +106214,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106290,7 +106299,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106375,7 +106384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106460,7 +106469,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106545,7 +106554,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106630,7 +106639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106715,7 +106724,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106800,7 +106809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106885,7 +106894,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -106970,7 +106979,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107055,7 +107064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107140,7 +107149,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107225,7 +107234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107310,7 +107319,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107395,7 +107404,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107480,7 +107489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107565,7 +107574,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107650,7 +107659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107735,7 +107744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107820,7 +107829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107905,7 +107914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -107990,7 +107999,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108075,7 +108084,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108160,7 +108169,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108245,7 +108254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108330,7 +108339,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108415,7 +108424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108500,7 +108509,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108585,7 +108594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108670,7 +108679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108755,7 +108764,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108840,7 +108849,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -108925,7 +108934,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109010,7 +109019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109095,7 +109104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109180,7 +109189,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109265,7 +109274,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109350,7 +109359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109435,7 +109444,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109520,7 +109529,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109605,7 +109614,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109690,7 +109699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109775,7 +109784,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109860,7 +109869,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -109945,7 +109954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110030,7 +110039,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110115,7 +110124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110200,7 +110209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110285,7 +110294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110370,7 +110379,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110455,7 +110464,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110540,7 +110549,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110625,7 +110634,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110710,7 +110719,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110795,7 +110804,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110880,7 +110889,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -110965,7 +110974,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111050,7 +111059,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111135,7 +111144,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111220,7 +111229,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111305,7 +111314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111390,7 +111399,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111475,7 +111484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111560,7 +111569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111645,7 +111654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111730,7 +111739,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111815,7 +111824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111900,7 +111909,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -111985,7 +111994,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112070,7 +112079,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112155,7 +112164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112240,7 +112249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112325,7 +112334,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112410,7 +112419,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112495,7 +112504,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112580,7 +112589,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112665,7 +112674,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112750,7 +112759,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112835,7 +112844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -112920,7 +112929,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113005,7 +113014,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113090,7 +113099,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113175,7 +113184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113260,7 +113269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113345,7 +113354,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113430,7 +113439,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113515,7 +113524,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113600,7 +113609,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113685,7 +113694,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113770,7 +113779,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113855,7 +113864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "SEC"
@@ -113940,7 +113949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114028,7 +114037,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114116,7 +114125,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114204,7 +114213,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114292,7 +114301,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114380,7 +114389,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114468,7 +114477,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114556,7 +114565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114644,7 +114653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114732,7 +114741,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114820,7 +114829,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114908,7 +114917,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -114996,7 +115005,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115084,7 +115093,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115172,7 +115181,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115260,7 +115269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115348,7 +115357,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115436,7 +115445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115524,7 +115533,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115612,7 +115621,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115700,7 +115709,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115788,7 +115797,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115876,7 +115885,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -115964,7 +115973,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116052,7 +116061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116155,7 +116164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -116260,7 +116269,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -116350,7 +116359,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116438,7 +116447,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116526,7 +116535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116614,7 +116623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116702,7 +116711,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116790,7 +116799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116878,7 +116887,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -116966,7 +116975,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117054,7 +117063,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117142,7 +117151,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117230,7 +117239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117318,7 +117327,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117406,7 +117415,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117494,7 +117503,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117582,7 +117591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117670,7 +117679,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117758,7 +117767,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117846,7 +117855,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -117934,7 +117943,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118022,7 +118031,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118110,7 +118119,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118198,7 +118207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118286,7 +118295,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118389,7 +118398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX",
@@ -118479,7 +118488,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118567,7 +118576,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118655,7 +118664,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118743,7 +118752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118831,7 +118840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -118919,7 +118928,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119007,7 +119016,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119095,7 +119104,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119183,7 +119192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119271,7 +119280,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119359,7 +119368,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119447,7 +119456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119535,7 +119544,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119623,7 +119632,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119711,7 +119720,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119799,7 +119808,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119887,7 +119896,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -119975,7 +119984,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120063,7 +120072,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120151,7 +120160,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120239,7 +120248,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120327,7 +120336,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120415,7 +120424,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120503,7 +120512,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120591,7 +120600,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HKEX"
@@ -120679,7 +120688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120767,7 +120776,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120855,7 +120864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -120943,7 +120952,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121031,7 +121040,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121119,7 +121128,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121207,7 +121216,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121295,7 +121304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121383,7 +121392,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121471,7 +121480,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121559,7 +121568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121647,7 +121656,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121735,7 +121744,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121823,7 +121832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121911,7 +121920,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -121999,7 +122008,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122087,7 +122096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122175,7 +122184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122263,7 +122272,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122351,7 +122360,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122439,7 +122448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122527,7 +122536,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122615,7 +122624,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122703,7 +122712,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "HSI"
@@ -122799,7 +122808,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122893,7 +122902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -122987,7 +122996,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123081,7 +123090,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123175,7 +123184,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123269,7 +123278,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123363,7 +123372,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123457,7 +123466,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123551,7 +123560,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123645,7 +123654,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123739,7 +123748,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123833,7 +123842,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -123927,7 +123936,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124021,7 +124030,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124115,7 +124124,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124209,7 +124218,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124303,7 +124312,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124397,7 +124406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124491,7 +124500,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124585,7 +124594,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124679,7 +124688,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124773,7 +124782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124867,7 +124876,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -124961,7 +124970,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125055,7 +125064,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125149,7 +125158,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125243,7 +125252,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125337,7 +125346,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125431,7 +125440,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125525,7 +125534,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125619,7 +125628,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125713,7 +125722,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125807,7 +125816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125901,7 +125910,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -125995,7 +126004,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126089,7 +126098,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126183,7 +126192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126277,7 +126286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126371,7 +126380,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126465,7 +126474,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126559,7 +126568,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126653,7 +126662,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126747,7 +126756,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126841,7 +126850,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -126935,7 +126944,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127029,7 +127038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127123,7 +127132,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127217,7 +127226,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127311,7 +127320,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "CSI"
@@ -127399,7 +127408,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127489,7 +127498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127583,7 +127592,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127671,7 +127680,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127761,7 +127770,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127853,7 +127862,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -127945,7 +127954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128035,7 +128044,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128125,7 +128134,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128235,7 +128244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128326,7 +128335,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128422,7 +128431,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128510,7 +128519,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128602,7 +128611,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128696,7 +128705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128790,7 +128799,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128878,7 +128887,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -128972,7 +128981,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129060,7 +129069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129152,7 +129161,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129250,7 +129259,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129344,7 +129353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129436,7 +129445,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129526,7 +129535,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129614,7 +129623,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129704,7 +129713,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129800,7 +129809,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129896,7 +129905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -129986,7 +129995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130076,7 +130085,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130168,7 +130177,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130262,7 +130271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130358,7 +130367,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130450,7 +130459,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130542,7 +130551,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130630,7 +130639,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130718,7 +130727,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130808,7 +130817,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130896,7 +130905,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -130994,7 +131003,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131088,7 +131097,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131176,7 +131185,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131272,7 +131281,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131364,7 +131373,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131454,7 +131463,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131556,7 +131565,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131649,7 +131658,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131741,7 +131750,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131835,7 +131844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -131923,7 +131932,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132015,7 +132024,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132107,7 +132116,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132199,7 +132208,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132295,7 +132304,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132387,7 +132396,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132483,7 +132492,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132573,7 +132582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
@@ -132663,7 +132672,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "flags": [
           "official_business_profile_pending"
         ],
-        "reviewedAt": "2026-10-30T13:04:23.521551+00:00",
+        "reviewedAt": "2026-10-30T22:26:13.183658+00:00",
         "policyVersion": "company-intake-v3",
         "sourceTypes": [
           "NIH"
