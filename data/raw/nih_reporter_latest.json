@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-10-29T10:00:18+00:00",
+  "capturedAt": "2026-10-30T10:03:39+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -665,34 +665,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
     },
     {
-      "applId": 11416294,
-      "projectNum": "5R44CA302091-02",
-      "projectTitle": "Ultra-fast manufactured CAR-T therapy",
-      "fiscalYear": 2026,
-      "awardAmount": 1125000,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2025-09-15",
-      "projectEndDate": "2027-08-31",
-      "organization": {
-        "name": "KURE CELLS INC",
-        "city": "SHAKER HEIGHTS",
-        "state": "OH",
-        "country": "UNITED STATES",
-        "uei": "JCZPXLMQQ2D1",
-        "ipf": "10065823",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Novel therapeutic approaches are urgently needed for patients with relapsed/refractory cancers. Chimeric Antigen Receptor (CAR) T cell therapies have exhibited remarkable promise particularly for patients with relapsed/refractory B cell malignancies. Though current CAR-T…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
-    },
-    {
       "applId": 11411298,
       "projectNum": "5R44CA309843-02",
       "projectTitle": "Novel Telomere-Targeting Therapy for Advanced Non-Small Cell Lung Cancer",
@@ -716,63 +688,6 @@
       "topicHints": [],
       "projectSummaryExcerpt": "Summary: With non-small cell lung cancer (NSCLC) persisting as a leading cause of cancer mortality worldwide and resistant to many standard treatments, MAIA Biotechnology, Inc. is focused on developing THIO, a novel therapeutic agent aimed at improving treatment outcomes in…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11411298"
-    },
-    {
-      "applId": 11410609,
-      "projectNum": "1R43AG102280-01",
-      "projectTitle": "Extracellular Vesicle encapsulated Adeno-associated virus (EV-AAV)-mediated delivery of Neurotrophic factor-α1(NF- α1)/Carboxypeptidase E (CPE) gene (EV-AAV-CPE) as a therapy for Alzheimer's Disease.",
-      "fiscalYear": 2026,
-      "awardAmount": 349359,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-17",
-      "projectEndDate": "2028-02-29",
-      "organization": {
-        "name": "XOSOMIX LLC",
-        "city": "SAN DIEGO",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "KCWEJH659NZ9",
-        "ipf": "10062583",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "PROJECT ABSTRACT. About 56 million people globally suffer from dementia, with Alzheimer’s disease (AD) accounting for 60 to 80% of the cases. This number is expected to triple by 2050. In United States alone, about 6.7 million older adults have Alzheimer's disease, and around…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11410609"
-    },
-    {
-      "applId": 11410331,
-      "projectNum": "1R43AG099682-01A1",
-      "projectTitle": "Rejuvenis: A Partially Reprogramming Small Molecule Drug for Brain Rejuvenation and Alzheimer's Disease Therapy",
-      "fiscalYear": 2026,
-      "awardAmount": 544789,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-17",
-      "projectEndDate": "2027-09-16",
-      "organization": {
-        "name": "BELLWETHERS INC.",
-        "city": "MURRIETA",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "XV3NP1RSMHM7",
-        "ipf": "10075739",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "Significance: Alzheimer’s disease (AD) is a progressive neurodegenerative disorder that impairs cognition, function, and independence, ultimately leading to death. Over 55 million people worldwide are affected, with aging as the greatest risk factor. Existing therapies provide…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
     },
     {
       "applId": 11410177,
@@ -902,6 +817,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
+        "gene therapy",
         "molecular diagnostics"
       ],
       "topicHints": [
@@ -1514,12 +1430,13 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "topicHints": [
-        "RNA Therapeutics",
+        "AI Drug Discovery",
         "Precision Diagnostics",
-        "AI Drug Discovery"
+        "RNA Therapeutics"
       ],
       "projectSummaryExcerpt": "Abstract Alzheimer’s Disease (AD) is the most common form of late-onset dementia, affecting 7 million Americans, with prevalence expected to double by 2050. AD is associated with accumulation of misfolded protein aggregates including β-amyloid and tau, with apolipoprotein E and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
@@ -1575,6 +1492,35 @@
       ],
       "projectSummaryExcerpt": "SUMMARY The integration of multi-omics data provides a comprehensive understanding of human physiology, offering an exciting approach for disease monitoring and health management. Unfortunately, challenges remain in acquiring appropriate biospecimens for multi-omics analysis,…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
+    },
+    {
+      "applId": 11314137,
+      "projectNum": "1R44CA310250-01",
+      "projectTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics",
+      "fiscalYear": 2026,
+      "awardAmount": 1052108,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-18",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "CELLFE INC.",
+        "city": "ATLANTA",
+        "state": "GA",
+        "country": "UNITED STATES",
+        "uei": "M34JNT47EKK3",
+        "ipf": "10048774",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Gene Editing / Gene Therapy",
+        "Cell Therapy",
+        "RNA Therapeutics"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Genetic modification of patient blood cells in the laboratory (“ex vivo”) has been transformational in treatment of blood malignancies, most notably through the use of engineering T-cells (CAR-T or TCR T-cells) to recognize and attack blood cancer cells. Despite…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
     },
     {
       "applId": 11313383,
@@ -1685,6 +1631,60 @@
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
+    },
+    {
+      "applId": 11292808,
+      "projectNum": "2R44HL167349-03",
+      "projectTitle": "CRI-103 gene therapy as Investigational New Drug for Dilated Cardiomyopathy",
+      "fiscalYear": 2026,
+      "awardAmount": 1159408,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2023-09-14",
+      "projectEndDate": "2029-08-31",
+      "organization": {
+        "name": "CARDIAC RSK3 INHIBITORS, LLC",
+        "city": "LOS ALTOS",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "D38ER7T7B8L8",
+        "ipf": "10039821",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+    },
+    {
+      "applId": 11254697,
+      "projectNum": "2R44TR005335-02A1",
+      "projectTitle": "High-throughput kinetic system for small-molecule drug discovery",
+      "fiscalYear": 2026,
+      "awardAmount": 1401698,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-15",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "CAPIENDA BIOTECH, LLC",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "EGF7MDLBABC6",
+        "ipf": "10049147",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "drug discovery"
+      ],
+      "topicHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
     }
   ]
 }
