@@ -4,124 +4,15 @@
   "asOfDate": "2026-10-30",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1f24b5112d7ec8df",
-      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
-      "normalizedName": "kingbio medical beijing",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06406608",
-      "sourceDate": "2024-05-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406608",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Drug-resistant Recurrent Non-Small Cell Lung Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-3d6a325cfa9775f4",
-      "observedName": "Truway Health, Inc.",
-      "normalizedName": "truway health",
+      "id": "mention-clinicaltrials-2c6b17acb750a2d3",
+      "observedName": "MedImmune LLC",
+      "normalizedName": "medimmune",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07817550",
-      "sourceDate": "2026-09-14",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07817550",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Multimodal Digital Biomarker Prediction of Acute Clinical Deterioration"
-    },
-    {
-      "id": "mention-clinicaltrials-c6c0c4b97c874714",
-      "observedName": "CIRCULATE, Inc.",
-      "normalizedName": "circulate",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06534450",
-      "sourceDate": "2024-08-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06534450",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "The Effects Of Therapeutic Plasma Exchange (TPE) On Age Related Biomarkers And Epigenetics"
-    },
-    {
-      "id": "mention-clinicaltrials-dba74d990c5cd6ea",
-      "observedName": "Kingbio Medical (Beijing) Co., Ltd.",
-      "normalizedName": "kingbio medical beijing",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06406660",
-      "sourceDate": "2024-05-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06406660",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Advanced Disease Models",
-        "Clinical Trials",
-        "Oncology",
-        "Organoids",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "疾病模型",
-        "类器官",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Patient-derived Organoid Drug Sensitivity Guided Treatment for Recurrent Small Cell Lung Cancer"
-    },
-    {
-      "id": "mention-clinicaltrials-e419b44087ef68ea",
-      "observedName": "Puma Biotechnology, Inc.",
-      "normalizedName": "puma biotechnology",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT00266877",
-      "sourceDate": "2018-04-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00266877",
+      "sourceRecordId": "NCT01030536",
+      "sourceDate": "2018-04-09",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01030536",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -135,7 +26,80 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study Evaluating the Safety Of HKI-272 (Neratinib) In Subjects With Advanced Non-Small Cell Lung Cancer"
+      "contextTitle": "Safety Study of CAT-8015 to Treat Advanced B-cell Non-Hodgkin Lymphoma and Chronic Lymphocytic Leukemia (NHL or CLL)"
+    },
+    {
+      "id": "mention-clinicaltrials-38917de45eafd4aa",
+      "observedName": "Sarepta Therapeutics, Inc.",
+      "normalizedName": "sarepta therapeutics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05096221",
+      "sourceDate": "2025-07-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
+    },
+    {
+      "id": "mention-clinicaltrials-8a3b2ac40be1ba34",
+      "observedName": "Pierian Biosciences",
+      "normalizedName": "pierian biosciences",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06844136",
+      "sourceDate": "2025-02-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
+    },
+    {
+      "id": "mention-clinicaltrials-f1787d1b2f71858b",
+      "observedName": "Cellnovo Limited",
+      "normalizedName": "cellnovo",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03186300",
+      "sourceDate": "2026-03-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03186300",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

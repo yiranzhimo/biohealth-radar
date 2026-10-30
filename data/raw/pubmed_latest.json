@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-30T05:56:11.612192+00:00",
+  "capturedAt": "2026-10-30T13:04:20.512879+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,145 +14,163 @@
     "end": "2026-10-30"
   },
   "pmids": [
-    "42956743",
-    "42956741",
-    "42955874",
-    "42955574",
-    "42955398",
-    "42953792",
+    "42958463",
+    "42958413",
+    "42958387",
+    "42957910",
+    "42957865",
+    "42957750",
     "42952019",
     "42941810",
     "42940052",
     "42930128",
     "42893561",
     "42890802",
+    "42957731",
     "42956714",
     "42951937",
     "42948713",
     "42939789",
     "42935351",
-    "42933412",
+    "42958443",
+    "42957789",
     "42956745",
     "42955008",
     "42953558",
-    "42953478",
-    "42953329",
-    "42952741"
+    "42953478"
   ],
   "records": [
     {
-      "pmid": "42956743",
-      "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer.",
-      "abstract": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and matched tumor tissues reveals a KRASG12D-mutant subset intrinsically resistant to KRASG12D-targeted therapeutics, characterized by marked downregulation of innate immune signaling pathways. Functional validation demonstrates that suppressing interferon signaling in sensitive models induces resistance, whereas activation of interferon signaling, particularly interferon beta (IFN-β), increases sensitivity in resistant models. Combining IFN-β with KRAS inhibitors (MRTX1133, HRS-4642, and RMC-6236) exhibits synergistic antitumor effects in intrinsically resistant pancreatic cancer. Mechanistically, sustained MYC activity is associated with attenuated sensitivity to KRAS inhibition and correlates with repressed interferon signaling, suggesting a potential role in promoting intrinsic resistance. These findings identify interferon signaling as a candidate determinant of KRAS-targeted therapy response and support interferon-based combinations as a potential strategy for intrinsically resistant pancreatic cancer.",
-      "journal": "Cancer cell",
+      "pmid": "42958463",
+      "title": "Chromatin accessibility dynamics during kidney organoid induction from human embryonic stem cells.",
+      "abstract": "Human kidney development remains incompletely characterized at the level of chromatin accessibility. Here, we investigate chromatin accessibility dynamics (CAD) during the differentiation of human embryonic stem cells (hESCs) into kidney organoids (E-iKOs). Time-course ATAC-seq reveals progressive remodeling of pluripotency-associated chromatin landscapes toward an intermediate mesoderm state, followed by metanephric mesenchyme specification and early nephron epithelialization. These transitions are accompanied by increased accessibility at genomic regions enriched for binding motifs of transcription factors, including SIX, HOX, LHX, PAX, EBF, RFX, WT1, HNF1B, and TEAD. Functional analyses demonstrate that HNF1β is required for tubular differentiation, as HNF1β deficiency results in severe defects in tubule formation while podocytes remain detectable. Integrative analysis of chromatin accessibility and time-course transcriptomics further identifies the histone H3K79 methyltransferase DOT1L as a regulator required for nephron progenitor induction and epithelial differentiation. DOT1L deficiency is associated with widespread alterations in chromatin accessibility and gene expression, particularly at regions enriched for SIX, HOX, PAX, EBF, WT1, HNF1B, and TEAD motifs, accompanied by impaired mesenchymal-to-epithelial transition. Together, this study provides a valuable resource describing chromatin accessibility dynamics during human kidney organoid differentiation and a foundation for future studies of human nephrogenesis in vitro.",
+      "journal": "Cell & bioscience",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-        "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; The First Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China.",
-        "Department of Laboratory Medicine, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200080, China; College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
-        "Department of Hepatobiliary Pancreatic Surgery, Changhai Hospital, Second Military Medical University (Naval Medical University), Shanghai 200433, China.",
-        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
-        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China.",
-        "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: wzjtcy@126.com.",
-        "Department of Laboratory Medicine, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200080, China; College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: wanglin987654321@126.com.",
-        "Department of Hepatobiliary Pancreatic Surgery, Changhai Hospital, Second Military Medical University (Naval Medical University), Shanghai 200433, China. Electronic address: jingang@smmu.edu.cn.",
-        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Shanghai Academy of Natural Sciences (SANS), Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China. Electronic address: dong.gao@sibcb.ac.cn."
+        "Key Laboratory of Biological Targeting Diagnosis, Therapy and Rehabilitation of Guangdong Higher Education Institute, Department of nephrology,, The Fifth Affiliated Hospital of Guangzhou Medical University；Guangzhou National Laboratory, Guangzhou, Guangdong, China.",
+        "Department of Nephropathy, The First Affiliated Hospital of Zhengzhou University, No. 1 East Jianshe Road, Zhengzhou, Henan, China.",
+        "School of Biosciences & Biopharmaceutics, Guangdong Pharmaceutical University, Guangzhou, Guangdong, China.",
+        "Laboratory of Cell Fate Control, School of Life Sciences, Westlake University, Hangzhou, Zhejiang, China. peiduanqing@westlake.edu.cn.",
+        "Key Laboratory of Biological Targeting Diagnosis, Therapy and Rehabilitation of Guangdong Higher Education Institute, Department of nephrology,, The Fifth Affiliated Hospital of Guangzhou Medical University；Guangzhou National Laboratory, Guangzhou, Guangdong, China. cao_shangtao@gzlab.ac.cn."
       ],
-      "doi": "10.1016/j.ccell.2026.10.003",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956743/"
+      "doi": "10.1186/s13578-026-01628-6",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958463/"
     },
     {
-      "pmid": "42956741",
-      "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon.",
-      "abstract": "In this issue of Cancer Cell, Zhang et al. perform multi-omics profiling on a large collection of patient-derived pancreatic ductal adenocarcinoma organoids to elucidate the mechanisms underlying intrinsic resistance to KRAS inhibition. This work identifies suppression of innate immune signaling through sustained MYC activity as the principal driver of intrinsic resistance.",
-      "journal": "Cancer cell",
+      "pmid": "42958413",
+      "title": "Fingolimod overcomes cisplatin resistance in esophageal squamous cell carcinoma by targeting NUP54 to disrupt homologous recombination repair.",
+      "abstract": "Cisplatin resistance is a major obstacle in the treatment of esophageal squamous cell carcinoma (ESCC). To address this challenge, we screened a U.S. Food and Drug Administration (FDA)-approved drug library and identified fingolimod, an immunomodulatory agent, as a potent inhibitor of cisplatin-resistant ESCC cells. Fingolimod is likely to directly binds to Glu266 of the nuclear pore complex protein NUP54, promoting its proteasomal degradation. This disrupts the NUP54-NUP58-NUP62 central channel, impairing the nuclear import of the key DNA repair protein SPIDR. Consequently, fingolimod treatment inhibits the recruitment of the SPIDR-RAD51-DMC1 complex by chromatin, causing defective homologous recombination repair, accumulation of DNA damage, and ultimately, the reversal of cisplatin resistance. In addition, fingolimod restored the sensitivity of cisplatin to ESCC treatment in both patient-derived xenograft and organoid models. Our study unveils a novel mechanism by which fingolimod targets the nuclear pore complex to suppress DNA repair, providing a compelling rationale for repurposing fingolimod as a combination therapy to overcome cisplatin resistance in ESCC.",
+      "journal": "Cell communication and signaling : CCS",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Molecular Mechanisms of Cancer Program, Centro de Investigación del Cáncer (CIC), 37007 Salamanca, Spain.",
-        "Molecular Mechanisms of Cancer Program, Centro de Investigación del Cáncer (CIC), 37007 Salamanca, Spain. Electronic address: mdrosten@usal.es."
+        "Shaanxi Key Laboratory of Research and Utilization of Resource Plants on the Loess Plateau, College of Life Sciences, Yan'an University, Yan'an, China.",
+        "Department of Pathology, Xijing Hospital, School of Basic Medicine, Fourth Military Medical University, 169 Changle West Road, Xi'an, 710032, China.",
+        "Shanghai Frontiers Science Center of TCM Chemical Biology, Institute of Interdisciplinary Integrative Medicine Research, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
+        "Department of Clinical Medicine, School of Medicine, Yan'an University, Yan'an, China.",
+        "Department of Life Sciences, Aberystwyth University, Aberystwyth, UK.",
+        "Department of Neurosurgery, General Hospital of Northern Theater Command, 83 Wenhua Road, Shenyang, 110016, China. clg201820271@126.com.",
+        "The South Campus of the Sixth People's Hospital, Shanghai University of Medicine & Health Sciences, No. 6600 Nanfeng Highway, Shanghai, 201400, China. zhenliang6@126.com.",
+        "Department of Reproductive Medicine, Xi'an International Medical Center Hospital, Northwest University, 777 Xitai Road, Xi'an, 710100, China. 361400283@qq.com.",
+        "Department of Pathology, Xijing Hospital, School of Basic Medicine, Fourth Military Medical University, 169 Changle West Road, Xi'an, 710032, China. limingyang1108@sina.com."
       ],
-      "doi": "10.1016/j.ccell.2026.10.001",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956741/"
+      "doi": "10.1186/s12964-026-03113-6",
+      "date": "2026-08-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958413/"
     },
     {
-      "pmid": "42955874",
-      "title": "Effects of physiologically relevant alcohol concentrations on early retinal development: A microfluidic retinal organoid chip analysis.",
-      "abstract": "Fetal alcohol spectrum disorder can lead to aberrant retinal development. However, traditional culture systems fail to avoid alcohol volatilization, leaving the pathogenic mechanisms underlying low-concentration alcohol-induced retinal developmental abnormalities at physiological levels still unclear. In this study, we established a long-term low-concentration (0.03% and 0.1% for 3 weeks) and short-term intoxicating-concentration (0.2% for 24 hours) alcohol exposure model based on microfluidic human retinal organoid chip. We found that long-term 0.1% alcohol exposure leads to reduced proliferation, elevated apoptosis, and severe disruption of the structural organization of the neural retina in human retinal organoids. Using single nuclear RNA sequencing (snRNA-seq), we identified a population of abnormal neurons as HuC/D+/Brn-3A- neurons. SnRNA-seq combined with experimental validation revealed a significant increase in this population following alcohol treatment. Furthermore, we identified that impaired energy metabolism in retinal progenitor cells represents the primary mechanism underlying this aberrant differentiation. Alcohol exposure (0.03%) caused a milder phenotype. Additionally, we observed that short-term exposure to intoxication concentrations of alcohol induced developmental delay in human retinal organoids. Notably, Microelectrode Array recordings further demonstrated that alcohol treatment significantly impaired the functional maturation of human retinal organoids. This study identifies impaired energy metabolism as a key driver of alcohol-induced aberrant neurogenesis in human retinal development, providing a mechanistic basis for exploring therapeutic interventions for fetal alcohol spectrum disorder-associated retinal lesions. It also confirms that the microfluidic retinal organoid chip serves as a reliable platform for the toxicological investigation of volatile substances represented by alcohol.",
-      "journal": "Neural regeneration research",
+      "pmid": "42958387",
+      "title": "Methionine addiction in oral squamous cell carcinoma: a metabolic vulnerability targeted by engineered bacteria.",
+      "abstract": "Metabolic reprogramming is a defining hallmark of malignant transformation, and tumor-specific amino acid addiction has emerged as a promising therapeutic axis for precision oncology. Oral squamous cell carcinoma (OSCC) is an aggressive head and neck malignancy marked by limited curative options, frequent recurrence, and poor long-term survival. Cumulative multi-omics and clinical evidence consistently confirm widespread methionine addiction across OSCC lesions, yet conventional systemic methionine restriction strategies are hampered by severe off-target organ toxicity and insufficient tumor selectivity. Engineered attenuated Salmonella typhimurium strain SGN1 represents a tumor microenvironment-homing live biotherapeutic platform that achieves localized intratumoral methionine degradation with minimal systemic perturbation. Preclinical data across immunocompetent murine models and patient-derived organoids demonstrate robust anti-OSCC activity alongside controllable antibiotic-mediated clearance and broad systemic biosafety. This Commentary contextualizes SGN1 within the broader landscape of microbe-mediated amino acid depletion therapies, systematically dissects the core metabolic mechanisms underpinning OSCC methionine addiction, elaborates preclinical efficacy and safety profiles of SGN1, expands critical discussion of translational bottlenecks, and outlines structured clinical development frameworks for live bacterial metabolic therapeutics. By integrating comparative analysis of arginine and tryptophan-targeted microbial interventions, this work provides balanced, forward-looking insights to advance stratified, minimally invasive precision treatment for methionine-addicted OSCC and other solid tumors.",
+      "journal": "Journal of translational medicine",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Ophthalmology, The First Affiliated Hospital of Army Medical University (Southwest Hospital), Chongqing, China.",
-        "Chongqing Key Lab of Visual Injury and Regeneration, Chongqing, China.",
-        "Centre for Lipid Research & Chongqing Key Laboratory of Metabolism on Lipid and Glucose, The Second Affiliated Hospital, Chongqing Medical University, Chongqing, China.",
-        "Ophthalmology Department of Tibet Military Command General Hospital, Lhasa, Xizang Autonomous Region, China.",
-        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, College of Bioengineering, Chongqing University, Chongqing, China."
+        "Cancer Research Institute, The Third Teaching Hospital, The Affiliated Cancer Hospital of Xinjiang Medical University, Xinjiang Key Laboratory of Translational Biomedical Engineering, No. 789 Soochow East Street, Urumqi, 830011, China. lichenxi@xjmu.edu.cn.",
+        "Department of Oral and Maxillofacial Oncology & Surgery, School / Hospital of Stomatology, the First Affiliated Hospital of Xinjiang Medical University, National Clinical Medical Research Institute, Stomatological Research Institute of Xinjiang Uygur Autonomous Region, Urumqi, 830054, China. lichenxi@xjmu.edu.cn.",
+        "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, 210029, China. lichenxi@xjmu.edu.cn.",
+        "Guangdong Provincial Key Laboratory of Oral Diseases, Guanghua School of Stomatology, Hospital of Stomatology, Sun Yat-sen University, Guangzhou, 510080, China. lichenxi@xjmu.edu.cn.",
+        "Department of Preventive Dentistry, School / Hospital of Stomatology, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, 830054, China.",
+        "Division of Cancer Research and Clinical Oncology, Center for Disease Control and Prevention of Xinjiang Production and Construction Corps, Urumqi, 830092, China.",
+        "Department of Oral and Maxillofacial Oncology & Surgery, School / Hospital of Stomatology, the First Affiliated Hospital of Xinjiang Medical University, National Clinical Medical Research Institute, Stomatological Research Institute of Xinjiang Uygur Autonomous Region, Urumqi, 830054, China.",
+        "College of General Practice, Xinjiang Medical University, Urumqi, 830017, China.",
+        "Division of Medical Affairs, The Third Teaching Hospital, The Affiliated Cancer Hospital of Xinjiang Medical University, No. 789 Soochow East Street, Urumqi, 830011, China. niyuchen90@163.com."
       ],
-      "doi": "10.4103/NRR.NRRONLINE-D-26-00793",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955874/"
+      "doi": "10.1186/s12967-026-08710-0",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958387/"
     },
     {
-      "pmid": "42955574",
-      "title": "Mitochondrial Dysfunction as a Convergent Mechanism of α-Synuclein Toxicity: A Systematic Review of In Vitro Fibrillar Models.",
-      "abstract": "Synucleinopathies, including Parkinson's disease, Dementia with Lewy bodies, and Multiple System Atrophy, are characterised by intracellular accumulation of misfolded α-synuclein (αSyn). Although αSyn aggregation is central to disease pathogenesis, the mechanisms linking αSyn to progressive neurodegeneration remain incompletely understood. Mitochondrial dysfunction is recognised as a key pathological process, particularly in experimental models using exogenously applied αSyn species, including preformed fibrils (PFFs). This systematic review synthesises evidence from mammalian in vitro studies that examined the effects of disease-associated αSyn conformations, including monomers, oligomers and PFFs, on mitochondrial structure and function. Following PRISMA 2020 guidelines, EMBASE, MEDLINE, and PsycInfo were searched to identify eligible peer-reviewed studies published up to March 2026, yielding 33 included studies. Models encompassed neuronal, astrocytic, microglial, endothelial, fibroblast, and induced pluripotent stem cell-derived systems, enabling comparison across cell types, αSyn conformations, and genetic backgrounds. Across included studies, oligomeric and fibrillar αSyn consistently induced mitochondrial depolarisation, impaired oxidative phosphorylation, reduced ATP production, complex-I dysfunction and increased reactive oxygen species generation. Additional mitochondrial pathological changes included fragmentation, cristae disruption, impaired TOM20-mediated protein import, calcium dysregulation, defective mitophagy and increased heteroplasmy i.e. accumulation of damaged mitochondria. These alterations frequently preceded cell death and were amplified in dopaminergic and genetically vulnerable models, including αSyn A53T, SNCA triplication, and PARK2-associated transgenic systems. Our review highlights mitochondrial dysfunction as a mechanism underlying αSyn toxicity, whilst suggesting methodological heterogeneity can limit cross-study translation. Priorities for future research using 'in vitro' models of PFF synucleinopathies include standardised fibril preparation protocols, improved mitochondrial phenotyping, and use of human multicellular and organoid models.",
-      "journal": "Molecular neurobiology",
+      "pmid": "42957910",
+      "title": "Modeling long-range human nigrostriatal connectivity in vitro reveals striatal target-dependent maturation of dopamine neurons.",
+      "abstract": "The human nigrostriatal pathway, comprising dopaminergic neurons in the ventral midbrain that project to the dorsolateral striatum, is essential for motor control and selectively vulnerable in Parkinson's disease. How this circuit assembles during human development remains poorly understood, and in vitro models capturing its long-range connectivity and spatial organization have been lacking. Here, we establish a compartmentalized, human stem cell-based model of the nigrostriatal pathway by integrating ventral midbrain and striatal organoids within a custom-engineered microfluidic device that confines cell bodies while guiding axonal growth to recapitulate key aspects of in vivo topography. Functional connectivity was confirmed by retrograde rabies tracing, and optogenetic and pharmacological stimulation. Single-nucleus transcriptomic analysis reveals that axonal target engagement with spatially separated striatal neurons promotes maturation of human dopaminergic neurons and activates transcriptional programs associated with neurotransmitter secretion. Our study establishes a biologically relevant in vitro system for investigating how long-range connectivity regulates neuronal assembly in the nigrostriatal circuit and for modelling key pathological features of Parkinson's disease.",
+      "journal": "The EMBO journal",
       "publicationTypes": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
+        "Journal Article"
       ],
       "affiliations": [
-        "Department of Biomedical Sciences, College of Medicine and Health, University of Birmingham, Birmingham, B15 2TT, UK.",
-        "Department of Cancer and Genomic Sciences, College of Medicine and Health, University of Birmingham, Birmingham, B15 2TT, UK.",
-        "Department of Biomedical Sciences, College of Medicine and Health, University of Birmingham, Birmingham, B15 2TT, UK. i.pienaar@bham.ac.uk.",
-        "Centre for Human Metabolomics, North-West University, Potchefstroom, South Africa. i.pienaar@bham.ac.uk.",
-        "School of Sport, Exercise and Rehabilitation Sciences, College of Life and Environmental Sciences, University of Birmingham, Birmingham, B15 2TT, UK. r.j.elsworthy@bham.ac.uk."
+        "Developmental and Regenerative Neurobiology, Lund Stem Cell Center, Department of Experimental Medical Science, Faculty of Medicine, Lund University, Lund, Sweden. sara.corsi.8878@med.lu.se.",
+        "Developmental and Regenerative Neurobiology, Lund Stem Cell Center, Department of Experimental Medical Science, Faculty of Medicine, Lund University, Lund, Sweden.",
+        "Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland.",
+        "Department of Biotechnology and Biomedicine (DTU Bioengineering), Technical University of Denmark, Kongens Lyngby, Denmark.",
+        "Novo Nordisk Foundation Center for Stem Cell Medicine (reNEW), Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Chemistry, Center for Analysis and Synthesis, Faculty of Engineering & Faculty of Science, Lund University, Lund, Sweden.",
+        "Developmental and Regenerative Neurobiology, Lund Stem Cell Center, Department of Experimental Medical Science, Faculty of Medicine, Lund University, Lund, Sweden. malin.parmar@med.lu.se."
       ],
-      "doi": "10.1007/s12035-026-06287-9",
+      "doi": "10.1038/s44318-026-00942-6",
       "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955574/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957910/"
     },
     {
-      "pmid": "42955398",
-      "title": "Forkhead box N1 (FOXN1) in thymus and skin from molecular basis to clinical translation: a review.",
-      "abstract": "Forkhead box protein N1 (FOXN1) is a pivotal transcription factor governing the development of the immune system and cutaneous tissues. This comprehensive review systematically elucidates the molecular structural features of FOXN1, with a particular focus on its essential biological functions within the thymic and cutaneous microenvironments. Specifically, it details the intricate regulation of thymic epithelial cell differentiation, cellular aging, and tissue regeneration, alongside its distinct impacts on skin homeostasis, local metabolism, and accelerated wound repair. Building upon this foundational biology, the article explores the broad clinical phenotype spectrum associated with FOXN1 deficiency, outlining its diagnostic and therapeutic value in conditions such as immunodeficiency, chronic skin disorders, and thymic neoplasms. Furthermore, it highlights cutting-edge translational strategies reshaping regenerative medicine, including FOXN1-based organoid construction and innovative targeted protein delivery systems. Ultimately, this review aims to provide a systematic, multi-disciplinary reference for understanding the pathophysiological significance of FOXN1, effectively bridging basic laboratory insights with advanced clinical applications.",
-      "journal": "Histochemistry and cell biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Shanghai Jiao Tong University School of Medicine, No. 1 Banxia Road, Pudong New Area, Shanghai, 201318, People's Republic of China.",
-        "Shanghai Jiao Tong University School of Medicine, No. 1 Banxia Road, Pudong New Area, Shanghai, 201318, People's Republic of China. wuyingli@shsmu.edu.cn."
-      ],
-      "doi": "10.1007/s00418-026-02552-z",
-      "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955398/"
-    },
-    {
-      "pmid": "42953792",
-      "title": "The role of SARS1 in the progression of colorectal cancer: insights from clinical data and organoid models.",
-      "abstract": "Colorectal cancer (CRC) is a significant global health concern, with adenomas representing critical precancerous lesions. Early detection of adenomas is essential for reducing the incidence of CRC; however, effective biomarkers for the adenoma-carcinoma transition are currently lacking. Serine tRNA ligase (SARS1) has been identified in colorectal adenoma tissues, but its biological role remains unclear. Here, we analyzed SARS1 expression in colorectal adenoma and colorectal cancer using data from the GEO and TCGA databases, as well as immunohistochemical staining of 48 tissue pairs (normal colorectal mucosa, adenoma lesion, and cancer lesion). SARS1 expression was significantly higher in adenomas and cancers compared to normal colorectal mucosa, decreasing from the adenoma to cancer stages. High SARS1 expression was associated with improved overall survival (OS; Log-rank P = 0.0209) and progression-free survival (PFS; Log-rank P = 0.0147) in patients with CRC. As demonstrated by immunofluorescence and qRT-PCR, in colorectal adenoma organoids, SARS1 knockdown was associated with decreased expression of LGR5 and OLFM4, and increased expression of c-Myc. This gene expression profile mirrors that observed in colorectal cancer organoids, as reported in previous studies. Additionally, the downregulation of SARS1 also enhanced the proliferation of CRC cells and the viability of colorectal adenoma organoids (p < 0.01 to p < 0.0001). Our findings suggest that SARS1 exerts context-dependent, stage-associated growth-suppressive effects during the adenoma-to-carcinoma transition, and its downregulation is associated with colorectal cancer progression. SARS1 represents a candidate marker reflecting adenoma-to-carcinoma progression; however, its clinical utility as a diagnostic or prognostic tool requires independent validation in larger, independent, adequately powered cohorts, and its precise functional mechanisms warrant further investigation.",
-      "journal": "PeerJ",
+      "pmid": "42957865",
+      "title": "ID4 enhances ferroptosis sensitivity in gastric cancer by promoting ubiquitination degradation of GPX4.",
+      "abstract": "Gastric cancer (GC) is one of the most prevalent malignant tumors worldwide, presenting a serious threat to human health due to its high fatality rates and incidence. Ferroptosis, as a novel form of programmed cell death, demonstrates significant potential in cancer therapy. The mechanisms underlying ferroptosis sensitivity in GC is crucial for developing novel therapeutic strategies. Our findings reveal that the tumor suppressor gene ID4 enhances the sensitivity of GC cells to ferroptosis by increasing the ubiquitin-mediated degradation of GPX4 in gastric cancer cell lines, mouse models, and patient-derived tumor organoids. Mechanistically, ID4 interacts with the bHLH family transcription factor TCF3, inhibiting its transcription of USP2. Downregulation of USP2 expression increases the ubiquitination level of GPX4, promoting its ubiquitin-mediated degradation. This leads to increased ROS accumulation within GC cells and heightened sensitivity to ferroptosis. In vivo experiments demonstrated that ID4 overexpression significantly enhanced the tumor-suppressing effects of RSL3, with even more pronounced suppression observed when combined with the USP2 inhibitor PR-619. This study identifies ID4 as a key regulator in ferroptosis resistance during GC progression. The therapeutic strategy of targeting ID4 alongside ferroptosis inducers may pave the way for overcoming drug resistance in refractory GC.",
+      "journal": "Cellular and molecular life sciences : CMLS",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.",
-        "Endoscopy Center, Xuhui Hospital, Zhongshan Hospital of Fudan University, Shanghai, China."
+        "Research Center of Basic Medicine, Jinan Central Hospital, Shandong University, Jinan, 250013, People's Republic of China.",
+        "Research Center of Basic Medicine, Central Hospital Affiliated to Shandong First Medical University, 56# shanda south road, Jinan, 250013, Shandong Province, P. R. China.",
+        "Department of Medical Laboratory, Shandong Second Medical University, Weifang, 261053, People's Republic of China.",
+        "Research Center of Basic Medicine, Jinan Central Hospital, Shandong University, Jinan, 250013, People's Republic of China. jiayanfei_@126.com.",
+        "Research Center of Basic Medicine, Central Hospital Affiliated to Shandong First Medical University, 56# shanda south road, Jinan, 250013, Shandong Province, P. R. China. jiayanfei_@126.com.",
+        "Department of Medical Laboratory, Shandong Second Medical University, Weifang, 261053, People's Republic of China. jiayanfei_@126.com."
       ],
-      "doi": "10.7717/peerj.21792",
-      "date": "2026-10-25",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953792/"
+      "doi": "10.1007/s00018-026-06373-0",
+      "date": "2026-08-04",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957865/"
+    },
+    {
+      "pmid": "42957750",
+      "title": "Aloperine induces methuosis in non-small cell lung cancer by targeting VPS34 lactylation and disrupting the Armus/Rab7 axis.",
+      "abstract": "Non-small cell lung cancer (NSCLC) represents the most prevalent form of malignant tumor and constitutes a principal cause of cancer-related mortality globally. Conventional therapeutic approaches predominantly induce apoptosis; however, their efficacy is often compromised by the development of drug resistance. Methuosis, a form of regulated cell death distinct from apoptosis, is characterized by aberrant macropinocytosis and the formation of cytoplasmic vacuoles. Aloperine (ALO), a naturally occurring antitumor alkaloid, has been observed to induce methuosis in cancer cells, although its precise molecular targets and mechanisms remain to be elucidated. This study investigated the anti-NSCLC effects of ALO using cell lines, patient-derived organoids, and mouse xenograft models. Through various assays, it was demonstrated that ALO directly interacts with VPS34 at the I760 residue and promotes TIP60-mediated lactylation of VPS34 at K356 and K781. This interaction inhibits VPS34 kinase activity and reduces intracellular PI(3)P production. The subsequent decrease in PI(3)P levels impedes Armus endosomal recruitment, disrupts Rab7 cycling, leads to the accumulation of macropinosomes, and impairs endolysosomal fusion, ultimately inducing methuosis. ALO exhibits significant antitumor efficacy and acts synergistically with cisplatin to co-activate methuosis and apoptosis, all while avoiding noticeable systemic toxicity. Collectively, ALO targets VPS34 lactylation and disrupts Armus/Rab7 signaling. When used in conjunction with cisplatin, it constitutes a safe and effective therapeutic strategy for NSCLC.",
+      "journal": "Acta pharmacologica Sinica",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China.",
+        "Department of Laboratory Medicine, Wuhan Children's Hospital (Wuhan Maternal and Child Healthcare Hospital), Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430016, China.",
+        "Department of Intensive Care Medicine, Wuhan Hospital of Traditional Chinese Medicine, Wuhan, 430000, China.",
+        "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, 100053, China.",
+        "Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430000, China.",
+        "State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430000, China.",
+        "Division of Pulmonary Medicine, Department of Internal Medicine, Institute of Integrated Traditional Chinese and Western Medicine, West China Hospital, Sichuan University, Chengdu, 610041, China.",
+        "Xiangyang Central Hospital, Affiliated Hospital of Hubei University of Arts and Science, Xiangyang, 441000, China.",
+        "Institute of Hematology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China. shsh689@126.com.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China. 2012XH0937@hust.edu.cn.",
+        "Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China. desheng.hu@hust.edu.cn.",
+        "Wuhan (China-Romania) Belt and Road Joint Laboratory on Traditional Chinese Medicine, Wuhan, 430030, China. desheng.hu@hust.edu.cn."
+      ],
+      "doi": "10.1038/s41401-026-01960-0",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957750/"
     },
     {
       "pmid": "42952019",
@@ -264,6 +282,28 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890802/"
     },
     {
+      "pmid": "42957731",
+      "title": "Evaluating generative models for structure-based drug discovery from de novo design to lead optimization.",
+      "abstract": "Advances in protein structure prediction have created opportunities for structure-based drug design, yet translating structural knowledge into actionable small-molecule ligands remains difficult. Existing benchmarks often use simplified datasets and computational surrogates that poorly capture the heterogeneity and constraints of real-world drug discovery. We introduce MolGenBench, a comprehensive benchmark for de novo molecular generation and hit-to-lead optimization built on a large, structurally diverse dataset. Evaluation of 17 leading methods reveals persistent limitations, including weak virtual-screening performance, limited coverage of target-specific bioactive space, frequent high-risk structural motifs, poor target awareness, and reduced generalization to unseen proteins. Although some models improve three-dimensional conformation generation, they still struggle to produce active molecules reliably. MolGenBench provides standardized data, metrics, and analyses that connect structural prediction with practical molecular design and guide the development of more effective structure-based generative models.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Cardiovascular Diseases and Medical Innovation Center, Medical Artificial Intelligence Innovation Center, Shanghai East Hospital, Frontier Science Center for Stem Cell Research, School of Life Sciences and Technology, Tongji University, Shanghai, China. caodh@tongji.edu.cn.",
+        "Drug Discovery and Design Center, State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "Lingang Laboratory, Shanghai, China.",
+        "School of Physical Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "Drug Discovery and Design Center, State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, China. myzheng@simm.ac.cn.",
+        "University of Chinese Academy of Sciences, Beijing, China. myzheng@simm.ac.cn."
+      ],
+      "doi": "10.1038/s41467-026-78105-8",
+      "date": "2026-10-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957731/"
+    },
+    {
       "pmid": "42956714",
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation.",
       "abstract": "Meeting global food security goals while reducing agriculture's environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks comparable to those of conventional breeding, yet regulatory frameworks remain focused on the method used rather than the product. We highlight recent examples, including immune receptor transfer, cisgenesis-based disease resistance stacking, photosynthesis engineering, and AI-guided protein design, that illustrate innovations constrained by current regulatory approaches. A decisive shift toward science-based, proportionate, and product-focused regulation is needed so that improved crops are evaluated on the basis of their properties, not how they were made.",
@@ -363,22 +403,63 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42935351/"
     },
     {
-      "pmid": "42933412",
-      "title": "Shared α-helix chimeraffibodies enable linker-free bispecific protein design.",
-      "abstract": "Small protein scaffolds enable precise targeting but often rely on flexible linkers that increase conformational heterogeneity and immunogenic liabilities. Here we develop Chimeraffibodies (CABs), a linker-free bispecific scaffold class that encodes interdomain geometry through seamless α-helix sharing. CABs are designed by AlphaSync, a structure-design framework that defines domain orientation through closed-form exhaustive local rigid-body superposition and ProteinMPNN-based sequence refinement. Using HER2-binding affibody and an albumin-binding domain, we generated 861CM, which preserved parental paratopes while enforcing a defined shared-helix architecture. Structural, biophysical and cellular analyses demonstrated stable assembly, cooperative target recruitment and retained affinity, with HSA binding of ∼14.3 pM and HER2 binding of 610 pM in the albumin-bound state. In vivo imaging revealed sustained tumor localization, reduced hepatic and renal background and improved organ-to-tumor contrast. CABs establish helix sharing as a geometry-encoded strategy for generating compact, homogeneous, and pharmacokinetically optimized bispecific proteins.",
-      "journal": "Cell chemical biology",
+      "pmid": "42958443",
+      "title": "HER2 in solid tumors: microenvironment features and multifaceted advances from mechanisms to clinical translation.",
+      "abstract": "Human epidermal growth factor receptor 2 (HER2) is a well-established oncogenic driver in multiple solid tumors, most prominently in breast and gastric cancers. Beyond gene amplification-driven signaling through canonical PI3K/AKT and RAS/MAPK pathways, emerging evidence reveals that HER2 functions within a highly dynamic and context-dependent tumor ecosystem. Interactions between HER2-positive tumor cells and immune and stromal compartments actively shape the tumor microenvironment, contributing to immune evasion, therapeutic resistance and disease progression. A central challenge in the clinical management of HER2-altered cancers is pronounced spatial and temporal heterogeneity, which undermines both diagnostic accuracy and the durability of targeted therapies. In response, advances in multi-omics profiling, liquid biopsy technologies and artificial intelligence-assisted analytics are redefining HER2 assessment, shifting it from static tissue-based classification towards dynamic, minimally invasive monitoring. In parallel, the therapeutic landscape has evolved from single-agent HER2 blockade to rational combination strategies. In particular, antibody-drug conjugates have emerged as a transformative modality, extending the therapeutic reach of HER2 targeting beyond traditional indications and offering new opportunities to overcome heterogeneity and drug resistance. This review synthesizes current insights into the molecular and microenvironmental biology of HER2-altered solid tumors and discusses how these advances are reshaping next-generation precision oncology.",
+      "journal": "Experimental hematology & oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pathology, Fudan University Shanghai Cancer Center, 270 Dong'an Road, Xuhui District, Shanghai, 200032, China.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200032, China.",
+        "Institute of Pathology, Fudan University, Shanghai, 200032, China.",
+        "Department of Artificial Intelligence Medicine, Graduate School of Medicine, Chiba University, Chiba, Japan.",
+        "Department of Diagnostic and Interventional Radiology, University of Tsukuba, Tsukuba, Ibaraki, Japan.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200032, China. wangwenfeng1011@163.com.",
+        "Shanghai Urological Cancer Institute, Cancer Institute, Fudan University Shanghai Cancer Center, Fudan University, 270 Dong'an Road, Xuhui District, Shanghai, 200032, China. wangwenfeng1011@163.com.",
+        "Department of Pathology, Fudan University Shanghai Cancer Center, 270 Dong'an Road, Xuhui District, Shanghai, 200032, China. xumd27202003@sina.com.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200032, China. xumd27202003@sina.com.",
+        "Institute of Pathology, Fudan University, Shanghai, 200032, China. xumd27202003@sina.com.",
+        "Department of Pathology, Fudan University Shanghai Cancer Center, 270 Dong'an Road, Xuhui District, Shanghai, 200032, China. shengweiqi2006@163.com.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200032, China. shengweiqi2006@163.com.",
+        "Institute of Pathology, Fudan University, Shanghai, 200032, China. shengweiqi2006@163.com."
+      ],
+      "doi": "10.1186/s40164-026-00850-9",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958443/"
+    },
+    {
+      "pmid": "42957789",
+      "title": "Enhanced cfDNA methylation profiling by detection and correction of jagged ends.",
+      "abstract": "Analysis of cell-free DNA (cfDNA) methylation can enable noninvasive disease detection by leveraging tissue-specific epigenetic differences between malignant and nonmalignant cells. However, such analyses can be confounded by the repair of jagged DNA fragment ends during double-stranded sequencing library preparation, which introduces spurious methylation signals into cfDNA molecules. Here we present JEEPERS, a framework to detect and correct jagged-end-induced methylation errors while preserving duplex integrity and native methylation patterns. We showed high fidelity for measuring tumor burden and demonstrated allele-specific methylation differences at recurrent somatic mutations, revealing a link between adjacent CpG methylation and EGFR/TP53 driver and resistance mutations. We further demonstrated enhanced diagnostic performance across liquid biopsy applications, including tumor-type-specific methylation profiles, hemimethylation profiling, epigenetic-clock-based age estimation and cell type deconvolution. By faithfully correcting end-repair errors, JEEPERS provides a versatile framework for integrating mutations and methylation features in cfDNA at high resolution, enabling more precise molecular profiling and disease monitoring.",
+      "journal": "Nature methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "School of Pharmaceutical Sciences, Shenzhen Campus of Sun Yat-sen University, Shenzhen 518107, China.",
-        "Department of Pathology the Eighth Affiliated Hospital, Sun Yat-sen University, Shenzhen 518033, China.",
-        "Department of Pathology the Eighth Affiliated Hospital, Sun Yat-sen University, Shenzhen 518033, China. Electronic address: wangzh379@mail.sysu.edu.cn.",
-        "School of Pharmaceutical Sciences, Shenzhen Campus of Sun Yat-sen University, Shenzhen 518107, China. Electronic address: wangjunqing@mail.sysu.edu.cn."
+        "Stanford Cancer Institute, Stanford, CA, USA.",
+        "Department of Radiation Oncology, Stanford University, Stanford, CA, USA.",
+        "Division of Oncology, Department of Medicine, Stanford University, Stanford, CA, USA.",
+        "Division of Hematology, Department of Medicine, Stanford University, Stanford, CA, USA.",
+        "Cancer Biology Program, Stanford University, Stanford, CA, USA.",
+        "Pulmonary, Allergy & Critical Care Medicine, Department of Medicine, Stanford University, Stanford, CA, USA.",
+        "Sutter Health, Emeryville, CA, USA.",
+        "Clinical Research Division, Fred Hutchinson Cancer Center, Seattle, WA, USA.",
+        "Division of Thoracic Surgery, Department of Cardiothoracic Surgery, Stanford University, Stanford, CA, USA.",
+        "Department of Bioengineering, Schools of Medicine and Engineering, Stanford University, Stanford, CA, USA.",
+        "Stanford Cancer Institute, Stanford, CA, USA. diehn@stanford.edu.",
+        "Department of Radiation Oncology, Stanford University, Stanford, CA, USA. diehn@stanford.edu.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA, USA. diehn@stanford.edu.",
+        "Stanford Cancer Institute, Stanford, CA, USA. arasha@stanford.edu.",
+        "Division of Oncology, Department of Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Division of Hematology, Department of Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu.",
+        "Institute for Stem Cell Biology and Regenerative Medicine, Stanford University, Stanford, CA, USA. arasha@stanford.edu."
       ],
-      "doi": "10.1016/j.chembiol.2026.09.022",
-      "date": "2026-10-26",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933412/"
+      "doi": "10.1038/s41592-026-03278-5",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957789/"
     },
     {
       "pmid": "42956745",
@@ -455,137 +536,36 @@
       "doi": "10.3389/fcell.2026.1928945",
       "date": "2026-10-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953478/"
-    },
-    {
-      "pmid": "42953329",
-      "title": "Clinical utility of circulating tumor cell PD-L1 expression for predicting immunotherapeutic response and prognosis in esophageal cancer.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) have improved outcomes in esophageal cancer, yet reliable biomarkers remain lacking. Tissue PD-L1 testing is limited by intratumoral heterogeneity and invasiveness, whereas circulating tumor cells (CTCs) offer a non-invasive alternative. This study evaluated CTC PD-L1 expression as a predictive and prognostic biomarker in patients with advanced esophageal cancer receiving chemo-immunotherapy. A total of 93 patients with stage III-IV esophageal cancer were enrolled. The primary biomarker analysis was restricted to 59 patients who received chemo-immunotherapy, while 34 patients treated with chemotherapy alone were analyzed separately. Baseline CTCs were isolated and PD-L1 expression assessed, alongside tissue PD-L1 (tPD-L1) by immunohistochemistry. Associations with objective response rate (ORR), progression-free survival (PFS), and overall survival (OS) were evaluated using ROC curves and univariate and multivariable Cox regression. CTC positivity correlated significantly with advanced stage, metastasis (p = 0.0411), and larger tumor size (p = 0.0454). In the chemo-immunotherapy cohort, CTC PD-L1 positivity was associated with a higher ORR (75.0% vs. 29.6%, p < 0.001) and showed moderate predictive ability (AUC = 0.7049, p = 0.0037). CTC PD-L1 positivity was significantly associated with OS (HR = 0.254, p = 0.002), but not significantly with PFS in univariate analysis (HR = 0.546, p = 0.042; Kaplan-Meier p = 0.061). Conversely, tPD-L1 status was not significantly associated with PFS or OS (both p > 0.05). In multivariable analysis adjusting for age, sex, histological subtype, stage, metastasis, and treatment modality, CTC PD-L1 remained an independent prognostic factor for PFS (HR = 0.488, p = 0.039) and OS (HR = 0.244, p = 0.002). Baseline CTC PD-L1 expression was associated with favorable response and OS in patients receiving chemo-immunotherapy, and may complement tissue testing. These exploratory findings require prospective validation in larger cohorts before clinical use.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Oncology, The First Affiliated Hospital of Zhengzhou University, longhu zhonghuan road, No.1, Zhengzhou, Henan, 450000, P. R. China.",
-        "Zhuhai Sanmed Biotech Ltd., 266 Tongchang Road, Zhuhai, Guangdong, 519060, P. R. China."
-      ],
-      "doi": "10.1016/j.jlb.2026.100681",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953329/"
-    },
-    {
-      "pmid": "42952741",
-      "title": "Non-invasive prediction of olfactory recovery in severe CRSwNP: a cross-compartment translational nomogram based on secretory IL-17A.",
-      "abstract": "Predicting olfactory recovery after surgery for severe chronic rhinosinusitis with nasal polyps (CRSwNP) remains challenging. To overcome the reliance on invasive tissue biopsies, this study aimed to identify non-invasive liquid biopsy biomarkers reflecting the deep mucosal inflammatory microenvironment, ultimately developing a point-of-care prognostic model. A \"tissue-to-secretion\" dual-cohort validation strategy was employed. A Random Forest (RF) algorithm screened deep-tissue proteomes (Luminex) in a discovery cohort (N = 67). An independent RF model evaluated non-invasive nasal secretions (Olink) in a validation cohort (N = 62). Bidirectionally convergent targets were assessed for continuous dose-response relationships with absolute olfactory improvement [Δ(visual analog scale)VAS] score at 6 months. A clinical-molecular nomogram was developed and internally validated using 1,000 bootstrap resamples. The tissue-based RF identified interleukin (IL)-17A as a core prognostic candidate. The independent secretion-based RF model also prioritized secretory IL-17A, achieving bidirectional convergence. While canonical Type 2 cytokines (IL-5, IL-13) lost predictive significance in secretions (P > 0.05), secretory IL-17A demonstrated a robust dose-response correlation (r = 0.334, P = 0.0003) and emerged as an independent protective factor for olfactory recovery ([odds ratio] OR = 1.408, 95% [confidence interval] CI: 1.03-2.03). The joint nomogram, seamlessly integrating baseline VAS and secretory IL-17A, yielded an optimism-corrected (area under the receiver operating characteristic curve) AUC of 0.793 (95% CI: [0.6908-0.9079]) with adequate calibration and substantial net clinical benefit. Through cross-compartment translation, we identified secretory IL-17A as a robust, non-invasive indicator of mucosal plasticity and olfactory reversibility. The derived joint nomogram provides an actionable framework for personalized pre-operative counseling and risk stratification in severe CRSwNP.",
-      "journal": "Frontiers in allergy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Otorhinolaryngology, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China.",
-        "Guangdong Engineering Research Center of Otorhinolaryngology Diagnosis and Treatment, Guangzhou, Guangdong, China.",
-        "Otorhinolaryngology Institute of Sun Yat-en University, Guangzhou, Guangdong, China.",
-        "Guangzhou Key Laboratory of Otorhinolaryngology, Guangzhou, Guangdong, China.",
-        "Department of Otolaryngology-Head and Neck Surgery, The Third Affiliated Hospital of SunYat-Sen University, Guangzhou, China.",
-        "Department of Allergy, The First Affiliated Hospital of Sun Yat-sen University, Otorhinolaryngology Institute of Sun Yat-sen University, Guangzhou, Guangdong, China.",
-        "Department of Otorhinolaryngology, Peking University Shenzhen Hospital, Shenzhen Peking University-the Hong Kong University of Science and Technology Medical Center, Shenzhen, Guangdong, China.",
-        "Guangxi Hospital Division of the First Affiliated Hospital, Sun Yat-sen University, Nanning, China.",
-        "Department of Otolaryngology, The Seventh Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, China."
-      ],
-      "doi": "10.3389/falgy.2026.1978136",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952741/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42956743",
-      "date": "2026-10-29",
-      "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer.",
+      "id": "pubmed-42957750",
+      "date": "2026-10-30",
+      "title": "Aloperine induces methuosis in non-small cell lung cancer by targeting VPS34 lactylation and disrupting the Armus/Rab7 axis.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956743/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957750/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
+        "Precision Oncology"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤",
-        "多组学"
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42956743。",
-      "report": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and mat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42956741",
-      "date": "2026-10-29",
-      "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956741/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42956741。",
-      "report": "In this issue of Cancer Cell, Zhang et al. perform multi-omics profiling on a large collection of patient-derived pancreatic ductal adenocarcinoma organoids to elucidate the mechanisms underlying intrinsic resistance to KRAS inhibition. This work identifies su...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42955874",
-      "date": "2026-10-29",
-      "title": "Effects of physiologically relevant alcohol concentrations on early retinal development: A microfluidic retinal organoid chip analysis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955874/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neural regeneration research，PMID 为 42955874。",
-      "report": "Fetal alcohol spectrum disorder can lead to aberrant retinal development. However, traditional culture systems fail to avoid alcohol volatilization, leaving the pathogenic mechanisms underlying low-concentration alcohol-induced retinal developmental abnormalit...",
+      "fact": "PubMed 记录显示该文献收录于 Acta pharmacologica Sinica，PMID 为 42957750。",
+      "report": "Non-small cell lung cancer (NSCLC) represents the most prevalent form of malignant tumor and constitutes a principal cause of cancer-related mortality globally. Conventional therapeutic approaches predominantly induce apoptosis; however, their efficacy is ofte...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -620,6 +600,36 @@
       "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42956714。",
       "report": "Meeting global food security goals while reducing agriculture's environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks co...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42957789",
+      "date": "2026-10-29",
+      "title": "Enhanced cfDNA methylation profiling by detection and correction of jagged ends.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957789/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature methods，PMID 为 42957789。",
+      "report": "Analysis of cell-free DNA (cfDNA) methylation can enable noninvasive disease detection by leveraging tissue-specific epigenetic differences between malignant and nonmalignant cells. However, such analyses can be confounded by the repair of jagged DNA fragment...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -683,58 +693,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42955574",
+      "id": "pubmed-42957910",
       "date": "2026-10-28",
-      "title": "Mitochondrial Dysfunction as a Convergent Mechanism of α-Synuclein Toxicity: A Systematic Review of In Vitro Fibrillar Models.",
+      "title": "Modeling long-range human nigrostriatal connectivity in vitro reveals striatal target-dependent maturation of dopamine neurons.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955574/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957910/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular neurobiology，PMID 为 42955574。",
-      "report": "Synucleinopathies, including Parkinson's disease, Dementia with Lewy bodies, and Multiple System Atrophy, are characterised by intracellular accumulation of misfolded α-synuclein (αSyn). Although αSyn aggregation is central to disease pathogenesis, the mechani...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42955398",
-      "date": "2026-10-28",
-      "title": "Forkhead box N1 (FOXN1) in thymus and skin from molecular basis to clinical translation: a review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42955398/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Histochemistry and cell biology，PMID 为 42955398。",
-      "report": "Forkhead box protein N1 (FOXN1) is a pivotal transcription factor governing the development of the immune system and cutaneous tissues. This comprehensive review systematically elucidates the molecular structural features of FOXN1, with a particular focus on i...",
+      "fact": "PubMed 记录显示该文献收录于 The EMBO journal，PMID 为 42957910。",
+      "report": "The human nigrostriatal pathway, comprising dopaminergic neurons in the ventral midbrain that project to the dorsolateral striatum, is essential for motor control and selectively vulnerable in Parkinson's disease. How this circuit assembles during human develo...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -812,6 +796,38 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42958443",
+      "date": "2026-10-28",
+      "title": "HER2 in solid tumors: microenvironment features and multifaceted advances from mechanisms to clinical translation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958443/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental hematology & oncology，PMID 为 42958443。",
+      "report": "Human epidermal growth factor receptor 2 (HER2) is a well-established oncogenic driver in multiple solid tumors, most prominently in breast and gastric cancers. Beyond gene amplification-driven signaling through canonical PI3K/AKT and RAS/MAPK pathways, emergi...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42935351",
       "date": "2026-10-27",
       "title": "DRAGON-3D: an electron-density-aware generative model for dual-target drug molecule generation.",
@@ -840,67 +856,6 @@
       "fact": "PubMed 记录显示该文献收录于 Physical chemistry chemical physics : PCCP，PMID 为 42935351。",
       "report": "Dual-target drug molecule generation is a significant computational challenge due to the structural constraints imposed by two protein binding pockets. Existing generative models typically rely on scarce dual-target drug datasets and struggle to capture three-...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42933412",
-      "date": "2026-10-26",
-      "title": "Shared α-helix chimeraffibodies enable linker-free bispecific protein design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933412/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell chemical biology，PMID 为 42933412。",
-      "report": "Small protein scaffolds enable precise targeting but often rely on flexible linkers that increase conformational heterogeneity and immunogenic liabilities. Here we develop Chimeraffibodies (CABs), a linker-free bispecific scaffold class that encodes interdomai...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42953792",
-      "date": "2026-10-25",
-      "title": "The role of SARS1 in the progression of colorectal cancer: insights from clinical data and organoid models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953792/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 PeerJ，PMID 为 42953792。",
-      "report": "Colorectal cancer (CRC) is a significant global health concern, with adenomas representing critical precancerous lesions. Early detection of adenomas is essential for reducing the incidence of CRC; however, effective biomarkers for the adenoma-carcinoma transi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -934,34 +889,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biomolecules，PMID 为 42939789。",
       "report": "RNA 3'-end modification is an important regulatory mechanism that influences RNA processing, stability, localization, function, and degradation. Beyond its biological roles, RNA 3'-end modification has become a valuable tool in biotechnology, enabling applicat...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42953329",
-      "date": "2026-10-21",
-      "title": "Clinical utility of circulating tumor cell PD-L1 expression for predicting immunotherapeutic response and prognosis in esophageal cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953329/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42953329。",
-      "report": "Immune checkpoint inhibitors (ICIs) have improved outcomes in esophageal cancer, yet reliable biomarkers remain lacking. Tissue PD-L1 testing is limited by intratumoral heterogeneity and invasiveness, whereas circulating tumor cells (CTCs) offer a non-invasive...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1061,36 +988,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42952741",
-      "date": "2026-10-14",
-      "title": "Non-invasive prediction of olfactory recovery in severe CRSwNP: a cross-compartment translational nomogram based on secretory IL-17A.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952741/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in allergy，PMID 为 42952741。",
-      "report": "Predicting olfactory recovery after surgery for severe chronic rhinosinusitis with nasal polyps (CRSwNP) remains challenging. To overcome the reliance on invasive tissue biopsies, this study aimed to identify non-invasive liquid biopsy biomarkers reflecting th...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42941810",
       "date": "2026-10-12",
       "title": "The Tenocyte from Atom to Cell: A Critical Multiscale Synthesis Linking Collagen Chemistry, Tissue Mechanics, Cell Mechanobiology and Mathematical Modelling.",
@@ -1151,6 +1048,37 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42957731",
+      "date": "2026-10-01",
+      "title": "Evaluating generative models for structure-based drug discovery from de novo design to lead optimization.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957731/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Drug Screening"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42957731。",
+      "report": "Advances in protein structure prediction have created opportunities for structure-based drug design, yet translating structural knowledge into actionable small-molecule ligands remains difficult. Existing benchmarks often use simplified datasets and computatio...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42893561",
       "date": "2026-09-01",
       "title": "Virtual cells: progress and challenges from mechanistic modeling to data-driven integration.",
@@ -1178,6 +1106,134 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42893561。",
       "report": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation dec...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42958463",
+      "date": "2026-08-04",
+      "title": "Chromatin accessibility dynamics during kidney organoid induction from human embryonic stem cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958463/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell & bioscience，PMID 为 42958463。",
+      "report": "Human kidney development remains incompletely characterized at the level of chromatin accessibility. Here, we investigate chromatin accessibility dynamics (CAD) during the differentiation of human embryonic stem cells (hESCs) into kidney organoids (E-iKOs). Ti...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42957865",
+      "date": "2026-08-04",
+      "title": "ID4 enhances ferroptosis sensitivity in gastric cancer by promoting ubiquitination degradation of GPX4.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42957865/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular life sciences : CMLS，PMID 为 42957865。",
+      "report": "Gastric cancer (GC) is one of the most prevalent malignant tumors worldwide, presenting a serious threat to human health due to its high fatality rates and incidence. Ferroptosis, as a novel form of programmed cell death, demonstrates significant potential in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42958387",
+      "date": "2026-08-03",
+      "title": "Methionine addiction in oral squamous cell carcinoma: a metabolic vulnerability targeted by engineered bacteria.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958387/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of translational medicine，PMID 为 42958387。",
+      "report": "Metabolic reprogramming is a defining hallmark of malignant transformation, and tumor-specific amino acid addiction has emerged as a promising therapeutic axis for precision oncology. Oral squamous cell carcinoma (OSCC) is an aggressive head and neck malignanc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42958413",
+      "date": "2026-08-01",
+      "title": "Fingolimod overcomes cisplatin resistance in esophageal squamous cell carcinoma by targeting NUP54 to disrupt homologous recombination repair.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958413/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell communication and signaling : CCS，PMID 为 42958413。",
+      "report": "Cisplatin resistance is a major obstacle in the treatment of esophageal squamous cell carcinoma (ESCC). To address this challenge, we screened a U.S. Food and Drug Administration (FDA)-approved drug library and identified fingolimod, an immunomodulatory agent,...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
