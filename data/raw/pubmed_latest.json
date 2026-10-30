@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-29T22:49:20.691166+00:00",
+  "capturedAt": "2026-10-30T05:56:11.612192+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,77 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-29",
-    "end": "2026-10-29"
+    "start": "2025-10-30",
+    "end": "2026-10-30"
   },
   "pmids": [
+    "42956743",
+    "42956741",
     "42955874",
     "42955574",
     "42955398",
     "42953792",
-    "42952437",
-    "42952183",
     "42952019",
     "42941810",
     "42940052",
     "42930128",
     "42893561",
     "42890802",
+    "42956714",
     "42951937",
     "42948713",
     "42939789",
     "42935351",
     "42933412",
-    "42932845",
+    "42956745",
     "42955008",
     "42953558",
     "42953478",
     "42953329",
-    "42952741",
-    "42951714"
+    "42952741"
   ],
   "records": [
+    {
+      "pmid": "42956743",
+      "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer.",
+      "abstract": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and matched tumor tissues reveals a KRASG12D-mutant subset intrinsically resistant to KRASG12D-targeted therapeutics, characterized by marked downregulation of innate immune signaling pathways. Functional validation demonstrates that suppressing interferon signaling in sensitive models induces resistance, whereas activation of interferon signaling, particularly interferon beta (IFN-β), increases sensitivity in resistant models. Combining IFN-β with KRAS inhibitors (MRTX1133, HRS-4642, and RMC-6236) exhibits synergistic antitumor effects in intrinsically resistant pancreatic cancer. Mechanistically, sustained MYC activity is associated with attenuated sensitivity to KRAS inhibition and correlates with repressed interferon signaling, suggesting a potential role in promoting intrinsic resistance. These findings identify interferon signaling as a candidate determinant of KRAS-targeted therapy response and support interferon-based combinations as a potential strategy for intrinsically resistant pancreatic cancer.",
+      "journal": "Cancer cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; The First Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China.",
+        "Department of Laboratory Medicine, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200080, China; College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Department of Hepatobiliary Pancreatic Surgery, Changhai Hospital, Second Military Medical University (Naval Medical University), Shanghai 200433, China.",
+        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China.",
+        "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: wzjtcy@126.com.",
+        "Department of Laboratory Medicine, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200080, China; College of Health Science and Technology, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. Electronic address: wanglin987654321@126.com.",
+        "Department of Hepatobiliary Pancreatic Surgery, Changhai Hospital, Second Military Medical University (Naval Medical University), Shanghai 200433, China. Electronic address: jingang@smmu.edu.cn.",
+        "Key Laboratory of Multi-Cell Systems, Shanghai Key Laboratory of Molecular Andrology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China; Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China; Shanghai Academy of Natural Sciences (SANS), Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, Shanghai 200031, China. Electronic address: dong.gao@sibcb.ac.cn."
+      ],
+      "doi": "10.1016/j.ccell.2026.10.003",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956743/"
+    },
+    {
+      "pmid": "42956741",
+      "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon.",
+      "abstract": "In this issue of Cancer Cell, Zhang et al. perform multi-omics profiling on a large collection of patient-derived pancreatic ductal adenocarcinoma organoids to elucidate the mechanisms underlying intrinsic resistance to KRAS inhibition. This work identifies suppression of innate immune signaling through sustained MYC activity as the principal driver of intrinsic resistance.",
+      "journal": "Cancer cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Molecular Mechanisms of Cancer Program, Centro de Investigación del Cáncer (CIC), 37007 Salamanca, Spain.",
+        "Molecular Mechanisms of Cancer Program, Centro de Investigación del Cáncer (CIC), 37007 Salamanca, Spain. Electronic address: mdrosten@usal.es."
+      ],
+      "doi": "10.1016/j.ccell.2026.10.001",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956741/"
+    },
     {
       "pmid": "42955874",
       "title": "Effects of physiologically relevant alcohol concentrations on early retinal development: A microfluidic retinal organoid chip analysis.",
@@ -112,41 +153,6 @@
       "doi": "10.7717/peerj.21792",
       "date": "2026-10-25",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42953792/"
-    },
-    {
-      "pmid": "42952437",
-      "title": "Collagen I-rich microenvironments influence cholangiocyte specification and tubulogenesis in stem cell-derived models of liver development.",
-      "abstract": "Cholangiocyte dysfunction accounts for a substantial proportion of liver transplantations, yet progress towards regenerative therapies is limited by an incomplete understanding of the developmental cues that regulate human cholangiocyte specification and morphogenesis. Here, we established a defined culture system to investigate how collagen I influences hepatobiliary differentiation from human induced pluripotent stem cells (hiPSCs). Increased collagen I presentation was associated with a bias towards cholangiocyte specification, reduced hepatocyte identity and the formation of branched duct-like tubular structures. Similar effects were observed in primary human foetal hepatoblast organoids, indicating that collagen I-dependent lineage bias is conserved across independent model systems. Mechanistically, collagen I presentation was associated with activation of integrin α2β1- and YAP-associated signalling, while inhibition of collagen-integrin interactions impaired both cholangiocyte specification and tubulogenesis. Together, our findings support a role for collagen I-rich extracellular environments in human hepatobiliary differentiation and provide a defined experimental system for investigating extracellular matrix-dependent mechanisms of bile duct development in vitro.",
-      "journal": "Development (Cambridge, England)",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Wellcome-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge, Puddicombe Way, Cambridge CB2 0AW, UK.",
-        "Istituto di Ricovero e Cura a Carattere Scientifico Humanitas Research Hospital, via Manzoni 56, 20089 Rozzano, Milan, Italy.",
-        "StemBond Technologies, Cambridge Biomedical Campus, Puddicombe Way, Cambridge CB2 0AW, UK.",
-        "Max Planck Institute for Molecular Genetics, Ihnestraße 63-73, 14195, Berlin, Germany.",
-        "Berlin Institute of Health, Anna-Louisa-Karsch-Straße 2, 10178, Berlin, Germany."
-      ],
-      "doi": "10.1242/dev.204480",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952437/"
-    },
-    {
-      "pmid": "42952183",
-      "title": "MEK2 Suppresses IL-4 Polarization via PPARγ and Negatively Impacts Macrophage Epithelial Crosstalk to Delay Repair.",
-      "abstract": "MEK2 is a highly conserved mitogen-activated protein kinase whose pathway activation is increased in both acute respiratory distress syndrome (ARDS) and murine acute lung injury (ALI). We previously demonstrated that leukocyte-specific Mek2-/- mice have accelerated recovery from ALI, including earlier restoration of alveolar barrier function, indicating that leukocyte MEK2 prolongs lung injury. Here, we tested the hypothesis that MEK2 suppresses reparative IL-4-driven macrophage function. Transcriptional profiling of WT and Mek2-/- bone marrow-derived macrophages (BMDM) revealed that MEK2 inhibits a subset of IL-4-dependent gene expression, including those enriched in wound repair pathways. Mechanistically, MEK2 is required for IL-4-induced ERK1/2 phosphorylation and the suppression of PPARγ levels. Pharmacologic inhibition of PPARγ abolished the enhanced IL-4-dependent gene expression observed in Mek2-/- BMDMs, identifying PPARγ as a key mediator by which MEK2 restrains reparative macrophage polarization. To determine the functional relevance of these findings, we evaluated macrophage-supported alveolar epithelial type II (AT2) cell growth using an alveolar organoid model. IL-4-polarized macrophages enhanced AT2 proliferation in a PPARγ-dependent manner, whereas MEK2 suppressed this reparative effect. Together, these findings identify MEK2 as a negative regulator of reparative macrophage programming via suppression of PPARγ. Targeting MEK2 may represent a novel therapeutic strategy to accelerate repair of lung injury via enhancement of PPARγ activity in reparative macrophages.",
-      "journal": "American journal of physiology. Lung cellular and molecular physiology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Lung Biology University of Washington, Seattle, WA.",
-        "Division of Pulmonary, Critical Care and Sleep Medicine, University of Washington, Seattle, WA."
-      ],
-      "doi": "10.1152/ajplung.00191.2026",
-      "date": "2026-10-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952183/"
     },
     {
       "pmid": "42952019",
@@ -258,6 +264,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890802/"
     },
     {
+      "pmid": "42956714",
+      "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation.",
+      "abstract": "Meeting global food security goals while reducing agriculture's environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks comparable to those of conventional breeding, yet regulatory frameworks remain focused on the method used rather than the product. We highlight recent examples, including immune receptor transfer, cisgenesis-based disease resistance stacking, photosynthesis engineering, and AI-guided protein design, that illustrate innovations constrained by current regulatory approaches. A decisive shift toward science-based, proportionate, and product-focused regulation is needed so that improved crops are evaluated on the basis of their properties, not how they were made.",
+      "journal": "Cell",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Sainsbury Lab, University of East Anglia, Colney Lane, Norwich NR4 7UH, UK. Electronic address: jonathan.jones@tsl.ac.uk.",
+        "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China; College of Advanced Agricultural Sciences, University of Chinese Academy of Sciences, Beijing, China. Electronic address: cxgao@genetics.ac.cn."
+      ],
+      "doi": "10.1016/j.cell.2026.09.018",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956714/"
+    },
+    {
       "pmid": "42951937",
       "title": "Structural mechanism of programmable gene integration by the R2 retrotransposon coupled with CRISPR-Cas9.",
       "abstract": "R2 retroelements are non-long-terminal-repeat retrotransposons that primarily insert into 28S ribosomal DNA loci across diverse eukaryotes. R2 elements home to their target sites through target-primed reverse transcription (TPRT), in which the R2 protein recognizes and nicks the target DNA to prime reverse transcription using an R2-encoding RNA as the template. The avian R2 system from Taeniopygia guttata (R2Tg) can insert a payload sequence within an RNA template into 28S ribosomal DNA loci in human cells. Here, we present cryo-electron microscopy structures of the R2Tg-template RNA-target DNA complex in the TPRT initiation state, both alone and bound to a Cas9-guide RNA complex. These structures provide mechanistic insights into R2Tg-mediated TPRT in its natural context and in the programmable gene integration system STITCHR (site-specific target-primed insertion through targeted CRISPR homing of retroelements). Furthermore, we combine these structural insights with computational protein design methods to engineer an enhanced STITCHR system.",
@@ -358,24 +381,25 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42933412/"
     },
     {
-      "pmid": "42932845",
-      "title": "EquiDesign: a versatile computational framework for de novo protein sequence design.",
-      "abstract": "Designing amino acid sequences that uniquely fold into target three-dimensional conformations defines the protein inverse folding problem, a formidable bottleneck in de novo protein design. Current computational paradigms, including deep learning-based approaches, often struggle to reconcile high sequence accuracy with structural stability, computational efficiency, and generalizability across diverse protein families. Here, we present EquiDesign, a deep learning framework that surmounts these constraints via a novel multistep Equiformer-enhanced architecture. By disentangling geometric features into invariant scalars and equivariant vectors, EquiDesign preserves the intrinsic directional topology of the protein backbone during message passing. This is achieved through spatial K-nearest neighbor graph construction and geometric attention mechanisms that hierarchically fuse multiscale contextual information, yielding a physically grounded representation of protein conformations. Extensive benchmarking demonstrates that EquiDesign achieves superior sequence recovery on standard and challenging test sets compared with state-of-the-art methods. Critically, the generated sequences exhibit exceptional structural fidelity, folding stability, and sequence diversity, as validated by comprehensive controls against training-set memorization, compositional bias, and physical energy landscapes, alongside targeted diversity sampling. These results establish EquiDesign as a robust, scalable, and generalizable inverse folding solution, driven by SE(3)-equivariant encoding and multiscale geometric attention, thus propelling de novo protein design toward unprecedented structural precision.",
-      "journal": "Briefings in bioinformatics",
+      "pmid": "42956745",
+      "title": "Single-cell proteomics of saliva enables noninvasive cell profiling in oral cancer.",
+      "abstract": "Single-cell proteomics based on mass spectrometry (SCP) has the potential to resolve cellular heterogeneity in complex microenvironments without requiring prior antibody labeling, yet its application to clinically accessible biofluids remains limited. Here, we established a high-coverage, label-free SCP workflow capable of quantifying up to 5,400 protein groups per cell, as benchmarked using single fresh and cryopreserved HeLa cells. We then applied this workflow to noninvasive saliva and tear fluid samples from healthy donors (n = 398 cells), identifying up to 1,000 and 600 protein groups per cell, respectively. Extending the approach to cryopreserved salivary CD3+ T cells from patients with oral squamous cell carcinoma (OSCC; n = 526 cells), we quantified up to 1,600 protein groups per cell and identified proteomic cell states associated with immune remodeling. Furthermore, exploratory trajectory analyses suggested continuous proteomic state transitions that were consistent with publicly available single-cell transcriptomic datasets. Together, these results establish a workflow for single-cell proteomic profiling of clinically accessible and noninvasive biofluids and provide a framework for investigating cellular heterogeneity in translational and clinical research.",
+      "journal": "Cell reports methods",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "College of Artificial Intelligence, Nanjing Agricultural University, No. 666 Binjiang Avenue, Nanjing, Jiangsu 211800, China.",
-        "Center for Data Science and Intelligent Computing, Nanjing Agricultural University, No. 666 Binjiang Avenue, Nanjing, Jiangsu 211800, China.",
-        "Research and Development-Statistics, Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN 46285, United States.",
-        "Department of the Built Environment, College of Design and Engineering, National University of Singapore, 4 Architecture Drive, Singapore 117566, Singapore.",
-        "College of Mechanical and Vehicle Engineering, Hunan University, Changsha 410082, China.",
-        "Laboratory of Gastrointestinal Microbiology, College of Animal Science and Technology, Nanjing Agricultural University, No. 1 Weigang Road, Nanjing 210095, China."
+        "Laboratório Nacional de Biociências (LNBio), Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), Campinas, SP 13083-970, Brazil.",
+        "Instituto de Computação, Universidade Estadual de Campinas (UNICAMP), Campinas, SP 13083-852, Brazil.",
+        "Departamento de Diagnóstico Oral, Faculdade de Odontologia de Piracicaba, Universidade Estadual de Campinas (UNICAMP), Piracicaba, SP 13414-903, Brazil.",
+        "Faculdade de Medicina da Universidade de São Paulo, São Paulo, SP 01246-903, Brazil.",
+        "Departamento de Clínica Médica, Faculdade de Medicina de Jundiaí - FMJ, Jundiaí, SP 13202-550, Brazil.",
+        "Departamento de Cirurgia de Cabeça e Pescoço, Faculdade de Medicina de Jundiaí - FMJ, Jundiaí, SP 13202-550, Brazil; Hospital São Vicente de Paula, Jundiaí, SP 13201-625, Brazil.",
+        "Laboratório Nacional de Biociências (LNBio), Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), Campinas, SP 13083-970, Brazil. Electronic address: adriana.paesleme@lnbio.cnpem.br."
       ],
-      "doi": "10.1093/bib/bbag581",
-      "date": "2026-09-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42932845/"
+      "doi": "10.1016/j.crmeth.2026.101647",
+      "date": "2026-10-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956745/"
     },
     {
       "pmid": "42955008",
@@ -470,26 +494,73 @@
       "doi": "10.3389/falgy.2026.1978136",
       "date": "2026-10-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952741/"
-    },
-    {
-      "pmid": "42951714",
-      "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
-      "abstract": "Small cell lung cancer (SCLC) remains one of the most lethal thoracic malignancies, characterized by rapid progression, early metastasis, and limited durable responses to conventional therapy. Delta-like ligand 3 (DLL3), a Notch pathway inhibitory ligand aberrantly overexpressed on the surface of approximately 70-85% of SCLC tumor cells but largely absent from normal adult tissue, has emerged as a compelling and therapeutically actionable target. Early efforts to exploit DLL3 through the antibody-drug conjugate (ADC) rovalpituzumab tesirine (Rova-T) yielded important mechanistic insights despite failing to demonstrate survival benefit in phase III trials and have since catalyzed a new generation of more refined DLL3-directed strategies. This review critically examines the evolving portfolio of DLL3-targeted therapies across three principal modalities: T-cell engagers, ADCs, and chimeric antigen receptor T-cell (CAR-T) therapies. In parallel, we examine emerging non-DLL3 therapeutic strategies reshaping the broader SCLC landscape. We additionally discuss the translational science underpinning DLL3 as a biomarker, including the emerging roles of circulating tumor cell-based liquid biopsy and DLL3-directed immunoPET-CT imaging in patient selection and treatment monitoring.",
-      "journal": "Cancer treatment reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Internal Medicine, University of California Irvine School of Medicine, 101 The City Drive South, Orange, CA, 92868, United States.",
-        "Department of Internal Medicine, University of California Irvine School of Medicine, 101 The City Drive South, Orange, CA, 92868, United States; Department of Medicine, St. Marianna University School of Medicine, Kawasaki, JAPAN. Electronic address: nagasakm@hs.uci.edu."
-      ],
-      "doi": "10.1016/j.ctrv.2026.103234",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951714/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42956743",
+      "date": "2026-10-29",
+      "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956743/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42956743。",
+      "report": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and mat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42956741",
+      "date": "2026-10-29",
+      "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956741/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cancer cell，PMID 为 42956741。",
+      "report": "In this issue of Cancer Cell, Zhang et al. perform multi-omics profiling on a large collection of patient-derived pancreatic ductal adenocarcinoma organoids to elucidate the mechanisms underlying intrinsic resistance to KRAS inhibition. This work identifies su...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42955874",
       "date": "2026-10-29",
@@ -519,31 +590,66 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42952437",
+      "id": "pubmed-42956714",
       "date": "2026-10-29",
-      "title": "Collagen I-rich microenvironments influence cholangiocyte specification and tubulogenesis in stem cell-derived models of liver development.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
+      "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952437/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956714/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Development (Cambridge, England)，PMID 为 42952437。",
-      "report": "Cholangiocyte dysfunction accounts for a substantial proportion of liver transplantations, yet progress towards regenerative therapies is limited by an incomplete understanding of the developmental cues that regulate human cholangiocyte specification and morph...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 42956714。",
+      "report": "Meeting global food security goals while reducing agriculture's environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks co...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42956745",
+      "date": "2026-10-29",
+      "title": "Single-cell proteomics of saliva enables noninvasive cell profiling in oral cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956745/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports methods，PMID 为 42956745。",
+      "report": "Single-cell proteomics based on mass spectrometry (SCP) has the potential to resolve cellular heterogeneity in complex microenvironments without requiring prior antibody labeling, yet its application to clinically accessible biofluids remains limited. Here, we...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -573,36 +679,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 JAMA oncology，PMID 为 42955008。",
       "report": "Alterations in the fibroblast growth factor receptor (FGFR) pathway, particularly FGFR3, are among the most common genomic events in urothelial carcinoma (UC) and represent a cornerstone of precision oncology. Although FGFR3 alterations predominate, selected F...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42951714",
-      "date": "2026-10-29",
-      "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951714/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer treatment reviews，PMID 为 42951714。",
-      "report": "Small cell lung cancer (SCLC) remains one of the most lethal thoracic malignancies, characterized by rapid progression, early metastasis, and limited durable responses to conventional therapy. Delta-like ligand 3 (DLL3), a Notch pathway inhibitory ligand aberr...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -659,34 +735,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Histochemistry and cell biology，PMID 为 42955398。",
       "report": "Forkhead box protein N1 (FOXN1) is a pivotal transcription factor governing the development of the immune system and cutaneous tissues. This comprehensive review systematically elucidates the molecular structural features of FOXN1, with a particular focus on i...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42952183",
-      "date": "2026-10-28",
-      "title": "MEK2 Suppresses IL-4 Polarization via PPARγ and Negatively Impacts Macrophage Epithelial Crosstalk to Delay Repair.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952183/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 American journal of physiology. Lung cellular and molecular physiology，PMID 为 42952183。",
-      "report": "MEK2 is a highly conserved mitogen-activated protein kinase whose pathway activation is increased in both acute respiratory distress syndrome (ARDS) and murine acute lung injury (ALI). We previously demonstrated that leukocyte-specific Mek2-/- mice have accele...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1130,37 +1178,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42893561。",
       "report": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation dec...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42932845",
-      "date": "2026-09-01",
-      "title": "EquiDesign: a versatile computational framework for de novo protein sequence design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42932845/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42932845。",
-      "report": "Designing amino acid sequences that uniquely fold into target three-dimensional conformations defines the protein inverse folding problem, a formidable bottleneck in de novo protein design. Current computational paradigms, including deep learning-based approac...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
