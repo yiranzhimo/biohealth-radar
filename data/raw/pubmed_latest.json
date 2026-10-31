@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-31T05:52:28.975428+00:00",
+  "capturedAt": "2026-10-31T12:42:15.655906+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-10-31"
   },
   "pmids": [
+    "42964296",
+    "42964182",
+    "42963553",
+    "42963427",
+    "42963391",
     "42963013",
-    "42962533",
-    "42962036",
-    "42962008",
-    "42961905",
-    "42961541",
     "42952019",
     "42941810",
     "42940052",
@@ -32,14 +32,119 @@
     "42951937",
     "42948713",
     "42939789",
+    "42964275",
+    "42963897",
+    "42963372",
     "42961770",
     "42961687",
-    "42961670",
-    "42961606",
-    "42961584",
-    "42961485"
+    "42961670"
   ],
   "records": [
+    {
+      "pmid": "42964296",
+      "title": "Encoding tactile stimuli for Braille recognition with organoids.",
+      "abstract": "This study proposes a transferable encoding strategy that maps tactile sensor data to electrical stimulation patterns, enabling neural organoids to perform an open-loop artificial tactile Braille classification task. Human forebrain organoids cultured on a low-density microelectrode array (MEA) are systematically stimulated to characterize the relationship between electrical stimulation parameters (number of pulse, phase amplitude, phase duration, and trigger delay) and organoid responses, measured as spike activity and spatial displacement of the center of activity. Implemented on event-based tactile inputs recorded from the Evetac sensor, our system achieved an average Braille letter classification accuracy of 61% with a single organoid, which increased to 83% when responses from a three-organoid ensemble were combined. Additionally, the multi-organoid configuration demonstrated enhanced robustness against various types of artificially introduced noise. This research demonstrates the potential of organoids as low-power, adaptive bio-hybrid computational elements and provides a foundational encoding framework for future scalable bio-hybrid computing architectures.",
+      "journal": "Frontiers in artificial intelligence",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Engineering Mathematics and Technology, University of Bristol, Bristol, United Kingdom."
+      ],
+      "doi": "10.3389/frai.2026.1800219",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964296/"
+    },
+    {
+      "pmid": "42964182",
+      "title": "Benzoylaconine suppresses colorectal cancer progression by modulating the CDK2/MMP2 signaling axis.",
+      "abstract": "Colorectal cancer (CRC) has a high incidence, and both metastasis and drug resistance remain formidable challenges in clinical management. Owing to their multi-target activity and favorable safety profiles, natural products have become a prolific source for anticancer drug discovery. Benzoylaconine (BAC) is a secondary metabolite of aconitine with markedly attenuated toxicity that retains anti-inflammatory, analgesic, and antitumor properties; however, its antitumor effects and the underlying molecular mechanisms in CRC are poorly defined. This study was designed to systematically characterize the impact of BAC on the malignant phenotypes of CRC cells and to identify its potential molecular targets. HCT116 and SW480 cells were used as model systems. Proliferation was assessed by MTT and EdU assays; migration and invasion by wound-healing and Transwell assays, respectively; cell cycle and apoptosis by flow cytometry. Network pharmacology was applied to predict core targets and construct a protein-protein interaction network. Molecular docking and dynamics simulations examined binding; SPR verified direct binding to CDK2 and MMP2. RNA-seq identified differentially expressed genes and enriched pathways. Western blotting validated key protein changes. Patient-derived CRC organoids (PDOs) were established to evaluate BAC efficacy; organoid viability was assessed by CellTiter-Glo® 2.0 assay, and morphology by bright-field microscopy. BAC dose- and time-dependently inhibited CRC cell proliferation and EdU positivity, slowed wound closure, and reduced Transwell invasion, indicating impaired migration and invasion. Flow cytometric analysis revealed that BAC induced G1/S cell cycle arrest and apoptosis. Network pharmacology identified CDK2 and MMP2 as key targets; molecular dynamics and SPR confirmed stable binding (KD ≈ 3.9 and 4.4 μM). RNA-seq showed enrichment of pathways related to cell cycle regulation and tumor invasion. Western blotting revealed that BAC dose-dependently downregulated CDK2, CDK6, MMP2, Cyclin E1, and Cyclin D1, and upregulated p21. BAC also inhibited the proliferation of colorectal cancer organoids. BAC induces G1/S cell cycle arrest in CRC cells, likely through modulation of the CDK2/MMP2 signaling axis, thereby suppressing proliferation, migration, and invasion while promoting apoptosis, and may represent a promising lead for CRC therapy.",
+      "journal": "Frontiers in pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Key Laboratory of Medical Cell Biology in Inner Mongolia, Clinical Medicine Research Center, The Affiliated Hospital of Inner Mongolia Medical University, Hohhot, Inner Mongolia, China.",
+        "First School of Clinical Medicine, Inner Mongolia Medical University, Hohhot, Inner Mongolia, China."
+      ],
+      "doi": "10.3389/fphar.2026.1902707",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964182/"
+    },
+    {
+      "pmid": "42963553",
+      "title": "Stochasticity in response to rostrocaudal and mediolateral determinants influences inaccurate specification within kidney organoids.",
+      "abstract": "The differentiation of human pluripotent stem cells to kidney requires the accurate recapitulation of complex morphogenetic patterning events within an in vitro environment. Current protocols are assumed to accurately pattern through intermediate mesoderm to kidney with outcomes described based on formation of recognized renal structures. However, these protocols show significant technical variability and the presence of 'off target' cell types. We hypothesise that such 'off-target' cells represent heterogeneity in commitment along predictable rostrocaudal or mediolateral axes with respect to intermediate mesoderm. To test this hypothesis, we perform a temporal (4 stages across 27 days) factorial (21 growth factor conditions) screen evaluating the impact of perturbation to a commonly used kidney organoid protocol and evaluate the relative cellular composition at a single cell level. We test growth factor variation during early mesodermal patterning via variation in FGF, BMP and RA signalling. While the prevalence of 'off-target' endpoints shifts predictably along rostrocaudal and mediolateral axes, patterning to neural/glial, paraxial and intermediate mesoderm endpoints is evident in all conditions. Heterogeneity of specification is observed using different cell lines in the same protocol and in a distinct differentiation protocol designed to generate neuromesodermal progenitors. We suggest a stochasticity in early mesodermal patterning in vitro with heterogeneous trajectories arising early in the protocol and leading to indeterminate mesodermal states with considerable resulting in plasticity.",
+      "journal": "Genome biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine, Murdoch Children's Research Institute, Parkville, Melbourne, 3052, Australia.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, 2200, Denmark.",
+        "Department of Paediatrics, The University of Melbourne, Melbourne, VIC, Australia.",
+        "Neils Bohr Institute, University of Copenhagen, Copenhagen, Denmark.",
+        "Garvan Institute of Medical Research, Sydney, NSW, 2010, Australia.",
+        "UNSW Cellular Genomics Futures Institute, University of New South Wales, Sydney, NSW, 2052, Australia.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine, Murdoch Children's Research Institute, Parkville, Melbourne, 3052, Australia. melissa.little@mcri.edu.au.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, 2200, Denmark. melissa.little@mcri.edu.au.",
+        "Department of Paediatrics, The University of Melbourne, Melbourne, VIC, Australia. melissa.little@mcri.edu.au."
+      ],
+      "doi": "10.1186/s13059-026-04221-9",
+      "date": "2026-08-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963553/"
+    },
+    {
+      "pmid": "42963427",
+      "title": "GALE is a tumor-intrinsic checkpoint of Vγ9Vδ2 T cell-mediated killing.",
+      "abstract": "Vγ9Vδ2 T cells mediate HLA-independent targeting of tumor cells, offering unique opportunities for cancer immunotherapy, yet their therapeutic efficacy remains limited. Here, using a genome-wide CRISPR screen, we identify UDP-galactose 4-epimerase (GALE) as a tumor-intrinsic checkpoint that restricts Vγ9Vδ2 T cell-mediated killing. GALE is a key nucleotide-sugar metabolic enzyme that controls the interconversion of UDP-galactose and UDP-glucose, thereby supporting protein glycosylation and cell-surface glycan remodeling. Mechanistically, GALE promotes complex N-glycosylation of CD155 and CEACAM1, favoring their engagement with the inhibitory receptors TIGIT and TIM3, respectively, while limiting CD155 binding to the activating receptor CD226. GALE loss potentiates Vγ9Vδ2 T cell-mediated tumor killing in multiple mouse models and colorectal cancer patient-derived organoids. Together, these findings reveal how nucleotide-sugar metabolism shapes tumor-immune communication through complex N-glycan remodeling and identify GALE and its downstream receptor-ligand interactions as potential therapeutic targets for enhancing Vγ9Vδ2 T cell antitumor activity.",
+      "journal": "Nature cancer",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Tongji University Cancer Center, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai, China.",
+        "Department of Colorectal Surgery, Fudan University Shanghai Cancer Center, Shanghai, China.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China.",
+        "Institutes of Biomedical Sciences, Fudan University, Shanghai, China.",
+        "Tongji University Cancer Center, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai, China. xin.ge@tongji.edu.cn.",
+        "Department of Colorectal Surgery, Fudan University Shanghai Cancer Center, Shanghai, China. xinxiangli@fudan.edu.cn.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China. xinxiangli@fudan.edu.cn.",
+        "Tongji University Cancer Center, Shanghai Tenth People's Hospital, School of Medicine, Tongji University, Shanghai, China. pwangecnu@163.com.",
+        "Clinical Center for Brain and Spinal Cord Research, Tongji University, Shanghai, China. pwangecnu@163.com.",
+        "Affiliated Shanghai Blue Cross Brain Hospital, School of Medicine, Tongji University, Shanghai, China. pwangecnu@163.com."
+      ],
+      "doi": "10.1038/s43018-026-01249-5",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963427/"
+    },
+    {
+      "pmid": "42963391",
+      "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
+      "abstract": "Epithelial-to-mesenchymal transition (EMT) is a pivotal developmental program that is frequently co-opted to drive cancer aggressiveness and metastasis. While the dynamic remodelling of histone H3 lysine 27 acetylation (H3K27ac) landscapes is a hallmark of EMT, the specific chromatin readers decoding these epigenetic signals remain largely unknown. Here, we identify ATAD2B as a novel H3K27ac reader essential for cell migration in both cancer metastasis and brain development. Multi-omics profiling revealed that, at EMT onset, ATAD2B targets H3K27ac at active epithelial identity genes via its bromodomain and recruits HDAC1 to epigenetically silence them, enforcing a mesenchymal state. ATAD2B loss impairs migration and invasion in breast cancer lines and Patient-Derived organoids, whereas its overexpression accelerates in vivo lung metastasis and correlates with poor patient survival. Furthermore, ATAD2B promotes the migration of newborn neurons in the developing brain. Our findings establish ATAD2B as a versatile chromatin reader orchestrating cell motility across development and disease.",
+      "journal": "The EMBO journal",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Molecular Medicine, Genome Biology Unit, University of Southern Denmark, Odense M, Denmark. mariappan@health.sdu.dk.",
+        "Department of Molecular Medicine, Genome Biology Unit, University of Southern Denmark, Odense M, Denmark.",
+        "Department of Molecular Medicine, Cancer Research Unit, University of Southern Denmark, Odense M, Denmark.",
+        "Wellcome-Wolfson Institute for Experimental Medicine, School of Medicine, Dentistry, and Biomedical Science, Queens University Belfast, Belfast, UK.",
+        "Department of Chemistry and Biochemistry, The University of Texas at Dallas, Richardson, TX, USA.",
+        "Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense M, Denmark.",
+        "Department of Oncology, Odense University Hospital, Odense C, Denmark.",
+        "Department of Clinical Research, University of Southern Denmark, Odense M, Denmark.",
+        "Department of Molecular Medicine, Genome Biology Unit, University of Southern Denmark, Odense M, Denmark. tiwari@health.sdu.dk.",
+        "Wellcome-Wolfson Institute for Experimental Medicine, School of Medicine, Dentistry, and Biomedical Science, Queens University Belfast, Belfast, UK. tiwari@health.sdu.dk.",
+        "Department of Clinical Genetics, Odense University Hospital, Odense C, Denmark. tiwari@health.sdu.dk.",
+        "Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE. tiwari@health.sdu.dk.",
+        "Danish Institute for Advanced Study (DIAS), Odense M, Denmark. tiwari@health.sdu.dk."
+      ],
+      "doi": "10.1038/s44318-026-00933-7",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963391/"
+    },
     {
       "pmid": "42963013",
       "title": "Repurposing the orphan drug nitisinone synergizes with sorafenib to sensitize immunotherapy-refractory MSS-CRC via metabolic stress-driven STING activation.",
@@ -58,113 +163,6 @@
       "doi": "10.1016/j.phrs.2026.109724",
       "date": "2026-10-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963013/"
-    },
-    {
-      "pmid": "42962533",
-      "title": "Bovine endometrial organoids show selective transcript-level responses to a sequential hormone, cAMP and interferon tau regimen.",
-      "abstract": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epithelial organisation. Here, we generated bovine endometrial organoids (EGOs) from endometrial cell fractions enriched in glandular fragments and evaluated their transcript-level response to a sequential differentiation and stimulation regimen including oestradiol, progesterone, cyclic adenosine monophosphate and interferon tau. EGOs were maintained in Matrigel under defined expansion and differentiation conditions and formed cystic structures lined by epithelial-like cells around a central lumen. Histology confirmed this epithelial-like cystic morphology, whereas representative confocal immunofluorescence performed with organoids from one uterus documented marker-associated signals. Quantitative PCR identified a selective transcriptional response, most consistently reflected by increased expression of canonical interferon tau-responsive genes, including ISG15, MX1, MX2, and OAS1Y. Additional transcripts showed more heterogeneous responses, whereas several expected hormone-associated genes did not differ clearly under the conditions evaluated. Because molecular readouts were assessed primarily at the transcript level and immunofluorescence comparisons were descriptive, these findings should be interpreted accordingly. Overall, organoids generated from gland-enriched bovine endometrial fractions formed epithelial-like cystic structures and showed selective transcript-level responses to the complete sequential differentiation and stimulation regimen.",
-      "journal": "Reproductive biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Animal Sciences, Universidad de Concepción, Chillán, Chile. Electronic address: joel.cabezas@uss.cl.",
-        "Department of Animal Sciences, Universidad de Concepción, Chillán, Chile.",
-        "Department of Animal Pathology, Universidad de Concepción, Chillán, Chile.",
-        "Facultad de Medicina Veterinaria y Agronomía, Universidad de Las Américas, Concepción, Chile."
-      ],
-      "doi": "10.1016/j.repbio.2026.101302",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962533/"
-    },
-    {
-      "pmid": "42962036",
-      "title": "Fluid-driven robotic micromanipulation for assembloid fabrication.",
-      "abstract": "The assembly of cellular spheroids into spatially organized assembloids represents a transformative paradigm for modeling complex biological systems. However, the lack of standardized fabrication strategies fundamentally limits the precision and reproducibility of these models, hindering their widespread application. Here, we present a robotic micromanipulation platform-Fluid-Driven Tweezer with Visual Servo Control (FDT-VSC). By integrating multidimensional visual perception with microfluidic control, our system enables the gentle and programmable assembly of diverse cellular spheroids. Leveraging this platform, we achieve the bottom-up construction of structurally defined, heterogeneous multicellular tissues, and the programmed orchestration of multilineage models that recapitulate the complex microenvironments of early organogenesis. Crucially, the system improves consistency during the scalable fabrication of tumor-stroma assembloids, supporting reliable drug screening. These results demonstrate that FDT-VSC advances assembloid-based applications across modular tissue engineering, developmental biology, and drug discovery.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Research Institute of Intelligent Control and Systems, Harbin Institute of Technology, Harbin, China.",
-        "State Key Laboratory of Robotics and System, Harbin Institute of Technology, Harbin, China.",
-        "Yongjiang Laboratory, Ningbo, China.",
-        "Ningbo Yitang Intelligent Technology Co., Ltd., Ningbo, China.",
-        "Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, Hong Kong, China.",
-        "Shenzhen Loop Area Institute, Shenzhen, China."
-      ],
-      "doi": "10.1126/sciadv.aei8832",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962036/"
-    },
-    {
-      "pmid": "42962008",
-      "title": "Human hair-bearing skin organoids reveal cell type-specific susceptibility and innate immune responses to herpes simplex virus 1.",
-      "abstract": "Epithelial surfaces are the primary sites of lytic herpes simplex virus 1 (HSV-1) infection following initial exposure or reactivation from latency. To model this complex environment, we used human hair-bearing skin organoids and combined single-cell spatial transcriptomics with imaging to map viral spread and host responses across skin architecture. Our data suggest delayed progression of the HSV-1 life cycle in epidermal keratinocytes and hair follicle cells compared to the dermis. Infection triggered spatially organized host responses, including induction of IER3 in papillary fibroblasts. In basal keratinocytes, IRF3 was up-regulated in both infected and neighboring uninfected cells, consistent with paracrine activation of antiviral signaling. Inflammatory responses were compartmentalized in a cell type-specific manner, with TNFSF9 (4-1BBL) induced in papillary fibroblasts and tumor necrosis factor-α (TNF-α) induced in keratinocytes. Enzyme-linked immunosorbent assays confirmed secretion of these cytokines and the TNF-α-responsive chemokines CXCL2 and CXCL10. CXCL2 expression was enriched in cells adjacent to TNF-α-expressing cells, highlighting spatial coordination of inflammatory signaling. While interferon-β reduced viral replication, TNF-α and 4-1BBL did not, suggesting that their primary role is to orchestrate immune cell recruitment and activation. These findings establish human hair-bearing skin organoids as a physiologically relevant model for investigating spatial host-HSV-1 interactions.",
-      "journal": "Science advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), Berlin Institute for Medical Systems Biology, Berlin, Germany.",
-        "Institute for Molecular Virology and Tumorvirology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Institute for Informatics, Ludwig-Maximilians-Universität München, Munich, Germany.",
-        "Institute of Medical Microbiology, Virology and Hygiene, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Institute of Neuropathology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Genomics Technology Platform, Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, Germany.",
-        "Core Facility Genomics, Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Berlin, Germany.",
-        "Technology Platform Microscopy and Image Analysis/Electron Microscopy, Leibniz Institute of Virology, Hamburg, Germany.",
-        "Department of Neuropathology, Charité - Universitätsmedizin Berlin, Berlin, Germany.",
-        "Institute of Virology/Clinical Virology, University Hospital Muenster, Muenster, Germany.",
-        "Institute of Experimental Pharmacology and Toxicology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Viral Genomics, Leibniz Institute of Virology, Hamburg, Germany.",
-        "German Center for Infection Research, Partner Site Hamburg-Borstel-Lübeck-Riems, Hamburg, Germany.",
-        "Institut für Biologie, Humboldt-Universität zu Berlin, Berlin, Germany."
-      ],
-      "doi": "10.1126/sciadv.aef5563",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962008/"
-    },
-    {
-      "pmid": "42961905",
-      "title": "Protocol for generating human organoid tumor transplantation and immune-human organoid tumor transplantation models for glioblastoma research.",
-      "abstract": "Glioblastoma research requires human models that preserve tumor heterogeneity and microenvironmental interactions. Here, we present a protocol for generating the human organoid tumor transplantation (HOTT) model and its immunocompetent counterpart, the immune-HOTT (iHOTT) model. These platforms use direct-from-patient tumor cells engrafted into organoids to recapitulate the tumor microenvironment and, in the iHOTT system, autologous tumor-immune interactions. We describe steps for organoid generation, patient tumor dissociation, co-culture with autologous peripheral blood mononuclear cells, fluorescence-activated cell sorting, and downstream single-cell RNA sequencing. For complete details on the use and execution of this protocol, please refer to Ge et al. and Baisiwala et al.1,2.",
-      "journal": "STAR protocols",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA.",
-        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA. Electronic address: abhaduri@mednet.ucla.edu.",
-        "Department of Neurosurgery, UCLA Health, Los Angeles, CA 90095, USA."
-      ],
-      "doi": "10.1016/j.xpro.2026.104925",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961905/"
-    },
-    {
-      "pmid": "42961541",
-      "title": "The Mechanical Properties of Spinal Cord Organoids Depend on Their Age and Composition.",
-      "abstract": "Spinal cord organoids are valuable human in vitro models of development and disease. Many aspects of cell behavior and function in the spinal cord are regulated by mechanical signals, but the mechanical properties of human spinal cord organoids remain largely uncharacterized. Here, we quantify the elastic and viscoelastic properties of human spinal cord organoids at four ages (days 51, 87, 132, and 179) using microindentation. The average effective Young's modulus across all organoids was 731 ± 336 Pa, and stiffness increased with age (R2 = 0.49, p < 0.0001). Stress relaxation testing revealed pronounced viscoelasticity, with age-dependent increases most pronounced at short relaxation times and more modest at long relaxation times, suggesting that maturation selectively stiffens the short-time response while leaving long-time equilibrium stiffness largely unchanged. Immunohistological analysis revealed that neurofilament heavy chain (NFH) immunoreactivity increased with age and correlated significantly with effective Young's modulus, while glial fibrillary acidic protein (GFAP) immunoreactivity, despite increasing with age, did not correlate with stiffness, suggesting that neuron maturation contributes to age-dependent stiffening. These findings establish quantitative mechanical properties for human spinal cord organoids, provide age-specific material parameters for computational modeling and synthetic neural interface design, and inform the design of experiments related to assembloid interactions and durotaxis in the developing central nervous system.",
-      "journal": "Annals of biomedical engineering",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Mechanical and Industrial Engineering, University of Illinois Chicago, Chicago, IL, USA.",
-        "Regenerative Neurorehabilitation Laboratory, Shirley Ryan AbilityLab, Chicago, IL, USA.",
-        "Department of Biomedical Engineering, Northwestern University, Evanston, IL, USA.",
-        "Regenerative Neurorehabilitation Laboratory, Shirley Ryan AbilityLab, Chicago, IL, USA. cfranz@sralab.org.",
-        "Department of Biomedical Engineering, Northwestern University, Evanston, IL, USA. cfranz@sralab.org.",
-        "Department of Physical Therapy and Human Movement Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, USA. cfranz@sralab.org.",
-        "Department of Physical Medicine and Rehabilitation, Northwestern University Feinberg School of Medicine, Chicago, IL, USA. cfranz@sralab.org.",
-        "The Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA. cfranz@sralab.org.",
-        "Department of Pulmonary and Critical Care Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA. cfranz@sralab.org.",
-        "Department of Mechanical and Industrial Engineering, University of Illinois Chicago, Chicago, IL, USA. jdfinan@uic.edu."
-      ],
-      "doi": "10.1007/s10439-026-04434-w",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961541/"
     },
     {
       "pmid": "42952019",
@@ -395,6 +393,76 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42939789/"
     },
     {
+      "pmid": "42964275",
+      "title": "Addressing unmet clinical needs in treatment-resistant breast cancer: expanding the diagnostic-prognostic landscape through next-generation inflammatory signatures.",
+      "abstract": "Treatment-resistant breast cancer remains a major clinical challenge because conventional clinicopathological and molecular biomarkers incompletely capture the dynamic interactions between tumour cells, immunity, inflammation, and the systemic host response. Next-generation inflammatory signatures offer an opportunity to expand the diagnostic-prognostic landscape by integrating cellular, molecular, immune, and thromboinflammatory indicators with established tumour characteristics. This narrative review critically examines emerging evidence for neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, systemic immune-inflammation index, systemic inflammation response index, C-reactive protein, cytokines, tumour-associated macrophages, myeloid-derived suppressor cells, neutrophil extracellular traps, coagulation biomarkers, and liquid-biopsy-derived measures in treatment-resistant breast cancer. Particular attention is given to sources of heterogeneity, including population characteristics, tumour subtype, treatment exposure, comorbid inflammation, sampling time, specimen processing, analytical platforms, and inconsistent biomarker thresholds. The review further evaluates the transition from biomarker discovery to clinical decision support, highlighting the need for prospective multicentre validation, standardised analytical procedures, external validation of computational models, and integration with molecular subtyping, circulating tumour DNA, imaging, and immune profiling. Rather than interpreting inflammation as a static prognostic variable, longitudinal inflammatory trajectories may provide earlier signals of biological treatment resistance and complement conventional measures of disease progression. Future research should establish clinically actionable inflammatory combinations and evaluate biomarker-guided anti-inflammatory strategies alongside standard therapies. Ultimately, integrating inflammatory phenotypes with tumour molecular characteristics may facilitate earlier recognition of resistance and more precise, dynamic, and equitable breast cancer management.",
+      "journal": "Oncology reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biomedical and Laboratory Science, Division of Haematology, Africa University, Mutare, Zimbabwe.",
+        "Department of Molecular Medicine and Haematology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+      ],
+      "doi": "10.3389/or.2026.1918787",
+      "date": "2026-10-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964275/"
+    },
+    {
+      "pmid": "42963897",
+      "title": "The impact of leukocyte-associated RNA retention on platelet RNA-based cancer detection.",
+      "abstract": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study provides the first comprehensive evaluation of how leukocyte-associated RNA retention influences platelet RNA sequencing and machine learning (ML)-based cancer detection. Using the largest publicly available platelet transcriptomic dataset (2351 human RNA samples) and single-cell/single-platelet RNA sequencing from 29 donors, we quantified leukocyte-associated RNA retention in matched sample groups (low vs. high retention) via a novel 132-gene leukocyte marker panel. Diagnostic implications were assessed using 10 ML algorithms for binary classification (cancer vs. healthy), examining the contribution of leukocyte-derived transcripts. Interestingly, models trained on high-retention samples often showed slightly improved performance, suggesting complementary diagnostic value from leukocyte signals. Importantly, post hoc correction using remove unwanted variation (RUV) and linear modeling effectively mitigated retention effects. However, adding the leukocyte-associated RNA retention score to the full-cohort classifier changed cancer-detection AUC only minimally (0.9247 to 0.9249). Thus, whether this signal should be corrected, recalibrated, or reported should depend on the study question rather than assuming routine removal.",
+      "journal": "Molecular oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory of Translational Oncology, Intercollegiate Faculty of Biotechnology of the University of Gdansk and the Medical University of Gdansk, Poland.",
+        "Centre of Biostatistics and Bioinformatics, Medical University of Gdansk, Poland.",
+        "Department of Software Engineering, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
+        "Department of Algorithms and Systems Modelling, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
+        "Laboratory of Single Cell Analyses, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznań, Poland.",
+        "Department of Biomedical Engineering, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
+        "Department of Quality in Healthcare, Medical University of Gdansk, Poland.",
+        "Board of Directors, University Clinical Center, Medical University of Gdansk, Poland.",
+        "Department of Oncologic, General and Transplant Surgery, University Clinical Centre, Medical University of Gdansk, Gdansk, Poland.",
+        "Department of Obstetrics and Gynecology, Gynecological Oncology and Endocrinological Gynecology, University Clinical Center, Gdansk, Poland.",
+        "Department of Oncology and Radiotherapy, Faculty of Medicine, Medical University of Gdansk, Gdansk, Poland.",
+        "Molecular Medicine Program, University of Utah, Salt Lake City, UT, USA.",
+        "George E. Wahlen Veterans Affairs Medical Center, Department of Internal Medicine and the Geriatric Research Education and Clinical Center (GRECC), Salt Lake City, UT, USA.",
+        "Department of Pathology, University of Utah, Salt Lake City, UT, USA.",
+        "Division of General Internal Medicine, Department of Internal Medicine, University of Utah, Salt Lake City, UT, USA.",
+        "Department of Neurosurgery, Amsterdam UMC Location Vrije Universiteit Amsterdam, Amsterdam, the Netherlands.",
+        "Cancer Center Amsterdam and Brain Tumor Center Amsterdam, Amsterdam, the Netherlands.",
+        "Cancer Center Amsterdam, Amsterdam UMC, The Netherlands.",
+        "Amsterdam Public Health, Amsterdam UMC, Vrije Universiteit, University of Amsterdam, Amsterdam, The Netherlands.",
+        "Translational AI in Laboratory Medicine, Department of Laboratory Medicine, Amsterdam UMC, Amsterdam, The Netherlands."
+      ],
+      "doi": "10.1002/1878-0261.70353",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963897/"
+    },
+    {
+      "pmid": "42963372",
+      "title": "Analysis of 515 human proteomes defines plasma extracellular vesicle core composition, corona and coisolated networks.",
+      "abstract": "Plasma extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their proteomic profiling remains confounded by massive co-isolation. Here, we resolve this heterogeneity through a meta-analysis of 515 human plasma EV proteomes. We demonstrate that the reproducible core proteome is overwhelmingly governed by predictable, surface-charge-driven mass-action that dynamically mirrors synthetic nanoparticle corona formation. By quantitatively decomposing the core isolate against pan-synthetic coronas and agonist-induced platelet EVs, we trace the core isolate to three main mechanistic origins: an electrostatic plasma corona, ex vivo platelet vesiculation and biological macromolecular co-isolates. Crucially, the residual vesicular cargo strongly correlates with thrombin-induced platelet degranulation, indicating that phlebotomy-induced trauma contribute to the bulk signal. We provide a modular atlas that mathematically distinguishes biophysical coronas from these cellular co-isolates, establishing a new framework for interpreting biological origin in plasma EV proteomics.",
+      "journal": "Communications biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "iNOVA4Health, NOVA Medical School, Faculdade de Ciências Médicas, Universidade NOVA de Lisboa, Lisboa, Portugal.",
+        "Exosomes Laboratory. CIC-bioGUNE-BRTA-Centro de Investigación Cooperativa en Biociencias, Vizcaya, Spain.",
+        "IKERBASQUE Research Foundation, Bilbao, Spain.",
+        "Centre for Clinical Proteomics, Department of Clinical Biochemistry, Odense University Hospital, Odense, Denmark.",
+        "iNOVA4Health, NOVA Medical School, Faculdade de Ciências Médicas, Universidade NOVA de Lisboa, Lisboa, Portugal. rune.matthiesen@nms.unl.pt."
+      ],
+      "doi": "10.1038/s42003-026-11038-6",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963372/"
+    },
+    {
       "pmid": "42961770",
       "title": "Multimodal Biosensing for Liquid Biopsy: A Critical Analysis of Signal Complementarity, Data Fusion, Artificial Intelligence, and Clinical Translation.",
       "abstract": "Liquid biopsy provides minimally invasive access to diverse tumor-derived biomarkers, but their low abundance, biological variability, and complex matrices limit the reliability of single-mode biosensing. Multimodal biosensors address these challenges by combining complementary sensing mechanisms; however, multiple signals do not necessarily constitute meaningful data fusion or clinical benefit. This review critically evaluates multimodal liquid-biopsy biosensing at the signal, information, and computational/decision levels, focusing on whether additional modalities provide non-redundant analytical information. Molecular recognition, functional materials, signal engineering, integrated architectures, and computational methods are assessed alongside analytical validation, matrix effects, reproducibility, clinical-sample evidence, external validation, and AI maturity. A complementary framework distinguishes analytical, clinical, computational, and deployment readiness. Overall, most platforms remain at proof-of-concept or early validation stages, with limited evidence of externally validated data fusion or clinical utility. The review identifies the conditions required for multimodality to deliver genuine analytical value and outlines the methodological, computational, and clinical requirements for advancing toward reliable liquid-biopsy decision systems.",
@@ -458,72 +526,73 @@
       "doi": "10.1007/s11033-026-13057-2",
       "date": "2026-10-29",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961670/"
-    },
-    {
-      "pmid": "42961606",
-      "title": "Syncytiotrophoblast differentiation defects drive ER stress and reprogram placental PSG1 glycosylation in preeclampsia.",
-      "abstract": "During pregnancy, placenta-derived proteins such as pregnancy-specific glycoprotein 1 (PSG1) enter the maternal circulation, providing a window into placental health and enabling liquid biopsy strategies for monitoring pregnancy disorders. PSG1, a highly glycosylated protein secreted by syncytiotrophoblast (STB) cells, reflects trophoblast differentiation status. Circulating PSG1 levels are reduced in early-onset preeclampsia (PE), but how PSG1 glycosylation is altered in this condition remains unclear. Here, we show by liquid chromatography-tandem mass spectrometry that native PSG1 purified from healthy and early-onset PE pregnancies carries an O-linked glycan in its N domain in addition to diverse N-linked glycans. In PE, PSG1 N-glycans displayed a shift toward increased oligomannose structures and reduced sialylation. Induction of endoplasmic reticulum (ER) stress in primary STBs altered the glycosylation enzyme machinery, and single-nucleus transcriptomic data indicated a reduced contribution of mature STB populations in PE, consistent with an immature STB-like glycoprotein signature. Altered N-glycosylation increased binding to mannose and asialoglycoprotein receptors and cellular uptake, suggesting enhanced hepatic clearance as a possible explanation for reduced circulating PSG1 levels in PE. Our data link ER stress during STB differentiation to altered glycoprotein maturation and identify PSG1 glycosylation as a readout of a stress-impaired STB in PE. Glycan features of circulating placental proteins could therefore provide information beyond protein levels alone and complement liquid biopsy approaches.",
-      "journal": "Molecular biomedicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Obstetrics and Fetal Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Glyco-HAM, a Cooperation of Universität Hamburg, Technology Platform Mass Spectrometry and University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
-        "Department of Pathology, Uniformed Services University of the Health Sciences, Bethesda, MD, 20817, USA.",
-        "Global Development CMC Biologicals, Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an Der Riss, Germany.",
-        "3D Tissue Bioprinting Laboratory, National Center for Advancing Translational Sciences, National Institute of Sciences, Bethesda, MD, USA.",
-        "Human Health Therapeutics, National Research Council Canada, Ottawa, ON, Canada.",
-        "Ottawa Institute of Systems Biology, Ottawa, ON, Canada.",
-        "Department of Gynecology and Obstetrics, University of Duisburg-Essen, Essen, Germany.",
-        "Systems Biology of Reproduction Research Group, Institute of Molecular Life Sciences, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary.",
-        "Department of Obstetrics and Gynecology, School of Medicine, Semmelweis University, Budapest, Hungary.",
-        "Maternity Private Clinic of Obstetrics and Gynecology, Budapest, Hungary.",
-        "Genesis Theranostix Group, Budapest, Hungary.",
-        "Experimental and Clinical Research Center, Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association and the Charité - Universitätsmedizin Berlin, Berlin, Germany.",
-        "Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association, Berlin, Germany.",
-        "Department of Pathology, Uniformed Services University of the Health Sciences, Bethesda, MD, 20817, USA. gabriela.dveksler@usuhs.edu.",
-        "Department of Obstetrics and Fetal Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany. s.blois@uke.de.",
-        "Glyco-HAM, a Cooperation of Universität Hamburg, Technology Platform Mass Spectrometry and University Medical Center Hamburg-Eppendorf, Hamburg, Germany. s.blois@uke.de."
-      ],
-      "doi": "10.1186/s43556-026-00634-x",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961606/"
-    },
-    {
-      "pmid": "42961584",
-      "title": "Awareness to implementation: What is the next step for pathology AI?",
-      "abstract": "",
-      "journal": "Indian journal of pathology & microbiology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Medical Laboratory Science, University Institute of Allied Health Sciences, Chandigarh University, Mohali, Punjab, India.",
-        "Department of Microbiology, Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences, Rohtak, Haryana, India."
-      ],
-      "doi": "10.4103/ijpm.ijpm_420_26",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961584/"
-    },
-    {
-      "pmid": "42961485",
-      "title": "Machine Learning-Enhanced Terahertz-Colorimetric Dual-Mode Metadevice Based on Metallic Nanonetworks for microRNA Panel Assays.",
-      "abstract": "Early diagnosis and accurate staging are essential for improving treatment efficacy and clinical outcomes of pancreatic cancer (PC), but remain challenging because of limited early PC-specific biomarkers and high-performance detection methods. In this paper, we developed a machine learning (ML)-enhanced terahertz (THz)-colorimetric dual-mode metadevice based on metallic nanonetworks for multiplexed microRNA (miRNA) detection and early PC diagnosis. Clinical sample measurements and bioinformatics analysis identified miRNA-21, miRNA-1290, and miRNA-320a as candidate PC biomarkers. Target miRNAs triggered the assembly of DNA-functionalized Fe and Au nanoparticles (NPs) with PEI-modified CuS NPs into ternary Fe/Au/Cu nanonetworks, generating THz and colorimetric signals through their dielectric and peroxidase-like properties. This target-triggered assembly enabled three-miRNA panel analysis without enzyme-mediated nucleic acid amplification and achieved attomolar-level miRNA profiling. Six ML algorithms were integrated to develop predictive models for PC diagnosis and staging. Linear discriminant analysis (LDA) achieved diagnostic accuracies of 97.8% (95% CI: 88.2-99.9%) in the training cohort (n = 45) and 96.7% (95% CI: 82.8-99.9%) in the validation cohort (n = 30), with 100% sensitivity for early PC in both cohorts. Compared with CA19-9, CA125, and CEA, the multiplexed miRNA-based dual-mode metadevice showed higher efficacy (area under the curve, AUC: 1.00 vs 0.905), supporting its potential for clinical miRNA-based liquid biopsy.",
-      "journal": "ACS sensors",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Laboratory Medicine, Southwest Hospital, Third Military Medical University (Army Medical University), Chongqing400038, China.",
-        "Department of Cardiovascular Surgery, General Hospital of Western Theater Command, College of Medicine, Southwest Jiaotong University, Chengdu610031, Sichuan, China."
-      ],
-      "doi": "10.1021/acssensors.6c03586",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961485/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42963427",
+      "date": "2026-10-30",
+      "title": "GALE is a tumor-intrinsic checkpoint of Vγ9Vδ2 T cell-mediated killing.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963427/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature cancer，PMID 为 42963427。",
+      "report": "Vγ9Vδ2 T cells mediate HLA-independent targeting of tumor cells, offering unique opportunities for cancer immunotherapy, yet their therapeutic efficacy remains limited. Here, using a genome-wide CRISPR screen, we identify UDP-galactose 4-epimerase (GALE) as a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42963391",
+      "date": "2026-10-30",
+      "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963391/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The EMBO journal，PMID 为 42963391。",
+      "report": "Epithelial-to-mesenchymal transition (EMT) is a pivotal developmental program that is frequently co-opted to drive cancer aggressiveness and metastasis. While the dynamic remodelling of histone H3 lysine 27 acetylation (H3K27ac) landscapes is a hallmark of EMT...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42963013",
       "date": "2026-10-30",
@@ -557,130 +626,63 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42962533",
+      "id": "pubmed-42963897",
       "date": "2026-10-30",
-      "title": "Bovine endometrial organoids show selective transcript-level responses to a sequential hormone, cAMP and interferon tau regimen.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "The impact of leukocyte-associated RNA retention on platelet RNA-based cancer detection.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962533/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963897/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Reproductive biology，PMID 为 42962533。",
-      "report": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42962036",
-      "date": "2026-10-30",
-      "title": "Fluid-driven robotic micromanipulation for assembloid fabrication.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962036/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42962036。",
-      "report": "The assembly of cellular spheroids into spatially organized assembloids represents a transformative paradigm for modeling complex biological systems. However, the lack of standardized fabrication strategies fundamentally limits the precision and reproducibilit...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42962008",
-      "date": "2026-10-30",
-      "title": "Human hair-bearing skin organoids reveal cell type-specific susceptibility and innate immune responses to herpes simplex virus 1.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962008/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
         "Precision Oncology",
         "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型",
+        "诊断",
+        "精准医疗",
         "肿瘤",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 42962008。",
-      "report": "Epithelial surfaces are the primary sites of lytic herpes simplex virus 1 (HSV-1) infection following initial exposure or reactivation from latency. To model this complex environment, we used human hair-bearing skin organoids and combined single-cell spatial t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42963897。",
+      "report": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study p...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42961541",
+      "id": "pubmed-42963372",
       "date": "2026-10-30",
-      "title": "The Mechanical Properties of Spinal Cord Organoids Depend on Their Age and Composition.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
+      "title": "Analysis of 515 human proteomes defines plasma extracellular vesicle core composition, corona and coisolated networks.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961541/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963372/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Diagnostics",
+        "Precision Medicine"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "诊断",
+        "精准医疗"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42961541。",
-      "report": "Spinal cord organoids are valuable human in vitro models of development and disease. Many aspects of cell behavior and function in the spinal cord are regulated by mechanical signals, but the mechanical properties of human spinal cord organoids remain largely...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42963372。",
+      "report": "Plasma extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their proteomic profiling remains confounded by massive co-isolation. Here, we resolve this heterogeneity through a meta-analysis of 515 human plasma EV proteomes. We demonstrate t...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -741,126 +743,6 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular biology reports，PMID 为 42961687。",
       "report": "Human papillomavirus infections are a major cause of cervical cancer and are also associated with several anogenital and oropharyngeal malignancies. Persistent infection with high-risk HPV types and sustained expression of viral oncoproteins E6 and E7 contribu...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42961606",
-      "date": "2026-10-30",
-      "title": "Syncytiotrophoblast differentiation defects drive ER stress and reprogram placental PSG1 glycosylation in preeclampsia.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961606/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 42961606。",
-      "report": "During pregnancy, placenta-derived proteins such as pregnancy-specific glycoprotein 1 (PSG1) enter the maternal circulation, providing a window into placental health and enabling liquid biopsy strategies for monitoring pregnancy disorders. PSG1, a highly glyco...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42961584",
-      "date": "2026-10-30",
-      "title": "Awareness to implementation: What is the next step for pathology AI?",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961584/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Indian journal of pathology & microbiology，PMID 为 42961584。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42961485",
-      "date": "2026-10-30",
-      "title": "Machine Learning-Enhanced Terahertz-Colorimetric Dual-Mode Metadevice Based on Metallic Nanonetworks for microRNA Panel Assays.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961485/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42961485。",
-      "report": "Early diagnosis and accurate staging are essential for improving treatment efficacy and clinical outcomes of pancreatic cancer (PC), but remain challenging because of limited early PC-specific biomarkers and high-performance detection methods. In this paper, w...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42961905",
-      "date": "2026-10-29",
-      "title": "Protocol for generating human organoid tumor transplantation and immune-human organoid tumor transplantation models for glioblastoma research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961905/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42961905。",
-      "report": "Glioblastoma research requires human models that preserve tumor heterogeneity and microenvironmental interactions. Here, we present a protocol for generating the human organoid tumor transplantation (HOTT) model and its immunocompetent counterpart, the immune-...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1031,6 +913,75 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42964296",
+      "date": "2026-10-16",
+      "title": "Encoding tactile stimuli for Braille recognition with organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964296/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in artificial intelligence，PMID 为 42964296。",
+      "report": "This study proposes a transferable encoding strategy that maps tactile sensor data to electrical stimulation patterns, enabling neural organoids to perform an open-loop artificial tactile Braille classification task. Human forebrain organoids cultured on a low...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42964182",
+      "date": "2026-10-16",
+      "title": "Benzoylaconine suppresses colorectal cancer progression by modulating the CDK2/MMP2 signaling axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964182/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42964182。",
+      "report": "Colorectal cancer (CRC) has a high incidence, and both metastasis and drug resistance remain formidable challenges in clinical management. Owing to their multi-target activity and favorable safety profiles, natural products have become a prolific source for an...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42930128",
       "date": "2026-10-16",
       "title": "Single-Cell Whole-Transcriptome Detection Expands the Observable RNA Space for AI Virtual-Cell Models.",
@@ -1062,6 +1013,36 @@
       "fact": "PubMed 记录显示该文献收录于 Biosensors，PMID 为 42930128。",
       "report": "Single-cell RNA sequencing has supplied cell atlases and artificial intelligence (AI)-enabled virtual-cell models with scalable, gene-level descriptions of cellular state. Yet prevalent poly(A)-based counting assays capture only part of the RNA landscape. Here...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42964275",
+      "date": "2026-10-16",
+      "title": "Addressing unmet clinical needs in treatment-resistant breast cancer: expanding the diagnostic-prognostic landscape through next-generation inflammatory signatures.",
+      "entity": "Healthcare AI Research",
+      "primaryCategory": "Healthcare AI",
+      "subCategory": "Medical AI",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964275/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Healthcare AI",
+        "Medical LLM",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "医疗 AI",
+        "临床决策支持",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42964275。",
+      "report": "Treatment-resistant breast cancer remains a major clinical challenge because conventional clinicopathological and molecular biomarkers incompletely capture the dynamic interactions between tumour cells, immunity, inflammation, and the systemic host response. N...",
+      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1212,6 +1193,36 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42893561。",
       "report": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation dec...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42963553",
+      "date": "2026-08-03",
+      "title": "Stochasticity in response to rostrocaudal and mediolateral determinants influences inaccurate specification within kidney organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963553/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Genome biology，PMID 为 42963553。",
+      "report": "The differentiation of human pluripotent stem cells to kidney requires the accurate recapitulation of complex morphogenetic patterning events within an in vitro environment. Current protocols are assumed to accurately pattern through intermediate mesoderm to k...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

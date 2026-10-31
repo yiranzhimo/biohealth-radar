@@ -1,30 +1,72 @@
 {
-  "capturedAt": "2026-10-31T05:52:38.054378+00:00",
+  "capturedAt": "2026-10-31T12:42:23.487734+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
   "reviews": [
     {
-      "signalId": "pubmed-42963013",
-      "responseId": "resp_0da7504a015af3c0006ae58226dde487d0beb5a8688eaaefcd",
+      "signalId": "pubmed-42963427",
+      "responseId": "resp_08debb79174a8a8f006ae5e2306e0487d2b1daea50ba066909",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布要求，信息分隔清晰且合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合该文献的主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "来源证据层级合理，信息明确分隔。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Nature cancer，PMID 为 42963427。",
+          "report": "Vγ9Vδ2 T cells mediate HLA-independent targeting of tumor cells, offering unique opportunities for cancer immunotherapy, yet their therapeutic efficacy remains limited. Here, using a genome-wide CRISPR screen, we identify UDP-galactose 4-epimerase (GALE) as a...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42963391",
+      "responseId": "resp_0eb38d94ba58ef0a006ae5e235238487d2a3ad91c9c023d5d2",
       "review": {
         "status": "needs_human",
-        "confidence": 0.75,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及临床和治疗内容，需要人工审查以确认信息的准确性和完整性。",
+        "reviewSummaryCn": "该信号在研究质量和临床结论的支持上存在不足，需要人类判断。",
         "classificationAssessment": {
           "isSupported": false,
-          "notesCn": "分类评估不充分，未明确研究质量。"
+          "notesCn": "分类评估不充分，缺乏足够支持信息。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平为中等，但未提供足够的数据支持该结论。"
+          "notesCn": "证据水平被认为不合理。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk",
+          "weak_classification",
           "insufficient_source"
         ],
         "suggestedEdits": {
@@ -43,29 +85,155 @@
             "肿瘤",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42963013。",
-          "report": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states.",
+          "fact": "PubMed 记录显示该文献收录于 The EMBO journal，PMID 为 42963391。",
+          "report": "Epithelial-to-mesenchymal transition (EMT) is a pivotal developmental program that is frequently co-opted to drive cancer aggressiveness and metastasis. While the dynamic remodelling of histone H3 lysine 27 acetylation (H3K27ac) landscapes is a hallmark of EMT...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "signalId": "pubmed-42962533",
-      "responseId": "resp_086cfeb05efc2a08006ae5822b6ef087d094594e75e66549c9",
+      "signalId": "pubmed-42963897",
+      "responseId": "resp_00ff7eb7a2b2c77e006ae5e239c6a487d2b912db862905d3b1",
       "review": {
         "status": "needs_human",
-        "confidence": 0.85,
+        "confidence": 0.8,
         "humanReviewRequired": true,
-        "reviewSummaryCn": "该卡片需要人工审核以确认研究质量及其临床影响未知。",
+        "reviewSummaryCn": "该文献的信源信息完整，但对临床效果的推断不够明确，有必要进行人工审核。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类为中等证据，但不支持临床结论。"
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被认为不足，无法支持该研究的临床重要性。"
+          "notesCn": "证据级别被评为中等，但具体研究质量和样本量未知，降低可信度。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42963897。",
+          "report": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study p...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42963372",
+      "responseId": "resp_0d9f86844deea183006ae5e23edffc87d2a9b408d418797f41",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献报道血浆细胞外囊泡在液体活检中的潜在用途，但未提供足够的信息以评估研究质量或临床意义。请审查研究质量和潜在的商业利益。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类为Diagnostics & Precision Medicine，但缺乏具体临床相关性和研究质量的说明。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别为中等，未能支持对研究质量或样本量的明确评估。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Communications biology，PMID 为 42963372。",
+          "report": "Plasma extracellular vesicles (EVs) are promising liquid biopsy biomarkers, yet their proteomic profiling remains confounded by massive co-isolation. Here, we resolve this heterogeneity through a meta-analysis of 515 human plasma EV proteomes. We demonstrate t...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42964296",
+      "responseId": "resp_059057f058ca79e0006ae5e2428e5487d2b496affb9f349ea1",
+      "review": {
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号经过仔细审查后，确认符合发布标准，无需人工审核。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in artificial intelligence，PMID 为 42964296。",
+          "report": "This study proposes a transferable encoding strategy that maps tactile sensor data to electrical stimulation patterns, enabling neural organoids to perform an open-loop artificial tactile Braille classification task. Human forebrain organoids cultured on a low...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42964182",
+      "responseId": "resp_080f9f026d5c6dbd006ae5e246634087d28951d00f75b7acd7",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查：研究质量、样本量及商业化状态未能确认，且存在潜在的临床结论引导。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未能支持研究的实际临床结论，且缺乏足够的支持信息。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平评估偏低，未能提供充分的支持细节。"
         },
         "riskFlags": [
           "clinical_claim",
@@ -74,19 +242,103 @@
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
+          "evidenceLevel": "Low",
           "themes": [
             "Organoids",
-            "Advanced Disease Models"
+            "Clinical Evidence"
           ],
           "tags": [
             "类器官",
-            "疾病模型"
+            "疾病模型",
+            "临床"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Reproductive biology，PMID 为 42962533。",
-          "report": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epi...",
-          "inference": "该研究的临床意义和应用尚未确定，因此需要进一步评估。",
-          "unknown": "缺乏对研究质量、样本量、利益冲突、临床阶段或商业化状态的详细评估。"
+          "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42964182。",
+          "report": "Colorectal cancer (CRC) has a high incidence, and both metastasis and drug resistance remain formidable challenges in clinical management.",
+          "inference": "该文献未能充分支持其结论。",
+          "unknown": "研究质量、样本量、利益冲突、临床阶段及商业化状态均不明。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42964275",
+      "responseId": "resp_09ea6dea922d8464006ae5e249e6a087d28d197728168a68a3",
+      "review": {
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以确认临床有效性和研究质量。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "所提供的分类与文献内容存在不一致。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据级别被认为不合理，可能未充分支持临床结论。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Healthcare AI",
+          "subCategory": "Medical AI",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Healthcare AI",
+            "Medical LLM",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "医疗 AI",
+            "临床决策支持",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42964275。",
+          "report": "Treatment-resistant breast cancer remains a major clinical challenge because conventional clinicopathological and molecular biomarkers incompletely capture the dynamic interactions between tumour cells, immunity, inflammation, and the systemic host response. N...",
+          "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "signalId": "pubmed-42963553",
+      "responseId": "resp_01d14bc12b9e18c0006ae5e24d94d887d2a4194d1ba38d7f94",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "符合发布要求，信息来源可靠，未包含临床结论或治疗建议。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Genome biology，PMID 为 42963553。",
+          "report": "The differentiation of human pluripotent stem cells to kidney requires the accurate recapitulation of complex morphogenetic patterning events within an in vitro environment. Current protocols are assumed to accurately pattern through intermediate mesoderm to k...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     }
