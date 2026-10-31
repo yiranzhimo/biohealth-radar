@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,155 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-42963013",
+      "date": "2026-10-30",
+      "title": "Repurposing the orphan drug nitisinone synergizes with sorafenib to sensitize immunotherapy-refractory MSS-CRC via metabolic stress-driven STING activation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963013/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42963013。",
+      "report": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states. Here, we identify 4-hydroxyphenylpyruvat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0da7504a015af3c0006ae58226dde487d0beb5a8688eaaefcd",
+        "reviewedAt": "2026-10-31T05:52:38.054378+00:00",
+        "inputHash": "1cb6f59c3af824ce3a0ddd18d07791c56cb8b850d1211dea5affd5f4f9ea0ebd",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及临床和治疗内容，需要人工审查以确认信息的准确性和完整性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类评估不充分，未明确研究质量。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平为中等，但未提供足够的数据支持该结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "medical_advice_risk",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42963013。",
+          "report": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42962533",
+      "date": "2026-10-30",
+      "title": "Bovine endometrial organoids show selective transcript-level responses to a sequential hormone, cAMP and interferon tau regimen.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962533/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Reproductive biology，PMID 为 42962533。",
+      "report": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_086cfeb05efc2a08006ae5822b6ef087d094594e75e66549c9",
+        "reviewedAt": "2026-10-31T05:52:38.054378+00:00",
+        "inputHash": "39cf18838c0fa6e4bf9461a449f68dacdd8ff1c158f05258ae8804b859fb9c4a",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片需要人工审核以确认研究质量及其临床影响未知。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类为中等证据，但不支持临床结论。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平被认为不足，无法支持该研究的临床重要性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Reproductive biology，PMID 为 42962533。",
+          "report": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epi...",
+          "inference": "该研究的临床意义和应用尚未确定，因此需要进一步评估。",
+          "unknown": "缺乏对研究质量、样本量、利益冲突、临床阶段或商业化状态的详细评估。"
+        }
+      }
+    },
+    {
       "id": "pubmed-42962036",
       "date": "2026-10-30",
       "title": "Fluid-driven robotic micromanipulation for assembloid fabrication.",
@@ -1051,162 +1200,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42961541。",
           "report": "Spinal cord organoids are valuable human in vitro models of development and disease. Many aspects of cell behavior and function in the spinal cord are regulated by mechanical signals, but the mechanical properties of human spinal cord organoids remain largely...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42960841",
-      "date": "2026-10-30",
-      "title": "Paving the way for translational relevance in advanced therapies in Brazil: conference report from SBINT 2025.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960841/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative medicine，PMID 为 42960841。",
-      "report": "The 2nd Symposium on Pharmaceutical Bioengineering and Nanobiotechnology Applied to Advanced Therapies (SBINT 2025) was held in Goiânia, Brazil, under the theme \"Challenges in preclinical evaluation: paving the way to translational relevance of advanced therap...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c2e51adfbc246a2006ae5199b30e887d1bc3882d980fb833a",
-        "reviewedAt": "2026-10-30T22:26:18.222942+00:00",
-        "inputHash": "3b272f215144fe03ab32d77052a9a6450df9625060b257cba14d4cfa1a7f9ab8",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，内容中立，未作出未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分开明确，证据水平合理。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Regenerative medicine，PMID 为 42960841。",
-          "report": "The 2nd Symposium on Pharmaceutical Bioengineering and Nanobiotechnology Applied to Advanced Therapies (SBINT 2025) was held in Goiânia, Brazil, under the theme \"Challenges in preclinical evaluation: paving the way to translational relevance of advanced therap...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42960592",
-      "date": "2026-10-30",
-      "title": "Organoids for drug sensitivity prediction in urothelial carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960592/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacogenomics，PMID 为 42960592。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0870c8db9c104e43006ae519a0014087d1a27a035e97a77b61",
-        "reviewedAt": "2026-10-30T22:26:18.222942+00:00",
-        "inputHash": "8a441d3514b7e4d34e7f303e309a666da78d1668b7dadbc7103603b49a84d486",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要对研究质量和临床关联进行判断，当前分类和证据水平不匹配。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "当前的主要类别与证据水平不一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "所提供的证据水平较低，但用于高度依赖的分类。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Pharmacogenomics，PMID 为 42960592。",
-          "report": "PubMed 记录未提供摘要。",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }

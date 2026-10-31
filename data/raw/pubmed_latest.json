@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-30T22:26:09.217528+00:00",
+  "capturedAt": "2026-10-31T05:52:28.975428+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-10-30",
-    "end": "2026-10-30"
+    "start": "2025-10-31",
+    "end": "2026-10-31"
   },
   "pmids": [
+    "42963013",
+    "42962533",
     "42962036",
     "42962008",
     "42961905",
     "42961541",
-    "42960841",
-    "42960592",
     "42952019",
     "42941810",
     "42940052",
@@ -40,6 +40,43 @@
     "42961485"
   ],
   "records": [
+    {
+      "pmid": "42963013",
+      "title": "Repurposing the orphan drug nitisinone synergizes with sorafenib to sensitize immunotherapy-refractory MSS-CRC via metabolic stress-driven STING activation.",
+      "abstract": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states. Here, we identify 4-hydroxyphenylpyruvate dioxygenase (HPD), the rate-limiting enzyme in tyrosine catabolism, as a modulator of sorafenib sensitivity in MSS-CRC. Pharmacological inhibition of HPD by the FDA-approved orphan drug nitisinone synergized with sorafenib across patient-derived organoids, human PBMC-tumor co-cultures, and immunocompetent orthotopic models. Mechanistically, nitisinone imposes strict glutaminolysis dependency, whereas sorafenib disrupts cRaf-MEK-ERK signaling to trigger proteasomal cMYC degradation and transcriptional repression of GLS1, thereby ablating compensatory glutamine anaplerosis. This dual metabolic blockade creates a synthetic lethal trap, provoking irreversible mitochondrial collapse and mtDNA release, which activates the cGAS-STING pathway and drives intratumoral infiltration of cytotoxic NK and CD8+ T cells. Critically, ρ⁰ cells and STING-deficient models confirm mitochondrial damage as the \"trigger\" of cell death and STING as the \"amplifier\" of antitumor immunity. In TCGA MSS-CRC cohorts, a double-low glutamine/tyrosine metabolic signature was associated with prolonged survival, enhanced cGAS-STING signaling, and immune-hot tumor features, findings corroborated by single-cell RNA-seq analyses. Finally, the triple combination of nitisinone, sorafenib, and anti-PD-1 therapy achieved superior antitumor efficacy with favorable tolerability in vivo. Collectively, our findings delineate a metabolic-mitochondrial-STING axis and support repurposing nitisinone as a promising translational strategy to sensitize MSS-CRC to immunotherapy.",
+      "journal": "Pharmacological research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of General Surgery (Colorectal Surgery), The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangdong Institute of Gastroenterology, Guangzhou, Guangdong, China; Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou, Guangdong, China.",
+        "Guangdong Institute of Gastroenterology, Guangzhou, Guangdong, China; Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou, Guangdong, China.",
+        "Innovation Center of the Sixth Affiliated Hospital, School of Life Sciences, Sun Yat-sen University, Guangzhou, Guangdong, China.",
+        "Department of General Surgery (Colorectal Surgery), The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangdong Institute of Gastroenterology, Guangzhou, Guangdong, China; Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou, Guangdong, China; Institute of Advanced Studies, Sun Yat-sen University, Hong Kong, China. Electronic address: luoyx25@mail.sysu.edu.cn.",
+        "Department of General Surgery (Colorectal Surgery), The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangdong Institute of Gastroenterology, Guangzhou, Guangdong, China; Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, The Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, Guangdong, China; Guangzhou (Huangpu) Zhongliu Biomedical Innovation Center, Guangzhou, Guangdong, China. Electronic address: liuxx37@mail.sysu.edu.cn."
+      ],
+      "doi": "10.1016/j.phrs.2026.109724",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963013/"
+    },
+    {
+      "pmid": "42962533",
+      "title": "Bovine endometrial organoids show selective transcript-level responses to a sequential hormone, cAMP and interferon tau regimen.",
+      "abstract": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epithelial organisation. Here, we generated bovine endometrial organoids (EGOs) from endometrial cell fractions enriched in glandular fragments and evaluated their transcript-level response to a sequential differentiation and stimulation regimen including oestradiol, progesterone, cyclic adenosine monophosphate and interferon tau. EGOs were maintained in Matrigel under defined expansion and differentiation conditions and formed cystic structures lined by epithelial-like cells around a central lumen. Histology confirmed this epithelial-like cystic morphology, whereas representative confocal immunofluorescence performed with organoids from one uterus documented marker-associated signals. Quantitative PCR identified a selective transcriptional response, most consistently reflected by increased expression of canonical interferon tau-responsive genes, including ISG15, MX1, MX2, and OAS1Y. Additional transcripts showed more heterogeneous responses, whereas several expected hormone-associated genes did not differ clearly under the conditions evaluated. Because molecular readouts were assessed primarily at the transcript level and immunofluorescence comparisons were descriptive, these findings should be interpreted accordingly. Overall, organoids generated from gland-enriched bovine endometrial fractions formed epithelial-like cystic structures and showed selective transcript-level responses to the complete sequential differentiation and stimulation regimen.",
+      "journal": "Reproductive biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Animal Sciences, Universidad de Concepción, Chillán, Chile. Electronic address: joel.cabezas@uss.cl.",
+        "Department of Animal Sciences, Universidad de Concepción, Chillán, Chile.",
+        "Department of Animal Pathology, Universidad de Concepción, Chillán, Chile.",
+        "Facultad de Medicina Veterinaria y Agronomía, Universidad de Las Américas, Concepción, Chile."
+      ],
+      "doi": "10.1016/j.repbio.2026.101302",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962533/"
+    },
     {
       "pmid": "42962036",
       "title": "Fluid-driven robotic micromanipulation for assembloid fabrication.",
@@ -128,49 +165,6 @@
       "doi": "10.1007/s10439-026-04434-w",
       "date": "2026-10-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961541/"
-    },
-    {
-      "pmid": "42960841",
-      "title": "Paving the way for translational relevance in advanced therapies in Brazil: conference report from SBINT 2025.",
-      "abstract": "The 2nd Symposium on Pharmaceutical Bioengineering and Nanobiotechnology Applied to Advanced Therapies (SBINT 2025) was held in Goiânia, Brazil, under the theme \"Challenges in preclinical evaluation: paving the way to translational relevance of advanced therapies.\" The meeting brought together approximately 150 participants from academia, industry, clinical institutions and regulatory agencies to discuss scientific, technological and regulatory barriers shaping advanced therapy medicinal products (ATMPs) in Brazil. Keynote lectures addressed human-relevant bioengineered platforms, organ-on-a-chip and microphysiological systems, regenerative biomaterials, extracellular vesicle-based therapies, nanobiotechnology-enabled nucleic acid delivery, clustered regularly interspaced short palindromic repeats (CRISPR)-based genome and epigenome editing, and the Brazilian regulatory framework for ATMPs. The discussions highlighted the need for predictive preclinical models capable of capturing human-specific mechanisms, as conventional animal models may have limited translational value for personalized cell, gene and tissue-engineered products. Regulatory and roundtable sessions emphasized risk-based assessment, Good Manufacturing Practice-compatible infrastructure, product characterization, traceability, and the development of national biotechnological raw materials, analytical services and vector production capacity. Overall, SBINT 2025 underscored Brazil's scientific maturity and structural bottlenecks in regenerative medicine, highlighting the importance of coordinated action among academia, industry, clinical centers, regulators and funding agencies to support ATMP translation in Latin America.",
-      "journal": "Regenerative medicine",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Education and Research in In Vitro Toxicology (Tox In), Faculty of Pharmacy, Federal University of Goiás, Goiânia, Brazil.",
-        "Center for Research, Technological Development, and Innovation in Drugs, Medicines, and Cosmetics, Federal University of Goiás, Goiânia, Brazil.",
-        "Renato Archer Center of Information Technology, Campinas, Brazil.",
-        "Center for Biotechnology and Cell Therapy, São Rafael Hospital, Salvador, Brazil.",
-        "D'Or Institute for Research and Education, Salvador, Brazil.",
-        "Gonçalo Moniz Institute, FIOCRUZ, Salvador, Brazil.",
-        "Pioneer Science Initiative, D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil.",
-        "Department of Physiology and Biophysics, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
-        "Office of Blood, Tissues, Cells, Organs and Advanced Therapy Products (GSTCO), Brazilian Health Regulatory Agency (ANVISA), Brasília, Brazil.",
-        "BIO CELL Cell Therapy Ltd., Brasília, Brazil.",
-        "University of Brasília, Brasília, Brazil.",
-        "Laboratory of Gene Therapy and Viral Vector, Carlos Chagas Filho Institute of Biophysics, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.",
-        "3D Biotechnology Solutions, Campinas, Brazil."
-      ],
-      "doi": "10.1080/17460751.2026.2752164",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960841/"
-    },
-    {
-      "pmid": "42960592",
-      "title": "Organoids for drug sensitivity prediction in urothelial carcinoma.",
-      "abstract": "",
-      "journal": "Pharmacogenomics",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Department of Urology, Ulm University Hospital, Ulm, Germany.",
-        "Institute of Molecular Oncology and Stem Cell Biology, Ulm University Hospital, Ulm, Germany."
-      ],
-      "doi": "10.1080/14622416.2026.2753048",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960592/"
     },
     {
       "pmid": "42952019",
@@ -531,6 +525,66 @@
   ],
   "signals": [
     {
+      "id": "pubmed-42963013",
+      "date": "2026-10-30",
+      "title": "Repurposing the orphan drug nitisinone synergizes with sorafenib to sensitize immunotherapy-refractory MSS-CRC via metabolic stress-driven STING activation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963013/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42963013。",
+      "report": "Microsatellite-stable colorectal cancer (MSS-CRC) remains broadly refractory to immune checkpoint blockade, underscoring the need for strategies that convert immunologically \"cold\" tumors into therapy-responsive states. Here, we identify 4-hydroxyphenylpyruvat...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42962533",
+      "date": "2026-10-30",
+      "title": "Bovine endometrial organoids show selective transcript-level responses to a sequential hormone, cAMP and interferon tau regimen.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42962533/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Reproductive biology，PMID 为 42962533。",
+      "report": "The bovine endometrium responds to ovarian and conceptus-derived signals that are essential for early pregnancy establishment, yet available in vitro systems remain limited in their ability to combine controlled stimulation with sustained three-dimensional epi...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42962036",
       "date": "2026-10-30",
       "title": "Fluid-driven robotic micromanipulation for assembloid fabrication.",
@@ -626,70 +680,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Annals of biomedical engineering，PMID 为 42961541。",
       "report": "Spinal cord organoids are valuable human in vitro models of development and disease. Many aspects of cell behavior and function in the spinal cord are regulated by mechanical signals, but the mechanical properties of human spinal cord organoids remain largely...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42960841",
-      "date": "2026-10-30",
-      "title": "Paving the way for translational relevance in advanced therapies in Brazil: conference report from SBINT 2025.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960841/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative medicine，PMID 为 42960841。",
-      "report": "The 2nd Symposium on Pharmaceutical Bioengineering and Nanobiotechnology Applied to Advanced Therapies (SBINT 2025) was held in Goiânia, Brazil, under the theme \"Challenges in preclinical evaluation: paving the way to translational relevance of advanced therap...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42960592",
-      "date": "2026-10-30",
-      "title": "Organoids for drug sensitivity prediction in urothelial carcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960592/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacogenomics，PMID 为 42960592。",
-      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
