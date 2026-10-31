@@ -4804,7 +4804,7 @@
       "publishedAt": "2026-10-29",
       "snapshotDate": "2026-10-29",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -4834,7 +4834,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "06e3f08adb0ed9524becaec0f92dbaa2714363013909c3c28b51e70842bc59ae",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
@@ -5179,7 +5179,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "bfa890ca12205d4cbcc0c33acdb5fac443195795e1617527695a1d86beeb7782",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Learn about the science of cell therapy, our cancer research, and our cancer treatments in the pipeline.",
         "Our broad and diversified pipeline includes research to discover novel ways to improve patients’ responses to cell therapy, different cell therapy modalities, and ways to increase the speed of our manufacturing efforts.",
@@ -5329,7 +5329,7 @@
       "publishedAt": "2026-10-29",
       "snapshotDate": "2026-10-29",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -5359,7 +5359,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2bef897f809f7ceca48ff06922056246b7e23d957ef5843ac58c720713d607cb",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -5841,7 +5841,7 @@
       "publishedAt": "2026-10-29",
       "snapshotDate": "2026-10-29",
       "title": "Home - C4 Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "C4 Therapeutics — Official Website",
@@ -5871,7 +5871,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "b1eefbcae8f6a3e17e446a274eb62169629dee36a9354b05d3bc6e4b997dee3f",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Learn About Targeted Protein Degradation",
@@ -7883,7 +7883,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ab&B Bio-Tech — Official Website",
@@ -7913,7 +7913,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -9765,7 +9765,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "7550f90e31bc1c7b45325a84fd94f419006566f116c098f91263a48845d08ea7",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "View all insider transactions Education Beneficial ownership (Schedule 13D and 13G) No beneficial ownership filings for this company in last days",
@@ -10667,7 +10667,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Airdoc — Official Website",
@@ -10697,7 +10697,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -16619,7 +16619,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "B&K Corp — Official Website",
@@ -16649,7 +16649,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -20451,7 +20451,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Brii — Official Website",
@@ -20481,7 +20481,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -21265,7 +21265,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Canbridge — Official Website",
@@ -21295,7 +21295,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -23419,7 +23419,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Chinares Pharma — Official Website",
@@ -23449,7 +23449,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -23871,7 +23871,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Cloudbreak — Official Website",
@@ -23901,7 +23901,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -23991,7 +23991,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Cms — Official Website",
@@ -24021,7 +24021,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -30417,7 +30417,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -31149,7 +31149,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Impact Therap — Official Website",
@@ -31179,7 +31179,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -31909,7 +31909,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Insilico — Official Website",
@@ -31939,7 +31939,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -32269,7 +32269,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -32595,7 +32595,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Jd Health — Official Website",
@@ -32625,7 +32625,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -32817,7 +32817,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Jw Therap — Official Website",
@@ -32847,7 +32847,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -34721,7 +34721,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -35219,7 +35219,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Medbot — Official Website",
@@ -35249,7 +35249,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -35715,7 +35715,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Microtech Med — Official Website",
@@ -35745,7 +35745,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -36059,7 +36059,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -36105,7 +36105,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -40625,7 +40625,7 @@
       "publishedAt": "2026-10-24",
       "snapshotDate": "2026-10-24",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Rainmed — Official Website",
@@ -40655,7 +40655,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
@@ -45347,7 +45347,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -49514,15 +49514,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-ff0390184a7a",
+      "id": "evidence-company-natera-official-084a845bc337",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-28",
-      "snapshotDate": "2026-10-28",
+      "publishedAt": "2026-10-31",
+      "snapshotDate": "2026-10-31",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -49538,7 +49538,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ff0390184a7add6c057c6f809f2c3b274e38e869f02662212fcccf9fee58fa59.",
+      "fact": "The official page was captured with normalized-content hash 084a845bc3372b6a4ffcf086531c931af3c3ff36cb4d23411af2450af29016c6.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -49551,14 +49551,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ff0390184a7add6c057c6f809f2c3b274e38e869f02662212fcccf9fee58fa59",
-      "changeType": "unchanged",
+      "contentHash": "084a845bc3372b6a4ffcf086531c931af3c3ff36cb4d23411af2450af29016c6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
         "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-        "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology"
+        "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -50068,15 +50068,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-recursion-official-488a1ddc8f73",
+      "id": "evidence-company-recursion-official-29809ecd3dfd",
       "signalId": null,
       "companyIds": [
         "recursion"
       ],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-16",
+      "publishedAt": "2026-10-31",
+      "snapshotDate": "2026-10-31",
       "title": "Pioneering AI Drug Discovery | Recursion",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Official Website",
@@ -50092,7 +50092,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 488a1ddc8f733b0d4f50a7b8068790f95e200e186f4073a9f5068cba9310baf8.",
+      "fact": "The official page was captured with normalized-content hash 29809ecd3dfd9337af539e8fd62c14fee1ed51c0dc97bec805e722e6cd73b8b4.",
       "report": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
       "reportOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
       "reportCn": "深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
@@ -50105,25 +50105,24 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "488a1ddc8f733b0d4f50a7b8068790f95e200e186f4073a9f5068cba9310baf8",
-      "changeType": "unchanged",
+      "contentHash": "29809ecd3dfd9337af539e8fd62c14fee1ed51c0dc97bec805e722e6cd73b8b4",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-        "Join our mission & explore what AI drug discovery companies can do.",
-        "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
-        "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system."
+        "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+        "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+        "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+        "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners."
       ],
       "businessExcerpts": [
         "Join our mission & explore what AI drug discovery companies can do.",
-        "Investor Relations ESG Company Materials",
-        "Today, we’ve demonstrated significant improvements in speed, efficiency, and reduced costs from hit identification to IND-enabling studies compared to traditional pharmaceutical company averages."
+        "Investor Relations ESG Company Materials"
       ],
       "productExcerpts": [
-        "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-        "Join our mission & explore what AI drug discovery companies can do.",
-        "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
-        "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system."
+        "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+        "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+        "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+        "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners."
       ],
       "planExcerpts": []
     },
@@ -50357,13 +50356,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-43968f061605",
+      "id": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-10-29",
-      "snapshotDate": "2026-10-29",
+      "publishedAt": "2026-10-31",
+      "snapshotDate": "2026-10-31",
       "title": "Sumitomo Pharma Co., Ltd.",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -50381,7 +50380,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 43968f061605662b04074a5d00e248d5f8e82ff1675dd49b03571318e669c4dd.",
+      "fact": "The official page was captured with normalized-content hash 94a2df1c0c26e28cea9c07b56ee658120903d28a0918631d23d382f27e314a99.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -50394,7 +50393,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "43968f061605662b04074a5d00e248d5f8e82ff1675dd49b03571318e669c4dd",
+      "contentHash": "94a2df1c0c26e28cea9c07b56ee658120903d28a0918631d23d382f27e314a99",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -50411,7 +50410,6 @@
       ],
       "productExcerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-        "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
         "iPS Cell-Derived Product Transportation Project"
       ],
       "planExcerpts": []

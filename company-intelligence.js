@@ -41,7 +41,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
     "withEvidenceCount": 621,
     "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 51,
+    "failedSourceCount": 52,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -928,7 +928,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -959,7 +959,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -6582,7 +6582,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -6613,7 +6613,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -6966,7 +6966,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-akeso-official-06e3f08adb0e",
             "date": "2026-10-29",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -6997,7 +6997,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-akeso-official-06e3f08adb0e",
           "date": "2026-10-29",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -13263,6 +13263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -13275,6 +13276,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -14835,7 +14837,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-arvinas-official-2bef897f809f",
             "date": "2026-10-29",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -14913,7 +14915,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-arvinas-official-2bef897f809f",
           "date": "2026-10-29",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -19094,7 +19096,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -19125,7 +19127,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -27131,7 +27133,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -27162,7 +27164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -27789,7 +27791,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
             "date": "2026-10-29",
             "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -27854,7 +27856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
           "date": "2026-10-29",
           "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -29017,7 +29019,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -29048,7 +29050,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -33282,7 +33284,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -33313,7 +33315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-chinares-pharma-official-339ae1ac3a74",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -34320,7 +34322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -34351,7 +34353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -34618,7 +34620,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-cms-official-339ae1ac3a74",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -34649,7 +34651,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-cms-official-339ae1ac3a74",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -46993,7 +46995,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -47024,7 +47026,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -48351,7 +48353,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-insilico-official-339ae1ac3a74",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -48382,7 +48384,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-insilico-official-339ae1ac3a74",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -50106,7 +50108,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-jd-health-official-339ae1ac3a74",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -50137,7 +50139,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-jd-health-official-339ae1ac3a74",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -50628,7 +50630,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -50659,7 +50661,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -54935,7 +54937,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -54966,7 +54968,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -55890,7 +55892,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -55921,7 +55923,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -57834,7 +57836,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
             "text": "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
-            "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+            "evidenceId": "evidence-company-natera-official-084a845bc337",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57842,7 +57844,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+            "evidenceId": "evidence-company-natera-official-084a845bc337",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57850,15 +57852,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
             "text": "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-            "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+            "evidenceId": "evidence-company-natera-official-084a845bc337",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
-            "text": "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
-            "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+            "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
+            "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
+            "evidenceId": "evidence-company-natera-official-084a845bc337",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57882,7 +57884,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-ff0390184a7a",
+          "evidence-company-natera-official-084a845bc337",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57894,14 +57896,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-ff0390184a7a",
-            "date": "2026-10-28",
+            "id": "event-evidence-company-natera-official-084a845bc337",
+            "date": "2026-10-31",
             "title": "Natera: A global leader in cell-free DNA testing",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+            "evidenceId": "evidence-company-natera-official-084a845bc337",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -57961,7 +57963,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-10-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -57970,14 +57972,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-ff0390184a7a",
-          "date": "2026-10-28",
+          "id": "event-evidence-company-natera-official-084a845bc337",
+          "date": "2026-10-31",
           "title": "Natera: A global leader in cell-free DNA testing",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-ff0390184a7a",
+          "evidenceId": "evidence-company-natera-official-084a845bc337",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -63602,7 +63604,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
             "date": "2026-10-24",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -63633,7 +63635,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
           "date": "2026-10-24",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -63961,11 +63963,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。；公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
-        "summaryOriginal": "Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today! Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
+        "summary": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！；公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。",
+        "summaryOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today! Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today!",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+            "text": "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+            "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+            "text": "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+            "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+            "text": "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+            "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners.",
+            "text": "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners.",
+            "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+            "sourceUrl": "https://recursion.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Explore Recursion's dynamic drug discovery pipeline.",
             "text": "Explore Recursion's dynamic drug discovery pipeline.",
@@ -63981,44 +64015,12 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://recursion.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our leading AI-driven drug discovery pipeline",
-            "text": "Our leading AI-driven drug discovery pipeline",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets.",
-            "text": "Leveraging the power of the Recursion OS, we are building an industry-leading pipeline of potential best-in-class and first-in-class therapeutic assets.",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease expected to enter Phase 1 clinical trials in 2027",
-            "text": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease expected to enter Phase 1 clinical trials in 2027",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease, with Phase 1 planned for 2027",
-            "text": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease, with Phase 1 planned for 2027",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "sourceUrl": "https://recursion.com/pipeline",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-recursion-official-29809ecd3dfd",
           "evidence-company-recursion-pipeline-f4c3ef602fcc",
-          "evidence-company-recursion-official-488a1ddc8f73",
           "evidence-sec-0001601830-000160183026000134",
           "evidence-sec-0001601830-000160183026000128",
           "evidence-sec-0001601830-000160183026000126",
@@ -64032,6 +64034,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
+            "id": "event-evidence-company-recursion-official-29809ecd3dfd",
+            "date": "2026-10-31",
+            "title": "Pioneering AI Drug Discovery | Recursion",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+            "sourceUrl": "https://recursion.com/"
+          },
+          {
             "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
             "date": "2026-10-22",
             "title": "Recursion's Drug Discovery Pipeline | Recursion",
@@ -64041,17 +64054,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
             "sourceUrl": "https://recursion.com/pipeline"
-          },
-          {
-            "id": "event-evidence-company-recursion-official-488a1ddc8f73",
-            "date": "2026-10-16",
-            "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-recursion-official-488a1ddc8f73",
-            "sourceUrl": "https://recursion.com/"
           },
           {
             "id": "event-sec-0001601830-000160183026000134",
@@ -64100,7 +64102,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 6
         },
-        "lastEvidenceDate": "2026-10-22",
+        "lastEvidenceDate": "2026-10-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -64109,6 +64111,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-recursion-official-29809ecd3dfd",
+          "date": "2026-10-31",
+          "title": "Pioneering AI Drug Discovery | Recursion",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-recursion-official-29809ecd3dfd",
+          "sourceUrl": "https://recursion.com/"
+        },
         {
           "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
           "date": "2026-10-22",
@@ -64119,17 +64132,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
           "sourceUrl": "https://recursion.com/pipeline"
-        },
-        {
-          "id": "event-evidence-company-recursion-official-488a1ddc8f73",
-          "date": "2026-10-16",
-          "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-recursion-official-488a1ddc8f73",
-          "sourceUrl": "https://recursion.com/"
         },
         {
           "id": "event-sec-0001601830-000160183026000134",
@@ -68496,15 +68498,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
-            "sourceUrl": "https://www.sumitomo-pharma.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
-            "text": "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68512,7 +68506,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68520,7 +68514,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68528,7 +68522,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68536,15 +68530,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB）",
+            "text": "Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB）",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+            "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-43968f061605",
+          "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
           "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73"
         ]
       },
@@ -68552,14 +68554,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-43968f061605",
-            "date": "2026-10-29",
+            "id": "event-evidence-company-sumitomo-pharma-official-94a2df1c0c26",
+            "date": "2026-10-31",
             "title": "Sumitomo Pharma Co., Ltd.",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
@@ -68585,7 +68587,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-10-31",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -68594,14 +68596,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-43968f061605",
-          "date": "2026-10-29",
+          "id": "event-evidence-company-sumitomo-pharma-official-94a2df1c0c26",
+          "date": "2026-10-31",
           "title": "Sumitomo Pharma Co., Ltd.",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-43968f061605",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {

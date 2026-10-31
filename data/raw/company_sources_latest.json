@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "akeso",
@@ -174,7 +174,7 @@
       "resolvedUrl": "https://www.akesobio.com/en/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Akeso, Inc | Home",
       "description": "",
       "headings": [],
@@ -194,12 +194,12 @@
       "contentHash": "06e3f08adb0ed9524becaec0f92dbaa2714363013909c3c28b51e70842bc59ae",
       "visibleTextHash": "a7e4cf3797ee17002c8e9fbc70a240633516b60c73c31f7b37a9e576f5d26bfd",
       "visibleTextChars": 3297,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-29T11:03:13+00:00",
       "capturedAt": "2026-10-29T11:03:13+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "akeso",
@@ -269,7 +269,7 @@
       "resolvedUrl": "https://www.alnylam.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "The Leading RNAi Therapeutics Company | Alnylam",
       "description": "Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
       "headings": [
@@ -311,7 +311,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "alnylam",
@@ -372,7 +372,7 @@
       "resolvedUrl": "https://www.altoslabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Altos Labs",
       "description": "Altos Labs is a biotechnology company focused on restoring cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that occur throughout life. Learn more about Altos.",
       "headings": [
@@ -405,7 +405,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "altos-labs",
@@ -511,11 +511,13 @@
       "visibleTextHash": "fb73e7e51f729e0879f9c2790df4975a72ea14da217692bdbe65b42ad6cfe58c",
       "visibleTextChars": 3588,
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
+      "lastCheckError": "URLError",
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "arcellx",
@@ -619,9 +621,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "arvinas",
@@ -632,7 +634,7 @@
       "resolvedUrl": "https://www.arvinas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
       "description": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "headings": [
@@ -669,12 +671,12 @@
       "visibleTextHash": "cdbc73b727a1e735c3d418739725f9207d9dda9b0ba409a1692337bd3f1a5056",
       "visibleTextChars": 5425,
       "lastModified": "Thu, 29 Oct 2026 11:03:23 GMT",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-29T11:03:13+00:00",
       "capturedAt": "2026-10-29T11:03:13+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "arvinas",
@@ -790,9 +792,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "autolus",
@@ -853,9 +855,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -866,7 +868,7 @@
       "resolvedUrl": "https://beamtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Breaking new ground to advance science with the potential to change lives | Beam Therapeutics",
       "description": "",
       "headings": [
@@ -897,7 +899,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -984,7 +986,7 @@
       "resolvedUrl": "https://beonemedicines.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
       "description": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
       "headings": [
@@ -1026,7 +1028,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "beone-medicines",
@@ -1100,7 +1102,7 @@
       "resolvedUrl": "https://c4therapeutics.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Home - C4 Therapeutics",
       "description": "",
       "headings": [
@@ -1122,12 +1124,12 @@
       "contentHash": "b1eefbcae8f6a3e17e446a274eb62169629dee36a9354b05d3bc6e4b997dee3f",
       "visibleTextHash": "9b85b3e306c3ba9c986799744888887f953ead4f52d4b0c24c2e7a7a2899191b",
       "visibleTextChars": 3239,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-29T11:03:13+00:00",
       "capturedAt": "2026-10-29T11:03:13+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "c4-therapeutics",
@@ -1149,7 +1151,7 @@
       "resolvedUrl": "https://www.calicolabs.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Home - Calico",
       "description": "",
       "headings": [
@@ -1183,7 +1185,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "calico",
@@ -2959,7 +2961,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -2986,12 +2988,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-abbisko",
@@ -4248,7 +4250,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001160420",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -4271,12 +4273,12 @@
       "contentHash": "7550f90e31bc1c7b45325a84fd94f419006566f116c098f91263a48845d08ea7",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-adia-nutrition",
@@ -4902,7 +4904,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -4929,12 +4931,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-aivocode",
@@ -7951,7 +7953,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001847345",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -7979,7 +7981,7 @@
       "firstObservedAt": "2026-10-02T10:42:00+00:00",
       "lastChangedAt": "2026-10-02T10:42:00+00:00",
       "capturedAt": "2026-10-02T10:42:00+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-assayquant-technologies",
@@ -9023,7 +9025,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -9050,12 +9052,12 @@
       "contentHash": "a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-18T05:04:41+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-bacstitch-dna",
@@ -11687,7 +11689,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -11714,12 +11716,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-bristol-myers-squibb",
@@ -12261,7 +12263,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -12288,12 +12290,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-candel-therapeutics",
@@ -13761,7 +13763,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3320&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -13788,12 +13790,12 @@
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-cingulate",
@@ -14088,7 +14090,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -14115,12 +14117,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-clover-bio",
@@ -14174,7 +14176,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=867&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -14201,12 +14203,12 @@
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-cmtx-biotech",
@@ -18660,7 +18662,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001997038",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -18683,12 +18685,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-idexx-laboratories-inc-de",
@@ -19184,7 +19186,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -19211,12 +19213,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-in8bio",
@@ -19706,7 +19708,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3696&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -19733,12 +19735,12 @@
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-instil-bio",
@@ -19934,7 +19936,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001662774",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -19957,12 +19959,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-isoprene-pharmaceuticals",
@@ -20171,7 +20173,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=6618&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -20198,12 +20200,12 @@
       "contentHash": "339ae1ac3a74406b07d9bf7d842de966ea6555b3727ca33811e2db0751488915",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-jenscare",
@@ -20325,7 +20327,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -20352,12 +20354,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-kalaris-therapeutics",
@@ -21598,7 +21600,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0001806540",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -21621,12 +21623,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-mabpharm",
@@ -21956,7 +21958,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -21983,12 +21985,12 @@
       "contentHash": "7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-mediwound",
@@ -22310,7 +22312,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -22337,12 +22339,12 @@
       "contentHash": "a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-midwest-bioprocessing-center",
@@ -22522,7 +22524,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11401308",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -22535,12 +22537,12 @@
       "visibleTextChars": 0,
       "etag": "\"1dd61a650db5b0b\"",
       "lastModified": "Wed, 21 Oct 2026 21:51:24 GMT",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-mitovation",
@@ -22551,7 +22553,7 @@
       "resolvedUrl": "https://reporter.nih.gov/project-details/11009481",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "RePORT ⟩ RePORTER",
       "description": "",
       "headings": [],
@@ -22564,12 +22566,12 @@
       "visibleTextChars": 0,
       "etag": "\"1dd61a650db5b0b\"",
       "lastModified": "Wed, 21 Oct 2026 21:51:24 GMT",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-modulo-bio",
@@ -25626,7 +25628,7 @@
       "resolvedUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "description": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "headings": [
@@ -25653,12 +25655,12 @@
       "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "visibleTextHash": "baea23ff8c9d50cf54166fed8264793147d79864b32eb3ca75dd4251b00550ca",
       "visibleTextChars": 8262,
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-rallidae-therapeutics",
@@ -28824,7 +28826,7 @@
       "resolvedUrl": "https://www.sec.gov/edgar/browse/?CIK=0002139097",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-10-31T09:03:53+00:00",
+      "nextCheckAt": "2026-11-07T10:33:12+00:00",
       "title": "EDGAR Entity Landing Page",
       "description": "",
       "headings": [
@@ -28847,12 +28849,12 @@
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "visibleTextHash": "685548ba54497f9c6f4147f08dddd06bf695431c02ccb85613def2650a3e427d",
       "visibleTextChars": 2482,
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-10-24T09:03:53+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-24T09:03:53+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "candidate-trinity-biotech",
@@ -30692,10 +30694,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -30706,7 +30708,7 @@
       "resolvedUrl": "https://crisprtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Home | CRISPR Therapeutics",
       "description": "",
       "headings": [
@@ -30747,7 +30749,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-28T16:53:44+00:00",
       "capturedAt": "2026-08-28T16:53:44+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -30797,7 +30799,7 @@
       "resolvedUrl": "https://emulatebio.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Emulate | Organ-Chips for Research & Development",
       "description": "Next-generation Organ-on-a-Chip technology allows researchers to emulate biology and predict human response. Get started today.",
       "headings": [
@@ -30836,7 +30838,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "emulate",
@@ -30909,7 +30911,7 @@
       "resolvedUrl": "https://www.genmab.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Welcome to Genmab",
       "description": "",
       "headings": [],
@@ -30925,7 +30927,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "genmab",
@@ -30992,7 +30994,7 @@
       "resolvedUrl": "https://guardanthealth.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Guardant Health | Conquering Cancer With Data",
       "description": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
       "headings": [
@@ -31026,7 +31028,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-10-21T09:33:24+00:00",
       "capturedAt": "2026-10-21T09:33:24+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "guardant-health",
@@ -31072,7 +31074,7 @@
       "resolvedUrl": "https://www.huborganoids.nl/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Patient-derived organoids CRO | Drug discovery | Organoid development services - HUB Organoids",
       "description": "A PATIENT IN THE LAB® HUB Organoids predict patient response to treatment. Our patented technology allows the development of patient-derived “mini-organs in a dish” from both healthy and diseased tissues to close the gap between the lab and the clinic.",
       "headings": [
@@ -31114,7 +31116,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-02T08:58:56+00:00",
       "capturedAt": "2026-09-02T08:58:56+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "hub-organoids",
@@ -31147,7 +31149,7 @@
       "resolvedUrl": "https://www.illumina.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
       "description": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "headings": [
@@ -31191,7 +31193,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "illumina",
@@ -31257,7 +31259,7 @@
       "resolvedUrl": "https://insilico.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Main | Insilico Medicine",
       "description": "Generative AI and Automation for Longevity and Sustainability",
       "headings": [
@@ -31292,7 +31294,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-01T11:08:29+00:00",
       "capturedAt": "2026-10-01T11:08:29+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "insilico-medicine",
@@ -31370,9 +31372,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "intellia",
@@ -31383,7 +31385,7 @@
       "resolvedUrl": "https://www.intelliatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
       "description": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
       "headings": [
@@ -31416,7 +31418,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-05T08:32:37+00:00",
       "capturedAt": "2026-09-05T08:32:37+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "intellia",
@@ -31490,7 +31492,7 @@
       "resolvedUrl": "https://ionis.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Innovating to Change the Course of Human Health | IONIS",
       "description": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "headings": [
@@ -31531,7 +31533,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "ionis",
@@ -31630,7 +31632,7 @@
       "resolvedUrl": "https://legendbiotech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "HOME - Legend Biotech",
       "description": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "headings": [
@@ -31674,7 +31676,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "legend-biotech",
@@ -31716,7 +31718,7 @@
       "resolvedUrl": "https://www.mimetas.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Human Tissue Models for Advanced Drug Discovery",
       "description": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
       "headings": [
@@ -31759,7 +31761,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "mimetas",
@@ -31857,7 +31859,7 @@
       "resolvedUrl": "https://www.modernatx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Pioneering mRNA technology - Moderna",
       "description": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "headings": [
@@ -31898,7 +31900,7 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-10-25T09:20:55+00:00",
       "capturedAt": "2026-10-25T09:20:55+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "moderna",
@@ -32007,7 +32009,7 @@
       "resolvedUrl": "https://www.natera.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Natera: A global leader in cell-free DNA testing",
       "description": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "headings": [
@@ -32021,30 +32023,29 @@
         "Innovating with Integrity",
         "Creating a World of Possibilities",
         "Natera News",
-        "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-        "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™"
+        "Natera to Report its Third Quarter Results on November 5, 2026",
+        "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer"
       ],
       "excerpts": [
         "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
         "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-        "ESMO 2026 Presentations Deepen the Evidence Base for Natera’s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology"
+        "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
       ],
       "productExcerpts": [],
       "planExcerpts": [],
-      "contentHash": "ff0390184a7add6c057c6f809f2c3b274e38e869f02662212fcccf9fee58fa59",
-      "visibleTextHash": "22195f7b32910c952cbfaabe55b16989f57b181964ab17b38770bc978b32147b",
-      "visibleTextChars": 8636,
-      "lastModified": "Tue, 27 Oct 2026 19:36:18 GMT",
-      "changeType": "unchanged",
+      "contentHash": "084a845bc3372b6a4ffcf086531c931af3c3ff36cb4d23411af2450af29016c6",
+      "visibleTextHash": "3a7ffbb5e76e90153addcc93c97e939c210813636a353b1e3b14724353b5d0fa",
+      "visibleTextChars": 8570,
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-10-28T10:46:12+00:00",
-      "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastChangedAt": "2026-10-31T10:33:12+00:00",
+      "capturedAt": "2026-10-31T10:33:12+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "natera",
@@ -32114,7 +32115,7 @@
       "resolvedUrl": "https://www.nurixtx.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Nurix | Medicines to Outmatch Disease",
       "description": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "headings": [
@@ -32154,7 +32155,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-16T09:14:34+00:00",
       "capturedAt": "2026-10-16T09:14:34+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "nurix",
@@ -32260,7 +32261,7 @@
       "resolvedUrl": "https://nykode.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Home - Nykode",
       "description": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "headings": [
@@ -32299,7 +32300,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-24T09:03:53+00:00",
       "capturedAt": "2026-10-24T09:03:53+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -32371,7 +32372,7 @@
       "resolvedUrl": "https://nanoporetech.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Welcome to Oxford Nanopore Technologies",
       "description": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "headings": [
@@ -32405,7 +32406,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-21T09:33:24+00:00",
       "capturedAt": "2026-10-21T09:33:24+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "oxford-nanopore",
@@ -32492,10 +32493,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-10-30T10:59:24+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-10-30T10:59:24+00:00"
+      "lastFailureAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "recursion",
@@ -32506,47 +32507,49 @@
       "resolvedUrl": "https://recursion.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Pioneering AI Drug Discovery | Recursion",
       "description": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
       "headings": [
         "The AI engine uncovering novel medicines that matter",
         "Faster, better, and at scale for patients who are waiting",
-        "Decoding biology to radically improve lives",
-        "Better medicines, through novel insights and precision design",
-        "Inside the loop: Learn how we map disease biology and design potential medicines, and carry them into the clinic — at scale",
-        "Delivering for our partners",
-        "The latest from Recursion",
+        "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+        "Leading the evolution of AI drug discovery and development",
+        "Inside the loop:",
+        "Consistently delivering for our partners",
+        "Unlocking the First Neuroscience Target for the Recursion and Genentech Collaboration",
+        "10+",
+        "$500M+",
+        "Stay in touch with the latest from Recursion",
         "Decoding biology to radically improve lives. ®"
       ],
       "excerpts": [
-        "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-        "Join our mission & explore what AI drug discovery companies can do.",
-        "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
-        "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system."
+        "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+        "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+        "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+        "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners."
       ],
       "businessExcerpts": [
         "Join our mission & explore what AI drug discovery companies can do.",
-        "Investor Relations ESG Company Materials",
-        "Today, we’ve demonstrated significant improvements in speed, efficiency, and reduced costs from hit identification to IND-enabling studies compared to traditional pharmaceutical company averages."
+        "Investor Relations ESG Company Materials"
       ],
       "productExcerpts": [
-        "The Recursion OS drug discovery and development platform has yielded an advanced pipeline of potential first-in-class and best-in-class treatments for conditions with high unmet need including aggressive cancers and rare diseases.",
-        "Join our mission & explore what AI drug discovery companies can do.",
-        "Recursion was founded more than a decade ago on the idea that we could take images of cells and use these images to train artificial intelligence to understand the vast unknown biological space – the cellular disruptions driving disease – to use AI-drug discovery to reduce the…",
-        "Take a look inside the automated labs that form our AI-native data factory to see our end-to-end drug discovery and development engine work as one connected system."
+        "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
+        "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
+        "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
+        "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners."
       ],
       "planExcerpts": [],
-      "contentHash": "488a1ddc8f733b0d4f50a7b8068790f95e200e186f4073a9f5068cba9310baf8",
-      "visibleTextHash": "9d645d97ba400fb8892a7311cb1979bb1f605749e9f3fd2957ff5b2570adac5f",
-      "visibleTextChars": 6054,
-      "lastModified": "Fri, 16 Oct 2026 09:14:38 GMT",
-      "changeType": "unchanged",
+      "contentHash": "29809ecd3dfd9337af539e8fd62c14fee1ed51c0dc97bec805e722e6cd73b8b4",
+      "visibleTextHash": "6ea931d5715d9017d21e1b2a9cc1dc8fd386baa97dc994660eb35696800a9028",
+      "visibleTextChars": 5494,
+      "lastModified": "Sat, 31 Oct 2026 10:33:23 GMT",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
-      "lastChangedAt": "2026-10-16T09:14:34+00:00",
-      "capturedAt": "2026-10-16T09:14:34+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastChangedAt": "2026-10-31T10:33:12+00:00",
+      "capturedAt": "2026-10-31T10:33:12+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "recursion",
@@ -32605,7 +32608,7 @@
       "resolvedUrl": "https://www.retro.bio/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Retro Biosciences",
       "description": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "headings": [
@@ -32639,7 +32642,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-28T10:46:12+00:00",
       "capturedAt": "2026-10-28T10:46:12+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "retro-biosciences",
@@ -32747,7 +32750,7 @@
       "resolvedUrl": "https://www.sumitomo-pharma.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "Sumitomo Pharma Co., Ltd.",
       "description": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "headings": [
@@ -32774,21 +32777,20 @@
       ],
       "productExcerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-        "27, 2026 Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB） R&D",
         "iPS Cell-Derived Product Transportation Project"
       ],
       "planExcerpts": [],
-      "contentHash": "43968f061605662b04074a5d00e248d5f8e82ff1675dd49b03571318e669c4dd",
-      "visibleTextHash": "4745a940aeba4011345effd8222374853fb172425ac6e745b911ae0032a32e5b",
-      "visibleTextChars": 5891,
-      "etag": "\"f7bd46cb346a0220d015b3f3411aed25\"",
-      "lastModified": "Thu, 29 Oct 2026 08:45:42 GMT",
+      "contentHash": "94a2df1c0c26e28cea9c07b56ee658120903d28a0918631d23d382f27e314a99",
+      "visibleTextHash": "a3b3d81a856ebdfd291c9d2ffa2fc32a875a9df0c4401f327a5b84d42512f99a",
+      "visibleTextChars": 5875,
+      "etag": "\"e1d2c3d83d275b3058f70f54c3ddcca2\"",
+      "lastModified": "Fri, 30 Oct 2026 06:35:22 GMT",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
-      "lastChangedAt": "2026-10-29T11:03:13+00:00",
-      "capturedAt": "2026-10-29T11:03:13+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastChangedAt": "2026-10-31T10:33:12+00:00",
+      "capturedAt": "2026-10-31T10:33:12+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "sumitomo-pharma",
@@ -32861,8 +32863,8 @@
       "sourceType": "Company",
       "requestedUrl": "https://www.tempus.com/",
       "lastCheckStatus": "failed",
-      "lastFailureAt": "2026-10-29T11:03:13+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00",
+      "lastFailureAt": "2026-10-31T10:33:12+00:00",
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00",
       "lastCheckError": "HTTPError"
     },
     {
@@ -32921,7 +32923,7 @@
       "resolvedUrl": "https://www.xtalpi.com/",
       "contentType": "text/html",
       "refreshIntervalDays": 1,
-      "nextCheckAt": "2026-10-30T11:03:13+00:00",
+      "nextCheckAt": "2026-11-01T10:33:12+00:00",
       "title": "晶泰科技 | 人工智能 × 机器人技术平台赋能行业创新",
       "description": "以人工智能和机器人技术为驱动力，晶泰致力于用量子物理、AI、云计算、机器人实验等前沿技术领域打造了面向未来产业的创新型研发平台。该平台凭借共性技术集成优势，满足微观分子世界探索的需求。广泛赋能生物医药行业、新材料、石油化工、新能源等领域，为未来产业发展注入澎湃新动力。",
       "headings": [
@@ -32958,7 +32960,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-10-12T12:22:30+00:00",
       "capturedAt": "2026-10-12T12:22:30+00:00",
-      "lastCheckedAt": "2026-10-29T11:03:13+00:00"
+      "lastCheckedAt": "2026-10-31T10:33:12+00:00"
     },
     {
       "companyId": "xtalpi",
