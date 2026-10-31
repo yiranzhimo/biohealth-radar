@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-10-30T10:05:31+00:00",
+  "capturedAt": "2026-10-31T09:42:32+00:00",
   "count": 589,
   "items": [
     {
@@ -2464,6 +2464,27 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bellwethers",
+      "name": "Bellwethers Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410331",
+      "identifiers": {
+        "nihIpf": [
+          "10075739"
+        ],
+        "uei": [
+          "XV3NP1RSMHM7"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Organoids & Disease Models",
+        "Precision Diagnostics",
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-benitec-biopharma",
       "name": "Benitec Biopharma Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001808898",
@@ -3224,23 +3245,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-bonestrong-therapeutics",
-      "name": "Bonestrong Therapeutics Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
-      "identifiers": {
-        "nihIpf": [
-          "10091062"
-        ],
-        "uei": [
-          "XUNHXKKMFJ63"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3682,28 +3686,7 @@
       "sourceTypes": [
         "AI Drug Discovery",
         "Precision Diagnostics",
-        "biotechnology",
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-capienda-biotech",
-      "name": "Capienda Biotech, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
-      "identifiers": {
-        "nihIpf": [
-          "10049147"
-        ],
-        "uei": [
-          "EGF7MDLBABC6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "biotechnology",
-        "drug discovery"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -3976,26 +3959,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cellfe",
-      "name": "Cellfe Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
-      "identifiers": {
-        "nihIpf": [
-          "10048774"
-        ],
-        "uei": [
-          "M34JNT47EKK3"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5221,8 +5184,7 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -6364,6 +6326,25 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
+      "identifiers": {
+        "nihIpf": [
+          "10065823"
+        ],
+        "uei": [
+          "JCZPXLMQQ2D1"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Precision Diagnostics",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001815442",
@@ -7262,7 +7243,6 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
-        "gene therapy",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
@@ -9179,6 +9159,26 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-xosomix",
+      "name": "Xosomix LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11410609",
+      "identifiers": {
+        "nihIpf": [
+          "10062583"
+        ],
+        "uei": [
+          "KCWEJH659NZ9"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "RNA Therapeutics",
+        "cell therapy",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
