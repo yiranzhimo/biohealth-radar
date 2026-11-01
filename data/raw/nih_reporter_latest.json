@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-10-31T09:41:02+00:00",
+  "capturedAt": "2026-11-01T10:29:37+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -665,34 +665,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
     },
     {
-      "applId": 11416294,
-      "projectNum": "5R44CA302091-02",
-      "projectTitle": "Ultra-fast manufactured CAR-T therapy",
-      "fiscalYear": 2026,
-      "awardAmount": 1125000,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2025-09-15",
-      "projectEndDate": "2027-08-31",
-      "organization": {
-        "name": "KURE CELLS INC",
-        "city": "SHAKER HEIGHTS",
-        "state": "OH",
-        "country": "UNITED STATES",
-        "uei": "JCZPXLMQQ2D1",
-        "ipf": "10065823",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Novel therapeutic approaches are urgently needed for patients with relapsed/refractory cancers. Chimeric Antigen Receptor (CAR) T cell therapies have exhibited remarkable promise particularly for patients with relapsed/refractory B cell malignancies. Though current CAR-T…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
-    },
-    {
       "applId": 11411298,
       "projectNum": "5R44CA309843-02",
       "projectTitle": "Novel Telomere-Targeting Therapy for Advanced Non-Small Cell Lung Cancer",
@@ -736,8 +708,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "topicHints": [
         "Cell Therapy",
@@ -765,13 +736,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "topicHints": [
         "Cell Therapy",
-        "Organoids & Disease Models",
-        "Precision Diagnostics"
+        "Precision Diagnostics",
+        "Organoids & Disease Models"
       ],
       "projectSummaryExcerpt": "Significance: Alzheimer’s disease (AD) is a progressive neurodegenerative disorder that impairs cognition, function, and independence, ultimately leading to death. Over 55 million people worldwide are affected, with aging as the greatest risk factor. Existing therapies provide…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11410331"
@@ -903,6 +873,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
+        "gene therapy",
         "molecular diagnostics"
       ],
       "topicHints": [
@@ -1515,12 +1486,13 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "topicHints": [
-        "RNA Therapeutics",
+        "AI Drug Discovery",
         "Precision Diagnostics",
-        "AI Drug Discovery"
+        "RNA Therapeutics"
       ],
       "projectSummaryExcerpt": "Abstract Alzheimer’s Disease (AD) is the most common form of late-onset dementia, affecting 7 million Americans, with prevalence expected to double by 2050. AD is associated with accumulation of misfolded protein aggregates including β-amyloid and tau, with apolipoprotein E and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
@@ -1551,6 +1523,35 @@
       ],
       "projectSummaryExcerpt": "SUMMARY The integration of multi-omics data provides a comprehensive understanding of human physiology, offering an exciting approach for disease monitoring and health management. Unfortunately, challenges remain in acquiring appropriate biospecimens for multi-omics analysis,…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
+    },
+    {
+      "applId": 11314137,
+      "projectNum": "1R44CA310250-01",
+      "projectTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics",
+      "fiscalYear": 2026,
+      "awardAmount": 1052108,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-18",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "CELLFE INC.",
+        "city": "ATLANTA",
+        "state": "GA",
+        "country": "UNITED STATES",
+        "uei": "M34JNT47EKK3",
+        "ipf": "10048774",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Gene Editing / Gene Therapy",
+        "Cell Therapy",
+        "RNA Therapeutics"
+      ],
+      "projectSummaryExcerpt": "PROJECT SUMMARY Genetic modification of patient blood cells in the laboratory (“ex vivo”) has been transformational in treatment of blood malignancies, most notably through the use of engineering T-cells (CAR-T or TCR T-cells) to recognize and attack blood cancer cells. Despite…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
     },
     {
       "applId": 11313383,

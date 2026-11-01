@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-10-31T09:42:32+00:00",
+  "capturedAt": "2026-11-01T10:31:40+00:00",
   "count": 589,
   "items": [
     {
@@ -2479,8 +2479,7 @@
         "Cell Therapy",
         "Organoids & Disease Models",
         "Precision Diagnostics",
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -3963,6 +3962,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
+      "identifiers": {
+        "nihIpf": [
+          "10048774"
+        ],
+        "uei": [
+          "M34JNT47EKK3"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Gene Editing / Gene Therapy",
+        "RNA Therapeutics",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001752828",
@@ -5184,7 +5203,8 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6326,25 +6346,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-kure-cells",
-      "name": "Kure Cells Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
-      "identifiers": {
-        "nihIpf": [
-          "10065823"
-        ],
-        "uei": [
-          "JCZPXLMQQ2D1"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001815442",
@@ -7243,6 +7244,7 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
+        "gene therapy",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
@@ -9177,8 +9179,7 @@
       "sourceTypes": [
         "Cell Therapy",
         "RNA Therapeutics",
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },

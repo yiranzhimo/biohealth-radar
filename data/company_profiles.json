@@ -20066,8 +20066,7 @@
           "Cell Therapy",
           "Organoids & Disease Models",
           "Precision Diagnostics",
-          "cell therapy",
-          "gene therapy"
+          "cell therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -31643,6 +31642,103 @@
       ]
     },
     {
+      "companyId": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "asOfDate": "2026-10-31",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11314137",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10048774"
+          ],
+          "uei": [
+            "M34JNT47EKK3"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Cell Therapy",
+          "Gene Editing / Gene Therapy",
+          "RNA Therapeutics",
+          "gene therapy"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-cellfe-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cellfe-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cellfe-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
+        }
+      ]
+    },
+    {
       "companyId": "candidate-celularity",
       "name": "Celularity Inc",
       "asOfDate": "2026-10-31",
@@ -40976,7 +41072,8 @@
           "AI Drug Discovery",
           "Precision Diagnostics",
           "RNA Therapeutics",
-          "drug discovery"
+          "drug discovery",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -51406,102 +51503,6 @@
       ]
     },
     {
-      "companyId": "candidate-kure-cells",
-      "name": "Kure Cells Inc",
-      "asOfDate": "2026-10-31",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11416294",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10065823"
-          ],
-          "uei": [
-            "JCZPXLMQQ2D1"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Cell Therapy",
-          "Precision Diagnostics",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-kure-cells-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-kure-cells-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-kure-cells-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-kure-cells-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-kure-cells-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
       "asOfDate": "2026-10-31",
@@ -59014,6 +59015,7 @@
         "companyType": "Diagnostics / Research Tools",
         "directions": [
           "Precision Diagnostics",
+          "gene therapy",
           "molecular diagnostics"
         ],
         "modalities": [],
@@ -74834,8 +74836,7 @@
         "directions": [
           "Cell Therapy",
           "RNA Therapeutics",
-          "cell therapy",
-          "gene therapy"
+          "cell therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
