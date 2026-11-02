@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-01T10:31:40+00:00",
+  "capturedAt": "2026-11-02T11:15:23+00:00",
   "count": 589,
   "items": [
     {
@@ -610,7 +610,7 @@
           "0001513525"
         ],
         "ticker": [
-          "ADIL"
+          "AZR"
         ]
       },
       "sourceTypes": [
@@ -1269,8 +1269,8 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-amarin-corp-plc-uk",
-      "name": "Amarin Corp PLC\\Uk",
+      "companyId": "candidate-amarin-corp-plcuk",
+      "name": "Amarin Corp Plcuk",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
       "identifiers": {
         "cik": [
@@ -2379,6 +2379,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bambusa-therapeutics",
+      "name": "Bambusa Therapeutics, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+      "identifiers": {
+        "cik": [
+          "0002044950"
+        ],
+        "ticker": [
+          "BBTX"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-bao-pharma",
       "name": "Bao Pharma",
       "marketPageUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2659&sc_lang=en",
@@ -2612,23 +2629,6 @@
         ],
         "ticker": [
           "BIOE"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-bio-path-holdings",
-      "name": "Bio-Path Holdings, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133818",
-      "identifiers": {
-        "cik": [
-          "0001133818"
-        ],
-        "ticker": [
-          "BPTH"
         ]
       },
       "sourceTypes": [
@@ -3719,7 +3719,8 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology"
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7244,7 +7245,6 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
-        "gene therapy",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
@@ -7259,23 +7259,6 @@
         ],
         "ticker": [
           "NPHC"
-        ]
-      },
-      "sourceTypes": [
-        "Medicinal Chemicals and Botanical Products"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-nyb-holdings",
-      "name": "NYB Holdings Ltd",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002100835",
-      "identifiers": {
-        "cik": [
-          "0002100835"
-        ],
-        "ticker": [
-          "NYB"
         ]
       },
       "sourceTypes": [
@@ -8462,6 +8445,23 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-talawar-tx",
+      "name": "Talawar Tx Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+      "identifiers": {
+        "cik": [
+          "0002140859"
+        ],
+        "ticker": [
+          "TLWR"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
