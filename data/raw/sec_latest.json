@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-02T06:18:07.665619+00:00",
+  "capturedAt": "2026-11-02T21:44:51.691539+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
     "start": "2026-10-19",
@@ -139,6 +139,183 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-02T21:34:11.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-40323",
+      "filmNumber": "261512926",
+      "items": "",
+      "size": 8827655,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "rxrx-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001601830-26-000145",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-10-31",
+      "acceptanceDateTime": "2026-11-02T21:32:56.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-40323",
+      "filmNumber": "261512895",
+      "items": "2.02,5.02,7.01,9.01",
+      "size": 10130243,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "rxrx-20261031.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001601830-26-000144",
+      "companyId": "recursion",
+      "companyName": "Recursion Pharmaceuticals",
+      "companyDirections": [
+        "AI Drug Discovery"
+      ],
+      "secTicker": "RXRX",
+      "cik": "0001601830",
+      "secName": "RECURSION PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-02T21:10:56.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-37923",
+      "filmNumber": "261512449",
+      "items": "",
+      "size": 10917919,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "crsp-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001193125-26-443665",
+      "companyId": "crispr-therapeutics",
+      "companyName": "CRISPR Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "CRSP",
+      "cik": "0001674416",
+      "secName": "CRISPR Therapeutics AG",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-11-02",
+      "acceptanceDateTime": "2026-11-02T21:07:19.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37923",
+      "filmNumber": "261512375",
+      "items": "2.02,9.01",
+      "size": 423139,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "crsp-20261102.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-443644",
+      "companyId": "crispr-therapeutics",
+      "companyName": "CRISPR Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "CRSP",
+      "cik": "0001674416",
+      "secName": "CRISPR Therapeutics AG",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443644/crsp-20261102.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-10-28",
+      "acceptanceDateTime": "2026-11-02T21:05:27.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39035",
+      "filmNumber": "261512296",
+      "items": "5.02",
+      "size": 675078,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "txg-20261028.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001628280-26-068867",
+      "companyId": "10x-genomics",
+      "companyName": "10x Genomics",
+      "companyDirections": [
+        "Sequencing & Research Tools"
+      ],
+      "secTicker": "TXG",
+      "cik": "0001770787",
+      "secName": "10x Genomics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-02T12:04:16.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-42130",
+      "filmNumber": "261509866",
+      "items": "",
+      "size": 17275389,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "tem-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001193125-26-442624",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442624/tem-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-11-02",
+      "acceptanceDateTime": "2026-11-02T12:00:15.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-42130",
+      "filmNumber": "261509855",
+      "items": "2.02,7.01,9.01",
+      "size": 1651376,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "tem-20261102.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-442619",
+      "companyId": "tempus-ai",
+      "companyName": "Tempus AI",
+      "companyDirections": [
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "secTicker": "TEM",
+      "cik": "0001717115",
+      "secName": "Tempus AI, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
+    },
     {
       "filingDate": "2026-10-30",
       "reportDate": "2026-09-27",
@@ -418,6 +595,225 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001601830-000160183026000145",
+      "date": "2026-11-02",
+      "title": "Recursion Pharmaceuticals filed Form 10-Q",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000145 for Recursion Pharmaceuticals, Form 10-Q, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001601830-000160183026000144",
+      "date": "2026-11-02",
+      "title": "Recursion Pharmaceuticals filed Form 8-K",
+      "entity": "Recursion Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "AI Drug Discovery"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "RXRX"
+      ],
+      "companyIds": [
+        "recursion"
+      ],
+      "fact": "SEC EDGAR lists accession 0001601830-26-000144 for Recursion Pharmaceuticals, Form 8-K, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001674416-000119312526443665",
+      "date": "2026-11-02",
+      "title": "CRISPR Therapeutics filed Form 10-Q",
+      "entity": "CRISPR Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "CRSP"
+      ],
+      "companyIds": [
+        "crispr-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-443665 for CRISPR Therapeutics, Form 10-Q, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001674416-000119312526443644",
+      "date": "2026-11-02",
+      "title": "CRISPR Therapeutics filed Form 8-K",
+      "entity": "CRISPR Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443644/crsp-20261102.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "CRSP"
+      ],
+      "companyIds": [
+        "crispr-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-443644 for CRISPR Therapeutics, Form 8-K, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001770787-000162828026068867",
+      "date": "2026-11-02",
+      "title": "10x Genomics filed Form 8-K",
+      "entity": "10x Genomics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TXG"
+      ],
+      "companyIds": [
+        "10x-genomics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-068867 for 10x Genomics, Form 8-K, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001717115-000119312526442624",
+      "date": "2026-11-02",
+      "title": "Tempus AI filed Form 10-Q",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442624/tem-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-442624 for Tempus AI, Form 10-Q, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001717115-000119312526442619",
+      "date": "2026-11-02",
+      "title": "Tempus AI filed Form 8-K",
+      "entity": "Tempus AI",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics",
+        "Healthcare AI"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TEM"
+      ],
+      "companyIds": [
+        "tempus-ai"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-442619 for Tempus AI, Form 8-K, filed on 2026-11-02.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001110803-000111080326000207",
       "date": "2026-10-30",

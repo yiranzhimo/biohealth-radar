@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-02T11:13:11+00:00",
+  "capturedAt": "2026-11-02T21:44:46.119551+00:00",
   "summary": {
-    "mentionCount": 662,
-    "candidateCount": 593,
+    "mentionCount": 661,
+    "candidateCount": 592,
     "corroboratedCount": 3,
     "identifiedCount": 586,
-    "needsReviewCount": 4,
+    "needsReviewCount": 3,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 4,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,102 +20,86 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-2c6b17acb750a2d3",
-      "observedName": "MedImmune LLC",
-      "normalizedName": "medimmune",
+      "id": "mention-clinicaltrials-1722b387a95a63e1",
+      "observedName": "Quest Diagnostics-Nichols Insitute",
+      "normalizedName": "quest diagnostics nichols insitute",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01030536",
-      "sourceDate": "2018-04-09",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01030536",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06992544",
+      "sourceDate": "2026-08-13",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06992544",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Safety Study of CAT-8015 to Treat Advanced B-cell Non-Hodgkin Lymphoma and Chronic Lymphocytic Leukemia (NHL or CLL)"
-    },
-    {
-      "id": "mention-clinicaltrials-38917de45eafd4aa",
-      "observedName": "Sarepta Therapeutics, Inc.",
-      "normalizedName": "sarepta therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05096221",
-      "sourceDate": "2025-07-08",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
-    },
-    {
-      "id": "mention-clinicaltrials-8a3b2ac40be1ba34",
-      "observedName": "Pierian Biosciences",
-      "normalizedName": "pierian biosciences",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06844136",
-      "sourceDate": "2025-02-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
         "Recruiting",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
         "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
+      "contextTitle": "Trial of Pistachio Consumption in Older Adults"
     },
     {
-      "id": "mention-clinicaltrials-f1787d1b2f71858b",
-      "observedName": "Cellnovo Limited",
-      "normalizedName": "cellnovo",
+      "id": "mention-clinicaltrials-6215d15a9c1ee70a",
+      "observedName": "Astellas Pharma Global Development, Inc.",
+      "normalizedName": "astellas pharma global development",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02997202",
+      "sourceDate": "2025-01-17",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02997202",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Trial of the FMS-like Tyrosine Kinase 3 (FLT3) Inhibitor Gilteritinib Administered as Maintenance Therapy Following Allogeneic Transplant for Patients With FLT3/Internal Tandem Duplication (ITD) Acute Myeloid Leukemia (AML)"
+    },
+    {
+      "id": "mention-clinicaltrials-8119c5bce52af44d",
+      "observedName": "Beijing GeneX Health Technology Co., Ltd",
+      "normalizedName": "beijing genex health technology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03186300",
-      "sourceDate": "2026-03-27",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03186300",
+      "sourceRecordId": "NCT05473923",
+      "sourceDate": "2025-02-11",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05473923",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "临床决策支持",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
         "临床试验",
-        "医疗 AI"
+        "精准医疗",
+        "肿瘤",
+        "诊断"
       ],
       "activitySignals": [
+        "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)"
+      "contextTitle": "PTCs-based Precision Treatment Strategy on Recurrent High-grade Gliomas"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43880,32 +43864,36 @@
       ]
     },
     {
-      "id": "candidate-medimmune",
-      "name": "MedImmune LLC",
+      "id": "candidate-astellas-pharma-global-development",
+      "name": "Astellas Pharma Global Development, Inc.",
       "aliases": [
-        "MedImmune LLC"
+        "Astellas Pharma Global Development, Inc."
       ],
-      "normalizedName": "medimmune",
+      "normalizedName": "astellas pharma global development",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2018-04-09",
-      "lastSeenAt": "2018-04-09",
+      "firstSeenAt": "2025-01-17",
+      "lastSeenAt": "2025-01-17",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
+          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
+          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -43919,121 +43907,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-2c6b17acb750a2d3"
+        "mention-clinicaltrials-6215d15a9c1ee70a"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2018-04-09",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01030536",
-          "externalId": "NCT01030536",
-          "contextTitle": "Safety Study of CAT-8015 to Treat Advanced B-cell Non-Hodgkin Lymphoma and Chronic Lymphocytic Leukemia (NHL or CLL)"
-        }
-      ]
-    },
-    {
-      "id": "candidate-pierian-biosciences",
-      "name": "Pierian Biosciences",
-      "aliases": [
-        "Pierian Biosciences"
-      ],
-      "normalizedName": "pierian biosciences",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-02-28",
-      "lastSeenAt": "2025-02-28",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "Recruiting",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-8a3b2ac40be1ba34"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-02-28",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06844136",
-          "externalId": "NCT06844136",
-          "contextTitle": "ChemoINTEL Assay Algorithm Development Study: In-Vitro Cytotoxic Drug Induced Apoptosis Correlation with Patient Clinical Response to Administered Chemotherapy in Patients"
-        }
-      ]
-    },
-    {
-      "id": "candidate-sarepta-therapeutics",
-      "name": "Sarepta Therapeutics, Inc.",
-      "aliases": [
-        "Sarepta Therapeutics, Inc."
-      ],
-      "normalizedName": "sarepta therapeutics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-07-08",
-      "lastSeenAt": "2025-07-08",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-38917de45eafd4aa"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-07-08",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05096221",
-          "externalId": "NCT05096221",
-          "contextTitle": "A Gene Transfer Therapy Study to Evaluate the Safety and Efficacy of Delandistrogene Moxeparvovec (SRP-9001) in Participants With Duchenne Muscular Dystrophy (DMD)"
+          "sourceDate": "2025-01-17",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02997202",
+          "externalId": "NCT02997202",
+          "contextTitle": "A Trial of the FMS-like Tyrosine Kinase 3 (FLT3) Inhibitor Gilteritinib Administered as Maintenance Therapy Following Allogeneic Transplant for Patients With FLT3/Internal Tandem Duplication (ITD) Acute Myeloid Leukemia (AML)"
         }
       ]
     },
@@ -47362,35 +47246,45 @@
       ]
     },
     {
-      "id": "candidate-cellnovo",
-      "name": "Cellnovo Limited",
+      "id": "candidate-beijing-genex-health-technology",
+      "name": "Beijing GeneX Health Technology Co., Ltd",
       "aliases": [
-        "Cellnovo Limited"
+        "Beijing GeneX Health Technology Co., Ltd"
       ],
-      "normalizedName": "cellnovo",
+      "normalizedName": "beijing genex health technology",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-03-27",
-      "lastSeenAt": "2026-03-27",
+      "firstSeenAt": "2025-02-11",
+      "lastSeenAt": "2025-02-11",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
+          "Diagnostics",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
-          "医疗 AI"
+          "精准医疗",
+          "肿瘤",
+          "诊断"
         ],
         "themes": [
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
+          "Diagnostics",
+          "Oncology",
+          "Precision Medicine",
+          "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
-          "医疗 AI"
+          "精准医疗",
+          "肿瘤",
+          "诊断"
         ],
         "tags": []
       },
@@ -47403,17 +47297,67 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-f1787d1b2f71858b"
+        "mention-clinicaltrials-8119c5bce52af44d"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2026-03-27",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03186300",
-          "externalId": "NCT03186300",
-          "contextTitle": "Patient Empowerment Through Predictive Personalised Decision Support (PEPPER)"
+          "sourceDate": "2025-02-11",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05473923",
+          "externalId": "NCT05473923",
+          "contextTitle": "PTCs-based Precision Treatment Strategy on Recurrent High-grade Gliomas"
+        }
+      ]
+    },
+    {
+      "id": "candidate-quest-diagnostics-nichols-insitute",
+      "name": "Quest Diagnostics-Nichols Insitute",
+      "aliases": [
+        "Quest Diagnostics-Nichols Insitute"
+      ],
+      "normalizedName": "quest diagnostics nichols insitute",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-13",
+      "lastSeenAt": "2026-08-13",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Recruiting",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-1722b387a95a63e1"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-08-13",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06992544",
+          "externalId": "NCT06992544",
+          "contextTitle": "Trial of Pistachio Consumption in Older Adults"
         }
       ]
     }

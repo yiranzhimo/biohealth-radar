@@ -102,6 +102,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001770787-000162828026068867",
           "evidence-company-10x-genomics-investor_relations-4acde96b3042",
           "evidence-company-10x-genomics-pipeline-489854eb7ec1",
           "evidence-company-10x-genomics-official-39cc8ea1066d",
@@ -112,6 +113,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001770787-000162828026068867",
+            "date": "2026-11-02",
+            "title": "10x Genomics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001770787-000162828026068867",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm"
+          },
           {
             "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
             "date": "2026-09-23",
@@ -155,17 +167,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001770787-000162828026054491",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054491/txg-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001770787-000162828026054273",
-            "date": "2026-08-06",
-            "title": "10x Genomics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001770787-000162828026054273",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026054273/txg-20260806.htm"
           }
         ],
         "inferences": [],
@@ -176,12 +177,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-09-23",
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -190,6 +191,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001770787-000162828026068867",
+          "date": "2026-11-02",
+          "title": "10x Genomics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001770787-000162828026068867",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026068867/txg-20261028.htm"
+        },
         {
           "id": "event-evidence-company-10x-genomics-investor_relations-4acde96b3042",
           "date": "2026-09-23",
@@ -35847,6 +35859,14 @@
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-11-02",
+            "title": "CRISPR Therapeutics filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-08-03",
             "title": "CRISPR Therapeutics filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm",
@@ -35926,6 +35946,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001674416-000119312526443665",
+          "evidence-sec-0001674416-000119312526443644",
           "evidence-sec-0001674416-000119312526425243",
           "evidence-company-crispr-therapeutics-pipeline-3b78d87ebe36",
           "evidence-company-crispr-therapeutics-official-4896d033c3d0",
@@ -35937,6 +35959,28 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001674416-000119312526443665",
+            "date": "2026-11-02",
+            "title": "CRISPR Therapeutics filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001674416-000119312526443665",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm"
+          },
+          {
+            "id": "event-sec-0001674416-000119312526443644",
+            "date": "2026-11-02",
+            "title": "CRISPR Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001674416-000119312526443644",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443644/crsp-20261102.htm"
+          },
           {
             "id": "event-sec-0001674416-000119312526425243",
             "date": "2026-10-19",
@@ -35969,28 +36013,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
             "sourceUrl": "https://crisprtx.com/"
-          },
-          {
-            "id": "event-evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
-            "date": "2026-08-10",
-            "title": "OVERVIEW | CRISPR Therapeutics",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-crispr-therapeutics-investor_relations-89b42325d494",
-            "sourceUrl": "https://ir.crisprtx.com/"
-          },
-          {
-            "id": "event-sec-0001674416-000119312526330672",
-            "date": "2026-08-03",
-            "title": "CRISPR Therapeutics filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001674416-000119312526330672",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526330672/crsp-20260630.htm"
           }
         ],
         "inferences": [],
@@ -36001,12 +36023,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 8,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 3
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-10-19",
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -36015,6 +36037,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001674416-000119312526443665",
+          "date": "2026-11-02",
+          "title": "CRISPR Therapeutics filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001674416-000119312526443665",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm"
+        },
+        {
+          "id": "event-sec-0001674416-000119312526443644",
+          "date": "2026-11-02",
+          "title": "CRISPR Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001674416-000119312526443644",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443644/crsp-20261102.htm"
+        },
         {
           "id": "event-sec-0001674416-000119312526425243",
           "date": "2026-10-19",
@@ -63773,6 +63817,14 @@
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-11-02",
+            "title": "Recursion Pharmaceuticals filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-08-05",
             "title": "Recursion Pharmaceuticals filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm",
@@ -63852,6 +63904,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001601830-000160183026000145",
+          "evidence-sec-0001601830-000160183026000144",
           "evidence-company-recursion-official-29809ecd3dfd",
           "evidence-company-recursion-pipeline-f4c3ef602fcc",
           "evidence-sec-0001601830-000160183026000134",
@@ -63866,6 +63920,28 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001601830-000160183026000145",
+            "date": "2026-11-02",
+            "title": "Recursion Pharmaceuticals filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001601830-000160183026000145",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm"
+          },
+          {
+            "id": "event-sec-0001601830-000160183026000144",
+            "date": "2026-11-02",
+            "title": "Recursion Pharmaceuticals filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001601830-000160183026000144",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm"
+          },
           {
             "id": "event-evidence-company-recursion-official-29809ecd3dfd",
             "date": "2026-10-31",
@@ -63898,28 +63974,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000134",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000134/rxrx-finalprosuppxoct2026o.htm"
-          },
-          {
-            "id": "event-sec-0001601830-000160183026000128",
-            "date": "2026-10-15",
-            "title": "Recursion Pharmaceuticals filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001601830-000160183026000128",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm"
-          },
-          {
-            "id": "event-sec-0001601830-000160183026000126",
-            "date": "2026-10-15",
-            "title": "Recursion Pharmaceuticals filed Form 424B5",
-            "eventType": "Offering",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001601830-000160183026000126",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000126/rxrx-prelimprosuppxoct2026.htm"
           }
         ],
         "inferences": [],
@@ -63930,12 +63984,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 9,
+        "evidenceCount": 11,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 6
+          "Filing": 8
         },
-        "lastEvidenceDate": "2026-10-31",
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63944,6 +63998,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001601830-000160183026000145",
+          "date": "2026-11-02",
+          "title": "Recursion Pharmaceuticals filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001601830-000160183026000145",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000145/rxrx-20260930.htm"
+        },
+        {
+          "id": "event-sec-0001601830-000160183026000144",
+          "date": "2026-11-02",
+          "title": "Recursion Pharmaceuticals filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001601830-000160183026000144",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm"
+        },
         {
           "id": "event-evidence-company-recursion-official-29809ecd3dfd",
           "date": "2026-10-31",
@@ -64009,28 +64085,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001601830-000160183026000112",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm"
-        },
-        {
-          "id": "event-evidence-company-recursion-investor_relations-885ef40aa332",
-          "date": "2026-08-10",
-          "title": "Recursion Pharmaceuticals, Inc.",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-recursion-investor_relations-885ef40aa332",
-          "sourceUrl": "https://ir.recursion.com/"
-        },
-        {
-          "id": "event-sec-0001601830-000160183026000098",
-          "date": "2026-08-05",
-          "title": "Recursion Pharmaceuticals filed Form 10-Q",
-          "eventType": "Periodic Report",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001601830-000160183026000098",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm"
         }
       ]
     },
@@ -69637,6 +69691,14 @@
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-11-02",
+            "title": "Tempus AI filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442624/tem-20260930.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-07-30",
             "title": "Tempus AI filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm",
@@ -69717,6 +69779,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001717115-000119312526442624",
+          "evidence-sec-0001717115-000119312526442619",
           "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
           "evidence-sec-0001717115-000119312526429533",
           "evidence-sec-0001717115-000119312526427866",
@@ -69729,6 +69793,28 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001717115-000119312526442624",
+            "date": "2026-11-02",
+            "title": "Tempus AI filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001717115-000119312526442624",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442624/tem-20260930.htm"
+          },
+          {
+            "id": "event-sec-0001717115-000119312526442619",
+            "date": "2026-11-02",
+            "title": "Tempus AI filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001717115-000119312526442619",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
+          },
           {
             "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
             "date": "2026-10-29",
@@ -69761,28 +69847,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526427866",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm"
-          },
-          {
-            "id": "event-sec-0001717115-000119312526326090",
-            "date": "2026-07-30",
-            "title": "Tempus AI filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001717115-000119312526326090",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326090/tem-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001717115-000119312526326083",
-            "date": "2026-07-30",
-            "title": "Tempus AI filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001717115-000119312526326083",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm"
           }
         ],
         "inferences": [],
@@ -69792,12 +69856,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 9,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 6
+          "Filing": 8
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -69805,6 +69869,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001717115-000119312526442624",
+          "date": "2026-11-02",
+          "title": "Tempus AI filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001717115-000119312526442624",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442624/tem-20260930.htm"
+        },
+        {
+          "id": "event-sec-0001717115-000119312526442619",
+          "date": "2026-11-02",
+          "title": "Tempus AI filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001717115-000119312526442619",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
+        },
         {
           "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
           "date": "2026-10-29",
@@ -69870,17 +69956,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526309073",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526309073/d128960d8k.htm"
-        },
-        {
-          "id": "event-sec-0001717115-000119312526308469",
-          "date": "2026-07-20",
-          "title": "Tempus AI filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001717115-000119312526308469",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm"
         }
       ]
     },

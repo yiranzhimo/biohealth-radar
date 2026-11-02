@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-02T06:17:57.498401+00:00",
+  "capturedAt": "2026-11-02T21:44:42.298483+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,32 +14,82 @@
     "end": "2026-11-02"
   },
   "pmids": [
+    "42968661",
+    "42968562",
+    "42968193",
     "42966744",
     "42966557",
     "42966499",
-    "42966048",
-    "42965596",
-    "42965362",
     "42952019",
     "42941810",
     "42940052",
     "42930128",
     "42893561",
     "42890802",
+    "42968194",
     "42959945",
     "42957787",
     "42957731",
     "42956714",
     "42951937",
-    "42948713",
+    "42969407",
+    "42968799",
+    "42968468",
     "42967779",
     "42967173",
-    "42966710",
-    "42965359",
-    "42964788",
-    "42964275"
+    "42966710"
   ],
   "records": [
+    {
+      "pmid": "42968661",
+      "title": "Ferroportin deficiency drives olaparib resistance in ovarian cancer via the cGAS-STING-STAT3 survival axis.",
+      "abstract": "Ovarian cancer (OC) remains the most lethal gynaecological malignancy, and acquired resistance to PARP inhibitors such as olaparib represents a major clinical challenge. Although dysregulation of iron metabolism has been implicated in tumorigenesis, the specific role of the iron exporter SLC40A1 (ferroportin, FPN) in mediating olaparib resistance remains poorly understood. The study aimed to elucidate the clinical significance of FPN deficiency and to explore therapeutic strategies for reversing olaparib resistance. FPN expression was evaluated in OC samples from a clinical cohort of 19 patients, stratified by olaparib responsiveness, to determine its prognostic value. Functional mechanisms were investigated using multiple OC cell lines, patient-derived organoids (PDOs), and mouse xenograft models. We integrated analyses of iron homeostasis, ROS dynamics, DNA repair capacity, and innate immune signaling, with a focus on the cGAS-STING-STAT3 signaling cascade. The therapeutic potential of combining olaparib with the ferroptosis inducer erastin or the STING inhibitor C-176 was assessed as a strategy to overcome FPN deficiency-driven resistance. Clinically, FPN expression was significantly downregulated in olaparib-resistant tissues compared with sensitive controls (p < 0.05), and low FPN levels were strongly associated with poor therapeutic outcomes. Mechanistically, FPN deficiency promoted intracellular iron accumulation and ROS generation, which led to increased ferroptosis vulnerability, impaired homologous recombination repair (HRR) and concomitant activation of the cGAS-STING-STAT3 inflammatory axis, thereby driving olaparib resistance. Notably, in vivo studies demonstrated that combining olaparib with either erastin or C-176 significantly suppressed tumour growth and restored drug sensitivity compared with monotherapy (p < 0.01), supporting the translational potential of targeting this axis. Our study establishes a clinically relevant mechanistic connection between ferroportin deficiency and cGAS-STING-STAT3-mediated olaparib resistance in OC. We identify the FPN-ROS-cGAS-STING-STAT3 axis as an actionable vulnerability in resistant OC, indicating that this pathway is a promising therapeutic target to overcome olaparib resistance. FPN loss drives olaparib resistance and predicts poor outcomes in ovarian cancer. FPN loss causes iron and ROS accumulation, impairing HRR and activating the cGAS-STING-STAT3 axis. The cGAS-STING-STAT3 pro-survival program drives olaparib resistance. STING inhibition restores olaparib sensitivity in resistant ovarian cancer.",
+      "journal": "Clinical and translational medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center of Basic Medical Research, Institute of Medical Innovation and Research, Peking University Third Hospital, Beijing, China.",
+        "Cancer Center of Peking University Third Hospital, Beijing, China.",
+        "Beijing Key Laboratory of Interdisciplinary Research in Gastrointestinal Oncology (BLGO), Peking University Third Hospital, Beijing, China.",
+        "Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+        "Department of Radiation Oncology, Cancer Center of Peking University Third Hospital, Peking University Third Hospital, Beijing, China."
+      ],
+      "doi": "10.1002/ctm2.70885",
+      "date": "2026-11-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968661/"
+    },
+    {
+      "pmid": "42968562",
+      "title": "Macrophage Polarization in Sarcoidosis: Implications for Granuloma Formation, Fibrosis, and Therapeutic Strategies.",
+      "abstract": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine signaling and immune regulation. Recent evidence suggests that macrophage polarization, particularly the balance between classically activated M1 macrophages and alternatively activated M2 macrophages, plays a critical role in inflammatory granuloma formation and fibrotic progression in pulmonary sarcoidosis. TH1-related cytokines, including interferon-gamma (IFN-γ) and tumor necrosis factor-alpha (TNF-α), promote proinflammatory M1 polarization, whereas TH2-related cytokines, such as interleukin (IL)-4 and IL-13, drive M2 polarization, tissue remodeling, and fibrosis. Emerging transcriptional, single-cell spatial transcriptomic, and 3D organoid studies further demonstrate the remarkable heterogeneity of macrophages in sarcoid granulomas. Current and emerging therapeutic approaches, including corticosteroids, methotrexate, anti-TNF agents, leflunomide, Janus kinase inhibitors, and novel macrophage-targeted strategies (such as efzofitimod), may exert their effects, in part, by modulating these distinct macrophage activation pathways. This review summarizes the available evidence on macrophage polarization in sarcoidosis and provides an immunology-informed clinical framework for disease endotyping, biomarker-guided monitoring, and targeted therapeutic strategies to prevent fibrotic progression.",
+      "journal": "Thoracic research and practice",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "National Research Institute of Tuberculosis and Lung Disease (NRITLD) Tehran, Iran."
+      ],
+      "doi": "10.4274/ThoracResPract.2026.2026-5-13",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968562/"
+    },
+    {
+      "pmid": "42968193",
+      "title": "Generation of a senescent synovial organoid model using rat synovial fibroblasts treated with oxidative stress.",
+      "abstract": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescent synovial fibroblasts (SFs) contribute to OA pathogenesis. However, the in vitro modeling of the microenvironment formed by senescent SFs via SASPs remains limited. Here, we developed a three-dimensional (3D) senescent synovial organoid model using senescent rat SFs. We created the senescent SFs by treating normal rat SFs in monolayer culture with hydrogen peroxide (H2O2). Senescence induction was confirmed by senescence-associated beta-galactosidase (SA-β-gal) staining, γH2AX expression, and transcriptomic analysis. Synovial organoids were then generated by embedding normal or senescent SFs in Matrigel. Transcriptomic and protein-protein interaction analyses were performed and the expression of key regulatory factors was evaluated by immunostaining. Transcriptomic profiles of the organoids were further compared with bulk RNA sequencing data from rat OA synovium and single-cell RNA sequencing data from human OA synovium. Rat chondrocytes and RAW264.7 cells were co-cultured with control or senescent organoids. H2O2 treatment significantly increased SA-β-gal positivity and the expression of γH2AX and senescence-associated genes in monolayer-cultured SFs. Senescent organoids had thickened lining layers and distinct transcriptomic profiles compared to normal organoids. Enrichment analyses identified the upregulation of genes associated with extracellular matrix (ECM) organization, growth factor responses, and PI3K-Akt/MAPK signaling. Senescent organoids had a unique secretory phenotype characterized by elevated expression of ECM components, ECM-degrading enzymes, and proinflammatory factors. The expression of senescence-associated genes was greater in senescent organoids than in control organoids or H2O2-treated monolayer SFs. Protein-protein interaction analysis of senescent organoids identified central hub genes, including Il6, Tgfb1, Mmp13, and Ngf, with upregulation also confirmed at the protein level. Comparison with transcriptomic data from rat and human OA synovium revealed transcriptional similarities between senescent organoids and OA SFs in both species. Co-culture assays showed that senescent organoids decreased Sox9 expression and increased Col10a1 expression in chondrocytes, whereas they increased Cd80 expression and decreased Cd206 expression in RAW264.7 cells. Senescent organoids can faithfully recapitulate key features of the senescent SF microenvironment, offering an ideal platform for cellular senescence-based OA research.",
+      "journal": "Inflammation and regeneration",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Stem Cell and Regenerative Medicine, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo-Ku, Tokyo, 113-8510, Japan.",
+        "Center for Stem Cell and Regenerative Medicine, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo-Ku, Tokyo, 113-8510, Japan. endo.arm@tmd.ac.jp."
+      ],
+      "doi": "10.1186/s41232-026-00436-2",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968193/"
+    },
     {
       "pmid": "42966744",
       "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer.",
@@ -96,67 +146,6 @@
       "doi": "10.1016/j.jaad.2026.10.095",
       "date": "2026-10-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966499/"
-    },
-    {
-      "pmid": "42966048",
-      "title": "HDAC3 degradation to uncover therapeutic vulnerability in colorectal cancer.",
-      "abstract": "Overcoming therapeutic resistance in colorectal cancer (CRC) remains a major clinical challenge, highlighting the need for strategies targeting epigenetic drivers. Targeted protein degradation emerged as a powerful approach to selectively eliminate disease-relevant proteins. We reported the development of two series of PROTACs based on the clinical-stage HDAC inhibitor entinostat, by recruiting either VHL or CRBN E3 ligases. Compounds 4b and 4h, representative of the two series of degraders, induced robust, time-dependent HDAC degradation with a clear-cut preference for HDAC3, leading to apoptosis and reduced viability in CRC models. The antitumor activity of the new degraders was proved in patient-derived colon cancer organoids and in the CRC CAM model. The role of acetylation in gene regulation and expression in CRC was investigated measuring p21 and stemness markers such as CD44 and LGR5. Collectively, these findings demonstrate that new degraders effectively target HDAC3 and exert anti-tumor activity across multiple CRC models.",
-      "journal": "European journal of medicinal chemistry",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro 2, 53100, Siena, Italy.",
-        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro 2, 53100, Siena, Italy. Electronic address: gabriele.carullo@unisi.it.",
-        "Department of Public Health, Experimental and Forensic Medicine, University of Pavia, Viale Golgi 19, 27100, Pavia, Italy.",
-        "Experimental Tumorpathology, Germany.",
-        "Institute of Pathology, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg, Universitätsstrasse 22, 91054, Erlangen, DE, Germany.",
-        "Department of Translational Medicine, University of Ferrara, via Luigi Borsari 46, 44121, Ferrara, Italy.",
-        "Department of Pharmacy, Campus di Fisciano, Via Giovanni Paolo II 132, 84084, Fisciano (SA), Italy.",
-        "Department of Pharmacy, Campus di Fisciano, Via Giovanni Paolo II 132, 84084, Fisciano (SA), Italy; AREA Science Park, Laboratorio di Multi-omica Area Sud (LAAS), 84081, Baronissi SA, Italy.",
-        "Department of Food and Drug, University of Parma, Parco Area delle Scienze 27/A, Campus Universitario, 43124, Parma, Italy.",
-        "Department of Food and Drug, University of Parma, Parco Area delle Scienze 27/A, Campus Universitario, 43124, Parma, Italy; Microbiome Research Hub, University of Parma, 43124, Parma, Italy.",
-        "Experimental Tumorpathology, Germany; Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), Bavarian Cancer Research Center (BZKF), Erlangen, DE, Germany.",
-        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro 2, 53100, Siena, Italy. Electronic address: giuseppe.campiani@unisi.it."
-      ],
-      "doi": "10.1016/j.ejmech.2026.119463",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966048/"
-    },
-    {
-      "pmid": "42965596",
-      "title": "Human in vitro hepatic models for steatosis: a harmonized comparison for studying drug metabolism.",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) involves metabolic, inflammatory, and fibrotic processes which are not fully reproducible in vitro. However, MASLD is increasingly investigated using human-relevant in vitro models. This study models the steatosis component using a harmonized free fatty acid (FFA; oleic/palmitic acid) exposure across four human hepatic platforms: 2D primary human hepatocyte (PHH) suspension cultures, 2.5D PHH sandwich cultures, 3D PHH spheroids, and HepaRG/LX-2/HUVEC micro-organoids. Steatosis and function were assessed via lipid imaging, albumin/LDH release, mRNA profiling of drug metabolizing enzymes (DMEs) and transporters using Multiplex technology, and LC-MS/MS-based CYP1A2/CYP2C9 activity. Untreated cultures served as controls; FFA-treated cultures were designated \"FFA-induced steatotic\", reflecting lipid accumulation rather than full MASLD. PHH suspensions, classified a priori as putatively healthy or MASH based on medical records of the donor, showed rapid functional decline and substantial donor variability. In contrast, 2.5D sandwiches, 3D spheroids, and micro-organoids remained stable for 10-21 days and developed robust FFA-induced steatotic. Spheroids and micro-organoids maintained CYP activity and exhibited distinct metabolic responses; micro-organoids partially recovered after FFA-stimulus withdrawal. Cross-platform differences arise from both biological responses and model-intrinsic characteristics. 3D spheroids and micro-organoids were most suitable for long-term metabolic remodeling studies, while 2.5D sandwich cultures provided a practical system for transporter and enzyme induction research. Despite functional instability, 2D suspensions retained value for rapid short-term screening. These findings support use-case-driven selection of hepatic in vitro models for toxicology and ADME applications under FFA-induced steatosis.",
-      "journal": "Archives of toxicology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Boehringer Ingelheim Pharma GmbH & Co. KG, NCE, Biberach an der Riss, Germany.",
-        "Department of Traumatology, Siegfried Weller Institute, BG-Clinic Tübingen, Eberhard Karls University, Tübingen, Germany.",
-        "Department of Traumatology, Siegfried Weller Institute, BG-Clinic Tübingen, Eberhard Karls University, Tübingen, Germany. andreas.nuessler@med.uni-tuebingen.de."
-      ],
-      "doi": "10.1007/s00204-026-04578-7",
-      "date": "2026-10-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965596/"
-    },
-    {
-      "pmid": "42965362",
-      "title": "Human Pluripotent Stem Cell-Derived Neuromyocardial Organoids for Modeling Cardiomyocyte Development and Recovery from Hypoxia/Reoxygenation Injury.",
-      "abstract": "Human induced pluripotent stem cell (hiPSC)-derived organoids have emerged as powerful platforms for modeling human development, disease, and injury responses in vitro. Here, we describe a robust, scalable, and cost-effective protocol for generating neuromyocardial organoids (NMOs) from hiPSCs cultured in three-dimensional (3D) conditions. The protocol combines suspension-based hiPSC maintenance with a stepwise differentiation strategy using chemically defined media formulations to reproducibly co-specify neural and myocardial derivatives within the same organoid. Notably, the protocol relies exclusively on chemically defined, animal-free media and standard, low-cost tissue-culture plasticware, avoiding the ultra-low-attachment plates, anti-adherence coatings, and extracellular matrices required by many existing organoid systems. The resulting NMOs exhibit spontaneous contractile activity by day 6 and achieve >90% beating efficiency by day 7; they contain multiple cell populations relevant to embryonic development, including cardiomyocytes, neural cells, endothelial cells, and smooth muscle cells. To demonstrate the utility of this organoid platform for injury studies, we further establish a hypoxia/reoxygenation (H/R) injury model in mature (≥30 day), spontaneously beating NMOs. Live Hoechst/Propidium iodide (PI) staining enables longitudinal monitoring of injury-induced cell death in the same organoids, minimizing inter-sample variability. In parallel, real-time oxygen consumption rate (OCR) measurements using a real-time OCR monitoring system allow non-invasive assessment of metabolic and respiratory recovery following injury. Together, this protocol provides an accessible and reproducible platform for studying human multi-lineage tissue development, multicellular cardiac-neural interactions, hypoxic injury, and post-injury metabolic recovery in vitro.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "KosBio P.C.",
-        "Department of Genetics, Development and Molecular Biology, School of Biology, Aristotle University of Thessaloniki.",
-        "Department of Genetics, Development and Molecular Biology, School of Biology, Aristotle University of Thessaloniki; kchatzistergos@kosbio.com."
-      ],
-      "doi": "10.3791/73566",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965362/"
     },
     {
       "pmid": "42952019",
@@ -268,6 +257,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42890802/"
     },
     {
+      "pmid": "42968194",
+      "title": "AI-guided De Novo design of DHPS inhibitors.",
+      "abstract": "Hypusine modification of eIF5A by Deoxyhypusine Synthase (DHPS) is essential for the replication of a broad range of viruses, making DHPS an attractive host-directed therapy (HDT) target for antiviral drug discovery. AI-based drug design methods spanning binding affinity prediction and de novo molecular generation are rapidly proliferating, yet systematic benchmarking of diverse algorithmic paradigms under identical conditions on a shared target, with experimental validation, remains scarce. Here, we present an integrated AI benchmarking pipeline targeting DHPS and evaluate the full process from computational prediction to experimental validation. We compared 13 MM-GBSA score estimation models and 10 de novo molecular generation methods under 5-seed repeated experiments. For the prediction task, we propose an Out-of-Fold stacking ensemble integrating gradient boosting, graph neural networks, and chemical language models, achieving the highest Spearman rank correlation of 0.861 among all compared models. For the generation task, we propose RL-Design, a reinforcement learning-based framework using the ensemble predictor as a scoring oracle. RL-Design achieved the highest hit rate of 92.02% and maintained drug-like physicochemical properties across generated molecules, outperforming all nine competing methods. Moreover, experimental dose-response assays confirmed inhibitory activity in all three predicted-active compounds, with two highly active compounds showing IC50 values of 31.2 and 49.1 µM. Predicted and experimental activity showed complete concordance across all six tested compounds, providing oracle-independent validation of the pipeline. This pipeline provides a reproducible framework for AI-guided, target-specific inhibitor design and demonstrates the feasibility of HDT-focused antiviral drug discovery through systematic AI benchmarking.Scientific contributionThis work proposes two methods for inhibitor discovery against DHPS, a host-directed antiviral target. A predictive model for MM-GBSA binding-score estimation and a generative model that designs candidate hit compounds both ranked first among previous prediction and generation models under identical benchmarking. The predicted activities were experimentally confirmed by dose-response enzymatic assays.",
+      "journal": "Journal of cheminformatics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, 02841, Republic of Korea.",
+        "Department of Biomedical Sciences, College of Medicine, Korea University, Seoul, 02841, Republic of Korea. hrkim07@korea.ac.kr.",
+        "Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, 02841, Republic of Korea. chahong@korea.ac.kr."
+      ],
+      "doi": "10.1186/s13321-026-01277-4",
+      "date": "2026-08-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968194/"
+    },
+    {
       "pmid": "42959945",
       "title": "Simulating Directed Evolution In Silico with an Iterative, Physics-Based Workflow.",
       "abstract": "Directed evolution consistently delivers engineered enzymes that facilitate diverse biocatalytic transformations. Despite advances in automation and high-throughput workflows, our ability to rapidly engineer novel enzymes is limited by our inability to thoroughly sample the vast protein design space. Generative artificial intelligence (AI) methods have alleviated this challenge to some degree, due to their ability to propose mutations based on learned patterns from complex protein data sets. However, the hidden logic of these AI-based methods can complicate our ability to reveal and exploit fundamental details of these enzymes. To complement these hidden-logic models, we present a structure- and physics-based workflow that mimics directed evolution in silico. This Virtual Protein EngineeR (referred to as ViPER) aims to simulate directed evolution by leveraging computational modeling, molecular dynamics simulations, in silico mutagenesis, and structure-based property evaluation to iteratively engineer an enzyme toward a desired target. In this work, we present a retrospective analysis to demonstrate ViPER's ability to efficiently navigate the complex protein-protein interfaces associated with the oligomerization of a ketoreductase (KRED) enzyme. In addition to successfully predicting >70% of sites that are crucial for toggling the oligomerization of this KRED enzyme (after only five rounds), this dynamics-based methodology identifies a distal mutation that was incorporated during experiment-based directed evolution. This work provides a novel foundation for computationally driven directed evolution efforts, opening the opportunity to simultaneously pursue and evaluate multiple evolutionary routes through a physics-based lens.",
@@ -367,20 +373,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951937/"
     },
     {
-      "pmid": "42948713",
-      "title": "Application of computational methods in the drug discovery and development of Alzheimer's disease.",
-      "abstract": "Alzheimer's disease (AD) is a prevalent neurodegenerative disorder marked by the accumulation of amyloid plaques and neurofibrillary tangles in the brain, leading to cognitive decline. As the most common dementia, AD affects over 50 million individuals worldwide, with 10 million new cases each year. Despite many significant progresses in AD research fields, there is still no effective treatment. Advances in molecular modelling and artificial intelligence (AI) algorithm have facilitated the application of computational methods in AD drug development, offering advantages in terms of efficiency, cost-effectiveness, and resource conservation. These strategies, including molecular docking, molecular dynamics simulation, protein structure prediction, virtual screening, and de novo drug design, have been widely employed in the past decades. Additionally, AI pharmaceutical companies have revolutionized the traditional drug development pipeline such as AD biomarker discovery, accurate diagnosis and precision medicine, etc. This review offers a thorough summary of recent progresses in computational-based methodologies in the study of AD drug development, including the elucidation the pathological mechanism at the molecular level, target identification, target 3D structure prediction, lead compound discovery, de novo molecular generation, multi-target directed ligands, drug repurposing, biomarker discovery, etc., showing promising applications of molecular modelling and AI in the development of AD therapy.",
-      "journal": "Acta pharmaceutica Sinica. B",
+      "pmid": "42969407",
+      "title": "Comparative reasoning in radiology artificial intelligence: longitudinal and reference-case approaches.",
+      "abstract": "Artificial intelligence (AI) in radiology remains predominantly examination-centric, whereas clinical interpretation frequently depends on comparison across time or with relevant prior cases. This narrative review examines comparative reasoning in radiology AI through two related but clinically distinct forms: longitudinal reasoning, which compares examinations from the same patient over time, and reference-case reasoning, which uses clinically analogous cases from other patients to support interpretation. We propose a capability hierarchy that distinguishes simple access to comparative information from higher-level capabilities, including selection of relevant historical context, anatomical and lesion-level correspondence, characterization of interval change, temporal-state interpretation, multi-interval trajectory reasoning, and entity-specific assessment of clinical similarity. This distinction matters because providing prior examinations or retrieving visually similar cases does not itself demonstrate meaningful comparative reasoning. We review developments in prior-examination selection, registration, lesion tracking, temporal vision-language modeling, treatment-response assessment, analogous-case retrieval, and longitudinal report generation. Particular emphasis is placed on evaluation strategies that determine whether model performance depends appropriately on clinically relevant comparative information rather than on additional input volume, global image similarity, acquisition characteristics, or other shortcuts. Key challenges include incorrect prior selection, lesion mismatching, temporal inconsistency, clinically irrelevant reference-case retrieval, data leakage, misleading comparative language, and propagation of historical errors. Future progress will require models that preserve entity identity, reason coherently across multi-visit imaging histories, identify clinically informative reference cases, and demonstrate benefit under realistic clinical conditions. Comparative reasoning is therefore a necessary step in the transition from examination-level toward patient-level radiology AI.",
+      "journal": "Diagnostic and interventional radiology (Ankara, Turkey)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Basaksehir Cam and Sakura City Hospital, Department of Radiology, İstanbul, Türkiye.",
+        "Uskudar State Hospital, Department of Radiology, İstanbul, Türkiye."
+      ],
+      "doi": "10.4274/dir.2026.264561",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42969407/"
+    },
+    {
+      "pmid": "42968799",
+      "title": "Operationalising digital and AI pathology in translational research and drug development: an infrastructure and regulatory perspective from biobank to companion diagnostic.",
+      "abstract": "Digital and artificial intelligence (AI) pathology have advanced rapidly and are increasingly embedded in translational research, clinical trials and regulated diagnostic devices. Multiple reviews have addressed the underlying computational methods, oncology applications and clinical translation barriers; however, the operational and regulatory infrastructure required to deploy these technologies across the full drug-development pipeline remains under-reviewed. This structured narrative review synthesises peer-reviewed literature and regulatory documents identified through searches of PubMed, Embase and Web of Science between January 2019 and April 2026 (78 sources retained) on the end-to-end ecosystem connecting AI-ready tissue biobanks, preclinical pathology, AI-assisted patient screening, clinical-trial endpoint adjudication, central pathology review, Contract Research Organization (CRO) workflows and US Food and Drug Administration (FDA) regulatory pathways governing In Vitro Diagnostics (IVD), Software as a Medical Device (SaMD) and Companion Diagnostics (CDx). Unlike prior method-centric or oncology-clinician-centric reviews, we focus on the infrastructure between models and patients, including Laboratory Information Systems (LIS), Image Management Systems (IMS), AI orchestration and structured reporting under Clinical Laboratory Improvement Amendments, College of American Pathologists, Good Laboratory Practice, Good Clinical Laboratory Practice, Health Insurance Portability and Accountability Act and FDA frameworks. We provide a vendor-agnostic comparison of integrated pathology platforms, a mapping of FDA regulatory pathways (510(k), De Novo, premarket approval) to digital-pathology product categories, a stage-by-stage map from each drug-development challenge to its enabling infrastructure and regulatory framework, and a critical appraisal of the unresolved bottlenecks that gate broad adoption: domain shift, interpretability, annotation cost, algorithmic bias, external validation, regulatory uncertainty and reimbursement. A governed, interoperable LIS, IMS and AI ecosystem is a prerequisite for translating digital-pathology research into regulator-grade evidence. Priorities include external validation against reporting standards (Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis - Artificial Intelligence (TRIPOD-AI), Checklist for Artificial Intelligence in Medical Imaging (CLAIM), Development and Early-stage Clinical Identification and Delegation Evaluation of Artificial Intelligence (DECIDE-AI)), harmonisation with the EU AI Act and EU Medical Device Regulation and cost-effectiveness evaluation in real-world deployment.",
+      "journal": "BMJ oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Faculty of Applied Science, Macao Polytechnic University, Macao SAR 999078, China."
+        "Department of Computational Pathology, NovinoAI, Fort Lauderdale, Florida, USA.",
+        "Frontage Laboratories, Exton, Pennsylvania, USA.",
+        "Department of Urology, Good Samaritan Hospital Medical Center, Suffern, New York, USA."
       ],
-      "doi": "10.1016/j.apsb.2025.07.038",
-      "date": "2025-07-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948713/"
+      "doi": "10.1136/bmjonc-2026-001208",
+      "date": "2026-10-27",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968799/"
+    },
+    {
+      "pmid": "42968468",
+      "title": "A Review of Osteosarcoma-Derived Exosomes in Tumor Progression, Chemoresistance, and Bone Regeneration, and Their Potential in Drug Delivery.",
+      "abstract": "Exosomes, as critical mediators of intercellular communication, transport nucleic acids, proteins, and lipids that drive osteosarcoma (OS) progression and dynamically remodel the tumor microenvironment. Their distinctive biological properties-including low immunogenicity, high stability, and inherent targeting capability-position them as versatile tools across the entire OS management continuum, from early non-invasive diagnosis via liquid biopsy to targeted biotherapy and postoperative bone regeneration through coordinated osteogenesis-angiogenesis coupling. This review first outlines the epidemiological features and principal clinical bottlenecks of OS, then systematically summarizes exosome biogenesis, cellular uptake mechanisms, and the key molecular pathways through which exosomal cargoes regulate OS malignancy. We highlight emerging evidence that exosomal biomarkers enable real-time disease monitoring and that engineered exosomes serve as precision nanocarriers for therapeutic delivery. Notably, we emphasize recent insights into exosome-mediated crosstalk with immune cells within the osteoimmune microenvironment, their role in orchestrating vascularized bone formation, and advances in exosome-functionalized biomaterial scaffolds that effectively bridge tissue engineering with oncology. The clinical relevance of these findings lies in their potential integration into a unified diagnostic-therapeutic-regenerative paradigm, which may help overcome current limitations in surgical outcomes and chemoresistance. Nevertheless, clinical translation remains hindered by persistent challenges, including the lack of standardized isolation and characterization protocols, suboptimal in vivo delivery efficiency, batch-to-batch variability, and insufficient long-term safety data. Addressing these obstacles will require further mechanistic studies and multicenter clinical trials to establish robust regulatory frameworks. This article aims to review the roles of osteosarcoma-derived exosomes in tumor progression, chemoresistance, and bone regeneration, as well as their potential for drug delivery.",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Clinical Laboratory, The Affiliated Hospital Yanbian University (Yanbian Hospital), Yanji, Jilin, China.",
+        "Health Management (Medical Examination) Center, China-Japan Union Hospital of Jilin University, Changchun, Jilin, China.",
+        "Department of Dermatology, China-Japan Union Hospital of Jilin University, Changchun, Jilin, China.",
+        "Medical Research Center, The Second Hospital of Jilin University, Changchun, Jilin, China."
+      ],
+      "doi": "10.12659/MSM.953961",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968468/"
     },
     {
       "pmid": "42967779",
@@ -451,63 +494,135 @@
       "doi": "10.1016/j.dld.2026.10.021",
       "date": "2026-10-31",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966710/"
-    },
-    {
-      "pmid": "42965359",
-      "title": "Mapping the Spatiotemporal Evolution and Knowledge Landscape of Exosomes in Colorectal Cancer.",
-      "abstract": "Many studies have investigated the roles of exosomes in colorectal cancer (CRC), but the global research landscape and future directions in this field remain insufficiently characterized. This study aimed to integrate epidemiological evidence with bibliometric analysis to map the research landscape of exosome research in CRC. Global Burden of Disease (GBD) data were analyzed to assess the geographic and socioeconomic distribution of CRC incidence and mortality, and a bibliometric analysis was conducted to systematically evaluate publication trends, research clusters, and emerging themes. Network-based community detection was conducted using the Walktrap algorithm. GBD analysis revealed pronounced geographic and socioeconomic disparities in CRC incidence and mortality, indicating a heterogeneous global disease burden. Knowledge mapping demonstrated a rapid and sustained increase in publications on exosomes in CRC. Clustering analyses identified four major research domains: exosome biogenesis and molecular characteristics; tumor microenvironment and therapy resistance; exosomal non-coding RNAs in tumor progression and metastasis; and exosomal biomarkers for diagnosis and prognosis. The Walktrap analysis further identified biomarkers, diagnosis, liquid biopsy, drug delivery, and immunotherapy as highly relevant but relatively underdeveloped research directions. Overall, this integrated epidemiological and knowledge-mapping study provides a comprehensive overview of the evolution and structure of exosome research in CRC and highlights key research hotspots and emerging frontiers that may guide future investigations into precision diagnostics and therapeutic innovation.",
-      "journal": "Journal of visualized experiments : JoVE",
-      "publicationTypes": [
-        "Journal Article",
-        "Video-Audio Media"
-      ],
-      "affiliations": [
-        "Department of General Surgery, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University.",
-        "Department of Oncology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University.",
-        "Anorectal Department of Integrated Traditional Chinese and Western Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University.",
-        "Department of Ophthalmology, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang.",
-        "Department of Traditional Chinese Medicine, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University.",
-        "Digestive System Department, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University; wangzhizhi1125@163.com."
-      ],
-      "doi": "10.3791/74374",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965359/"
-    },
-    {
-      "pmid": "42964788",
-      "title": "Consensus and controversy of liquid biopsy using circulating tumour DNA (ctDNA) for molecular residual disease detection in colorectal cancer.",
-      "abstract": "Circulating tumour DNA (ctDNA) detection after curative-intent treatment is one of the strongest prognostic biomarkers in colorectal cancer (CRC), but its clinical utility remains incompletely established. Randomised trials have shown that ctDNA-informed management can reduce adjuvant chemotherapy exposure in selected stage II colon cancer, yet non-inferiority was not established in stage III disease, and cytotoxic escalation for ctDNA-positive molecular residual disease (MRD) has not improved recurrence-free survival. These mixed interventional results do not diminish the prognostic validity of ctDNA, but suggest that its clinical utility depends on four interacting considerations: the biological state represented by ctDNA positivity, the timing of testing and intervention, assay and sampling heterogeneity, and trial design. Serial ctDNA dynamics may provide additional biological and prognostic information, as sustained clearance, transient clearance, persistence, and re-emergence are unlikely to represent equivalent states of MRD. Western Pacific studies have led the field, including GALAXY and ALTAIR in Japan and Taiwan, DYNAMIC in Australia, FIND and CINTS-R in China, and CLAUDIA in Korea. However, regional implementation is constrained by uneven laboratory infrastructure, cost, regulatory access, and limited evidence from Southeast Asia and Pacific lower-resource settings. Outside clinical trials, ctDNA should refine prognosis rather than dictate omission, intensification, or initiation of treatment. Future trials should align assay performance, biological timing, and intervention mechanism, and use patient-centred endpoints capable of demonstrating that acting on ctDNA improves outcomes.",
-      "journal": "The Lancet regional health. Western Pacific",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Gastrointestinal Unit, Department of Medicine, Royal Marsden Hospital, London, Surrey, UK."
-      ],
-      "doi": "10.1016/j.lanwpc.2026.102001",
-      "date": "2026-10-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964788/"
-    },
-    {
-      "pmid": "42964275",
-      "title": "Addressing unmet clinical needs in treatment-resistant breast cancer: expanding the diagnostic-prognostic landscape through next-generation inflammatory signatures.",
-      "abstract": "Treatment-resistant breast cancer remains a major clinical challenge because conventional clinicopathological and molecular biomarkers incompletely capture the dynamic interactions between tumour cells, immunity, inflammation, and the systemic host response. Next-generation inflammatory signatures offer an opportunity to expand the diagnostic-prognostic landscape by integrating cellular, molecular, immune, and thromboinflammatory indicators with established tumour characteristics. This narrative review critically examines emerging evidence for neutrophil-to-lymphocyte ratio, platelet-to-lymphocyte ratio, systemic immune-inflammation index, systemic inflammation response index, C-reactive protein, cytokines, tumour-associated macrophages, myeloid-derived suppressor cells, neutrophil extracellular traps, coagulation biomarkers, and liquid-biopsy-derived measures in treatment-resistant breast cancer. Particular attention is given to sources of heterogeneity, including population characteristics, tumour subtype, treatment exposure, comorbid inflammation, sampling time, specimen processing, analytical platforms, and inconsistent biomarker thresholds. The review further evaluates the transition from biomarker discovery to clinical decision support, highlighting the need for prospective multicentre validation, standardised analytical procedures, external validation of computational models, and integration with molecular subtyping, circulating tumour DNA, imaging, and immune profiling. Rather than interpreting inflammation as a static prognostic variable, longitudinal inflammatory trajectories may provide earlier signals of biological treatment resistance and complement conventional measures of disease progression. Future research should establish clinically actionable inflammatory combinations and evaluate biomarker-guided anti-inflammatory strategies alongside standard therapies. Ultimately, integrating inflammatory phenotypes with tumour molecular characteristics may facilitate earlier recognition of resistance and more precise, dynamic, and equitable breast cancer management.",
-      "journal": "Oncology reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biomedical and Laboratory Science, Division of Haematology, Africa University, Mutare, Zimbabwe.",
-        "Department of Molecular Medicine and Haematology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
-      ],
-      "doi": "10.3389/or.2026.1918787",
-      "date": "2026-10-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964275/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-42968562",
+      "date": "2026-11-02",
+      "title": "Macrophage Polarization in Sarcoidosis: Implications for Granuloma Formation, Fibrosis, and Therapeutic Strategies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968562/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Thoracic research and practice，PMID 为 42968562。",
+      "report": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine si...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42969407",
+      "date": "2026-11-02",
+      "title": "Comparative reasoning in radiology artificial intelligence: longitudinal and reference-case approaches.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42969407/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Diagnostic and interventional radiology (Ankara, Turkey)，PMID 为 42969407。",
+      "report": "Artificial intelligence (AI) in radiology remains predominantly examination-centric, whereas clinical interpretation frequently depends on comparison across time or with relevant prior cases. This narrative review examines comparative reasoning in radiology AI...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42968468",
+      "date": "2026-11-02",
+      "title": "A Review of Osteosarcoma-Derived Exosomes in Tumor Progression, Chemoresistance, and Bone Regeneration, and Their Potential in Drug Delivery.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968468/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Medical science monitor : international medical journal of experimental and clinical research，PMID 为 42968468。",
+      "report": "Exosomes, as critical mediators of intercellular communication, transport nucleic acids, proteins, and lipids that drive osteosarcoma (OS) progression and dynamically remodel the tumor microenvironment. Their distinctive biological properties-including low imm...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42968661",
+      "date": "2026-11-01",
+      "title": "Ferroportin deficiency drives olaparib resistance in ovarian cancer via the cGAS-STING-STAT3 survival axis.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968661/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinical and translational medicine，PMID 为 42968661。",
+      "report": "Ovarian cancer (OC) remains the most lethal gynaecological malignancy, and acquired resistance to PARP inhibitors such as olaparib represents a major clinical challenge. Although dysregulation of iron metabolism has been implicated in tumorigenesis, the specif...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-42957787",
       "date": "2026-11-01",
@@ -626,36 +741,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42965596",
-      "date": "2026-10-31",
-      "title": "Human in vitro hepatic models for steatosis: a harmonized comparison for studying drug metabolism.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965596/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Archives of toxicology，PMID 为 42965596。",
-      "report": "Metabolic dysfunction-associated steatotic liver disease (MASLD) involves metabolic, inflammatory, and fibrotic processes which are not fully reproducible in vitro. However, MASLD is increasingly investigated using human-relevant in vitro models. This study mo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42966710",
       "date": "2026-10-31",
       "title": "The changing role of the gastroenterologist in the management of advanced gastric cancer.",
@@ -685,94 +770,6 @@
       "fact": "PubMed 记录显示该文献收录于 Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver，PMID 为 42966710。",
       "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide despite advances in prevention and systemic therapy. Recent integration of precision oncology has transformed its management, shifting treatment selection toward biomarker-driven stra...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42965362",
-      "date": "2026-10-30",
-      "title": "Human Pluripotent Stem Cell-Derived Neuromyocardial Organoids for Modeling Cardiomyocyte Development and Recovery from Hypoxia/Reoxygenation Injury.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965362/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42965362。",
-      "report": "Human induced pluripotent stem cell (hiPSC)-derived organoids have emerged as powerful platforms for modeling human development, disease, and injury responses in vitro. Here, we describe a robust, scalable, and cost-effective protocol for generating neuromyoca...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42965359",
-      "date": "2026-10-30",
-      "title": "Mapping the Spatiotemporal Evolution and Knowledge Landscape of Exosomes in Colorectal Cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965359/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42965359。",
-      "report": "Many studies have investigated the roles of exosomes in colorectal cancer (CRC), but the global research landscape and future directions in this field remain insufficiently characterized. This study aimed to integrate epidemiological evidence with bibliometric...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42966048",
-      "date": "2026-10-29",
-      "title": "HDAC3 degradation to uncover therapeutic vulnerability in colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966048/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 European journal of medicinal chemistry，PMID 为 42966048。",
-      "report": "Overcoming therapeutic resistance in colorectal cancer (CRC) remains a major clinical challenge, highlighting the need for strategies targeting epigenetic drivers. Targeted protein degradation emerged as a powerful approach to selectively eliminate disease-rel...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -882,6 +879,42 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42968799",
+      "date": "2026-10-27",
+      "title": "Operationalising digital and AI pathology in translational research and drug development: an infrastructure and regulatory perspective from biobank to companion diagnostic.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968799/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 BMJ oncology，PMID 为 42968799。",
+      "report": "Digital and artificial intelligence (AI) pathology have advanced rapidly and are increasingly embedded in translational research, clinical trials and regulated diagnostic devices. Multiple reviews have addressed the underlying computational methods, oncology a...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42967173",
       "date": "2026-10-27",
       "title": "Early Assessment of Circulating Tumor Cells and Their PD-L1 Expression as Predictive Biomarkers in Metastatic Non-Small Cell Lung Cancer Patients Treated with Immunotherapy: An Exploratory Study.",
@@ -909,40 +942,6 @@
       "fact": "PubMed 记录显示该文献收录于 ImmunoTargets and therapy，PMID 为 42967173。",
       "report": "The prognosis of metastatic non-small cell lung cancer (mNSCLC) has improved in recent years but therapeutic benefit remains heterogeneous, underscoring the need for reliable biomarkers. Liquid biopsy techniques, including the analysis of circulating tumor cel...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42964788",
-      "date": "2026-10-24",
-      "title": "Consensus and controversy of liquid biopsy using circulating tumour DNA (ctDNA) for molecular residual disease detection in colorectal cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Clinical Study",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964788/",
-      "reliability": "High",
-      "evidenceLevel": "High",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Lancet regional health. Western Pacific，PMID 为 42964788。",
-      "report": "Circulating tumour DNA (ctDNA) detection after curative-intent treatment is one of the strongest prognostic biomarkers in colorectal cancer (CRC), but its clinical utility remains incompletely established. Randomised trials have shown that ctDNA-informed manag...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -977,36 +976,6 @@
       "fact": "PubMed 记录显示该文献收录于 Biosensors，PMID 为 42930128。",
       "report": "Single-cell RNA sequencing has supplied cell atlases and artificial intelligence (AI)-enabled virtual-cell models with scalable, gene-level descriptions of cellular state. Yet prevalent poly(A)-based counting assays capture only part of the RNA landscape. Here...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42964275",
-      "date": "2026-10-16",
-      "title": "Addressing unmet clinical needs in treatment-resistant breast cancer: expanding the diagnostic-prognostic landscape through next-generation inflammatory signatures.",
-      "entity": "Healthcare AI Research",
-      "primaryCategory": "Healthcare AI",
-      "subCategory": "Medical AI",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964275/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 42964275。",
-      "report": "Treatment-resistant breast cancer remains a major clinical challenge because conventional clinicopathological and molecular biomarkers incompletely capture the dynamic interactions between tumour cells, immunity, inflammation, and the systemic host response. N...",
-      "inference": "自动分类命中规则：Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1190,6 +1159,74 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42968193",
+      "date": "2026-08-05",
+      "title": "Generation of a senescent synovial organoid model using rat synovial fibroblasts treated with oxidative stress.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968193/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Inflammation and regeneration，PMID 为 42968193。",
+      "report": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescen...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42968194",
+      "date": "2026-08-05",
+      "title": "AI-guided De Novo design of DHPS inhibitors.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968194/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of cheminformatics，PMID 为 42968194。",
+      "report": "Hypusine modification of eIF5A by Deoxyhypusine Synthase (DHPS) is essential for the replication of a broad range of viruses, making DHPS an attractive host-directed therapy (HDT) target for antiviral drug discovery. AI-based drug design methods spanning bindi...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42890802",
       "date": "2026-04-14",
       "title": "Progress of metabolomics-centric multi-omics research in medicine.",
@@ -1217,41 +1254,6 @@
       "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42890802。",
       "report": "Metabolomics reveals molecular changes at the metabolic level during biological processes. Recent advancements, particularly through integration with other omics and artificial intelligence (AI), are advancing metabolic data analysis and multi-omics interpreta...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42948713",
-      "date": "2025-07-30",
-      "title": "Application of computational methods in the drug discovery and development of Alzheimer's disease.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948713/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Drug Screening"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Acta pharmaceutica Sinica. B，PMID 为 42948713。",
-      "report": "Alzheimer's disease (AD) is a prevalent neurodegenerative disorder marked by the accumulation of amyloid plaques and neurofibrillary tangles in the brain, leading to cognitive decline. As the most common dementia, AD affects over 50 million individuals worldwi...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
