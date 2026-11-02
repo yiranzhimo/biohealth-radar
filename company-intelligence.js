@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-02",
   "summary": {
     "profileCount": 621,
-    "evidenceCount": 1018,
+    "evidenceCount": 1021,
     "programCandidateCount": 0,
     "companyCandidateCount": 593,
     "companyMentionCount": 662,
@@ -37,9 +37,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 621,
-    "companyReportedCount": 618,
-    "withEvidenceCount": 618,
-    "withProductClaimsCount": 510,
+    "companyReportedCount": 621,
+    "withEvidenceCount": 621,
+    "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
     "failedSourceCount": 52,
     "identityLinkCount": 0
@@ -10249,7 +10249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-amarin-corp-plcuk",
       "name": "Amarin Corp Plcuk",
       "asOfDate": "2026-11-02",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "AMRN",
@@ -10280,40 +10280,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "date": "2026-11-02",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+          "date": "2026-11-02",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448"
+        }
+      ]
     },
     {
       "companyId": "candidate-amgen",
@@ -14687,64 +14744,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。；公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-        "summaryOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system. Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+        "summary": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。；公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
+        "summaryOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics. Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
-            "text": "Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+            "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
-            "text": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+            "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
-            "text": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
+            "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
-            "text": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
+            "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
-            "text": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
+            "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Learn more about the Arvinas Early Career Researcher Award here .",
-            "text": "Learn more about the Arvinas Early Career Researcher Award here .",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
+            "textOriginal": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
+            "text": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-arvinas-official-a0ef0aba1601",
           "evidence-company-arvinas-pipeline-a8299650c0ce",
-          "evidence-company-arvinas-official-2bef897f809f",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
           "evidence-sec-0001655759-000162828026052139"
@@ -14766,6 +14823,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
+            "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
+            "date": "2026-11-02",
+            "title": "Targeted Protein Degradation Therapeutics | Arvinas",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+            "sourceUrl": "https://www.arvinas.com/"
+          },
+          {
             "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
             "date": "2026-10-29",
             "title": "Pipeline | Arvinas",
@@ -14775,17 +14843,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
             "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
-          },
-          {
-            "id": "event-evidence-company-arvinas-official-2bef897f809f",
-            "date": "2026-10-29",
-            "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-2bef897f809f",
-            "sourceUrl": "https://www.arvinas.com/"
           },
           {
             "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -14834,7 +14891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 2
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -14843,6 +14900,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
+          "date": "2026-11-02",
+          "title": "Targeted Protein Degradation Therapeutics | Arvinas",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-arvinas-official-a0ef0aba1601",
+          "sourceUrl": "https://www.arvinas.com/"
+        },
         {
           "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
           "date": "2026-10-29",
@@ -14853,17 +14921,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
           "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
-        },
-        {
-          "id": "event-evidence-company-arvinas-official-2bef897f809f",
-          "date": "2026-10-29",
-          "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-2bef897f809f",
-          "sourceUrl": "https://www.arvinas.com/"
         },
         {
           "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -19083,7 +19140,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-bambusa-therapeutics",
       "name": "Bambusa Therapeutics, Inc.",
       "asOfDate": "2026-11-02",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BBTX",
@@ -19114,40 +19171,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "date": "2026-11-02",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+          "date": "2026-11-02",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950"
+        }
+      ]
     },
     {
       "companyId": "candidate-bao-pharma",
@@ -68914,7 +69028,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-talawar-tx",
       "name": "Talawar Tx Inc.",
       "asOfDate": "2026-11-02",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "TLWR",
@@ -68945,40 +69059,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-talawar-tx-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "date": "2026-11-02",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-02",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-talawar-tx-official-c644ef580088",
+          "date": "2026-11-02",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859"
+        }
+      ]
     },
     {
       "companyId": "candidate-target-group",

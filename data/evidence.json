@@ -5312,15 +5312,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-2bef897f809f",
+      "id": "evidence-company-arvinas-official-a0ef0aba1601",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-10-29",
-      "snapshotDate": "2026-10-29",
+      "publishedAt": "2026-11-02",
+      "snapshotDate": "2026-11-02",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -5336,7 +5336,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 2bef897f809f7ceca48ff06922056246b7e23d957ef5843ac58c720713d607cb.",
+      "fact": "The official page was captured with normalized-content hash a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -5349,8 +5349,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "2bef897f809f7ceca48ff06922056246b7e23d957ef5843ac58c720713d607cb",
-      "changeType": "unchanged",
+      "contentHash": "a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -12352,6 +12352,62 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-amarin-corp-plcuk-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-amarin-corp-plcuk"
+      ],
+      "publishedAt": "2026-11-02",
+      "snapshotDate": "2026-11-02",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Amarin Corp Plcuk — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000897448",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-america-great-health-official-c644ef580088",
       "signalId": null,
       "companyIds": [
@@ -16704,6 +16760,62 @@
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-bambusa-therapeutics-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-bambusa-therapeutics"
+      ],
+      "publishedAt": "2026-11-02",
+      "snapshotDate": "2026-11-02",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Bambusa Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002044950",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
       "productExcerpts": [],
       "planExcerpts": []
     },
@@ -44056,6 +44168,62 @@
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-talawar-tx-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-talawar-tx"
+      ],
+      "publishedAt": "2026-11-02",
+      "snapshotDate": "2026-11-02",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Talawar Tx Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002140859",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
       "productExcerpts": [],
       "planExcerpts": []
     },
