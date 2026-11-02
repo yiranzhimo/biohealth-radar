@@ -1,8 +1,51 @@
 {
-  "capturedAt": "2026-11-01T22:07:18.637456+00:00",
+  "capturedAt": "2026-11-02T06:18:07.855088+00:00",
   "model": "gpt-4o-mini",
   "policyVersion": "publication-quality-v2",
   "applyNeedsReview": true,
   "autoClearThreshold": 0.85,
-  "reviews": []
+  "reviews": [
+    {
+      "signalId": "pubmed-42967779",
+      "responseId": "resp_022a74084f381738006ae82b20955887d093ac24d3a20c3c85",
+      "review": {
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "这条信号符合发布标准，事实、报告、推断和未知信息明确分离，分类和证据水平合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理，适合该文献的主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "固有的研究和方法论限制被识别为未知信息，未影响质量。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42967779。",
+          "report": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sens...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    }
+  ]
 }

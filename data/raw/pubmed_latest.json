@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-01T22:07:10.251535+00:00",
+  "capturedAt": "2026-11-02T06:17:57.498401+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,8 +10,8 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-01",
-    "end": "2026-11-01"
+    "start": "2025-11-02",
+    "end": "2026-11-02"
   },
   "pmids": [
     "42966744",
@@ -32,12 +32,12 @@
     "42956714",
     "42951937",
     "42948713",
+    "42967779",
     "42967173",
     "42966710",
     "42965359",
     "42964788",
-    "42964275",
-    "42963897"
+    "42964275"
   ],
   "records": [
     {
@@ -383,6 +383,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948713/"
     },
     {
+      "pmid": "42967779",
+      "title": "An extraction-free one-pot immunomagnetic-RPA-CRISPR/Cas13a platform for ultrasensitive detection of exosomal PD-L1.",
+      "abstract": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sensitivity and complicated operation. To address this, we developed an extraction-free immunomagnetic recombinase polymerase amplification (RPA)-based one-pot high-sensitivity CRISPR/Cas13a platform (iMRO-HCRISPR) employing DNA-conjugated antibodies. Exosomes in blood were enriched with anti-CD63/CD81/CD9 antibody-conjugated magnetic beads and recognized by PD-L1-specific DNA-antibody probes; the probe DNA then underwent RPA amplification, in vitro transcription (IVT), and Cas13a trans-cleavage, achieving multi-level signal amplification with fluorescent readout. Toehold-mediated DNA affinity pull-down effectively reduced the detection background. The platform achieved a limit of detection (LOD) as low as 101 particles/mL (positive detection at the single-particle level), a limit of quantification (LOQ) of 103 particles/mL, and a quantitative range of 103-1011 particles/mL, with the entire process completed in a single closed tube without exosome isolation. Clinical validation demonstrated that the platform effectively distinguished HCC patients from healthy controls (P < 0.0001), with an area under the receiver operating characteristic (ROC) curve (AUC) of 0.964. This study provides robust technical support for the ultrasensitive detection of exosomal PD-L1 in HCC and for dynamic monitoring of immunotherapy response.",
+      "journal": "Analytica chimica acta",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China; Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China.",
+        "Medical Laboratory Center, Foresea Life Insurance Guangzhou General Hospital, Guangzhou, Guangdong, PR China.",
+        "Institute of Biochemistry and Molecular Biology, School of Basic Medical Sciences, Guangdong Medical University, Zhanjiang, Guangdong, 524023, PR China.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China.",
+        "Key Laboratory of Antibody Engineering of Guangdong Higher Education Institutes, School of Laboratory Medicine and Biotechnology, Southern Medical University, Guangzhou, Guangdong, PR China. Electronic address: liutc@smu.edu.cn.",
+        "Laboratory Medicine Center, Affiliated Hospital of Guangdong Medical University, Zhanjiang, Guangdong, PR China. Electronic address: zengt@smu.edu.cn."
+      ],
+      "doi": "10.1016/j.aca.2026.346335",
+      "date": "2026-09-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42967779/"
+    },
+    {
       "pmid": "42967173",
       "title": "Early Assessment of Circulating Tumor Cells and Their PD-L1 Expression as Predictive Biomarkers in Metastatic Non-Small Cell Lung Cancer Patients Treated with Immunotherapy: An Exploratory Study.",
       "abstract": "The prognosis of metastatic non-small cell lung cancer (mNSCLC) has improved in recent years but therapeutic benefit remains heterogeneous, underscoring the need for reliable biomarkers. Liquid biopsy techniques, including the analysis of circulating tumor cells (CTCs) and Programmed death-ligand 1 (PD-L1) expression on CTCs (PD-L1-CTCs), have emerged as promising tools. We conducted a retrospective study in a cohort of mNSCLC patients treated with Immune Checkpoint Inhibitors (ICIs) to evaluate the predictive value of these biomarkers at baseline and at an early time point during treatment. CTCs were captured with the ClearCell® FX platform and then assessed for PD-L1 by immunostaining. Therapeutic drug monitoring of nivolumab and pembrolizumab was performed. Thirty-seven mNSCLC patients were enrolled. The median CTCs count was 35 CTCs per 7.5 mL of whole blood (standard deviation ± 939). PD-L1-CTCs were detected in 51% of patients. No correlation was found between PD-L1-CTCs and PD-L1 on tumor Formalin-Fixed, Paraffin-Embedded (FFPE) tissue. Higher-than-median CTCs count was associated with a trend toward worse outcomes. In contrast, PD-L1 expression on CTCs did not predict treatment response. Most patients presented a trough concentration of ICI at cure 3 above 10 µg/mL, regardless clinical response. Baseline CTCs levels tended to be associated with clinical outcomes, whereas PD-L1 expression on CTCs was not. Early evaluation of changes in these two parameters did not improve outcome prediction under ICI treatment. Larger studies with longer follow-up and more in-depth analyses are warranted to further define the prognostic and predictive value of CTC-based biomarkers.",
@@ -485,40 +505,6 @@
       "doi": "10.3389/or.2026.1918787",
       "date": "2026-10-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964275/"
-    },
-    {
-      "pmid": "42963897",
-      "title": "The impact of leukocyte-associated RNA retention on platelet RNA-based cancer detection.",
-      "abstract": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study provides the first comprehensive evaluation of how leukocyte-associated RNA retention influences platelet RNA sequencing and machine learning (ML)-based cancer detection. Using the largest publicly available platelet transcriptomic dataset (2351 human RNA samples) and single-cell/single-platelet RNA sequencing from 29 donors, we quantified leukocyte-associated RNA retention in matched sample groups (low vs. high retention) via a novel 132-gene leukocyte marker panel. Diagnostic implications were assessed using 10 ML algorithms for binary classification (cancer vs. healthy), examining the contribution of leukocyte-derived transcripts. Interestingly, models trained on high-retention samples often showed slightly improved performance, suggesting complementary diagnostic value from leukocyte signals. Importantly, post hoc correction using remove unwanted variation (RUV) and linear modeling effectively mitigated retention effects. However, adding the leukocyte-associated RNA retention score to the full-cohort classifier changed cancer-detection AUC only minimally (0.9247 to 0.9249). Thus, whether this signal should be corrected, recalibrated, or reported should depend on the study question rather than assuming routine removal.",
-      "journal": "Molecular oncology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Laboratory of Translational Oncology, Intercollegiate Faculty of Biotechnology of the University of Gdansk and the Medical University of Gdansk, Poland.",
-        "Centre of Biostatistics and Bioinformatics, Medical University of Gdansk, Poland.",
-        "Department of Software Engineering, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
-        "Department of Algorithms and Systems Modelling, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
-        "Laboratory of Single Cell Analyses, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznań, Poland.",
-        "Department of Biomedical Engineering, Faculty of Electronics, Telecommunications and Informatics, Gdansk University of Technology, Poland.",
-        "Department of Quality in Healthcare, Medical University of Gdansk, Poland.",
-        "Board of Directors, University Clinical Center, Medical University of Gdansk, Poland.",
-        "Department of Oncologic, General and Transplant Surgery, University Clinical Centre, Medical University of Gdansk, Gdansk, Poland.",
-        "Department of Obstetrics and Gynecology, Gynecological Oncology and Endocrinological Gynecology, University Clinical Center, Gdansk, Poland.",
-        "Department of Oncology and Radiotherapy, Faculty of Medicine, Medical University of Gdansk, Gdansk, Poland.",
-        "Molecular Medicine Program, University of Utah, Salt Lake City, UT, USA.",
-        "George E. Wahlen Veterans Affairs Medical Center, Department of Internal Medicine and the Geriatric Research Education and Clinical Center (GRECC), Salt Lake City, UT, USA.",
-        "Department of Pathology, University of Utah, Salt Lake City, UT, USA.",
-        "Division of General Internal Medicine, Department of Internal Medicine, University of Utah, Salt Lake City, UT, USA.",
-        "Department of Neurosurgery, Amsterdam UMC Location Vrije Universiteit Amsterdam, Amsterdam, the Netherlands.",
-        "Cancer Center Amsterdam and Brain Tumor Center Amsterdam, Amsterdam, the Netherlands.",
-        "Cancer Center Amsterdam, Amsterdam UMC, The Netherlands.",
-        "Amsterdam Public Health, Amsterdam UMC, Vrije Universiteit, University of Amsterdam, Amsterdam, The Netherlands.",
-        "Translational AI in Laboratory Medicine, Department of Laboratory Medicine, Amsterdam UMC, Amsterdam, The Netherlands."
-      ],
-      "doi": "10.1002/1878-0261.70353",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963897/"
     }
   ],
   "signals": [
@@ -756,38 +742,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42965359。",
       "report": "Many studies have investigated the roles of exosomes in colorectal cancer (CRC), but the global research landscape and future directions in this field remain insufficiently characterized. This study aimed to integrate epidemiological evidence with bibliometric...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42963897",
-      "date": "2026-10-30",
-      "title": "The impact of leukocyte-associated RNA retention on platelet RNA-based cancer detection.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963897/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42963897。",
-      "report": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study p...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1173,6 +1127,36 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 42957731。",
       "report": "Advances in protein structure prediction have created opportunities for structure-based drug design, yet translating structural knowledge into actionable small-molecule ligands remains difficult. Existing benchmarks often use simplified datasets and computatio...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42967779",
+      "date": "2026-09-29",
+      "title": "An extraction-free one-pot immunomagnetic-RPA-CRISPR/Cas13a platform for ultrasensitive detection of exosomal PD-L1.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42967779/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42967779。",
+      "report": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sens...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {

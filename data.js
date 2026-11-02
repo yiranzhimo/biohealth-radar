@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -1393,84 +1393,6 @@ window.BHR_DATA = {
           ],
           "fact": "PubMed 记录显示该文献收录于 Journal of visualized experiments : JoVE，PMID 为 42965359。",
           "report": "Many studies have investigated the roles of exosomes in colorectal cancer (CRC), but the global research landscape and future directions in this field remain insufficiently characterized. This study aimed to integrate epidemiological evidence with bibliometric...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42963897",
-      "date": "2026-10-30",
-      "title": "The impact of leukocyte-associated RNA retention on platelet RNA-based cancer detection.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963897/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42963897。",
-      "report": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study p...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_00ff7eb7a2b2c77e006ae5e239c6a487d2b912db862905d3b1",
-        "reviewedAt": "2026-10-31T12:42:23.487734+00:00",
-        "inputHash": "4cbd878549224b6090d7bf3f143f85679fb187e1f98939e4ae706ea5d623441f",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献的信源信息完整，但对临床效果的推断不够明确，有必要进行人工审核。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据级别被评为中等，但具体研究质量和样本量未知，降低可信度。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Molecular oncology，PMID 为 42963897。",
-          "report": "Platelet RNA profiling is a promising liquid biopsy approach, offering minimally invasive insights into systemic diseases, such as cancer. Yet, the effect of leukocyte-associated RNA retention on platelet transcriptomic signatures remains unclear. This study p...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
@@ -4233,6 +4155,80 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "pubmed-42967779",
+      "date": "2026-09-29",
+      "title": "An extraction-free one-pot immunomagnetic-RPA-CRISPR/Cas13a platform for ultrasensitive detection of exosomal PD-L1.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42967779/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42967779。",
+      "report": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sens...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_022a74084f381738006ae82b20955887d093ac24d3a20c3c85",
+        "reviewedAt": "2026-11-02T06:18:07.855088+00:00",
+        "inputHash": "d3a2d779a2e7a5472ef5ab94ffea709e8fcc439d9eeb1710470474bf25d49a78",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "这条信号符合发布标准，事实、报告、推断和未知信息明确分离，分类和证据水平合理。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理，适合该文献的主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "固有的研究和方法论限制被识别为未知信息，未影响质量。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Analytica chimica acta，PMID 为 42967779。",
+          "report": "Programmed death-ligand 1 (PD-L1) expressed on the surface of exosomes (exo) is a promising liquid biopsy biomarker for monitoring response to immunotherapy in hepatocellular carcinoma (HCC). However, existing detection methods are limited by insufficient sens...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
