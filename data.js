@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,16 +821,250 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42968562",
+      "id": "pubmed-42971755",
       "date": "2026-11-02",
-      "title": "Macrophage Polarization in Sarcoidosis: Implications for Granuloma Formation, Fibrosis, and Therapeutic Strategies.",
+      "title": "Anticancer drug CX-5461 exerts pangenotypic anti-hepatitis E virus effect in human liver organoids and animal models.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968562/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971755/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Gut，PMID 为 42971755。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_010825b8db3864fd006ae98554d4d487d1b7cc669717398066",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "734cfe96de9825b4790e308c1a2854b917139c2e92ac1f932817381a4e56d640",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查以确认临床结论的支持性和证据水平。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为低，不符合文献的主题和结论支持性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不足以支撑类别要求。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Gut，PMID 为 42971755。",
+          "report": "PubMed 记录未提供摘要。",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42971418",
+      "date": "2026-11-02",
+      "title": "Cell-Cycle Regulatory Responses in Retinal Degeneration: From Post-Mitotic Homeostasis to Cell-State Transitions and Fate Decisions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971418/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42971418。",
+      "report": "Cell-cycle regulatory perturbations are increasingly implicated in retinal degeneration, yet their biological significance varies fundamentally across retinal cell types because proliferative competence differs between terminally differentiated neurons and pro...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_06917569fd5fcac4006ae9855985f887d18194d96ef8101fb6",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "fbd74839a163b0b60761075b2869f061f906ea86fad4de81c5b5a12b8817c0eb",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该卡片符合发布标准，信息准确且合理分开。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": ""
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": ""
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Longevity",
+            "Biomarkers"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "衰老",
+            "biomarker",
+            "longevity"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42971418。",
+          "report": "Cell-cycle regulatory perturbations are increasingly implicated in retinal degeneration, yet their biological significance varies fundamentally across retinal cell types because proliferative competence differs between terminally differentiated neurons and pro...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42971402",
+      "date": "2026-11-02",
+      "title": "Microplastic exposure and obesity-related metabolic dysfunction: A proposed gut microbiota-metabolite framework.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971402/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 NanoImpact，PMID 为 42971402。",
+      "report": "Microplastics (MPs), as emerging global contaminants, have infiltrated aquatic systems, soil, and food chains, raising concerns about their health risks, particularly their potential link to metabolic disorders like obesity. This review evaluates evidence that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_024efe9222452683006ae9855e98b487d1a9cd830688650078",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "c4159195788f214d04bc707ed0c9a0e79c5641e686caa27c6cb93f59d5c117db",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献已清晰地分离事实、报告、推论和未知信息，且没有无支持的临床结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "提供的证据层次及细节合理。"
+        },
+        "riskFlags": [
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 NanoImpact，PMID 为 42971402。",
+          "report": "Microplastics (MPs), as emerging global contaminants, have infiltrated aquatic systems, soil, and food chains, raising concerns about their health risks, particularly their potential link to metabolic disorders like obesity. This review evaluates evidence that...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42970439",
+      "date": "2026-11-02",
+      "title": "Protocol for phenotypic screening of human intestinal organoids using TNF-induced intracellular ATP changes as a viability readout.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970439/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": false,
@@ -838,42 +1072,43 @@ window.BHR_DATA = {
         "Organoids",
         "Advanced Disease Models",
         "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Thoracic research and practice，PMID 为 42968562。",
-      "report": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine si...",
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42970439。",
+      "report": "Phenotypic screening is a powerful strategy for identifying bioactive compounds in physiologically relevant systems. Here, we present a protocol for evaluating tumor necrosis factor (TNF)-induced changes in intracellular ATP as a viability readout. We describe...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0faa93d1b3511146006ae90454997487d1997ceb02d7fec4d3",
-        "reviewedAt": "2026-11-02T21:44:51.880263+00:00",
-        "inputHash": "83eb6fda9903542719b3294b5384311561d2aa8f144fd4adffb11d2421faf991",
+        "responseId": "resp_00e3a7653b30f8e2006ae9856335e487d180e64749014ef0b3",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "3db03def004f0cfc9418b7805a23abf4cfc79ba79eabc949b4ee074ea1102c28",
         "status": "pass",
         "confidence": 0.9,
         "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录中信息清晰且分类合理，无需人工审核。",
+        "reviewSummaryCn": "该记录符合出版标准，信息清晰且无临床结论。",
         "classificationAssessment": {
           "isSupported": true,
-          "notesCn": "分类与内容相符，未超出研究范围。"
+          "notesCn": "类别和证据水平与元数据相符。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
           "evidenceLevelReasonable": true,
-          "notesCn": "来源和报告信息明确分开，支持的证据水平合理。"
+          "notesCn": "事实、报告和推论分开明确。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
+          "弱分类"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -883,17 +1118,90 @@ window.BHR_DATA = {
             "Organoids",
             "Advanced Disease Models",
             "Precision Oncology",
+            "Drug Screening",
             "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
             "肿瘤",
+            "药筛",
             "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Thoracic research and practice，PMID 为 42968562。",
-          "report": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine si...",
+          "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42970439。",
+          "report": "Phenotypic screening is a powerful strategy for identifying bioactive compounds in physiologically relevant systems. Here, we present a protocol for evaluating tumor necrosis factor (TNF)-induced changes in intracellular ATP as a viability readout. We describe...",
           "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42971525",
+      "date": "2026-11-02",
+      "title": "Circulating Tumor DNA and Cell-Free DNA as Candidate Biomarkers After Image-Guided Locoregional Therapy in Hepatocellular Carcinoma and Colorectal Liver Metastases: A Systematic Review.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971525/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42971525。",
+      "report": "To review ctDNA and cfDNA as biomarkers after locoregional therapy in hepatocellular carcinoma (HCC) and colorectal liver metastases (CRLM). PubMed/MEDLINE, Embase, and Web of Science were searched (July 2026) for ctDNA/cfDNA studies in HCC or CRLM patients un...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_02ff5c0f1aa562b6006ae985675f0c87d1882e56c4b6a9f1c0",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "f0920a34a10d598bffc83a15baf1b4b8e2c12512c91218047cece90245a3b441",
+        "status": "needs_human",
+        "confidence": 0.7,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号需人工审查，存在潜在的判断和结论问题。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不符合文献的研究质量和临床结论，需进一步验证。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "现有的证据水平被认为不合理，缺乏足够支持的临床结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Biotech",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "biotech",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42971525。",
+          "report": "To review ctDNA and cfDNA as biomarkers after locoregional therapy in hepatocellular carcinoma (HCC) and colorectal liver metastases (CRLM). PubMed/MEDLINE, Embase, and Web of Science were searched (July 2026) for ctDNA/cfDNA studies in HCC or CRLM patients un...",
+          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1711,297 +2019,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Nature reviews. Drug discovery，PMID 为 42957787。",
           "report": "PubMed 记录未提供摘要。",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42966744",
-      "date": "2026-10-31",
-      "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966744/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42966744。",
-      "report": "Hyperactivation of the mechanistic target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, is common in pancreatic ductal adenocarcinoma (PDAC). However, clinical use of mTOR inhibitors has shown limited efficacy due to rapid adaptive resistance. Using induci...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0128958cb9295568006ae740b7579887d18c4e5df21a10c552",
-        "reviewedAt": "2026-11-01T13:37:54.372551+00:00",
-        "inputHash": "d79d429be6f8f1fce2e25d95502aab38cce7009586328156db42ce62b7fb1c5a",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合发布标准，信息清晰且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类与研究主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断分离明确，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42966744。",
-          "report": "Hyperactivation of the mechanistic target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, is common in pancreatic ductal adenocarcinoma (PDAC). However, clinical use of mTOR inhibitors has shown limited efficacy due to rapid adaptive resistance. Using induci...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42966557",
-      "date": "2026-10-31",
-      "title": "Multi-Omics Profiling of Cigarette Smoke-Associated Changes in Cell Models of Human Liver, Intestine and Lung.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966557/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Chemico-biological interactions，PMID 为 42966557。",
-      "report": "Cigarette smoke is a complex mixture that affects toxicological and pharmacological mechanisms in multiple organs, including liver, intestine, and lung. Therefore, an integrated multi-omics approach was applied to characterize cigarette smoke extract (CSE)-ind...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b9adacf805c5377006ae740bb71a887d1b299bc342eba440b",
-        "reviewedAt": "2026-11-01T13:37:54.372551+00:00",
-        "inputHash": "64353a0942fe6caec52826345b73d0eee8121840768a4ba0b7e0db4e797eef37",
-        "status": "pass",
-        "confidence": 0.85,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "文献记录和分类合理，无治疗推荐或未经支持的临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合内容主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "文献报告清晰，无不实陈述。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Chemico-biological interactions，PMID 为 42966557。",
-          "report": "Cigarette smoke is a complex mixture that affects toxicological and pharmacological mechanisms in multiple organs, including liver, intestine, and lung. Therefore, an integrated multi-omics approach was applied to characterize cigarette smoke extract (CSE)-ind...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42966499",
-      "date": "2026-10-31",
-      "title": "A Growing Concern: The Ethics of Utilizing Organoids in Dermatology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966499/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Academy of Dermatology，PMID 为 42966499。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02c02970d4ea237e006ae740bfb62087d19511a950ad6d1a2c",
-        "reviewedAt": "2026-11-01T13:37:54.372551+00:00",
-        "inputHash": "7f0d7de03f5e0c00c90b38e7dbea78891ea0a50da1ae97f3ea06aefbd4df58a3",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该记录在证据水平上较低，未提供研究质量、样本量等关键信息，因此需要人工审核。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "证据水平被标记为低，但未能提供足够的上下文信息支持该分类。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献未提供具体的研究摘要及支持证据，导致证据水平被评为低。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Journal of the American Academy of Dermatology，PMID 为 42966499。",
-          "report": "PubMed 记录未提供摘要。",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42966710",
-      "date": "2026-10-31",
-      "title": "The changing role of the gastroenterologist in the management of advanced gastric cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966710/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver，PMID 为 42966710。",
-      "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide despite advances in prevention and systemic therapy. Recent integration of precision oncology has transformed its management, shifting treatment selection toward biomarker-driven stra...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_084a4818a33e6aa0006ae740c71a2887d1ad604ceba410358d",
-        "reviewedAt": "2026-11-01T13:37:54.372551+00:00",
-        "inputHash": "096bd2b49b77d14d8bbfbb297ca7a21f5fc23d53b90fe771485a91b2f1db80e4",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录清晰区分了事实、报告、推论和未知信息，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，与供应的元数据匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "支持的证据级别与高可靠性相符合。"
-        },
-        "riskFlags": [],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver，PMID 为 42966710。",
-          "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide despite advances in prevention and systemic therapy. Recent integration of precision oncology has transformed its management, shifting treatment selection toward biomarker-driven strategies.",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -2860,6 +2877,90 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 ImmunoTargets and therapy，PMID 为 42967173。",
           "report": "The prognosis of metastatic non-small cell lung cancer (mNSCLC) has improved in recent years but therapeutic benefit remains heterogeneous, underscoring the need for reliable biomarkers. Liquid biopsy techniques, including the analysis of circulating tumor cells...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42970311",
+      "date": "2026-10-23",
+      "title": "Olfactory Receptor 51E2 Activation by β-Ionone Induces a Senescence-Like Phenotype and Increases Susceptibility to Senolytic Treatment in Colorectal Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970311/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Aging and disease，PMID 为 42970311。",
+      "report": "Olfactory receptor 51E2 (OR51E2) is markedly downregulated in colorectal cancer (CRC), yet its functional activation by its natural agonist, β-ionone, suppresses CRC cell growth. In this study, we investigated the tumor-suppressive effects of β-ionone-mediated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0a9dee41934035d4006ae9856bd38887d18dbe10febbdbb747",
+        "reviewedAt": "2026-11-03T06:55:15.933442+00:00",
+        "inputHash": "4e5abf46437c128a074ba86bbca65e36f270780f71882882c6bea2252626a5e6",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录的内容与来源一致，没有支持性疗效或安全性结论，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，匹配主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平为中，支持记录的发布。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Longevity",
+            "Biomarkers",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "衰老",
+            "biomarker",
+            "longevity",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Aging and disease，PMID 为 42970311。",
+          "report": "Olfactory receptor 51E2 (OR51E2) is markedly downregulated in colorectal cancer (CRC), yet its functional activation by its natural agonist, β-ionone, suppresses CRC cell growth. In this study, we investigated the tumor-suppressive effects of β-ionone-mediated...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -7901,98 +8002,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42968193",
-      "date": "2026-08-05",
-      "title": "Generation of a senescent synovial organoid model using rat synovial fibroblasts treated with oxidative stress.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968193/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Inflammation and regeneration，PMID 为 42968193。",
-      "report": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescen...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_010c59f6d6379cd8006ae90492943887d1be67f0cc3306e076",
-        "reviewedAt": "2026-11-02T21:44:51.880263+00:00",
-        "inputHash": "592c2a702500afd37196ad6ad55017c07f8830d77aa8a60687979d7aaff7284b",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文章内容有助于理解衰老对关节疾病的影响，但未明确指出研究的质量和样本量，因此需要人类审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类决策缺乏足够支持，特别是在研究质量和样本量方面。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平中等，但未能支持有效性和安全性结论。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Longevity",
-            "Biomarkers",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "衰老",
-            "biomarker",
-            "longevity",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Inflammation and regeneration，PMID 为 42968193。",
-          "report": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescen...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },

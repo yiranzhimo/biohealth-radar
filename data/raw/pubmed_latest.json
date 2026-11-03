@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-02T21:44:42.298483+00:00",
+  "capturedAt": "2026-11-03T06:55:07.569204+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-02",
-    "end": "2026-11-02"
+    "start": "2025-11-03",
+    "end": "2026-11-03"
   },
   "pmids": [
+    "42971755",
+    "42971418",
+    "42971402",
+    "42970439",
+    "42970311",
     "42968661",
-    "42968562",
-    "42968193",
-    "42966744",
-    "42966557",
-    "42966499",
     "42952019",
     "42941810",
     "42940052",
@@ -32,14 +32,116 @@
     "42957731",
     "42956714",
     "42951937",
+    "42971525",
     "42969407",
     "42968799",
     "42968468",
     "42967779",
-    "42967173",
-    "42966710"
+    "42967173"
   ],
   "records": [
+    {
+      "pmid": "42971755",
+      "title": "Anticancer drug CX-5461 exerts pangenotypic anti-hepatitis E virus effect in human liver organoids and animal models.",
+      "abstract": "",
+      "journal": "Gut",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Microbiology and Infectious Disease Center, Beijing Key Laboratory for Research and Translation of Immunological and Molecular Diagnostic Technologies for Major Viral Infectious Diseases, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, China.",
+        "Tianjin Institute of Hepatology, Tianjin Second People's Hospital, Tianjin, China.",
+        "Division of Infectious Diseases, University of Colorado School of Medicine, Aurora, Colorado, USA lin_wang@pku.edu.cn yinxin@caas.cn tianxuliu@pku.edu.cn kailongli@pku.edu.cn liwei.zheng@cuanschutz.edu.",
+        "State Key Laboratory for Animal Disease Control and Prevention, Harbin Veterinary Research Institute, Harbin, China.",
+        "Department of Medicinal Chemistry, Shandong University, Jinan, China.",
+        "The Fifth Affiliated Hospital, Zhengzhou University, Zhengzhou, China.",
+        "Department of Biochemistry and Molecular Biology, Beijing Key Laboratory for Research and Translation of Immunological and Molecular Diagnostic Technologies for Major Viral Infectious Diseases, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, China lin_wang@pku.edu.cn yinxin@caas.cn tianxuliu@pku.edu.cn kailongli@pku.edu.cn liwei.zheng@cuanschutz.edu.",
+        "Department of Microbiology and Infectious Disease Center, Beijing Key Laboratory for Research and Translation of Immunological and Molecular Diagnostic Technologies for Major Viral Infectious Diseases, School of Basic Medical Sciences, Peking University Health Science Centre, Beijing, China lin_wang@pku.edu.cn yinxin@caas.cn tianxuliu@pku.edu.cn kailongli@pku.edu.cn liwei.zheng@cuanschutz.edu.",
+        "State Key Laboratory for Animal Disease Control and Prevention, Harbin Veterinary Research Institute, Harbin, China lin_wang@pku.edu.cn yinxin@caas.cn tianxuliu@pku.edu.cn kailongli@pku.edu.cn liwei.zheng@cuanschutz.edu."
+      ],
+      "doi": "10.1136/gutjnl-2026-339410",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971755/"
+    },
+    {
+      "pmid": "42971418",
+      "title": "Cell-Cycle Regulatory Responses in Retinal Degeneration: From Post-Mitotic Homeostasis to Cell-State Transitions and Fate Decisions.",
+      "abstract": "Cell-cycle regulatory perturbations are increasingly implicated in retinal degeneration, yet their biological significance varies fundamentally across retinal cell types because proliferative competence differs between terminally differentiated neurons and proliferation-capable retinal populations. While retinal neurons normally maintain permanent cell-cycle exit, Müller glia, microglia, retinal pigment epithelial (RPE) cells, endothelial cells, and pericytes retain varying capacities for quiescence, proliferation, and injury-induced reactivation. Consequently, alterations in cyclins, cyclin-dependent kinases (CDKs), RB-E2F signaling, DNA replication machinery, or checkpoint regulators may represent distinct biological states depending on cellular context. In this review, we examine cell-cycle perturbations across inherited retinal diseases (IRDs), age-related macular degeneration (AMD), diabetic retinopathy (DR), retinal gliosis and inflammation, and retinal organoid models. We critically assess current evidence for neuronal cell-cycle re-entry and propose a practical evidence hierarchy that distinguishes pathway activation, neuronal localization, progression through cell-cycle phases, cell-type-specific causality, and longitudinal cellular fate. We argue that many reported findings reflect incomplete or ambiguous evidence and should not be equated with bona fide neuronal cell-cycle re-entry. We further propose a fate-bifurcation model in which cellular outcomes are determined by the depth and duration of cell-cycle engagement together with cell identity, checkpoint integrity, CDK inhibitor activity, DNA damage burden, metabolic state, and microenvironment cues. Under this framework, limited or checkpoint-restrained engagement may support transient neuronal adaptation or survival, whereas sustained activation may promote senescence-like states, and deeper progression under inadequate checkpoint control may contribute to neuronal dysfunction and death. In proliferation-competent retinal compartments, related pathways may instead drive gliosis, immune expansion, epithelial remodeling, angiogenesis, or senescence. By integrating evidence across retinal diseases and cell types, this state-based framework provides a unified interpretation of apparently conflicting observations and offers a conceptual foundation for developing cell-type- and state-specific therapeutic strategies for retinal degeneration.",
+      "journal": "Experimental eye research",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, China; Research Laboratory of Ophthalmology and Vision Sciences, Eye Research Institute, West China Hospital, Sichuan University, Chengdu 610041, China.",
+        "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, China; Research Laboratory of Ophthalmology and Vision Sciences, Eye Research Institute, West China Hospital, Sichuan University, Chengdu 610041, China; Department of Ophthalmology, The First Affiliated Hospital of Xiamen University, School of Medicine, Xiamen University, Xiamen, 361003, Fujian, China.",
+        "George and Judy Woo Centre for Sight Enhancement, Waterloo Eye Institute, The School of Optometry and Vision Science, University of Waterloo, Waterloo, ON, N2L 3G1, Canada.",
+        "Research Laboratory of Ophthalmology and Vision Sciences, Eye Research Institute, West China Hospital, Sichuan University, Chengdu 610041, China.",
+        "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, China; Research Laboratory of Ophthalmology and Vision Sciences, Eye Research Institute, West China Hospital, Sichuan University, Chengdu 610041, China. Electronic address: tangli-1a@163.com.",
+        "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, China; Research Laboratory of Ophthalmology and Vision Sciences, Eye Research Institute, West China Hospital, Sichuan University, Chengdu 610041, China. Electronic address: danianchen2006@qq.com."
+      ],
+      "doi": "10.1016/j.exer.2026.111309",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971418/"
+    },
+    {
+      "pmid": "42971402",
+      "title": "Microplastic exposure and obesity-related metabolic dysfunction: A proposed gut microbiota-metabolite framework.",
+      "abstract": "Microplastics (MPs), as emerging global contaminants, have infiltrated aquatic systems, soil, and food chains, raising concerns about their health risks, particularly their potential link to metabolic disorders like obesity. This review evaluates evidence that MP exposure may influence host energy metabolism and adipogenesis and examines the potential involvement of the gut microbiota and its metabolites. Dietary MP exposure can alter microbial communities and associated metabolic pathways. Such dysbiosis may impair intestinal barrier integrity, trigger chronic inflammation, and promote adipose dysfunction, thereby potentially contributing to obesity-related metabolic disturbances. We synthesize findings from animal studies, in vitro models, and multi-omics approaches, highlighting the roles of MP physicochemical properties, exposure dose, and duration in obesity-related metabolic effects. Current limitations include insufficient long-term assessments at environmentally relevant concentrations, uncertainties in cross-species extrapolation, and unclear interactions with co-pollutants. Future studies could combine organ-on-a-chip (OoC) models with microbial and host single-cell or spatial approaches to test microbiota-host crosstalk. Overall, this review synthesizes emerging evidence on the potential links between MP exposure and adipogenesis dysregulation and identifies priorities for future mechanistic research and risk assessment.",
+      "journal": "NanoImpact",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Basic Medical Sciences, Capital Medical University, Beijing 100069, China; Beijing Friendship Hospital, Capital Medical University, Beijing 100050, China.",
+        "Department of Toxicology and Sanitary Chemistry, School of Public Health, Capital Medical University, Beijing 100069, China; Beijing Key Laboratory of Environment and Aging, Capital Medical University, Beijing 100069, China.",
+        "Department of Clinical Laboratory, Beijing Ditan Hospital, Capital Medical University, Beijing 100015, China.",
+        "Department of Toxicology and Sanitary Chemistry, School of Public Health, Capital Medical University, Beijing 100069, China; Beijing Key Laboratory of Environment and Aging, Capital Medical University, Beijing 100069, China. Electronic address: wangji@ccmu.edu.cn."
+      ],
+      "doi": "10.1016/j.impact.2026.100652",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971402/"
+    },
+    {
+      "pmid": "42970439",
+      "title": "Protocol for phenotypic screening of human intestinal organoids using TNF-induced intracellular ATP changes as a viability readout.",
+      "abstract": "Phenotypic screening is a powerful strategy for identifying bioactive compounds in physiologically relevant systems. Here, we present a protocol for evaluating tumor necrosis factor (TNF)-induced changes in intracellular ATP as a viability readout. We describe steps for organoid expansion in type I collagen gel, recovery of organoids, dissociation into a homogeneous single-cell/small-cluster suspension, TNF stimulation and compound treatment, and measurement of intracellular ATP levels. This protocol addresses variability arising from the three-dimensional nature of organoids and introduces strategies to minimize such variability. For complete details on the use and execution of this protocol, please refer to Takahashi et al.1.",
+      "journal": "STAR protocols",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Food Biochemistry Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo 113-8657, Japan. Electronic address: ayutaka@g.ecc.u-tokyo.ac.jp.",
+        "Nutri-Life Science Laboratory, Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo 113-8657, Japan. Electronic address: roysato@g.ecc.u-tokyo.ac.jp."
+      ],
+      "doi": "10.1016/j.xpro.2026.104942",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970439/"
+    },
+    {
+      "pmid": "42970311",
+      "title": "Olfactory Receptor 51E2 Activation by β-Ionone Induces a Senescence-Like Phenotype and Increases Susceptibility to Senolytic Treatment in Colorectal Cancer.",
+      "abstract": "Olfactory receptor 51E2 (OR51E2) is markedly downregulated in colorectal cancer (CRC), yet its functional activation by its natural agonist, β-ionone, suppresses CRC cell growth. In this study, we investigated the tumor-suppressive effects of β-ionone-mediated OR51E2 activation using human CRC cell lines (SW480, SW620, and RKO) and patient-derived organoids (PDOs). We demonstrate that β-ionone treatment stimulates intracellular calcium levels in an OR51E2-dependent manner, upregulating MAPK-directed phosphatases (DUSP1/2/4 and PPP1CA). This calcium-dependent phosphatase activation suppresses the MEK1/2-ERK1/2 signaling axis, leading to G0/G1 cell cycle arrest via the downregulation of CDK2/4/6 and cyclin A/D1. Concurrently, OR51E2 activation induces a senescence-like phenotype, evidenced by increased senescence-associated β-galactosidase activity, chromatin remodeling (reduced LAMIN B1 and increased H3K27me3), and upregulated p16/p21 expression alongside senescence-associated secretory phenotype (SASP) factors. These phenotypic and mechanistic findings were fully recapitulated in CRC-PDOs representing distinct clinical subtypes. Crucially, the residual senescence-like cell population showed increased susceptibility to dasatinib plus quercetin (DQ), which reduced senescence-associated markers and increased apoptosis. Collectively, this study demonstrates that OR51E2 activation coordinates a heterogeneous cell-fate decision encompassing both apoptosis and a senescence-like phenotype. Our findings highlight ectopic olfactory receptor signaling as an underexplored mechanism of tumor suppression and provide in vitro evidence for a sequential approach in CRC in which β-ionone-mediated OR51E2 activation induces a senescence-like state followed by senolytic treatment.",
+      "journal": "Aging and disease",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, Graduate school of Biotechnology, Korea University, Seoul 02841, South Korea.",
+        "School of Mechanical Engineering, Korea University, Seoul 02841, South Korea.",
+        "KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul 02841, South Korea.",
+        "Department of Surgery, Severance Hospital, Yonsei University College of Medicine, Seoul, South Korea.",
+        "Open NBI Convergence Technology Laboratory, Avison Biomedical Research Center, Yonsei University College of Medicine, Seoul, South Korea.",
+        "Department of Life Sciences, School of Life Sciences and Biotechnology, Korea University, Seoul 02841, South Korea.",
+        "National Research Laboratory for Convergence Degradation Biology, Korea University.",
+        "Center for Brain Technology, Brain Science Institute, Korea Institute of Science and Technology (KIST), Seoul, 02792, South Korea.",
+        "BK21 FOUR Institute of Precision Public Health, Interdisciplinary Program in Precision Public Health, Korea University, Seoul 02855, South Korea.",
+        "Department of Food Bioscience & Technology, Korea University, Seoul 02841, South Korea."
+      ],
+      "doi": "10.14336/AD.2026.1095",
+      "date": "2026-10-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970311/"
+    },
     {
       "pmid": "42968661",
       "title": "Ferroportin deficiency drives olaparib resistance in ovarian cancer via the cGAS-STING-STAT3 survival axis.",
@@ -58,94 +160,6 @@
       "doi": "10.1002/ctm2.70885",
       "date": "2026-11-01",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968661/"
-    },
-    {
-      "pmid": "42968562",
-      "title": "Macrophage Polarization in Sarcoidosis: Implications for Granuloma Formation, Fibrosis, and Therapeutic Strategies.",
-      "abstract": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine signaling and immune regulation. Recent evidence suggests that macrophage polarization, particularly the balance between classically activated M1 macrophages and alternatively activated M2 macrophages, plays a critical role in inflammatory granuloma formation and fibrotic progression in pulmonary sarcoidosis. TH1-related cytokines, including interferon-gamma (IFN-γ) and tumor necrosis factor-alpha (TNF-α), promote proinflammatory M1 polarization, whereas TH2-related cytokines, such as interleukin (IL)-4 and IL-13, drive M2 polarization, tissue remodeling, and fibrosis. Emerging transcriptional, single-cell spatial transcriptomic, and 3D organoid studies further demonstrate the remarkable heterogeneity of macrophages in sarcoid granulomas. Current and emerging therapeutic approaches, including corticosteroids, methotrexate, anti-TNF agents, leflunomide, Janus kinase inhibitors, and novel macrophage-targeted strategies (such as efzofitimod), may exert their effects, in part, by modulating these distinct macrophage activation pathways. This review summarizes the available evidence on macrophage polarization in sarcoidosis and provides an immunology-informed clinical framework for disease endotyping, biomarker-guided monitoring, and targeted therapeutic strategies to prevent fibrotic progression.",
-      "journal": "Thoracic research and practice",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "National Research Institute of Tuberculosis and Lung Disease (NRITLD) Tehran, Iran."
-      ],
-      "doi": "10.4274/ThoracResPract.2026.2026-5-13",
-      "date": "2026-11-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968562/"
-    },
-    {
-      "pmid": "42968193",
-      "title": "Generation of a senescent synovial organoid model using rat synovial fibroblasts treated with oxidative stress.",
-      "abstract": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescent synovial fibroblasts (SFs) contribute to OA pathogenesis. However, the in vitro modeling of the microenvironment formed by senescent SFs via SASPs remains limited. Here, we developed a three-dimensional (3D) senescent synovial organoid model using senescent rat SFs. We created the senescent SFs by treating normal rat SFs in monolayer culture with hydrogen peroxide (H2O2). Senescence induction was confirmed by senescence-associated beta-galactosidase (SA-β-gal) staining, γH2AX expression, and transcriptomic analysis. Synovial organoids were then generated by embedding normal or senescent SFs in Matrigel. Transcriptomic and protein-protein interaction analyses were performed and the expression of key regulatory factors was evaluated by immunostaining. Transcriptomic profiles of the organoids were further compared with bulk RNA sequencing data from rat OA synovium and single-cell RNA sequencing data from human OA synovium. Rat chondrocytes and RAW264.7 cells were co-cultured with control or senescent organoids. H2O2 treatment significantly increased SA-β-gal positivity and the expression of γH2AX and senescence-associated genes in monolayer-cultured SFs. Senescent organoids had thickened lining layers and distinct transcriptomic profiles compared to normal organoids. Enrichment analyses identified the upregulation of genes associated with extracellular matrix (ECM) organization, growth factor responses, and PI3K-Akt/MAPK signaling. Senescent organoids had a unique secretory phenotype characterized by elevated expression of ECM components, ECM-degrading enzymes, and proinflammatory factors. The expression of senescence-associated genes was greater in senescent organoids than in control organoids or H2O2-treated monolayer SFs. Protein-protein interaction analysis of senescent organoids identified central hub genes, including Il6, Tgfb1, Mmp13, and Ngf, with upregulation also confirmed at the protein level. Comparison with transcriptomic data from rat and human OA synovium revealed transcriptional similarities between senescent organoids and OA SFs in both species. Co-culture assays showed that senescent organoids decreased Sox9 expression and increased Col10a1 expression in chondrocytes, whereas they increased Cd80 expression and decreased Cd206 expression in RAW264.7 cells. Senescent organoids can faithfully recapitulate key features of the senescent SF microenvironment, offering an ideal platform for cellular senescence-based OA research.",
-      "journal": "Inflammation and regeneration",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Stem Cell and Regenerative Medicine, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo-Ku, Tokyo, 113-8510, Japan.",
-        "Center for Stem Cell and Regenerative Medicine, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo-Ku, Tokyo, 113-8510, Japan. endo.arm@tmd.ac.jp."
-      ],
-      "doi": "10.1186/s41232-026-00436-2",
-      "date": "2026-08-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968193/"
-    },
-    {
-      "pmid": "42966744",
-      "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer.",
-      "abstract": "Hyperactivation of the mechanistic target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, is common in pancreatic ductal adenocarcinoma (PDAC). However, clinical use of mTOR inhibitors has shown limited efficacy due to rapid adaptive resistance. Using inducible genetically engineered mouse models and matched organoids, we delineated distinct complex-specific adaptations. Loss of mTORC1 delayed tumor progression but induced compensatory PI3K/Akt signalling hyperactivation, while concurrently suppressing inflammatory cancer-associated fibroblasts and desmoplasia through Il-1ra. In contrast, mTORC2 loss impaired de novo sphingolipid synthesis, shifted lipid composition toward saturation, increased the saturated-to-monounsaturated fatty acid ratio, enriched plasma membrane lipid rafts, and amplified interferon-γ signaling. This lipid reprogramming generated a synthetic-lethal dependency on stearoyl-CoA desaturase 1 (Scd1). Pharmacological co-inhibition of mTORC1/2 and Scd1 prevented adaptive PI3K/Akt signalling rebound, remodelled the tumor stroma, enhanced interferon-γ responses, and synergized with anti-PD-1 therapy. These findings establish dual targeting of mTOR signaling and Scd1 as a rational therapeutic strategy for PDAC.",
-      "journal": "Oncogene",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of General, Visceral and Transplantation Surgery, University of Heidelberg, Heidelberg, Germany.",
-        "Department of General and Visceral Surgery, Ulm University Hospital, Ulm, Germany.",
-        "Department of Gastroenterology, Affiliated Drum Tower Hospital of Nanjing University, Medical School, Nanjing, China.",
-        "TUM University Hospital, Klinikum rechts der Isar, School of Medicine, Faculty of Medicine and Health, Technical University of Munich, Munich, Germany.",
-        "Department of General, Visceral and Transplantation Surgery, University of Heidelberg, Heidelberg, Germany. bo.kong@med.uni-heidelberg.de."
-      ],
-      "doi": "10.1038/s41388-026-04026-x",
-      "date": "2026-10-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966744/"
-    },
-    {
-      "pmid": "42966557",
-      "title": "Multi-Omics Profiling of Cigarette Smoke-Associated Changes in Cell Models of Human Liver, Intestine and Lung.",
-      "abstract": "Cigarette smoke is a complex mixture that affects toxicological and pharmacological mechanisms in multiple organs, including liver, intestine, and lung. Therefore, an integrated multi-omics approach was applied to characterize cigarette smoke extract (CSE)-induced effects across human in vitro models of liver, intestine and lung. Primary human hepatocytes, biopsy-derived intestinal organoids, alveolar A549 cells, primary bronchial and small airway epithelial cells were exposed to CSE and analyzed using RNA sequencing and untargeted proteomics. Across tissues and omics-layers, activation of aryl hydrocarbon receptor (AHR) signaling and strong induction of CYP1A1 and CYP1B1 was identified as cross-tissue response. CYP1A1 was the only overlapping molecule among deregulated proteins across all in vitro models. Consistent deregulation of G protein-coupled receptor-signaling was observed. Overall, tissue-specific adaptations were identified. Liver models showed upregulation of xenobiotic and metabolic pathways, intestine models displayed downregulation of cell cycle processes consistent with growth arrest. Lung models should be considered cautiously because of heterogeneity between cell models but demonstrated a shared response of CYP1A1 and CYP1B1 deregulation. Cross-omics comparisons of RNA sequencing and proteomics data revealed moderate correlations (ρ = 0.43-0.64) and limited overlap of individual molecules, highlighting the importance of post-transcriptional regulation. Network and upstream regulator analyses predicted a coordinated stress response accompanied by modulation of inflammatory signaling. These findings demonstrate that cigarette smoke induces shared pathway-level responses, alongside tissue-specific adaptations. This underscores the importance of considering multiple organ systems in toxicological and pharmacological assessments. This comprehensive dataset provides a resource that may support further hypothesis-driven analysis of cigarette smoke-related mechanisms.",
-      "journal": "Chemico-biological interactions",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Global Drug Metabolism and Pharmacokinetics, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Str. 65, 88397 Biberach an der Riss, Germany.",
-        "Department of Global Drug Metabolism and Pharmacokinetics, Nippon Boehringer Ingelheim Co., Ltd, 6-7-5 Minatojima-Minamimachi, Chuo-ku, Kobe, 650-0047, Japan.",
-        "Department of Experimental Medicine Biomarker Platforms, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Str. 65, 88397 Biberach an der Riss, Germany.",
-        "Institute of Molecular Endocrinology and Physiology, Ulm University, Helmholtzstr. 8/1, Ulm, Germany; German Center for Child and Adolescent Health (DZKJ), partner site Ulm, Ulm, Germany; Integrated 3R Center Ulm (i3RU), Ulm University, Ulm, Germany.",
-        "Division of Gastroenterology and Hepatology, Department of Internal Medicine, Sapporo Medical University School of Medicine, S-1, W-16, Chuo-ku, Sapporo, 060-8543, Japan.",
-        "Laboratory of Biochemistry and Molecular Biology, Graduate School of Pharmaceutical Sciences, The University of Osaka, 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan.",
-        "Laboratory of Biochemistry and Molecular Biology, Graduate School of Pharmaceutical Sciences, The University of Osaka, 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan; The Center for Advanced Medical Engineering and Informatics, The University of Osaka, 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan; Institute for Open and Transdisciplinary Research Initiatives (OTRI), The University of Osaka, 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan.",
-        "Department of Global Drug Metabolism and Pharmacokinetics, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Str. 65, 88397 Biberach an der Riss, Germany. Electronic address: stephanie.ruez@boehringer-ingelheim.com."
-      ],
-      "doi": "10.1016/j.cbi.2026.112409",
-      "date": "2026-10-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966557/"
-    },
-    {
-      "pmid": "42966499",
-      "title": "A Growing Concern: The Ethics of Utilizing Organoids in Dermatology.",
-      "abstract": "",
-      "journal": "Journal of the American Academy of Dermatology",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [
-        "Tulane School of Medicine, New Orleans, USA.",
-        "Department of Dermatology, Weill Cornell Medicine, New York, USA. Electronic address: shl9032@med.cornell.edu."
-      ],
-      "doi": "10.1016/j.jaad.2026.10.095",
-      "date": "2026-10-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966499/"
     },
     {
       "pmid": "42952019",
@@ -373,6 +387,27 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951937/"
     },
     {
+      "pmid": "42971525",
+      "title": "Circulating Tumor DNA and Cell-Free DNA as Candidate Biomarkers After Image-Guided Locoregional Therapy in Hepatocellular Carcinoma and Colorectal Liver Metastases: A Systematic Review.",
+      "abstract": "To review ctDNA and cfDNA as biomarkers after locoregional therapy in hepatocellular carcinoma (HCC) and colorectal liver metastases (CRLM). PubMed/MEDLINE, Embase, and Web of Science were searched (July 2026) for ctDNA/cfDNA studies in HCC or CRLM patients undergoing TACE, Y90, or ablation; Newcastle-Ottawa Scale assessed risk of bias. Eleven studies were included (eight HCC, three CRLM; n≈820). Pre-treatment ctDNA mutations predicted survival after TACE (CTNNB1: HR 5.3, 95% CI 1.4-20.6; TP53: HR 5.3, 95% CI 1.4-10.1; KEAP1: HR 22.0, 95% CI 2.2-221.0). A cfDNA/ctDNA score stratified progression-free survival after TACE (1.3 vs 10.3 months; p=0.002). ctDNA predicted death after ablation in HCC (HR 2.6, 95% CI 1.5-4.7; p=0.001) and recurrence in CRLM (HR 2.97, 95% CI 1.47-6.03; P=0.003). Y90 evidence was limited. CtDNA and cfDNA correlated with treatment outcomes after locoregional therapy; evidence is heterogeneous and biomarker-driven trials are required before clinical implementation.",
+      "journal": "Journal of vascular and interventional radiology : JVIR",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Radiology, St. James's Hospital, Dublin, Ireland; School of Medicine, Trinity College Dublin, Ireland. Electronic address: nosulli7@tcd.ie.",
+        "Department of Radiology, St. James's Hospital, Dublin, Ireland; School of Medicine, Trinity College Dublin, Ireland.",
+        "The Smith Institute for Urology, Lenox Hill Hospital/Northwell Health, New York, NY, USA.",
+        "School of Medicine, Trinity College Dublin, Ireland; Trinity St. James's Cancer Institute, Dublin, Ireland; Department of Surgery, St. James's Hospital, Dublin, Ireland.",
+        "Department of Interventional Radiology, University of Miami Miller School of Medicine.",
+        "Division of Interventional Radiology, David Geffen School of Medicine at UCLA, Los Angeles, CA 90095."
+      ],
+      "doi": "10.1016/j.jvir.2026.109179",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971525/"
+    },
+    {
       "pmid": "42969407",
       "title": "Comparative reasoning in radiology artificial intelligence: longitudinal and reference-case approaches.",
       "abstract": "Artificial intelligence (AI) in radiology remains predominantly examination-centric, whereas clinical interpretation frequently depends on comparison across time or with relevant prior cases. This narrative review examines comparative reasoning in radiology AI through two related but clinically distinct forms: longitudinal reasoning, which compares examinations from the same patient over time, and reference-case reasoning, which uses clinically analogous cases from other patients to support interpretation. We propose a capability hierarchy that distinguishes simple access to comparative information from higher-level capabilities, including selection of relevant historical context, anatomical and lesion-level correspondence, characterization of interval change, temporal-state interpretation, multi-interval trajectory reasoning, and entity-specific assessment of clinical similarity. This distinction matters because providing prior examinations or retrieving visually similar cases does not itself demonstrate meaningful comparative reasoning. We review developments in prior-examination selection, registration, lesion tracking, temporal vision-language modeling, treatment-response assessment, analogous-case retrieval, and longitudinal report generation. Particular emphasis is placed on evaluation strategies that determine whether model performance depends appropriately on clinically relevant comparative information rather than on additional input volume, global image similarity, acquisition characteristics, or other shortcuts. Key challenges include incorrect prior selection, lesion mismatching, temporal inconsistency, clinically irrelevant reference-case retrieval, data leakage, misleading comparative language, and propagation of historical errors. Future progress will require models that preserve entity identity, reason coherently across multi-visit imaging histories, identify clinically informative reference cases, and demonstrate benefit under realistic clinical conditions. Comparative reasoning is therefore a necessary step in the transition from examination-level toward patient-level radiology AI.",
@@ -473,41 +508,117 @@
       "doi": "10.2147/ITT.S614110",
       "date": "2026-10-27",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42967173/"
-    },
-    {
-      "pmid": "42966710",
-      "title": "The changing role of the gastroenterologist in the management of advanced gastric cancer.",
-      "abstract": "Gastric cancer remains a leading cause of cancer-related mortality worldwide despite advances in prevention and systemic therapy. Recent integration of precision oncology has transformed its management, shifting treatment selection toward biomarker-driven strategies. In this context, the gastroenterologist-endoscopist plays a pivotal role as the first gatekeeper in the diagnostic and therapeutic pathway. Adequate endoscopic sampling is essential to obtain representative tumor tissue and enable reliable molecular profiling. Current clinical decision-making relies on validated predictive biomarkers, including HER2, PD-L1, microsatellite instability/mismatch repair deficiency, and Claudin-18.2, while additional targets such as FGFR2b and EBV status are emerging. These biomarkers guide the use of targeted agents and immune checkpoint inhibitors, which have significantly improved outcomes in advanced disease. However, spatial and temporal tumor heterogeneity, limited tissue availability, and variability in testing methods remain major challenges for optimal patient selection and treatment sequencing. Multidisciplinary collaboration between gastroenterologists, pathologists and oncologists is therefore essential to ensure standardized biopsy procedures, accurate biomarker assessment, and appropriate therapeutic allocation. This review highlights the evolving role of the endoscopist beyond diagnosis, emphasizing the importance of high-quality sampling, repeat biopsy strategies and integration of novel technologies, such as liquid biopsy and digital pathology. A structured biomarker-driven workflow is proposed to optimize personalized treatment strategies across the gastric cancer continuum of care.",
-      "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Oncological Gastroenterology Unit, Centro di Riferimento Oncologico (CRO) Aviano, National Cancer Institute, IRCCS, Aviano, Italy; Department of Medical, Surgical and Health Sciences, University of Trieste, Italy. Electronic address: rcannizzaro@cro.it.",
-        "Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy.",
-        "Surgical Pathology Unit, ULSS2 Marca Trevigiana, Treviso, Italy.",
-        "Medical Oncology, Comprehensive Cancer Center, Azienda USL-IRCCS Reggio Emilia, Reggio Emilia, Italy.",
-        "Oncological Gastroenterology Unit, Centro di Riferimento Oncologico (CRO) Aviano, National Cancer Institute, IRCCS, Aviano, Italy.",
-        "Department of Medicine, University of Padua, Padua, Italy; Veneto Institute of Oncology (IOV-IRCCS), Padua, Italy."
-      ],
-      "doi": "10.1016/j.dld.2026.10.021",
-      "date": "2026-10-31",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966710/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42968562",
+      "id": "pubmed-42971755",
       "date": "2026-11-02",
-      "title": "Macrophage Polarization in Sarcoidosis: Implications for Granuloma Formation, Fibrosis, and Therapeutic Strategies.",
+      "title": "Anticancer drug CX-5461 exerts pangenotypic anti-hepatitis E virus effect in human liver organoids and animal models.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968562/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971755/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Gut，PMID 为 42971755。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42971418",
+      "date": "2026-11-02",
+      "title": "Cell-Cycle Regulatory Responses in Retinal Degeneration: From Post-Mitotic Homeostasis to Cell-State Transitions and Fate Decisions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971418/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Experimental eye research，PMID 为 42971418。",
+      "report": "Cell-cycle regulatory perturbations are increasingly implicated in retinal degeneration, yet their biological significance varies fundamentally across retinal cell types because proliferative competence differs between terminally differentiated neurons and pro...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42971402",
+      "date": "2026-11-02",
+      "title": "Microplastic exposure and obesity-related metabolic dysfunction: A proposed gut microbiota-metabolite framework.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971402/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 NanoImpact，PMID 为 42971402。",
+      "report": "Microplastics (MPs), as emerging global contaminants, have infiltrated aquatic systems, soil, and food chains, raising concerns about their health risks, particularly their potential link to metabolic disorders like obesity. This review evaluates evidence that...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42970439",
+      "date": "2026-11-02",
+      "title": "Protocol for phenotypic screening of human intestinal organoids using TNF-induced intracellular ATP changes as a viability readout.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970439/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -515,18 +626,48 @@
         "Organoids",
         "Advanced Disease Models",
         "Precision Oncology",
+        "Drug Screening",
         "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
         "肿瘤",
+        "药筛",
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Thoracic research and practice，PMID 为 42968562。",
-      "report": "Sarcoidosis is a multisystem granulomatous disease with a complex and incompletely understood immunopathogenesis. Macrophages and T lymphocytes play pivotal roles in granuloma formation and disease progression through dynamic interactions involving cytokine si...",
+      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 42970439。",
+      "report": "Phenotypic screening is a powerful strategy for identifying bioactive compounds in physiologically relevant systems. Here, we present a protocol for evaluating tumor necrosis factor (TNF)-induced changes in intracellular ATP as a viability readout. We describe...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42971525",
+      "date": "2026-11-02",
+      "title": "Circulating Tumor DNA and Cell-Free DNA as Candidate Biomarkers After Image-Guided Locoregional Therapy in Hepatocellular Carcinoma and Colorectal Liver Metastases: A Systematic Review.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42971525/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of vascular and interventional radiology : JVIR，PMID 为 42971525。",
+      "report": "To review ctDNA and cfDNA as biomarkers after locoregional therapy in hepatocellular carcinoma (HCC) and colorectal liver metastases (CRLM). PubMed/MEDLINE, Embase, and Web of Science were searched (July 2026) for ctDNA/cfDNA studies in HCC or CRLM patients un...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -650,126 +791,6 @@
       "fact": "PubMed 记录显示该文献收录于 Nature reviews. Drug discovery，PMID 为 42957787。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42966744",
-      "date": "2026-10-31",
-      "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966744/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncogene，PMID 为 42966744。",
-      "report": "Hyperactivation of the mechanistic target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, is common in pancreatic ductal adenocarcinoma (PDAC). However, clinical use of mTOR inhibitors has shown limited efficacy due to rapid adaptive resistance. Using induci...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42966557",
-      "date": "2026-10-31",
-      "title": "Multi-Omics Profiling of Cigarette Smoke-Associated Changes in Cell Models of Human Liver, Intestine and Lung.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966557/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Chemico-biological interactions，PMID 为 42966557。",
-      "report": "Cigarette smoke is a complex mixture that affects toxicological and pharmacological mechanisms in multiple organs, including liver, intestine, and lung. Therefore, an integrated multi-omics approach was applied to characterize cigarette smoke extract (CSE)-ind...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42966499",
-      "date": "2026-10-31",
-      "title": "A Growing Concern: The Ethics of Utilizing Organoids in Dermatology.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966499/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of the American Academy of Dermatology，PMID 为 42966499。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42966710",
-      "date": "2026-10-31",
-      "title": "The changing role of the gastroenterologist in the management of advanced gastric cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42966710/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver，PMID 为 42966710。",
-      "report": "Gastric cancer remains a leading cause of cancer-related mortality worldwide despite advances in prevention and systemic therapy. Recent integration of precision oncology has transformed its management, shifting treatment selection toward biomarker-driven stra...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -942,6 +963,41 @@
       "fact": "PubMed 记录显示该文献收录于 ImmunoTargets and therapy，PMID 为 42967173。",
       "report": "The prognosis of metastatic non-small cell lung cancer (mNSCLC) has improved in recent years but therapeutic benefit remains heterogeneous, underscoring the need for reliable biomarkers. Liquid biopsy techniques, including the analysis of circulating tumor cel...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42970311",
+      "date": "2026-10-23",
+      "title": "Olfactory Receptor 51E2 Activation by β-Ionone Induces a Senescence-Like Phenotype and Increases Susceptibility to Senolytic Treatment in Colorectal Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42970311/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Aging and disease，PMID 为 42970311。",
+      "report": "Olfactory receptor 51E2 (OR51E2) is markedly downregulated in colorectal cancer (CRC), yet its functional activation by its natural agonist, β-ionone, suppresses CRC cell growth. In this study, we investigated the tumor-suppressive effects of β-ionone-mediated...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1156,45 +1212,6 @@
       "fact": "PubMed 记录显示该文献收录于 Briefings in bioinformatics，PMID 为 42893561。",
       "report": "Virtual cells aim to represent cellular states computationally and predict responses to genetic, chemical, environmental, temporal, and spatial conditions. For comparative purposes, this review uses state encoding (E), state transition (T), and observation dec...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42968193",
-      "date": "2026-08-05",
-      "title": "Generation of a senescent synovial organoid model using rat synovial fibroblasts treated with oxidative stress.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42968193/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Inflammation and regeneration，PMID 为 42968193。",
-      "report": "Osteoarthritis (OA) is a common age-related joint disease characterized by cartilage loss and synovitis. Cellular senescence contributes to chronic inflammation through senescence-associated secretory phenotypes (SASPs). Recent evidence indicates that senescen...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
