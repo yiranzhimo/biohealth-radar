@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-03T10:55:02+00:00",
+  "capturedAt": "2026-11-03T19:32:15.557042+00:00",
   "summary": {
     "mentionCount": 661,
     "candidateCount": 592,
@@ -20,38 +20,40 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1722b387a95a63e1",
-      "observedName": "Quest Diagnostics-Nichols Insitute",
-      "normalizedName": "quest diagnostics nichols insitute",
+      "id": "mention-clinicaltrials-008313f1041795ac",
+      "observedName": "Psyrin Inc.",
+      "normalizedName": "psyrin",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06992544",
-      "sourceDate": "2026-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06992544",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06792175",
+      "sourceDate": "2025-09-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06792175",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Recruiting",
-        "临床试验"
+        "Healthcare AI",
+        "Medical AI",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI"
       ],
       "activitySignals": [
-        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Trial of Pistachio Consumption in Older Adults"
+      "contextTitle": "Mental Health, Intellectual and Neurodevelopmental Disorder Detection With Artificial Intelligence Models"
     },
     {
-      "id": "mention-clinicaltrials-6215d15a9c1ee70a",
-      "observedName": "Astellas Pharma Global Development, Inc.",
-      "normalizedName": "astellas pharma global development",
+      "id": "mention-clinicaltrials-85be88c1f44fb907",
+      "observedName": "Marino Biotechnology Co., Ltd.",
+      "normalizedName": "marino biotechnology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02997202",
-      "sourceDate": "2025-01-17",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02997202",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT03208556",
+      "sourceDate": "2017-09-14",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03208556",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -59,6 +61,7 @@
         "Clinical Trials",
         "Oncology",
         "Precision Oncology",
+        "中国",
         "临床试验",
         "细胞治疗",
         "肿瘤"
@@ -67,39 +70,32 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Trial of the FMS-like Tyrosine Kinase 3 (FLT3) Inhibitor Gilteritinib Administered as Maintenance Therapy Following Allogeneic Transplant for Patients With FLT3/Internal Tandem Duplication (ITD) Acute Myeloid Leukemia (AML)"
+      "contextTitle": "Safety and Efficacy of iPD1 CD19 eCAR T Cells in Relapsed or Refractory B-cell Lymphoma"
     },
     {
-      "id": "mention-clinicaltrials-8119c5bce52af44d",
-      "observedName": "Beijing GeneX Health Technology Co., Ltd",
-      "normalizedName": "beijing genex health technology",
+      "id": "mention-clinicaltrials-d46826119108e5df",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT05473923",
-      "sourceDate": "2025-02-11",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05473923",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02711345",
+      "sourceDate": "2019-09-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02711345",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
         "Oncology",
-        "Precision Medicine",
         "Precision Oncology",
-        "Recruiting",
-        "中国",
         "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
+        "肿瘤"
       ],
       "activitySignals": [
-        "active_trial",
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "PTCs-based Precision Treatment Strategy on Recurrent High-grade Gliomas"
+      "contextTitle": "A Phase I Clinical Study With Investigational Compound LTT462 in Adult Patients With Specific Advanced Cancers."
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43865,36 +43861,32 @@
       ]
     },
     {
-      "id": "candidate-astellas-pharma-global-development",
-      "name": "Astellas Pharma Global Development, Inc.",
+      "id": "candidate-novartis-pharmaceuticals",
+      "name": "Novartis Pharmaceuticals",
       "aliases": [
-        "Astellas Pharma Global Development, Inc."
+        "Novartis Pharmaceuticals"
       ],
-      "normalizedName": "astellas pharma global development",
+      "normalizedName": "novartis pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-01-17",
-      "lastSeenAt": "2025-01-17",
+      "firstSeenAt": "2019-09-19",
+      "lastSeenAt": "2019-09-19",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
-          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
           "Precision Oncology",
           "临床试验",
-          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -43908,17 +43900,73 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-6215d15a9c1ee70a"
+        "mention-clinicaltrials-d46826119108e5df"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-01-17",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02997202",
-          "externalId": "NCT02997202",
-          "contextTitle": "A Trial of the FMS-like Tyrosine Kinase 3 (FLT3) Inhibitor Gilteritinib Administered as Maintenance Therapy Following Allogeneic Transplant for Patients With FLT3/Internal Tandem Duplication (ITD) Acute Myeloid Leukemia (AML)"
+          "sourceDate": "2019-09-19",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02711345",
+          "externalId": "NCT02711345",
+          "contextTitle": "A Phase I Clinical Study With Investigational Compound LTT462 in Adult Patients With Specific Advanced Cancers."
+        }
+      ]
+    },
+    {
+      "id": "candidate-psyrin",
+      "name": "Psyrin Inc.",
+      "aliases": [
+        "Psyrin Inc."
+      ],
+      "normalizedName": "psyrin",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-09-03",
+      "lastSeenAt": "2025-09-03",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-008313f1041795ac"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2025-09-03",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06792175",
+          "externalId": "NCT06792175",
+          "contextTitle": "Mental Health, Intellectual and Neurodevelopmental Disorder Detection With Artificial Intelligence Models"
         }
       ]
     },
@@ -47249,45 +47297,39 @@
       ]
     },
     {
-      "id": "candidate-beijing-genex-health-technology",
-      "name": "Beijing GeneX Health Technology Co., Ltd",
+      "id": "candidate-marino-biotechnology",
+      "name": "Marino Biotechnology Co., Ltd.",
       "aliases": [
-        "Beijing GeneX Health Technology Co., Ltd"
+        "Marino Biotechnology Co., Ltd."
       ],
-      "normalizedName": "beijing genex health technology",
+      "normalizedName": "marino biotechnology",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-02-11",
-      "lastSeenAt": "2025-02-11",
+      "firstSeenAt": "2017-09-14",
+      "lastSeenAt": "2017-09-14",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
           "Clinical Trials",
-          "Diagnostics",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
           "中国",
           "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "细胞治疗",
+          "肿瘤"
         ],
         "themes": [
+          "Cell Therapy",
           "Clinical Trials",
-          "Diagnostics",
           "Oncology",
-          "Precision Medicine",
           "Precision Oncology",
-          "Recruiting",
           "中国",
           "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "细胞治疗",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47300,67 +47342,17 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-8119c5bce52af44d"
+        "mention-clinicaltrials-85be88c1f44fb907"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-02-11",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05473923",
-          "externalId": "NCT05473923",
-          "contextTitle": "PTCs-based Precision Treatment Strategy on Recurrent High-grade Gliomas"
-        }
-      ]
-    },
-    {
-      "id": "candidate-quest-diagnostics-nichols-insitute",
-      "name": "Quest Diagnostics-Nichols Insitute",
-      "aliases": [
-        "Quest Diagnostics-Nichols Insitute"
-      ],
-      "normalizedName": "quest diagnostics nichols insitute",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-13",
-      "lastSeenAt": "2026-08-13",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Recruiting",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Recruiting",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-1722b387a95a63e1"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2026-08-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06992544",
-          "externalId": "NCT06992544",
-          "contextTitle": "Trial of Pistachio Consumption in Older Adults"
+          "sourceDate": "2017-09-14",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT03208556",
+          "externalId": "NCT03208556",
+          "contextTitle": "Safety and Efficacy of iPD1 CD19 eCAR T Cells in Relapsed or Refractory B-cell Lymphoma"
         }
       ]
     }

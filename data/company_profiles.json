@@ -14865,6 +14865,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001655759-000162828026069101",
           "evidence-company-arvinas-official-a0ef0aba1601",
           "evidence-company-arvinas-pipeline-a8299650c0ce",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -14887,6 +14888,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001655759-000162828026069101",
+            "date": "2026-11-03",
+            "title": "Arvinas filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001655759-000162828026069101",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/arvn-20261103.htm"
+          },
           {
             "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
             "date": "2026-11-02",
@@ -14930,17 +14942,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001655759-000162828026052554",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052554/arvn-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001655759-000162828026052139",
-            "date": "2026-08-04",
-            "title": "Arvinas filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001655759-000162828026052139",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026052139/arvn-20260804.htm"
           }
         ],
         "inferences": [],
@@ -14951,12 +14952,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-11-02",
+        "lastEvidenceDate": "2026-11-03",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -14965,6 +14966,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001655759-000162828026069101",
+          "date": "2026-11-03",
+          "title": "Arvinas filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001655759-000162828026069101",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/arvn-20261103.htm"
+        },
         {
           "id": "event-evidence-company-arvinas-official-a0ef0aba1601",
           "date": "2026-11-02",
@@ -19900,6 +19912,14 @@
           {
             "form": "10-Q",
             "label": "季报",
+            "date": "2026-11-03",
+            "title": "Beam Therapeutics filed Form 10-Q",
+            "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "10-Q",
+            "label": "季报",
             "date": "2026-08-04",
             "title": "Beam Therapeutics filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
@@ -19979,6 +19999,8 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001745999-000119312526444455",
+          "evidence-sec-0001745999-000119312526444454",
           "evidence-company-beam-therapeutics-pipeline-853ab17780d8",
           "evidence-company-beam-therapeutics-official-daa041bcc1cd",
           "evidence-company-beam-therapeutics-investor_relations-160dbada0caa",
@@ -20006,6 +20028,28 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001745999-000119312526444455",
+            "date": "2026-11-03",
+            "title": "Beam Therapeutics filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001745999-000119312526444455",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm"
+          },
+          {
+            "id": "event-sec-0001745999-000119312526444454",
+            "date": "2026-11-03",
+            "title": "Beam Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001745999-000119312526444454",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm"
+          },
           {
             "id": "event-evidence-company-beam-therapeutics-pipeline-853ab17780d8",
             "date": "2026-08-10",
@@ -20038,28 +20082,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-beam-therapeutics-investor_relations-160dbada0caa",
             "sourceUrl": "https://investors.beamtx.com/"
-          },
-          {
-            "id": "event-sec-0001745999-000119312526331541",
-            "date": "2026-08-04",
-            "title": "Beam Therapeutics filed Form 10-Q",
-            "eventType": "Periodic Report",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001745999-000119312526331541",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001745999-000119312526331522",
-            "date": "2026-08-04",
-            "title": "Beam Therapeutics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001745999-000119312526331522",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm"
           }
         ],
         "inferences": [],
@@ -20070,12 +20092,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 4
         },
-        "lastEvidenceDate": "2026-08-10",
+        "lastEvidenceDate": "2026-11-03",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20084,6 +20106,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001745999-000119312526444455",
+          "date": "2026-11-03",
+          "title": "Beam Therapeutics filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001745999-000119312526444455",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm"
+        },
+        {
+          "id": "event-sec-0001745999-000119312526444454",
+          "date": "2026-11-03",
+          "title": "Beam Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001745999-000119312526444454",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm"
+        },
         {
           "id": "event-evidence-company-beam-therapeutics-pipeline-853ab17780d8",
           "date": "2026-08-10",
@@ -43328,6 +43372,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001576280-000119312526444416",
           "evidence-company-guardant-health-investor_relations-f157425f10df",
           "evidence-company-guardant-health-official-1e25833c0777",
           "evidence-company-guardant-health-pipeline-a2e78138ba78",
@@ -43338,6 +43383,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001576280-000119312526444416",
+            "date": "2026-11-03",
+            "title": "Guardant Health filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001576280-000119312526444416",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526444416/d457424d8k.htm"
+          },
           {
             "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
             "date": "2026-10-29",
@@ -43381,17 +43437,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001576280-000157628026000037",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000037/gh-20260630.htm"
-          },
-          {
-            "id": "event-sec-0001576280-000157628026000036",
-            "date": "2026-07-30",
-            "title": "Guardant Health filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001576280-000157628026000036",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000036/gh-20260730.htm"
           }
         ],
         "inferences": [],
@@ -43401,12 +43446,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 5,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 2
+          "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-03",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43414,6 +43459,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001576280-000119312526444416",
+          "date": "2026-11-03",
+          "title": "Guardant Health filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001576280-000119312526444416",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526444416/d457424d8k.htm"
+        },
         {
           "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
           "date": "2026-10-29",
