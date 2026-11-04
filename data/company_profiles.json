@@ -52400,6 +52400,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-11-04",
+            "title": "Legend Biotech filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-10-15",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006646/f6k_101426.htm",
@@ -52451,14 +52459,6 @@
             "date": "2026-08-18",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm",
-            "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-08-11",
-            "title": "Legend Biotech filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000022/legn-20260630.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -52535,6 +52535,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001801198-000117184326007100",
           "evidence-company-legend-biotech-official-a281b2e81ad6",
           "evidence-sec-0001801198-000117184326006646",
           "evidence-sec-0001801198-000117184326006593",
@@ -52571,6 +52572,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001801198-000117184326007100",
+            "date": "2026-11-04",
+            "title": "Legend Biotech filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-sec-0001801198-000117184326007100",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm"
+          },
           {
             "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
             "date": "2026-10-28",
@@ -52614,17 +52626,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0001801198-000117184326006229",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm"
-          },
-          {
-            "id": "event-sec-0001801198-000117184326006215",
-            "date": "2026-09-24",
-            "title": "Legend Biotech filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001801198-000117184326006215",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006215/f6k_092326.htm"
           }
         ],
         "inferences": [],
@@ -52635,12 +52636,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 14,
+        "evidenceCount": 15,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 11
+          "Filing": 12
         },
-        "lastEvidenceDate": "2026-10-28",
+        "lastEvidenceDate": "2026-11-04",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52649,6 +52650,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001801198-000117184326007100",
+          "date": "2026-11-04",
+          "title": "Legend Biotech filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-sec-0001801198-000117184326007100",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm"
+        },
         {
           "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
           "date": "2026-10-28",
@@ -52725,17 +52737,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000117184326006027",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm"
-        },
-        {
-          "id": "event-sec-0001801198-000117184326005623",
-          "date": "2026-08-18",
-          "title": "Legend Biotech filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001801198-000117184326005623",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm"
         }
       ]
     },
@@ -55957,6 +55958,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-pubmed-42980056",
           "evidence-company-mimetas-pipeline-02c34f2b1653",
           "evidence-company-mimetas-official-bde1c6a770ee"
         ]
@@ -55964,6 +55966,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-pubmed-42980056",
+            "date": "2026-11-01",
+            "title": "Liquid-Suspendable Metabolic Sensors Allow Real-Time Oxygen Consumption Monitoring in Caco-2 and Colon Organoid-Based Gut-on-a-Chip Models.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-pubmed-42980056",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42980056/"
+          },
           {
             "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
             "date": "2026-10-29",
@@ -55994,11 +56007,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "evidenceBySourceType": {
-          "Company": 2
+          "Company": 2,
+          "Paper": 1
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-01",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56006,6 +56020,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-pubmed-42980056",
+          "date": "2026-11-01",
+          "title": "Liquid-Suspendable Metabolic Sensors Allow Real-Time Oxygen Consumption Monitoring in Caco-2 and Colon Organoid-Based Gut-on-a-Chip Models.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-pubmed-42980056",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42980056/"
+        },
         {
           "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
           "date": "2026-10-29",

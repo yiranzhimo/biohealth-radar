@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-04T10:58:18+00:00",
+  "capturedAt": "2026-11-04T19:50:21.189180+00:00",
   "summary": {
-    "mentionCount": 659,
-    "candidateCount": 590,
+    "mentionCount": 658,
+    "candidateCount": 589,
     "corroboratedCount": 3,
     "identifiedCount": 583,
-    "needsReviewCount": 4,
+    "needsReviewCount": 3,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 2,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,82 +20,48 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-008313f1041795ac",
-      "observedName": "Psyrin Inc.",
-      "normalizedName": "psyrin",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06792175",
-      "sourceDate": "2025-09-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06792175",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "临床决策支持",
-        "临床试验",
-        "医疗 AI"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Mental Health, Intellectual and Neurodevelopmental Disorder Detection With Artificial Intelligence Models"
-    },
-    {
-      "id": "mention-clinicaltrials-85be88c1f44fb907",
-      "observedName": "Marino Biotechnology Co., Ltd.",
-      "normalizedName": "marino biotechnology",
+      "id": "mention-clinicaltrials-5c715402f6ea22c4",
+      "observedName": "Celgene Corporation",
+      "normalizedName": "celgene",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT03208556",
-      "sourceDate": "2017-09-14",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT03208556",
+      "sourceRecordId": "NCT01191060",
+      "sourceDate": "2026-04-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Cell Therapy",
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "中国",
-        "临床试验",
-        "细胞治疗",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Safety and Efficacy of iPD1 CD19 eCAR T Cells in Relapsed or Refractory B-cell Lymphoma"
+      "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
     },
     {
-      "id": "mention-clinicaltrials-d46826119108e5df",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-edfd86d44f66b5ad",
+      "observedName": "Janssen-Cilag Ltd.",
+      "normalizedName": "janssen cilag",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02711345",
-      "sourceDate": "2019-09-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02711345",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01191060",
+      "sourceDate": "2026-04-06",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
+        "临床试验"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Phase I Clinical Study With Investigational Compound LTT462 in Adult Patients With Specific Advanced Cancers."
+      "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43709,116 +43675,6 @@
       ]
     },
     {
-      "id": "candidate-novartis-pharmaceuticals",
-      "name": "Novartis Pharmaceuticals",
-      "aliases": [
-        "Novartis Pharmaceuticals"
-      ],
-      "normalizedName": "novartis pharmaceuticals",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2019-09-19",
-      "lastSeenAt": "2019-09-19",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-d46826119108e5df"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2019-09-19",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02711345",
-          "externalId": "NCT02711345",
-          "contextTitle": "A Phase I Clinical Study With Investigational Compound LTT462 in Adult Patients With Specific Advanced Cancers."
-        }
-      ]
-    },
-    {
-      "id": "candidate-psyrin",
-      "name": "Psyrin Inc.",
-      "aliases": [
-        "Psyrin Inc."
-      ],
-      "normalizedName": "psyrin",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2025-09-03",
-      "lastSeenAt": "2025-09-03",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
-          "临床决策支持",
-          "临床试验",
-          "医疗 AI"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-008313f1041795ac"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-09-03",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06792175",
-          "externalId": "NCT06792175",
-          "contextTitle": "Mental Health, Intellectual and Neurodevelopmental Disorder Detection With Artificial Intelligence Models"
-        }
-      ]
-    },
-    {
       "id": "candidate-accelevir-diagnostics",
       "name": "Accelevir Diagnostics, LLC",
       "aliases": [
@@ -47145,39 +47001,27 @@
       ]
     },
     {
-      "id": "candidate-marino-biotechnology",
-      "name": "Marino Biotechnology Co., Ltd.",
+      "id": "candidate-celgene",
+      "name": "Celgene Corporation",
       "aliases": [
-        "Marino Biotechnology Co., Ltd."
+        "Celgene Corporation"
       ],
-      "normalizedName": "marino biotechnology",
+      "normalizedName": "celgene",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2017-09-14",
-      "lastSeenAt": "2017-09-14",
+      "firstSeenAt": "2026-04-06",
+      "lastSeenAt": "2026-04-06",
       "identifiers": {},
       "classificationHints": {
         "directions": [
-          "Cell Therapy",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
+          "临床试验"
         ],
         "themes": [
-          "Cell Therapy",
           "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
+          "临床试验"
         ],
         "tags": []
       },
@@ -47190,17 +47034,65 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-85be88c1f44fb907"
+        "mention-clinicaltrials-5c715402f6ea22c4"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2017-09-14",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT03208556",
-          "externalId": "NCT03208556",
-          "contextTitle": "Safety and Efficacy of iPD1 CD19 eCAR T Cells in Relapsed or Refractory B-cell Lymphoma"
+          "sourceDate": "2026-04-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
+          "externalId": "NCT01191060",
+          "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
+        }
+      ]
+    },
+    {
+      "id": "candidate-janssen-cilag",
+      "name": "Janssen-Cilag Ltd.",
+      "aliases": [
+        "Janssen-Cilag Ltd."
+      ],
+      "normalizedName": "janssen cilag",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-04-06",
+      "lastSeenAt": "2026-04-06",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-edfd86d44f66b5ad"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-04-06",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
+          "externalId": "NCT01191060",
+          "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
         }
       ]
     }
