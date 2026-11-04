@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-11-03T19:32:20.083956+00:00",
+  "capturedAt": "2026-11-04T06:35:48.518230+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-20",
-    "end": "2026-11-03"
+    "start": "2026-10-21",
+    "end": "2026-11-04"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,81 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-02",
+      "acceptanceDateTime": "2026-11-03T21:40:37.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-38683",
+      "filmNumber": "261518372",
+      "items": "5.02,9.01",
+      "size": 161712,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "d173393d8k.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-445514",
+      "companyId": "guardant-health",
+      "companyName": "Guardant Health",
+      "companyDirections": [
+        "Precision Diagnostics"
+      ],
+      "secTicker": "GH",
+      "cik": "0001576280",
+      "secName": "Guardant Health, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526445514/d173393d8k.htm"
+    },
+    {
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-03T21:04:38.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38672",
+      "filmNumber": "261517289",
+      "items": "",
+      "size": 7437692,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "arvn-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-069464",
+      "companyId": "arvinas",
+      "companyName": "Arvinas",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "ARVN",
+      "cik": "0001655759",
+      "secName": "ARVINAS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069464/arvn-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-03",
+      "reportDate": "2026-11-03",
+      "acceptanceDateTime": "2026-11-03T21:02:18.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39398",
+      "filmNumber": "261517228",
+      "items": "8.01",
+      "size": 144316,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "nrix-20261103.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001549595-26-000055",
+      "companyId": "nurix",
+      "companyName": "Nurix Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "NRIX",
+      "cik": "0001549595",
+      "secName": "Nurix Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000055/nrix-20261103.htm"
+    },
     {
       "filingDate": "2026-11-03",
       "reportDate": "2026-09-30",
@@ -670,6 +745,99 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001576280-000119312526445514",
+      "date": "2026-11-03",
+      "title": "Guardant Health filed Form 8-K",
+      "entity": "Guardant Health",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526445514/d173393d8k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "GH"
+      ],
+      "companyIds": [
+        "guardant-health"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-445514 for Guardant Health, Form 8-K, filed on 2026-11-03.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001655759-000162828026069464",
+      "date": "2026-11-03",
+      "title": "Arvinas filed Form 10-Q",
+      "entity": "Arvinas",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069464/arvn-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ARVN"
+      ],
+      "companyIds": [
+        "arvinas"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-069464 for Arvinas, Form 10-Q, filed on 2026-11-03.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001549595-000154959526000055",
+      "date": "2026-11-03",
+      "title": "Nurix Therapeutics filed Form 8-K",
+      "entity": "Nurix Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000055/nrix-20261103.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NRIX"
+      ],
+      "companyIds": [
+        "nurix"
+      ],
+      "fact": "SEC EDGAR lists accession 0001549595-26-000055 for Nurix Therapeutics, Form 8-K, filed on 2026-11-03.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001745999-000119312526444455",
       "date": "2026-11-03",

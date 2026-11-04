@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-03T19:32:11.820506+00:00",
+  "capturedAt": "2026-11-04T06:35:40.405859+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-03",
-    "end": "2026-11-03"
+    "start": "2025-11-04",
+    "end": "2026-11-04"
   },
   "pmids": [
-    "42975206",
-    "42974916",
-    "42974644",
-    "42974497",
-    "42974475",
-    "42974327",
+    "42977531",
+    "42977244",
+    "42977217",
+    "42977042",
+    "42976857",
+    "42976066",
     "42952019",
     "42941810",
     "42940052",
@@ -32,126 +32,130 @@
     "42957787",
     "42957731",
     "42956714",
+    "42976402",
     "42975309",
     "42974867",
     "42974710",
     "42974405",
-    "42974348",
-    "42974337"
+    "42974348"
   ],
   "records": [
     {
-      "pmid": "42975206",
-      "title": "Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.",
-      "abstract": "Patients with glioblastoma (GB) have a median survival of 15 months, despite intensive treatment with surgical resection, radiotherapy, and chemotherapy. A major challenge in overcoming treatment resistance is intratumoral heterogeneity, characterized by molecular, phenotypic, and clinical diversity. Small-molecule inhibitors (SMIs) target specific oncogenic signaling pathways and have become successful therapies in several molecularly defined cancers. In GB, however, SMIs have thus far failed to substantially improve patient outcomes. Here, we used a primary patient-derived glioblastoma organoid (PGO) platform to investigate adaptive bypass signaling mechanisms that drive resistance to targeted therapy. Six primary PGOs were treated with nine FDA-approved SMIs selected for their blood-brain barrier permeability and ability to target key GB driver genes. Drug sensitivity was assessed by cell viability measurements and IC₅₀ determination. To identify compensatory signaling mechanisms, kinase activity profiling was performed following monotherapy treatment. Although inhibition of downstream effector proteins reduced cell viability more effectively (IC₅₀: 70 nM-1 μM) than inhibition of upstream receptor tyrosine kinases (IC₅₀: 1-15 μM), residual proliferation persisted in all PGOs. Kinase profiling revealed compensatory pathway activation following monotherapy, enabling the identification of effective SMI combinations. The most prominent combination targeted glycogen synthase kinase-3 (GSK-3) and mitogen-activated protein kinase kinase (MEK) using CHIR99021 and trametinib, respectively. These findings demonstrate that adaptive bypass signaling limits single-agent SMI efficacy in GB. PGO-based kinase profiling enables the identification of resistance mechanisms and rational combination therapies, supporting its application in personalized treatment development.",
-      "journal": "Cancer biology & therapy",
+      "pmid": "42977531",
+      "title": "18F-FGln PET/CT Imaging of Glutamine Uptake Has Potential for Predicting Immunotherapy Response in Hepatocellular Carcinoma.",
+      "abstract": "We investigated whether glutamine (Gln) uptake, imaged by 18F-(2S,4R)-4-fluoroglutamine (18F-FGln) PET/CT, could predict and modulate immunotherapy response in hepatocellular carcinoma (HCC). Analysis of the Cancer Genome Atlas (TCGA)-Liver Hepatocellular Carcinoma (LIHC) dataset revealed that SLC1A5 expression-which encodes a primary Gln uptake channel in HCC cells-was significantly associated with poor prognosis, higher tumor grade, and an immunosuppressive tumor microenvironment. In murine HCC models, tumors with high 18F-FGln uptake exhibited elevated Slc1a5 expression and poor response to anti-PD-1 therapy, whereas low-uptake tumors were more sensitive to immunotherapy. Genetic knockdown of Slc1a5 reduced 18F-FGln uptake, enhanced anti-PD-1 efficacy, increased cytotoxic T lymphocyte infiltration, and decreased regulatory T cell abundance. Transcriptomic and single-cell analyses revealed activation of antitumor immune pathways and reprogramming toward an immune-inflamed phenotype after Slc1a5 suppression. V-9302 decreased tumor Gln uptake, as measured by 18F-FGln PET/CT, and sensitized HCC to PD-1 blockade. In patient-derived organoid-T cell co-culture systems, low-SLC1A5 organoids were susceptible to PD-1 blockade, whereas high-SLC1A5 organoids were resistant, consistent with 18F-FGln PET/CT findings. These results identify Gln uptake as a checkpoint of immune evasion in HCC and support that 18F-FGln PET/CT has the potential to predict and monitor immunotherapy response.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Maastro, Maastricht Radiation Oncology Institute, Maastricht, Netherlands.",
-        "Department of Radiation Oncology, GROW Research Institute for Oncology and Reproduction, Maastricht University Medical Center+, Maastricht, Netherlands.",
-        "Department of Surgery, NUTRIM Institute for Nutrition and Translational Research in Metabolism, Maastricht University Medical Center+, Maastricht, Netherlands.",
-        "Department of Medical Oncology, GROW Research Institute for Oncology and Reproduction, Maastricht University Medical Center+, Maastricht, Netherlands."
+        "Department of Nuclear Medicine, Fudan University Shanghai Cancer Center, Shanghai, China.",
+        "Department of Nuclear Medicine, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+        "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China.",
+        "Center For Biomedical Imaging, Fudan University, Shanghai, China.",
+        "Shanghai Engineering Research Center of Molecular Imaging Probes, Shanghai, China."
       ],
-      "doi": "10.1080/15384047.2026.2757335",
+      "doi": "10.1002/advs.78622",
       "date": "2026-11-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42975206/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977531/"
     },
     {
-      "pmid": "42974916",
-      "title": "Impacts of mutation accumulation and order on tumor initiation revealed by engineered murine colorectal cancer organoids.",
-      "abstract": "Tumorigenesis typically follows a multi-hit trajectory, driven by accumulating oncogenic mutations. Colorectal cancer (CRC) has long served as a paradigmatic model of multi-hit tumorigenesis, characterized by adenoma-carcinoma transition accompanied by acquisition of specific oncogene and tumor suppressor mutations. However, how the temporal order of early mutations influences CRC initiation remains poorly understood. To address this, we established a CRC tumorigenesis model using murine intestinal organoids. By introducing defined combinations of key CRC driver mutations (Kras, Apc, and Trp53) in distinct orders, we systematically investigated how the order of mutation accumulation affects tumor initiation. Our results reveal that the mutation accumulation confers growth advantages in both in vitro and in vivo models. Strikingly, mutation order also influenced the tumorigenic properties of the organoids. Whereas organoids with Trp53 loss before or after Apc loss similarly affected organoid phenotypes in vitro or tumorigenicity in immunodeficient mice, organoids with Trp53 loss preceding Apc inactivation exhibited reduced tumor-forming potential in immunocompetent mice, likely due to their distinct immunological features. Collectively, our study reveals a critical role of ordered mutation accumulation in CRC initiation, an insight that may hold clinical relevance.",
-      "journal": "eLife",
+      "pmid": "42977244",
+      "title": "CA1-Associated Epithelial-State Remodeling in Colon Cancer Cells Exposed to Polystyrene Nanoplastics: Integrated Multi-Omics and In Vitro Analyses.",
+      "abstract": "Polystyrene nanoplastics (PS-NPs) directly encounter the gastrointestinal epithelium after ingestion, yet the epithelial molecular states linking exposure to colon cancer cell behavior remain unclear. We integrated bulk transcriptomics, interpretable machine learning, WGCNA, single-cell and spatial transcriptomics, structural analyses, and in vitro experiments to investigate CA1-associated epithelial responses. Intersecting 2,139 colon cancer differentially expressed genes with 766 styrene-associated genes yielded 159 candidates. Among 45 classification models, LASSO+GBM ranked highest in an exploratory cross-cohort comparison, with an apparent training AUC of 1.000 and comparison-cohort AUCs of 0.999 and 0.925. CA1 had the highest SHAP importance and was located in the WGCNA module most strongly associated with tumor/normal status. Single-cell and organoid analyses showed attenuation of epithelial CA1/CA2 and carbonic anhydrase-bicarbonate-related programs, with concordant spatial trends; TCGA-COAD and Human Protein Atlas data further supported reduced CA1 expression. Low CA1 was associated with reduced metabolic and bicarbonate-related programs and enhanced inflammatory signaling. Docking and 100 ns molecular dynamics showed only weak, dynamic styrene-CA1 contacts. In HCT116 cells, PS-NPs decreased CA1, CA2, and Occludin expression, altered stress-, inflammation-, and apoptosis-related molecules, and increased scratch closure, with generally stronger changes at higher doses and after Tioxolone co-treatment. Collectively, these findings identify a CA1/CA2-low epithelial state associated with PS-NP exposure and suggest that CA1-associated epithelial-state remodeling may be part of the cellular response to PS-NPs.",
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Shenzhen Key Laboratory of Gene Regulation and Systems Biology, School of Life Sciences, Southern University of Science and Technology, Shenzhen, China.",
-        "Innovative Center for RNA Therapeutics (ICRT), School of Life Sciences, Southern University of Science and Technology, Shenzhen, China.",
-        "Department of Systems Biology, School of Life Sciences, Southern University of Science and Technology, Shenzhen, China.",
-        "Guangming Advanced Research Institute, Southern University of Science and Technology, Shenzhen, China."
+        "Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: 202513065@njucm.edu.cn.",
+        "Key Laboratory of Acupuncture and Medicine Research of Ministry of Education, School of Acupuncture-moxibustion and Tuina, Health and Prevention, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: 270761@njucm.edu.cn.",
+        "Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: joyeqin@njucm.edu.cn.",
+        "Department of Acupuncture, Second Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing 210017, China. Electronic address: 81485166@qq.com.",
+        "Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: czllin97@163.com.",
+        "Key Laboratory of Acupuncture and Medicine Research of Ministry of Education, School of Acupuncture-moxibustion and Tuina, Health and Prevention, Nanjing University of Chinese Medicine, Nanjing 210023, China. Electronic address: janiceguo@njucm.edu.cn.",
+        "Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: fsyy00657@njucm.edu.cn.",
+        "Affiliated Hospital of Nanjing University of Chinese Medicine, Jiangsu Province Hospital of Chinese Medicine, Nanjing 210029, China. Electronic address: fsyy00663@njucm.edu.cn."
       ],
-      "doi": "10.7554/eLife.110070",
+      "doi": "10.1016/j.fct.2026.116476",
       "date": "2026-11-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974916/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977244/"
     },
     {
-      "pmid": "42974644",
-      "title": "[Patient-derived models for chronic liver diseases and cancer and precision medicine].",
-      "abstract": "Chronic liver diseases and liver cancer are global public health problems for which therapeutic strategies remain unsatisfactory. The limitation of relevant models recapitulating the complexity and heterogeneity of these diseases has hampered the development of urgently needed improved therapeutics. At a time when the use of animal models is decreasing due to ethical and regulatory reasons, patient-derived models have become essential tools in translational research. Patient-derived spheroids and organoids allow to study the development of the disease, to discover new therapeutic targets and to evaluate the efficacy of new treatments. This review describes the recent advancements in the development of state-of-the-art patient models, their applications for clinical translation and their limitations and advantages for precision medicine.",
-      "journal": "Bulletin de l'Academie nationale de medecine",
-      "publicationTypes": [
-        "English Abstract",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Université de Strasbourg, Inserm, Institut de médecine translationnelle et des maladies du foie UMR_S1110, Strasbourg, France.",
-        "Service de Gastroentérologie-Hépatologie, Hôpitaux Universitaires de Strasbourg, Strasbourg, France.",
-        "University Hospital Institute (IHU), Strasbourg, France.",
-        "Institut Universitaire de France (IUF), Paris, France."
-      ],
-      "doi": "10.1016/j.banm.2025.06.015",
-      "date": "2026-02-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974644/"
-    },
-    {
-      "pmid": "42974497",
-      "title": "Hepatobiliary cancers digital twins: Integrating artificial intelligence-driven multi-omics with organoid dynamics.",
-      "abstract": "Static biomarkers are increasingly failing to predict outcomes in hepatobiliary cancers, largely due to the profound heterogeneity of the tumor microenvironment. Over the past decade, rapid advances in digital pathology, single-cell profiling, and spatial multi-omics have generated increasingly detailed maps of tumor architecture. Yet, these static snapshots fail to capture the dynamic cellular interactions driving disease progression. Conversely, patient-derived organoids (PDOs) and organ-on-chip models capture functional drug responses but often lack the microenvironmental complexity of the original tumor. In this review, we use the term digital twin to refer to a patient-specific model that is initialized with individual baseline data, linked to measurable biological or clinical readouts, and refined with longitudinal observations. We outline a unified three-layer architecture: A Data Layer (digitizing static atlases), a Physical Layer (engineering high-fidelity PDO avatars using tunable biomaterials), and a Computational Layer (integrating PDOs and patient data). Moreover, we discuss clinical applications, including individualized therapy selection, exploration of resistance mechanisms, and optimization of drug combinations and treatment sequences. Finally, we highlight the major barriers to clinical translation, including limited paired datasets, variable PDO feasibility, and the difficulty of integrating data collected at different time scales. Taken together, these advances may support more individualized and adaptive care in hepatobiliary cancers.",
-      "journal": "Journal of translational internal medicine",
+      "pmid": "42977217",
+      "title": "A novel preclinical platform to study FGFR2 fusion-driven cholangiocarcinoma☆.",
+      "abstract": "FGFR2 fusions represent the most frequent genetic alteration in intrahepatic cholangiocarcinoma (iCCA). However, clinical responses to FGFR inhibitors are suboptimal. A major limitation is that preclinical models do not mimic the immunobiology of human FGFR2-driven iCCA. We developed an autochthonous and immunocompetent FGFR2 fusion-driven mouse model. Using the hydrodynamic tail-vein injection method, we generated a mouse model harboring the FGFR2-PPHLN1 fusion (with or without the V565F resistance mutation) in combination with activated YAP1, and established 2D lines and 3D organoids. We characterized tumors using bulk and single cell RNA-sequencing (n=3), spectral cytometry (n=3-7/group), and performed cross-species analysis using 411 human samples. Tumor-associated neutrophils (TAN) were depleted in vivo using an anti-murine Ly6G antibody. In vitro and in vivo drug treatment with FGFR inhibitors and anti-PD-L1 was performed. FGFR2-driven murine tumors were molecularly and immunologically similar to human iCCA, with selective accumulation of TAN and impaired T cell infiltration. scRNA-seq identified pro-tumorigenic and immunomodulatory TAN subsets while In vivo TAN depletion significantly prolonged survival (log-rank p=0.009) and led to increased CD8+ T cells infiltration (p=0.007). 3D organoids reproduced clinical responses to irreversible FGFR inhibitors, while showing a sustained response to the reversible inhibitor derazantinib in presence of the V565F mutation (IC50=5.190uM). In vivo derazantinib reduced tumor number (unadj. p=0.03) and marginally prolonged survival (unadj. p=0.052) whereas no statistically significant benefit of anti-PD-L1 was detected, either alone or in combination. Our mouse model faithfully recapitulates the immunobiology and therapeutic sensitivities of the human disease. Inter-species and cross-species analyses suggest a critical role of FGFR2 fusions in shaping a cold tumor microenvironment with selective accumulation of TAN in both humans and mice. This study develops a clinically-relevant mouse model of FGFR2-driven iCCA for future translational studies. Accumulation of pro-tumorigenic and immunomodulatory TAN along with poor sensitivity to immune checkpoint inhibitors suggests the need of designing alternative strategies harnessing the unique immunosuppressive nature of these tumors.",
+      "journal": "JHEP reports : innovation in hepatology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "National Center for Liver Cancer, Third Affiliated Hospital of Naval Medical University (Second Military MedicalUniversity), Shanghai, China.",
-        "Department of Laboratory Diagnosis, Third Affiliated Hospital of Naval Medical University (Second MilitaryMedical University), Shanghai, China.",
-        "Department of Oncology, Third Affiliated Hospital of Naval Medical University (Second Military MedicalUniversity), Shanghai, China."
+        "Division of Liver Diseases, Liver Cancer Program, Department of Medicine, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Center for Genomic Regulation, Barcelona Institute of Science and Technology, Barcelona, Spain.",
+        "Department of Systems and Computational Biomedicine, Englander Institute for Precision Medicine, Belfer Research Building, New York 10021.",
+        "General Surgery and Liver Transplantation Unit, Department of Oncology and Hemato-Oncology, University of Milan and Istituto Nazionale Tumori, IRCCS Foundation, Milan, Italy.",
+        "Department of Surgery, Liver Cancer Program, Icahn School of Medicine at Mount Sinai, New York, USA.",
+        "Division of Liver Diseases, Liver Cancer Program, Department of Medicine, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. Electronic address: daniela.sia@mssm.edu."
       ],
-      "doi": "10.1515/jtim-2026-0060",
-      "date": "2026-10-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974497/"
+      "doi": "10.1016/j.jhepr.2026.102090",
+      "date": "2026-11-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977217/"
     },
     {
-      "pmid": "42974475",
-      "title": "Inhibition of ferroptosis by microbiota-derived lithocholic acid underlies the intestinal radioprotection of a host defensin-derived oligopeptide.",
-      "abstract": "Ionizing radiation-induced intestinal injury (IRIII) reduces survival in nuclear accident victims and compromises the efficacy of abdominal radiotherapy, and current treatment options remain limited. Human defensin 5 (HD5)-derived fragments are endogenous regulators of the gut microbiota, which affects host responses to radiation. However, whether these fragments influence intestinal radiosensitivity or can serve as lead compounds for IRIII therapeutics remains unclear. In this study, we investigated the role of HD5-derived fragments in IRIII and developed AT9(C/G), a potent radioprotective oligopeptide based on the lead fragment AT9. Fecal metagenomic and metabolomic analyses revealed that the oral administration of AT9(C/G) enriches Bifidobacterium pseudolongum and increases lithocholic acid (LCA) levels in the intestine. Both murine and clinical studies demonstrated a negative correlation between IRIII severity and fecal LCA levels. The radioprotective effect of LCA was further validated in both mouse models and human small intestinal organoids. Mechanistically, LCA suppresses ferroptosis in irradiated cells by remodeling lipid metabolism. Specifically, LCA activates Takeda G protein-coupled receptor 5 (TGR5), leading to the upregulation of sterol regulatory element-binding protein 1 (SREBP1), which transcriptionally modulates stearoyl-CoA desaturase 1 (SCD1) to catalyze monounsaturated fatty acid production. Pharmacological inhibition of SCD1 or genetic ablation of G-protein coupled bile acid receptor 1 (Gpbar1, encodes TGR5) attenuates the protective effects of AT9(C/G) in mice. This study establishes that an oligopeptide can modulate gut microbiota-derived LCA to confer intestinal radioprotection, presenting a promising preventive strategy against IRIII.",
-      "journal": "iMeta",
+      "pmid": "42977042",
+      "title": "A mechanistic pharmacokinetic-patient-derived organoid (PK-PDO) framework for comparing oxaliplatin HIPEC regimens in peritoneal metastases of colorectal cancer.",
+      "abstract": "The role of oxaliplatin-based hyperthermic intraperitoneal chemotherapy (HIPEC) in colorectal peritoneal metastases remains debated after the PRODIGE 7 trial showed no overall survival benefit for the widely used 30-min high-dose regimen. This has raised interest in whether alternative oxaliplatin schedules, particularly lower-dose and longer-duration regimens, may improve tumor exposure and pharmacodynamic (PD) activity. In this study, we present a mechanistic framework integrating pharmacokinetics with patient-derived organoid (PK-PDO) data to compare two established HIPEC regimens for colorectal peritoneal metastases: 460 mg/m2 over 30 min and 200 mg/m2 over 120 min. A population-based PK model was coupled with a spatiotemporal transport model to simulate oxaliplatin distribution within tumor nodules up to 2 mm. Exposure metrics were integrated with published PDO sensitivity data, including IC50 and Hill coefficients, to evaluate response under dynamic concentration profiles. The long-duration regimen increased tumor-to-plasma ultrafiltrate exposure. However, overall PD efficacy at the population level, quantified using a Hill-type exposure-response model, was not significantly different between regimens. Substantial interpatient variability was predicted, with some tumors favoring one regimen over the other depending on drug sensitivity. Threshold analysis indicated that the 120-min regimen is advantageous only when its IC50 is at least fivefold lower than that of the 30-min regimen. In conclusion, despite differences in PK profiles, both regimens yield comparable overall PD effects. These findings suggest that switching oxaliplatin HIPEC protocols may not consistently improve treatment efficacy and that outcomes depend on the sensitivity of tumor nodules to treatment duration, as reflected by PDOs.",
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Trauma and Chemical Poisoning, Institute of Combined Injury of PLA, College of Preventive Medicine Army Medical University Chongqing China.",
-        "Department of Nephrology, Xinqiao Hospital Army Medical University Chongqing China.",
-        "Department of Cancer Center, Daping Hospital Army Medical University Chongqing China.",
-        "Department of Gastroenterology, Chongqing Key Laboratory of Digestive Malignancies, Daping Hospital Army Medical University Chongqing China.",
-        "Biomedical Analysis Center Army Medical University Chongqing China.",
-        "Chongqing Key Laboratory of Neurobiology Chongqing China."
+        "Department of Radiation Oncology, Amsterdam UMC Location University of Amsterdam, Amsterdam, The Netherlands; Cancer Center Amsterdam, Cancer Biology and Immunology, Amsterdam, The Netherlands; Cancer Center Amsterdam, Cancer Treatment and Quality of Life, Amsterdam, The Netherlands. Electronic address: p.namakshenas@amsterdamumc.nl.",
+        "LEXOR, Center of Experimental Molecular Medicine, Cancer Center Amsterdam, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands; Oncode Institute, Amsterdam, The Netherlands.",
+        "Experimental Surgery Lab (SurgX), Ghent University, Ghent, Belgium; Cancer Research Institute Ghent (CRIG), Belgium.",
+        "Department of Radiation Oncology, Amsterdam UMC Location University of Amsterdam, Amsterdam, The Netherlands; Cancer Center Amsterdam, Cancer Biology and Immunology, Amsterdam, The Netherlands; Cancer Center Amsterdam, Cancer Treatment and Quality of Life, Amsterdam, The Netherlands."
       ],
-      "doi": "10.1002/imt2.70113",
-      "date": "2026-02-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974475/"
+      "doi": "10.1016/j.ejps.2026.107702",
+      "date": "2026-11-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977042/"
     },
     {
-      "pmid": "42974327",
-      "title": "A patient-derived organ-on-a-chip platform for predicting chemotherapy response in locally advanced colorectal cancer.",
-      "abstract": "Colorectal cancer (CRC) remains a leading cause of mortality, underscoring the urgent need for predictive precision medicine tools. While patient-derived organoids have advanced drug screening, they often lack the dynamic physical microenvironment found in vivo. Organ-on-a-chip (OOC) systems offer superior physiological relevance; however, their translation from bench to bedside has been stalled by a lack of validation against clinical patient outcomes. Here, we bridge this critical translational gap by demonstrating the feasibility and predictive utility of a scalable, patient-derived OOC (PDOC) platform. From a cohort of 14 primary locally advanced CRC cases, we engineered 8 patient-specific PDOCs that maintained high-fidelity histological recapitulation of the parental tumor tissue. Leveraging an automated, high-content imaging workflow alongside metabolic assays, we profiled responses to standard-of-care chemotherapies (irinotecan, FOLFOX, and FOLFIRI). The platform successfully stratified patients into distinct phenotypic response groups, revealing specific sensitivities to FOLFOX versus FOLFIRI. Crucially, we present preliminary clinical evidence supporting these ex vivo predictions: in a 7-month follow-up, all patients identified as FOLFOX-sensitive by our platform remained disease-free post-surgery. These findings support the PDOC platform not just as a complex in vitro model, but as a viable, predictive technology for functional precision oncology. This work represents an important step toward integrating microphysiological systems into prospective clinical decision-making for CRC and other solid tumors.",
-      "journal": "Bioengineering & translational medicine",
+      "pmid": "42976857",
+      "title": "Microcephaly-causative ASPM mutations disrupt mitotic spindle orientation and timely specification of human outer radial glia cells.",
+      "abstract": "Mutations in the gene abnormal spindle-like, microcephaly-associated (ASPM) are the most common cause of primary microcephaly (MCPH). The mechanisms underlying MCPH have remained unclear, as ASPM disruption leads to species-specific phenotypes. Using human cortical organoids, we observed premature mitotic spindle randomization in ASPM-mutant ventricular cortical progenitors, followed by their early delamination to the basal compartment. Similar delamination following mitotic spindle misorientation could be induced by overexpression of Inscuteable, further linking the two phenotypes. Delaminated progenitors resembled outer radial glial cells (oRGCs), which are selectively amplified in human corticogenesis, but they failed to adopt a bona fide oRGC identity, displaying downregulation of key oRGC genes required for their amplification and maintenance. Our findings link the evolutionarily conserved requirement of ASPM for proper mitotic spindle orientation to the species-specific timing of delamination and proper specification of human oRGC, shedding light on the origins of species-specific vulnerability to ASPM mutations.",
+      "journal": "Developmental cell",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Endocrinology and Metabolism Center, Henan Key Laboratory of Rare Diseases The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology Luoyang Henan China.",
-        "Henan Academy of Innovations in Medical Science Zhengzhou Henan China.",
-        "Henan Key Laboratory of Cancer Epigenetics, Cancer Institute, The First Affiliated Hospital, College of Clinical Medicine, Henan University of Science and Technology Luoyang Henan China.",
-        "Department of Gastrointestinal Surgery the First Affiliated Hospital of Zhengzhou University Zhengzhou China.",
-        "Yaosu Technology Building 10, Caohejing Nanqiao Science and Technology Park, 6055 Jinhai Highway, Fengxian District Shanghai China.",
-        "Xellar Biosystems Boston Massachusetts USA.",
-        "Department of Hepatopancreaticobiliary Surgery Henan Provincial People's Hospital, Zhengzhou University Zhengzhou China."
+        "VIB-KU Leuven Center for Neuroscience, 3000 Leuven, Belgium; Department of Neurosciences, Leuven Brain Institute, KU Leuven, 3000 Leuven, Belgium; Université Libre de Bruxelles (U.L.B.), Institut de Recherches en Biologie Humaine et Moléculaire (IRIBHM), and ULB Neuroscience Institute (UNI), 1070 Brussels, Belgium.",
+        "VIB-KU Leuven Center for Neuroscience, 3000 Leuven, Belgium; Department of Neurosciences, Leuven Brain Institute, KU Leuven, 3000 Leuven, Belgium.",
+        "Université Libre de Bruxelles (U.L.B.), Institut de Recherches en Biologie Humaine et Moléculaire (IRIBHM), and ULB Neuroscience Institute (UNI), 1070 Brussels, Belgium.",
+        "VIB Bioimaging Core Leuven, VIB Technologies, VIB-KU Leuven Center for Neuroscience, Leuven, Belgium; VIB Bioimaging Core Leuven, Department of Neurosciences, KU Leuven, Leuven, Belgium.",
+        "Centre for Medical Genetics, Reproduction and Genetics, Reproduction Genetics and Regenerative Medicine, Vrije Universiteit Brussel (VUB), UZ Brussel, Laarbeeklaan 101, 1090 Brussels, Belgium.",
+        "VIB-KU Leuven Center for Neuroscience, 3000 Leuven, Belgium.",
+        "Institute of Pathology and Genetics (IPG), 25 avenue Georges Lemaître, 6041 Gosselies, Belgium.",
+        "Université Paris Cité, Inserm UMR 1141, NeuroDiderot, 75019 Paris, France; Service de Neurologie Pédiatrique, DMU INOV-RDB, APHP, Hôpital Robert Debré, 75019 Paris, France.",
+        "VIB-KU Leuven Center for Neuroscience, 3000 Leuven, Belgium; Department of Neurosciences, Leuven Brain Institute, KU Leuven, 3000 Leuven, Belgium; Université Libre de Bruxelles (U.L.B.), Institut de Recherches en Biologie Humaine et Moléculaire (IRIBHM), and ULB Neuroscience Institute (UNI), 1070 Brussels, Belgium. Electronic address: pierre.vanderhaeghen@kuleuven.be."
       ],
-      "doi": "10.1002/btm2.70190",
-      "date": "2026-11-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974327/"
+      "doi": "10.1016/j.devcel.2026.10.007",
+      "date": "2026-11-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976857/"
+    },
+    {
+      "pmid": "42976066",
+      "title": "Robust Organoid OCT Segmentation via Multi-View Graph Fusion under Sparse Annotations and Culture Variations.",
+      "abstract": "Optical coherence tomography (OCT), with its high resolution, deep penetration, and non-invasive characteristics, is crucial for three-dimensional (3D) imaging of organoids. However, speckle noise, low contrast, and signal disturbances arising from culture environments and drug addition to the culture medium often blur organoid boundaries and cause background mis-segmentation, significantly reducing segmentation accuracy. Although two-dimensional (2D) segmentation methods are efficient and flexible, they cannot capture inter-slice context, leading to incomplete intra-slice segmentation and inter-slice discontinuities. Conversely, while 3D methods can model inter-slice contexts through inherent 3D receptive field, they face high annotation requirements and computational costs. To overcome these limitations, we propose the Multi-View Inter-Slice Feature Fusion Network (MIFFNet). MIFFNet explicitly constructs inter-slice and inter-spatial graph connections between the target slice and adjacent slices, employing graph convolutions to fuse multi-view contextual information and form a quasi-3D receptive field that integrates both axial and non-axial contexts, thereby enhancing segmentation completeness, inter-slice continuity, and robustness. MIFFNet can be seamlessly integrated into existing 2D segmentation frameworks, enabling multi-slice joint modeling without requiring densely annotated continuous slices. Experimental results demonstrate that MIFFNet-enhanced 2D networks achieve Dice score improvements of over 6%, and reduce background mis-segmentation rates by more than 30% under drug-influenced scenarios. The MIFFNet-enhanced segmentation network consistently outperforms existing 2D, 3D, and inter-slice methods across multi-patient, multi-drug, and multi-cancer datasets, enhancing organoid segmentation accuracy and robustness under challenging imaging conditions and annotation scarcity.",
+      "journal": "IEEE journal of biomedical and health informatics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [],
+      "doi": "10.1109/JBHI.2026.3750166",
+      "date": "2026-11-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976066/"
     },
     {
       "pmid": "42952019",
@@ -363,6 +367,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42956714/"
     },
     {
+      "pmid": "42976402",
+      "title": "DNA damage response and repair signaling: Emerging biomarkers and therapeutic targets in human cancers.",
+      "abstract": "Maintenance of genomic integrity is essential for proper cellular function and for protecting against malignant transformation. Prolonged exposure to endogenous and exogenous genotoxic environments results in multiple forms of DNA damage, including single-strand breaks, double-strand breaks, oxidative lesions, base mismatches, and replication-associated abnormalities. Cells possess a meticulously regulated DDR network of specialized sensor proteins, checkpoint regulators, signal mediators, and repair pathways to address various damages. Key repair mechanisms, such as BER, NER, MMR, HRR, NHEJ, and Alt-EJ, collectively maintain genomic stability and regulate cellular viability in response to genotoxic stress. Aberrant expression of DDR-associated molecular partners significantly contributes to genomic instability, tumorigenesis, progression, metastasis, and therapy resistance in specific malignancies. Recent advancements in molecular oncology have underscored the translational significance of DDR signaling in cancer diagnosis, prognosis, and targeted therapy. Synthetic lethality methods, particularly PARP inhibition in malignancies that impair HR, have transformed precision oncology. Moreover, recent data indicate significant interactions between DDR mechanisms and various cancer hallmarks, including epigenetic regulation, metabolic reprogramming, immune modulation, adaptation to replication stress, and TME signaling. This review focuses on the diagnostic and translational significance of DDR alterations in human cancers, with particular emphasis on biomarker interpretation and clinical efficacy. Current approaches for HRD and MMR/MSI assessment, including genomic, functional and liquid-biopsy strategies, are considered together with their pre-analytical and analytical limitations. The review further examines how DDR biomarkers inform targeted treatment selection, resistance monitoring, and emerging approaches, while highlighting unresolved challenges in assay validation, tumor heterogeneity, dynamic biomarker evolution, and clinical implementation. PLAIN LANGUAGE SUMMARY: DNA in our cells is constantly being damaged by normal cellular processes and environmental factors such as radiation and harmful chemicals. Cells contain protective systems called the DNA damage response (DDR) and DNA repair pathways that are capable of detecting and repairing this damage. When these systems become defective, DNA modifications can accumulate and contribute to cancer development, progression, and resistance to treatment. This review explains how major DNA repair pathways maintain genomic stability and how alterations in these pathways might generate vulnerabilities that can be used to treat cancer. It also addresses the established and emerging therapies targeting DNA repair vulnerabilities such as PARP, ATR, ATM, CHK1, WEE1, DNA-PK, and POLQ inhibitors. It also discusses why certain tumors do not respond or develop resistance to these therapies and why biomarkers do not always accurately predict treatment effectiveness. The review also covers the interactions between DNA damage and the immune system, such as context-dependent functions of cGAS-STING signaling. Finally, emerging methods such as functional DNA-repair tests, circulating tumor DNA (ctDNA), single-cell and spatial analysis, and multi-omics may improve patient selection and assist in leading more personalized and effective cancer treatment.",
+      "journal": "Pathology, research and practice",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu 603203, India.",
+        "Department of Biotechnology, School of Bioengineering, SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu 603203, India. Electronic address: koustavm@srmist.edu.in."
+      ],
+      "doi": "10.1016/j.prp.2026.156720",
+      "date": "2026-11-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976402/"
+    },
+    {
       "pmid": "42975309",
       "title": "Clinical utility of Circulating Long Non-Coding RNAs in indeterminate thyroid nodules.",
       "abstract": "Indeterminate cytology results (Bethesda categories III and IV) from fine-needle aspiration (FNA) create challenges in clinical decision-making. This study evaluated the expression and diagnostic utility of selected long non-coding RNAs (lncRNAs) in cell-free plasma from patients with indeterminate thyroid nodules. Prospective, single-center study. Nine candidate long non-coding RNA were selected from a curated disease database. A total of 126 individuals with solitary thyroid nodules were enrolled. RNA was extracted from plasma, FNA, and tissue samples and expression levels were measured using quantitative real-time PCR. In the discovery cohort, patients with benign and malignant nodules confirmed by histopathology, were used to determine optimal cut-off values through receiver operating characteristic analysis. Spearman correlation analyses were performed to assess concordance between plasma and FNA/tissue expression. In the validation phase, significantly altered markers were applied to indeterminate nodules to assess diagnostic performance. In the discovery cohort, PVT1, MALAT1, and BANCR were significantly upregulated in malignant compared with benign nodules (P < 0.0001). Significant positive correlations were observed between plasma and FNA expression for PVT1 (r = 0.7095), MALAT1 (r = 0.5487), and BANCR (r = 0.6792), and between plasma and tissue expression for PVT1 (r = 0.7673), MALAT1 (r = 0.5284), and BANCR (r = 0.6864) (P < 0.0001). In the Bethesda III/IV validation cohort, only PVT1 retained diagnostic utility, with 76% sensitivity, 87.5% specificity, 85% positive predictive value, and 80% negative predictive value, whereas MALAT1 and BANCR did not demonstrate significant diagnostic performance. Circulating PVT1 expression in plasma may serve as a useful non-invasive biomarker for distinguishing benign from malignant indeterminate thyroid nodules.",
@@ -452,38 +473,118 @@
       "doi": "10.3389/fonc.2026.1965742",
       "date": "2026-10-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974348/"
-    },
-    {
-      "pmid": "42974337",
-      "title": "Editorial: Bioinformatics and big data driving the discovery of clinical biomarkers for solid tumors and blood malignancies.",
-      "abstract": "",
-      "journal": "Frontiers in genetics",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Department of Blood Transfusion, Laboratory Medicine Centre, The Second Affiliated Hospital, Army Medical University, Chongqing, China.",
-        "Hematopoietic Acute Radiation Syndrome Medical and Pharmaceutical Basic Research Innovation Center, Ministry of Education of the People's Republic of China, Chongqing, China.",
-        "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine and Health, University of New South Wales (UNSW), Sydney, NSW, Australia.",
-        "University of New South Wales, Kensington, NSW, Australia."
-      ],
-      "doi": "10.3389/fgene.2026.1999998",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974337/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42975206",
+      "id": "pubmed-42977531",
       "date": "2026-11-03",
-      "title": "Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.",
+      "title": "18F-FGln PET/CT Imaging of Glutamine Uptake Has Potential for Predicting Immunotherapy Response in Hepatocellular Carcinoma.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42975206/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977531/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 42977531。",
+      "report": "We investigated whether glutamine (Gln) uptake, imaged by 18F-(2S,4R)-4-fluoroglutamine (18F-FGln) PET/CT, could predict and modulate immunotherapy response in hepatocellular carcinoma (HCC). Analysis of the Cancer Genome Atlas (TCGA)-Liver Hepatocellular Carc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42977244",
+      "date": "2026-11-03",
+      "title": "CA1-Associated Epithelial-State Remodeling in Colon Cancer Cells Exposed to Polystyrene Nanoplastics: Integrated Multi-Omics and In Vitro Analyses.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977244/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association，PMID 为 42977244。",
+      "report": "Polystyrene nanoplastics (PS-NPs) directly encounter the gastrointestinal epithelium after ingestion, yet the epithelial molecular states linking exposure to colon cancer cell behavior remain unclear. We integrated bulk transcriptomics, interpretable machine l...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42977217",
+      "date": "2026-11-03",
+      "title": "A novel preclinical platform to study FGFR2 fusion-driven cholangiocarcinoma☆.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977217/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 JHEP reports : innovation in hepatology，PMID 为 42977217。",
+      "report": "FGFR2 fusions represent the most frequent genetic alteration in intrahepatic cholangiocarcinoma (iCCA). However, clinical responses to FGFR inhibitors are suboptimal. A major limitation is that preclinical models do not mimic the immunobiology of human FGFR2-d...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42977042",
+      "date": "2026-11-03",
+      "title": "A mechanistic pharmacokinetic-patient-derived organoid (PK-PDO) framework for comparing oxaliplatin HIPEC regimens in peritoneal metastases of colorectal cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42977042/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -500,38 +601,68 @@
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer biology & therapy，PMID 为 42975206。",
-      "report": "Patients with glioblastoma (GB) have a median survival of 15 months, despite intensive treatment with surgical resection, radiotherapy, and chemotherapy. A major challenge in overcoming treatment resistance is intratumoral heterogeneity, characterized by molec...",
+      "fact": "PubMed 记录显示该文献收录于 European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences，PMID 为 42977042。",
+      "report": "The role of oxaliplatin-based hyperthermic intraperitoneal chemotherapy (HIPEC) in colorectal peritoneal metastases remains debated after the PRODIGE 7 trial showed no overall survival benefit for the widely used 30-min high-dose regimen. This has raised inter...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42974916",
+      "id": "pubmed-42976857",
       "date": "2026-11-03",
-      "title": "Impacts of mutation accumulation and order on tumor initiation revealed by engineered murine colorectal cancer organoids.",
+      "title": "Microcephaly-causative ASPM mutations disrupt mitotic spindle orientation and timely specification of human outer radial glia cells.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974916/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976857/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Developmental cell，PMID 为 42976857。",
+      "report": "Mutations in the gene abnormal spindle-like, microcephaly-associated (ASPM) are the most common cause of primary microcephaly (MCPH). The mechanisms underlying MCPH have remained unclear, as ASPM disruption leads to species-specific phenotypes. Using human cor...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42976066",
+      "date": "2026-11-03",
+      "title": "Robust Organoid OCT Segmentation via Multi-View Graph Fusion under Sparse Annotations and Culture Variations.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976066/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Precision Oncology"
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "肿瘤"
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 eLife，PMID 为 42974916。",
-      "report": "Tumorigenesis typically follows a multi-hit trajectory, driven by accumulating oncogenic mutations. Colorectal cancer (CRC) has long served as a paradigmatic model of multi-hit tumorigenesis, characterized by adenoma-carcinoma transition accompanied by acquisi...",
+      "fact": "PubMed 记录显示该文献收录于 IEEE journal of biomedical and health informatics，PMID 为 42976066。",
+      "report": "Optical coherence tomography (OCT), with its high resolution, deep penetration, and non-invasive characteristics, is crucial for three-dimensional (3D) imaging of organoids. However, speckle noise, low contrast, and signal disturbances arising from culture env...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -620,42 +751,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42974327",
-      "date": "2026-11-02",
-      "title": "A patient-derived organ-on-a-chip platform for predicting chemotherapy response in locally advanced colorectal cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974327/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bioengineering & translational medicine，PMID 为 42974327。",
-      "report": "Colorectal cancer (CRC) remains a leading cause of mortality, underscoring the urgent need for predictive precision medicine tools. While patient-derived organoids have advanced drug screening, they often lack the dynamic physical microenvironment found in viv...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42974405",
       "date": "2026-11-02",
       "title": "KRAS G12Y Causing a False-Positive KRAS G12C Result With an Indistinguishable PCR Pattern in Lung Adenocarcinoma.",
@@ -710,6 +805,36 @@
       "fact": "PubMed 记录显示该文献收录于 Nature reviews. Drug discovery，PMID 为 42957787。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42976402",
+      "date": "2026-11-01",
+      "title": "DNA damage response and repair signaling: Emerging biomarkers and therapeutic targets in human cancers.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42976402/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pathology, research and practice，PMID 为 42976402。",
+      "report": "Maintenance of genomic integrity is essential for proper cellular function and for protecting against malignant transformation. Prolonged exposure to endogenous and exogenous genotoxic environments results in multiple forms of DNA damage, including single-stra...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -790,40 +915,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42974497",
-      "date": "2026-10-23",
-      "title": "Hepatobiliary cancers digital twins: Integrating artificial intelligence-driven multi-omics with organoid dynamics.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974497/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of translational internal medicine，PMID 为 42974497。",
-      "report": "Static biomarkers are increasingly failing to predict outcomes in hepatobiliary cancers, largely due to the profound heterogeneity of the tumor microenvironment. Over the past decade, rapid advances in digital pathology, single-cell profiling, and spatial mult...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42974302",
       "date": "2026-10-20",
       "title": "LM2KM: feature extraction from pretrained protein and molecular language models combined with quantum mechanics (QM) features for K M predictions.",
@@ -852,34 +943,6 @@
       "fact": "PubMed 记录显示该文献收录于 Digital discovery，PMID 为 42974302。",
       "report": "The Michaelis constant (K M) is a key parameter for characterizing enzyme-substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications. However, experimental determination of K M i...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42974337",
-      "date": "2026-10-20",
-      "title": "Editorial: Bioinformatics and big data driving the discovery of clinical biomarkers for solid tumors and blood malignancies.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974337/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in genetics，PMID 为 42974337。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1157,76 +1220,6 @@
       "fact": "PubMed 记录显示该文献收录于 iMetaOmics，PMID 为 42890802。",
       "report": "Metabolomics reveals molecular changes at the metabolic level during biological processes. Recent advancements, particularly through integration with other omics and artificial intelligence (AI), are advancing metabolic data analysis and multi-omics interpreta...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42974475",
-      "date": "2026-02-19",
-      "title": "Inhibition of ferroptosis by microbiota-derived lithocholic acid underlies the intestinal radioprotection of a host defensin-derived oligopeptide.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974475/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iMeta，PMID 为 42974475。",
-      "report": "Ionizing radiation-induced intestinal injury (IRIII) reduces survival in nuclear accident victims and compromises the efficacy of abdominal radiotherapy, and current treatment options remain limited. Human defensin 5 (HD5)-derived fragments are endogenous regu...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42974644",
-      "date": "2026-02-17",
-      "title": "[Patient-derived models for chronic liver diseases and cancer and precision medicine].",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42974644/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Bulletin de l'Academie nationale de medecine，PMID 为 42974644。",
-      "report": "Chronic liver diseases and liver cancer are global public health problems for which therapeutic strategies remain unsatisfactory. The limitation of relevant models recapitulating the complexity and heterogeneity of these diseases has hampered the development o...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
