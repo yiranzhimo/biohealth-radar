@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-03T10:56:28+00:00",
-  "count": 589,
+  "capturedAt": "2026-11-04T10:59:20+00:00",
+  "count": 587,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -628,23 +628,6 @@
         ],
         "ticker": [
           "ACET"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aditxt",
-      "name": "Aditxt, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001726711",
-      "identifiers": {
-        "cik": [
-          "0001726711"
-        ],
-        "ticker": [
-          "ADTX"
         ]
       },
       "sourceTypes": [
@@ -2287,23 +2270,6 @@
         ],
         "ticker": [
           "ATXI"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-avricore-health",
-      "name": "Avricore Health Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001355736",
-      "identifiers": {
-        "cik": [
-          "0001355736"
-        ],
-        "ticker": [
-          "AVCRF"
         ]
       },
       "sourceTypes": [
