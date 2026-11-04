@@ -5755,13 +5755,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-a0ef0aba1601",
+      "id": "evidence-company-arvinas-official-9636a06551b6",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-11-02",
-      "snapshotDate": "2026-11-02",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -5779,7 +5779,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb.",
+      "fact": "The official page was captured with normalized-content hash 9636a06551b67ae559e29a732d9e0e959856b70d16c5edec28f1349b9b88d699.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -5792,7 +5792,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a0ef0aba160154876236fb8535a851ba1699b7001559379e19ad97622fa100cb",
+      "contentHash": "9636a06551b67ae559e29a732d9e0e959856b70d16c5edec28f1349b9b88d699",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -6150,15 +6150,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beone-medicines-official-7cb1d98f005b",
+      "id": "evidence-company-beone-medicines-official-3dc8a3895ee9",
       "signalId": null,
       "companyIds": [
         "beone-medicines"
       ],
-      "publishedAt": "2026-10-24",
-      "snapshotDate": "2026-10-24",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Official Website",
@@ -6174,7 +6174,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 7cb1d98f005bc8ed218d119404c0e92c3deebbb39a42bb1addf6bff8704a26b0.",
+      "fact": "The official page was captured with normalized-content hash 3dc8a3895ee9e502b96740fa73f2f92163a1c2142e042e4b03857df538b209a1.",
       "report": "公司官方页面表述：BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
       "reportOriginal": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
       "reportCn": "BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
@@ -6187,8 +6187,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "7cb1d98f005bc8ed218d119404c0e92c3deebbb39a42bb1addf6bff8704a26b0",
-      "changeType": "unchanged",
+      "contentHash": "3dc8a3895ee9e502b96740fa73f2f92163a1c2142e042e4b03857df538b209a1",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
@@ -49112,15 +49112,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-276ec0a2d6af",
+      "id": "evidence-company-illumina-official-e4ac987d684c",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-10-28",
-      "snapshotDate": "2026-10-28",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -49136,7 +49136,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 276ec0a2d6af5c5778a72fccb87c2c7a66c244a376a162a6de0cb656021cf338.",
+      "fact": "The official page was captured with normalized-content hash e4ac987d684c074aa41e869bc06393aea4b96c1f6598b59ef599737840434629.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -49149,8 +49149,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "276ec0a2d6af5c5778a72fccb87c2c7a66c244a376a162a6de0cb656021cf338",
-      "changeType": "unchanged",
+      "contentHash": "e4ac987d684c074aa41e869bc06393aea4b96c1f6598b59ef599737840434629",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -49506,15 +49506,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-e74f6d412ab3",
+      "id": "evidence-company-ionis-official-7316d8f9ccf5",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-10-24",
-      "snapshotDate": "2026-10-24",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -49530,7 +49530,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e74f6d412ab39a4dd2952981766232052be159e98247d465a77d7de47190a643.",
+      "fact": "The official page was captured with normalized-content hash 7316d8f9ccf5c73c73cd95271187d629ada6a666635fd0c6b20410e6a8d83fc0.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -49543,8 +49543,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e74f6d412ab39a4dd2952981766232052be159e98247d465a77d7de47190a643",
-      "changeType": "unchanged",
+      "contentHash": "7316d8f9ccf5c73c73cd95271187d629ada6a666635fd0c6b20410e6a8d83fc0",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
@@ -50116,15 +50116,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-084a845bc337",
+      "id": "evidence-company-natera-official-58e9865b976e",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-10-31",
-      "snapshotDate": "2026-10-31",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -50140,7 +50140,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 084a845bc3372b6a4ffcf086531c931af3c3ff36cb4d23411af2450af29016c6.",
+      "fact": "The official page was captured with normalized-content hash 58e9865b976e9a0c472ec1699806bb7c425402ef77be76beb9a05db8e00fab8b.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -50153,12 +50153,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "084a845bc3372b6a4ffcf086531c931af3c3ff36cb4d23411af2450af29016c6",
-      "changeType": "unchanged",
+      "contentHash": "58e9865b976e9a0c472ec1699806bb7c425402ef77be76beb9a05db8e00fab8b",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
-        "Natera Shares Real-World Analyses and Data at ASN Kidney Week 2026, Highlighting the Critical Need for Genetic Testing with Renasight™",
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "Medicare Expands Coverage for Signatera™ MRD Test in Hepatocellular Carcinoma",
         "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
         "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)"
       ],
@@ -50224,15 +50224,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-266953c0bb73",
+      "id": "evidence-company-nurix-official-2f6e59308181",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-10-16",
-      "snapshotDate": "2026-10-16",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -50248,7 +50248,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 266953c0bb7361f6f66d5306cd20b20c302dddcb5bb5ba8e61785b8053c8f9fd.",
+      "fact": "The official page was captured with normalized-content hash 2f6e593081819c462774fcda4ff7633c0b32e43d5f573c4671e4d11557bb0f2d.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -50261,12 +50261,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "266953c0bb7361f6f66d5306cd20b20c302dddcb5bb5ba8e61785b8053c8f9fd",
-      "changeType": "unchanged",
+      "contentHash": "2f6e593081819c462774fcda4ff7633c0b32e43d5f573c4671e4d11557bb0f2d",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-        "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
+        "Nurix Therapeutics Announces Sanofi’s Decision to Discontinue Development of STAT6 Degrader SAR448272",
         "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
         "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery."
       ],
@@ -50275,9 +50275,9 @@
       ],
       "productExcerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-        "Nurix Therapeutics Announces Second Research Term Extension for Oncology Program Under Collaboration with Gilead Sciences",
         "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-        "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders"
+        "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
+        "Our innovative and prolific DEL-AI drug discovery engine is powering the protein degradation revolution."
       ],
       "planExcerpts": []
     },
@@ -50670,15 +50670,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-recursion-official-29809ecd3dfd",
+      "id": "evidence-company-recursion-official-4c0556fcda35",
       "signalId": null,
       "companyIds": [
         "recursion"
       ],
-      "publishedAt": "2026-10-31",
-      "snapshotDate": "2026-10-31",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Pioneering AI Drug Discovery | Recursion",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Official Website",
@@ -50694,7 +50694,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 29809ecd3dfd9337af539e8fd62c14fee1ed51c0dc97bec805e722e6cd73b8b4.",
+      "fact": "The official page was captured with normalized-content hash 4c0556fcda356ce33c1643e3f20fbe8f81ff41c1bafe5336a73299487fcfaef1.",
       "report": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
       "reportOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
       "reportCn": "深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
@@ -50707,8 +50707,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "29809ecd3dfd9337af539e8fd62c14fee1ed51c0dc97bec805e722e6cd73b8b4",
-      "changeType": "unchanged",
+      "contentHash": "4c0556fcda356ce33c1643e3f20fbe8f81ff41c1bafe5336a73299487fcfaef1",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
@@ -50718,7 +50718,7 @@
       ],
       "businessExcerpts": [
         "Join our mission & explore what AI drug discovery companies can do.",
-        "Investor Relations ESG Company Materials"
+        "Investor Relations FAP Webinar 2026 ESG Company Materials"
       ],
       "productExcerpts": [
         "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
@@ -50958,15 +50958,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-94a2df1c0c26",
+      "id": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-10-31",
-      "snapshotDate": "2026-10-31",
+      "publishedAt": "2026-11-04",
+      "snapshotDate": "2026-11-04",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -50982,7 +50982,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 94a2df1c0c26e28cea9c07b56ee658120903d28a0918631d23d382f27e314a99.",
+      "fact": "The official page was captured with normalized-content hash 956d25c08ab5c17cc3d64ef75dea76dd62bcb63054ac05146bdaef0cfa2bcfc3.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -50995,8 +50995,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "94a2df1c0c26e28cea9c07b56ee658120903d28a0918631d23d382f27e314a99",
-      "changeType": "unchanged",
+      "contentHash": "956d25c08ab5c17cc3d64ef75dea76dd62bcb63054ac05146bdaef0cfa2bcfc3",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
