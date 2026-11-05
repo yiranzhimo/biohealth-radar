@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-04",
   "summary": {
     "profileCount": 620,
-    "evidenceCount": 1036,
+    "evidenceCount": 1038,
     "programCandidateCount": 0,
     "companyCandidateCount": 590,
     "companyMentionCount": 659,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 620,
-    "companyReportedCount": 618,
-    "withEvidenceCount": 618,
-    "withProductClaimsCount": 510,
+    "companyReportedCount": 620,
+    "withEvidenceCount": 620,
+    "withProductClaimsCount": 512,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 52,
+    "failedSourceCount": 53,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -8215,67 +8215,67 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。；公司官方页面表述：Alnylam 开创了 RNA 干扰治疗，一种创新的基因沉默方法。我们致力于科学，致力于为患者开发变革性药物。",
-        "summaryOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts. Alnylam has pioneered RNAi therapeutics, an innovative approach to gene silencing. We are driven by science and committed to developing transformational medicines for patients.",
+        "summary": "公司官方页面表述：Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。；公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
+        "summaryOriginal": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases. The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
+            "text": "Alnylam 的研究 RNA 干扰治疗管线专注于 TTR 淀粉样变性、心血管、代谢、神经科学、血液学、罕见病及其他疾病。",
+            "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our robust pipeline of investigational RNAi therapeutics is currently focused on diseases with high unmet need in several therapeutic areas.",
+            "text": "Our robust pipeline of investigational RNAi therapeutics is currently focused on diseases with high unmet need in several therapeutic areas.",
+            "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam clinical development pipeline as of October 2026",
+            "text": "Alnylam clinical development pipeline as of October 2026",
+            "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Learn more about the latest in Alnylam news from Capella—the destination for updates on our progress in translating the science of RNAi to innovative potential medicines.",
+            "text": "Learn more about the latest in Alnylam news from Capella—the destination for updates on our progress in translating the science of RNAi to innovative potential medicines.",
+            "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Alnylam Announces $1 Billion Share Repurchase Program and Change in Commercial Leadership",
+            "text": "Alnylam Announces $1 Billion Share Repurchase Program and Change in Commercial Leadership",
+            "evidenceId": "evidence-company-alnylam-investor_relations-15f1a46f254b",
+            "sourceUrl": "https://investors.alnylam.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
             "text": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
-            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
+            "evidenceId": "evidence-company-alnylam-investor_relations-15f1a46f254b",
             "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
-            "text": "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call",
-            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "RNAi Roundtable: Brezosiran, Targeting Exon 1 of the Huntingtin Gene to Slow Progression of Huntington’s Disease",
-            "text": "RNAi Roundtable: Brezosiran, Targeting Exon 1 of the Huntingtin Gene to Slow Progression of Huntington’s Disease",
-            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Visit our social channels to learn more about the innovative work we are doing at Alnylam.",
-            "text": "Visit our social channels to learn more about the innovative work we are doing at Alnylam.",
-            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
-            "sourceUrl": "https://investors.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
-            "text": "Our robust pipeline of investigational RNAi therapeutics is focused on both rare and prevalent diseases in several therapeutic areas.",
-            "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
-            "sourceUrl": "https://www.alnylam.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Accelerating the Future of RNAi Drug Discovery with AI",
-            "text": "Accelerating the Future of RNAi Drug Discovery with AI",
-            "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
-            "sourceUrl": "https://www.alnylam.com/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-alnylam-pipeline-ae8a015ceacb",
+          "evidence-company-alnylam-investor_relations-15f1a46f254b",
           "evidence-sec-0001178670-000117867026000076",
           "evidence-sec-0001178670-000117867026000074",
-          "evidence-company-alnylam-investor_relations-07bebc73be2a",
           "evidence-company-alnylam-official-39bb27c0bc8e",
-          "evidence-company-alnylam-pipeline-77914bacd5b2",
           "evidence-sec-0001178670-000117867026000062",
           "evidence-sec-0001178670-000117867026000060"
         ]
@@ -8283,6 +8283,28 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "date": "2026-11-05",
+            "title": "Product Development Pipeline | Alnylam",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline"
+          },
+          {
+            "id": "event-evidence-company-alnylam-investor_relations-15f1a46f254b",
+            "date": "2026-11-05",
+            "title": "Information and Resources for Investors | Alnylam",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-alnylam-investor_relations-15f1a46f254b",
+            "sourceUrl": "https://investors.alnylam.com/"
+          },
           {
             "id": "event-sec-0001178670-000117867026000076",
             "date": "2026-10-29",
@@ -8306,17 +8328,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm"
           },
           {
-            "id": "event-evidence-company-alnylam-investor_relations-07bebc73be2a",
-            "date": "2026-10-29",
-            "title": "Information and Resources for Investors | Alnylam",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
-            "sourceUrl": "https://investors.alnylam.com/"
-          },
-          {
             "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
             "date": "2026-10-24",
             "title": "The Leading RNAi Therapeutics Company | Alnylam",
@@ -8326,17 +8337,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
             "sourceUrl": "https://www.alnylam.com/"
-          },
-          {
-            "id": "event-evidence-company-alnylam-pipeline-77914bacd5b2",
-            "date": "2026-08-10",
-            "title": "Product Development Pipeline | Alnylam",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-alnylam-pipeline-77914bacd5b2",
-            "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline"
           }
         ],
         "inferences": [],
@@ -8351,7 +8351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -8359,6 +8359,28 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-alnylam-pipeline-ae8a015ceacb",
+          "date": "2026-11-05",
+          "title": "Product Development Pipeline | Alnylam",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-alnylam-pipeline-ae8a015ceacb",
+          "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline"
+        },
+        {
+          "id": "event-evidence-company-alnylam-investor_relations-15f1a46f254b",
+          "date": "2026-11-05",
+          "title": "Information and Resources for Investors | Alnylam",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-alnylam-investor_relations-15f1a46f254b",
+          "sourceUrl": "https://investors.alnylam.com/"
+        },
         {
           "id": "event-sec-0001178670-000117867026000076",
           "date": "2026-10-29",
@@ -8382,17 +8404,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm"
         },
         {
-          "id": "event-evidence-company-alnylam-investor_relations-07bebc73be2a",
-          "date": "2026-10-29",
-          "title": "Information and Resources for Investors | Alnylam",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-investor_relations-07bebc73be2a",
-          "sourceUrl": "https://investors.alnylam.com/"
-        },
-        {
           "id": "event-evidence-company-alnylam-official-39bb27c0bc8e",
           "date": "2026-10-24",
           "title": "The Leading RNAi Therapeutics Company | Alnylam",
@@ -8402,17 +8413,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
           "sourceUrl": "https://www.alnylam.com/"
-        },
-        {
-          "id": "event-evidence-company-alnylam-pipeline-77914bacd5b2",
-          "date": "2026-08-10",
-          "title": "Product Development Pipeline | Alnylam",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-alnylam-pipeline-77914bacd5b2",
-          "sourceUrl": "https://www.alnylam.com/alnylam-rnai-pipeline"
         },
         {
           "id": "event-sec-0001178670-000117867026000062",
@@ -13021,7 +13021,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
+          "2 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -13034,7 +13034,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
-          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
+          "2 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -14510,66 +14510,66 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。；公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
-        "summaryOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics. Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+        "summary": "公司官方页面表述：Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。；公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
+        "summaryOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system. Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "text": "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
+            "text": "Arvinas 的 PROTAC 降解剂管线旨在利用身体自身的蛋白质处置系统。",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "text": "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
+            "text": "Vepdegestrant is an orally bioavailable PROTAC, a type of heterobifunctional protein degrader therapy, under investigation for additional uses in treating advanced or metastatic breast cancer.",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "text": "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform.",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
+            "text": "Future regulatory approval or commercial availability of these pipeline products is not guaranteed.",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "text": "Partnerships are a Pivotal Part of Our Process We partner with leading drug companies, academic experts, and innovative partners to further broaden and accelerate our clinical programs.",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
+            "text": "Thus, there remains an unmet need for novel mechanisms (like BCL6 degradation) and drug combinations that may be able to improve clinical outcomes.",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
-            "text": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
+            "text": "Arvinas Presents Late Breaking, Positive Phase 1 Clinical Data for ARV-102, a PROTAC LRRK2 Degrader, at the 2025 International Congress of Parkinson’s Disease and Movement Disorders®.",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
-            "text": "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation",
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
-            "sourceUrl": "https://www.arvinas.com/",
+            "textOriginal": "Diseases of Interest for Development: Progressive supranuclear palsy (PSP) and Parkinson’s disease are neurodegenerative diseases characterized by abnormal protein misfolding and have overlapping clinical phenotypes associated with movement disorders.",
+            "text": "Diseases of Interest for Development: Progressive supranuclear palsy (PSP) and Parkinson’s disease are neurodegenerative diseases characterized by abnormal protein misfolding and have overlapping clinical phenotypes associated with movement disorders.",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-arvinas-official-9636a06551b6",
+          "evidence-company-arvinas-pipeline-f3abb305f229",
+          "evidence-company-arvinas-official-1ae90e36b16f",
           "evidence-sec-0001655759-000162828026069464",
           "evidence-sec-0001655759-000162828026069101",
-          "evidence-company-arvinas-pipeline-a8299650c0ce",
           "evidence-company-arvinas-investor_relations-f6268a29f016",
           "evidence-sec-0001655759-000162828026052554",
           "evidence-sec-0001655759-000162828026052139"
@@ -14584,21 +14584,32 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "translation": null,
             "claimType": "Report",
             "attribution": "Arvinas — Pipeline Page",
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
             "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/",
             "needsReview": true
           }
         ],
         "observedMoves": [
           {
-            "id": "event-evidence-company-arvinas-official-9636a06551b6",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-arvinas-pipeline-f3abb305f229",
+            "date": "2026-11-05",
+            "title": "Pipeline | Arvinas",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
+          },
+          {
+            "id": "event-evidence-company-arvinas-official-1ae90e36b16f",
+            "date": "2026-11-05",
             "title": "Targeted Protein Degradation Therapeutics | Arvinas",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
+            "evidenceId": "evidence-company-arvinas-official-1ae90e36b16f",
             "sourceUrl": "https://www.arvinas.com/"
           },
           {
@@ -14622,17 +14633,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001655759-000162828026069101",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/arvn-20261103.htm"
-          },
-          {
-            "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
-            "date": "2026-10-29",
-            "title": "Pipeline | Arvinas",
-            "eventType": "Official Source Update",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-            "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
           },
           {
             "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -14659,7 +14659,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -14669,14 +14669,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-arvinas-official-9636a06551b6",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-arvinas-pipeline-f3abb305f229",
+          "date": "2026-11-05",
+          "title": "Pipeline | Arvinas",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-arvinas-pipeline-f3abb305f229",
+          "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
+        },
+        {
+          "id": "event-evidence-company-arvinas-official-1ae90e36b16f",
+          "date": "2026-11-05",
           "title": "Targeted Protein Degradation Therapeutics | Arvinas",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-official-9636a06551b6",
+          "evidenceId": "evidence-company-arvinas-official-1ae90e36b16f",
           "sourceUrl": "https://www.arvinas.com/"
         },
         {
@@ -14700,17 +14711,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001655759-000162828026069101",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1655759/000162828026069101/arvn-20261103.htm"
-        },
-        {
-          "id": "event-evidence-company-arvinas-pipeline-a8299650c0ce",
-          "date": "2026-10-29",
-          "title": "Pipeline | Arvinas",
-          "eventType": "Official Source Update",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-arvinas-pipeline-a8299650c0ce",
-          "sourceUrl": "https://www.arvinas.com/research-and-development/pipeline/"
         },
         {
           "id": "event-evidence-company-arvinas-investor_relations-f6268a29f016",
@@ -18662,7 +18662,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-azora-therapeutics-inc-de",
       "name": "Azora Therapeutics, Inc. (DE)",
       "asOfDate": "2026-11-04",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "AZR",
@@ -18693,40 +18693,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "date": "2026-11-05",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+          "date": "2026-11-05",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-azora-therapeutics-inc-de-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001513525"
+        }
+      ]
     },
     {
       "companyId": "candidate-b-and-k",
@@ -20245,7 +20302,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
             "text": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20253,15 +20310,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
             "text": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
-            "sourceUrl": "https://beonemedicines.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
-            "text": "BeOne Medicines and Revolution Medicines Announce Clinical Development and Regional Commercialization Collaboration",
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20269,7 +20318,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
             "text": "BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20277,7 +20326,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
             "text": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BeOne Medicines Announces Third Quarter 2026 Financial Results and Business Updates",
+            "text": "BeOne Medicines Announces Third Quarter 2026 Financial Results and Business Updates",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
             "sourceUrl": "https://beonemedicines.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -20293,7 +20350,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-beone-medicines-official-3dc8a3895ee9",
+          "evidence-company-beone-medicines-official-8a89bf1db317",
           "evidence-sec-0001651308-000165130826000025",
           "evidence-company-beone-medicines-pipeline-cad9773572ea",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
@@ -20305,14 +20362,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-beone-medicines-official-3dc8a3895ee9",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-beone-medicines-official-8a89bf1db317",
+            "date": "2026-11-05",
             "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
             "sourceUrl": "https://beonemedicines.com/"
           },
           {
@@ -20372,7 +20429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20381,14 +20438,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-beone-medicines-official-3dc8a3895ee9",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-beone-medicines-official-8a89bf1db317",
+          "date": "2026-11-05",
           "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-beone-medicines-official-3dc8a3895ee9",
+          "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
           "sourceUrl": "https://beonemedicines.com/"
         },
         {
@@ -27516,17 +27573,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Recent News C4 Therapeutics Unveils Expansion of Discovery Platform Capabilities Utilizing Target-Centric Approach to Accelerate the Identification of Novel Molecular Glue Degraders",
-            "text": "Recent News C4 Therapeutics Unveils Expansion of Discovery Platform Capabilities Utilizing Target-Centric Approach to Accelerate the Identification of Novel Molecular Glue Degraders",
-            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+            "textOriginal": "Learn About Targeted Protein Degradation",
+            "text": "了解靶向蛋白降解。",
+            "evidenceId": "evidence-company-c4-therapeutics-official-16b99d4f82cc",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Learn About Targeted Protein Degradation",
-            "text": "了解靶向蛋白降解。",
-            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+            "textOriginal": "Recent News C4 Therapeutics Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
+            "text": "Recent News C4 Therapeutics Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
+            "evidenceId": "evidence-company-c4-therapeutics-official-16b99d4f82cc",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27534,7 +27591,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
             "text": "490 Arsenal Way, Suite 120 Watertown, MA 02472 © 2026 C4 Therapeutics, Inc.",
-            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+            "evidenceId": "evidence-company-c4-therapeutics-official-16b99d4f82cc",
             "sourceUrl": "https://c4therapeutics.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -27542,7 +27599,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+          "evidence-company-c4-therapeutics-official-16b99d4f82cc",
           "evidence-sec-0001662579-000162828026063497",
           "evidence-sec-0001662579-000162828026055494",
           "evidence-sec-0001662579-000162828026055490"
@@ -27552,14 +27609,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
-            "date": "2026-10-29",
+            "id": "event-evidence-company-c4-therapeutics-official-16b99d4f82cc",
+            "date": "2026-11-05",
             "title": "Home - C4 Therapeutics",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+            "evidenceId": "evidence-company-c4-therapeutics-official-16b99d4f82cc",
             "sourceUrl": "https://c4therapeutics.com/"
           },
           {
@@ -27608,7 +27665,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 1,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -27617,14 +27674,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-c4-therapeutics-official-b1eefbcae8f6",
-          "date": "2026-10-29",
+          "id": "event-evidence-company-c4-therapeutics-official-16b99d4f82cc",
+          "date": "2026-11-05",
           "title": "Home - C4 Therapeutics",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-c4-therapeutics-official-b1eefbcae8f6",
+          "evidenceId": "evidence-company-c4-therapeutics-official-16b99d4f82cc",
           "sourceUrl": "https://c4therapeutics.com/"
         },
         {
@@ -28135,7 +28192,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-calico-pipeline-bce445e38a29",
             "date": "2026-10-29",
             "title": "Home - Calico",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -28177,7 +28234,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-calico-pipeline-bce445e38a29",
           "date": "2026-10-29",
           "title": "Home - Calico",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -37803,7 +37860,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-candidate-diagens-official-7977dd0a56f0",
             "date": "2026-10-29",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -37834,7 +37891,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-candidate-diagens-official-7977dd0a56f0",
           "date": "2026-10-29",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -39004,7 +39061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
             "date": "2026-10-29",
             "title": "Emulate Organ-Chip Products",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -39046,7 +39103,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-emulate-pipeline-379202c5c9b2",
           "date": "2026-10-29",
           "title": "Emulate Organ-Chip Products",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -42968,7 +43025,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
             "date": "2026-10-29",
             "title": "For Investors | Guardant Health Investor Relations",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -43044,7 +43101,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-guardant-health-investor_relations-f157425f10df",
           "date": "2026-10-29",
           "title": "For Investors | Guardant Health Investor Relations",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -45264,7 +45321,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-illumina-official-e4ac987d684c",
             "date": "2026-11-04",
             "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -45340,7 +45397,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-illumina-official-e4ac987d684c",
           "date": "2026-11-04",
           "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -49130,7 +49187,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-7316d8f9ccf5",
             "date": "2026-11-04",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49206,7 +49263,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-7316d8f9ccf5",
           "date": "2026-11-04",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -52373,17 +52430,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
-            "text": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
+            "textOriginal": "Our news Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
+            "text": "Our news Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
-            "text": "Legend Biotech to Present Updated Long-Term and Real-World Evidence from CARVYKTI Clinical Program at the International Myeloma Society Annual Meeting",
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
+            "textOriginal": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
+            "text": "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52391,7 +52448,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
             "text": "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52399,7 +52456,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy",
             "text": "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy",
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52407,7 +52464,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
             "text": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
             "sourceUrl": "https://legendbiotech.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -52423,8 +52480,8 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-legend-biotech-official-3aac46754f2c",
           "evidence-sec-0001801198-000117184326007100",
-          "evidence-company-legend-biotech-official-a281b2e81ad6",
           "evidence-sec-0001801198-000117184326006646",
           "evidence-sec-0001801198-000117184326006593",
           "evidence-sec-0001801198-000117184326006229",
@@ -52461,6 +52518,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "observedMoves": [
           {
+            "id": "event-evidence-company-legend-biotech-official-3aac46754f2c",
+            "date": "2026-11-05",
+            "title": "HOME - Legend Biotech",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
+            "sourceUrl": "https://legendbiotech.com/"
+          },
+          {
             "id": "event-sec-0001801198-000117184326007100",
             "date": "2026-11-04",
             "title": "Legend Biotech filed Form 6-K",
@@ -52470,17 +52538,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-sec-0001801198-000117184326007100",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm"
-          },
-          {
-            "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
-            "date": "2026-10-28",
-            "title": "HOME - Legend Biotech",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
-            "sourceUrl": "https://legendbiotech.com/"
           },
           {
             "id": "event-sec-0001801198-000117184326006646",
@@ -52529,7 +52586,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 12
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52538,6 +52595,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-legend-biotech-official-3aac46754f2c",
+          "date": "2026-11-05",
+          "title": "HOME - Legend Biotech",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-legend-biotech-official-3aac46754f2c",
+          "sourceUrl": "https://legendbiotech.com/"
+        },
         {
           "id": "event-sec-0001801198-000117184326007100",
           "date": "2026-11-04",
@@ -52548,17 +52616,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-sec-0001801198-000117184326007100",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm"
-        },
-        {
-          "id": "event-evidence-company-legend-biotech-official-a281b2e81ad6",
-          "date": "2026-10-28",
-          "title": "HOME - Legend Biotech",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-legend-biotech-official-a281b2e81ad6",
-          "sourceUrl": "https://legendbiotech.com/"
         },
         {
           "id": "event-sec-0001801198-000117184326006646",
@@ -55869,7 +55926,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
             "date": "2026-10-29",
             "title": "Organ-on-a-Chip Technology | OrganoPlate® Platform by MIMETAS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -55923,7 +55980,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
           "date": "2026-10-29",
           "title": "Organ-on-a-Chip Technology | OrganoPlate® Platform by MIMETAS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -57684,7 +57741,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-58e9865b976e",
+            "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Signatera™ in Head and Neck Cancer: Three New Publications Demonstrate Strong Clinical Performance and Actionability",
+            "text": "Signatera™ in Head and Neck Cancer: Three New Publications Demonstrate Strong Clinical Performance and Actionability",
+            "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57692,15 +57757,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Medicare Expands Coverage for Signatera™ MRD Test in Hepatocellular Carcinoma",
             "text": "Medicare Expands Coverage for Signatera™ MRD Test in Hepatocellular Carcinoma",
-            "evidenceId": "evidence-company-natera-official-58e9865b976e",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-            "text": "Signatera™ Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
-            "evidenceId": "evidence-company-natera-official-58e9865b976e",
+            "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57708,7 +57765,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-58e9865b976e",
+            "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -57732,7 +57789,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-58e9865b976e",
+          "evidence-company-natera-official-99d3fbe22b97",
           "evidence-company-natera-pipeline-d6265767b3d9",
           "evidence-company-natera-investor_relations-57a971bfd0f7",
           "evidence-sec-0001604821-000162828026054525",
@@ -57744,14 +57801,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-58e9865b976e",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-natera-official-99d3fbe22b97",
+            "date": "2026-11-05",
             "title": "Natera: A global leader in cell-free DNA testing",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-58e9865b976e",
+            "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -57811,7 +57868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 3
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -57820,14 +57877,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-58e9865b976e",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-natera-official-99d3fbe22b97",
+          "date": "2026-11-05",
           "title": "Natera: A global leader in cell-free DNA testing",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-58e9865b976e",
+          "evidenceId": "evidence-company-natera-official-99d3fbe22b97",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -59020,55 +59077,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。；公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。",
-        "summaryOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment. Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline.",
+        "summary": "公司官方页面表述：Nurix正在将靶向蛋白降解的科学转化为有潜力成为突破性疗法的候选药物。查看我们的管道。；公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
+        "summaryOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies. View our pipeline. Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "This innovative compound is being developed as part of Nurix’s immuno-oncology program and is currently being evaluated in advanced malignancies.",
+            "text": "This innovative compound is being developed as part of Nurix’s immuno-oncology program and is currently being evaluated in advanced malignancies.",
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "While BTK inhibitors have shown clinical success, drug resistance often emerges due to acquired mutations in BTK.",
+            "text": "While BTK inhibitors have shown clinical success, drug resistance often emerges due to acquired mutations in BTK.",
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies.",
+            "text": "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies.",
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "CBL-B achieves this immunosuppressive effect through the degradation of specific inhibitory signaling proteins downstream of the T cell receptor.",
+            "text": "CBL-B achieves this immunosuppressive effect through the degradation of specific inhibitory signaling proteins downstream of the T cell receptor.",
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BTK is a master regulator of B-cell activity and is a clinically validated target for hematologic malignancies.",
+            "text": "BTK is a master regulator of B-cell activity and is a clinically validated target for hematologic malignancies.",
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
             "text": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-            "text": "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology.",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
-            "text": "Degraders Degrader-Antibody Conjugates (DACs) The DEL-AI Advantage Our Pipeline Degraders",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Our innovative and prolific DEL-AI drug discovery engine is powering the protein degradation revolution.",
-            "text": "Our innovative and prolific DEL-AI drug discovery engine is powering the protein degradation revolution.",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nurix Therapeutics Announces Sanofi’s Decision to Discontinue Development of STAT6 Degrader SAR448272",
-            "text": "Nurix Therapeutics Announces Sanofi’s Decision to Discontinue Development of STAT6 Degrader SAR448272",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
-            "sourceUrl": "https://www.nurixtx.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-            "text": "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
+            "evidenceId": "evidence-company-nurix-official-5a2d73dac88a",
             "sourceUrl": "https://www.nurixtx.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59076,9 +59133,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nurix-official-2f6e59308181",
+          "evidence-company-nurix-pipeline-cd1af4e70b83",
+          "evidence-company-nurix-official-5a2d73dac88a",
           "evidence-sec-0001549595-000154959526000055",
-          "evidence-company-nurix-pipeline-aefedb6a65da",
           "evidence-sec-0001549595-000154959526000049",
           "evidence-sec-0001549595-000154959526000048",
           "evidence-sec-0001549595-000154959526000040",
@@ -59089,14 +59146,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nurix-official-2f6e59308181",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-nurix-pipeline-cd1af4e70b83",
+            "date": "2026-11-05",
+            "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+            "sourceUrl": "https://www.nurixtx.com/pipeline/"
+          },
+          {
+            "id": "event-evidence-company-nurix-official-5a2d73dac88a",
+            "date": "2026-11-05",
             "title": "Nurix | Medicines to Outmatch Disease",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nurix-official-2f6e59308181",
+            "evidenceId": "evidence-company-nurix-official-5a2d73dac88a",
             "sourceUrl": "https://www.nurixtx.com/"
           },
           {
@@ -59109,17 +59177,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001549595-000154959526000055",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000055/nrix-20261103.htm"
-          },
-          {
-            "id": "event-evidence-company-nurix-pipeline-aefedb6a65da",
-            "date": "2026-10-22",
-            "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-nurix-pipeline-aefedb6a65da",
-            "sourceUrl": "https://www.nurixtx.com/pipeline/"
           },
           {
             "id": "event-sec-0001549595-000154959526000049",
@@ -59156,7 +59213,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59165,14 +59222,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nurix-official-2f6e59308181",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-nurix-pipeline-cd1af4e70b83",
+          "date": "2026-11-05",
+          "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-nurix-pipeline-cd1af4e70b83",
+          "sourceUrl": "https://www.nurixtx.com/pipeline/"
+        },
+        {
+          "id": "event-evidence-company-nurix-official-5a2d73dac88a",
+          "date": "2026-11-05",
           "title": "Nurix | Medicines to Outmatch Disease",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nurix-official-2f6e59308181",
+          "evidenceId": "evidence-company-nurix-official-5a2d73dac88a",
           "sourceUrl": "https://www.nurixtx.com/"
         },
         {
@@ -59185,17 +59253,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001549595-000154959526000055",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000055/nrix-20261103.htm"
-        },
-        {
-          "id": "event-evidence-company-nurix-pipeline-aefedb6a65da",
-          "date": "2026-10-22",
-          "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-nurix-pipeline-aefedb6a65da",
-          "sourceUrl": "https://www.nurixtx.com/pipeline/"
         },
         {
           "id": "event-sec-0001549595-000154959526000049",
@@ -59411,7 +59468,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59419,7 +59476,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59427,7 +59484,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59435,7 +59492,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
             "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
+            "text": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59443,15 +59508,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nykode Therapeutics to Present Trial-in-Progress Poster Highlighting the Design ...",
             "text": "Nykode Therapeutics to Present Trial-in-Progress Poster Highlighting the Design ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
-            "sourceUrl": "https://nykode.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nykode Therapeutics receives ruling from Tax Appeal Board in ...",
-            "text": "Nykode Therapeutics receives ruling from Tax Appeal Board in ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59459,7 +59516,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-131d209674c4",
+          "evidence-company-nykode-therapeutics-official-67383b195cc6",
           "evidence-company-nykode-therapeutics-pipeline-d5568715734e",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -59468,14 +59525,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-131d209674c4",
-            "date": "2026-10-24",
+            "id": "event-evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "date": "2026-11-05",
             "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -59512,7 +59569,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-10-24",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59521,14 +59578,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-131d209674c4",
-          "date": "2026-10-24",
+          "id": "event-evidence-company-nykode-therapeutics-official-67383b195cc6",
+          "date": "2026-11-05",
           "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-131d209674c4",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
           "sourceUrl": "https://nykode.com/"
         },
         {
@@ -63704,55 +63761,55 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！；公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。",
-        "summaryOriginal": "Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today! Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today!",
+        "summary": "公司官方页面表述：探索 Recursion 持续发展的药物发现管线，了解其发展历程中的创新与突破，并进一步深入了解公司。；公司官方页面表述：深入了解 Recursion 解码生物学的创新方法。加入我们的使命，探索人工智能药物发现公司能够做什么。立即联系我们！",
+        "summaryOriginal": "Explore Recursion's dynamic drug discovery pipeline. Witness the innovations and breakthroughs in our journey. Dive deeper with us today! Dive into Recursion's innovative approach to decoding biology. Join our mission & explore what AI drug discovery companies can do. Contact us today!",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
-            "text": "A portfolio of differentiated investigational medicines built on our AI drug discovery and development platform",
-            "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
-            "sourceUrl": "https://recursion.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
-            "text": "For each program, the differentiation is driven by our AI-enabled product engine – from novel biology to precision design to clinical development.",
-            "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
-            "sourceUrl": "https://recursion.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
-            "text": "Take a look inside our automated labs to see how our AI-enabled, end-to-end drug discovery and development engine works as one system, tightly connecting biology, precision design, and translational clinical tools to systematically de-risk drug discovery.",
-            "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
-            "sourceUrl": "https://recursion.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners.",
-            "text": "We apply our AI-native product engine to overcome specific therapeutic challenges – from identifying novel disease targets to precision designing molecules against historically challenging targets — with a strong track record of delivering “AI-firsts” for our partners.",
-            "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
-            "sourceUrl": "https://recursion.com/",
+            "textOriginal": "We’re building a pipeline of differentiated, potential best-in-class and first-in-class medicines, by leveraging the power of our AI-driven drug discovery and development platform.",
+            "text": "We’re building a pipeline of differentiated, potential best-in-class and first-in-class medicines, by leveraging the power of our AI-driven drug discovery and development platform.",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+            "sourceUrl": "https://recursion.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Explore Recursion's dynamic drug discovery pipeline.",
             "text": "Explore Recursion's dynamic drug discovery pipeline.",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
             "sourceUrl": "https://recursion.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "We will consider applications to provide the investigational drug that will not, among other things, compromise the scientific validity of our broader development programs, or interfere with or delay clinical trials or regulatory filings designed to make the drug available to a…",
-            "text": "We will consider applications to provide the investigational drug that will not, among other things, compromise the scientific validity of our broader development programs, or interfere with or delay clinical trials or regulatory filings designed to make the drug available to a…",
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
+            "textOriginal": "Recursion’s internal pipeline is focused on indications with high unmet need, including oncology and rare disease.",
+            "text": "Recursion’s internal pipeline is focused on indications with high unmet need, including oncology and rare disease.",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+            "sourceUrl": "https://recursion.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "RBM39 was identified using phenotypic insights from our AI-native product engine, and is a novel DDR target mimicking CDK12 loss.",
+            "text": "RBM39 was identified using phenotypic insights from our AI-native product engine, and is a novel DDR target mimicking CDK12 loss.",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+            "sourceUrl": "https://recursion.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease expected to enter Phase 1 clinical trials in 2027",
+            "text": "First development candidate optioned by Sanofi (October 2026): a potential first-in-class oral small molecule for a dual target in inflammatory disease expected to enter Phase 1 clinical trials in 2027",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+            "sourceUrl": "https://recursion.com/pipeline",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Learn more about Recursion’s ongoing rare disease and oncology clinical trials, addressing unmet medical needs and focusing on conditions where new options for patients are needed most.",
+            "text": "Learn more about Recursion’s ongoing rare disease and oncology clinical trials, addressing unmet medical needs and focusing on conditions where new options for patients are needed most.",
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
             "sourceUrl": "https://recursion.com/pipeline",
             "needsReview": true,
             "claimType": "Report"
@@ -63760,10 +63817,10 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-recursion-official-4c0556fcda35",
+          "evidence-company-recursion-pipeline-2ca97f10cd01",
+          "evidence-company-recursion-official-7f9f8be1d9b1",
           "evidence-sec-0001601830-000160183026000145",
           "evidence-sec-0001601830-000160183026000144",
-          "evidence-company-recursion-pipeline-f4c3ef602fcc",
           "evidence-sec-0001601830-000160183026000134",
           "evidence-sec-0001601830-000160183026000128",
           "evidence-sec-0001601830-000160183026000126",
@@ -63777,14 +63834,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-recursion-official-4c0556fcda35",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-recursion-pipeline-2ca97f10cd01",
+            "date": "2026-11-05",
+            "title": "Recursion's Drug Discovery Pipeline | Recursion",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+            "sourceUrl": "https://recursion.com/pipeline"
+          },
+          {
+            "id": "event-evidence-company-recursion-official-7f9f8be1d9b1",
+            "date": "2026-11-05",
             "title": "Pioneering AI Drug Discovery | Recursion",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
+            "evidenceId": "evidence-company-recursion-official-7f9f8be1d9b1",
             "sourceUrl": "https://recursion.com/"
           },
           {
@@ -63808,17 +63876,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001601830-000160183026000144",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm"
-          },
-          {
-            "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "date": "2026-10-22",
-            "title": "Recursion's Drug Discovery Pipeline | Recursion",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-            "sourceUrl": "https://recursion.com/pipeline"
           },
           {
             "id": "event-sec-0001601830-000160183026000134",
@@ -63845,7 +63902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63855,14 +63912,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-recursion-official-4c0556fcda35",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-recursion-pipeline-2ca97f10cd01",
+          "date": "2026-11-05",
+          "title": "Recursion's Drug Discovery Pipeline | Recursion",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-recursion-pipeline-2ca97f10cd01",
+          "sourceUrl": "https://recursion.com/pipeline"
+        },
+        {
+          "id": "event-evidence-company-recursion-official-7f9f8be1d9b1",
+          "date": "2026-11-05",
           "title": "Pioneering AI Drug Discovery | Recursion",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-recursion-official-4c0556fcda35",
+          "evidenceId": "evidence-company-recursion-official-7f9f8be1d9b1",
           "sourceUrl": "https://recursion.com/"
         },
         {
@@ -63886,17 +63954,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001601830-000160183026000144",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000144/rxrx-20261031.htm"
-        },
-        {
-          "id": "event-evidence-company-recursion-pipeline-f4c3ef602fcc",
-          "date": "2026-10-22",
-          "title": "Recursion's Drug Discovery Pipeline | Recursion",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-recursion-pipeline-f4c3ef602fcc",
-          "sourceUrl": "https://recursion.com/pipeline"
         },
         {
           "id": "event-sec-0001601830-000160183026000134",
@@ -64769,7 +64826,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-retro-biosciences-pipeline-9a3581ee2444",
             "date": "2026-10-29",
             "title": "Retro Biosciences",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64811,7 +64868,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-retro-biosciences-pipeline-9a3581ee2444",
           "date": "2026-10-29",
           "title": "Retro Biosciences",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -68241,7 +68298,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
             "text": "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68249,7 +68306,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "iPS Cell-Derived Product Transportation Project",
             "text": "iPS Cell-Derived Product Transportation Project",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68257,7 +68314,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
             "text": "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68265,7 +68322,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
             "text": "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -68273,15 +68330,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
             "text": "Here you can search for the strengths of Sumitomo Pharma’s business, Sumitomo Pharma’s initiatives, and other information that interests you by selecting tags.",
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB）",
-            "text": "Sumitomo Pharma America Announces Enzomenib (DSP-5336) Receives FDA Breakthrough Therapy Designation for Treatment of R/R KMT2A-Rearranged Acute Leukemia（PDF/140KB）",
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+            "textOriginal": "External Evaluation of Our Sustainability Program",
+            "text": "External Evaluation of Our Sustainability Program",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
             "sourceUrl": "https://www.sumitomo-pharma.com/ir/",
             "needsReview": true,
             "claimType": "Report"
@@ -68289,33 +68346,33 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-sumitomo-pharma-official-956d25c08ab5",
-          "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73"
+          "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
+          "evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-sumitomo-pharma-official-956d25c08ab5",
-            "date": "2026-11-04",
+            "id": "event-evidence-company-sumitomo-pharma-official-51e8d03fc3da",
+            "date": "2026-11-05",
             "title": "Sumitomo Pharma Co., Ltd.",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+            "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
             "sourceUrl": "https://www.sumitomo-pharma.com/"
           },
           {
-            "id": "event-evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
-            "date": "2026-10-29",
+            "id": "event-evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
+            "date": "2026-11-05",
             "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+            "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
             "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
           }
         ],
@@ -68330,7 +68387,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-11-04",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -68339,25 +68396,25 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-sumitomo-pharma-official-956d25c08ab5",
-          "date": "2026-11-04",
+          "id": "event-evidence-company-sumitomo-pharma-official-51e8d03fc3da",
+          "date": "2026-11-05",
           "title": "Sumitomo Pharma Co., Ltd.",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-official-956d25c08ab5",
+          "evidenceId": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
           "sourceUrl": "https://www.sumitomo-pharma.com/"
         },
         {
-          "id": "event-evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
-          "date": "2026-10-29",
+          "id": "event-evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
+          "date": "2026-11-05",
           "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-bc9525204f73",
+          "evidenceId": "evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
           "sourceUrl": "https://www.sumitomo-pharma.com/ir/"
         }
       ]
@@ -69587,7 +69644,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Lens is an analytical platform that enables researchers to quickly find, access, and analyze multimodal data and uncover critical insights to accelerate innovation",
             "text": "Lens is an analytical platform that enables researchers to quickly find, access, and analyze multimodal data and uncover critical insights to accelerate innovation",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69595,7 +69652,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Hub is a secure platform that streamlines providers workflows and gives access to patient insights",
             "text": "Hub is a secure platform that streamlines providers workflows and gives access to patient insights",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69603,7 +69660,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Next is an AI-enabled care pathway platform that helps providers deliver the next step in a patient’s care journey",
             "text": "Next is an AI-enabled care pathway platform that helps providers deliver the next step in a patient’s care journey",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69611,7 +69668,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
             "text": "Tempus 是一家技术公司，通过在医疗保健中应用人工智能，包括生成式人工智能，推动精准医学的发展，以创建智能诊断。",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69619,7 +69676,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "With one of the world’s largest libraries of clinical and molecular data, and an operating system to make that data accessible and useful, Tempus enables physicians to make near real-time, data-driven decisions to deliver personalized patient care.",
             "text": "With one of the world’s largest libraries of clinical and molecular data, and an operating system to make that data accessible and useful, Tempus enables physicians to make near real-time, data-driven decisions to deliver personalized patient care.",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69627,7 +69684,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The goal is for each patient to benefit from the treatment of others who came before by providing physicians and researchers with tools that learn as the company gathers more data.",
             "text": "The goal is for each patient to benefit from the treatment of others who came before by providing physicians and researchers with tools that learn as the company gathers more data.",
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
             "sourceUrl": "https://investors.tempus.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
@@ -69635,9 +69692,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
           "evidence-sec-0001717115-000119312526442624",
           "evidence-sec-0001717115-000119312526442619",
-          "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
           "evidence-sec-0001717115-000119312526429533",
           "evidence-sec-0001717115-000119312526427866",
           "evidence-sec-0001717115-000119312526326090",
@@ -69649,6 +69706,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
+            "date": "2026-11-05",
+            "title": "Investor Relations | Tempus AI, Inc.",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
+            "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
+          },
           {
             "id": "event-sec-0001717115-000119312526442624",
             "date": "2026-11-02",
@@ -69670,17 +69738,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001717115-000119312526442619",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
-          },
-          {
-            "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
-            "date": "2026-10-29",
-            "title": "Investor Relations | Tempus AI, Inc.",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
-            "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
           },
           {
             "id": "event-sec-0001717115-000119312526429533",
@@ -69717,7 +69774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 1,
           "Filing": 8
         },
-        "lastEvidenceDate": "2026-11-02",
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -69725,6 +69782,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
+          "date": "2026-11-05",
+          "title": "Investor Relations | Tempus AI, Inc.",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-tempus-ai-investor_relations-9ebdba60dc3e",
+          "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
+        },
         {
           "id": "event-sec-0001717115-000119312526442624",
           "date": "2026-11-02",
@@ -69746,17 +69814,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001717115-000119312526442619",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-20261102.htm"
-        },
-        {
-          "id": "event-evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
-          "date": "2026-10-29",
-          "title": "Investor Relations | Tempus AI, Inc.",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-tempus-ai-investor_relations-0966f15fbd7f",
-          "sourceUrl": "https://investors.tempus.com/overview/default.aspx"
         },
         {
           "id": "event-sec-0001717115-000119312526429533",
@@ -74166,7 +74223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-windward-bio-group",
       "name": "Windward Bio Group AG",
       "asOfDate": "2026-11-04",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "WWB",
@@ -74197,40 +74254,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Biological Products, Except Diagnostic Substances；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-windward-bio-group-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "date": "2026-11-05",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-windward-bio-group-official-c644ef580088",
+          "date": "2026-11-05",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-windward-bio-group-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002145089"
+        }
+      ]
     },
     {
       "companyId": "candidate-wuxi-apptec",
