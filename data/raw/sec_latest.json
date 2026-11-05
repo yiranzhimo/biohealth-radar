@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-11-04T19:50:25.150747+00:00",
+  "capturedAt": "2026-11-05T20:02:05.837045+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-21",
-    "end": "2026-11-04"
+    "start": "2026-10-22",
+    "end": "2026-11-05"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,183 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-05",
+      "acceptanceDateTime": "2026-11-05T16:04:00.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-38976",
+      "filmNumber": "261525574",
+      "items": "",
+      "size": 1299981,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "gmab_202601105x6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001434265-26-000146",
+      "companyId": "genmab",
+      "companyName": "Genmab",
+      "companyDirections": [
+        "Antibody / ADC"
+      ],
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/gmab_202601105x6k.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-05",
+      "acceptanceDateTime": "2026-11-05T13:15:13.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37766",
+      "filmNumber": "261524957",
+      "items": "2.02,9.01",
+      "size": 399746,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "ntla-20261105.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001193125-26-448673",
+      "companyId": "intellia",
+      "companyName": "Intellia Therapeutics",
+      "companyDirections": [
+        "Gene Editing"
+      ],
+      "secTicker": "NTLA",
+      "cik": "0001652130",
+      "secName": "Intellia Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526448673/ntla-20261105.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-02",
+      "acceptanceDateTime": "2026-11-05T12:37:11.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-36407",
+      "filmNumber": "261524833",
+      "items": "5.02,8.01",
+      "size": 152484,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "alny-20261102.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001178670-26-000080",
+      "companyId": "alnylam",
+      "companyName": "Alnylam Pharmaceuticals",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "ALNY",
+      "cik": "0001178670",
+      "secName": "ALNYLAM PHARMACEUTICALS, INC.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-05T12:24:51.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-39567",
+      "filmNumber": "261524792",
+      "items": "",
+      "size": 7019231,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "cccc-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-070575",
+      "companyId": "c4-therapeutics",
+      "companyName": "C4 Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "CCCC",
+      "cik": "0001662579",
+      "secName": "C4 Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070575/cccc-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-05",
+      "acceptanceDateTime": "2026-11-05T12:15:01.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-39567",
+      "filmNumber": "261524761",
+      "items": "2.02,9.01",
+      "size": 2051378,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "cccc-20261105.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001628280-26-070560",
+      "companyId": "c4-therapeutics",
+      "companyName": "C4 Therapeutics",
+      "companyDirections": [
+        "Targeted Protein Degradation"
+      ],
+      "secTicker": "CCCC",
+      "cik": "0001662579",
+      "secName": "C4 Therapeutics, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/cccc-20261105.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-05T11:08:40.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-37686",
+      "filmNumber": "261524527",
+      "items": "",
+      "size": 13955766,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "bgne-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001628280-26-070477",
+      "companyId": "beone-medicines",
+      "companyName": "BeOne Medicines",
+      "companyDirections": [
+        "Antibody / ADC",
+        "Oncology"
+      ],
+      "secTicker": "ONC",
+      "cik": "0001651308",
+      "secName": "BeOne Medicines Ltd.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070477/bgne-20260930.htm"
+    },
+    {
+      "filingDate": "2026-11-05",
+      "reportDate": "2026-11-05",
+      "acceptanceDateTime": "2026-11-05T11:04:46.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37686",
+      "filmNumber": "261524499",
+      "items": "2.02,9.01",
+      "size": 2508536,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "bgne-20261105.htm",
+      "primaryDocDescription": "8-K",
+      "accessionNumber": "0001628280-26-070469",
+      "companyId": "beone-medicines",
+      "companyName": "BeOne Medicines",
+      "companyDirections": [
+        "Antibody / ADC",
+        "Oncology"
+      ],
+      "secTicker": "ONC",
+      "cik": "0001651308",
+      "secName": "BeOne Medicines Ltd.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/bgne-20261105.htm"
+    },
     {
       "filingDate": "2026-11-04",
       "reportDate": "2026-11-03",
@@ -716,60 +893,228 @@
       "cik": "0001717115",
       "secName": "Tempus AI, Inc.",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
-    },
-    {
-      "filingDate": "2026-10-21",
-      "reportDate": "",
-      "acceptanceDateTime": "2026-10-21T20:20:29.000Z",
-      "act": "33",
-      "form": "424B3",
-      "fileNumber": "333-298668",
-      "filmNumber": "261475936",
-      "items": "",
-      "size": 2483288,
-      "isXBRL": 0,
-      "isInlineXBRL": 0,
-      "primaryDocument": "d864810d424b3.htm",
-      "primaryDocDescription": "424B3",
-      "accessionNumber": "0001193125-26-427866",
-      "companyId": "tempus-ai",
-      "companyName": "Tempus AI",
-      "companyDirections": [
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "secTicker": "TEM",
-      "cik": "0001717115",
-      "secName": "Tempus AI, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm"
-    },
-    {
-      "filingDate": "2026-10-21",
-      "reportDate": "2026-10-20",
-      "acceptanceDateTime": "2026-10-21T20:15:17.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "000-19125",
-      "filmNumber": "261475853",
-      "items": "7.01,8.01,9.01",
-      "size": 210357,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ef20084189_8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001140361-26-040388",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001434265-000143426526000146",
+      "date": "2026-11-05",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/gmab_202601105x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000146 for Genmab, Form 6-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001652130-000119312526448673",
+      "date": "2026-11-05",
+      "title": "Intellia Therapeutics filed Form 8-K",
+      "entity": "Intellia Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526448673/ntla-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NTLA"
+      ],
+      "companyIds": [
+        "intellia"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-448673 for Intellia Therapeutics, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001178670-000117867026000080",
+      "date": "2026-11-05",
+      "title": "Alnylam Pharmaceuticals filed Form 8-K",
+      "entity": "Alnylam Pharmaceuticals",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ALNY"
+      ],
+      "companyIds": [
+        "alnylam"
+      ],
+      "fact": "SEC EDGAR lists accession 0001178670-26-000080 for Alnylam Pharmaceuticals, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001662579-000162828026070575",
+      "date": "2026-11-05",
+      "title": "C4 Therapeutics filed Form 10-Q",
+      "entity": "C4 Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070575/cccc-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "CCCC"
+      ],
+      "companyIds": [
+        "c4-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-070575 for C4 Therapeutics, Form 10-Q, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001662579-000162828026070560",
+      "date": "2026-11-05",
+      "title": "C4 Therapeutics filed Form 8-K",
+      "entity": "C4 Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/cccc-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Targeted Protein Degradation"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "CCCC"
+      ],
+      "companyIds": [
+        "c4-therapeutics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-070560 for C4 Therapeutics, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001651308-000162828026070477",
+      "date": "2026-11-05",
+      "title": "BeOne Medicines filed Form 10-Q",
+      "entity": "BeOne Medicines",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070477/bgne-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC",
+        "Oncology"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "ONC"
+      ],
+      "companyIds": [
+        "beone-medicines"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-070477 for BeOne Medicines, Form 10-Q, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001651308-000162828026070469",
+      "date": "2026-11-05",
+      "title": "BeOne Medicines filed Form 8-K",
+      "entity": "BeOne Medicines",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/bgne-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC",
+        "Oncology"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "ONC"
+      ],
+      "companyIds": [
+        "beone-medicines"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-070469 for BeOne Medicines, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001801198-000117184326007100",
       "date": "2026-11-04",
@@ -1482,69 +1827,6 @@
         "tempus-ai"
       ],
       "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001717115-000119312526427866",
-      "date": "2026-10-21",
-      "title": "Tempus AI filed Form 424B3",
-      "entity": "Tempus AI",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Prospectus",
-      "eventType": "Offering",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526427866/d864810d424b3.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "tags": [
-        "SEC",
-        "424B3",
-        "TEM"
-      ],
-      "companyIds": [
-        "tempus-ai"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-427866 for Tempus AI, Form 424B3, filed on 2026-10-21.",
-      "report": "SEC metadata describes the primary document as: 424B3.",
-      "inference": "The event was automatically routed as Offering from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000114036126040388",
-      "date": "2026-10-21",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-040388 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-10-21.",
       "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."

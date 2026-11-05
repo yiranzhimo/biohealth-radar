@@ -1,40 +1,45 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_mentions",
-  "asOfDate": "2026-11-04",
+  "asOfDate": "2026-11-05",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-5c715402f6ea22c4",
-      "observedName": "Celgene Corporation",
-      "normalizedName": "celgene",
+      "id": "mention-clinicaltrials-1954a09aeda1017d",
+      "observedName": "Nuritas Ltd",
+      "normalizedName": "nuritas",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01191060",
-      "sourceDate": "2026-04-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07528469",
+      "sourceDate": "2026-09-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07528469",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
+        "Biomarkers",
         "Clinical Trials",
-        "临床试验"
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "衰老"
       ],
       "activitySignals": [
-        "phased_trial",
+        "active_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
+      "contextTitle": "The Effects of PeptiStrong and Whey on Muscle Function In Older Adults"
     },
     {
-      "id": "mention-clinicaltrials-edfd86d44f66b5ad",
-      "observedName": "Janssen-Cilag Ltd.",
-      "normalizedName": "janssen cilag",
+      "id": "mention-clinicaltrials-6856443878b51b02",
+      "observedName": "Orthogonal Neuroscience Inc.",
+      "normalizedName": "orthogonal neuroscience",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01191060",
-      "sourceDate": "2026-04-06",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01191060",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06769620",
+      "sourceDate": "2025-01-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06769620",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -45,7 +50,32 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study Comparing Conventional Dose Combination RVD to High-Dose Treatment With ASCT in the Initial Myeloma up to 65 Years"
+      "contextTitle": "A First in Human Study of ORT247 in Healthy Volunteers"
+    },
+    {
+      "id": "mention-clinicaltrials-ed580fbaa1ec63d1",
+      "observedName": "Novartis Pharmaceuticals",
+      "normalizedName": "novartis pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00038610",
+      "sourceDate": "2015-09-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00038610",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Study of Hyper-CVAD Plus Imatinib Mesylate for Philadelphia-Positive Acute Lymphocytic Leukemia"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
