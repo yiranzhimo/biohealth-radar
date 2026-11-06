@@ -4,42 +4,15 @@
   "asOfDate": "2026-11-06",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-1954a09aeda1017d",
-      "observedName": "Nuritas Ltd",
-      "normalizedName": "nuritas",
+      "id": "mention-clinicaltrials-67564deb1ae56fb4",
+      "observedName": "Vielight Inc.",
+      "normalizedName": "vielight",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07528469",
-      "sourceDate": "2026-09-28",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07528469",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Biomarkers",
-        "Clinical Trials",
-        "Longevity",
-        "Recruiting",
-        "biomarker",
-        "临床试验",
-        "衰老"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "The Effects of PeptiStrong and Whey on Muscle Function In Older Adults"
-    },
-    {
-      "id": "mention-clinicaltrials-6856443878b51b02",
-      "observedName": "Orthogonal Neuroscience Inc.",
-      "normalizedName": "orthogonal neuroscience",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06769620",
-      "sourceDate": "2025-01-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06769620",
+      "sourceRecordId": "NCT05857124",
+      "sourceDate": "2025-06-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05857124",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -50,32 +23,35 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A First in Human Study of ORT247 in Healthy Volunteers"
+      "contextTitle": "A Study Evaluating the Efficacy of the Vielight Neuro RX Gamma in the Treatment of Post COVID-19 Cognitive Impairment"
     },
     {
-      "id": "mention-clinicaltrials-ed580fbaa1ec63d1",
-      "observedName": "Novartis Pharmaceuticals",
-      "normalizedName": "novartis pharmaceuticals",
+      "id": "mention-clinicaltrials-baba7727cf5b15c9",
+      "observedName": "Innovis LLC",
+      "normalizedName": "innovis",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00038610",
-      "sourceDate": "2015-09-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00038610",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06294886",
+      "sourceDate": "2024-03-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Diagnostics",
         "Oncology",
+        "Precision Medicine",
         "Precision Oncology",
         "临床试验",
-        "肿瘤"
+        "精准医疗",
+        "肿瘤",
+        "诊断"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Study of Hyper-CVAD Plus Imatinib Mesylate for Philadelphia-Positive Acute Lymphocytic Leukemia"
+      "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
