@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,139 +821,130 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
-      "id": "pubmed-42986296",
+      "id": "pubmed-42988304",
       "date": "2026-11-05",
-      "title": "Combination Therapy with AKT and MEK Inhibitors is Effective in Patient-Derived Models of Adrenocortical Carcinoma.",
+      "title": "Divergent susceptibility of peripheral and central neurons to macrophages with a neurotoxic phenotype.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42986296/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42988304/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": true,
+      "needsReview": false,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42986296。",
-      "report": "Adrenocortical carcinoma (ACC) is a rare, aggressive, chemoresistant malignancy with limited effective systemic therapies and few recurrent actionable oncogenic drivers. Although IGF-2 is overexpressed in approximately 80% of ACCs, clinical inhibition of the I...",
+      "fact": "PubMed 记录显示该文献收录于 Experimental neurology，PMID 为 42988304。",
+      "report": "Macrophages play pivotal roles in neural injury responses, yet their influence on neuronal degeneration or regeneration differs markedly between the peripheral and central nervous systems. We investigated transcriptional and functional phenotypes of macrophage...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0cf739956b8a2eaa006aece0bee64487d1973a65e990900481",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "09a256ee1b4db997ae42cb906d0a1e2d146ecd59ec21821b53387ccab74d0a62",
-        "status": "needs_human",
-        "confidence": 0.75,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献可能包含未被适当支持的临床结论，需要人工审查以判断其出版资格。",
+        "responseId": "resp_013cc6c5d2e5baae006aed7a0a75fc87d197ef358233b2af70",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "8232f1e044c768590107e648f1f7d6de4df4273f571208a31eacac561b67243b",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "此信号记录清晰、准确，并符合发布标准。",
         "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主分类和子分类缺乏充分的支持文献依据，可能需要调整或补充依据。"
+          "isSupported": true,
+          "notesCn": "分类与研究内容一致，无误导性表述。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献的证据水平被标记为中等，但缺乏足够的信息支持该水平，可能影响出版决策。"
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告与推断清楚分开，证据水平合理。"
         },
         "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
+          "clinical_claim"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
           "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
+          "evidenceLevel": "Medium",
           "themes": [
             "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
+            "Advanced Disease Models"
           ],
           "tags": [
             "类器官",
-            "疾病模型",
-            "肿瘤",
-            "药筛"
+            "疾病模型"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 42986296。",
-          "report": "Adrenocortical carcinoma (ACC) is a rare, aggressive, chemoresistant malignancy with limited effective systemic therapies.",
-          "inference": "该研究使用了类器官模型，无临床效果结论。",
-          "unknown": "缺乏对研究质量和样本量的评估。"
+          "fact": "PubMed 记录显示该文献收录于 Experimental neurology，PMID 为 42988304。",
+          "report": "Macrophages play pivotal roles in neural injury responses, yet their influence on neuronal degeneration or regeneration differs markedly between the peripheral and central nervous systems. We investigated transcriptional and functional phenotypes of macrophage...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
     {
-      "id": "pubmed-42985855",
+      "id": "pubmed-42988190",
       "date": "2026-11-05",
-      "title": "Hyaluronan hydrogels optimally support rhabdomyosarcoma patient-derived organoids that recapitulate gene expression profiles of individual patient tumors.",
+      "title": "RDP-modified extracellular vesicles from brain organoid-derived mesenchymal stem cells improve the behavior and pathology of 5×FAD mice.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42985855/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42988190/",
       "reliability": "High",
       "evidenceLevel": "Medium",
-      "needsReview": false,
+      "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
+        "临床",
+        "监管",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials science，PMID 为 42985855。",
-      "report": "Recapitulating aspects of the extracellular matrix (ECM) is crucial for accurate in vitro modeling of mesenchymal tumors, as they directly regulate tumor cell behavior. Rhabdomyosarcoma, the most common malignant mesenchymal tumor, self-secretes ECM proteins,...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42988190。",
+      "report": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder for which treatment options remain limited. Extracellular vesicles (EVs) offer a potential cell-free therapeutic approach, but limited brain exposure after systemic administration remains a m...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
       "aiReview": {
         "provider": "openai",
         "model": "gpt-4o-mini",
         "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c1dd8da333fa37a006aece0c5591887d1b94bc45f06394b28",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "b104fa04d1760d965d9b106464b44e083ae25c606d77a21e3ea6a82834201f62",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "此卡片的内容相对一致，适合发布。",
+        "responseId": "resp_0b8a13fdfa17b457006aed7a105bec87d1b8f752c79dcc3efc",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "980bac24a82f0e670c9320cd3ff291eaef13ae2ca8117dbdaf4df41acf7db17f",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查以纠正潜在的临床结论或安全效益表述。",
         "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类适合且符合元数据."
+          "isSupported": false,
+          "notesCn": "分类不够清晰，涉及未支持的临床表述。"
         },
         "sourceEvidenceAssessment": {
           "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论分隔清晰。"
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平中等，但研究质量和样本量未清晰说明。"
         },
         "riskFlags": [
           "clinical_claim",
-          "insufficient_source"
+          "weak_classification"
         ],
         "suggestedEdits": {
           "primaryCategory": "Biotech 技术平台",
@@ -962,21 +953,254 @@ window.BHR_DATA = {
           "themes": [
             "Organoids",
             "Advanced Disease Models",
-            "AI for Biology",
-            "Drug Discovery",
-            "Precision Oncology"
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Multi-omics"
           ],
           "tags": [
             "类器官",
             "疾病模型",
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "肿瘤"
+            "临床",
+            "监管",
+            "多组学"
           ],
-          "fact": "PubMed 记录显示该文献收录于 Biomaterials science，PMID 为 42985855。",
-          "report": "Recapitulating aspects of the extracellular matrix (ECM) is crucial for accurate in vitro modeling of mesenchymal tumors, as they directly regulate tumor cell behavior. Rhabdomyosarcoma, the most common malignant mesenchymal tumor, self-secretes ECM proteins,...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 42988190。",
+          "report": "文章讨论了阿尔茨海默病的背景以及细胞外囊泡作为潜在的治疗方法，但没有提供结论。",
+          "inference": "自动分类提及Organoids & Advanced Disease Models及Clinical Evidence，但未明确临床有效性。",
+          "unknown": "研究质量、样本量、利益冲突、临床阶段或商业化状态未判断。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42988150",
+      "date": "2026-11-05",
+      "title": "Future directions and challenges of drug development and non-human primate models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42988150/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42988150。",
+      "report": "Gene and cell therapy are transforming therapeutic approaches for genetic diseases and malignancies. This review examines the current role and future directions of non-human primate (NHP) models in preclinical safety evaluation of adeno-associated virus (AAV)...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0789136d92954ff7006aed7a174b0487d1aff8df99f513c766",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "6ea13299e7356099f5a5f969794bc136ddfb3424edc31b74ab2aae2cfd07b594",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "与提供的元数据一致，内容无临床建议或未支持结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合信号主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分开，证据级别合理。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Drug Screening"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "药筛"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Life sciences，PMID 为 42988150。",
+          "report": "Gene and cell therapy are transforming therapeutic approaches for genetic diseases and malignancies. This review examines the current role and future directions of non-human primate (NHP) models in preclinical safety evaluation of adeno-associated virus (AAV)...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42987985",
+      "date": "2026-11-05",
+      "title": "AI-Enhanced CRISPR-Cas9 Therapeutics: Advances in Precision, Safety, and Delivery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42987985/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Progress in biophysics and molecular biology，PMID 为 42987985。",
+      "report": "CRISPR-Cas9 genome editing has transformed biomedical research and is advancing toward clinical translation. The integration of artificial intelligence (AI) offers improved precision in guide RNA design, off-target prediction, and delivery optimization. This r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_059f0bd479a65508006aed7a211ab887d196419f2789222a69",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "2ada241f836f54a118ac71dcf3418798dd2aab22b55a634fe44bbfce3d75de4f",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该信号内容中未明确标记的临床效用和安全性结论需要人类审查以确保准确性和合规性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类未能合理反映文献内容的可靠性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报道和推断未能清晰分离，需评估其可靠性。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "临床",
+            "监管",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Progress in biophysics and molecular biology，PMID 为 42987985。",
+          "report": "CRISPR-Cas9 genome editing has transformed biomedical research and is advancing toward clinical translation. The integration of artificial intelligence (AI) offers improved precision in guide RNA design, off-target prediction, and delivery optimization. This r...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42987839",
+      "date": "2026-11-05",
+      "title": "Optimized feeder-dependent culture enables efficient hypothalamic-pituitary organoid induction from human pluripotent stem cells.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42987839/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42987839。",
+      "report": "Human pluripotent stem cell (hPSC)-derived hypothalamus-pituitary organoids recapitulate key processes of pituitary development in vitro, where cellular interactions between hypothalamic and oral ectodermal lineages are essential for organoid formation. Howeve...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_05e59340da818de2006aed7a276dfc87d1af4f2cec8c8dd4bb",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "139fa98d44cde3d932d0f98f4973a22ec7167772e73fbe7e5b4e0dd55c38a438",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该卡片包含关于研究的详细描述，但缺乏关于研究质量和样本量的信息，且推断部分未能明确声明临床结论的支持，这需要人工审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类存在不明确之处，需进一步审视以确保准确性。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": true,
+          "notesCn": "报告和推断之间的分离不够明确，缺乏对研究的质量评估。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Stem cell reports，PMID 为 42987839。",
+          "report": "Human pluripotent stem cell (hPSC)-derived hypothalamus-pituitary organoids recapitulate key processes of pituitary development in vitro, where cellular interactions between hypothalamic and oral ectodermal lineages are essential for organoid formation. However...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1128,6 +1352,736 @@ window.BHR_DATA = {
           "report": "Graphene quantum dots (GQDs) exhibit optical properties that depend strongly on their size, edge structure, and surface functionalization, but identifying the molecular structures responsible for near-infrared (NIR) emission remains challenging because of thei...",
           "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42987335",
+      "date": "2026-11-05",
+      "title": "Quantitative and mutational properties in the ctDNA uncovered by systemic inflammation in large B-cell lymphoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42987335/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Blood advances，PMID 为 42987335。",
+      "report": "Risk assessment of large B-cell lymphomas (LBCLs) using liquid biopsy (LB) has so far focused primarily on the genomic properties of circulating tumor DNA (ctDNA), overlooking the host response. We previously identified an inflamed serum protein signature that...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ff5369cbcaa3fe4006aed7a2d945087d1a9c9bc2d7ba10daa",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "ab00fc3e3d3bddd7383edd9dc4e27374eb360c0857b0fc54fcdd0680b3a5e743",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该记录符合发布标准，信息分隔清晰。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合源数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "信息来源和推论清晰区分。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Blood advances，PMID 为 42987335。",
+          "report": "Risk assessment of large B-cell lymphomas (LBCLs) using liquid biopsy (LB) has so far focused primarily on the genomic properties of circulating tumor DNA (ctDNA), overlooking the host response. We previously identified an inflamed serum protein signature that...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42986699",
+      "date": "2026-11-05",
+      "title": "Nanomaterial-Enabled Electrochemical Biosensing Platforms for Circulating Tumor Cell Analysis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42986699/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42986699。",
+      "report": "Circulating tumor cells (CTCs) are valuable liquid biopsy markers for assessing tumor heterogeneity, monitoring minimal residual disease (MRD), and guiding personalized therapy. However, their rarity in blood and phenotypic changes during epithelial-mesenchyma...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ae0ef0612f8cda8006aed7a32cc8c87d1bf304f3a45ca09d2",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "9a82c40593e8169fcd09a6fff7b2abe481ed46e22cf32959b38431acacdfbdd6",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "这条信息内部一致，适合发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平合理，所述内容可操作性强。"
+        },
+        "riskFlags": [
+          "medical_advice_risk"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 42986699。",
+          "report": "Circulating tumor cells (CTCs) are valuable liquid biopsy markers for assessing tumor heterogeneity, monitoring minimal residual disease (MRD), and guiding personalized therapy. However, their rarity in blood and phenotypic changes during epithelial-mesenchyma...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42986663",
+      "date": "2026-11-05",
+      "title": "Beyond blood: a narrative review of advancements in saliva-based diagnostics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42986663/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Expert review of molecular diagnostics，PMID 为 42986663。",
+      "report": "Human whole saliva is an accessible, noninvasive biofluid reflecting systemic and oral physiology, offering a viable alternative to invasive venipuncture and its associated pre-analytical vulnerabilities (e.g. ex vivo glycolysis). This narrative review synthes...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_07542a07f8df19fd006aed7a398f8087d19749063ba8bc2e95",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "ce04773aa9af60992e6990f26dc0dfc068c9338b92bb3babd557543616f255b8",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该文献记录完备且内容中立，符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主要类别和证据水平与源数据合理，分类支持该研究主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分离清晰，未作不当临床结论。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "regulatory_watch"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Diagnostics & Precision Medicine",
+          "subCategory": "Diagnostics & Precision Medicine",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Diagnostics",
+            "Precision Medicine",
+            "Clinical Evidence",
+            "Regulatory Watch",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "诊断",
+            "精准医疗",
+            "临床",
+            "监管",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Expert review of molecular diagnostics，PMID 为 42986663。",
+          "report": "Human whole saliva is an accessible, noninvasive biofluid reflecting systemic and oral physiology, offering a viable alternative to invasive venipuncture and its associated pre-analytical vulnerabilities (e.g. ex vivo glycolysis). This narrative review synthes...",
+          "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-42987829",
+      "date": "2026-11-05",
+      "title": "Clinical stewardship for medical AI translation: A systematic review of technological, human, and organizational barriers.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42987829/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42987829。",
+      "report": "Medical artificial intelligence (AI) systems may perform well in controlled evaluations, yet challenges remain in their translation and implementation into routine clinical practice. This systematic review examines 247 original studies identified through searc...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0293e65ea640a1a0006aed7a3f800087d1be09454fa9e5055d",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "afd4c91ec9acc673a21aad33b77aa4f5f47a99cc30ca709dd9e79daf807f8c36",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该记录包含潜在的借鉴但缺乏对研究质量的评判，需要人为审核。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类不一致，无法确认其支持."
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "提供的证据水平不符合名义上的研究类型."
+        },
+        "riskFlags": [
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "General Biotech Research",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Biotech"
+          ],
+          "tags": [
+            "biotech"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Cell reports. Medicine，PMID 为 42987829。",
+          "report": "Medical artificial intelligence (AI) systems may perform well in controlled evaluations, yet challenges remain in their translation and implementation into routine clinical practice. This systematic review examines 247 original studies identified through search...",
+          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "sec-0001576280-000157628026000044",
+      "date": "2026-11-05",
+      "title": "Guardant Health filed Form 10-Q",
+      "entity": "Guardant Health",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000044/gh-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "GH"
+      ],
+      "companyIds": [
+        "guardant-health"
+      ],
+      "fact": "SEC EDGAR lists accession 0001576280-26-000044 for Guardant Health, Form 10-Q, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0cea25c9322d8504006aed7a46651087d1871ed187b0989c51",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "2df4e8c4744228f5d06b10776186c756ecd17749e5ecbdf025130238f2f3eff7",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "内容一致且中立，可以发布。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "主类别和子类别合理，符合源数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推理分开清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "GH"
+          ],
+          "fact": "SEC EDGAR lists accession 0001576280-26-000044 for Guardant Health, Form 10-Q, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001604821-000162828026071145",
+      "date": "2026-11-05",
+      "title": "Natera filed Form 10-Q",
+      "entity": "Natera",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000162828026071145/ntra-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "NTRA"
+      ],
+      "companyIds": [
+        "natera"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-071145 for Natera, Form 10-Q, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_071994e1f899893d006aed7a4ba3b887d19d62f8c98a95cd65",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "af5a203980a1dbda75b4d0f809c9659815e458f4df0a957bc06c50c39de181ec",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审核，证据水平不够高。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据级别为中等，分类可能不够强。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平不合理，可能影响发布。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Low",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-071145 for Natera, Form 10-Q, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001652130-000119312526449862",
+      "date": "2026-11-05",
+      "title": "Intellia Therapeutics filed Form 10-Q",
+      "entity": "Intellia Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526449862/ntla-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Gene Editing"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "NTLA"
+      ],
+      "companyIds": [
+        "intellia"
+      ],
+      "fact": "SEC EDGAR lists accession 0001193125-26-449862 for Intellia Therapeutics, Form 10-Q, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_00f08c6b36b0040a006aed7a53e9a487d1b9d83dea1e0c96b2",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "3da3caed15ed73f561833ff8af7b2457d33dfc3663e3a7f7c0e2b4bf51738530",
+        "status": "pass",
+        "confidence": 0.95,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息一致且准确，符合出版标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "类目和证据水平合理，符合信息要求。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论明确分离，文献支持充分。"
+        },
+        "riskFlags": [],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Periodic Filing",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Gene Editing"
+          ],
+          "tags": [
+            "SEC",
+            "10-Q",
+            "NTLA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001193125-26-449862 for Intellia Therapeutics, Form 10-Q, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 10-Q.",
+          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001576280-000157628026000043",
+      "date": "2026-11-05",
+      "title": "Guardant Health filed Form 8-K",
+      "entity": "Guardant Health",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000043/gh-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "GH"
+      ],
+      "companyIds": [
+        "guardant-health"
+      ],
+      "fact": "SEC EDGAR lists accession 0001576280-26-000043 for Guardant Health, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0cb5aa5ef575c868006aed7a5839d087d194f5bfcef1394006",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "8b86eff8a14aa7beddd33ba712f68beeb3814cfc434101d20a10ad3b399e8664",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "信息准确，并符合发布标准。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理且符合提供的元数据。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论清晰分离，证据层级合理。"
+        },
+        "riskFlags": [
+          "official_filing",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "GH"
+          ],
+          "fact": "SEC EDGAR lists accession 0001576280-26-000043 for Guardant Health, Form 8-K, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001770787-000162828026071025",
+      "date": "2026-11-05",
+      "title": "10x Genomics filed Form 8-K",
+      "entity": "10x Genomics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1770787/000162828026071025/txg-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Sequencing & Research Tools"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "TXG"
+      ],
+      "companyIds": [
+        "10x-genomics"
+      ],
+      "fact": "SEC EDGAR lists accession 0001628280-26-071025 for 10x Genomics, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_093b1f0e303890d8006aed7a5eb60087d19cda46f374641395",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "5600f6a447b624f27d1f2e6868bef164782c19ae1754cbc20a6e1366af9d997d",
+        "status": "pass",
+        "confidence": 0.9,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号符合发布标准，信息分类合理，无临床建议或不支持的结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合发布要求。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推论分开清晰，证据水平合理。"
+        },
+        "riskFlags": [
+          "commercial_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Sequencing & Research Tools"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "TXG"
+          ],
+          "fact": "SEC EDGAR lists accession 0001628280-26-071025 for 10x Genomics, Form 8-K, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+        }
+      }
+    },
+    {
+      "id": "sec-0001604821-000160482126000032",
+      "date": "2026-11-05",
+      "title": "Natera filed Form 8-K",
+      "entity": "Natera",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1604821/000160482126000032/ntra-20261105.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Corporate Filings",
+        "Precision Diagnostics"
+      ],
+      "tags": [
+        "SEC",
+        "8-K",
+        "NTRA"
+      ],
+      "companyIds": [
+        "natera"
+      ],
+      "fact": "SEC EDGAR lists accession 0001604821-26-000032 for Natera, Form 8-K, filed on 2026-11-05.",
+      "report": "SEC metadata describes the primary document as: 8-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04211b5ef3610d62006aed7a642b9887d1ad437b2459573dd3",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "605498f5dea634b712cedf1f7301f9f7511618826338e6d70a3b48d3419cf37c",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信息适合发布，所有字段清晰分离且符合要求。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类和证据水平合理。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "事实、报告和推断各自清晰分开。"
+        },
+        "riskFlags": [
+          "regulatory_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Company & Market",
+          "subCategory": "Current Report",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Corporate Filings",
+            "Precision Diagnostics"
+          ],
+          "tags": [
+            "SEC",
+            "8-K",
+            "NTRA"
+          ],
+          "fact": "SEC EDGAR lists accession 0001604821-26-000032 for Natera, Form 8-K, filed on 2026-11-05.",
+          "report": "SEC metadata describes the primary document as: 8-K.",
+          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     },
@@ -1645,76 +2599,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42985600",
-      "date": "2026-11-04",
-      "title": "Autonomous Nanomedicine: Closing the Biological Validation Gap.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42985600/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42985600。",
-      "report": "Although nanomedicines offer advanced formulation control and physicochemical characterization, clinical translation has been limited. Delivery meta-analyses and late-stage attrition indicate biological validation is often a bottleneck. It must account for con...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0cabeb5d44bd3169006aece0facd7887d1a8cfa96c7a4eca26",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "414ab52274731933d60064ed84fc4e523ae020f492c5d8da1b634da782e1084e",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "论文本身内容说明临床转化受限，需评估其临床结论有效性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与事实支持不一致，无法完全反映文献内容"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "中等证据水平不符合文献实际内容"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Exploration (Beijing, China)，PMID 为 42985600。",
-          "report": "虽然纳米药物提供先进的配方控制和物理化学特性，但临床转化受限。交付的元分析和后期失败表明生物验证常常是瓶颈。",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "pubmed-42982153",
       "date": "2026-11-04",
       "title": "Protein nanocages: Programmable biomaterial platforms for therapeutics, bioimaging, and diagnostics.",
@@ -1864,79 +2748,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: FORM 6-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42984670",
-      "date": "2026-11-03",
-      "title": "Integrated manufacturing platform for cortical organoids reveals early phosphatase and prefoldin dysregulation in MAPT V337M neurons.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42984670/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 NPJ dementia，PMID 为 42984670。",
-      "report": "Human pluripotent stem cell (hPSC)-derived cortical organoids are powerful models but are often limited by low efficiency, variability, and stress-related artifacts. To address these challenges, we developed a scalable organoid platform with end-to-end quality...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b3cd145275fc09c006aece108378487d1997b71f6c42c3e82",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "15159a50379b8066120b2547756d2a327367c4dbc43ccaa2a55a6c06da4e6c25",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录提供了关于类器官研究平台的明确事实和报告，适合发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别设置合理，符合文献的主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "依据所提供的文献来源，事实、报告和推论清晰分开，证据等级合理。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 NPJ dementia，PMID 为 42984670。",
-          "report": "Human pluripotent stem cell (hPSC)-derived cortical organoids are powerful models but are often limited by low efficiency, variability, and stress-related artifacts. To address these challenges, we developed a scalable organoid platform with end-to-end quality...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -2969,6 +3780,76 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-42988730",
+      "date": "2026-11-01",
+      "title": "Extracellular Vesicles for Space Biomedical Research.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42988730/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42988730。",
+      "report": "Extracellular vesicles (EVs) are regulated, information-rich nanovesicles that reflect aspects of parent-cell state, making them promising readouts on biological adaptation. Microgravity perturbs mechanotransduction, mitochondrial stress and quality control, a...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_075ceadfeb410b49006aed7a6a098087d1a7c7cea20515ecaf",
+        "reviewedAt": "2026-11-06T06:56:09.592519+00:00",
+        "inputHash": "582a85bdd269314e8cee4c2d90ed04370a55afd1b779847df304b176ebc1dd0b",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献报告有关细胞外囊泡的潜在应用，但研究质量和其他关键信息未被评估，需人工审查以确保准确性。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但缺乏对研究质量的判断，因此分类支持度不高。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "未对研究质量、样本量等进行评估，该证据水平不合理。"
+        },
+        "riskFlags": [
+          "weak_classification",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 42988730。",
+          "report": "Extracellular vesicles (EVs) are regulated, information-rich nanovesicles that reflect aspects of parent-cell state, making them promising readouts on biological adaptation. Microgravity perturbs mechanotransduction, mitochondrial stress and quality control, a...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "sec-0001110803-000111080326000207",
       "date": "2026-10-30",
       "title": "Illumina filed Form 10-Q",
@@ -3359,227 +4240,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42985034",
-      "date": "2026-10-28",
-      "title": "Surgical Impact on Circulating Tumor and Hybrid Cells in Head and Neck Cancer: A Pilot Study.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42985034/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42985034。",
-      "report": "Objective: Surgery is known to significantly influence both the quantity and functional characteristics of circulating tumor cells (CTCs) in the bloodstream. Our cohort study aimed to characterize the landscape of CTCs and circulating hybrid cells (CHCs) in pa...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_033daef4b30fe29d006aece10fe75c87d18f16ba1076703d33",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "44f65d6651f5f6255786e7ca91d94b11e927f3bc541aad923ec3acfc86b22976",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号经过审查，并符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合所提供元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断均已明确分离。"
-        },
-        "riskFlags": [
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42985034。",
-          "report": "Objective: Surgery is known to significantly influence both the quantity and functional characteristics of circulating tumor cells (CTCs) in the bloodstream. Our cohort study aimed to characterize the landscape of CTCs and circulating hybrid cells (CHCs) in pa...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42984935",
-      "date": "2026-10-28",
-      "title": "Monitoring Molecular Residual Disease in Colorectal Cancer Using Tumor-Informed ctDNA Analysis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42984935/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42984935。",
-      "report": "Background: The early detection of molecular residual disease (MRD) is critical for predicting recurrence and guiding management in colorectal cancer (CRC). We aimed to evaluate the performance of tumor-informed circulating tumor DNA (ctDNA) analysis in monito...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_041e9649cbbfcb1c006aece115f0b487d19f489c7633218907",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "adcef110b301e7a2a619951b64e48545ef451446dc11dc46bb9cfc71af5368e2",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "卡片需要人工审核，因为缺乏对研究质量和临床结论的判断。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类依据不足，未能支持明显的研究质量或临床意义。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平被评估为中等，但缺少必要的背景信息来合理支持这一证据水平的选择。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "General Biotech Research",
-          "evidenceLevel": "Low",
-          "themes": [
-            "Biotech",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "biotech",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Oncology research，PMID 为 42984935。",
-          "report": "Background: The early detection of molecular residual disease (MRD) is critical for predicting recurrence and guiding management in colorectal cancer (CRC). We aimed to evaluate the performance of tumor-informed circulating tumor DNA (ctDNA) analysis in monito...",
-          "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-42983234",
-      "date": "2026-10-28",
-      "title": "Bridging the Translational Gap Between Molecular Classification and Clinical Implementation in Gastrointestinal Tumors.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42983234/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current molecular medicine，PMID 为 42983234。",
-      "report": "The incorporation of molecular pathology into GI oncology at a lightning pace has brought about a change in tumor classification from being largely morphology-driven to becoming a histomolecular approach that is used in precision oncology. Improvements in next...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0092644876a962d0006aece11bf3e087d1a93759956225777a",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "1d0605c023f12c72b874be5731790dfb72fc048738e476e31fb13d481c8335c8",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该文献记录符合发布标准，内容准确且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据水平和来源合理，信息分离明确。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "regulatory_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Diagnostics & Precision Medicine",
-          "subCategory": "Diagnostics & Precision Medicine",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "诊断",
-            "精准医疗",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Current molecular medicine，PMID 为 42983234。",
-          "report": "The incorporation of molecular pathology into GI oncology at a lightning pace has brought about a change in tumor classification from being largely morphology-driven to becoming a histomolecular approach that is used in precision oncology. Improvements in next...",
-          "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT06022094",
       "date": "2026-10-28",
       "title": "Effect of a Two-month Carbohydrate-restricted Diet on Energy Metabolism in a Seniors' Residence",
@@ -3942,79 +4602,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 8-K.",
           "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42985493",
-      "date": "2026-10-21",
-      "title": "Three-dimensional in vitro models for assessing temozolomide sensitivity in glioblastoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42985493/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42985493。",
-      "report": "IDH-wildtype glioblastoma, or glioblastoma multiforme (GBM), is the most aggressive primary malignancy of the central nervous system. It is characterized by marked invasiveness, intratumoral heterogeneity, and high recurrence rates, largely driven by intrinsic...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_099f6f981d8a5e26006aece127490087d1ab9e80bf5b4e3b58",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "05c6b9f1dde6be620ac83f0ba3d34164cdefdc96a3b098eafca8ca7c903c3438",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该条目符合发布标准，信息清晰且符合事实。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类符合来源信息。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据等级符合来源的实质内容。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Frontiers in neuroscience，PMID 为 42985493。",
-          "report": "IDH-wildtype glioblastoma, or glioblastoma multiforme (GBM), is the most aggressive primary malignancy of the central nervous system. It is characterized by marked invasiveness, intratumoral heterogeneity, and high recurrence rates, largely driven by intrinsic...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -7483,76 +8070,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-42984740",
-      "date": "2026-08-18",
-      "title": "Katsuwonus pelamis heart hydrolysates promote hair growth in 3-dimensional human hair follicle organoids and in mice.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42984740/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Food science and biotechnology，PMID 为 42984740。",
-      "report": "Marine-derived bioactive peptides have emerged as valuable resources for functional food and cosmetic applications due to their regenerative and protective properties. This study investigated the hair growth-promoting effects of Katsuwonus pelamis heart hydrol...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0c99059fcf946dc2006aece15325e087d19c56ab9d338ab358",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "c63cef74c81636e50da15579844fb0d2689b9d10a45fd81c96bb4ae6f04763b2",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "该文献涉及头发生长促进作用的研究，需对结论进行评估以确认无误。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合文献主题"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "证据水平标记为中等，但报道称头发生长促进作用未经过充分验证。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Food science and biotechnology，PMID 为 42984740。",
-          "report": "Marine-derived bioactive peptides have emerged as valuable resources for functional food and cosmetic applications due to their regenerative and protective properties. This study investigated the hair growth-promoting effects of Katsuwonus pelamis heart hydrol...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001801198-000117184326005623",
       "date": "2026-08-18",
       "title": "Legend Biotech filed Form 6-K",
@@ -8715,90 +9232,6 @@ window.BHR_DATA = {
           "report": "SEC metadata describes the primary document as: 10-Q.",
           "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
           "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "pubmed-42983847",
-      "date": "2026-08-06",
-      "title": "Simulation-based Bayesian deep learning enables uncertainty-aware tumor fraction estimation in cell-free DNA.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42983847/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 BioData mining，PMID 为 42983847。",
-      "report": "Estimating tumor fraction from whole-genome cell-free DNA sequencing is critical for liquid biopsy, but is hampered by weak signals and baseline noise at low tumor fractions. Existing computational methods often require matched controls or large labeled datase...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0046accfc90f63a4006aece15bad0087d1a8321265e0278bbb",
-        "reviewedAt": "2026-11-05T20:02:06.061590+00:00",
-        "inputHash": "092f3388a1b994bbe8137e4247002fb397cb821218dfbae9ee360cb12925b94a",
-        "status": "needs_human",
-        "confidence": 0.7,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "缺乏对研究质量和样本量的评估，可能需要人类判断。 ",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类与所述内容不完全匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "报告细节不足，未涉及临床阶段或商业化状态。"
-        },
-        "riskFlags": [
-          "weak_classification",
-          "insufficient_source"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "AI Drug Discovery",
-          "subCategory": "AI-enabled Discovery",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "AI for Biology",
-            "Drug Discovery",
-            "Diagnostics",
-            "Precision Medicine",
-            "Precision Oncology"
-          ],
-          "tags": [
-            "AI 制药",
-            "蛋白设计",
-            "分子生成",
-            "诊断",
-            "精准医疗",
-            "肿瘤"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 BioData mining，PMID 为 42983847。",
-          "report": "Estimating tumor fraction from whole-genome cell-free DNA sequencing is critical for liquid biopsy, but is hampered by weak signals and baseline noise at low tumor fractions. Existing computational methods often require matched controls or large labeled datasets.",
-          "inference": "自动分类命中规则：AI-enabled Discovery, Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
@@ -11291,152 +11724,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "sec-0001801198-000117184326004649",
-      "date": "2026-07-15",
-      "title": "Legend Biotech filed Form 6-K",
-      "entity": "Legend Biotech",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326004649/f6k_071426.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Cell Therapy"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "LEGN"
-      ],
-      "companyIds": [
-        "legend-biotech"
-      ],
-      "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
-      "report": "SEC metadata describes the primary document as: FORM 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_07248f1d761618e6006a7a2575c4108199b8ee44d451e5af23",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "0e458243d9f23561a7900e8acfec2073d14577995c2bd2f28c8e4b655b09af47",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "这条信号记录关于Legend Biotech提交的6-K表格，信息可信且没有不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "主类别和子类别合理，符合提供的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推论已经清晰分开，并且证据水平合适。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Cell Therapy"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "LEGN"
-          ],
-          "fact": "SEC EDGAR lists accession 0001171843-26-004649 for Legend Biotech, Form 6-K, filed on 2026-07-15.",
-          "report": "SEC metadata describes the primary document as: FORM 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "sec-0001434265-000143426526000102",
-      "date": "2026-07-15",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000102/gmab_20260715x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04d16cf455d52f12006a7a257a7b5c81989f2e2ec411902476",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "074a2acc6ea4a03f7de7e26abe76544e0f6810000761c100fd0934b766b7c333",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "本记录符合出版标准，内容清晰明了，未包含不当临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合信号内容"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分离，证据水平合理"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Antibody / ADC"
-          ],
-          "tags": [
-            "SEC",
-            "6-K",
-            "GMAB"
-          ],
-          "fact": "SEC EDGAR lists accession 0001434265-26-000102 for Genmab, Form 6-K, filed on 2026-07-15.",
-          "report": "SEC metadata describes the primary document as: 6-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
       "id": "clinicaltrials-NCT07703761",
       "date": "2026-07-14",
       "title": "AI-driven Processing and Analysis of Glioma Imaging Data",
@@ -11531,298 +11818,6 @@ window.BHR_DATA = {
           "report": "GLIOMAID is a scientific research project focused on improving how brain tumors, specifically gliomas, are diagnosed and managed. It uses Artificial Intelligence (AI) to analyze MRI brain scans and patient data. The project collects existing clinical informati...",
           "inference": "自动分流为 Clinical & Regulatory / Clinical Trials，主题命中：Diagnostics, Precision Medicine, Healthcare AI, Medical AI, Longevity, Biomarkers。登记状态和设计字段不能直接证明疗效或安全性。",
           "unknown": "当前登记记录未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "sec-0000874015-000114036126028154",
-      "date": "2026-07-10",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028154/ef20077783_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0ed686145d91a938006a7a2580d0848198827d96e3946df649",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "256b6fd247532ac1e76cb58613b48a4dee819c3d9bf46d0dc8391b3e855ce7b1",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号符合出版标准，内容内部一致且中立。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": ""
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": ""
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0001140361-26-028154 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-10.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "sec-0001549595-000154959526000040",
-      "date": "2026-07-09",
-      "title": "Nurix Therapeutics filed Form 10-Q",
-      "entity": "Nurix Therapeutics",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Periodic Filing",
-      "eventType": "Periodic Report",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000040/nrix-20260531.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Targeted Protein Degradation"
-      ],
-      "tags": [
-        "SEC",
-        "10-Q",
-        "NRIX"
-      ],
-      "companyIds": [
-        "nurix"
-      ],
-      "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
-      "report": "SEC metadata describes the primary document as: 10-Q.",
-      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_01c5d07403c7e945006a7a258b9b3c819abe339650ca4b3bec",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "f4e980a4797862bb44837a93b38915eb667ce54c4504109acbbf4fba96c8370e",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息符合发布标准，未涉及临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且符合来源元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断已清晰分开。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Periodic Filing",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "10-Q",
-            "NRIX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001549595-26-000040 for Nurix Therapeutics, Form 10-Q, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 10-Q.",
-          "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "sec-0001549595-000154959526000038",
-      "date": "2026-07-09",
-      "title": "Nurix Therapeutics filed Form 8-K",
-      "entity": "Nurix Therapeutics",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000038/nrix-20260709.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "Targeted Protein Degradation"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "NRIX"
-      ],
-      "companyIds": [
-        "nurix"
-      ],
-      "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0b08fe52632c7991006a7a2591e824819882f1f11ac9cdba02",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "22226cd9e652d29149bb7d4c0a8f77bc8134b06d89e6af2e6f4887244d940f7c",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "根据SEC EDGAR的文件，Nurix Therapeutics提交了Form 8-K，没有提供有效性或安全性结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理并与源数据一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断之间的分离清晰，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "Targeted Protein Degradation"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "NRIX"
-          ],
-          "fact": "SEC EDGAR lists accession 0001549595-26-000038 for Nurix Therapeutics, Form 8-K, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-        }
-      }
-    },
-    {
-      "id": "sec-0000874015-000114036126028092",
-      "date": "2026-07-09",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126028092/ef20077664_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact.",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_04e189f2525b294c006a7a25990f088198b47ccaf509b475b3",
-        "reviewedAt": "2026-08-10T19:19:40.051207+00:00",
-        "inputHash": "f7729179e010eeb378e3f218d47c2dc58686fc8693bac34ab6ed2a72351446d8",
-        "status": "pass",
-        "confidence": 0.95,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "信息已审核，符合发布标准。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，基于提交的元数据。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断明确分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Company & Market",
-          "subCategory": "Current Report",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Corporate Filings",
-            "RNA Therapeutics"
-          ],
-          "tags": [
-            "SEC",
-            "8-K",
-            "IONS"
-          ],
-          "fact": "SEC EDGAR lists accession 0001140361-26-028092 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-07-09.",
-          "report": "SEC metadata describes the primary document as: 8-K.",
-          "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-          "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
         }
       }
     },
