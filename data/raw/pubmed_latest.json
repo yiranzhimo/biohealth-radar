@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-06T19:28:35.700350+00:00",
+  "capturedAt": "2026-11-07T06:07:22.081087+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-06",
-    "end": "2026-11-06"
+    "start": "2025-11-07",
+    "end": "2026-11-07"
   },
   "pmids": [
-    "42992560",
-    "42992223",
-    "42992160",
-    "42991768",
-    "42991212",
-    "42990890",
+    "42994593",
+    "42994426",
+    "42994359",
+    "42994357",
+    "42993626",
+    "42993555",
     "42990453",
     "42990240",
     "42990227",
@@ -32,116 +32,132 @@
     "42990144",
     "42989395",
     "42986098",
+    "42994103",
+    "42994081",
     "42991873",
     "42991555",
     "42991505",
-    "42991091",
-    "42990908",
-    "42990876"
+    "42991091"
   ],
   "records": [
     {
-      "pmid": "42992560",
-      "title": "Gene therapy for epilepsy: From SCN1A to broadened therapeutic horizons (Review).",
-      "abstract": "Genetic epilepsy, for which the molecular mechanisms are relatively well defined in numerous monogenic forms, represents an attractive model for the transition from symptomatic seizure control to mechanism‑driven correction. However, gene therapy strategies differ in their mechanisms of action, adaptability to specific mutations and translational maturity, making rational selection of interventions based on variant‑specific functional consequences an important clinical challenge. The present review examined five nucleic acid‑based therapeutic strategies, namely gene supplementation, enhancement of endogenous gene expression, gene silencing, DNA editing and RNA editing, for major causative genes, using mutation‑specific functional consequences [loss‑of‑function (LOF) vs. gain‑of‑function] as the primary framework for therapeutic decision‑making. The mechanisms and suitability of each approach are analysed, and their performance in terms of cell‑type specificity, delivery vectors and safety is evaluated by integrating evidence from animal models, induced pluripotent stem cell‑derived neurons and organoids and clinical trials. The present review also summarised key translational barriers, including vector cargo constraints, blood‑brain barrier penetration, off‑target and immune‑associated risks, therapeutic dosing windows and the timing of developmental intervention. Antisense oligonucleotides and regulatory adeno‑associated viral approaches, supported by mature delivery platforms and manageable safety profiles, have progressed furthest towards clinical validation. Endogenous gene activation strategies, such as CRISPR activation, offer a gene replacement‑free approach for LOF disorders but remain preclinical. DNA and RNA editing, while potentially capable of durable disease modification, require further evidence on delivery efficiency and long‑term homeostatic safety. Gene therapy for genetic epilepsy is undergoing a key transition from proof‑of‑concept studies to individualised clinical application. Future progress will depend on integrating personalised intervention design, multi‑target therapeutic combinations, artificial intelligence‑assisted sequence optimisation and standardised translational models, with the potential to drive a paradigm shift from seizure suppression to mechanistic correction.",
-      "journal": "Molecular medicine reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Stem Cell and Neuroscience Laboratory, Academy of Chinese Medical Sciences, Henan University of Chinese Medicine, Zhengzhou, Henan 450046, P.R. China.",
-        "School of Pharmacy, Hunan Normal University, Changsha, Hunan 410013, P.R. China."
-      ],
-      "doi": "10.3892/mmr.2026.14060",
-      "date": "2026-11-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992560/"
-    },
-    {
-      "pmid": "42992223",
-      "title": "Transplanted human photoreceptors differentially survive, incorporate, and mature in mildly and severely degenerated mouse retinae.",
-      "abstract": "Photoreceptor transplantation is considered a disease-agnostic therapeutic strategy for retinal degenerative diseases with highly heterogeneous genetic, molecular, and cellular pathologies. While integration of human photoreceptors enriched from stem-cell-derived retinal organoids was noted in previous preclinical studies, the potential influence of retinal degeneration severity on transplantation efficiency has not been systematically assessed. Here, we employed mice presenting mild or severe retinal degeneration as recipients for human induced pluripotent stem cell-derived photoreceptors. Donor cells formed multicellular clusters that started to interact with Müller glia processes from 3 weeks post transplantation (wpt) in mildly degenerated retinae, resulting in structural integration and maturation, characterized by inner/outer segment and synapse formation by 26 wpt. In contrast, in severely degenerated hosts, donor photoreceptors remained mainly scattered and showed limited incorporation or signs of maturation. Differential maturation of donor cells in mild vs. severe hosts was confirmed by single-cell RNA-sequencing analysis. However, transplantation at the beginning of the degeneration process of the severe model allowed structural integration and maturation of donor photoreceptors despite complete loss of endogenous photoreceptors over time. The study thus shows that survival, integration, and maturation of donor photoreceptors depend on the degenerative retinal microenvironment shaping significantly the transplantation efficiency.",
-      "journal": "Molecular therapy. Advances",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Center for Regenerative Therapies Dresden (CRTD), Center for Molecular and Cellular Bioengineering (CMCB), Dresden University of Technology (TUD), 01307 Dresden, Germany.",
-        "Core Facility Electron Microscopy and Histology, Center for Molecular and Cellular Bioengineering (CMCB), Dresden University of Technology (TUD), 01307 Dresden, Germany.",
-        "Max Planck Institute of Molecular Cell Biology and Genetics, 01307 Dresden, Germany."
-      ],
-      "doi": "10.1016/j.omta.2026.201866",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992223/"
-    },
-    {
-      "pmid": "42992160",
-      "title": "iPSC-derived RPE and retinal organoids from two phenotypically different Stargardt disease patients show differences in ABCA4 function.",
-      "abstract": "Stargardt disease is a phenotypically heterogeneous disease caused by bi-allelic mutations in the ABCA4 gene. We generated retinal pigment epithelium (RPE) cells, photoreceptor precursors (PhRPs), and retinal organoids (ROs) from two induced pluripotent stem (iPS) cell lines derived from two phenotypically different Stargardt disease patients. We observed that RPE cells from the patient with peripheral affectation showed reduced ABCA4 expression, reduced phagocytosis and digestion of photoreceptor outer segments (POSs), and accumulation of lipid byproducts. ROs from both patients show stunted segments, more rods, caspase-3 activation, and lipofuscin accumulation at week 45 of maturation. Phenotypical differences seen in Stargardt disease patients are caused by their specific ABCA4 variants, but cellular and molecular mechanisms underlying the process of photoreceptor degeneration are still poorly understood. Here, we suggest that peripheral phenotypes associated with these macular dystrophies can be linked to poor clearance of POSs by RPE cells, giving these cells a higher role in the pathogenesis of the disease.",
-      "journal": "iScience",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Departament de Genètica, IMO Grupo Miranza, Barcelona, Spain.",
-        "Departament de Retina, IMO Grupo Miranza, Barcelona, Spain."
-      ],
-      "doi": "10.1016/j.isci.2026.117998",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992160/"
-    },
-    {
-      "pmid": "42991768",
-      "title": "Establishment and functional evaluation of a two-stage mouse hepatocyte-derived organoid culture system.",
-      "abstract": "Primary hepatocytes rapidly lose differentiated functions during prolonged in vitro culture, limiting their use in studies of liver metabolism and zonation. This study aimed to establish a two-stage mouse hepatocyte-derived organoid system that enables serial cell propagation followed by partial recovery of hepatic identity and metabolic function in three-dimensional culture. Primary mouse hepatocytes were first expanded in a two-dimensional transition and expansion medium and then transferred to low-attachment plates for three-dimensional culture in hepatocyte maturation medium. Cell growth, senescence, organoid formation, hepatic marker expression, bulk transcriptomic changes, albumin secretion, urea production, lipid and cholesterol metabolism, zonation-related responses, and post-cryopreservation recovery were evaluated. Statistical comparisons were performed using ordinary one-way or two-way analysis of variance, as appropriate. The expansion medium supported serial propagation, maintained albumin expression, increased the proportion of Ki67-positive cells, and reduced senescence. A seeding density of 3 × 104 cells per well produced compact and uniform organoids. Following transfer to 3D culture, organoids expressed albumin, E-cadherin, CYP2E1, and CK19. Bulk transcriptomic analysis showed strong cell-cycle activity in passage-2 cells, followed by partial recovery of hepatic metabolic programs during 3D culture, including cholesterol biosynthesis, the urea cycle, steroid biosynthesis, and bile-acid biosynthesis. Direct comparison with freshly isolated primary hepatocytes showed that albumin secretion remained lower than the primary hepatocytes level, whereas urea production increased during 3D culture and was not significantly different from PHCs by day 16. Exposure to 5% oxygen increased lipid-droplet accumulation. Glucose and insulin increased free and total cholesterol. Wnt/R-spondin increased the pericentral-associated marker glutamine synthetase, whereas ascorbic acid and bilirubin increased the periportal-associated marker CPS1. Early-passage cells retained organoid-forming capacity after cryopreservation and recovery. This two-stage culture system supports serial hepatocyte propagation followed by partial and function-specific recovery of hepatic identity and function in 3D culture. Although the organoids did not fully reproduce the mature primary hepatocyte state or physiological liver zonation, the system provides an experimentally accessible in vitro platform for investigating hepatocyte expansion, partial hepatic maturation, metabolic regulation, zonation-related responses, and microenvironment-dependent modulation of hepatocyte function.",
-      "journal": "Frontiers in cell and developmental biology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing), Academy of Military Medical Sciences, Beijing, China."
-      ],
-      "doi": "10.3389/fcell.2026.1974273",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991768/"
-    },
-    {
-      "pmid": "42991212",
-      "title": "Mapping the subcellular pharmacokinetic-pharmacodynamic landscape: a systems-pharmacology framework for predicting combination therapies against intracellular bacterial infections.",
-      "abstract": "Intracellular bacterial pathogens represent one of the most formidable challenges in contemporary medicine. By exploiting host cellular niches, these organisms evade immune surveillance and withstand conventional antibiotic therapies, establishing persistent reservoirs that are difficult to eradicate. Although antibiotic combinations, host-directed interventions, and drug repurposing have shown promise, conventional discovery pipelines rarely capture the dynamic and compartmentalized nature of the intracellular environment. This review proposes a systems pharmacology framework centered on subcellular pharmacokinetic/pharmacodynamic (Sub-PK/PD) profiling to predict and optimize intracellular combination therapies. Mechanistic and translational studies of intracellular drug disposition, host-pathogen metabolism, computational combination design, and biomimetic infection models were synthesized in a targeted narrative review. Particular attention was given to spatially resolved measurements, dual ribonucleic acid (RNA) sequencing, metabolic flux analysis, machine learning, and organ-on-a-chip platforms. Pathogen-containing vacuoles, phagolysosomes, the host cytosol, lipid-rich macrophages, and tissue lesions impose distinct barriers to drug ionization, accumulation, stability, and target engagement. Persistent infection also produces reciprocal metabolic rewiring: host pathways supply carbon, nitrogen, lipids, metals, and reducing equivalents, while bacterial stress programs alter growth and antibiotic susceptibility. Integrating these processes can reveal shared metabolic bottlenecks suitable for combinations of pathogen-directed and host-directed agents. Computational models can prioritize combinations, but their predictions require validation under physiologically realistic concentration-time profiles. Linking systems biology to localized Sub-PK/PD provides a practical roadmap for designing niche-specific regimens. Such regimens could improve clearance of persistent intracellular reservoirs, reduce ineffective exposure, and limit the emergence of antimicrobial resistance.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Biochemistry, Vydehi Institute of Medical Sciences and Research Centre, Bengaluru, Karnataka, India.",
-        "Department of Anatomy, Vydehi Institute of Medical Sciences and Research Centre, Bengaluru, Karnataka, India.",
-        "Department of General Medicine, Vydehi Institute of Medical Sciences and Research Centre, Bengaluru, Karnataka, India.",
-        "Department of Microbiology, Prathima Institute of Medical Sciences, Karimnagar, Telangana, India.",
-        "Department of General Medicine, Akash Institute of Medical Sciences and Research Centre, Bengaluru, Karnataka, India."
-      ],
-      "doi": "10.3389/fphar.2026.1994202",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991212/"
-    },
-    {
-      "pmid": "42990890",
-      "title": "Overexpression of LINC01605 promotes early tumorigenic phenotypes in primary human colon epithelial organoids.",
+      "pmid": "42994593",
+      "title": "Immortalized intestinal telocytes support stem cell niche function in vitro.",
       "abstract": "",
-      "journal": "Genes & diseases",
+      "journal": "Cellular and molecular gastroenterology and hepatology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Genetics and Genome Sciences, Case Western Reserve University School of Medicine, Cleveland, OH 44106, USA.",
-        "Department of Inflammation & Immunity, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA.",
-        "Department of Biology, John Carroll University, University Heights, Ohio 44118, USA.",
-        "Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, OH 44106, USA."
+        "Department of Developmental Biology and Cancer Research, Institute for Medical Research Israel-Canada, Hebrew University Medical School, Jerusalem, Israel.",
+        "Hadassah Organoid Center, The Hadassah-Hebrew University Medical Organization, Jerusalem, Israel.",
+        "Lautenberg Centre for Immunology and Cancer Research, Institute for Medical Research Israel-Canada, Hebrew University Medical School, Jerusalem, Israel.",
+        "Lautenberg Centre for Immunology and Cancer Research, Institute for Medical Research Israel-Canada, Hebrew University Medical School, Jerusalem, Israel; The Benin School of Computer Science and Engineering, The Hebrew University of Jerusalem, Israel.",
+        "Department of Developmental Biology and Cancer Research, Institute for Medical Research Israel-Canada, Hebrew University Medical School, Jerusalem, Israel. Electronic address: michal.shoshkes@mail.huji.ac.il."
       ],
-      "doi": "10.1016/j.gendis.2026.102125",
-      "date": "2026-03-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990890/"
+      "doi": "10.1016/j.jcmgh.2026.101926",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994593/"
+    },
+    {
+      "pmid": "42994426",
+      "title": "Neural interface instructs layer 4-appropriate circuit reconstruction with engrafted human brain organoids and improves visually guided behavior.",
+      "abstract": "Repairing precise neural microcircuitry after cortical injury remains a pivotal challenge. Human brain organoids (hBOs) are a promising cell source, but disorganized integration limits their therapeutic potential. Here, we demonstrated that targeted neuromodulation, steered by endogenous narrowband gamma (NBG) rhythms, instructed structural and functional integration of hBO grafts in the injured adult mouse visual cortex. Using a neural interface system, we promoted general graft-host coupling and then delivered NBG-rhythmic stimulation to specific functional clusters. This strategy guided the emergence of layer 4-appropriate molecular and functional properties in grafts, enabled bidirectional connectivity with the host visual circuit, and supported the development of advanced visual processing, including direction selectivity in hBO neurons. Electrophysiologically, graft spiking phase locked to host NBG oscillations. Behaviorally, host visual acuity and contrast sensitivity were significantly restored. Our work established a framework for circuit-level repair, highlighting a synergistic strategy that moves beyond cell replacement to direct the assembly of neural grafts.",
+      "journal": "Cell stem cell",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin 300072, China; Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, Tianjin 300392, China; State Key Laboratory of Advanced Medical Materials and Devices, Tianjin 300072, China.",
+        "Department of Orthopedics, The First People's Hospital of Yunnan Province & Affiliated Hospital of Kunming University of Science and Technology, Kunming 654100, China; Yunnan Key Laboratory of Digital Orthopedics, Kunming 654100, China; Yunnan International Joint Laboratory of Intelligent Orthopedics, Kunming 654100, China.",
+        "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin 300072, China; Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, Tianjin 300392, China; State Key Laboratory of Advanced Medical Materials and Devices, Tianjin 300072, China. Electronic address: wenwei.shao@tju.edu.cn.",
+        "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin 300072, China; Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, Tianjin 300392, China; State Key Laboratory of Advanced Medical Materials and Devices, Tianjin 300072, China. Electronic address: yunliangzang@tju.edu.cn.",
+        "Department of Orthopedics, The First People's Hospital of Yunnan Province & Affiliated Hospital of Kunming University of Science and Technology, Kunming 654100, China; Yunnan Key Laboratory of Digital Orthopedics, Kunming 654100, China; Yunnan International Joint Laboratory of Intelligent Orthopedics, Kunming 654100, China. Electronic address: lusheng@kust.edu.cn.",
+        "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin 300072, China; Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, Tianjin 300392, China; State Key Laboratory of Advanced Medical Materials and Devices, Tianjin 300072, China. Electronic address: xhli18@tju.edu.cn."
+      ],
+      "doi": "10.1016/j.stem.2026.10.011",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994426/"
+    },
+    {
+      "pmid": "42994359",
+      "title": "Polystyrene nanoplastic exposure exacerbates epileptic vulnerability in SCN1A mutation models.",
+      "abstract": "Micro- and nanoplastics are pervasive contaminants detected in human tissues that cross the blood-brain barrier to induce neuroinflammation, apoptosis, and neurotoxicity. Here, we examined whether polystyrene nanoplastic (PS-NP) exposure alters seizure susceptibility in SCN1A+/- cerebral organoids and Scn1a+/- mice, modeling the severe genetic epilepsy Dravet syndrome. At equal mass concentrations, 50 nm PS-NPs penetrated organoids more deeply and upregulated inflammatory and neurotoxic gene expression more robustly than 100 nm particles, inducing apoptotic activation and significant DNA fragmentation. Exposure disrupted steroid homeostasis-causing genotype-dependent cortisol elevations-and perturbed neurotransmitter systems in SCN1A-deficient models via reduced GABA and glutamate, accompanied by decreased GAD2 and increased VGLUT2 expression. In vivo, exposed Scn1a+/- mice exhibited hyperactivity and reached Racine stages 3-5 more rapidly under thermal induction, demonstrating a reduced seizure threshold. Pharmacological inhibition of 11β-hydroxysteroid dehydrogenase type 1 reversed this hyperactivity but failed to restore the seizure threshold. Together, these findings indicate that PS-NP exposure exacerbates seizure vulnerability in genetically susceptible backgrounds, accompanied by marked neurochemical, endocrine, and apoptotic disruptions. These results support a 'second-hit' model wherein environmental nanoplastics act as external triggers in genetic epilepsy, underscoring the vital need to incorporate gene-environment interactions into neurotoxicological risk assessments.",
+      "journal": "Journal of hazardous materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea; Graduate School of New Drug Discovery and Development, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Republic of Korea.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea.",
+        "Chemical Platform Technology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro,, Yuseong-gu, Daejeon 34114, Republic of Korea.",
+        "Chemical Platform Technology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro,, Yuseong-gu, Daejeon 34114, Republic of Korea. Electronic address: shc0429@krict.re.kr.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea; Graduate School of New Drug Discovery and Development, Chungnam National University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Republic of Korea. Electronic address: kykim@krict.re.kr."
+      ],
+      "doi": "10.1016/j.jhazmat.2026.144105",
+      "date": "2026-11-03",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994359/"
+    },
+    {
+      "pmid": "42994357",
+      "title": "Secondary organic aerosol from polycyclic aromatic hydrocarbon modulates glioma proliferation.",
+      "abstract": "Air pollution is associated with multiple adverse health outcomes, yet its role in the progression of cerebral malignancies remains unclear. Here, a novel aerosol-organoid exposure platform (AOEP) is developed to investigate the adverse effects from secondary organic aerosol (SOA) on the prognosis of glioblastoma. Naphthalene SOA (NSOA), typically emerged from traffic and combustion-related sources, is photochemically synthesized and applied to AOEP as a type of representative anthropogenic air pollution here. Integrating patient-derived tumor organoid models and different glioma cells (U87 and U251) via AOEP, we observe that exposure to highly oxygenated SOA boosts cancer cell growth by triggering an upregulated expression of ALDH1A3, which strengthens the viability of glioma cells by blocking ferroptosis. The low survival rates in patients with high ALDH1A3 levels suggest the key role of this gene playing in glioma progression. Bridging atmospheric science and oncology, our work illustrates high potential for this novel AOEP being applied in future aerosol exposure assessment. Results from this AOEP-based study underscore ALDH1A3 as a therapeutic target for glioma treatment regarding environmental risks, highlighting the urgent need to regulate anthropogenic air pollution in the atmosphere, especially for secondarily evolved and highly oxygenated aerosol during regional transport out of a health perspective.",
+      "journal": "Journal of hazardous materials",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Liangzhu Laboratory, Zhejiang University, Hangzhou 310023, China; State Key Laboratory of Genetics and Development of Comoplex Phenotypes, School of Life Sciences, Great Bay Area Institute of Precision Medicine (Guangzhou), Fudan University, Shanghai, China.",
+        "State Key Laboratory of Genetics and Development of Comoplex Phenotypes, School of Life Sciences, Great Bay Area Institute of Precision Medicine (Guangzhou), Fudan University, Shanghai, China.",
+        "Department of Neurosurgery, Zhongshan Hospital, Fudan University, Shanghai 200032, China.",
+        "Cambridge-Suda Genomic Resource Center, Suzhou Medical College, Soochow University, Suzhou, Jiangsu 215123, China.",
+        "Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China.",
+        "State Key Laboratory of Atmospheric Boundary Layer Physics and Atmospheric Chemistry, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing 100029, China.",
+        "School of Environmental and Chemical Engineering, Shanghai University, Shanghai 200444, China.",
+        "Department of Pharmacy, Peking University People's Hospital, Beijing 100044, China.",
+        "School of the Environment, University of Toronto, Toronto, ON M5S 3E8, Canada; Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, ON M5S 3E5, Canada.",
+        "State Key Laboratory of Genetics and Development of Comoplex Phenotypes, School of Life Sciences, Great Bay Area Institute of Precision Medicine (Guangzhou), Fudan University, Shanghai, China; Shanghai Key Laboratory of Lung Inflammation and Injury, Zhongshan Hospital, Fudan University, Shanghai, 200438, China. Electronic address: xlin@fudan.edu.cn.",
+        "School of Environmental and Chemical Engineering, Shanghai University, Shanghai 200444, China. Electronic address: syw@shu.edu.cn."
+      ],
+      "doi": "10.1016/j.jhazmat.2026.144002",
+      "date": "2026-10-23",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994357/"
+    },
+    {
+      "pmid": "42993626",
+      "title": "Chronotherapy leveraging dietary context overcomes circadian rhythm influence on cancer cell response to PPAR antagonists.",
+      "abstract": "Circadian physiology coordinates systemic and cellular metabolism through a light-entrained central clock and metabolically synchronized peripheral clocks. Whether feeding-fasting cycles or tumor-intrinsic clocks primarily set tumor metabolic state is unclear. Here, we profiled colorectal cancer (CRC) responses to PPAR antagonists across 2D and 3D CRC models and tumor-bearing mice. In standard high-glucose, low-fat medium, Bmal1 oscillations and daily variation in PPAR antagonist sensitivity were apparent in CRC cells. By contrast, nutrient-defined media that recapitulate feeding and nighttime fasting abolished time-dependent variability and unified drug responses across models. Still, the fed state selectively sensitized spheroids and patient-derived organoids to PPAR-γ antagonism. In mice, dosing PPAR-γ antagonist in the fed state prolonged survival and reduced hepatotoxicity. The use of Bmal-1-silenced CRC cells validated that feeding-fasting rhythms, not tumor-intrinsic clocks, govern CRC sensitivity to PPAR antagonists. Our study also supports the predictive capacity of nutrient-alternating 3D tumor models, enabling metabolism-targeted anticancer treatment evaluation.",
+      "journal": "Cell reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "UCLouvain, Institut de Recherche Expérimentale et Clinique (IREC), Pole of Pharmacology and Therapeutics (FATH), 1200 Brussels, Belgium.",
+        "UCLouvain, Institut de Recherche Expérimentale et Clinique (IREC), Laboratory of Hepato-Gastroenterology, (GAEN), 1200 Brussels, Belgium.",
+        "Imaging Platform 2IP, UCLouvain, Institut de Recherche Expérimentale et Clinique (IREC), 1200 Brussels, Belgium.",
+        "UCLouvain, Institut de Recherche Expérimentale et Clinique (IREC), Pole of Pharmacology and Therapeutics (FATH), 1200 Brussels, Belgium; IREC Metabolomics Core, UCLouvain, 1200 Brussels, Belgium.",
+        "UCLouvain, Institut de Recherche Expérimentale et Clinique (IREC), Pole of Pharmacology and Therapeutics (FATH), 1200 Brussels, Belgium; Walloon Excellence in Life Sciences and BIOtechnology (WELBIO) Department, WEL Research Institute, 1300 Wavre, Belgium. Electronic address: olivier.feron@uclouvain.be."
+      ],
+      "doi": "10.1016/j.celrep.2026.118261",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42993626/"
+    },
+    {
+      "pmid": "42993555",
+      "title": "A thermosensitive bovine placenta decellularized extracellular matrix/Pluronic F127 composite hydrogel supports lineage specification and glia-associated development in hiPSC-derived human spinal cord organoids.",
+      "abstract": "Human spinal cord organoids (hSCOs) provide valuable platforms for modeling spinal cord development, disease, and injury-related processes, but their maturation and cellular complexity remain strongly influenced by the culture matrix. Here, we developed a thermosensitive bovine placenta decellularized extracellular matrix/Pluronic F127 composite hydrogel (BP-dECM/PF127CH) as a cost-effective, ECM-rich three-dimensional matrix for the generation of hiPSC-derived hSCOs. The composite hydrogel exhibited a thermosensitive sol-gel transition at physiological temperature, an interconnected porous microarchitecture, and favorable cytocompatibility with hiPSCs, with levels of apoptosis, viability, and proliferation comparable to those observed with Matrigel. Under identical RA/SHH-based caudal-ventral induction conditions, BP-dECM/PF127CH-cultured hSCOs demonstrated significantly enhanced folding morphogenesis and, by Day 22, yielded 4.82-fold more NKX6.1+ ventral progenitors and 3.28-fold more PAX6+ cells comparable to Matrigel. This matrix-driven developmental reshaping resulted in 2.74-fold more HB9+ motor neurons, 2.19-fold more GFAP+ astrocytes, 1.29-fold more TMEM119+ microglia together with coordinated upregulation of VGLUT1 and GAD67 (1.55-fold each), indicating enhanced regional progenitor patterning, motor neuron differentiation, glial lineage diversification and balanced excitatory/inhibitory synaptic specification, while preserving global neuronal differentiation (Tuj1, MAP2) and myelination (MBP). With 99.62% DNA removal and retention of laminin and fibronectin, BP-dECM/PF127CH combines native ECM instructiveness with practical thermosensitive handling at 20-30-fold lower cost than Matrigel. This composite hydrogel establishes a versatile and scalable platform for engineering advanced organoid models with enhanced structural and cellular fidelity.",
+      "journal": "Journal of materials chemistry. B",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Orthopedics, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi 710061, China. zhulei619@xjtu.edu.cn.",
+        "Department of Spine Surgery, Honghui Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi 710054, China. d22110652@163.com.",
+        "Shaanxi Key Laboratory of Spine Bionic Treatment, Xi'an, Shaanxi 710054, China."
+      ],
+      "doi": "10.1039/d6tb01610c",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42993555/"
     },
     {
       "pmid": "42990453",
@@ -334,6 +350,44 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42986098/"
     },
     {
+      "pmid": "42994103",
+      "title": "Matrix metalloproteinase-responsive micellar systems for cancer therapy: Design principles, preclinical evidence, and translational challenges.",
+      "abstract": "Matrix metalloproteinase (MMP)-responsive micelles are tumor-microenvironment-activated drug-delivery systems designed to convert local proteolytic activity into controlled carrier transformation or payload release. In these platforms, MMPs are not structural components of the micelle; rather, active enzymes cleave incorporated peptide linkers, coatings, prodrug bonds, or degradable matrices to trigger drug release, PEG deshielding, ligand exposure, charge or size transformation, micelle-to-fibre transition, local depot degradation, or enhanced cellular uptake. This review critically evaluates MMP-responsive micellar systems for cancer therapy by linking MMP biology with micellar architecture, payload design, activation mechanism, preclinical performance, and translational barriers. Conventional, reverse, unimolecular, mixed, and polyion complex micelles are first compared to establish the formulation principles underlying responsive delivery. The roles of MMPs in tumor invasion, stromal remodeling, biomarker detection, direct inhibition, and enzyme-triggered carrier activation are then discussed. Representative MMP-responsive micelles for chemotherapy, siRNA delivery, metastasis suppression, local therapy, and chemoimmunotherapy are analyzed with attention to cleavage mechanism, biological model, therapeutic outcome, and control design. Although preclinical studies demonstrate improved tumor accumulation, penetration, cellular uptake, drug release, antitumor efficacy, and reduced systemic toxicity in selected models, translation remains limited by heterogeneous MMP activity, substrate cross-reactivity, off-tumor protease activation, micellar instability, premature leakage, manufacturing complexity, and incomplete safety assessment. Future progress will require active-enzyme quantification, validated peptide specificity, non-cleavable and non-responsive controls, patient-relevant models, scalable manufacturing, and companion diagnostic strategies.",
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Institute of Chemistry, Division of Inorganic Chemistry, Islamia University of Bahawalpur, 63100, Pakistan.",
+        "College of Civil and Transportation Engineering, Shenzhen University, Shenzhen 518060, China. Electronic address: ziaahmad@szu.edu.cn.",
+        "College of Food Science and Engineering, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Department of Engineering and Systems Science, National Tsing Hua University, Taiwan.",
+        "Institute of Chemistry, Division of Inorganic Chemistry, Islamia University of Bahawalpur, 63100, Pakistan. Electronic address: dr.taj@iub.edu.pk.",
+        "Institute of Physics, Academia Sinica, Taiwan.",
+        "Department of Chemistry, COMSATS University Islamabad, Abbottabad, Khyber Pakhtunkhwa 22060, Pakistan.",
+        "State Key Laboratory of Bio-based Fiber Materials, School of Materials Science & Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China."
+      ],
+      "doi": "10.1016/j.colsurfb.2026.116294",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994103/"
+    },
+    {
+      "pmid": "42994081",
+      "title": "Beyond the surgeon's eye: towards a molecular definition of complete cytoreduction in advanced ovarian cancer.",
+      "abstract": "▪.",
+      "journal": "Gynecologic oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Reference Unit in Abdomino-Pelvic Oncological Surgery (UR-COAP) of the Valencia Region, University General Hospital of Castellon, Castellon, Spain; Department of Medicine, Universitat Jaume I (UJI), Castellon, Spain. Electronic address: llueca@uji.es."
+      ],
+      "doi": "10.1016/j.ygyno.2026.11.002",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994081/"
+    },
+    {
       "pmid": "42991873",
       "title": "Liquid biopsy in genitourinary cancers: circulating tumor DNA as a predictive biomarker for treatment selection and resistance monitoring.",
       "abstract": "Genitourinary (GU) cancers-prostate, urothelial, and renal cell carcinomas (RCCs)-are a leading source of oncologic morbidity and mortality. Tumor heterogeneity and evolving resistance limit static tissue biopsies, requiring real-time, non-invasive biomarkers. Circulating tumor DNA (ctDNA) captures the tumor's mutational landscape in real time and has emerged as a candidate biomarker for treatment selection and resistance monitoring in GU malignancies. An integrative review was conducted by two independent reviewers following the Whittemore and Knafl integrative review framework, informed by PRISMA 2020 conventions. Searches covered PubMed/MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL), Embase, and Web of Science (January 2020-April 2026). Screening and extraction were performed independently by both reviewers, with disagreements resolved by consensus. After deduplication, 118 records were screened, 39 assessed in full text, and 15 studies met inclusion criteria, stratified by cancer site. ctDNA functions primarily as a prognostic and treatment-monitoring biomarker across GU malignancies, with predictive utility for treatment selection well established in muscle-invasive bladder cancer (MIBC) and still maturing elsewhere. In castration-resistant prostate cancer (CRPC), ctDNA tumor fraction (TF) at enzalutamide cycle 3 independently predicts progression-free and overall survival (OS; median OS 16.0 vs. 22.1 months, ctDNA-detected vs. -undetected with discordant prostate-specific antigen). In MIBC, post-cystectomy ctDNA identifies relapse with 94% sensitivity and 98% specificity, and a ctDNA-stratified IMvigor010 analysis reveals an OS benefit from adjuvant atezolizumab [hazard ratio (HR) 0.59] in ctDNA-positive patients only. In RCC, the least mature stratum, cfDNA quantity, TP53 mutation, TF, and BAP1 status are associated with survival on systemic therapy. In upper tract urothelial carcinoma (UTUC), perioperative ctDNA fraction predicts recurrence-free survival, with clonal haematopoiesis accounting for a notable share of false positives. ctDNA is a molecularly grounded biomarker with the strongest evidence in metastatic CRPC (mCRPC) and MIBC, an expanding but preliminary base in RCC, and limited capacity, outside MIBC, to guide treatment selection.",
@@ -402,84 +456,149 @@
       "doi": "10.3389/fphar.2026.2001935",
       "date": "2026-10-22",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991091/"
-    },
-    {
-      "pmid": "42990908",
-      "title": "AAV serotype IVDs for patient selection in gene therapy development: Technical and regulatory considerations by ARDAT consortium.",
-      "abstract": "Currently, most clinical trials for adeno-associated virus (AAV)-based gene therapy (GT) exclude patients with pre-existing anti-AAV antibodies (AAV Abs) due to potential impact on treatment efficacy and safety. Diagnostic regulations require sponsors to define pre-existing AAV Ab level cutoffs and validate patient selection assays before beginning clinical studies. In the absence of robust clinical outcome data early in development, sponsors often rely on thresholds derived from literature or preclinical studies, or default to assay detection limits. The transferability of these thresholds to actual clinical outcomes remains uncertain, leading sponsors to use conservative cutoffs to avoid costly revalidations and development delays. This may prevent some patients from accessing potentially beneficial treatments. We advocate for more flexible validation approaches based on current understanding of antibody characteristics and the commonly used assay formats. We propose an AAV serotype-specific in vitro diagnostic (IVD) assay, an \"AAV serotype IVD,\" with pragmatic analytical validations for single AAV serotypes. This approach would allow sponsors to establish clinically meaningful cutoffs through adaptive clinical trials that progressively include patients with escalating pre-existing AAV Ab levels by implementing multiple cutoffs during clinical development. These measures could expedite AAV GT development while expanding access for patients with elevated pre-existing AAV Ab levels.",
-      "journal": "Molecular therapy. Advances",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Bayer AG, Pharmaceuticals R&D, 13353 Berlin, Germany.",
-        "Astellas Pharma Europe B.V., 2333 BE Leiden, the Netherlands.",
-        "Sangamo Therapeutics, Inc., Richmond, CA 94804, USA.",
-        "GenoSafe, 91002 Evry, France.",
-        "Asphalion S.L., 08014 Barcelona, Spain.",
-        "Bristol Myers Squibb, Princeton, NJ 08543, USA.",
-        "Astellas Pharma Global Development, Northbrook, IL 60062, USA.",
-        "Novartis, 4056 Basel, Switzerland.",
-        "Celerion (GB) Ltd., BT9 6AD Belfast, UK.",
-        "University of Sheffield, S102TN Sheffield, UK.",
-        "Asphalion SL, 08014 Barcelona, Spain."
-      ],
-      "doi": "10.1016/j.omta.2026.201862",
-      "date": "2026-10-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990908/"
-    },
-    {
-      "pmid": "42990876",
-      "title": "Exploration of circulating proteins associated with tumor stromal content using matched serum and tissue samples from patients with colon cancer.",
-      "abstract": "Liquid biopsies provide a source of biomolecules that allow tumor characterization. Increasing evidence shows that the tumor microenvironment (TME) plays a central role in behavior of colon cancer. This study assessed which proteins in the circulation correlate with tumor stromal content through analysis of serum and corresponding tissue samples from patients with colon cancer. A broad set of circulating proteins is quantified, ranging from common apolipoproteins, transport and complement factors, to key factors from interconnected stromal pathways such as coagulation and acute phase inflammation. The cohort consisted of 97 patients with colon cancer and 50 control individuals who all underwent colonoscopy. Targeted mass spectrometry was applied to quantify 156 serum proteins via their surrogate peptides and corresponding internal standards. Matching solid tumor tissue slides from all 97 patients were used to determine the Tumor-Stroma Ratio (TSR). Serum protein levels were compared between stroma-high and stroma-low tumors, resulting in a subset of discriminating proteins. Composite protein scores were evaluated in multivariable Cox models. Four serum proteins differed significantly between stroma-high and stroma-low tumors, all showing elevated levels in stroma-high patients, including complement-related proteins (C2, factor B, and C1r subcomponent-like protein) and the coagulation-related vitamin K-dependent protein S. This resulted in a composite Stromal Protein Score that may capture TME-driven variations. The Stromal Protein Score was significantly different between stroma-high and stroma-low patients (adjusted p < 0.001). Our data indicate that stroma-high tumors are associated with systemic alterations in complement and coagulation-related proteins. The results encourage further development of liquid biopsy-based protein profiling approaches, aiming for clinical implementation as a non-invasive strategy for TME-informed risk stratification and treatment monitoring in colon cancer.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Surgery, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of Pathology, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of Clinical Chemistry and Laboratory Medicine, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Department of Medicine, Division of Thrombosis and Hemostasis, Leiden University Medical Center, Leiden, the Netherlands.",
-        "Einthoven Laboratory for Vascular and Regenerative Medicine, Leiden University Medical Center, Leiden, the Netherlands."
-      ],
-      "doi": "10.1016/j.jlb.2026.100688",
-      "date": "2026-10-23",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990876/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-42992560",
+      "id": "pubmed-42994593",
       "date": "2026-11-06",
-      "title": "Gene therapy for epilepsy: From SCN1A to broadened therapeutic horizons (Review).",
+      "title": "Immortalized intestinal telocytes support stem cell niche function in vitro.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994593/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cellular and molecular gastroenterology and hepatology，PMID 为 42994593。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42994426",
+      "date": "2026-11-06",
+      "title": "Neural interface instructs layer 4-appropriate circuit reconstruction with engrafted human brain organoids and improves visually guided behavior.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992560/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994426/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell stem cell，PMID 为 42994426。",
+      "report": "Repairing precise neural microcircuitry after cortical injury remains a pivotal challenge. Human brain organoids (hBOs) are a promising cell source, but disorganized integration limits their therapeutic potential. Here, we demonstrated that targeted neuromodul...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42993626",
+      "date": "2026-11-06",
+      "title": "Chronotherapy leveraging dietary context overcomes circadian rhythm influence on cancer cell response to PPAR antagonists.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42993626/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "临床",
-        "监管"
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular medicine reports，PMID 为 42992560。",
-      "report": "Genetic epilepsy, for which the molecular mechanisms are relatively well defined in numerous monogenic forms, represents an attractive model for the transition from symptomatic seizure control to mechanism‑driven correction. However, gene therapy strategies di...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 42993626。",
+      "report": "Circadian physiology coordinates systemic and cellular metabolism through a light-entrained central clock and metabolically synchronized peripheral clocks. Whether feeding-fasting cycles or tumor-intrinsic clocks primarily set tumor metabolic state is unclear....",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42993555",
+      "date": "2026-11-06",
+      "title": "A thermosensitive bovine placenta decellularized extracellular matrix/Pluronic F127 composite hydrogel supports lineage specification and glia-associated development in hiPSC-derived human spinal cord organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42993555/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of materials chemistry. B，PMID 为 42993555。",
+      "report": "Human spinal cord organoids (hSCOs) provide valuable platforms for modeling spinal cord development, disease, and injury-related processes, but their maturation and cellular complexity remain strongly influenced by the culture matrix. Here, we developed a ther...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42994081",
+      "date": "2026-11-06",
+      "title": "Beyond the surgeon's eye: towards a molecular definition of complete cytoreduction in advanced ovarian cancer.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994081/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Gynecologic oncology，PMID 为 42994081。",
+      "report": "▪.",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -514,6 +633,68 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-42994359",
+      "date": "2026-11-03",
+      "title": "Polystyrene nanoplastic exposure exacerbates epileptic vulnerability in SCN1A mutation models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994359/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42994359。",
+      "report": "Micro- and nanoplastics are pervasive contaminants detected in human tissues that cross the blood-brain barrier to induce neuroinflammation, apoptosis, and neurotoxicity. Here, we examined whether polystyrene nanoplastic (PS-NP) exposure alters seizure suscept...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-42994103",
+      "date": "2026-11-02",
+      "title": "Matrix metalloproteinase-responsive micellar systems for cancer therapy: Design principles, preclinical evidence, and translational challenges.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994103/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Colloids and surfaces. B, Biointerfaces，PMID 为 42994103。",
+      "report": "Matrix metalloproteinase (MMP)-responsive micelles are tumor-microenvironment-activated drug-delivery systems designed to convert local proteolytic activity into controlled carrier transformation or payload release. In these platforms, MMPs are not structural...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42990453",
       "date": "2026-11-01",
       "title": "Single-cell perturbation prediction near experimental reproducibility with GENESIS.",
@@ -545,34 +726,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42990453。",
       "report": "Single-cell perturbation atlases now measure cellular responses across millions of cells, but the number of possible combinations of biological contexts, perturbations, doses and other experimental variables make exhaustive measurements infeasible. Here, we pr...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42992160",
-      "date": "2026-10-29",
-      "title": "iPSC-derived RPE and retinal organoids from two phenotypically different Stargardt disease patients show differences in ABCA4 function.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992160/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 42992160。",
-      "report": "Stargardt disease is a phenotypically heterogeneous disease caused by bi-allelic mutations in the ABCA4 gene. We generated retinal pigment epithelium (RPE) cells, photoreceptor precursors (PhRPs), and retinal organoids (ROs) from two induced pluripotent stem (...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -740,97 +893,32 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42990876",
+      "id": "pubmed-42994357",
       "date": "2026-10-23",
-      "title": "Exploration of circulating proteins associated with tumor stromal content using matched serum and tissue samples from patients with colon cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
+      "title": "Secondary organic aerosol from polycyclic aromatic hydrocarbon modulates glioma proliferation.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990876/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42994357/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Diagnostics",
-        "Precision Medicine",
+        "Organoids",
+        "Advanced Disease Models",
         "Precision Oncology"
       ],
       "tags": [
-        "诊断",
-        "精准医疗",
+        "类器官",
+        "疾病模型",
         "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 42990876。",
-      "report": "Liquid biopsies provide a source of biomolecules that allow tumor characterization. Increasing evidence shows that the tumor microenvironment (TME) plays a central role in behavior of colon cancer. This study assessed which proteins in the circulation correlat...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42991768",
-      "date": "2026-10-22",
-      "title": "Establishment and functional evaluation of a two-stage mouse hepatocyte-derived organoid culture system.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991768/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 42991768。",
-      "report": "Primary hepatocytes rapidly lose differentiated functions during prolonged in vitro culture, limiting their use in studies of liver metabolism and zonation. This study aimed to establish a two-stage mouse hepatocyte-derived organoid system that enables serial...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42991212",
-      "date": "2026-10-22",
-      "title": "Mapping the subcellular pharmacokinetic-pharmacodynamic landscape: a systems-pharmacology framework for predicting combination therapies against intracellular bacterial infections.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991212/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 42991212。",
-      "report": "Intracellular bacterial pathogens represent one of the most formidable challenges in contemporary medicine. By exploiting host cellular niches, these organisms evade immune surveillance and withstand conventional antibiotic therapies, establishing persistent r...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of hazardous materials，PMID 为 42994357。",
+      "report": "Air pollution is associated with multiple adverse health outcomes, yet its role in the progression of cerebral malignancies remains unclear. Here, a novel aerosol-organoid exposure platform (AOEP) is developed to investigate the adverse effects from secondary...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1029,36 +1117,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-42992223",
-      "date": "2026-10-14",
-      "title": "Transplanted human photoreceptors differentially survive, incorporate, and mature in mildly and severely degenerated mouse retinae.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42992223/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Advances，PMID 为 42992223。",
-      "report": "Photoreceptor transplantation is considered a disease-agnostic therapeutic strategy for retinal degenerative diseases with highly heterogeneous genetic, molecular, and cellular pathologies. While integration of human photoreceptors enriched from stem-cell-deri...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42941810",
       "date": "2026-10-12",
       "title": "The Tenocyte from Atom to Cell: A Critical Multiscale Synthesis Linking Collagen Chemistry, Tissue Mechanics, Cell Mechanobiology and Mathematical Modelling.",
@@ -1084,34 +1142,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of molecular sciences，PMID 为 42941810。",
       "report": "The tenocyte builds, maintains, senses and degrades one of the most mechanically demanding extracellular matrices in vertebrates, yet the chemical, physical, biological and mathematical descriptions of this system have developed in largely separate literatures...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42990908",
-      "date": "2026-10-08",
-      "title": "AAV serotype IVDs for patient selection in gene therapy development: Technical and regulatory considerations by ARDAT consortium.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990908/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Advances，PMID 为 42990908。",
-      "report": "Currently, most clinical trials for adeno-associated virus (AAV)-based gene therapy (GT) exclude patients with pre-existing anti-AAV antibodies (AAV Abs) due to potential impact on treatment efficacy and safety. Diagnostic regulations require sponsors to defin...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1173,36 +1203,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of cheminformatics，PMID 为 42989395。",
       "report": "Protein folding remains a fundamental problem in computational biology, where understanding folding trajectories and dynamic behavior under physiological conditions is critical for linking structure to function. Recent advances such as AlphaFold have revolutio...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42990890",
-      "date": "2026-03-04",
-      "title": "Overexpression of LINC01605 promotes early tumorigenic phenotypes in primary human colon epithelial organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990890/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Genes & diseases，PMID 为 42990890。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-11-06T19:28:43.545108+00:00",
+  "capturedAt": "2026-11-07T06:07:29.152933+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-23",
-    "end": "2026-11-06"
+    "start": "2026-10-24",
+    "end": "2026-11-07"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,31 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-11-06",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-06T21:06:28.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38753",
+      "filmNumber": "261531934",
+      "items": "",
+      "size": 10764977,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "mrna-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001682852-26-000197",
+      "companyId": "moderna",
+      "companyName": "Moderna",
+      "companyDirections": [
+        "RNA Therapeutics"
+      ],
+      "secTicker": "MRNA",
+      "cik": "0001682852",
+      "secName": "Moderna, Inc.",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/mrna-20260930.htm"
+    },
     {
       "filingDate": "2026-11-06",
       "reportDate": "2026-11-06",
@@ -1017,85 +1042,40 @@
       "cik": "0001434265",
       "secName": "GENMAB A/S",
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000140/gmab_20261028x6k.htm"
-    },
-    {
-      "filingDate": "2026-10-23",
-      "reportDate": "2026-10-23",
-      "acceptanceDateTime": "2026-10-23T17:41:58.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "000-19125",
-      "filmNumber": "261481640",
-      "items": "7.01,8.01,9.01",
-      "size": 186319,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "ef20084325_8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001140361-26-040631",
-      "companyId": "ionis",
-      "companyName": "Ionis Pharmaceuticals",
-      "companyDirections": [
-        "RNA Therapeutics"
-      ],
-      "secTicker": "IONS",
-      "cik": "0000874015",
-      "secName": "IONIS PHARMACEUTICALS INC",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040631/ef20084325_8k.htm"
-    },
-    {
-      "filingDate": "2026-10-23",
-      "reportDate": "2026-10-23",
-      "acceptanceDateTime": "2026-10-23T15:58:39.000Z",
-      "act": "34",
-      "form": "6-K",
-      "fileNumber": "001-38976",
-      "filmNumber": "261480957",
-      "items": "",
-      "size": 137397,
-      "isXBRL": 0,
-      "isInlineXBRL": 0,
-      "primaryDocument": "gmab_20261023x6k.htm",
-      "primaryDocDescription": "6-K",
-      "accessionNumber": "0001434265-26-000138",
-      "companyId": "genmab",
-      "companyName": "Genmab",
-      "companyDirections": [
-        "Antibody / ADC"
-      ],
-      "secTicker": "GMAB",
-      "cik": "0001434265",
-      "secName": "GENMAB A/S",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm"
-    },
-    {
-      "filingDate": "2026-10-23",
-      "reportDate": "2026-10-23",
-      "acceptanceDateTime": "2026-10-23T13:00:30.000Z",
-      "act": "34",
-      "form": "8-K",
-      "fileNumber": "001-42130",
-      "filmNumber": "261480018",
-      "items": "8.01",
-      "size": 144534,
-      "isXBRL": 1,
-      "isInlineXBRL": 1,
-      "primaryDocument": "d135568d8k.htm",
-      "primaryDocDescription": "8-K",
-      "accessionNumber": "0001193125-26-429533",
-      "companyId": "tempus-ai",
-      "companyName": "Tempus AI",
-      "companyDirections": [
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "secTicker": "TEM",
-      "cik": "0001717115",
-      "secName": "Tempus AI, Inc.",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm"
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001682852-000168285226000197",
+      "date": "2026-11-06",
+      "title": "Moderna filed Form 10-Q",
+      "entity": "Moderna",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/mrna-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "RNA Therapeutics"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "MRNA"
+      ],
+      "companyIds": [
+        "moderna"
+      ],
+      "fact": "SEC EDGAR lists accession 0001682852-26-000197 for Moderna, Form 10-Q, filed on 2026-11-06.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001682852-000168285226000194",
       "date": "2026-11-06",
@@ -2182,100 +2162,6 @@
       ],
       "fact": "SEC EDGAR lists accession 0001434265-26-000140 for Genmab, Form 6-K, filed on 2026-10-28.",
       "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0000874015-000114036126040631",
-      "date": "2026-10-23",
-      "title": "Ionis Pharmaceuticals filed Form 8-K",
-      "entity": "Ionis Pharmaceuticals",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040631/ef20084325_8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "RNA Therapeutics"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "IONS"
-      ],
-      "companyIds": [
-        "ionis"
-      ],
-      "fact": "SEC EDGAR lists accession 0001140361-26-040631 for Ionis Pharmaceuticals, Form 8-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001434265-000143426526000138",
-      "date": "2026-10-23",
-      "title": "Genmab filed Form 6-K",
-      "entity": "Genmab",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000138/gmab_20261023x6k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Antibody / ADC"
-      ],
-      "tags": [
-        "SEC",
-        "6-K",
-        "GMAB"
-      ],
-      "companyIds": [
-        "genmab"
-      ],
-      "fact": "SEC EDGAR lists accession 0001434265-26-000138 for Genmab, Form 6-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 6-K.",
-      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
-      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
-    },
-    {
-      "id": "sec-0001717115-000119312526429533",
-      "date": "2026-10-23",
-      "title": "Tempus AI filed Form 8-K",
-      "entity": "Tempus AI",
-      "primaryCategory": "Company & Market",
-      "subCategory": "Current Report",
-      "eventType": "Corporate Update",
-      "sourceType": "Filing",
-      "sourceName": "SEC EDGAR",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526429533/d135568d8k.htm",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Corporate Filings",
-        "Precision Diagnostics",
-        "Healthcare AI"
-      ],
-      "tags": [
-        "SEC",
-        "8-K",
-        "TEM"
-      ],
-      "companyIds": [
-        "tempus-ai"
-      ],
-      "fact": "SEC EDGAR lists accession 0001193125-26-429533 for Tempus AI, Form 8-K, filed on 2026-10-23.",
-      "report": "SEC metadata describes the primary document as: 8-K.",
       "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
       "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
     }
