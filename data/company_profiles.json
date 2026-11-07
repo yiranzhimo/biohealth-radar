@@ -41560,7 +41560,7 @@
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
-        "ticker": "GNTA",
+        "ticker": "SAEN",
         "exchange": "SEC",
         "headquarters": null,
         "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001838716",
@@ -41571,7 +41571,7 @@
             "0001838716"
           ],
           "ticker": [
-            "GNTA"
+            "SAEN"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",

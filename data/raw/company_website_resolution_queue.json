@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-06T10:57:52+00:00",
+  "capturedAt": "2026-11-07T10:15:51+00:00",
   "count": 588,
   "items": [
     {
@@ -5260,7 +5260,7 @@
           "0001838716"
         ],
         "ticker": [
-          "GNTA"
+          "SAEN"
         ]
       },
       "sourceTypes": [
