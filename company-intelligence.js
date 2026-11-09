@@ -49297,9 +49297,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "– ZANVASTRO ™ (zilganersen) first approved medicine for Alexander disease; first independent launch underway from leading neurology pipeline – – TRYNGOLZA ® (olezarsen) 2026 product sales guidance lowered as sHTG launch ramps more gradually than expected reflecting early…",
+            "text": "– ZANVASTRO ™ (zilganersen) first approved medicine for Alexander disease; first independent launch underway from leading neurology pipeline – – TRYNGOLZA ® (olezarsen) 2026 product sales guidance lowered as sHTG launch ramps more gradually than expected reflecting early…",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
+            "sourceUrl": "https://ionis.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
             "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49307,7 +49315,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
             "text": "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49315,7 +49323,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49323,31 +49331,23 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator).",
-            "text": "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator).",
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "textOriginal": "Ionis reports third quarter 2026 financial results and highlights progress on key programs",
+            "text": "Ionis reports third quarter 2026 financial results and highlights progress on key programs",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
-            "text": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
-            "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-            "sourceUrl": "https://ionis.com/science-and-innovation/pipeline",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-ionis-official-ad547eb42d6e",
+          "evidence-company-ionis-official-5fe2320fec68",
           "evidence-sec-0000874015-000114036126040631",
           "evidence-sec-0000874015-000114036126040388",
           "evidence-sec-0000874015-000114036126037371",
@@ -49362,14 +49362,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-ionis-official-ad547eb42d6e",
-            "date": "2026-11-07",
+            "id": "event-evidence-company-ionis-official-5fe2320fec68",
+            "date": "2026-11-09",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+            "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
             "sourceUrl": "https://ionis.com/"
           },
           {
@@ -49429,7 +49429,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 7
         },
-        "lastEvidenceDate": "2026-11-07",
+        "lastEvidenceDate": "2026-11-09",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -49438,14 +49438,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-ionis-official-ad547eb42d6e",
-          "date": "2026-11-07",
+          "id": "event-evidence-company-ionis-official-5fe2320fec68",
+          "date": "2026-11-09",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-ad547eb42d6e",
+          "evidenceId": "evidence-company-ionis-official-5fe2320fec68",
           "sourceUrl": "https://ionis.com/"
         },
         {

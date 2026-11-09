@@ -13037,7 +13037,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -17505,7 +17505,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -28223,7 +28223,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -44913,7 +44913,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -45767,7 +45767,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [],
       "businessExcerpts": [],
@@ -49827,15 +49827,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-ad547eb42d6e",
+      "id": "evidence-company-ionis-official-5fe2320fec68",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-09",
+      "snapshotDate": "2026-11-09",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -49851,7 +49851,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ad547eb42d6eccb2d7a95593c7c646813c2b36489dd8719f7ea22203ec5421d8.",
+      "fact": "The official page was captured with normalized-content hash 5fe2320fec6895aa7048953692d709412bc21dc825919f4b7ee06bd7d20a8b3a.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -49864,21 +49864,21 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ad547eb42d6eccb2d7a95593c7c646813c2b36489dd8719f7ea22203ec5421d8",
-      "changeType": "unchanged",
+      "contentHash": "5fe2320fec6895aa7048953692d709412bc21dc825919f4b7ee06bd7d20a8b3a",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
         "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
         "For the latest on Ionis news and developments",
-        "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator)."
+        "Ionis reports third quarter 2026 financial results and highlights progress on key programs"
       ],
       "businessExcerpts": [
         "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator).",
-        "We believe operating responsibly and sustainably creates long-term value and a positive impact for our company, stakeholders, patients, communities and the broader world.",
-        "(Nasdaq: IONS) today announced that the company was named the top employer to work for by Science in its annual Top Employers survey of the biotech and pharmaceutical industries."
+        "We believe operating responsibly and sustainably creates long-term value and a positive impact for our company, stakeholders, patients, communities and the broader world."
       ],
       "productExcerpts": [
+        "– ZANVASTRO ™ (zilganersen) first approved medicine for Alexander disease; first independent launch underway from leading neurology pipeline – – TRYNGOLZA ® (olezarsen) 2026 product sales guidance lowered as sHTG launch ramps more gradually than expected reflecting early…",
         "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…"
       ],
       "planExcerpts": []
