@@ -45420,6 +45420,7 @@
           "evidence-sec-0001110803-000111080326000207",
           "evidence-sec-0001110803-000111080326000202",
           "evidence-company-illumina-pipeline-3e2858fee81b",
+          "evidence-pubmed-43001313",
           "evidence-sec-0001110803-000111080326000195",
           "evidence-sec-0001110803-000119312526354010",
           "evidence-sec-0001110803-000095015726000888",
@@ -45479,15 +45480,15 @@
             "sourceUrl": "https://www.illumina.com/systems.html"
           },
           {
-            "id": "event-sec-0001110803-000111080326000195",
-            "date": "2026-10-13",
-            "title": "Illumina filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
+            "id": "event-pubmed-43001313",
+            "date": "2026-10-21",
+            "title": "Validation of a ctDNA-Based comprehensive genomic profiling panel (IST80 Plus) for advanced non-small cell lung cancer.",
+            "eventType": "Research",
+            "sourceType": "Paper",
             "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001110803-000111080326000195",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
+            "needsReview": true,
+            "evidenceId": "evidence-pubmed-43001313",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001313/"
           }
         ],
         "inferences": [],
@@ -45497,10 +45498,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 13,
+        "evidenceCount": 14,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 11
+          "Filing": 11,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-11-07",
         "programCandidateCount": 0,
@@ -45555,6 +45557,17 @@
           "sourceUrl": "https://www.illumina.com/systems.html"
         },
         {
+          "id": "event-pubmed-43001313",
+          "date": "2026-10-21",
+          "title": "Validation of a ctDNA-Based comprehensive genomic profiling panel (IST80 Plus) for advanced non-small cell lung cancer.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-pubmed-43001313",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001313/"
+        },
+        {
           "id": "event-sec-0001110803-000111080326000195",
           "date": "2026-10-13",
           "title": "Illumina filed Form 8-K",
@@ -45586,17 +45599,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000095015726000888",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
-        },
-        {
-          "id": "event-sec-0001110803-000119312526346923",
-          "date": "2026-08-12",
-          "title": "Illumina filed Form 424B2",
-          "eventType": "Offering",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001110803-000119312526346923",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
         }
       ]
     },
@@ -49227,9 +49229,9 @@
           {
             "form": "10-Q",
             "label": "季报",
-            "date": "2026-07-29",
+            "date": "2026-11-09",
             "title": "Ionis Pharmaceuticals filed Form 10-Q",
-            "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000251/form10q.htm",
+            "url": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000271/form10q.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -49305,20 +49307,42 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0000874015-000114036126042598",
+          "evidence-sec-0000874015-000087401526000271",
           "evidence-company-ionis-official-5fe2320fec68",
           "evidence-sec-0000874015-000114036126040631",
           "evidence-sec-0000874015-000114036126040388",
           "evidence-sec-0000874015-000114036126037371",
           "evidence-sec-0000874015-000114036126035802",
           "evidence-sec-0000874015-000114036126035657",
-          "evidence-company-ionis-pipeline-3987692c42b2",
-          "evidence-sec-0000874015-000114036126029960",
-          "evidence-sec-0000874015-000087401526000251"
+          "evidence-company-ionis-pipeline-3987692c42b2"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0000874015-000114036126042598",
+            "date": "2026-11-09",
+            "title": "Ionis Pharmaceuticals filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0000874015-000114036126042598",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126042598/ef20085128_8k.htm"
+          },
+          {
+            "id": "event-sec-0000874015-000087401526000271",
+            "date": "2026-11-09",
+            "title": "Ionis Pharmaceuticals filed Form 10-Q",
+            "eventType": "Periodic Report",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0000874015-000087401526000271",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000271/form10q.htm"
+          },
           {
             "id": "event-evidence-company-ionis-official-5fe2320fec68",
             "date": "2026-11-09",
@@ -49351,28 +49375,6 @@
             "needsReview": false,
             "evidenceId": "evidence-sec-0000874015-000114036126040388",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_8k.htm"
-          },
-          {
-            "id": "event-sec-0000874015-000114036126037371",
-            "date": "2026-09-23",
-            "title": "Ionis Pharmaceuticals filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0000874015-000114036126037371",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_8k.htm"
-          },
-          {
-            "id": "event-sec-0000874015-000114036126035802",
-            "date": "2026-09-04",
-            "title": "Ionis Pharmaceuticals filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0000874015-000114036126035802",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/ef20081690_8k.htm"
           }
         ],
         "inferences": [],
@@ -49395,6 +49397,28 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0000874015-000114036126042598",
+          "date": "2026-11-09",
+          "title": "Ionis Pharmaceuticals filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0000874015-000114036126042598",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126042598/ef20085128_8k.htm"
+        },
+        {
+          "id": "event-sec-0000874015-000087401526000271",
+          "date": "2026-11-09",
+          "title": "Ionis Pharmaceuticals filed Form 10-Q",
+          "eventType": "Periodic Report",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0000874015-000087401526000271",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000087401526000271/form10q.htm"
+        },
         {
           "id": "event-evidence-company-ionis-official-5fe2320fec68",
           "date": "2026-11-09",
@@ -49460,28 +49484,6 @@
           "needsReview": true,
           "evidenceId": "evidence-sec-0000874015-000114036126035657",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm"
-        },
-        {
-          "id": "event-evidence-company-ionis-pipeline-3987692c42b2",
-          "date": "2026-08-10",
-          "title": "Our Pipeline of RNA-Targeted Medicines | IONIS",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-ionis-pipeline-3987692c42b2",
-          "sourceUrl": "https://ionis.com/science-and-innovation/pipeline"
-        },
-        {
-          "id": "event-sec-0000874015-000114036126029960",
-          "date": "2026-07-29",
-          "title": "Ionis Pharmaceuticals filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0000874015-000114036126029960",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_8k.htm"
         }
       ]
     },

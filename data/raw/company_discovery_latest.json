@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-09T11:36:36+00:00",
+  "capturedAt": "2026-11-09T22:27:24.812583+00:00",
   "summary": {
-    "mentionCount": 659,
-    "candidateCount": 590,
+    "mentionCount": 663,
+    "candidateCount": 594,
     "corroboratedCount": 3,
     "identifiedCount": 585,
-    "needsReviewCount": 2,
+    "needsReviewCount": 6,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 2,
+      "ClinicalTrials": 6,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,15 +20,15 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-67564deb1ae56fb4",
-      "observedName": "Vielight Inc.",
-      "normalizedName": "vielight",
+      "id": "mention-clinicaltrials-052d7123d316aa76",
+      "observedName": "Dimagi Inc.",
+      "normalizedName": "dimagi",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05857124",
-      "sourceDate": "2025-06-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05857124",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01641367",
+      "sourceDate": "2019-03-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -39,35 +39,122 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study Evaluating the Efficacy of the Vielight Neuro RX Gamma in the Treatment of Post COVID-19 Cognitive Impairment"
+      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
     },
     {
-      "id": "mention-clinicaltrials-baba7727cf5b15c9",
-      "observedName": "Innovis LLC",
-      "normalizedName": "innovis",
+      "id": "mention-clinicaltrials-0fa14a9dd9ffb6f8",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT06294886",
-      "sourceDate": "2024-03-07",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01641367",
+      "sourceDate": "2019-03-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "Diagnostics",
-        "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "诊断"
+        "临床试验"
       ],
       "activitySignals": [
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
+      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+    },
+    {
+      "id": "mention-clinicaltrials-2686b956341875d5",
+      "observedName": "Janssen Pharmaceuticals",
+      "normalizedName": "janssen pharmaceuticals",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT01641367",
+      "sourceDate": "2019-03-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+    },
+    {
+      "id": "mention-clinicaltrials-4120ec5b0c46fd10",
+      "observedName": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+      "normalizedName": "advancing clinical therapeutics globally for hiv aids and other infections",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01641367",
+      "sourceDate": "2019-03-15",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+    },
+    {
+      "id": "mention-clinicaltrials-c4c53dd67e90a4bd",
+      "observedName": "Neurophth Therapeutics Inc",
+      "normalizedName": "neurophth therapeutics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05820152",
+      "sourceDate": "2024-09-20",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05820152",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Gene Therapy",
+        "Genetic Medicine",
+        "中国",
+        "临床试验",
+        "基因治疗",
+        "基因编辑"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Gene Therapy Clinical Trial for the Treatment of Leber's Hereditary Optic Neuropathy Associated With ND1 Mutations"
+    },
+    {
+      "id": "mention-clinicaltrials-d30cb0ab0e30d1aa",
+      "observedName": "Green Cross Corporation",
+      "normalizedName": "green cross",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT01606163",
+      "sourceDate": "2014-01-03",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01606163",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Safety and Pharmacokinetics Study of Healthy Male Adults When Repeatedly Administered Through Intravenous Injection"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43751,41 +43838,27 @@
       ]
     },
     {
-      "id": "candidate-innovis",
-      "name": "Innovis LLC",
+      "id": "candidate-advancing-clinical-therapeutics-globally-for-hiv-aids-and-other-infections",
+      "name": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
       "aliases": [
-        "Innovis LLC"
+        "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections"
       ],
-      "normalizedName": "innovis",
+      "normalizedName": "advancing clinical therapeutics globally for hiv aids and other infections",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2024-03-07",
-      "lastSeenAt": "2024-03-07",
+      "firstSeenAt": "2019-03-15",
+      "lastSeenAt": "2019-03-15",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "themes": [
           "Clinical Trials",
-          "Diagnostics",
-          "Oncology",
-          "Precision Medicine",
-          "Precision Oncology",
-          "临床试验",
-          "精准医疗",
-          "肿瘤",
-          "诊断"
+          "临床试验"
         ],
         "tags": []
       },
@@ -43798,33 +43871,33 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-baba7727cf5b15c9"
+        "mention-clinicaltrials-4120ec5b0c46fd10"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-03-07",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06294886",
-          "externalId": "NCT06294886",
-          "contextTitle": "Vaginal Fluid Collection for Detection of Endometrial Cancer"
+          "sourceDate": "2019-03-15",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+          "externalId": "NCT01641367",
+          "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
         }
       ]
     },
     {
-      "id": "candidate-vielight",
-      "name": "Vielight Inc.",
+      "id": "candidate-green-cross",
+      "name": "Green Cross Corporation",
       "aliases": [
-        "Vielight Inc."
+        "Green Cross Corporation"
       ],
-      "normalizedName": "vielight",
+      "normalizedName": "green cross",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-06-15",
-      "lastSeenAt": "2025-06-15",
+      "firstSeenAt": "2014-01-03",
+      "lastSeenAt": "2014-01-03",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -43846,17 +43919,75 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-67564deb1ae56fb4"
+        "mention-clinicaltrials-d30cb0ab0e30d1aa"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2025-06-15",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT05857124",
-          "externalId": "NCT05857124",
-          "contextTitle": "A Study Evaluating the Efficacy of the Vielight Neuro RX Gamma in the Treatment of Post COVID-19 Cognitive Impairment"
+          "sourceDate": "2014-01-03",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01606163",
+          "externalId": "NCT01606163",
+          "contextTitle": "Safety and Pharmacokinetics Study of Healthy Male Adults When Repeatedly Administered Through Intravenous Injection"
+        }
+      ]
+    },
+    {
+      "id": "candidate-neurophth-therapeutics",
+      "name": "Neurophth Therapeutics Inc",
+      "aliases": [
+        "Neurophth Therapeutics Inc"
+      ],
+      "normalizedName": "neurophth therapeutics",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2024-09-20",
+      "lastSeenAt": "2024-09-20",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Gene Therapy",
+          "Genetic Medicine",
+          "中国",
+          "临床试验",
+          "基因治疗",
+          "基因编辑"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Gene Therapy",
+          "Genetic Medicine",
+          "中国",
+          "临床试验",
+          "基因治疗",
+          "基因编辑"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-c4c53dd67e90a4bd"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2024-09-20",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT05820152",
+          "externalId": "NCT05820152",
+          "contextTitle": "Gene Therapy Clinical Trial for the Treatment of Leber's Hereditary Optic Neuropathy Associated With ND1 Mutations"
         }
       ]
     },
@@ -47171,6 +47302,150 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
+        }
+      ]
+    },
+    {
+      "id": "candidate-dimagi",
+      "name": "Dimagi Inc.",
+      "aliases": [
+        "Dimagi Inc."
+      ],
+      "normalizedName": "dimagi",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2019-03-15",
+      "lastSeenAt": "2019-03-15",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-052d7123d316aa76"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2019-03-15",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+          "externalId": "NCT01641367",
+          "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+        }
+      ]
+    },
+    {
+      "id": "candidate-janssen-pharmaceuticals",
+      "name": "Janssen Pharmaceuticals",
+      "aliases": [
+        "Janssen Pharmaceuticals"
+      ],
+      "normalizedName": "janssen pharmaceuticals",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2019-03-15",
+      "lastSeenAt": "2019-03-15",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-2686b956341875d5"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2019-03-15",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+          "externalId": "NCT01641367",
+          "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+        }
+      ]
+    },
+    {
+      "id": "candidate-merck-sharp-and-dohme",
+      "name": "Merck Sharp & Dohme LLC",
+      "aliases": [
+        "Merck Sharp & Dohme LLC"
+      ],
+      "normalizedName": "merck sharp and dohme",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2019-03-15",
+      "lastSeenAt": "2019-03-15",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-0fa14a9dd9ffb6f8"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2019-03-15",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+          "externalId": "NCT01641367",
+          "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
         }
       ]
     }
