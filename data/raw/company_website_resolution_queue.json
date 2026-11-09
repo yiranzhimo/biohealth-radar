@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-08T10:27:28+00:00",
+  "capturedAt": "2026-11-09T11:38:36+00:00",
   "count": 588,
   "items": [
     {
@@ -822,24 +822,6 @@
       },
       "sourceTypes": [
         "HKEX Chapter 18A biotech marker"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aivocode",
-      "name": "Aivocode, Llp",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11403170",
-      "identifiers": {
-        "nihIpf": [
-          "10038623"
-        ],
-        "uei": [
-          "TLPZZJEMNND1"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "molecular diagnostics"
       ],
       "status": "needs_official_domain"
     },
@@ -3654,26 +3636,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-capienda-biotech",
-      "name": "Capienda Biotech, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
-      "identifiers": {
-        "nihIpf": [
-          "10049147"
-        ],
-        "uei": [
-          "EGF7MDLBABC6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "biotechnology",
-        "drug discovery"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869",
@@ -3703,9 +3665,7 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -3944,27 +3904,6 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cellfe",
-      "name": "Cellfe Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
-      "identifiers": {
-        "nihIpf": [
-          "10048774"
-        ],
-        "uei": [
-          "M34JNT47EKK3"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics",
-        "cell therapy",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5003,6 +4942,24 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-eqon-pharmaceuticals",
+      "name": "Eqon Pharmaceuticals, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11409867",
+      "identifiers": {
+        "nihIpf": [
+          "10059620"
+        ],
+        "uei": [
+          "K7N4NMVHDU95"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-estrella-immunopharma",
       "name": "Estrella Immunopharma, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001844417",
@@ -5190,8 +5147,7 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -5260,7 +5216,7 @@
           "0001838716"
         ],
         "ticker": [
-          "SAEN"
+          "GNTA"
         ]
       },
       "sourceTypes": [
@@ -6329,6 +6285,25 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-kure-cells",
+      "name": "Kure Cells Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
+      "identifiers": {
+        "nihIpf": [
+          "10065823"
+        ],
+        "uei": [
+          "JCZPXLMQQ2D1"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -7938,7 +7913,8 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8618,6 +8594,24 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-ting-therapeutics",
+      "name": "Ting Therapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11380822",
+      "identifiers": {
+        "nihIpf": [
+          "10055005"
+        ],
+        "uei": [
+          "F5R2ZH3HCHB5"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },

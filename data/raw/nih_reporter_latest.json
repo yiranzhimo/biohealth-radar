@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-11-08T10:25:31+00:00",
+  "capturedAt": "2026-11-09T11:36:24+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -20,8 +20,8 @@
   ],
   "queryMatchCounts": {
     "biotechnology": 303,
-    "gene therapy": 1154,
-    "cell therapy": 1664,
+    "gene therapy": 1155,
+    "cell therapy": 1665,
     "drug discovery": 330,
     "molecular diagnostics": 145
   },
@@ -382,6 +382,32 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11415152"
     },
     {
+      "applId": 11409867,
+      "projectNum": "1R43EY038150-01A1",
+      "projectTitle": "PRMT5 Inhibitors as a Novel Therapy for Anti-VEGF-Sensitive and -Resistant Neovascular Age-Related Macular Degeneration",
+      "fiscalYear": 2026,
+      "awardAmount": 233247,
+      "awardNoticeDate": "2026-09-18",
+      "projectStartDate": "2026-09-30",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "EQON PHARMACEUTICALS, LLC",
+        "city": "CARMEL",
+        "state": "IN",
+        "country": "UNITED STATES",
+        "uei": "K7N4NMVHDU95",
+        "ipf": "10059620",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy",
+        "gene therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "Project Summary Aberrant neovascularization (NV) is a hallmark of major blinding eye diseases, including neovascular age- related macular degeneration (nAMD) and proliferative diabetic retinopathy (PDR). While therapies targeting VEGF and angiopoietin (ANGPT) signaling have…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11409867"
+    },
+    {
       "applId": 11408359,
       "projectNum": "1R43NS147623-01A1",
       "projectTitle": "Development of antisense oligonucleotides against PEG10 in the fight against ALS-FTD",
@@ -663,6 +689,34 @@
       ],
       "projectSummaryExcerpt": "A First-in-class Topical Immunoregulatory Therapeutic for Psoriasis BioTherapeutics, Inc (BTI) is an emerging private biotech company that synergistically combines the power of advanced computational modeling with translational experimentation to accelerate the development of…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
+    },
+    {
+      "applId": 11416294,
+      "projectNum": "5R44CA302091-02",
+      "projectTitle": "Ultra-fast manufactured CAR-T therapy",
+      "fiscalYear": 2026,
+      "awardAmount": 1125000,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2025-09-15",
+      "projectEndDate": "2027-08-31",
+      "organization": {
+        "name": "KURE CELLS INC",
+        "city": "SHAKER HEIGHTS",
+        "state": "OH",
+        "country": "UNITED STATES",
+        "uei": "JCZPXLMQQ2D1",
+        "ipf": "10065823",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Cell Therapy",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Novel therapeutic approaches are urgently needed for patients with relapsed/refractory cancers. Chimeric Antigen Receptor (CAR) T cell therapies have exhibited remarkable promise particularly for patients with relapsed/refractory B cell malignancies. Though current CAR-T…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
     },
     {
       "applId": 11411298,
@@ -1296,6 +1350,33 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11387631"
     },
     {
+      "applId": 11380822,
+      "projectNum": "5R44DC019065-05",
+      "projectTitle": "Therapeutics to prevent aminoglycoside-induced hearing loss",
+      "fiscalYear": 2026,
+      "awardAmount": 524299,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2020-07-17",
+      "projectEndDate": "2027-07-31",
+      "organization": {
+        "name": "TING THERAPEUTICS, INC.",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "F5R2ZH3HCHB5",
+        "ipf": "10055005",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "gene therapy"
+      ],
+      "topicHints": [
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Project Summary Ting Therapeutics LLC is a pharmaceutical company developing drugs to prevent and treat hearing loss. Aminoglycosides are one of the most widely used drugs to treat Gram-negative bacterial infections. However, aminoglycoside therapy causes hearing loss in 40-60%…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
+    },
+    {
       "applId": 11323824,
       "projectNum": "1R44AG099654-01",
       "projectTitle": "Human CGAS inhibitors to treat neurodegeneration in Alzheimer's disease",
@@ -1428,13 +1509,12 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "topicHints": [
-        "AI Drug Discovery",
+        "RNA Therapeutics",
         "Precision Diagnostics",
-        "RNA Therapeutics"
+        "AI Drug Discovery"
       ],
       "projectSummaryExcerpt": "Abstract Alzheimer’s Disease (AD) is the most common form of late-onset dementia, affecting 7 million Americans, with prevalence expected to double by 2050. AD is associated with accumulation of misfolded protein aggregates including β-amyloid and tau, with apolipoprotein E and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
@@ -1465,36 +1545,6 @@
       ],
       "projectSummaryExcerpt": "SUMMARY The integration of multi-omics data provides a comprehensive understanding of human physiology, offering an exciting approach for disease monitoring and health management. Unfortunately, challenges remain in acquiring appropriate biospecimens for multi-omics analysis,…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
-    },
-    {
-      "applId": 11314137,
-      "projectNum": "1R44CA310250-01",
-      "projectTitle": "High throughput, high efficiency, rapid mechanical transfection for CAR T-cell therapeutics",
-      "fiscalYear": 2026,
-      "awardAmount": 1052108,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-18",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "CELLFE INC.",
-        "city": "ATLANTA",
-        "state": "GA",
-        "country": "UNITED STATES",
-        "uei": "M34JNT47EKK3",
-        "ipf": "10048774",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy",
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Gene Editing / Gene Therapy",
-        "RNA Therapeutics"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Genetic modification of patient blood cells in the laboratory (“ex vivo”) has been transformational in treatment of blood malignancies, most notably through the use of engineering T-cells (CAR-T or TCR T-cells) to recognize and attack blood cancer cells. Despite…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11314137"
     },
     {
       "applId": 11313383,
@@ -1600,7 +1650,8 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
@@ -1625,69 +1676,11 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "biotechnology"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
-    },
-    {
-      "applId": 11254697,
-      "projectNum": "2R44TR005335-02A1",
-      "projectTitle": "High-throughput kinetic system for small-molecule drug discovery",
-      "fiscalYear": 2026,
-      "awardAmount": 1401698,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-15",
-      "projectEndDate": "2028-08-31",
-      "organization": {
-        "name": "CAPIENDA BIOTECH, LLC",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "EGF7MDLBABC6",
-        "ipf": "10049147",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "biotechnology",
-        "drug discovery"
-      ],
-      "topicHints": [
-        "AI Drug Discovery",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
-    },
-    {
-      "applId": 11403170,
-      "projectNum": "1R43AG099485-01A1",
-      "projectTitle": "Early Detection of Alzheimer’s Disease Using a Novel ImmunoPET Conjugate",
-      "fiscalYear": 2026,
-      "awardAmount": 499880,
-      "awardNoticeDate": "2026-09-16",
-      "projectStartDate": "2026-09-16",
-      "projectEndDate": "2027-09-15",
-      "organization": {
-        "name": "AIVOCODE, LLP",
-        "city": "Encinitas",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "TLPZZJEMNND1",
-        "ipf": "10038623",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "molecular diagnostics"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Project Summary Alzheimer's disease (AD) is the most common form of neurodegenerative disorder associated with aging. One of the hallmarks of this disorder is the progressive loss of neuronal cells, which ultimately becomes fatal. With the increase in elderly population in the…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11403170"
     }
   ]
 }
