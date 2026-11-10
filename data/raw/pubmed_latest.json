@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-09T22:27:20.864868+00:00",
+  "capturedAt": "2026-11-10T07:26:21.917996+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-09",
-    "end": "2026-11-09"
+    "start": "2025-11-10",
+    "end": "2026-11-10"
   },
   "pmids": [
+    "43003299",
+    "43003161",
     "43002180",
     "43001240",
     "43001193",
     "43001097",
-    "43000907",
-    "43000687",
     "42990453",
     "42990240",
     "42990227",
@@ -32,14 +32,54 @@
     "42995841",
     "42991175",
     "42991163",
+    "43003479",
+    "43002872",
     "43001674",
     "43001601",
     "43001486",
-    "43001319",
-    "43001313",
-    "43000195"
+    "43001319"
   ],
   "records": [
+    {
+      "pmid": "43003299",
+      "title": "GPCRAgent: an intelligent multi-agent platform integrating knowledge graphs and large language models for GPCR-targeted drug discovery.",
+      "abstract": "G protein-coupled receptors (GPCRs) are major therapeutic targets in drug discovery. However, systematic characterization of GPCR functions and ligand interactions remains constrained by the high cost and complexity of experimental approaches. Although large language models (LLMs) have shown strong performance in biomedical question answering, their direct application to GPCR research is limited by insufficient integration of structured domain knowledge and poor interpretability of generated inferences. This study aimed to develop an interpretable artificial intelligence framework for automated and traceable analysis of complex GPCR-related problems, and to evaluate its utility in GPCR knowledge reasoning, structural property interpretation, disease target prioritization and ligand recommendation. We developed GPCRAgent, a multi-agent artificial intelligence framework enabled by VecKG-CoReason, which integrates vector-based semantic retrieval with knowledge graph-guided collaborative reasoning. GPCRAgent was evaluated on benchmark tasks covering GPCR knowledge question answering, multiple-choice reasoning and structural property interpretation. Its practical utility was further assessed in an idiopathic pulmonary fibrosis case study, in which prioritized targets and ligand candidates were supported by molecular docking and molecular dynamics simulations. GPCRAgent achieved accuracies of 85 % in GPCR knowledge question answering, 90 % in multiple-choice reasoning and 83 % in structural property interpretation, outperforming general-purpose LLMs across benchmark tasks. In an idiopathic pulmonary fibrosis case study, GPCRAgent identified LPAR1 as the top candidate and prioritized potential ligands. In a separate renal fibrosis study, experimental evaluation of the optimized LPAR1 ligand in kidney organoids showed suppressed fibrosis-associated marker induction during IL-1β-induced fibrosis. These results illustrate how the platform integrates evidence for target prioritization and structure-based ligand assessment. To facilitate broader adoption, an online platform (https://cbcb.cdutcm.edu.cn/GPCRAgent/) was developed to support GPCR-related drug discovery. By integrating structured knowledge retrieval with collaborative multi-agent reasoning, GPCRAgent provides an interpretable AI framework for evidence-based GPCR target prioritization, ligand recommendation, and decision support.",
+      "journal": "Journal of advanced research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "School of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
+        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: wangdexian@cdutcm.edu.cn.",
+        "School of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: shenchongyang@cdutcm.edu.cn.",
+        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: greatchen@cdutcm.edu.cn."
+      ],
+      "doi": "10.1016/j.jare.2026.11.006",
+      "date": "2026-11-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003299/"
+    },
+    {
+      "pmid": "43003161",
+      "title": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway.",
+      "abstract": "Double-stranded RNA (dsRNA) can activate potent anti-tumor immunity, but its clinical translation remains challenging. We sought to identify clinically applicable strategies to induce endogenous dsRNA and enhance anti-tumor immune responses. Here, we integrated genome-wide CRISPR-Cas9 screening data with the Therapeutic Target Database (TTD) and identified Topoisomerase I (TOP1) as a potential inducer of dsRNA. Mechanistically, we found that TOP1 was associated with suppression of endogenous retroviruses (ERVs) in an enzyme activity-dependent manner, and this was accompanied by \"viral mimicry\" through the induction of dsRNA. Pharmacological inhibition of TOP1 using Irinotecan (CPT-11) triggered dsRNA accumulation across cancer models, including patient-derived organoids (PDOs), activating the RIG-I/MDA5-MAVS pathway and antiviral interferon responses (Type I/III IFNs, ISGs). scRNA-seq revealed that CPT-11 remodeled the tumor microenvironment, promoting infiltration of dendritic cells (DCs), macrophages, and T cells. Combining CPT-11 with PD-1 blockade in \"cold\" tumors dramatically improved survival. CPT-11 also generated a potent in situ vaccine effect, establishing immunological memory that prevented tumor rechallenge. Moreover, tumor cells pretreated with CPT-11 in vitro were also able to exert a vaccine-like effect, inhibiting the growth of subsequently inoculated tumors. Collectively, our findings support the repurposing of TOP1 inhibitors such as CPT-11 to harness dsRNA-mediated immune activation for more effective cancer therapy.",
+      "journal": "Pharmacological research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "China Pharmaceutical University.",
+        "Shandong University.",
+        "Accurate International Biotechnology Limited Company Author Institution is Unverified.",
+        "Nanjing, CHINA. Electronic address: gaoxinghua@cpu.edu.cn."
+      ],
+      "doi": "10.1016/j.phrs.2026.109750",
+      "date": "2026-11-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003161/"
+    },
     {
       "pmid": "43002180",
       "title": "Integrin-guided development of defined supramolecular hydrogels for human kidney tubuloid culture.",
@@ -120,44 +160,6 @@
       "doi": "10.1002/mco2.71134",
       "date": "2026-11-08",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001097/"
-    },
-    {
-      "pmid": "43000907",
-      "title": "Engineered organoid platforms for drug delivery evaluation.",
-      "abstract": "Advanced biomaterials and drug delivery systems (DDSs) require human-relevant models that can capture tissue heterogeneity, physiological barriers, and patient-specific therapeutic responses. Conventional two-dimensional cultures and animal models often fail to reproduce these features, contributing to discrepancies between preclinical evaluation and clinical outcomes. Organoids offer three-dimensional, multicellular platforms that partially recapitulate the architecture and functions of human tissues and therefore provide new opportunities for evaluation of material-tissue interactions. This review first outlines the major types of organoids derived from adult stem cells, pluripotent stem cells, and patient tissues. It then discusses engineering strategies, particularly organoid-on-a-chip systems and 3D bioprinting, that introduce controlled fluid flow, mechanical cues, tissue interfaces, and spatial organization to improve physiological relevance, reproducibility, and screening compatibility. Particular emphasis is placed on the emerging use of organoids for assessing DDSs, including tissue penetration, cellular uptake, transport across mucus and blood-brain barrier models, targeting specificity, therapeutic efficacy, and nanomaterial-associated toxicity. Finally, we examine current challenges, including model standardization, vascularization, immune and stromal integration, quantitative validation, scalability, reproducibility, and cost. Integration with defined biomaterials, microfluidics, automated manufacturing, real-time sensing, and computational analysis may establish organoids as complementary and increasingly predictive platforms for biomaterial evaluation, DDS development, safety assessment, and personalized therapy.",
-      "journal": "Journal of materials chemistry. B",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Smart Biomedical Materials, School of Materials Science and Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China. kongxd@zstu.edu.cn.",
-        "Zhejiang-Mauritius Joint Research Center for Biomaterials and Tissue Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China.",
-        "Zhejiang Provincial Key Laboratory of Silk and Silk Protein New Materials, Hangzhou 310018, China.",
-        "State Key Laboratory of Bio-based Fiber Materials, Zhejiang Sci-Tech University, Hangzhou 310018, China.",
-        "Department of Nuclear Medicine, Zhejiang Cancer Hospital, Hangzhou Institute of Medicine, Chinese Academy of Sciences, Hangzhou 310005, China. wangyc3138@zjcc.org.cn.",
-        "National Institutes for Food and Drug Control, Beijing 102629, China. hanqianqian2005@163.com."
-      ],
-      "doi": "10.1039/d6tb02001a",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000907/"
-    },
-    {
-      "pmid": "43000687",
-      "title": "Organoids as development and disease modelling tools.",
-      "abstract": "",
-      "journal": "FEBS letters",
-      "publicationTypes": [
-        "Editorial"
-      ],
-      "affiliations": [
-        "Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.",
-        "Technical University Dresden, Germany.",
-        "MRC Laboratory of Molecular Biology, Cambridge, UK."
-      ],
-      "doi": "10.1002/1873-3468.70491",
-      "date": "2026-11-01",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000687/"
     },
     {
       "pmid": "42990453",
@@ -354,6 +356,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991163/"
     },
     {
+      "pmid": "43003479",
+      "title": "Peritoneal metastasis of histone 3 lysine 27-to-methionine-mutant diffuse midline glioma via ventriculoperitoneal shunt: laparoscopic confirmation of occult disease and the need for multimodal liquid biopsy.",
+      "abstract": "",
+      "journal": "BMJ case reports",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "General Surgery, Detroit Medical Center/Wayne State University, Detroit, Michigan, USA go2432@wayne.edu.",
+        "Department of Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA.",
+        "Pediatric Neurosurgery, Children's Healthcare of Atlanta Scottish Rite Hospital, Atlanta, Georgia, USA."
+      ],
+      "doi": "10.1136/bcr-2026-273260",
+      "date": "2026-11-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003479/"
+    },
+    {
+      "pmid": "43002872",
+      "title": "Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches.",
+      "abstract": "Pancreatic cancer (PC) is known as one of the most aggressive and deadly tumors, with pancreatic ductal adenocarcinoma (PDAC) predicted to be the second leading cause of cancer death by 2030. Also, due to the lack of specific symptoms and limitations of biomarkers and screening methods for early diagnosis, most patients are diagnosed at advanced stages and with metastatic disease. Therefore, developing new, high-accuracy diagnostic methods for early diagnosis and monitoring of treatment response in patients is very important for providing appropriate treatment options and improving survival rates. In recent years, despite the progress in diagnostic methods such as imaging techniques, tissue biopsy, liquid biopsy (LB), and tumor marker testing, there are many uncertainties about the specificity and sensitivity of these technologies, as well as challenges in their practical use in the clinic. Also, advancements in artificial intelligence (AI) technology in the field of cancer detection have enabled the screening and early diagnosis of PC in high-risk populations by employing AI algorithms with high computational power in conjunction with biomarkers, medical imaging, and pathological tests. In this article, we comprehensively evaluate the potential and diagnostic effectiveness of established tools for PC, alongside emerging and promising approaches, including liquid biopsy and AI-based methods. We examine their applications in early diagnosis, screening, prognostication, and disease monitoring, while also discussing the key characteristics, advantages, and limitations of each approach, as well as the potential benefits of their integration. Finally, we provide clinical recommendations aimed at improving the early detection of this challenging disease.",
+      "journal": "Biochemical and biophysical research communications",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Molecular and Medicine Research Center, Arak University of Medical Sciences, Arak, Iran; Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: maghsoodinafiseh@gmail.com.",
+        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran; Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: mehrddameri@gmail.com.",
+        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: absalan.faezeh2024@gmail.com.",
+        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: mohammadesmaeili.ce@gmail.com.",
+        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran; Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: amin.ramezani@gmail.com."
+      ],
+      "doi": "10.1016/j.bbrc.2026.154848",
+      "date": "2026-11-06",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002872/"
+    },
+    {
       "pmid": "43001674",
       "title": "IP47-13 UCIPredict: Liquid Biopsy-Based Prediction of Immunotherapy Response in Urothelial Carcinoma-Interim Multicenter Results: Erratum.",
       "abstract": "",
@@ -419,42 +458,78 @@
       "doi": "10.1016/j.gendis.2026.102043",
       "date": "2026-01-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001319/"
-    },
-    {
-      "pmid": "43001313",
-      "title": "Validation of a ctDNA-Based comprehensive genomic profiling panel (IST80 Plus) for advanced non-small cell lung cancer.",
-      "abstract": "Circulating tumor DNA (ctDNA) profiling can complement tissue testing in advanced non-small-cell lung cancer (NSCLC), particularly when tissue is unavailable or unable to capture tumor heterogeneity. We evaluated the analytical and clinical performance of Illumina Solid Tumor Panel 80 (IST80 Plus), a focused hybrid-capture next-generation sequencing assay for plasma genomic profiling. Validation included Seraseq-ctDNA reference materials at 2.5% and 0.5% allele frequencies, six external quality-assessment samples, supernatants from three fusion-positive cell lines, and eighteen plasma samples from patients with previously characterized NSCLC alterations. Sensitivity was assessed for small variants, gene fusions, and copy-number variants (CNVs). Quantitative agreement with reference measurements was evaluated using Pearson and Spearman correlations and Bland-Altman analysis. Robustness was explored by downsampling sequencing reads. Among 158 expected variants, 135 were within the panel's reportable range. Overall sensitivity was 95.56% (129/135), comprising 99.06% for small variants (105/106), 88.88% for fusions (16/18), and 72.73% for CNVs (8/11). For 85 detected small variants with available reference allele frequencies, Pearson's r was 0.99 and Spearman's rho was 0.82. Bland-Altman analysis showed minimal bias (0.04%), with 95% limits of agreement from -0.97% to 1.05%. Sensitivity was 98.41% for variants below 1% allele frequency and 100% for variants at or above 1%. All cell-line fusions were detected, as were three of four expected fusions in clinical samples. Following downsampling 50%, 70%, and 90% of the original reads, 81.18%, 85.88%, and 90.59% of 85 reference small variants remained detectable, respectively. Performance was strongest for small variants, whereas lower sensitivity for CNVs was noted. IST80 Plus showed high sensitivity and quantitative accuracy for small variants and reliable fusion detection in ctDNA. Its focused design may support molecular profiling of advanced NSCLC when sample availability and sequencing efficiency are limiting.",
-      "journal": "The journal of liquid biopsy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Liquid Biopsy Laboratory, Department of Medical Oncology, Hospital Universitario Puerta de Hierro Majadahonda, IDIPHISA, Majadahonda, Spain.",
-        "Faculty of Pharmacy, Complutense University of Madrid, Madrid, Spain.",
-        "Department of Medical Oncology, Hospital Universitario Puerta de Hierro Majadahonda, IDIPHISA, Majadahonda, Spain."
-      ],
-      "doi": "10.1016/j.jlb.2026.100674",
-      "date": "2026-10-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001313/"
-    },
-    {
-      "pmid": "43000195",
-      "title": "Decoding prognosis: multigene expression assays in breast cancer.",
-      "abstract": "Breast cancer remains a leading cause of cancer-related death in women worldwide. In early-stage, hormone receptor-positive/-negative disease, tissue-based multigene expression assays refine prognosis and guide systemic therapy. Axillary nodal status is still determined by clinical examination, imaging and sentinel lymph node biopsy (SLNB). This narrative review separates prognostic, predictive and nodal-staging information. For MammaPrint, Oncotype DX, PAM50/Prosigna, EndoPredict and Breast Cancer Index, it summarizes the platform, validated population, level of evidence and guideline status. These assays estimate distant-recurrence risk and/or benefit from chemotherapy or extended endocrine therapy; none was developed or validated to predict nodal involvement. The dedicated gene-expression panels for nodal metastasis derive from retrospective or single-cohort studies, lack prospective validation and are not recommended for axillary staging. Liquid biopsy (ctDNA), multi-omics approaches, and cost, access and standardization are also reviewed. The established assays answer narrow, population-specific answers on recurrence and systemic-treatment benefit, not axillary staging; omission of SLNB currently rests on clinical and radiological criteria (SOUND, INSEMA). Nodal signatures remain investigational, and ctDNA and multi-omics approaches are promising but not yet practice-changing, requiring prospective trials showing improved outcomes. Age- and menopausal-status-related chemotherapy effects derive largely from exploratory or subgroup analyses and are hypothesis-generating.",
-      "journal": "Expert review of molecular diagnostics",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Pharmaceutical Sciences, Lovely Professional University, Phagwara, India."
-      ],
-      "doi": "10.1080/14737159.2026.2760652",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000195/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-43003299",
+      "date": "2026-11-09",
+      "title": "GPCRAgent: an intelligent multi-agent platform integrating knowledge graphs and large language models for GPCR-targeted drug discovery.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003299/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "AI for Biology",
+        "Drug Discovery",
+        "Healthcare AI",
+        "Medical LLM"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "医疗 AI",
+        "临床决策支持"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 43003299。",
+      "report": "G protein-coupled receptors (GPCRs) are major therapeutic targets in drug discovery. However, systematic characterization of GPCR functions and ligand interactions remains constrained by the high cost and complexity of experimental approaches. Although large l...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43003161",
+      "date": "2026-11-09",
+      "title": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003161/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 43003161。",
+      "report": "Double-stranded RNA (dsRNA) can activate potent anti-tumor immunity, but its clinical translation remains challenging. We sought to identify clinically applicable strategies to induce endogenous dsRNA and enhance anti-tumor immune responses. Here, we integrate...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-43002180",
       "date": "2026-11-09",
@@ -486,42 +561,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43000907",
-      "date": "2026-11-09",
-      "title": "Engineered organoid platforms for drug delivery evaluation.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000907/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of materials chemistry. B，PMID 为 43000907。",
-      "report": "Advanced biomaterials and drug delivery systems (DDSs) require human-relevant models that can capture tissue heterogeneity, physiological barriers, and patient-specific therapeutic responses. Conventional two-dimensional cultures and animal models often fail t...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43001930",
       "date": "2026-11-09",
       "title": "Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design.",
@@ -548,6 +587,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of chemical information and modeling，PMID 为 43001930。",
       "report": "Developing bioactive molecules remains a central, time- and cost-heavy challenge in drug discovery, particularly for novel targets lacking structural or functional data. Pharmacophore modeling presents an alternative for capturing the key features required for...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43003479",
+      "date": "2026-11-09",
+      "title": "Peritoneal metastasis of histone 3 lysine 27-to-methionine-mutant diffuse midline glioma via ventriculoperitoneal shunt: laparoscopic confirmation of occult disease and the need for multimodal liquid biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003479/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 BMJ case reports，PMID 为 43003479。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -611,38 +680,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43000195",
-      "date": "2026-11-09",
-      "title": "Decoding prognosis: multigene expression assays in breast cancer.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000195/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Expert review of molecular diagnostics，PMID 为 43000195。",
-      "report": "Breast cancer remains a leading cause of cancer-related death in women worldwide. In early-stage, hormone receptor-positive/-negative disease, tissue-based multigene expression assays refine prognosis and guide systemic therapy. Axillary nodal status is still...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43001097",
       "date": "2026-11-08",
       "title": "Advancing in Sarcoma 3D Modeling: Identification of SRC as an Actionable Vulnerability in Doxorubicin-Resistant Osteosarcoma Organoids.",
@@ -678,6 +715,38 @@
       "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 43001097。",
       "report": "Tumor organoids have emerged as the most promising avatar to model cancer and to be used as drug testing platform in personalized medicine protocols. The derivation of organoids from epithelial tumors is well established, and their use has proven useful for bi...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43002872",
+      "date": "2026-11-06",
+      "title": "Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002872/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 43002872。",
+      "report": "Pancreatic cancer (PC) is known as one of the most aggressive and deadly tumors, with pancreatic ductal adenocarcinoma (PDAC) predicted to be the second leading cause of cancer death by 2030. Also, due to the lack of specific symptoms and limitations of biomar...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -739,34 +808,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 International journal of women's health，PMID 为 43001193。",
       "report": "Breast cancer is one of the most prevalent malignancies in women worldwide, and postoperative recurrence, distant metastasis, and multidrug resistance remain major clinical challenges for patients with advanced disease. Patient-derived organoids (PDOs), which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43000687",
-      "date": "2026-11-01",
-      "title": "Organoids as development and disease modelling tools.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000687/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 FEBS letters，PMID 为 43000687。",
-      "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -1035,36 +1076,6 @@
       "fact": "PubMed 记录显示该文献收录于 Frontiers in systems biology，PMID 为 42991163。",
       "report": "Catheter-associated urinary tract infections (CAUTIs) rank as the fourth-most significant nosocomial infection globally. CAUTIs account for approximately 80% of hospital-acquired urinary tract infections and represent nearly one-third of all device-associated...",
       "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001313",
-      "date": "2026-10-21",
-      "title": "Validation of a ctDNA-Based comprehensive genomic profiling panel (IST80 Plus) for advanced non-small cell lung cancer.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001313/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [
-        "illumina"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 43001313。",
-      "report": "Circulating tumor DNA (ctDNA) profiling can complement tissue testing in advanced non-small-cell lung cancer (NSCLC), particularly when tissue is unavailable or unable to capture tumor heterogeneity. We evaluated the analytical and clinical performance of Illu...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
