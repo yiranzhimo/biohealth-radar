@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-10T07:26:21.917996+00:00",
+  "capturedAt": "2026-11-10T19:48:56.634248+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,152 +14,142 @@
     "end": "2026-11-10"
   },
   "pmids": [
-    "43003299",
-    "43003161",
-    "43002180",
-    "43001240",
-    "43001193",
-    "43001097",
+    "43006779",
+    "43005634",
+    "43005560",
+    "43005450",
+    "43005146",
+    "43004871",
     "42990453",
     "42990240",
     "42990227",
     "42952019",
     "42941810",
     "42940052",
+    "43006909",
+    "43003839",
     "43001930",
     "42999436",
     "42995874",
     "42995841",
-    "42991175",
-    "42991163",
-    "43003479",
-    "43002872",
-    "43001674",
-    "43001601",
-    "43001486",
-    "43001319"
+    "43006504",
+    "43005646",
+    "43004446",
+    "43004430",
+    "43004066",
+    "43003479"
   ],
   "records": [
     {
-      "pmid": "43003299",
-      "title": "GPCRAgent: an intelligent multi-agent platform integrating knowledge graphs and large language models for GPCR-targeted drug discovery.",
-      "abstract": "G protein-coupled receptors (GPCRs) are major therapeutic targets in drug discovery. However, systematic characterization of GPCR functions and ligand interactions remains constrained by the high cost and complexity of experimental approaches. Although large language models (LLMs) have shown strong performance in biomedical question answering, their direct application to GPCR research is limited by insufficient integration of structured domain knowledge and poor interpretability of generated inferences. This study aimed to develop an interpretable artificial intelligence framework for automated and traceable analysis of complex GPCR-related problems, and to evaluate its utility in GPCR knowledge reasoning, structural property interpretation, disease target prioritization and ligand recommendation. We developed GPCRAgent, a multi-agent artificial intelligence framework enabled by VecKG-CoReason, which integrates vector-based semantic retrieval with knowledge graph-guided collaborative reasoning. GPCRAgent was evaluated on benchmark tasks covering GPCR knowledge question answering, multiple-choice reasoning and structural property interpretation. Its practical utility was further assessed in an idiopathic pulmonary fibrosis case study, in which prioritized targets and ligand candidates were supported by molecular docking and molecular dynamics simulations. GPCRAgent achieved accuracies of 85 % in GPCR knowledge question answering, 90 % in multiple-choice reasoning and 83 % in structural property interpretation, outperforming general-purpose LLMs across benchmark tasks. In an idiopathic pulmonary fibrosis case study, GPCRAgent identified LPAR1 as the top candidate and prioritized potential ligands. In a separate renal fibrosis study, experimental evaluation of the optimized LPAR1 ligand in kidney organoids showed suppressed fibrosis-associated marker induction during IL-1β-induced fibrosis. These results illustrate how the platform integrates evidence for target prioritization and structure-based ligand assessment. To facilitate broader adoption, an online platform (https://cbcb.cdutcm.edu.cn/GPCRAgent/) was developed to support GPCR-related drug discovery. By integrating structured knowledge retrieval with collaborative multi-agent reasoning, GPCRAgent provides an interpretable AI framework for evidence-based GPCR target prioritization, ligand recommendation, and decision support.",
-      "journal": "Journal of advanced research",
+      "pmid": "43006779",
+      "title": "An Allogeneic PBMC-Organoid Co-culture Platform for Evaluating Immunotherapy Efficacy and T-Cell-Mediated Antitumor Immunity.",
+      "abstract": "Traditional 2D cell lines and mouse xenograft models have limitations in recapitulating the complexity of the tumor microenvironment (TME) and dynamic interactions between tumor and immune cells, creating an urgent need for models to evaluate immunotherapies. Patient-derived organoids (PDOs), which retain key features of original tumors, offer a platform for dissecting the TME when co-cultured with peripheral blood mononuclear cells (PBMCs). However, challenges such as inter-batch variability of PBMCs and difficulties in autologous PBMC acquisition hinder their clinical translation. This study established four stably passaged colorectal cancer organoid models and developed an allogeneic PBMC-organoid co-culture platform to investigate the immune activation and cytotoxic potential of allogeneic PBMCs. Results showed that vacuolated-structured organoids are associated with the increased proportion of CD8+ T cells in PBMCs within the co-culture system. PBMCs exhibited stronger cytotoxicity against microsatellite-stable (MSS) organoids with low PD-L1 expression, while the anti-PD-1 antibody Keytruda significantly enhanced their antitumor effects on high PD-L1-expressing organoids. The allogeneic co-culture model developed here overcomes the limitations of autologous PBMC acquisition, providing an efficient and versatile proof-of-concept platform for pre-clinical screening of immunotherapeutic drugs. Distinct from prior allogeneic co-culture systems that rely on healthy donor immune cells, our platform uniquely integrates patient-derived allogeneic PBMCs with tumor organoids, providing preliminary proof-of-concept evidence that tumor-intrinsic features may influence immunotherapy responses based on tumor-intrinsic features while preserving the pathological relevance of cancer patient immune profiles.",
+      "journal": "ACS applied bio materials",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "School of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China.",
-        "School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: wangdexian@cdutcm.edu.cn.",
-        "School of Basic Medical Sciences, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: shenchongyang@cdutcm.edu.cn.",
-        "State Key Laboratory of Southwestern Chinese Medicine Resources, School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China; Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu 611137, China. Electronic address: greatchen@cdutcm.edu.cn."
+        "The Affiliated Guangdong Second Provincial General Hospital of Jinan University, The Second School of Clinical Medicine, Southern Medical University , Guangzhou510317, China.",
+        "Guangdong Second Provincial General Hospital, Postdoctoral Research Station of Biomedical Engineering Jinan University, Guangzhou510632, China.",
+        "School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, NO.66, Gongchang Road, ShenzhenGuangdong518107, China.",
+        "NMPA Center for Innovation and Research in Regulatory Science, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen518107, China."
       ],
-      "doi": "10.1016/j.jare.2026.11.006",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003299/"
+      "doi": "10.1021/acsabm.6c01270",
+      "date": "2026-11-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006779/"
     },
     {
-      "pmid": "43003161",
-      "title": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway.",
-      "abstract": "Double-stranded RNA (dsRNA) can activate potent anti-tumor immunity, but its clinical translation remains challenging. We sought to identify clinically applicable strategies to induce endogenous dsRNA and enhance anti-tumor immune responses. Here, we integrated genome-wide CRISPR-Cas9 screening data with the Therapeutic Target Database (TTD) and identified Topoisomerase I (TOP1) as a potential inducer of dsRNA. Mechanistically, we found that TOP1 was associated with suppression of endogenous retroviruses (ERVs) in an enzyme activity-dependent manner, and this was accompanied by \"viral mimicry\" through the induction of dsRNA. Pharmacological inhibition of TOP1 using Irinotecan (CPT-11) triggered dsRNA accumulation across cancer models, including patient-derived organoids (PDOs), activating the RIG-I/MDA5-MAVS pathway and antiviral interferon responses (Type I/III IFNs, ISGs). scRNA-seq revealed that CPT-11 remodeled the tumor microenvironment, promoting infiltration of dendritic cells (DCs), macrophages, and T cells. Combining CPT-11 with PD-1 blockade in \"cold\" tumors dramatically improved survival. CPT-11 also generated a potent in situ vaccine effect, establishing immunological memory that prevented tumor rechallenge. Moreover, tumor cells pretreated with CPT-11 in vitro were also able to exert a vaccine-like effect, inhibiting the growth of subsequently inoculated tumors. Collectively, our findings support the repurposing of TOP1 inhibitors such as CPT-11 to harness dsRNA-mediated immune activation for more effective cancer therapy.",
-      "journal": "Pharmacological research",
+      "pmid": "43005634",
+      "title": "A patient-derived bladder cancer organoid and xenograft platform for personalized drug response prediction and salvage therapeutics screening.",
+      "abstract": "Therapeutic resistance remains a major challenge in bladder cancer treatment. The aim of this study was to develop and validate a bladder cancer patient-derived organoid (PDO)-based platform for treatment response prediction and individualized salvage therapy screening. A total of 101 patients with bladder cancer were enrolled to establish 75 PDO lines. The optimal culture medium was determined by transcriptome analysis. Consistency validation was performed via histopathology, immunohistochemistry, whole-exome sequencing, and transcriptomic profiling. A three-step high-throughput screening pipeline for 288 approved agents was developed to identify salvage therapies for patients who were multidrug-resistant, which was validated in patient-derived xenograft (PDX) models. A suspension coculture system was constructed to evaluate HER2-targeted chimeric antigen receptor T (CAR-T) cell cytotoxicity and activation. FGF4 supplementation significantly enhanced the 3D growth and establishment efficiency of PDOs, yielding a biobank of 75 bladder cancer PDOs. These PDOs faithfully recapitulated the multidimensional features of parental tumors, and showed preliminary concordance with observed clinical treatment responses (cisplatin, gemcitabine, and epirubicin). To address drug resistance, the high-throughput drug screening pipeline maps individualized sensitivity profiles in four cases. In a patient who was multidrug-resistant, idarubicin was pinpointed as a potent candidate agent, with efficacy confirmed in PDX models. To extend the screening platform beyond chemotherapeutics and cover cellular immunotherapies, we verified that the coculture system enabled HER2 expression-dependent CAR-T cytotoxicity evaluation. This integrated bladder cancer PDO platform provides a clinically relevant individualized tool for treatment response prediction and individualized salvage therapy selection, particularly for patients with multidrug-resistant disease. Its application may support tailored therapeutic decision-making across chemotherapy, targeted therapy, and cellular immunotherapy.",
+      "journal": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "China Pharmaceutical University.",
-        "Shandong University.",
-        "Accurate International Biotechnology Limited Company Author Institution is Unverified.",
-        "Nanjing, CHINA. Electronic address: gaoxinghua@cpu.edu.cn."
+        "Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China.",
+        "Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China.",
+        "Department of Urology, Zhujiang Hospital, Southern Medical University, Guangzhou 510280, China.",
+        "Department of Pathology, Sun Yat-sen Memorial Hospital of Sun Yat-sen University, Guangzhou 510120, China.",
+        "Department of Urology, the First Affiliated Hospital of Guangzhou Medical University, Guangdong Provincial Key Laboratory of Urological Diseases, Guangdong Engineering Research Center of Urinary Minimally Invasive Surgery Robot and Intelligent Equipment, Guangzhou Institute of Urology, Guangzhou 510120, China.",
+        "BioMed Laboratory, Jingke Biotechnology Group, Bioisland International, Guangzhou 510005, China."
       ],
-      "doi": "10.1016/j.phrs.2026.109750",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003161/"
+      "doi": "10.21147/j.issn.1000-9604.2026.05.11",
+      "date": "2026-10-30",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005634/"
     },
     {
-      "pmid": "43002180",
-      "title": "Integrin-guided development of defined supramolecular hydrogels for human kidney tubuloid culture.",
-      "abstract": "Tubuloids are epithelial organoids derived from tissue or urine that model tubular nephron segments of the kidney. Their use in preclinical research is limited by dependence on basement membrane extract (BME), a batch-variable animal-derived matrix that reduces reproducibility. Here, we evaluate defined supramolecular ureido-pyrimidinone (UPy) hydrogels as an alternative matrix for tubuloid culture. Re-analysis of a published tubuloid single-cell RNA-sequencing dataset guides selection of two ligands for UPy functionalization to support cell-matrix interactions: the αVβ3-binding cyclic RGD peptide (cRGDfK) and the laminin-derived IKVAV motif. Tubuloids are cultured in UPy gels functionalized with UPy-IKVAV, UPy-cRGDfK, or both, and compared with BME. UPy hydrogels and BME are comparably soft and predominantly elastic. Across experiments, tubuloid lines from six donors are evaluated by confocal imaging, gene expression analysis, and brightfield imaging. UPy-IKVAV hydrogels support cystic tubuloid formation, most closely resemble BME in morphology and lumen formation, and maintain a kidney marker profile comparable to BME after four days, whereas UPy-cRGDfK is associated with more irregular morphologies. Integrin β1 blockade disrupts lumen integrity in BME and UPy-IKVAV hydrogels, supporting a role for β1-mediated cell-matrix interactions in tubuloid organization. UPy-IKVAV hydrogels therefore support viable cystic tubuloids and show promise as a robust matrix for preclinical tubulopathy research.",
-      "journal": "Biomaterials science",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Nephrology and Hypertension, University Medical Center Utrecht, Utrecht, The Netherlands. G.G.G.Slaats@umcutrecht.nl.",
-        "Institute for Complex Molecular Systems, Eindhoven University of Technology, Eindhoven, The Netherlands.",
-        "Department of Biomedical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands.",
-        "Hubrecht Institute for Developmental Biology and Stem Cell Research, Royal Netherlands Academy of Arts and Sciences (KNAW), Utrecht, The Netherlands.",
-        "Oncode Institute, Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands.",
-        "Division Cell Biology, Metabolism & Cancer, Department Biomolecular Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.",
-        "Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, Eindhoven, The Netherlands.",
-        "SyMO-Chem, Eindhoven, The Netherlands."
-      ],
-      "doi": "10.1039/d6bm01010e",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002180/"
-    },
-    {
-      "pmid": "43001240",
-      "title": "From bench to clinic, are organoids ready for modeling drug delivery in brain disease?",
-      "abstract": "Brain diseases remain a significant challenge in the field of modern medicine. The protective function of the blood-brain barrier (BBB) also complicates drug delivery for neurological disorders. However, under certain pathological conditions, the BBB is compromised during the progression of these pathophysiological processes. To integrate with clinical treatments, precise and personalized requirements exist for basic research. Three-dimensional (3D) in vitro systems, particularly organoids, serve as valuable models for preclinical disease research. Starting from the functionality and feasibility of organoids, this review explores their potential roles and applications in brain diseases. It also discusses advanced technologies to overcome in vitro modeling challenges and their applications in evaluating therapeutic strategies and drug delivery. Moreover, with the ability to predict and rapidly screen effective drugs, organoid modeling will be valuable in accelerating the clinical translation of new therapeutics.",
-      "journal": "International journal of pharmaceutics: X",
+      "pmid": "43005560",
+      "title": "Engineered organoid platforms for mechanistic studies of gut microbiota-cancer interactions.",
+      "abstract": "Associations between the gut microbiota and cancer are increasingly reproducible at the cohort level, but association alone cannot establish whether a microorganism, microbial product, or metabolite directly alters tumor-relevant host biology. Engineered organoid systems address this gap by placing defined microbial exposures against human or genetically specified epithelia under experimentally controlled conditions. The strength of the resulting inference depends on platform architecture. Three-dimensional organoids preserve epithelial organization but restrict luminal access; microinjection and apical-out configurations enable direct microbial exposure; organoid-derived monolayers permit directional sampling and barrier measurements; and microfluidic systems add flow, oxygen gradients, and longer-term host-microbe co-culture. Tumor organoids and defined immune or stromal co-cultures can be added when the biological question requires cancer-specific or multicellular readouts. This review evaluates these platforms according to the mechanistic questions they can answer and distinguishes evidence from live microorganisms, complex communities, cell-free microbial products, purified metabolites, and clinical associations. The strongest organoid-based evidence currently concerns microbial genotoxicity, epithelial transformation, barrier and repair responses, selected tumor-growth phenotypes, and intestinal treatment toxicity. Direct organoid evidence linking the gut microbiota to distant, non-gastrointestinal tumors remains limited despite substantial clinical and animal data. We further discuss how physicochemical control, omics-based benchmarking, and standardized reporting can improve reproducibility without adding unnecessary model complexity. The central requirement is explicit matching of experimental architecture to the causal claim being tested.",
+      "journal": "Frontiers in bioengineering and biotechnology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Institute of Medicine, Jishou University, Jishou, China.",
-        "Medical Research Center, Jishou University, Jishou, China.",
-        "Peking University Health Science Center, Beijing, China."
+        "Department of Oncology, The Second Hospital of Dalian Medical University, Dalian, Liaoning, China."
       ],
-      "doi": "10.1016/j.ijpx.2026.100693",
-      "date": "2026-10-29",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001240/"
+      "doi": "10.3389/fbioe.2026.1905559",
+      "date": "2026-10-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005560/"
     },
     {
-      "pmid": "43001193",
-      "title": "Organoid-Guided Precision Salvage Therapy for Advanced Breast Cancer with Multiple Metastases: A Case Report.",
-      "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide, and postoperative recurrence, distant metastasis, and multidrug resistance remain major clinical challenges for patients with advanced disease. Patient-derived organoids (PDOs), which have been reported to preserve the histological and molecular characteristics of the original tumor, emerge as a promising platform for accurate drug sensitivity testing. We reported a 77-year-old woman with left-sided breast cancer who developed multiorgan metastases, including lung, brain, liver, and bone, after failing multiple lines of standard therapy. PDOs were successfully established from a liver metastatic biopsy, and subsequent drug sensitivity testing identified gemcitabine and capivasertib as potential sensitive agents. Subsequent PDO-guided salvage therapy achieved partial regression of liver lesions and stable pulmonary disease. Newly detected T2 and T12 vertebral lesions were interpreted as bone pseudoprogression rather than true progressive disease, and bone metastases were assessed as partial response per the MD Anderson criteria. This typical case suggests that PDO-guided drug sensitivity testing may facilitate the identification of potential personalized salvage regimens for patients with refractory metastatic breast cancer. Nevertheless, as derived from a single uncontrolled case, these observations cannot demonstrate the predictive accuracy of PDOs, reversal of treatment resistance or improved clinical outcomes, and require prospective validation.",
-      "journal": "International journal of women's health",
-      "publicationTypes": [
-        "Case Reports",
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiation Oncology, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan, 030013, People's Republic of China.",
-        "Department of Breast Surgery, Shanxi Province Cancer Hospital/Shanxi Hospital Affiliated to Cancer Hospital, Chinese Academy of Medical Sciences/Cancer Hospital Affiliated to Shanxi Medical University, Taiyuan, 030013, People's Republic of China."
-      ],
-      "doi": "10.2147/IJWH.S645198",
-      "date": "2026-11-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001193/"
-    },
-    {
-      "pmid": "43001097",
-      "title": "Advancing in Sarcoma 3D Modeling: Identification of SRC as an Actionable Vulnerability in Doxorubicin-Resistant Osteosarcoma Organoids.",
-      "abstract": "Tumor organoids have emerged as the most promising avatar to model cancer and to be used as drug testing platform in personalized medicine protocols. The derivation of organoids from epithelial tumors is well established, and their use has proven useful for biomarker discovery, drug screening, and clinical decision support. However, generation of organoids from sarcomas is much less developed and current protocols require further optimization to fully harness their research and clinical potential. In this study, the authors examined the challenges of generating basement membrane extract-based organoids from patient-derived sarcoma samples. Out of 19 samples, 3D structures formed in seven (37%), but none could be propagated beyond the first passage. Alternatively, the authors established expandable organoids from sarcoma xenografts. From 14 xenograft samples, seven (50%) were successfully expanded over multiple passages and biobanked. Notably, xenografts from parental and doxorubicin-resistant 143B osteosarcoma cells yielded long-term cultures suitable for studying drug resistance. Transcriptomic and functional analyses revealed that SRC signaling contributes to doxorubicin resistance in osteosarcoma. Inhibiting SRC with dasatinib restored sensitivity to doxorubicin in vitro and in vivo by downregulating cJUN-mediated ABCB1 expression. These findings support xenograft-derived organoids as a viable platform for modeling sarcoma and investigating therapeutic resistance.",
-      "journal": "MedComm",
+      "pmid": "43005450",
+      "title": "Autophagy Modulation Influenced the Spermatogenesis in Rodent Testicular Organoids and Diabetic Condition.",
+      "abstract": "Here, the effect of autophagy activity was investigated in rat testicular organoids embedded in alginate/gelatin (Alg/Gel) hydrogel. Additionally, we monitored the spermatogenesis potential in diabetic mice following the administration of metformin (Met) and/or hydroxychloroquine (HCQ). Alg/Gel hydrogel was fabricated, and its physicochemical properties were studied. The survival rate of freshly isolated rat whole testicular tissue cells being plated on the Alg/Gel hydrogel surface was monitored after 7 days. Rat testicular organoids were embedded in Alg/Gel hydrogel and exposed to 15 µM HCQ and/or 5 µM Met for 7 days. Histological examination was conducted to assess OCT3/4+ progenitors and maturing sperm cells. Using western blotting, the levels of autophagic markers Beclin-1, LC3, and P62 were evaluated. Diabetic mice received 120 mg/kg body weight Met and/or 70 mg/kg bodyweight HCQ for 4 weeks, followed by histological examinations and sperm analysis. The fabricated Alg/Gel hydrogel demonstrated suitable physicochemical properties, which correlated with an increased survival rate of whole testicular tissue cells compared to the control group (P<0.05). Data indicated a promotion of autophagy (Beclin-1↑, LC3-II/-I ratio↑, P62↓) and an inhibition of autophagy (LC3↓) in testicular organoids after treatment with Met and HCQ, respectively, compared to the control group (P<0.05). These changes were accompanied by an induction of SOD activity in Met-treated testicular organoids (P<0.05). In the presence of Met and HCQ, OCT3/4+ progenitors were reduced in rat organoids compared to non-treated control organoids (P<0.05). Administration of Met, but not HCQ, in diabetic mice was able to restore some sperm parameters, such as motility, and reduce abnormal morphologies compared to the matched diabetic mice (P<0.05). Regulation of autophagy can influence spermatogenesis capacity, affecting seminiferous tubule progenitors, maturation, and sperm parameters. In studies of rat testicular organoids and diabetic mice, these findings suggest that the autophagy response is a promising signaling pathway target in subfertile or infertile males.",
+      "journal": "Advanced pharmaceutical bulletin",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Instituto De Investigación Sanitaria Del Principado de Asturias (ISPA) Oviedo Spain.",
-        "Instituto Universitario de Oncología del Principado de Asturias (IUOPA) Oviedo Spain.",
-        "Biobanco Del Principado de Asturias Oviedo Spain.",
-        "Servicio De Patología Hospital Universitario Central De Asturias Oviedo Spain.",
-        "Servicio De Traumatología Hospital Universitario Central De Asturias Oviedo Spain.",
-        "Servicio De Otorrinolaringología Hospital Universitario Central De Asturias Oviedo Spain.",
-        "CIBER En Oncología (CIBERONC) Madrid Spain.",
-        "Computational Systems Biomedicine Lab, Institut Pasteur Université Paris Cité Paris France.",
-        "Centro De Investigación del Cáncer CSIC-Universidad De Salamanca Salamanca Spain.",
-        "Centro De Investigación en Nanomateriales y Nanotecnología (CINN) Consejo Superior de Investigaciones Científicas (CSIC) El Entrego Asturias Spain."
+        "Stem Cell Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.",
+        "Department of Biology, Faculty of Science, Urmia University, Urmia, Iran.",
+        "Department of Dental Biomaterials, Faculty of Dentistry, Tabriz University of Medical Sciences, Tabriz, Iran.",
+        "Department of Reproductive Biology, Faculty of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran.",
+        "Department of Natural Sciences, West Kazakhstan Marat Ospanov Medical University, Aktobe, Kazakhstan.",
+        "Stem Cell and Regenerative Medicine Institute (SCARM), Tabriz University of Medical Sciences, Tabriz, Iran.",
+        "Department of Applied Cell Sciences, Faculty of Advanced Medical Sciences, Tabriz University of Medical Sciences, Tabriz, Iran."
       ],
-      "doi": "10.1002/mco2.71134",
-      "date": "2026-11-08",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001097/"
+      "doi": "10.34172/apb.46240",
+      "date": "2026-06-29",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005450/"
+    },
+    {
+      "pmid": "43005146",
+      "title": "Subtype or state? Rethinking the apCAF paradox and fibroblast plasticity in gastrointestinal cancers.",
+      "abstract": "Antigen-presenting cancer-associated fibroblasts (apCAFs), commonly defined by MHC class II molecules, CD74, and related transcriptional programs, exhibit divergent functions across gastrointestinal tumors. In pancreatic ductal adenocarcinoma, mesothelium-derived apCAFs promote regulatory T-cell differentiation and suppress effector responses, whereas their abundance in gastric cancer is associated with earlier-stage disease, longer survival, and improved immunotherapy responses. This paradox may reflect microenvironmental context and classifications that conflate transcriptional state, cellular origin, and immune function. apCAFs may therefore represent reversible, context-dependent states defined by origin, MHC class II-restricted antigen presentation, and co-stimulatory capacity. We propose a two-layer model that has not been validated in apCAFs. In this model, the chromatin accessibility of CIITA, CD40, CD80, and CD86 constructs a functional licensing range, while interferon - γ (IFN - γ), interleukin-1 (IL-1), and transforming growth factor - β (TGF - β) guide the formation of specific phenotypes within this range. Insufficient co-stimulation may favor immune tolerance; activation of co-stimulatory programs may support CD4+ T-cell help and CD8+ T-cell infiltration. Treatment-induced changes in CAF composition may reflect selective survival or genuine state transitions. Distinguishing these mechanisms requires lineage tracing, longitudinal single-cell transcriptomic and chromatin profiling, and patient-derived organoid-fibroblast co-cultures. Neoadjuvant therapy and serial endoscopic sampling provide feasible settings for capturing transient states. This framework supports replacing broad CAF depletion with temporally and state-informed functional reprogramming.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology, First Affiliated Hospital of Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+        "The First Clinical Medical College, Guizhou University of Traditional Chinese Medicine, Guiyang, China."
+      ],
+      "doi": "10.3389/fonc.2026.2000409",
+      "date": "2026-10-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005146/"
+    },
+    {
+      "pmid": "43004871",
+      "title": "Development-Informed Microsphere Assemblies Enable Spatiotemporally Programmed Bone-Vascular Organoid-Like Constructs for Large Bone Defect Repair.",
+      "abstract": "Large segmental bone defects are difficult to repair because endogenous stem-cell activation, vascular ingrowth, and osteogenic maturation are insufficient to rebuild organized bone tissue. Bone organoids offer a promising regenerative strategy, but current systems are limited by Matrigel dependence, poor vascularization, low post-implantation survival, and inadequate reconstruction of hierarchical bone microarchitecture. Here, we report a development-informed, Matrigel-free bone-vascular organoid-like platform that integrates single-cell-guided gene programming with an osteoinductive and vascular-permissive microsphere matrix. Single-cell analysis identified BMP4 and VEGFA as key genes linking osteogenic commitment with vascular morphogenesis. Engineered BMSCs were used to sequentially generate osteoinductive bone organoid-like constructs(OLCs) and bone-vascular OLCs with coordinated osteogenic and angiogenic activity. Microfluidic GelMA/PEO/bioactive glass(BG) microsphere clusters provided adhesive, mineralization-promoting, and space-making cues for cell migration, matrix deposition, and endothelial invasion. Within seven days, the OLCs developed mineralized matrix, vascular-like sprouting, and early vascular-like microchannels. After implantation into rabbit femoral defects, they enhanced vascularized bone formation, defect bridging, and trabecular remodeling. This work demonstrates the power of development-informed, Matrigel-free bone-vascular OLCs in accelerating vascularized bone regeneration for large segmental bone defect repair.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Health Science Center, Ningbo University, Ningbo, China.",
+        "Department of Orthopaedics, Shanghai Key Laboratory for Prevention and Treatment of Bone and Joint Diseases, Shanghai Institute of Traumatology and Orthopaedics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+        "The First Affiliated Hospital of Ningbo University, Ningbo, China.",
+        "Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China.",
+        "State Key Laboratory of Experimental Hematology, National Clinical Research Center for Blood Disease, Haihe Laboratory of Cell Ecosystem, Institute of Hematology & Blood Diseases Hospital, Tianjin, China.",
+        "Central Laboratory, Women and Children's Hospital of Ningbo University, Ningbo, China."
+      ],
+      "doi": "10.1002/advs.78616",
+      "date": "2026-11-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004871/"
     },
     {
       "pmid": "42990453",
@@ -262,6 +252,56 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42940052/"
     },
     {
+      "pmid": "43006909",
+      "title": "PFM: perturbed flow matching for structure-based drug design.",
+      "abstract": "Target-specific 3D molecular generation is a promising approach for structure-based drug design. However, existing diffusion-based methods are generally restricted to marginal distributions with closed-form solutions, limiting the flexibility of generative process design, especially for the forward noising process. As a result, these methods may be less effective in modeling the complex distributions underlying pocket-conditioned molecular generation. We develop Perturbed Flow Matching (PFM), a flow-matching-based framework for protein pocket-conditioned 3D molecular generation. PFM employs a perturbed conditional probability path that incorporates both pocket binding-site information and coupled atom type-coordinate information, enabling more effective generation of molecules in protein binding environments. On CrossDocked2020, PFM achieves competitive structural quality and the best average Vina score among the evaluated unguided methods (-7.12); PFM-G further improves the score to -8.70 with tailored classifier-free guidance. Experiments on additional molecular datasets further confirm the effectiveness and generalizability of the proposed framework. https://github.com/kurisu92725/PFM.",
+      "journal": "Bioinformatics (Oxford, England)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, Sichuan 611756, China.",
+        "School of Artificial Intelligence, Shanghai Jiao Tong University, Shanghai 200030, China.",
+        "College of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan 625014, China.",
+        "Center for Computational Systems Medicine, McWilliams School of Biomedical Informatics, The University of Texas Health Science Center at Houston, Houston, TX 77030, USA.",
+        "West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu, Sichuan 610041, China.",
+        "Med-X Center for Informatics, Sichuan University, Chengdu, Sichuan 610041, China."
+      ],
+      "doi": "10.1093/bioinformatics/btag811",
+      "date": "2026-11-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006909/"
+    },
+    {
+      "pmid": "43003839",
+      "title": "De novo design of miniprotein inhibitors of bacterial adhesins.",
+      "abstract": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhesins, which are virulence factors critical in host-pathogen interactions. We de novo designed high-affinity miniprotein binders to FimH and Abp chaperone usher pili adhesins from uropathogenic Escherichia coli and Acinetobacter baumannii, respectively, which are implicated in mediating both uncomplicated and catheter-associated urinary tract infections (UTI) responsible for significant morbidity worldwide. The designed antagonists have high specificity and stability, disrupt bacterial recognition of host receptors, block biofilm formation, and are effective in treating and preventing murine models of uncomplicated and catheter-associated UTIs in vivo.",
+      "journal": "Nature communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+        "Molecular Engineering Graduate Program, University of Washington, Seattle, WA, USA.",
+        "Graduate Program in Biological Physics, Structure and Design, University of Washington, Seattle, WA, USA.",
+        "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA.",
+        "Department of Microbiology, University of Washington, Seattle, WA, USA.",
+        "Department of Pathology and Immunology, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Bioengineering, University of Washington, Seattle, WA, USA.",
+        "Wyss Institute, Harvard University, Boston, MA, USA.",
+        "Department of Microbiology, University of Washington, Seattle, WA, USA. evs@uw.edu.",
+        "Department of Molecular Microbiology, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu.",
+        "Center for Women's Infectious Disease Research, Washington University in St. Louis, St. Louis, MO, USA. hultgren@wustl.edu.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA. dabaker@uw.edu.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. dabaker@uw.edu."
+      ],
+      "doi": "10.1038/s41467-026-78123-6",
+      "date": "2026-10-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003839/"
+    },
+    {
       "pmid": "43001930",
       "title": "Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design.",
       "abstract": "Developing bioactive molecules remains a central, time- and cost-heavy challenge in drug discovery, particularly for novel targets lacking structural or functional data. Pharmacophore modeling presents an alternative for capturing the key features required for molecular bioactivity against a biological target. In this work, we present PharmaDiff, a pharmacophore-conditioned diffusion model for 3D molecular generation. PharmaDiff employs a transformer-based architecture to integrate an atom-based representation of the 3D pharmacophore into the generative process, enabling the precise generation of 3D molecular graphs that align with predefined pharmacophore hypotheses. Through comprehensive testing, PharmaDiff demonstrates superior performance in matching 3D pharmacophore constraints compared to ligand-based drug design methods. Additionally, it achieves higher docking scores across a range of proteins in structure-based drug design, without the need for target protein structures. By integrating pharmacophore modeling with 3D generative techniques, PharmaDiff offers a powerful and flexible framework for rational drug design.",
@@ -322,38 +362,124 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995841/"
     },
     {
-      "pmid": "42991175",
-      "title": "Design and validation of nucleosome binding peptides using BindCraft.",
-      "abstract": "Chromatin is a sophisticated assembly of DNA, RNA and proteins in the nuclei of eukaryotic cells. Protein-protein interactions that govern chromatin function are key regulators of genome activity, making them prime targets for drug discovery. Engineering and modulating these contacts presents a viable pathway for innovative epigenetic therapies. Nucleosomes, the primary structural units of chromatin, feature various interaction interfaces, most notably the acidic patch. This region serves as a critical binding site for numerous chromatin-associated proteins, often via their intrinsically disordered regions. Advances in AI-driven protein design have recently opened new avenues for the rational development of molecules aimed at modulating these chromatin interactions. In this research, we implemented an integrated computational and experimental framework to design and validate peptides targeting the nucleosome acidic patch. We relied on the AI protein design approach implemented in BindCraft to design nucleosome binding peptides. To achieve precise quantitative analysis of these interactions, we refined a donor FRET quenching assay specifically for this application, enabling sensitive and consistent measurement of binding affinities for the designed sequences. We successfully identified peptides with high affinity for the acidic patch on canonical nucleosome core particles. These findings highlight the potential of AI-assisted design for chromatin-targeting agents and establish an effective workflow for their validation, laying the groundwork for synthetic epigenetic modulators and the broader use of protein design in managing 3D genome organization.",
-      "journal": "Frontiers in bioengineering and biotechnology",
+      "pmid": "43006504",
+      "title": "Cellular Proliferation and Reprogramming in Pre-Metastatic Niches: Mechanisms and Therapeutic Vulnerabilities.",
+      "abstract": "Cancer metastasis, the leading cause of cancer-related mortality, fundamentally depends on the proactive remodelling of distant organ microenvironments by primary tumours through systemic signals, creating a pre-metastatic niche before tumour cell arrival. This review systematically deconstructs the dynamic spatiotemporal evolution of the pre-metastatic niche, highlighting the multi-layered reprogramming of stromal, endothelial and immune cells that collectively cultivate a pro-tumourigenic and immunosuppressive microenvironment. We elucidate the biomechanical and biochemical sensing mechanisms, derived primarily from experimental models, that dictate the fate of disseminated tumour cells, governing the critical balance between dormancy maintenance and proliferative reactivation. Furthermore, we synthesize mechanistic insights alongside human tissue and liquid-biopsy correlative evidence on how metabolic resetting and epigenetic memory may contribute to sustaining pre-metastatic niche stability, and discuss how cutting-edge single-cell and spatial omics technologies are deciphering the intricate multicellular topological architecture of the niche. Ultimately, by mapping these complex systemic interactions across preclinical, biomarker and translational levels, we identify potential therapeutic vulnerabilities and advocate for a paradigm shift toward microenvironment normalization. While clinical validation remains an evolving frontier, targeting pre-metastatic niche priming represents a promising window that warrants rigorous clinical evaluation to intercept nascent metastasis before clinically detectable colonization occurs.",
+      "journal": "Cell proliferation",
       "publicationTypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
       "affiliations": [
-        "Department of Biology, Lomonosov Moscow State University, Moscow, Russia.",
-        "Department of Physics, Lomonosov Moscow State University, Moscow, Russia.",
-        "Institute of Gene Biology, Moscow, Russia.",
-        "Nuclear Dynamics and Cancer Program, Fox Chase Cancer Center, Philadelphia, PA, United States."
+        "First Clinical Medical College, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Thoracic Surgery, The Affiliated Wuxi People's Hospital of Nanjing Medical University, Wuxi People's Hospital, Wuxi Medical Center, Nanjing Medical University, Wuxi, China.",
+        "Department of Clinical Laboratory, Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing, China.",
+        "College of Integrated Traditional Chinese and Western Medicine, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "School of Chinese Medicine, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Laboratory Medicine, Chongqing Center for Clinical Laboratory, Chongqing Academy of Medical Sciences, Chongqing General Hospital, School of Medicine, Chongqing University, Chongqing, China.",
+        "State Key Laboratory of Chinese Medicine Modernization, College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.",
+        "School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, Hangzhou, China.",
+        "School of Acupuncture and Tuina, School of Regimen and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Rehabilitation Medicine, School of Acupuncture-Moxibustion and Tuina and School of Health Preservation and Rehabilitation, Nanjing University of Chinese Medicine, Nanjing, China.",
+        "Department of Gastroenterology and Hepatology, Jinling Hospital, Medical School of Nanjing University, Nanjing, China."
       ],
-      "doi": "10.3389/fbioe.2026.1946220",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991175/"
+      "doi": "10.1111/cpr.70296",
+      "date": "2026-11-10",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006504/"
     },
     {
-      "pmid": "42991163",
-      "title": "HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.",
-      "abstract": "Catheter-associated urinary tract infections (CAUTIs) rank as the fourth-most significant nosocomial infection globally. CAUTIs account for approximately 80% of hospital-acquired urinary tract infections and represent nearly one-third of all device-associated infections. Urinary catheters serve as a hub for bacteria to form highly resistant biofilms containing pathogens, like Enterococcus (E.) faecalis that reduce effectiveness of the immune system and antibiotic treatments. Therefore, tackling biofilm formation at the catheter surface becomes a crucial step in mitigating CAUTIs. We aim to address E. faecalis biofilm formation by engineering HydroGuard: a Gelatin Methacryloyl (Gel-MA)-based hydrogel injected with bacteriophages, to provide targeted, enzyme-triggered antimicrobial activity. Enterococcus faecalis expresses gelatinase (GelE), a zinc metalloprotease that enhances biofilm formation. GelMA is susceptible to GelE-mediated degradation, enabling enzyme-triggered release of bacteriophages that specifically lyse E. faecalis. For a Biosafety Level 1 proof-of-concept experiment with a well-studied host and phage system, we heterologously expressed GelE in Escherichia (E.) coli DH5α to emulate native E. faecalis expression. This system was tested on dynamically grown biofilms, to simulate similar conditions to the urinary tract. Currently, the E. coli system has shown preliminary inhibition when tested against the hydrogel product, however testing of different phage combinations is needed. Mathematical modelling identified hydrogel crosslinking density as a critical tuneable parameter governing therapeutic availability and predicted nonlinear, degradation-dependent phage release profiles. Sensitivity analyses revealed design trade-offs between structural stability and antimicrobial responsiveness. Together, the biofilm, hydrogel, phage-bacteria, and protein design models form a multiscale computational framework that links biofilm development and environmental conditions to enzyme-mediated hydrogel degradation, phage release, and bacterial suppression. Agent-based biofilm simulations captured emergent spatial dynamics under nutrient, flow, and pH constraints, while a coupled predator-prey model investigated phage-bacteria population dynamics within the degrading GelMA matrix. Computational protein design further explored collagen-like peptide motifs with enhanced folding stability and preserved gelatinase cleavage sites, providing a molecular-level approach to tuneable degradation kinetics. This multiscale framework provides predictive insight into how biofilm conditions, hydrogel degradation, and phage availability interact within the proposed system, while the preliminary experimental observations provide supporting evidence for its feasibility. By integrating synthetic biology, tissue engineering, and modelling, HydroGuard offers a novel, non-antibiotic strategy for CAUTI prevention.",
-      "journal": "Frontiers in systems biology",
+      "pmid": "43005646",
+      "title": "Clinical translation of liquid biopsy in early cancer screening: biofluid selection, model construction, and clinical validation.",
+      "abstract": "Global cancer incidence continues to rise, underscoring the urgent need for effective early detection strategies. Liquid biopsy shows promise as a minimally invasive approach, yet only a limited number of assays have successfully transitioned from research to clinical practice. This review examines the critical decisions and challenges encountered along the translational pathway for liquid biopsy based early cancer screening, covering biofluid selection, biomarker characteristics, multi-omics integration, model construction, and the hierarchy of clinical evidence. We highlight the importance of biologically driven complementarity in biomarker combination, rigorous control group design, and prospective real-world validation, while also identifying key gaps that currently constrain clinical adoption. Collectively, these considerations aim to inform more efficient development strategies and help bridge the gap between technological innovation and clinically impactful tests.",
+      "journal": "Frontiers in oncology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Shenzhen Rapha Biotechnology Inc., Shenzhen, Guangdong, China.",
+        "Cancer Center, Shenzhen University of Advanced Technology General Hospital, Shenzhen, Guangdong, China.",
+        "Department of Oncology, Shenzhen Key Laboratory of Gastrointestinal, Cancer Translational Research, Cancer Institute, Peking University Shenzhen Hospital, Shenzhen, China.",
+        "Department of Endoscopy, The First Affiliated Hospital of Henan Medical University, and Henan Key Laboratory of the Prevention and Treatment of Gastrointestinal Cancer, Weihui, Henan, China.",
+        "School of Artificial Intelligence, Shenzhen Technology University, Shenzhen, Guangdong, China."
+      ],
+      "doi": "10.3389/fonc.2026.1946352",
+      "date": "2026-10-26",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005646/"
+    },
+    {
+      "pmid": "43004446",
+      "title": "Cerebrospinal fluid-derived small extracellular vesicles reveal a compartment-specific diagnostic signature for NSCLC leptomeningeal metastasis.",
+      "abstract": "Leptomeningeal metastasis (LM) is a devastating complication of non-small cell lung cancer (NSCLC), yet timely diagnosis remains challenging because conventional approaches, including magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) cytology, have limited sensitivity, particularly at initial presentation. Small extracellular vesicles (sEVs), as nanoscale carriers of protected regulatory cargo, have emerged as promising substrates for liquid biopsy. However, in anatomically compartmentalized central nervous system malignancies, the extent to which disease-associated sEV-miRNA signals are preserved across biofluids remains unclear. We profiled sEV-associated miRNAs by small RNA sequencing in CSF and plasma samples from NSCLC patients with clinically adjudicated LM status (NC, LM-, and LM+), including paired specimens where available. Biofluid-specific miRNA programs were characterized using weighted gene co-expression network analysis (WGCNA), and diagnostic models were developed using machine learning with Random Forest and LASSO-based feature selection. Model performance was evaluated in an independent validation cohort relative to final adjudicated LM status and compared with initial and cumulative MRI and CSF cytology assessments. CSF-derived sEV-associated miRNAs showed markedly stronger disease-stratification capacity than plasma-derived signals (ARI = 0.813 vs. 0.255; cluster purity = 0.868 vs. 0.694), revealing profound biofluid asymmetry. Network analysis identified a dominant LM-associated module in CSF (r = 0.74, P = 9 × 10⁻⁷) with limited preservation in plasma, indicating that LM-related vesicle-associated molecular programs are compartment-restricted. From this CSF-specific nanoscale vesicle signature, we derived a four-miRNA diagnostic panel comprising hsa-let-7e-5p, hsa-miR-30d-5p, hsa-miR-486-5p, and hsa-miR-375. In the independent validation cohort, the single-sample sEV-miRNA panel achieved an AUC of 0.935, with 86.4% sensitivity and 87.5% specificity. By comparison, initial MRI and initial CSF cytology showed sensitivities of 50.0% and 77.3%, respectively, whereas cumulative MRI and cumulative CSF cytology showed sensitivities of 70.0% and 86.4%, respectively. CSF-derived sEV-associated miRNAs encode an LM-proximal molecular program that is not faithfully captured in plasma, underscoring the importance of biofluid compartmentalization in nanobiotechnology-based biomarker discovery. Our findings establish a compartment-aware sEV-miRNA diagnostic strategy for accurate LM detection and provide a conceptual framework for extracellular vesicle-based molecular diagnostics in central nervous system malignancies.",
+      "journal": "Journal of nanobiotechnology",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Waterloo iGEM 2025, Faculty of Engineering, University of Waterloo, Waterloo, ON, Canada.",
-        "Waterloo iGEM 2025, Faculty of Science, University of Waterloo, Waterloo, ON, Canada."
+        "Guangdong Lung Cancer Institute, Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China.",
+        "Guangdong Provincial Key Laboratory of Translational Medicine in Lung Cancer, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China.",
+        "Department of Endoscopy, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-Sen University Cancer Center, Guangzhou, China.",
+        "Guangdong Lung Cancer Institute, Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China. syzhongwenzhao@scut.edu.cn.",
+        "Guangdong Provincial Key Laboratory of Translational Medicine in Lung Cancer, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China. syzhongwenzhao@scut.edu.cn.",
+        "Guangdong Lung Cancer Institute, Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, Guangzhou, China. jiangben1000@126.com."
       ],
-      "doi": "10.3389/fsysb.2026.1923468",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991163/"
+      "doi": "10.1186/s12951-026-04847-8",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004446/"
+    },
+    {
+      "pmid": "43004430",
+      "title": "Dual roles of ANXA7 in the early diagnosis and prognostic prediction of colorectal cancer: insights from serum exosome proteomics and single-cell transcriptomics.",
+      "abstract": "Colorectal cancer (CRC) develops over 10-15 years from normal mucosa to advanced adenoma (AA) and invasive carcinoma; however, noninvasive biomarkers capable of detecting premalignant lesions and predicting the patient prognosis are still urgently needed. Circulating small extracellular vesicles (sEVs, exosomes) are nanoscale lipid bilayer carriers that are stably enriched in body fluids and serve as ideal liquid biopsy substrates for tumor molecular profiling. Nevertheless, most existing exosomal biomarker studies adopt binary case‒control designs, lack sequential adenoma‒carcinoma cohorts, and rarely combine exosomal proteomics with single-cell transcriptomics to trace the cellular origins of the biomarkers or construct paired diagnostic‒prognostic models. We integrated EXODUS rapid sEV isolation technology with 4D-DIA quantitative proteomics to profile serum exosomal proteomes across four sequential cohorts: healthy controls (NCs), patients with AA, patients with early CRC (ECRC), and patients with advanced CRC. Time series clustering and cross-cohort differential screening identified annexin A7 (ANXA7) as a continuously upregulated exosomal protein that accompanies malignant transformation in CRC. Western blotting and commercial ELISA verified the progressive increase in circulating sEV-ANXA7 levels, while tissue immunohistochemistry further confirmed the increase in ANXA7 expression from normal epithelium to adenoma and carcinoma epithelium. A single ROC curve analysis demonstrated that serum sEV-ANXA levels achieved an AUC of 0.821 for distinguishing healthy individuals from those with high-risk advanced adenomas. The combination of sEV-ANXA7 levels with the levels of the traditional markers CEA and CA199 significantly improved the diagnostic accuracy for both premalignant and early CRC lesions. Single-cell transcriptomic mining of public CRC datasets revealed a unique ANXA7⁺ epithelial progenitor cell (EPC) subpopulation, a distinct epithelial subset containing precancerous abnormal epithelial cells and early malignant epithelial cells with elevated malignant transformation potential, which was highly enriched in tumor tissues, which featured elevated stemness signatures, increased malignant scores, and the activation of ferroptosis and the P53 signaling pathway. The results of the CellChat analysis further revealed that ANXA7⁺ EPCs mediate tumor immune escape via CD8A-CEACAM5 ligand-receptor crosstalk with T cells. In vitro CCK-8 and EdU functional assays confirmed that ANXA7 markedly accelerated the proliferation of HCT116 and SW480 CRC cells. Based on the overlapping upregulated genes from ANXA7-high bulk tumors and ANXA7⁺ EPC subsets, we established a 12-gene LASSO prognostic signature, which exhibited robust performance in predicting 1-5-year survival (AUC > 0.68) of patients in both TCGA training cohort and the independent GEO validation cohort. Collectively, the results of this multiomics study reveal serum exosomal ANXA7 as a dual-function nanovesicle biomarker for early adenoma screening and the prognostic risk stratification of CRC and reveal the oncogenic ANXA7⁺ epithelial progenitor cell population that drives malignant colorectal progression. Our work provides translational evidence and theoretical basis for the development of exosome-based noninvasive liquid biopsy strategies and targeted therapeutic interventions against CRC.",
+      "journal": "Journal of nanobiotechnology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, 247 Renmin Road, Zhejiang Province, 315020, Ningbo, China.",
+        "Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Ningbo, 315020, Zhejiang Province, China.",
+        "Institute of Digestive Disease of Ningbo University, Ningbo, 315020, Zhejiang Province, China.",
+        "Health Science Center, Ningbo University, Ningbo, 315211, Zhejiang Province, China.",
+        "Department of Colorectal-anal Surgery, The First Affiliated Hospital of Ningbo University, Ningbo, 315020, Zhejiang Province, China.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, 247 Renmin Road, Zhejiang Province, 315020, Ningbo, China. fyzhouyuping@nbu.edu.cn.",
+        "Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Ningbo, 315020, Zhejiang Province, China. fyzhouyuping@nbu.edu.cn.",
+        "Institute of Digestive Disease of Ningbo University, Ningbo, 315020, Zhejiang Province, China. fyzhouyuping@nbu.edu.cn.",
+        "Department of Traditional Chinese Medicine, The First Affiliated Hospital of Ningbo University, Ningbo, 315020, Zhejiang Province, China. fyzhouyuping@nbu.edu.cn.",
+        "Department of Gastroenterology, The First Affiliated Hospital of Ningbo University, 247 Renmin Road, Zhejiang Province, 315020, Ningbo, China. yeguoliang@nbu.edu.cn.",
+        "Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Ningbo, 315020, Zhejiang Province, China. yeguoliang@nbu.edu.cn.",
+        "Institute of Digestive Disease of Ningbo University, Ningbo, 315020, Zhejiang Province, China. yeguoliang@nbu.edu.cn.",
+        "Ningbo Key Laboratory of Translational Medicine Research on Gastroenterology and Hepatology, Ningbo, 315020, Zhejiang Province, China. jnuyangping@126.com.",
+        "Department of Traditional Chinese Medicine, The First Affiliated Hospital of Ningbo University, Ningbo, 315020, Zhejiang Province, China. jnuyangping@126.com."
+      ],
+      "doi": "10.1186/s12951-026-04915-z",
+      "date": "2026-08-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004430/"
+    },
+    {
+      "pmid": "43004066",
+      "title": "Demonstrating the False-Positive Paradox in Radiology with Artificial Intelligence: Estimating Clinically Anticipated PPV, FDR, NPV, and FOR of FDA-Cleared Devices Using Performance Metrics from 510(k) Summaries and Prevalences from Local and Published Data.",
+      "abstract": "The false-positive paradox (FPP) describes the counterintuitive phenomenon whereby a test can achieve high sensitivity and specificity yet still produce mostly false-positive results when applied to low-prevalence populations. This phenomenon is particularly relevant to radiology artificial intelligence (AI), where devices are typically marketed and cleared using diagnostic accuracy metrics such as sensitivity, specificity, and area under the receiver operating characteristic curve (ROC-AUC). However, these metrics do not indicate the proportion of false-positive and false-negative outputs clinicians should expect in local practice. This study estimated the positive predictive value (PPV), false discovery rate (FDR), negative predictive value (NPV), and false omission rate (FOR) for recent Food and Drug Administration (FDA)-cleared radiology AI devices by combining publicly reported 510(k) sensitivity and specificity with local or literature-derived prevalence estimates. Public FDA summaries for 38 radiology AI devices authorized in 2024 or 2025 were reviewed, yielding 57 target pathology entries. Median reported sensitivity, specificity, and ROC-AUC exceeded 90%; nevertheless, clinically anticipated FDRs were often high. For example, a large vessel occlusion detector with 90.6% sensitivity and 88.8% specificity was estimated to have a PPV of 29.3% and an FDR of 70.7% at a prevalence of 4.87%, meaning most positive AI alerts would be false positives. These findings do not evaluate device performance but instead illustrate the FPP in radiology AI. Public 510(k) summaries should consistently report sensitivity, specificity, and test set prevalence so that radiologists and other stakeholders can estimate PPV, FDR, NPV, and FOR for their own patient populations before implementation.",
+      "journal": "Journal of imaging informatics in medicine",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "SEI (Systems Evolution, Inc.), Philadelphia, USA.",
+        "Faculty of Medicine, University of Freiburg, Freiburg im Breisgau, Germany.",
+        "The Warren Alpert Medical School, Brown University, Providence, USA.",
+        "vRad® (Virtual Radiologic), Edina, USA.",
+        "Department of Radiology, Penn State Milton S. Hershey Medical Center, Hershey, USA.",
+        "American College of Radiology Data Science Institute, Reston, VA, USA.",
+        "Palo Alto VA Medical Center, Palo Alto, CA, USA.",
+        "The American College of Radiology, Reston, USA.",
+        "Department of Radiology, Mayo Clinic/Mayo College of Medicine and Science, Rochester, USA.",
+        "The Warren Alpert Medical School, Brown University, Providence, USA. Grayson_Baird@Brown.edu.",
+        "Department of Radiology, Brown University Health, Brown University, Providence, USA. Grayson_Baird@Brown.edu.",
+        "Brown University Health AI Center of Excellence, Brown University Health, Providence, RI, USA. Grayson_Baird@Brown.edu."
+      ],
+      "doi": "10.1007/s10278-026-02488-9",
+      "date": "2026-11-09",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004066/"
     },
     {
       "pmid": "43003479",
@@ -371,144 +497,20 @@
       "doi": "10.1136/bcr-2026-273260",
       "date": "2026-11-09",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003479/"
-    },
-    {
-      "pmid": "43002872",
-      "title": "Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches.",
-      "abstract": "Pancreatic cancer (PC) is known as one of the most aggressive and deadly tumors, with pancreatic ductal adenocarcinoma (PDAC) predicted to be the second leading cause of cancer death by 2030. Also, due to the lack of specific symptoms and limitations of biomarkers and screening methods for early diagnosis, most patients are diagnosed at advanced stages and with metastatic disease. Therefore, developing new, high-accuracy diagnostic methods for early diagnosis and monitoring of treatment response in patients is very important for providing appropriate treatment options and improving survival rates. In recent years, despite the progress in diagnostic methods such as imaging techniques, tissue biopsy, liquid biopsy (LB), and tumor marker testing, there are many uncertainties about the specificity and sensitivity of these technologies, as well as challenges in their practical use in the clinic. Also, advancements in artificial intelligence (AI) technology in the field of cancer detection have enabled the screening and early diagnosis of PC in high-risk populations by employing AI algorithms with high computational power in conjunction with biomarkers, medical imaging, and pathological tests. In this article, we comprehensively evaluate the potential and diagnostic effectiveness of established tools for PC, alongside emerging and promising approaches, including liquid biopsy and AI-based methods. We examine their applications in early diagnosis, screening, prognostication, and disease monitoring, while also discussing the key characteristics, advantages, and limitations of each approach, as well as the potential benefits of their integration. Finally, we provide clinical recommendations aimed at improving the early detection of this challenging disease.",
-      "journal": "Biochemical and biophysical research communications",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Molecular and Medicine Research Center, Arak University of Medical Sciences, Arak, Iran; Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: maghsoodinafiseh@gmail.com.",
-        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran; Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: mehrddameri@gmail.com.",
-        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: absalan.faezeh2024@gmail.com.",
-        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: mohammadesmaeili.ce@gmail.com.",
-        "Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran; Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic address: amin.ramezani@gmail.com."
-      ],
-      "doi": "10.1016/j.bbrc.2026.154848",
-      "date": "2026-11-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002872/"
-    },
-    {
-      "pmid": "43001674",
-      "title": "IP47-13 UCIPredict: Liquid Biopsy-Based Prediction of Immunotherapy Response in Urothelial Carcinoma-Interim Multicenter Results: Erratum.",
-      "abstract": "",
-      "journal": "The Journal of urology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [],
-      "doi": "10.1097/JU.0000000000005248",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001674/"
-    },
-    {
-      "pmid": "43001601",
-      "title": "From Single Cells to the Circulating Tumor Microenvironment: Label-Free Size-Selection and a Morphological Taxonomy for Liquid Biopsy in Cytopathology.",
-      "abstract": "Liquid biopsy-here, the analysis of blood-has often focused on counting solitary circulating tumor cells (CTCs), a readout that omits the multicellular architecture governing metastasis. We summarize a hierarchical morphological taxonomy built on the circulating tumor microenvironment (cTME), then ask what an isolation method must deliver before that taxonomy can be applied at the microscope. We appraised the literature on label-free size-selection (membrane filtration) of whole blood, comparing suction-driven, microfluidic, and gravity-driven platforms for recovery of intact multicellular units and for readability of the resulting preparations by routine cytologic stains and multiplex immunocytochemistry. The critique is paired with the authors' own single-center experience, reported in labeled subsections. Circulating tumor-associated cells (C-TACs) form the functional cellular tier of the cTME: a \"mobile niche\" comprising a malignant core-solitary CTCs and circulating tumor emboli (CTE)-together with non-malignant supporting partners. Antigen-dependent capture disrupts these units and misses non-epithelial partners, whereas size-selection retains them by size and deformability, independently of surface phenotype. We propose the driving force, and hence the shear imposed on captured cells, as the primary axis for classifying these platforms-a testable hypothesis rather than an established result. Chemo-response profiling of the intact collective by an independent group showed 97% concordance with radiological response in therapy-naïve patients; in our own series, perioperative CTE detection stratified adjuvant chemotherapy benefit in non-small cell lung cancer. Size-selection converts a liquid biopsy into a cytology slide, placing interpretation of the circulating tumor ecosystem within the existing competence of the diagnostic laboratory.",
-      "journal": "Diagnostic cytopathology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Thoracic Surgery, Kawanishi City Medical Center, Kawanishi, Hyogo, Japan.",
-        "Department of Thoracic Surgery, Dokkyo Medical University Saitama Medical Center, Koshigaya, Saitama, Japan."
-      ],
-      "doi": "10.1002/dc.70229",
-      "date": "2026-11-09",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001601/"
-    },
-    {
-      "pmid": "43001486",
-      "title": "Liquid biopsy for brain tumors.",
-      "abstract": "Diagnosis and molecular classification of central nervous system (CNS) tumors depend largely on neurosurgical sampling, which may be difficult to obtain and is rarely repeated throughout the disease course. This review examines how liquid biopsy may extend molecular assessment of primary and metastatic CNS tumors beyond the initial tissue specimen. Cerebrospinal fluid (CSF) cell-free DNA can identify diagnostically informative alterations in gliomas, CNS lymphoma, and CNS metastases. Serial sampling can reveal evolving tumor clones and resistance-associated alterations absent from archival tissue. Recent advances in error-corrected sequencing, fragment analysis, and methylation classification broaden the molecular information available from blood and CSF. However, diagnostic yield varies with tumor type, anatomical location, sampling compartment, and assay design, and blood-based detection remains challenging in primary brain tumors. Liquid biopsy may complement tissue diagnosis, imaging, and conventional CSF studies, particularly when repeat tissue sampling is impractical. Prospective validation is needed to establish standardized workflows, clarify the interpretation of negative results, and determine whether molecular findings improve treatment selection and patient outcomes.",
-      "journal": "Current opinion in neurology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Brain & Spine Tumor Center, Perlmutter Cancer Center, NYU Langone Health.",
-        "Departments of Neurology and Medicine, NYU Grossman School of Medicine, New York University, New York, New York, USA."
-      ],
-      "doi": "10.1097/WCO.0000000000001522",
-      "date": "2026-11-05",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001486/"
-    },
-    {
-      "pmid": "43001319",
-      "title": "Circular RNAs as promising biomarkers for human diseases: An update for 2018-2025.",
-      "abstract": "Circular RNAs (circRNAs) are a class of endogenous non-coding RNAs characterized by their unique covalently closed-loop structure. These molecules are key regulators of gene expression and are closely linked to various human diseases. Due to their intrinsic stability, evolutionary conservation, and tissue-specific expression, circRNAs have emerged as highly promising biomarkers for a wide range of diseases. This review comprehensively synthesizes progress in research from 2018 to 2025 on the biogenesis, nuclear export, and functional mechanisms of circRNAs in human diseases. Further, we update novel detection technologies and methods of circRNAs and discuss the prospects and challenges of translating circRNAs into clinical biomarkers, aiming to facilitate clinical applications.",
-      "journal": "Genes & diseases",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Traditional Chinese Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
-        "Institute of Cardiovascular Sciences, Shanghai Engineering Research Center of Organ Repair, Joint International Research Laboratory of Biomaterials and Biotechnology in Organ Repair (Ministry of Education), School of Life Science, Shanghai University, Shanghai 200444, China.",
-        "School of Integrative Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China.",
-        "Cardiovascular Division of the Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA.",
-        "Albert Einstein College of Medicine, Department of Internal Medicine, NCB, Bronx, NY 10461, USA."
-      ],
-      "doi": "10.1016/j.gendis.2026.102043",
-      "date": "2026-01-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001319/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-43003299",
-      "date": "2026-11-09",
-      "title": "GPCRAgent: an intelligent multi-agent platform integrating knowledge graphs and large language models for GPCR-targeted drug discovery.",
+      "id": "pubmed-43006779",
+      "date": "2026-11-10",
+      "title": "An Allogeneic PBMC-Organoid Co-culture Platform for Evaluating Immunotherapy Efficacy and T-Cell-Mediated Antitumor Immunity.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003299/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Healthcare AI",
-        "Medical LLM"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "医疗 AI",
-        "临床决策支持"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of advanced research，PMID 为 43003299。",
-      "report": "G protein-coupled receptors (GPCRs) are major therapeutic targets in drug discovery. However, systematic characterization of GPCR functions and ligand interactions remains constrained by the high cost and complexity of experimental approaches. Although large l...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43003161",
-      "date": "2026-11-09",
-      "title": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003161/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006779/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -525,22 +527,81 @@
         "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacological research，PMID 为 43003161。",
-      "report": "Double-stranded RNA (dsRNA) can activate potent anti-tumor immunity, but its clinical translation remains challenging. We sought to identify clinically applicable strategies to induce endogenous dsRNA and enhance anti-tumor immune responses. Here, we integrate...",
+      "fact": "PubMed 记录显示该文献收录于 ACS applied bio materials，PMID 为 43006779。",
+      "report": "Traditional 2D cell lines and mouse xenograft models have limitations in recapitulating the complexity of the tumor microenvironment (TME) and dynamic interactions between tumor and immune cells, creating an urgent need for models to evaluate immunotherapies....",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43002180",
+      "id": "pubmed-43006909",
+      "date": "2026-11-10",
+      "title": "PFM: perturbed flow matching for structure-based drug design.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006909/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Bioinformatics (Oxford, England)，PMID 为 43006909。",
+      "report": "Target-specific 3D molecular generation is a promising approach for structure-based drug design. However, existing diffusion-based methods are generally restricted to marginal distributions with closed-form solutions, limiting the flexibility of generative pro...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43006504",
+      "date": "2026-11-10",
+      "title": "Cellular Proliferation and Reprogramming in Pre-Metastatic Niches: Mechanisms and Therapeutic Vulnerabilities.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43006504/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Cell proliferation，PMID 为 43006504。",
+      "report": "Cancer metastasis, the leading cause of cancer-related mortality, fundamentally depends on the proactive remodelling of distant organ microenvironments by primary tumours through systemic signals, creating a pre-metastatic niche before tumour cell arrival. Thi...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43004871",
       "date": "2026-11-09",
-      "title": "Integrin-guided development of defined supramolecular hydrogels for human kidney tubuloid culture.",
+      "title": "Development-Informed Microsphere Assemblies Enable Spatiotemporally Programmed Bone-Vascular Organoid-Like Constructs for Large Bone Defect Repair.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002180/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004871/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
@@ -555,8 +616,8 @@
         "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomaterials science，PMID 为 43002180。",
-      "report": "Tubuloids are epithelial organoids derived from tissue or urine that model tubular nephron segments of the kidney. Their use in preclinical research is limited by dependence on basement membrane extract (BME), a batch-variable animal-derived matrix that reduce...",
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43004871。",
+      "report": "Large segmental bone defects are difficult to repair because endogenous stem-cell activation, vascular ingrowth, and osteogenic maturation are insufficient to rebuild organized bone tissue. Bone organoids offer a promising regenerative strategy, but current sy...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -590,6 +651,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43004066",
+      "date": "2026-11-09",
+      "title": "Demonstrating the False-Positive Paradox in Radiology with Artificial Intelligence: Estimating Clinically Anticipated PPV, FDR, NPV, and FOR of FDA-Cleared Devices Using Performance Metrics from 510(k) Summaries and Prevalences from Local and Published Data.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004066/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of imaging informatics in medicine，PMID 为 43004066。",
+      "report": "The false-positive paradox (FPP) describes the counterintuitive phenomenon whereby a test can achieve high sensitivity and specificity yet still produce mostly false-positive results when applied to low-prevalence populations. This phenomenon is particularly r...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43003479",
       "date": "2026-11-09",
       "title": "Peritoneal metastasis of histone 3 lysine 27-to-methionine-mutant diffuse midline glioma via ventriculoperitoneal shunt: laparoscopic confirmation of occult disease and the need for multimodal liquid biopsy.",
@@ -617,198 +706,6 @@
       "fact": "PubMed 记录显示该文献收录于 BMJ case reports，PMID 为 43003479。",
       "report": "PubMed 记录未提供摘要。",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001674",
-      "date": "2026-11-09",
-      "title": "IP47-13 UCIPredict: Liquid Biopsy-Based Prediction of Immunotherapy Response in Urothelial Carcinoma-Interim Multicenter Results: Erratum.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001674/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 The Journal of urology，PMID 为 43001674。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001601",
-      "date": "2026-11-09",
-      "title": "From Single Cells to the Circulating Tumor Microenvironment: Label-Free Size-Selection and a Morphological Taxonomy for Liquid Biopsy in Cytopathology.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001601/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Diagnostic cytopathology，PMID 为 43001601。",
-      "report": "Liquid biopsy-here, the analysis of blood-has often focused on counting solitary circulating tumor cells (CTCs), a readout that omits the multicellular architecture governing metastasis. We summarize a hierarchical morphological taxonomy built on the circulati...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001097",
-      "date": "2026-11-08",
-      "title": "Advancing in Sarcoma 3D Modeling: Identification of SRC as an Actionable Vulnerability in Doxorubicin-Resistant Osteosarcoma Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001097/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Healthcare AI",
-        "Medical LLM",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "医疗 AI",
-        "临床决策支持",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 MedComm，PMID 为 43001097。",
-      "report": "Tumor organoids have emerged as the most promising avatar to model cancer and to be used as drug testing platform in personalized medicine protocols. The derivation of organoids from epithelial tumors is well established, and their use has proven useful for bi...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43002872",
-      "date": "2026-11-06",
-      "title": "Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002872/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemical and biophysical research communications，PMID 为 43002872。",
-      "report": "Pancreatic cancer (PC) is known as one of the most aggressive and deadly tumors, with pancreatic ductal adenocarcinoma (PDAC) predicted to be the second leading cause of cancer death by 2030. Also, due to the lack of specific symptoms and limitations of biomar...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001486",
-      "date": "2026-11-05",
-      "title": "Liquid biopsy for brain tumors.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001486/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Current opinion in neurology，PMID 为 43001486。",
-      "report": "Diagnosis and molecular classification of central nervous system (CNS) tumors depend largely on neurosurgical sampling, which may be difficult to obtain and is rarely repeated throughout the disease course. This review examines how liquid biopsy may extend mol...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43001193",
-      "date": "2026-11-04",
-      "title": "Organoid-Guided Precision Salvage Therapy for Advanced Breast Cancer with Multiple Metastases: A Case Report.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001193/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of women's health，PMID 为 43001193。",
-      "report": "Breast cancer is one of the most prevalent malignancies in women worldwide, and postoperative recurrence, distant metastasis, and multidrug resistance remain major clinical challenges for patients with advanced disease. Patient-derived organoids (PDOs), which...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -846,32 +743,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43001240",
-      "date": "2026-10-29",
-      "title": "From bench to clinic, are organoids ready for modeling drug delivery in brain disease?",
+      "id": "pubmed-43005634",
+      "date": "2026-10-30",
+      "title": "A patient-derived bladder cancer organoid and xenograft platform for personalized drug response prediction and salvage therapeutics screening.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001240/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005634/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
         "Advanced Disease Models",
-        "Drug Screening"
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
       ],
       "tags": [
         "类器官",
         "疾病模型",
-        "药筛"
+        "肿瘤",
+        "药筛",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 International journal of pharmaceutics: X，PMID 为 43001240。",
-      "report": "Brain diseases remain a significant challenge in the field of modern medicine. The protective function of the blood-brain barrier (BBB) also complicates drug delivery for neurological disorders. However, under certain pathological conditions, the BBB is compro...",
+      "fact": "PubMed 记录显示该文献收录于 Chinese journal of cancer research = Chung-kuo yen cheng yen chiu，PMID 为 43005634。",
+      "report": "Therapeutic resistance remains a major challenge in bladder cancer treatment. The aim of this study was to develop and validate a bladder cancer patient-derived organoid (PDO)-based platform for treatment response prediction and individualized salvage therapy...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -950,6 +851,72 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43005560",
+      "date": "2026-10-26",
+      "title": "Engineered organoid platforms for mechanistic studies of gut microbiota-cancer interactions.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005560/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 43005560。",
+      "report": "Associations between the gut microbiota and cancer are increasingly reproducible at the cohort level, but association alone cannot establish whether a microorganism, microbial product, or metabolite directly alters tumor-relevant host biology. Engineered organ...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43005146",
+      "date": "2026-10-26",
+      "title": "Subtype or state? Rethinking the apCAF paradox and fibroblast plasticity in gastrointestinal cancers.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005146/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43005146。",
+      "report": "Antigen-presenting cancer-associated fibroblasts (apCAFs), commonly defined by MHC class II molecules, CD74, and related transcriptional programs, exhibit divergent functions across gastrointestinal tumors. In pancreatic ductal adenocarcinoma, mesothelium-deri...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42990227",
       "date": "2026-10-26",
       "title": "Prediction transfer does not imply reliability transfer in single-cell foundation models.",
@@ -982,6 +949,40 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43005646",
+      "date": "2026-10-26",
+      "title": "Clinical translation of liquid biopsy in early cancer screening: biofluid selection, model construction, and clinical validation.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005646/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43005646。",
+      "report": "Global cancer incidence continues to rise, underscoring the urgent need for effective early detection strategies. Liquid biopsy shows promise as a minimally invasive approach, yet only a limited number of assays have successfully transitioned from research to...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42995841",
       "date": "2026-10-22",
       "title": "MYC targeted de novo binders impair tumor growth.",
@@ -1010,72 +1011,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42995841。",
       "report": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design prot...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42991175",
-      "date": "2026-10-22",
-      "title": "Design and validation of nucleosome binding peptides using BindCraft.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991175/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 42991175。",
-      "report": "Chromatin is a sophisticated assembly of DNA, RNA and proteins in the nuclei of eukaryotic cells. Protein-protein interactions that govern chromatin function are key regulators of genome activity, making them prime targets for drug discovery. Engineering and m...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42991163",
-      "date": "2026-10-22",
-      "title": "HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991163/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [
-        "emulate"
-      ],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in systems biology，PMID 为 42991163。",
-      "report": "Catheter-associated urinary tract infections (CAUTIs) rank as the fourth-most significant nosocomial infection globally. CAUTIs account for approximately 80% of hospital-acquired urinary tract infections and represent nearly one-third of all device-associated...",
-      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1167,6 +1102,35 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43003839",
+      "date": "2026-10-09",
+      "title": "De novo design of miniprotein inhibitors of bacterial adhesins.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43003839/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 43003839。",
+      "report": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhes...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42940052",
       "date": "2026-10-04",
       "title": "Primary-Tumor Transcriptomic Signatures Associated with Circulating Tumor Cells Status in Breast Cancer: From CTC-Negative Remodeling to CTC-Associated Metastatic Programs.",
@@ -1199,29 +1163,99 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43001319",
-      "date": "2026-01-19",
-      "title": "Circular RNAs as promising biomarkers for human diseases: An update for 2018-2025.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
+      "id": "pubmed-43004446",
+      "date": "2026-08-12",
+      "title": "Cerebrospinal fluid-derived small extracellular vesicles reveal a compartment-specific diagnostic signature for NSCLC leptomeningeal metastasis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001319/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004446/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Biotech"
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology"
       ],
       "tags": [
-        "biotech"
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Genes & diseases，PMID 为 43001319。",
-      "report": "Circular RNAs (circRNAs) are a class of endogenous non-coding RNAs characterized by their unique covalently closed-loop structure. These molecules are key regulators of gene expression and are closely linked to various human diseases. Due to their intrinsic st...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43004446。",
+      "report": "Leptomeningeal metastasis (LM) is a devastating complication of non-small cell lung cancer (NSCLC), yet timely diagnosis remains challenging because conventional approaches, including magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) cytology, hav...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43004430",
+      "date": "2026-08-12",
+      "title": "Dual roles of ANXA7 in the early diagnosis and prognostic prediction of colorectal cancer: insights from serum exosome proteomics and single-cell transcriptomics.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43004430/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43004430。",
+      "report": "Colorectal cancer (CRC) develops over 10-15 years from normal mucosa to advanced adenoma (AA) and invasive carcinoma; however, noninvasive biomarkers capable of detecting premalignant lesions and predicting the patient prognosis are still urgently needed. Circ...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43005450",
+      "date": "2026-06-29",
+      "title": "Autophagy Modulation Influenced the Spermatogenesis in Rodent Testicular Organoids and Diabetic Condition.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43005450/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced pharmaceutical bulletin，PMID 为 43005450。",
+      "report": "Here, the effect of autophagy activity was investigated in rat testicular organoids embedded in alginate/gelatin (Alg/Gel) hydrogel. Additionally, we monitored the spermatogenesis potential in diabetic mice following the administration of metformin (Met) and/o...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

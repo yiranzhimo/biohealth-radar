@@ -4,130 +4,90 @@
   "asOfDate": "2026-11-10",
   "mentions": [
     {
-      "id": "mention-clinicaltrials-052d7123d316aa76",
-      "observedName": "Dimagi Inc.",
-      "normalizedName": "dimagi",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01641367",
-      "sourceDate": "2019-03-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-0fa14a9dd9ffb6f8",
-      "observedName": "Merck Sharp & Dohme LLC",
-      "normalizedName": "merck sharp and dohme",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01641367",
-      "sourceDate": "2019-03-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-2686b956341875d5",
-      "observedName": "Janssen Pharmaceuticals",
-      "normalizedName": "janssen pharmaceuticals",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT01641367",
-      "sourceDate": "2019-03-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
-    },
-    {
-      "id": "mention-clinicaltrials-4120ec5b0c46fd10",
-      "observedName": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
-      "normalizedName": "advancing clinical therapeutics globally for hiv aids and other infections",
+      "id": "mention-clinicaltrials-0e036f736dd6e9a6",
+      "observedName": "Clovis Oncology, Inc.",
+      "normalizedName": "clovis oncology",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01641367",
-      "sourceDate": "2019-03-15",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01641367",
+      "sourceRecordId": "NCT01526928",
+      "sourceDate": "2020-08-04",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01526928",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
-        "临床试验"
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
       ],
       "activitySignals": [
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A5288/MULTI-OCTAVE: Management Using Latest Technologies to Optimize Combination Therapy After Viral Failure"
+      "contextTitle": "Study to Evaluate Safety, Pharmacokinetics, and Efficacy of Rociletinib (CO-1686) in Previously Treated Mutant Epidermal Growth Factor Receptor (EGFR) in Non-Small Cell Lung Cancer (NSCLC) Patients"
     },
     {
-      "id": "mention-clinicaltrials-c4c53dd67e90a4bd",
-      "observedName": "Neurophth Therapeutics Inc",
-      "normalizedName": "neurophth therapeutics",
+      "id": "mention-clinicaltrials-4be7b37645fd891e",
+      "observedName": "Roche Pharma AG",
+      "normalizedName": "roche pharma",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT00127036",
+      "sourceDate": "2017-03-23",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT00127036",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Trial for Microarray Analysis of Colon Cancer Outcome-A (MACCO-A)"
+    },
+    {
+      "id": "mention-clinicaltrials-5cc2e3bbcd2d8e39",
+      "observedName": "REGENXBIO Inc.",
+      "normalizedName": "regenxbio",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT05820152",
-      "sourceDate": "2024-09-20",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT05820152",
+      "sourceRecordId": "NCT04591834",
+      "sourceDate": "2022-10-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04591834",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
         "Gene Therapy",
         "Genetic Medicine",
-        "中国",
         "临床试验",
         "基因治疗",
         "基因编辑"
       ],
       "activitySignals": [
-        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Gene Therapy Clinical Trial for the Treatment of Leber's Hereditary Optic Neuropathy Associated With ND1 Mutations"
+      "contextTitle": "Mucopolysaccharidosis Type II Observational"
     },
     {
-      "id": "mention-clinicaltrials-d30cb0ab0e30d1aa",
-      "observedName": "Green Cross Corporation",
-      "normalizedName": "green cross",
+      "id": "mention-clinicaltrials-f9072fe39917204a",
+      "observedName": "Amicus Therapeutics",
+      "normalizedName": "amicus therapeutics",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01606163",
-      "sourceDate": "2014-01-03",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01606163",
+      "sourceRecordId": "NCT01196871",
+      "sourceDate": "2018-12-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT01196871",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -138,7 +98,38 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Safety and Pharmacokinetics Study of Healthy Male Adults When Repeatedly Administered Through Intravenous Injection"
+      "contextTitle": "Drug-Drug Interaction Study Between AT1001 (Migalastat Hydrochloride) and Agalsidase in Participants With Fabry Disease"
+    },
+    {
+      "id": "mention-clinicaltrials-fcc2831918838086",
+      "observedName": "Guangzhou Burning Rock Dx Co., Ltd.",
+      "normalizedName": "guangzhou burning rock dx",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06001099",
+      "sourceDate": "2023-09-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06001099",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "中国",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [],
+      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale Cancers, PERCEIVE-II"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",

@@ -8179,14 +8179,6 @@
             "title": "Alnylam Pharmaceuticals filed Form 10-Q",
             "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm",
             "source": "SEC EDGAR"
-          },
-          {
-            "form": "10-Q",
-            "label": "季报",
-            "date": "2026-07-30",
-            "title": "Alnylam Pharmaceuticals filed Form 10-Q",
-            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
-            "source": "SEC EDGAR"
           }
         ],
         "reportPortals": []
@@ -8266,9 +8258,7 @@
           "evidence-company-alnylam-investor_relations-15f1a46f254b",
           "evidence-sec-0001178670-000117867026000076",
           "evidence-sec-0001178670-000117867026000074",
-          "evidence-company-alnylam-official-39bb27c0bc8e",
-          "evidence-sec-0001178670-000117867026000062",
-          "evidence-sec-0001178670-000117867026000060"
+          "evidence-company-alnylam-official-39bb27c0bc8e"
         ]
       },
       "futureDirection": {
@@ -8337,10 +8327,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 8,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 5
+          "Filing": 3
         },
         "lastEvidenceDate": "2026-11-05",
         "programCandidateCount": 0,
@@ -8415,28 +8405,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-alnylam-official-39bb27c0bc8e",
           "sourceUrl": "https://www.alnylam.com/"
-        },
-        {
-          "id": "event-sec-0001178670-000117867026000062",
-          "date": "2026-07-30",
-          "title": "Alnylam Pharmaceuticals filed Form 10-Q",
-          "eventType": "Periodic Report",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001178670-000117867026000062",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm"
-        },
-        {
-          "id": "event-sec-0001178670-000117867026000060",
-          "date": "2026-07-30",
-          "title": "Alnylam Pharmaceuticals filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001178670-000117867026000060",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm"
         }
       ]
     },
@@ -17614,6 +17582,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001730463-000173046326000141",
           "evidence-company-autolus-official-ec0a477825f5",
           "evidence-sec-0001730463-000119312526398045",
           "evidence-sec-0001730463-000173046326000123",
@@ -17625,6 +17594,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001730463-000173046326000141",
+            "date": "2026-11-10",
+            "title": "Autolus Therapeutics filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001730463-000173046326000141",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000141/autl-20261110.htm"
+          },
           {
             "id": "event-evidence-company-autolus-official-ec0a477825f5",
             "date": "2026-09-23",
@@ -17668,17 +17648,6 @@
             "needsReview": true,
             "evidenceId": "evidence-sec-0001730463-000173046326000119",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000119/autl-20260811.htm"
-          },
-          {
-            "id": "event-sec-0001730463-000173046326000112",
-            "date": "2026-08-03",
-            "title": "Autolus Therapeutics filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001730463-000173046326000112",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm"
           }
         ],
         "inferences": [],
@@ -17689,12 +17658,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 6,
+        "evidenceCount": 7,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 5
+          "Filing": 6
         },
-        "lastEvidenceDate": "2026-09-23",
+        "lastEvidenceDate": "2026-11-10",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -17703,6 +17672,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001730463-000173046326000141",
+          "date": "2026-11-10",
+          "title": "Autolus Therapeutics filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001730463-000173046326000141",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000141/autl-20261110.htm"
+        },
         {
           "id": "event-evidence-company-autolus-official-ec0a477825f5",
           "date": "2026-09-23",
@@ -39125,8 +39105,7 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-emulate-pipeline-379202c5c9b2",
-          "evidence-company-emulate-official-f5f5bde8e819",
-          "evidence-pubmed-42991163"
+          "evidence-company-emulate-official-f5f5bde8e819"
         ]
       },
       "futureDirection": {
@@ -39153,17 +39132,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
             "sourceUrl": "https://emulatebio.com/"
-          },
-          {
-            "id": "event-pubmed-42991163",
-            "date": "2026-10-22",
-            "title": "HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-pubmed-42991163",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991163/"
           }
         ],
         "inferences": [],
@@ -39173,10 +39141,9 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "evidenceBySourceType": {
-          "Company": 2,
-          "Paper": 1
+          "Company": 2
         },
         "lastEvidenceDate": "2026-10-29",
         "programCandidateCount": 0,
@@ -39207,17 +39174,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-emulate-official-f5f5bde8e819",
           "sourceUrl": "https://emulatebio.com/"
-        },
-        {
-          "id": "event-pubmed-42991163",
-          "date": "2026-10-22",
-          "title": "HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-pubmed-42991163",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42991163/"
         }
       ]
     },
@@ -52578,6 +52534,14 @@
           {
             "form": "6-K",
             "label": "半年报/临时报告",
+            "date": "2026-11-10",
+            "title": "Legend Biotech filed Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000026/legn-20260930.htm",
+            "source": "SEC EDGAR"
+          },
+          {
+            "form": "6-K",
+            "label": "半年报/临时报告",
             "date": "2026-11-04",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/f6k_110326.htm",
@@ -52629,14 +52593,6 @@
             "date": "2026-09-14",
             "title": "Legend Biotech filed Form 6-K",
             "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm",
-            "source": "SEC EDGAR"
-          },
-          {
-            "form": "6-K",
-            "label": "半年报/临时报告",
-            "date": "2026-08-18",
-            "title": "Legend Biotech filed Form 6-K",
-            "url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326005623/f6k_081826.htm",
             "source": "SEC EDGAR"
           }
         ],
@@ -52713,6 +52669,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001801198-000180119826000026",
           "evidence-company-legend-biotech-official-3aac46754f2c",
           "evidence-sec-0001801198-000117184326007100",
           "evidence-sec-0001801198-000117184326006646",
@@ -52748,6 +52705,17 @@
           }
         ],
         "observedMoves": [
+          {
+            "id": "event-sec-0001801198-000180119826000026",
+            "date": "2026-11-10",
+            "title": "Legend Biotech filed Form 6-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001801198-000180119826000026",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000026/legn-20260930.htm"
+          },
           {
             "id": "event-evidence-company-legend-biotech-official-3aac46754f2c",
             "date": "2026-11-05",
@@ -52791,17 +52759,6 @@
             "needsReview": true,
             "evidenceId": "evidence-sec-0001801198-000117184326006593",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm"
-          },
-          {
-            "id": "event-sec-0001801198-000117184326006229",
-            "date": "2026-09-25",
-            "title": "Legend Biotech filed Form 6-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001801198-000117184326006229",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/f6k_092426.htm"
           }
         ],
         "inferences": [],
@@ -52812,12 +52769,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 13,
+        "evidenceCount": 14,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 10
+          "Filing": 11
         },
-        "lastEvidenceDate": "2026-11-05",
+        "lastEvidenceDate": "2026-11-10",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -52826,6 +52783,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001801198-000180119826000026",
+          "date": "2026-11-10",
+          "title": "Legend Biotech filed Form 6-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001801198-000180119826000026",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000180119826000026/legn-20260930.htm"
+        },
         {
           "id": "event-evidence-company-legend-biotech-official-3aac46754f2c",
           "date": "2026-11-05",
@@ -52902,17 +52870,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001801198-000117184326006050",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006050/f6k_091526.htm"
-        },
-        {
-          "id": "event-sec-0001801198-000117184326006027",
-          "date": "2026-09-14",
-          "title": "Legend Biotech filed Form 6-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001801198-000117184326006027",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006027/f6k_091426.htm"
         }
       ]
     },
@@ -64361,7 +64318,13 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "Biological Products, Except Diagnostic Substances"
+          "Biological Products, Except Diagnostic Substances",
+          "Clinical Trials",
+          "Gene Therapy",
+          "Genetic Medicine",
+          "临床试验",
+          "基因治疗",
+          "基因编辑"
         ],
         "modalities": [],
         "watchTier": "Discovery"
