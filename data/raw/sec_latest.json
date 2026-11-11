@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-11-10T19:49:05.996194+00:00",
+  "capturedAt": "2026-11-11T06:36:43.021677+00:00",
   "source": "SEC EDGAR",
   "dateWindow": {
-    "start": "2026-10-27",
-    "end": "2026-11-10"
+    "start": "2026-10-28",
+    "end": "2026-11-11"
   },
   "forms": [
     "10-K",
@@ -139,6 +139,56 @@
     "arcellx"
   ],
   "records": [
+    {
+      "filingDate": "2026-11-10",
+      "reportDate": "2026-11-10",
+      "acceptanceDateTime": "2026-11-10T21:54:46.000Z",
+      "act": "34",
+      "form": "6-K",
+      "fileNumber": "001-38976",
+      "filmNumber": "261541298",
+      "items": "",
+      "size": 112379,
+      "isXBRL": 0,
+      "isInlineXBRL": 0,
+      "primaryDocument": "gmab_20261110x6k.htm",
+      "primaryDocDescription": "6-K",
+      "accessionNumber": "0001434265-26-000148",
+      "companyId": "genmab",
+      "companyName": "Genmab",
+      "companyDirections": [
+        "Antibody / ADC"
+      ],
+      "secTicker": "GMAB",
+      "cik": "0001434265",
+      "secName": "GENMAB A/S",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000148/gmab_20261110x6k.htm"
+    },
+    {
+      "filingDate": "2026-11-10",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-10T21:47:51.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-38547",
+      "filmNumber": "261541228",
+      "items": "",
+      "size": 9500781,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "primaryDocument": "autl-20260930.htm",
+      "primaryDocDescription": "10-Q",
+      "accessionNumber": "0001730463-26-000148",
+      "companyId": "autolus",
+      "companyName": "Autolus Therapeutics",
+      "companyDirections": [
+        "Cell Therapy"
+      ],
+      "secTicker": "AUTL",
+      "cik": "0001730463",
+      "secName": "Autolus Therapeutics plc",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000148/autl-20260930.htm"
+    },
     {
       "filingDate": "2026-11-10",
       "reportDate": "2026-11-10",
@@ -1145,6 +1195,68 @@
     }
   ],
   "signals": [
+    {
+      "id": "sec-0001434265-000143426526000148",
+      "date": "2026-11-10",
+      "title": "Genmab filed Form 6-K",
+      "entity": "Genmab",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Current Report",
+      "eventType": "Corporate Update",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000148/gmab_20261110x6k.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Antibody / ADC"
+      ],
+      "tags": [
+        "SEC",
+        "6-K",
+        "GMAB"
+      ],
+      "companyIds": [
+        "genmab"
+      ],
+      "fact": "SEC EDGAR lists accession 0001434265-26-000148 for Genmab, Form 6-K, filed on 2026-11-10.",
+      "report": "SEC metadata describes the primary document as: 6-K.",
+      "inference": "The event was automatically routed as Corporate Update from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
+    {
+      "id": "sec-0001730463-000173046326000148",
+      "date": "2026-11-10",
+      "title": "Autolus Therapeutics filed Form 10-Q",
+      "entity": "Autolus Therapeutics",
+      "primaryCategory": "Company & Market",
+      "subCategory": "Periodic Filing",
+      "eventType": "Periodic Report",
+      "sourceType": "Filing",
+      "sourceName": "SEC EDGAR",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000148/autl-20260930.htm",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Corporate Filings",
+        "Cell Therapy"
+      ],
+      "tags": [
+        "SEC",
+        "10-Q",
+        "AUTL"
+      ],
+      "companyIds": [
+        "autolus"
+      ],
+      "fact": "SEC EDGAR lists accession 0001730463-26-000148 for Autolus Therapeutics, Form 10-Q, filed on 2026-11-10.",
+      "report": "SEC metadata describes the primary document as: 10-Q.",
+      "inference": "The event was automatically routed as Periodic Report from the SEC form type only. No conclusion was drawn from the filing content.",
+      "unknown": "The collector has not yet extracted filing sections, exhibits, transaction terms, pipeline changes, clinical claims, or financial impact."
+    },
     {
       "id": "sec-0001730463-000173046326000141",
       "date": "2026-11-10",
