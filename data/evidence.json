@@ -15114,6 +15114,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-artery-therapeutics-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-artery-therapeutics"
+      ],
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Artery Therapeutics, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11313891",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-artificial-axon-labs-official-6701336049be",
       "signalId": null,
       "companyIds": [
@@ -48911,15 +48957,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-crispr-therapeutics-official-4896d033c3d0",
+      "id": "evidence-company-crispr-therapeutics-official-8243b33a01de",
       "signalId": null,
       "companyIds": [
         "crispr-therapeutics"
       ],
-      "publishedAt": "2026-08-28",
-      "snapshotDate": "2026-08-28",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Home | CRISPR Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Official Website",
@@ -48935,7 +48981,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 4896d033c3d04a97fd8f4e6ce455cc03db940c0a9c2f7d454abb4f48683808d2.",
+      "fact": "The official page was captured with normalized-content hash 8243b33a01de38b12eb61b3cb56e85ac349a92f39233299a94bc0c5ed0aa748c.",
       "report": "公司官方页面表述：CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
       "reportOriginal": "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
       "reportCn": "CASGEVY™（exagamglogene autotemcel）是一种源于公司与 Vertex Pharmaceuticals Incorporated 合作的 CRISPR/Cas9 基因编辑疗法；该疗法已在部分国家获批，用于某些符合条件的镰状细胞病或输血依赖型 β 地中海贫血患者。",
@@ -48948,14 +48994,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "4896d033c3d04a97fd8f4e6ce455cc03db940c0a9c2f7d454abb4f48683808d2",
-      "changeType": "unchanged",
+      "contentHash": "8243b33a01de38b12eb61b3cb56e85ac349a92f39233299a94bc0c5ed0aa748c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
         "CRISPR Therapeutics Corporate Presentation",
-        "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
-        "Creating the next generation of cell therapies for cancer enabled by gene editing."
+        "Creating the next generation of cell therapies for cancer enabled by gene editing.",
+        "Broadening the applications of stem cells through gene editing."
       ],
       "businessExcerpts": [
         "View our corporate presentation to learn more about our company.",
@@ -48963,7 +49009,6 @@
       ],
       "productExcerpts": [
         "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
-        "CTX310, an investigational in vivo CRISPR therapy, lowered cholesterol and triglycerides through one year in early trials.",
         "First-Ever Approved CRISPR-Based Therapy"
       ],
       "planExcerpts": []
@@ -49688,15 +49733,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-intellia-official-bce226188e72",
+      "id": "evidence-company-intellia-official-5f6b28ebe36d",
       "signalId": null,
       "companyIds": [
         "intellia"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Intellia Therapeutics — Official Website",
@@ -49712,7 +49757,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash bce226188e72de63c3bb99c6c873370db8608968298f301cbced853081accd64.",
+      "fact": "The official page was captured with normalized-content hash 5f6b28ebe36d83d8a1fb3cfac77dfc405c37ee9f1e1929e3d9077679c5315f66.",
       "report": "公司官方页面表述：Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
       "reportOriginal": "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
       "reportCn": "Intellia Therapeutics是一家领先的临床阶段基因编辑公司，正在利用基于CRISPR的技术开发新的潜在治愈疗法。",
@@ -49725,8 +49770,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bce226188e72de63c3bb99c6c873370db8608968298f301cbced853081accd64",
-      "changeType": "unchanged",
+      "contentHash": "5f6b28ebe36d83d8a1fb3cfac77dfc405c37ee9f1e1929e3d9077679c5315f66",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
@@ -49804,13 +49849,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-5fe2320fec68",
+      "id": "evidence-company-ionis-official-c99dbfa83db3",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-11-09",
-      "snapshotDate": "2026-11-09",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Innovating to Change the Course of Human Health | IONIS",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -49828,7 +49873,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5fe2320fec6895aa7048953692d709412bc21dc825919f4b7ee06bd7d20a8b3a.",
+      "fact": "The official page was captured with normalized-content hash c99dbfa83db3c2b9fdabe0de0904a9a844b0b14b918284dda92150631caa0834.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -49841,14 +49886,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5fe2320fec6895aa7048953692d709412bc21dc825919f4b7ee06bd7d20a8b3a",
+      "contentHash": "c99dbfa83db3c2b9fdabe0de0904a9a844b0b14b918284dda92150631caa0834",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
         "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
         "For the latest on Ionis news and developments",
-        "Ionis reports third quarter 2026 financial results and highlights progress on key programs"
+        "Ionis to present at upcoming investor conferences"
       ],
       "businessExcerpts": [
         "Click here to read an important notice about a cybersecurity incident relating to services provided to WEX Health (an Ionis employee benefits plan administrator).",
@@ -49970,15 +50015,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-legend-biotech-official-3aac46754f2c",
+      "id": "evidence-company-legend-biotech-official-0054baacfab7",
       "signalId": null,
       "companyIds": [
         "legend-biotech"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -49994,7 +50039,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 3aac46754f2c33d6a84413c3b1bc2ffa98f531f18b5ce82c1e61f76df9e0d62d.",
+      "fact": "The official page was captured with normalized-content hash 0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6.",
       "report": "公司官方页面表述：Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
       "reportOriginal": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
       "reportCn": "Legend Biotech 是一家处于商业化阶段的全球生物技术公司，开发和生产创新疗法。公司探索并应用创新技术，为全球患者提供前沿治疗选择。",
@@ -50007,12 +50052,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "3aac46754f2c33d6a84413c3b1bc2ffa98f531f18b5ce82c1e61f76df9e0d62d",
-      "changeType": "unchanged",
+      "contentHash": "0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
-        "Our news Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
+        "Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
         "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
         "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable."
       ],
@@ -50023,7 +50068,7 @@
         "We focus on diseases that are considered intractable and incurable."
       ],
       "productExcerpts": [
-        "Our news Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
+        "Legend Biotech to Showcase CARVYKTI® Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
         "Legend Biotech Launches Inaugural ELITE Grant Program to Advance the Next Generation of CAR-T Innovation in Multiple Myeloma",
         "We are dedicated to fostering the next generation of scientific leaders in cellular therapy by accelerating innovation and research to create a future where cancers and intractable diseases are curable.",
         "FDA Clearance of IND Application for LB2501, an Investigational CD19/CD20 In Vivo CAR-T Therapy"
@@ -50414,15 +50459,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-96e6424f83ea",
+      "id": "evidence-company-natera-official-a762fbe3bed1",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -50438,7 +50483,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 96e6424f83ea64e4f64d5b01211ed15e8d18bada7c85eeeb7d526950f73e414d.",
+      "fact": "The official page was captured with normalized-content hash a762fbe3bed1230511ccb807698148f2a05ed90085c1de947c438b926ef9b51e.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -50451,14 +50496,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "96e6424f83ea64e4f64d5b01211ed15e8d18bada7c85eeeb7d526950f73e414d",
-      "changeType": "unchanged",
+      "contentHash": "a762fbe3bed1230511ccb807698148f2a05ed90085c1de947c438b926ef9b51e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
         "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-        "CLINICAL DEVELOPMENT Biopharma Partnerships"
+        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -50522,15 +50567,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-5a2d73dac88a",
+      "id": "evidence-company-nurix-official-87818be491b0",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -50546,7 +50591,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 5a2d73dac88a591301e4b19580eb6fc478590f3cd9cf2d35aaf781dd9e37adc0.",
+      "fact": "The official page was captured with normalized-content hash 87818be491b05bf92bdcc336ca6fbd82b3f11050881822b9f1101daec7d00226.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -50559,8 +50604,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "5a2d73dac88a591301e4b19580eb6fc478590f3cd9cf2d35aaf781dd9e37adc0",
-      "changeType": "unchanged",
+      "contentHash": "87818be491b05bf92bdcc336ca6fbd82b3f11050881822b9f1101daec7d00226",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -51253,15 +51298,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-official-51e8d03fc3da",
+      "id": "evidence-company-sumitomo-pharma-official-543c50bb0780",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-11",
+      "snapshotDate": "2026-11-11",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -51277,7 +51322,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 51e8d03fc3dad15346986dcf344d7274e008eaa190843fce49b92e587c223c79.",
+      "fact": "The official page was captured with normalized-content hash 543c50bb0780891e2efe99dce414556a4ac07632bea7a5522eb63f8755631c0e.",
       "report": "公司官方页面表述：为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
       "reportOriginal": "For the betterment of healthcare and fuller lives of people worldwide, we will continue to take on challenges to develop innovative pharmaceuticals and healthcare solutions. This is the website of Sumitomo Pharma Co., Ltd.",
       "reportCn": "为了改善全球医疗保健和人们更充实的生活，我们将继续迎接挑战，开发创新的药物和医疗解决方案。这是住友制药株式会社的网站。",
@@ -51290,8 +51335,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "51e8d03fc3dad15346986dcf344d7274e008eaa190843fce49b92e587c223c79",
-      "changeType": "unchanged",
+      "contentHash": "543c50bb0780891e2efe99dce414556a4ac07632bea7a5522eb63f8755631c0e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
