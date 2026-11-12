@@ -14304,102 +14304,6 @@
       ]
     },
     {
-      "companyId": "candidate-artery-therapeutics",
-      "name": "Artery Therapeutics, Inc.",
-      "asOfDate": "2026-11-12",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11313891",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10031086"
-          ],
-          "uei": [
-            "JHVKQN55S7Y5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Organoids & Disease Models",
-          "Precision Diagnostics",
-          "cell therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-artery-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-artery-therapeutics-official-6701336049be",
-            "date": "2026-11-11",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-artery-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11313891"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-11-11",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-artery-therapeutics-official-6701336049be",
-          "date": "2026-11-11",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-artery-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11313891"
-        }
-      ]
-    },
-    {
       "companyId": "candidate-artiva-biotherapeutics",
       "name": "Artiva Biotherapeutics, Inc.",
       "asOfDate": "2026-11-12",
@@ -29561,6 +29465,103 @@
       ]
     },
     {
+      "companyId": "candidate-capienda-biotech",
+      "name": "Capienda Biotech, LLC",
+      "asOfDate": "2026-11-12",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11254697",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10049147"
+          ],
+          "uei": [
+            "EGF7MDLBABC6"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Diagnostics / Research Tools",
+        "directions": [
+          "AI Drug Discovery",
+          "Precision Diagnostics",
+          "biotechnology",
+          "drug discovery"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-capienda-biotech-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-capienda-biotech-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-capienda-biotech-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-capienda-biotech-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-capienda-biotech-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
+        }
+      ]
+    },
+    {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
       "asOfDate": "2026-11-12",
@@ -29684,6 +29685,100 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-capricor-therapeutics-official-c644ef580088",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869"
+        }
+      ]
+    },
+    {
+      "companyId": "candidate-cardiac-rsk3-inhibitors",
+      "name": "Cardiac Rsk3 Inhibitors, LLC",
+      "asOfDate": "2026-11-12",
+      "profileStatus": "partial",
+      "identity": {
+        "ownership": null,
+        "ticker": null,
+        "exchange": null,
+        "headquarters": null,
+        "officialUrl": "https://reporter.nih.gov/project-details/11292808",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "nihIpf": [
+            "10039821"
+          ],
+          "uei": [
+            "D38ER7T7B8L8"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "biotechnology"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": [
+          "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be"
+        ]
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+            "date": "2026-09-21",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+          }
+        ],
+        "inferences": [],
+        "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-09-21",
+        "programCandidateCount": 0,
+        "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+          "date": "2026-09-21",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cardiac-rsk3-inhibitors-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
         }
       ]
     },
@@ -31740,6 +31835,76 @@
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001850119"
         }
       ]
+    },
+    {
+      "companyId": "candidate-cerenome",
+      "name": "Cerenome, Inc.",
+      "asOfDate": "2026-11-12",
+      "profileStatus": "seed_only",
+      "identity": {
+        "ownership": "Public",
+        "ticker": "CNSY",
+        "exchange": "SEC",
+        "headquarters": null,
+        "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0001095981",
+        "irUrl": null,
+        "pipelineUrl": null,
+        "identifiers": {
+          "cik": [
+            "0001095981"
+          ],
+          "ticker": [
+            "CNSY"
+          ]
+        },
+        "websiteStatus": "market_page_pending_official_domain",
+        "legalNameStatus": "unresolved",
+        "periodicReports": [],
+        "reportPortals": []
+      },
+      "classification": {
+        "companyType": "Therapeutics",
+        "directions": [
+          "Pharmaceutical Preparations"
+        ],
+        "modalities": [],
+        "watchTier": "Discovery"
+      },
+      "currentBusiness": {
+        "status": "provisional",
+        "summaryType": "Unknown",
+        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
+        "summaryOriginal": null,
+        "translationStatus": "not_applicable",
+        "businessModel": [],
+        "commercialProducts": [],
+        "programCandidateIds": [],
+        "evidenceIds": []
+      },
+      "futureDirection": {
+        "reportedPlans": [],
+        "observedMoves": [],
+        "inferences": [],
+        "unknowns": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "coverage": {
+        "evidenceCount": 0,
+        "evidenceBySourceType": {},
+        "lastEvidenceDate": null,
+        "programCandidateCount": 0,
+        "gaps": [
+          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
+          "尚未建立经过验证的结构化产品或管线记录。",
+          "尚未从官网形成有出处的公司自述型主营业务摘要。",
+          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
+        ]
+      },
+      "recentEvents": []
     },
     {
       "companyId": "candidate-cero-therapeutics-holdings",
@@ -65286,7 +65451,9 @@
       "classification": {
         "companyType": "Therapeutics",
         "directions": [
-          "biotechnology"
+          "biotechnology",
+          "cell therapy",
+          "gene therapy"
         ],
         "modalities": [],
         "watchTier": "Discovery"
@@ -70723,101 +70890,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-candidate-tilray-brands-official-7550f90e31bc",
           "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001731348"
-        }
-      ]
-    },
-    {
-      "companyId": "candidate-ting-therapeutics",
-      "name": "Ting Therapeutics, Inc.",
-      "asOfDate": "2026-11-12",
-      "profileStatus": "partial",
-      "identity": {
-        "ownership": null,
-        "ticker": null,
-        "exchange": null,
-        "headquarters": null,
-        "officialUrl": "https://reporter.nih.gov/project-details/11380822",
-        "irUrl": null,
-        "pipelineUrl": null,
-        "identifiers": {
-          "nihIpf": [
-            "10055005"
-          ],
-          "uei": [
-            "F5R2ZH3HCHB5"
-          ]
-        },
-        "websiteStatus": "market_page_pending_official_domain",
-        "legalNameStatus": "unresolved",
-        "periodicReports": [],
-        "reportPortals": []
-      },
-      "classification": {
-        "companyType": "Diagnostics / Research Tools",
-        "directions": [
-          "Precision Diagnostics",
-          "gene therapy"
-        ],
-        "modalities": [],
-        "watchTier": "Discovery"
-      },
-      "currentBusiness": {
-        "status": "company_reported",
-        "summaryType": "Report",
-        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
-        "summaryOriginal": "RePORT ⟩ RePORTER",
-        "translationStatus": "translated",
-        "businessModel": [],
-        "commercialProducts": [],
-        "programCandidateIds": [],
-        "evidenceIds": [
-          "evidence-company-candidate-ting-therapeutics-official-6701336049be"
-        ]
-      },
-      "futureDirection": {
-        "reportedPlans": [],
-        "observedMoves": [
-          {
-            "id": "event-evidence-company-candidate-ting-therapeutics-official-6701336049be",
-            "date": "2026-09-21",
-            "title": "RePORT ⟩ RePORTER",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ting-therapeutics-official-6701336049be",
-            "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
-          }
-        ],
-        "inferences": [],
-        "unknowns": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "coverage": {
-        "evidenceCount": 1,
-        "evidenceBySourceType": {
-          "Company": 1
-        },
-        "lastEvidenceDate": "2026-09-21",
-        "programCandidateCount": 0,
-        "gaps": [
-          "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
-        ]
-      },
-      "recentEvents": [
-        {
-          "id": "event-evidence-company-candidate-ting-therapeutics-official-6701336049be",
-          "date": "2026-09-21",
-          "title": "RePORT ⟩ RePORTER",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ting-therapeutics-official-6701336049be",
-          "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
         }
       ]
     },

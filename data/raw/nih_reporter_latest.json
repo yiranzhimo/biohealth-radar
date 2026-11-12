@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-11-11T11:00:10+00:00",
+  "capturedAt": "2026-11-12T11:15:57+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -1350,33 +1350,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11387631"
     },
     {
-      "applId": 11380822,
-      "projectNum": "5R44DC019065-05",
-      "projectTitle": "Therapeutics to prevent aminoglycoside-induced hearing loss",
-      "fiscalYear": 2026,
-      "awardAmount": 524299,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2020-07-17",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "TING THERAPEUTICS, INC.",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "F5R2ZH3HCHB5",
-        "ipf": "10055005",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Project Summary Ting Therapeutics LLC is a pharmaceutical company developing drugs to prevent and treat hearing loss. Aminoglycosides are one of the most widely used drugs to treat Gram-negative bacterial infections. However, aminoglycoside therapy causes hearing loss in 40-60%…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
-    },
-    {
       "applId": 11323824,
       "projectNum": "1R44AG099654-01",
       "projectTitle": "Human CGAS inhibitors to treat neurodegeneration in Alzheimer's disease",
@@ -1547,34 +1520,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11314303"
     },
     {
-      "applId": 11313891,
-      "projectNum": "1R44AG099463-01",
-      "projectTitle": "Subcutaneous CS6253 9-Month Chronic Toxicology GLP Study in Cynomolgus Monkeys to assess Safety, Tolerability and PK",
-      "fiscalYear": 2026,
-      "awardAmount": 2267403,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2026-09-18",
-      "projectEndDate": "2028-05-31",
-      "organization": {
-        "name": "ARTERY THERAPEUTICS, INC.",
-        "city": "SAN RAMON",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "JHVKQN55S7Y5",
-        "ipf": "10031086",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "cell therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics",
-        "Organoids & Disease Models"
-      ],
-      "projectSummaryExcerpt": "PROJECT SUMMARY Artery Therapeutics, Inc. (ATI) is developing a highly differentiated, cholesterol-transport-focused treatment for the indication of hereditary APOE4-associated dementia, including MCI-AD, targeting the ABCA1 transporter, i.e., CS6253. In the recently performed…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11313891"
-    },
-    {
       "applId": 11313383,
       "projectNum": "1SB1HL184353-01",
       "projectTitle": "Commercialization Strategy for an Intravenous Hemostatic Nanotechnology for Bleeding Management",
@@ -1678,11 +1623,67 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology"
+        "biotechnology",
+        "cell therapy",
+        "gene therapy"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11310680"
+    },
+    {
+      "applId": 11292808,
+      "projectNum": "2R44HL167349-03",
+      "projectTitle": "CRI-103 gene therapy as Investigational New Drug for Dilated Cardiomyopathy",
+      "fiscalYear": 2026,
+      "awardAmount": 1159408,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2023-09-14",
+      "projectEndDate": "2029-08-31",
+      "organization": {
+        "name": "CARDIAC RSK3 INHIBITORS, LLC",
+        "city": "LOS ALTOS",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "D38ER7T7B8L8",
+        "ipf": "10039821",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+    },
+    {
+      "applId": 11254697,
+      "projectNum": "2R44TR005335-02A1",
+      "projectTitle": "High-throughput kinetic system for small-molecule drug discovery",
+      "fiscalYear": 2026,
+      "awardAmount": 1401698,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-15",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "CAPIENDA BIOTECH, LLC",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "EGF7MDLBABC6",
+        "ipf": "10049147",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "drug discovery"
+      ],
+      "topicHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
     }
   ]
 }
