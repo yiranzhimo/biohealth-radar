@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-12T11:16:43+00:00",
+  "capturedAt": "2026-11-12T20:01:13.819496+00:00",
   "summary": {
-    "mentionCount": 663,
+    "mentionCount": 661,
     "candidateCount": 592,
-    "corroboratedCount": 4,
-    "identifiedCount": 585,
+    "corroboratedCount": 3,
+    "identifiedCount": 586,
     "needsReviewCount": 3,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 5,
+      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,90 +20,15 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-0e036f736dd6e9a6",
-      "observedName": "Clovis Oncology, Inc.",
-      "normalizedName": "clovis oncology",
+      "id": "mention-clinicaltrials-2bb085d93f2c1c71",
+      "observedName": "Astellas Pharma Inc",
+      "normalizedName": "astellas pharma",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01526928",
-      "sourceDate": "2020-08-04",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01526928",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Study to Evaluate Safety, Pharmacokinetics, and Efficacy of Rociletinib (CO-1686) in Previously Treated Mutant Epidermal Growth Factor Receptor (EGFR) in Non-Small Cell Lung Cancer (NSCLC) Patients"
-    },
-    {
-      "id": "mention-clinicaltrials-4be7b37645fd891e",
-      "observedName": "Roche Pharma AG",
-      "normalizedName": "roche pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT00127036",
-      "sourceDate": "2017-03-23",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT00127036",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Oncology",
-        "Precision Oncology",
-        "临床试验",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Trial for Microarray Analysis of Colon Cancer Outcome-A (MACCO-A)"
-    },
-    {
-      "id": "mention-clinicaltrials-5cc2e3bbcd2d8e39",
-      "observedName": "REGENXBIO Inc.",
-      "normalizedName": "regenxbio",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04591834",
-      "sourceDate": "2022-10-10",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04591834",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Mucopolysaccharidosis Type II Observational"
-    },
-    {
-      "id": "mention-clinicaltrials-f9072fe39917204a",
-      "observedName": "Amicus Therapeutics",
-      "normalizedName": "amicus therapeutics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT01196871",
-      "sourceDate": "2018-12-19",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT01196871",
+      "sourceRecordId": "NCT04184882",
+      "sourceDate": "2024-10-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04184882",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -114,38 +39,57 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Drug-Drug Interaction Study Between AT1001 (Migalastat Hydrochloride) and Agalsidase in Participants With Fabry Disease"
+      "contextTitle": "A Study to Assess the Safety, Tolerability and Preliminary Efficacy of ASP0367 (MA-0211) in Pediatric Male Participants With Duchenne Muscular Dystrophy (DMD)"
     },
     {
-      "id": "mention-clinicaltrials-fcc2831918838086",
-      "observedName": "Guangzhou Burning Rock Dx Co., Ltd.",
-      "normalizedName": "guangzhou burning rock dx",
+      "id": "mention-clinicaltrials-6956c7535e35df6e",
+      "observedName": "Tasly Pharmaceutical Group Co., Ltd",
+      "normalizedName": "tasly pharmaceutical group",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06001099",
-      "sourceDate": "2023-09-29",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06001099",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07318818",
+      "sourceDate": "2026-02-18",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07318818",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
-        "Biomarkers",
+        "Cell Therapy",
         "Clinical Trials",
-        "Diagnostics",
-        "Longevity",
         "Oncology",
-        "Precision Medicine",
-        "Precision Oncology",
-        "biomarker",
+        "Recruiting",
         "中国",
         "临床试验",
-        "精准医疗",
-        "肿瘤",
-        "衰老",
-        "诊断"
+        "细胞治疗",
+        "肿瘤"
       ],
-      "activitySignals": [],
-      "contextTitle": "PERformance of Multi-Cancer Early-detectIon Based on Various Biomarkers in fEmale Cancers, PERCEIVE-II"
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Clinical Trial of P134 Cells in Recurrent Glioblastoma"
+    },
+    {
+      "id": "mention-clinicaltrials-6c9f5a5b87e9d6c4",
+      "observedName": "Verifomics LLC",
+      "normalizedName": "verifomics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT02758990",
+      "sourceDate": "2017-10-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02758990",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "临床试验"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -35201,10 +35145,10 @@
         "REGENXBIO Inc."
       ],
       "normalizedName": "regenxbio",
-      "status": "corroborated",
+      "status": "identified",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.98,
-      "autoPromotionEligible": true,
+      "autoPromotionEligible": false,
       "firstSeenAt": "2026-08-10",
       "lastSeenAt": "2026-11-12",
       "identifiers": {
@@ -35217,38 +35161,22 @@
       },
       "classificationHints": {
         "directions": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "themes": [
-          "Biological Products, Except Diagnostic Substances",
-          "Clinical Trials",
-          "Gene Therapy",
-          "Genetic Medicine",
-          "临床试验",
-          "基因治疗",
-          "基因编辑"
+          "Biological Products, Except Diagnostic Substances"
         ],
         "tags": []
       },
       "discoveryReasons": [
-        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。",
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。",
-        "2 个独立官方来源出现了可归一化到同一名称的记录。"
+        "SEC EDGAR 将该实体列为 biotech 相关 SIC 行业的注册主体。"
       ],
       "sourceTypes": [
-        "ClinicalTrials",
         "SEC"
       ],
-      "sourceCount": 2,
-      "mentionCount": 2,
+      "sourceCount": 1,
+      "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-5cc2e3bbcd2d8e39",
         "mention-sec-447d10a9e1b7c550"
       ],
       "sources": [
@@ -35260,15 +35188,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001590877&owner=exclude&hidefilings=0",
           "externalId": "0001590877",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        },
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2022-10-10",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04591834",
-          "externalId": "NCT04591834",
-          "contextTitle": "Mucopolysaccharidosis Type II Observational"
         }
       ]
     },
@@ -43933,18 +43852,18 @@
       ]
     },
     {
-      "id": "candidate-amicus-therapeutics",
-      "name": "Amicus Therapeutics",
+      "id": "candidate-astellas-pharma",
+      "name": "Astellas Pharma Inc",
       "aliases": [
-        "Amicus Therapeutics"
+        "Astellas Pharma Inc"
       ],
-      "normalizedName": "amicus therapeutics",
+      "normalizedName": "astellas pharma",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2018-12-19",
-      "lastSeenAt": "2018-12-19",
+      "firstSeenAt": "2024-10-22",
+      "lastSeenAt": "2024-10-22",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -43966,47 +43885,53 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-f9072fe39917204a"
+        "mention-clinicaltrials-2bb085d93f2c1c71"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2018-12-19",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01196871",
-          "externalId": "NCT01196871",
-          "contextTitle": "Drug-Drug Interaction Study Between AT1001 (Migalastat Hydrochloride) and Agalsidase in Participants With Fabry Disease"
+          "sourceDate": "2024-10-22",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04184882",
+          "externalId": "NCT04184882",
+          "contextTitle": "A Study to Assess the Safety, Tolerability and Preliminary Efficacy of ASP0367 (MA-0211) in Pediatric Male Participants With Duchenne Muscular Dystrophy (DMD)"
         }
       ]
     },
     {
-      "id": "candidate-clovis-oncology",
-      "name": "Clovis Oncology, Inc.",
+      "id": "candidate-tasly-pharmaceutical-group",
+      "name": "Tasly Pharmaceutical Group Co., Ltd",
       "aliases": [
-        "Clovis Oncology, Inc."
+        "Tasly Pharmaceutical Group Co., Ltd"
       ],
-      "normalizedName": "clovis oncology",
+      "normalizedName": "tasly pharmaceutical group",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.86,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2020-08-04",
-      "lastSeenAt": "2020-08-04",
+      "firstSeenAt": "2026-02-18",
+      "lastSeenAt": "2026-02-18",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
-          "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
+          "细胞治疗",
           "肿瘤"
         ],
         "themes": [
+          "Cell Therapy",
           "Clinical Trials",
           "Oncology",
-          "Precision Oncology",
+          "Recruiting",
+          "中国",
           "临床试验",
+          "细胞治疗",
           "肿瘤"
         ],
         "tags": []
@@ -44020,17 +43945,65 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-0e036f736dd6e9a6"
+        "mention-clinicaltrials-6956c7535e35df6e"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "lead_sponsor",
-          "sourceDate": "2020-08-04",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT01526928",
-          "externalId": "NCT01526928",
-          "contextTitle": "Study to Evaluate Safety, Pharmacokinetics, and Efficacy of Rociletinib (CO-1686) in Previously Treated Mutant Epidermal Growth Factor Receptor (EGFR) in Non-Small Cell Lung Cancer (NSCLC) Patients"
+          "sourceDate": "2026-02-18",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07318818",
+          "externalId": "NCT07318818",
+          "contextTitle": "A Clinical Trial of P134 Cells in Recurrent Glioblastoma"
+        }
+      ]
+    },
+    {
+      "id": "candidate-verifomics",
+      "name": "Verifomics LLC",
+      "aliases": [
+        "Verifomics LLC"
+      ],
+      "normalizedName": "verifomics",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2017-10-02",
+      "lastSeenAt": "2017-10-02",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "临床试验"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-6c9f5a5b87e9d6c4"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2017-10-02",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT02758990",
+          "externalId": "NCT02758990",
+          "contextTitle": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application"
         }
       ]
     },
@@ -47351,60 +47324,6 @@
           "sourceUrl": "https://reporter.nih.gov/project-details/11408936",
           "externalId": "11408936",
           "contextTitle": "PanK Activators for the Treatment of Pantothenate Kinase-Associated Neurodegeneration"
-        }
-      ]
-    },
-    {
-      "id": "candidate-roche-pharma",
-      "name": "Roche Pharma AG",
-      "aliases": [
-        "Roche Pharma AG"
-      ],
-      "normalizedName": "roche pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.66,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2017-03-23",
-      "lastSeenAt": "2017-03-23",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "Oncology",
-          "Precision Oncology",
-          "临床试验",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-4be7b37645fd891e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "collaborator",
-          "sourceDate": "2017-03-23",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT00127036",
-          "externalId": "NCT00127036",
-          "contextTitle": "Trial for Microarray Analysis of Colon Cancer Outcome-A (MACCO-A)"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-12T07:19:31.819480+00:00",
+  "capturedAt": "2026-11-12T20:01:10.717384+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,135 +14,155 @@
     "end": "2026-11-12"
   },
   "pmids": [
-    "43014286",
-    "43014285",
-    "43014284",
-    "43014283",
-    "43014282",
-    "43014281",
+    "43018559",
+    "43017589",
+    "43017522",
+    "43017362",
+    "43017032",
+    "43016964",
     "43008172",
     "42990453",
     "42990240",
     "42990227",
     "42952019",
     "42941810",
+    "43016801",
+    "43016668",
     "43006909",
     "43003839",
     "43001930",
     "42999436",
-    "42995874",
-    "42995841",
+    "43017793",
+    "43015759",
+    "43015472",
     "43015135",
     "43013996",
-    "43013225",
-    "43013192",
-    "43012102",
-    "43011832"
+    "43013225"
   ],
   "records": [
     {
-      "pmid": "43014286",
-      "title": "Advancing brain organoids from disease phenotypes to mechanisms and translation across developmental, infectious, and neurodegenerative diseases.",
-      "abstract": "Diseases of the central nervous system remain among the greatest unmet medical challenges. Human brain organoids provide 3D multicellular systems for investigating neurodevelopmental, infectious, and neurodegenerative diseases in a human cellular context. Considering these distinct disease areas together highlights how organoid studies are moving beyond recapitulating disease phenotypes to define molecular and cellular mechanisms and trajectories: when pathogenic changes emerge, how they evolve, which cell types and states drive or resist disease, and how multicellular interactions shape progression. Integrating human genetics with longitudinal, single-cell, multi-omic, and functional analyses provides access to human-specific processes that are difficult to capture in animal models and enables identification of mechanisms and therapeutic targets anchored in human disease biology. Increasingly, well-characterized organoids offer human new approach methodologies (NAMs) for preclinical therapeutic evaluation. Advances in reproducibility, benchmarking, and appropriate validation will be critical to establishing their predictive value and supporting their use in drug development and regulatory applications.",
-      "journal": "Neuron",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Institute of Molecular Biotechnology of the Austrian Academy of Science (IMBA), Vienna BioCenter (VBC), Vienna, Austria; Medical University of Vienna, Vienna, Austria.",
-        "Department of Neuroscience and Mahoney Institute for Neurosciences, Perelman School of Medicine, Institute for Regenerative Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA.",
-        "Neural Stem Cell Institute, Regenerative Research Foundation, 150 New Scotland Ave, Albany, NY, USA. Electronic address: sallytemple@neuralsci.org."
-      ],
-      "doi": "10.1016/j.neuron.2026.10.014",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014286/"
-    },
-    {
-      "pmid": "43014285",
-      "title": "Neural organoid models of human brain evolution.",
-      "abstract": "The human brain has structural and functional differences to our closest living relatives, the other great apes. It is thought that these differences give rise to many of the traits we associate with being human, such as our prodigious capacity to learn and be creative. However, the molecular mechanisms that underpin these differences are mostly unknown. In this review, we describe how neural organoids, an in vitro model of brain development, enable questions of human brain evolution to be functionally investigated in evolutionarily relevant developmental contexts. We discuss new insights at the genetic, cellular, and developmental scales and highlight current challenges in organoid generation, in long-term culture, and in establishing multimodal phenotypic measurements. We anticipate expanding the application of organoid models across Mammalia to help us better define species- and lineage-specific traits and improve our understanding of how complex traits emerge and evolve across developmental and evolutionary timescales.",
-      "journal": "Neuron",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Cambridge, UK.",
-        "The Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, CA 94143, USA; Department of Neurology, University of California, San Francisco, San Francisco, CA 94143, USA; Weill Institute for Neurosciences, University of California, San Francisco, San Francisco, CA 94158, USA.",
-        "MRC Laboratory of Molecular Biology, Cambridge Biomedical Campus, Cambridge, UK; Cambridge Stem Cell Institute, Cambridge University, Cambridge, UK. Electronic address: madeline.lancaster@mrclmb.ac.uk."
-      ],
-      "doi": "10.1016/j.neuron.2026.10.020",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014285/"
-    },
-    {
-      "pmid": "43014284",
-      "title": "Brain organoids: Experimental access to human-specific brain development.",
-      "abstract": "Human cerebral cortical development includes species-divergent cellular programs and unusually prolonged trajectories that remain difficult to investigate experimentally. These processes support human-specific cognitive abilities and are thought to be associated with vulnerability to neurodevelopmental and neuropsychiatric disorders. Human brain organoids provide a tractable system for studying these processes across developmental time and under controlled perturbation. Here, we review how cortical organoids model human-specific features of progenitor biology and cell diversification, as well as progressive cellular maturation and circuit formation. We consider the limitations that constrain later-stage maturation and how approaches including the addition of missing cell types, the use of assembloids, and transplantation can extend the developmental processes accessible to study. Finally, we examine how patient-derived, isogenic, chimeric, and perturbation-based organoid systems are being used to investigate neurodevelopmental disorders and, in turn, reveal mechanisms of typical human development.",
-      "journal": "Neuron",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Stem Cell & Regenerative Biology, Harvard University, Cambridge, MA, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
-        "Division of Genetics and Genomics and Manton Center for Orphan Diseases, Boston Children's Hospital, Boston, MA, USA; Departments of Pediatrics and Neurology, Harvard Medical School, Boston, MA, USA; Howard Hughes Medical Institute, Boston Children's Hospital, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA; Allen Discovery Center for Human Brain Evolution, Boston, MA, USA.",
-        "Division of Genetics and Genomics and Manton Center for Orphan Diseases, Boston Children's Hospital, Boston, MA, USA; Departments of Pediatrics and Neurology, Harvard Medical School, Boston, MA, USA; Howard Hughes Medical Institute, Boston Children's Hospital, Boston, MA, USA; Broad Institute of MIT and Harvard, Cambridge, MA, USA; Allen Discovery Center for Human Brain Evolution, Boston, MA, USA. Electronic address: christopher.walsh@childrens.harvard.edu.",
-        "Department of Stem Cell & Regenerative Biology, Harvard University, Cambridge, MA, USA; Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. Electronic address: paola_arlotta@harvard.edu."
-      ],
-      "doi": "10.1016/j.neuron.2026.10.004",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014284/"
-    },
-    {
-      "pmid": "43014283",
-      "title": "Toward functional oversight of neural organoid research: A report from the 2025 Asilomar Conference.",
-      "abstract": "In November 2025, an international multistakeholder group convened at Asilomar, California, to address oversight of rapidly advancing neural organoid and assembloid research. This process report documents the convening's design, outcomes, and lessons, and it asks what it will take to turn this momentum into ongoing monitoring and practical guidelines that ensure responsible research without constraining scientific progress.",
-      "journal": "Neuron",
+      "pmid": "43018559",
+      "title": "Discovery of Anti-apoptotic BAX Inhibitors.",
+      "abstract": "BAX is a critical regulator of the apoptosis cascade and its abnormal activation contributes to the development of disease including cardiovascular and neurodegenerative disorders. Therefore, BAX represents an attractive target for the pharmacological inhibition of pathological cell death. Based on a virtual screen, we identified and modified several EGFR kinase inhibitors with potential activity against BAX. Systematic modifications of the dacomitinib and gefitinib core structure were performed, allowing us to elucidate how structural modifications influence biological activity and leading to a comprehensive structure-activity relationship (SAR) on BAX inhibition. The developed series has favorable drug-like properties and improved BAX inhibitory activity in vitro, in cells, and in human induced pluripotent stem cell-derived brain organoids, with significantly reduced EGFR kinase activity. This series therefore represents a promising starting point for the development of improved and potentially therapeutic BAX inhibitors.",
+      "journal": "Journal of medicinal chemistry",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Worldview Studio, Menlo Park, CA, USA. Electronic address: brieann@worldview.studio."
+        "Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), 13125Berlin, Germany.",
+        "Institute of Pharmacy, Freie Universität Berlin, 14195Berlin, Germany.",
+        "Center for Stroke Research Berlin, CharitéUniversitätsmedizin Berlin, 10117Berlin, Germany.",
+        "Department of Neurology with Experimental Neurology, CharitéUniversitätsmedizin Berlin, 10117Berlin, Germany.",
+        "Biological Sciences Platform, Sunnybrook Research Institute, M4N 3M5Toronto, Canada.",
+        "Institut für Chemie, Strukturelle Chemische Biologie und Cheminformatik, Technische Universität Berlin, 10623Berlin, Germany.",
+        "Princess Margaret Cancer Centre, University Health Network, M5G 2M9Toronto, Canada.",
+        "Institute of Biometry and Clinical Epidemiology, CharitéUniversitätsmedizin Berlin, 10117Berlin, Germany.",
+        "Department of Biochemistry, University of Toronto, M5S 1A8Toronto, Canada.",
+        "Ontario Institute for Cancer Research , M5G 0A3Toronto, Canada.",
+        "Radcliffe Department of Medicine, University of Oxford, OX3 9DUOxford, U.K.",
+        "Department of Chemistry, Organic and Bioorganic Chemistry, Bielefeld University, 33615Bielefeld, Germany."
       ],
-      "doi": "10.1016/j.neuron.2026.09.024",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014283/"
+      "doi": "10.1021/acs.jmedchem.6c01594",
+      "date": "2026-11-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018559/"
     },
     {
-      "pmid": "43014282",
-      "title": "Cognitive evaluation of brain organoids and assembloids.",
-      "abstract": "The computational abilities of brain organoids and assembloids remain largely unexplored. We propose a hierarchy of assays grounded in cognitive neuroscience and probing representations, memory, and predictive processing, thus enabling causal tests of how architecture and maturation shape emerging computations while providing empirical constraints on debates about organoid consciousness.",
-      "journal": "Neuron",
+      "pmid": "43017589",
+      "title": "Thermo-Responsive Injectable Hydrogels for Wound Repair: Mechanistic Insights, Material Engineering, and Multimodal Therapeutic Applications.",
+      "abstract": "Chronic non-healing wounds remain a major clinical challenge, affecting millions of patients worldwide and imposing substantial socioeconomic burdens. Thermo-responsive hydrogels have emerged as a highly promising class of smart biomaterials for wound healing due to their unique sol-gel phase-transition behavior triggered by physiological temperatures. This review comprehensively reviews recent advances in the fundamental mechanisms, material design principles, and biomedical applications of thermo-responsive hydrogels in wound management. First, the thermo-induced gelation mechanisms of representative systems, including lower critical solution temperature (LCST)-type and upper critical solution temperature (UCST)-type polymers as well as poly(N-isopropylacrylamide) (PNIPAm)- and Pluronic F127-based platforms, are discussed from the perspectives of polymer-water interactions and self-assembly behavior. Second, key material engineering strategies are highlighted, including the integration of synthetic and natural polymers, copolymerization, block design, and crosslinking regulation, which collectively enable tunable mechanical properties, degradation kinetics, and biofunctionality. Third, the functional design of injectable thermo-gels is emphasized, particularly their capabilities in on-demand drug delivery, microenvironment regulation, and immunomodulation through multi-responsive systems (eg, pH-, ROS-, enzyme-, and photothermal responsiveness). Furthermore, their application to specific wound types-including diabetic chronic wounds, infected wounds, burns, and surgical injuries-is systematically discussed, demonstrating their advantages in antibacterial activity, promotion of angiogenesis, immune remodeling, and tissue regeneration. Finally, current translational challenges such as temperature variability in pathological wounds, manufacturing reproducibility, sterilization constraints, and long-term biosafety are analyzed, along with future directions integrating AI-driven design, organ-on-a-chip platforms, and 3D/4D bioprinting technologies. Collectively, thermo-responsive hydrogels represent a versatile preclinical platform with promising translational potential for precision wound therapy, pending rigorous clinical validation.",
+      "journal": "International journal of nanomedicine",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Predictive Brain Department, University Alliance Ruhr, Faculty of Psychology, Ruhr-Universität Bochum, Bochum, Germany; Department of Neurology, NYU Grossman School of Medicine, New York, NY, USA; Canadian Institute for Advanced Research (CIFAR), Brain, Mind, and Consciousness Program, Toronto, ON, Canada. Electronic address: lucia.mellonibuljevic@rub.de.",
-        "Canadian Institute for Advanced Research (CIFAR), Brain, Mind, and Consciousness Program, Toronto, ON, Canada; Collège de France, Université Paris-Sciences-Lettres (PSL), 11 Place Marcelin Berthelot, 75005 Paris, France; Cognitive Neuroimaging Unit, INSERM, CEA, CNRS, Université Paris-Saclay, NeuroSpin Center, Gif-sur-Yvette, France. Electronic address: stanislas.dehaene@college-de-france.fr."
+        "Division of Trauma Surgery, Emergency Surgery & Surgical Critical, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People's Republic of China.",
+        "Trauma Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People's Republic of China.",
+        "Department of Emergency and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People's Republic of China.",
+        "Sino-German Research Institute of Disaster Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People's Republic of China.",
+        "Department of Plastic and Aesthetic Surgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan, People's Republic of China."
       ],
-      "doi": "10.1016/j.neuron.2026.10.009",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014282/"
+      "doi": "10.2147/IJN.S646801",
+      "date": "2026-11-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017589/"
     },
     {
-      "pmid": "43014281",
-      "title": "Unbundling the ethical and social issues in human neural organoid research.",
-      "abstract": "As human neural organoid research advances, some key concepts in its ethical analysis need to be unbundled to keep pace with scientific developments. These include interests involved in informed consent, distinct dimensions of consciousness and their implications for welfare, approaches to engaging public concerns, and governance and oversight of both organoids themselves and their uses.",
-      "journal": "Neuron",
+      "pmid": "43017522",
+      "title": "Human umbilical cord mesenchymal stem cell-derived small extracellular vesicles delivering CERS1 promote squamous differentiation in HPV16-positive cervical intraepithelial neoplasia via remodeling sphingomyelin metabolism.",
+      "abstract": "Cervical intraepithelial neoplasia (CIN), a precursor of human papillomavirus (HPV)-driven cervical cancer, poses a severe threat to women's health. High-risk HPV infection drives CIN progression, whereas well-defined intervention targets and effective non-invasive therapies remain lacking. Herein, Using New Approach Methodologies (NAMs), specifically HPV16-positive ectocervical organoids as a human-relevant disease model, we evaluated the therapeutic potential of engineered cell-free small extracellular vesicles derived from human umbilical cord mesenchymal stem cells (hucMSC-sEV). We found that hucMSC-sEV significantly promoted squamous differentiation in S12 cells and HPV16-positive ectocervical organoids. Mechanistically, integrated multi-omics analyses within this NAMs platform revealed that hucMSC-sEV delivered ceramide synthase 1 (CERS1) to upregulate C18 ceramide (C18 Cer) synthesis, activating the non-canonical p53 signaling to drive squamous differentiation. In NCG mice bearing subcutaneous xenografts of S12 cells, hucMSC-sEV effectively inhibited S12 xenograft growth and modulated squamous differentiation via regulation of C18 ceramide metabolism, while this therapeutic effect was abrogated in CERS1-knockdown hucMSC-sEV. This study delineates the molecular mechanism by which hucMSC-sEV remodel sphingolipid metabolism to promote cervical squamous epithelial differentiation and suppress S12 xenograft development, providing novel potential targets and therapeutic strategies for CIN intervention.",
+      "journal": "Materials today. Bio",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Gynecology, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 518107, China.",
+        "Zhongshan School of Medicine, Sun Yat-sen University Shenzhen Campus, Shenzhen, 518107, China.",
+        "Digestive Diseases Center, Guangdong Provincial Key Laboratory of Digestive Cancer Research, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, 518107, China.",
+        "Department of Education, The Seventh Affiliated Hospital of Sun Yat-sen University, Shenzhen, 518107, China."
+      ],
+      "doi": "10.1016/j.mtbio.2026.103801",
+      "date": "2026-11-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017522/"
+    },
+    {
+      "pmid": "43017362",
+      "title": "Multiple myeloma bone disease models with integrated bone marrow adipose tissue for advancing personalized medicine.",
+      "abstract": "Multiple myeloma (MM) is an incurable hematological cancer of monoclonal plasma cells, where patients commonly develop osteolytic bone disease. The pathogenesis of myeloma is known to be strongly dependent on the bone marrow (BM) microenvironment, but despite this, successful therapies targeting the niche constituents are lacking. Increased body weight and obesity are associated with poor prognosis and disease outcome, making adipose tissue an important regulatory factor in myeloma. Bone marrow adipose tissue (BMAT) has been recognized as a unique adipose depot, with strong implications in MM bone disease. In this review, we discuss the development of advanced adipose tissue models, including BMAT, and their utility for the design of precise and potentially personalized myeloma therapies. Compared to other adipose models, BMAT models require a complex composition to mimic the BM niche, including BM adipocytes, extracellular matrix, immune cells, bone cells, distinct stem/progenitor cell populations plus myeloma cells. In this sense, BMAT-permissive multicellular 3D models, such as bone and BM organoids, could have significant potential to recapitulate the MM niche. Although advanced 3D models based on induced pluripotent stem cells recreate the mesenchymal-vascular-hematopoietic tissues and BM microenvironment, adult BM recapitulation is still challenging. Incorporating patient-derived cells such as myeloma cells and BM adipocytes into these models will improve the accuracy of determining drug responses, disease progression, and patient-specific therapies, particularly in relapsed and/or refractory MM. Altogether, advanced patient-derived 3D model systems provide a more reliable experimental platform for mechanistic and translational studies across the whole BM and bone ecosystem.",
+      "journal": "Frontiers in oncology",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Deane F. and Kate Edelman Johnson Professor of Law, Professor by courtesy of Genetics, Stanford University, Stanford, CA 94305, USA. Electronic address: hgreely@stanford.edu.",
-        "Robison O. Everett Professor of Law and Philosophy, Duke University, Durham, NC 27707, USA. Electronic address: farahany@duke.edu."
+        "Group for Hematology and Stem Cells, Institute for Medical Research, National Institute of Republic of Serbia, University of Belgrade, Belgrade, Serbia.",
+        "Institute of Orthopedics Banjica, Belgrade, Serbia.",
+        "Faculty of Medicine, University of Belgrade, Belgrade, Serbia.",
+        "Mellanby Centre for Musculoskeletal Research and School of Medicine and Population Health, Faculty of Health, University of Sheffield, Sheffield, United Kingdom."
       ],
-      "doi": "10.1016/j.neuron.2026.10.005",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014281/"
+      "doi": "10.3389/fonc.2026.1982576",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017362/"
+    },
+    {
+      "pmid": "43017032",
+      "title": "Human models for human diseases: how pluripotent stem cell derived brain organoids can help us understand and treat diffuse hemispheric glioma.",
+      "abstract": "The precise orchestration of neurodevelopment and epigenetic regulation is essential for normal brain development with devastating consequences if disrupted, leading to neurological diseases and cancer. For diseases such as paediatric high grade gliomas (pHGG), the epigenetic driver mutation in Histone 3.3 contorts the fate of developing cells in the brain, resulting in poor outcomes for most children and adolescents with this disease. The complexity of diseases such as pHGG is reflected in the intricacy of the development of human cortical structures and their subsequent neural functions; it is our cortex that significantly delineates us from all other mammalian species. This complexity cannot be modelled adequately in systems other than human. Indeed, there are thousands more neurons with a thousand-fold increase in surface area of the human brain in comparison to the mouse cortex. Approaches to study the human developing brain are therefore required to understand the complexities of human cortical structures. Here, we describe the neurodevelopmental trajectories and epigenetic regulation of human cortex development. We then report how investigators study the human cortex, how it can be recapitulated in 3D brain organoids, and why this is important for modelling disease. We focus on the lethal childhood brain cancer H3G34-mutated Diffuse Hemispheric Glioma (DHG), a sub-type of pHGG arising in the cortex of adolescents, as an exemplar for modelling a difficult-to-treat disease in 3D brain organoids. Finally, we provide a perspective on the current shift from research using animals to New Approach Methodologies (NAMs) and why 3D brain organoids offer opportunities for the future of pre-clinical validation.",
+      "journal": "Frontiers in cell and developmental biology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Stem Cell Medicine, Murdoch Children's Research Institute, Parkville, VIC, Australia.",
+        "Department of Paediatrics, Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne, Parkville, VIC, Australia.",
+        "Novo Nordisk Foundation Centre for Stem Cell Medicine, reNEW Melbourne, Parkville, VIC, Australia.",
+        "Department of Surgery, Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, VIC, Australia.",
+        "Children's Cancer Centre, The Royal Children's Hospital Melbourne, Parkville, VIC, Australia."
+      ],
+      "doi": "10.3389/fcell.2026.1962790",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017032/"
+    },
+    {
+      "pmid": "43016964",
+      "title": "Artificial intelligence for Traditional Chinese Medicine classic formula development: a technology readiness assessment using metabolic syndrome as a case study.",
+      "abstract": "Traditional Chinese medicine (TCM) formulas, developed through millennia of clinical practice, represent a rich legacy of approximately 100,000 documented prescriptions (99,584 named formula entries in the second edition of the Dictionary of Traditional Chinese Medicine Formulas), yet on average fewer than ten new TCM products were approved annually by China's NMPA from 2013 to 2024 (77 approvals in total). The experience-based screening paradigm is misaligned with the precision medicine framework demanded by metabolic syndrome (MetS), a multi-target disorder affecting an estimated 1.54 billion adults (95% CrI 1.35-1.76) in 2023. Although artificial intelligence (AI)-encompassing knowledge graphs (KGs), large language models (LLMs), and high-throughput experimentation-has been proposed as a solution, its actual readiness for TCM development remains unclear. This review critically examines KG, LLM, and high-throughput validation technologies enabling precision phytomedicine for MetS, providing a realistic roadmap for AI-driven TCM research and development. The three technology streams exhibit asymmetric readiness. At the stream level, knowledge-graph approaches span Technology Readiness Level (TRL) 3-6, large language model approaches span TRL 1-5, and high-throughput validation platforms span TRL 3-5. LLM development is limited by three TCM-specific hallucination types that lack evaluation benchmarks. KG entity recognition is the most mature component, yet reasoning is hindered by the absence of negative data, missing dose-time dimensions, and unencoded monarch-minister-assistant-envoy hierarchies. High-throughput platforms are technically feasible but remain mismatched to MetS functional endpoints-tumor-derived organoid paradigms show limited direct transferability and would require substantial adaptation. Precision phytomedicine must follow a \"foundations before algorithms\" sequence: institutionalize negative data, build TCM-Hallu benchmarks, establish functional-endpoint evaluation, and develop AI-assisted regulatory review. Algorithmic advances will remain in an incomplete information space until knowledge infrastructure gaps are closed.",
+      "journal": "Frontiers in pharmacology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory for the Modernization of Classical and Famous Prescriptions of Chinese Medicine, Nanchang, China.",
+        "Jiangxi Key Laboratory of Molecular Medicine, The Second Affiliated Hospital of Nanchang University, Nanchang, China.",
+        "Jiangxi Science and Technology Infrastructure Center, Jiangxi Computing Center, Nanchang, China.",
+        "The Affiliated Hospital of Jiangxi University of Chinese Medicine, Nanchang, China.",
+        "Key Laboratory of Sensing Technology and Biomedical Instruments of Guangdong Province, School of Biomedical Engineering, Shenzhen Campus of Sun Yat-Sen University, Shenzhen, China."
+      ],
+      "doi": "10.3389/fphar.2026.1970742",
+      "date": "2026-10-28",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016964/"
     },
     {
       "pmid": "43008172",
@@ -244,6 +264,43 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42941810/"
     },
     {
+      "pmid": "43016801",
+      "title": "Protein engineering in Brazil: a biophysical perspective.",
+      "abstract": "Protein engineering has become an increasingly interdisciplinary field, integrating molecular biology, structural biology, biophysics, computational modeling, and artificial intelligence to modify protein structure, stability, dynamics, molecular recognition, and catalytic activity. This systematic review examines the historical development and scientific contributions of protein engineering research associated with Brazilian institutions between 1988 and June 2026. A total of 792 peer-reviewed articles were identified in PubMed through eight thematic search strategies covering protein and enzyme engineering, directed evolution, rational and computational design, recombinant protein expression, therapeutic proteins, structural biology, and artificial intelligence-assisted engineering. The reviewed literature reveals a transition from early residue-level mutagenesis and conventional biochemical assays to increasingly integrated experimental and computational approaches. Advances in X-ray crystallography, nuclear magnetic resonance (NMR), circular dichroism (CD), mass spectrometry, small-angle X-ray scattering (SAXS), calorimetry, molecular dynamics, and structural bioinformatics enabled the quantitative investigation of protein folding, stability, conformational landscapes, molecular interactions, and catalytic mechanisms. More recently, machine learning, protein language models, AlphaFold-derived structures, and generative approaches have expanded the capacity to predict mutations and design proteins, peptides, antibodies, and enzymes with predefined properties. Overall, protein engineering in Brazil has evolved into a mature and diverse field with applications in health, infectious diseases, agriculture, biotechnology, bioenergy, biomaterials, environmental remediation, and industrial biocatalysis. The findings indicate that biophysics has moved beyond a predominantly descriptive role and has become central to the design and validation of engineered proteins. Future progress will depend on the convergence of experimental biophysics, multiscale simulations, artificial intelligence, high-throughput validation, and stronger national and international research networks.",
+      "journal": "Biophysical reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Engineering School, Mackenzie Presbyterian University, Sao Paulo, Sao Paulo, Brazil.",
+        "OncoAI, Oncologia Inteligência Artificial, Sao Paulo, Brazil.",
+        "Institute of Physics, University of Sao Paulo, Sao Paulo, Brazil."
+      ],
+      "doi": "10.1007/s12551-026-01469-0",
+      "date": "2026-10-05",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016801/"
+    },
+    {
+      "pmid": "43016668",
+      "title": "Evolutionary divergence of uric acid catabolic enzymes: structure-function constraints and genomic innovations across taxa.",
+      "abstract": "Uric acid degradation is a model for understanding how gene duplication, loss, and functional divergence drive metabolic evolution. In hominoids and uricotelic animals, uric acid is the terminal purine catabolite, whereas most other taxa further degrade it to allantoin and beyond. Comparative genomics and structural analyses reveal recurrent duplication and repurposing of key enzymes. 5-Hydroxyisourate hydrolase (HIUase) and transthyretin (TTR) share a common ancestral hydrolase, later diverging through neofunctionalization, while independent gene fusions reshaped the pathway, notably the gene fusion of Urah (HIUase) and Urad (2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase, or OHCUd) into single-chain allantoin synthases in plants, diatoms, and bacteria. Elastic network modeling this gene fusion shows uncorrelated motions between the catalytic domains, suggesting its advantage stems from fixed stoichiometry and spatial proximity rather than conformational coupling. Further divergence is seen in enzyme families with complementary substrate specificities, and gene clustering in bacteria and yeast reflects regulatory optimization under nitrogen limitation, paralleling the ureide pathway in legumes. In hominoids, pseudogenization of urate oxidase relaxed constraints on downstream enzymes, elevating serum uric acid, an ancestral adaptation now linked to hyperuricemia. Gut microbiome-mediated degradation and links between Urad variants and cancer risk underscore the pathway's continuing relevance. Mammalian Urad orthologs show strong sequence conservation. Molecular modeling of the human ortholog demonstrated a conserved fold, consistent with a predominantly α-helical secondary structure content supported by circular dichroism, whereas kinetic characterization revealed the absence of detectable catalytic activity. Building on these principles, evolution-guided protein engineering achieved partial functional interconversion between transthyretins and HIUases without disrupting the ancestral scaffold, revealing purine catabolism's plasticity as a model for enzyme innovation and the metabolism-disease-protein design interface.",
+      "journal": "Biophysical reviews",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Programa de Pós-Graduação em Bioquímica e Imunologia, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG 31270-901 Brazil.",
+        "Laboratório de Biofísica de Macromoléculas (LBM), Engenharia Química, Instituto Militar de Engenharia (IME), Rio de Janeiro, RJ 22290-270 Brazil.",
+        "BioinfoMetrópole (BioMe), Instituto Metrópole Digital (IMD), Universidade Federal Do Rio Grande Do Norte (UFRN), Natal, RN 59078-900 Brazil.",
+        "Programa de Pós-Graduação em Química, Instituto Militar de Engenharia (IME), Rio de Janeiro, Rio de Janeiro 22290-270 Brazil."
+      ],
+      "doi": "10.1007/s12551-026-01466-3",
+      "date": "2026-10-02",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016668/"
+    },
+    {
       "pmid": "43006909",
       "title": "PFM: perturbed flow matching for structure-based drug design.",
       "abstract": "Target-specific 3D molecular generation is a promising approach for structure-based drug design. However, existing diffusion-based methods are generally restricted to marginal distributions with closed-form solutions, limiting the flexibility of generative process design, especially for the forward noising process. As a result, these methods may be less effective in modeling the complex distributions underlying pocket-conditioned molecular generation. We develop Perturbed Flow Matching (PFM), a flow-matching-based framework for protein pocket-conditioned 3D molecular generation. PFM employs a perturbed conditional probability path that incorporates both pocket binding-site information and coupled atom type-coordinate information, enabling more effective generation of molecules in protein binding environments. On CrossDocked2020, PFM achieves competitive structural quality and the best average Vina score among the evaluated unguided methods (-7.12); PFM-G further improves the score to -8.70 with tailored classifier-free guidance. Experiments on additional molecular datasets further confirm the effectiveness and generalizability of the proposed framework. https://github.com/kurisu92725/PFM.",
@@ -326,32 +383,82 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42999436/"
     },
     {
-      "pmid": "42995874",
-      "title": "Reliable and Efficient Agentic Protein Design with Toolset Harnessing.",
-      "abstract": "Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone's utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone .",
-      "journal": "bioRxiv : the preprint server for biology",
+      "pmid": "43017793",
+      "title": "Recent Advancements in Diagnosis and Targeted Therapy of Pancreatic Cancer.",
+      "abstract": "Pancreatic Cancer (PC) is an exceptionally belligerent and lethal malignancy owing to failure in prognosis and limited existing therapies. Pancreatic Ductal Adenocarcinoma (PDAC) mostly originates from ductal cells, with a survival rate of less than 5 years. This cancer is predominantly caused by genetic abnormalities in the exocrine pancreas, such as KRAS and p53, which contribute to tumor growth and progression. Our previously published article on PC taught us that there is an utmost need to identify novel biomarkers for diagnosis and targeted therapy approaches to improve survival rates in patients. Conventional radiotherapy and nanotechnology-based approaches show limited success compared to targeted therapy. A comprehensive literature search was conducted in PubMed, Science Direct, Scopus, Bentham Science, Google Scholar, ACS Journals, and Taylor and Francis journals and Web of Science databases using keywords related to Pancreatic Ductal Adenocarcinoma (PDAC), biomarkers, and targeted therapies. Articles published in English over the past two decades were screened, and studies focusing on novel biomarkers and therapeutic strategies were included for this review. Recent innovations in PDAC treatment include novel biomarkers (genetic markers, proteomic biomarkers, metabolism-related biomarkers, epigenetic markers, liquid biopsy, Pancreatic Cancer Stem Cell (PSCC) biomarkers, circulating biomarkers, and tissue biomarkers) that facilitate early diagnosis and thus minimize mortality rates. The current review highlighted the utmost need for novel targeted approaches (targeting DNA repairing and Microsatellite instability, targeting epigenetic alteration, targeting key Signaling pathways, targeting the stroma, Fibrosis, and extracellular matrix, and drug conjugate inhibitors) that enhance the specificity and efficacy against cancer cells, reduce the injury to healthy tissue, and improve survival rates. Targeted therapy also focuses on the specific molecular characteristics of cancer cells, providing a possible alternative to traditional therapies. To summarize, the shifting landscape of cancer treatment, particularly for PC, requires further study of targeted innovative combination therapies to improve patient survival while addressing the major limitations of traditional treatments. Several such products are in clinical trials, which have benefited patients with new hope suffering from PDAC.",
+      "journal": "Anti-cancer agents in medicinal chemistry",
       "publicationTypes": [
         "Journal Article",
-        "Preprint"
+        "Review"
       ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.19.759896",
-      "date": "2026-10-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995874/"
+      "affiliations": [
+        "Department of Pharmaceutical Quality Assurance, School of Pharmacy and Technology Management, SVKM NMIMS Global University, Dhule, Maharashtra-424001, India."
+      ],
+      "doi": "10.2174/0118715206429348260126061757",
+      "date": "2026-01-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017793/"
     },
     {
-      "pmid": "42995841",
-      "title": "MYC targeted de novo binders impair tumor growth.",
-      "abstract": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors. We developed a panel of de novo designed intracellular protein binders that target conserved functional regions of MYC with nanomolar affinity, remodel MYC complexes and interaction networks in cells, suppress proliferation across MYC-dependent cancer models, and are depleted from orthotopic pancreatic tumors in vivo.",
-      "journal": "bioRxiv : the preprint server for biology",
+      "pmid": "43015759",
+      "title": "Tetrahedral DNA nanostructure-gated solution-phase CRISPR/Cas12a system for probe immobilization-free, reagent-efficient, and dual-phase electrochemical detection of circulating microRNAs in liquid biopsy.",
+      "abstract": "Liquid-biopsy nucleic acid biomarkers hold strong promise for non-invasive cancer diagnostics, yet their ultralow abundance presents substantial analytical challenges. Conventional electrochemical biosensors rely on complex probe immobilization, whereas emerging homogeneous strategies remain susceptible to matrix interference and require large reaction volumes. Here, we report a probe immobilization-free, reagent-efficient, dual-phase electrochemical platform that integrates solution-phase CRISPR/Cas12a reactions with a tetrahedral DNA nanostructure (TDN)-based interfacial gating mechanism for detecting circulating microRNAs. We found that TDNs extended with a thiolated blocking fragment (BF) impose a pronounced steric gating effect at the electrode-solution interface: the large, rigid TDN architecture prevents intact BF-linked structures from approaching the gold electrode, whereas smaller Cas12a-generated thiolated fragments readily assemble via Au-S interactions. This size-dependent gating transition switches the electrode from an HRP-accessible to an HRP-blocking state, producing a sharply resolved signal decrease that faithfully maps solution-phase cleavage onto an electrochemical readout. Using a target-competitive binding strategy to generate the activator DNA, this interfacial gating mechanism was developed into a robust dual-phase sensing platform driven by CRISPR/Cas12a. Because target recognition and Cas12a-mediated cleavage occur entirely in solution and only the final reaction products contact the electrode, the architecture retains high homogeneous reaction efficiency while avoiding diffusion-governed limitations and eliminating probe immobilization. The 10 µL reaction volume enables substantial reagent savings and strong compatibility with complex matrices. The assay achieves a detection limit of 4.1 aM and accurately quantifies renal cancer-associated circulating miRNA-21 in peripheral blood, yielding results fully consistent with RT-qPCR.",
+      "journal": "Journal of nanobiotechnology",
       "publicationTypes": [
-        "Journal Article",
-        "Preprint"
+        "Journal Article"
       ],
-      "affiliations": [],
-      "doi": "10.64898/2026.10.15.758618",
-      "date": "2026-10-22",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995841/"
+      "affiliations": [
+        "Department of Urology, Urology Research Institute, the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, Fujian Province, China.",
+        "Department of Urology, National Regional Medical Center, Binhai Campus of the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, Fujian Province, China.",
+        "Fujian Key Laboratory of Drug Target Discovery and Structural and Functional Research, School of Pharmacy, Fujian Medical University, Fuzhou, 350122, China.",
+        "Fujian Key Laboratory of Drug Target Discovery and Structural and Functional Research, School of Pharmacy, Fujian Medical University, Fuzhou, 350122, China. Junyang.Zhuang@hotmail.com.",
+        "Department of Urology, Urology Research Institute, the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, Fujian Province, China. weiyong2017@fjmu.edu.cn.",
+        "Department of Urology, National Regional Medical Center, Binhai Campus of the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, Fujian Province, China. weiyong2017@fjmu.edu.cn.",
+        "Department of Urology, Urology Research Institute, the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, Fujian Province, China. drxun@fjmu.edu.cn.",
+        "Department of Urology, National Regional Medical Center, Binhai Campus of the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350212, Fujian Province, China. drxun@fjmu.edu.cn.",
+        "Fujian Key Laboratory of Tumor Immunotherapy, the First Affiliated Hospital, Fujian Medical University, Fuzhou, 350005, China. drxun@fjmu.edu.cn."
+      ],
+      "doi": "10.1186/s12951-026-04936-8",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43015759/"
+    },
+    {
+      "pmid": "43015472",
+      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis.",
+      "abstract": "Breast cancer, the most diagnosed cancer among women, is stratified by gene expression patterns into luminal and basal-like subtypes, and the latter is associated with worse prognosis1-3. Recent advances in single-cell technologies have underscored the presence of intratumour heterogeneity, which poses substantial challenges in cancer treatment and achieving long-term disease-free survival4-7. Here we extensively profile epigenetic heterogeneity in a cohort of treatment-naive human luminal tumours, which were obtained directly after surgical resection. By applying a single-cell epigenetic approach based on cytometry by time-of-flight, we identify a recurrent subpopulation of basal-like cells in luminal tumours with a conserved epigenetic signature across patients. These basal-like cells, also identified by deconvolution of whole-genome DNA methylation patterns, are characterized by high expression of aggressive oncogenic traits and downregulation of hormone receptor signalling. Direct comparison of single-cell proteomic and genomic profiling of monomethylation and trimethylation of histone 3 on lysine 4 revealed that these marks are key features associated with loss of luminal identity. Finally, we highlight the potential of concomitant single-molecule profiling of histone modifications on cell-free nucleosomes in blood as an epigenetic liquid biopsy approach for early diagnosis of breast cancer. Moreover, the epigenetic basal signature measured in blood is linked to prognosis, which enables the identification of patients at increased risk for disease relapse.",
+      "journal": "Nature",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Immunology and Regenerative Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "Racah Institute of Physics, The Hebrew University of Jerusalem, Jerusalem, Israel.",
+        "Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot, Israel.",
+        "Mass Cytometry Unit, Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Experimental Oncology, European Institute of Oncology IRCCS, Milan, Italy.",
+        "UMR3244, Translational Department, Institut Curie, PSL University, Paris, France.",
+        "Bioinformatics Unit, Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel.",
+        "Department of Surgery A, Kaplan Medical Center, Rehovot, Israel.",
+        "The Center for Breast Health, Kaplan Medical Center, Rehovot, Israel.",
+        "Plastic and Reconstructive Surgery, Kaplan Medical Center, Rehovot, Israel.",
+        "Department of Pathology, Kaplan Medical Center, Rehovot, Israel.",
+        "Breast Oncology Institute, Sheba Medical Center, Tel Aviv, Israel.",
+        "Department of Biomedical Engineering, Johns Hopkins Whiting School of Engineering, Baltimore, MD, USA.",
+        "Max Planck Institute for Molecular Genetics, Berlin, Germany.",
+        "Cancer Clinical Studies Unit, Mayo Clinic, Jacksonville, FL, USA.",
+        "Department of Surgery, Mayo Clinic, Jacksonville, FL, USA.",
+        "Epivision Genetics, Boston, MA, USA.",
+        "Department of Oncology and Haemato-Oncology, University of Milan, Milan, Italy.",
+        "Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Center for Epigenetics, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+        "Racah Institute of Physics, The Hebrew University of Jerusalem, Jerusalem, Israel. guy.ron2@mail.huji.ac.il.",
+        "Department of Immunology and Regenerative Biology, Weizmann Institute of Science, Rehovot, Israel. efrat.shema@weizmann.ac.il.",
+        "Max Planck Institute for Molecular Genetics, Berlin, Germany. efrat.shema@weizmann.ac.il."
+      ],
+      "doi": "10.1038/s41586-026-11230-y",
+      "date": "2026-11-11",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43015472/"
     },
     {
       "pmid": "43015135",
@@ -411,243 +518,69 @@
       "doi": "10.1007/s12094-026-04605-0",
       "date": "2026-11-11",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43013225/"
-    },
-    {
-      "pmid": "43013192",
-      "title": "Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify postoperative MRD, although the evidence is limited and heterogeneous. PubMed, Scopus, and Embase were searched from inception to July 9, 2026, following PRISMA 2020 guidelines. Eligible studies compared postoperative tumor-informed ctDNA-positive and ctDNA-negative patients after curative-intent treatment of pancreatic cancer for recurrence, survival, or lead time outcomes. Random-effects models were used to pool risk ratios (RRs) and hazard ratios (HRs). Heterogeneity, leave-one-out sensitivity, prespecified subgroups, ROBINS-I risk of bias, and GRADE certainty were assessed. Five observational cohorts contributed 237 patients to the radiological recurrence comparison (84 ctDNA-positive and 153 ctDNA-negative). Postoperative ctDNA positivity was associated with increased radiological recurrence (RR 2.50; 95% CI 1.90-3.28; I²=20%), poorer disease-free survival (HR 8.11; 95% CI 3.51-18.73; I²=45%), and poorer overall survival (HR 5.15; 95% CI 2.67-9.94; I²=0%). The direction of the associations persisted in the reported leave-one-out assessments. Recurrence risk was higher in both the early-MRD/landmark and surveillance subgroups, with no statistically significant subgroup difference (P = 0.17). Postoperative tumor-informed ctDNA positivity was associated with an increased recurrence risk and inferior survival after curative-intent PDAC treatment, although a negative result did not reliably exclude residual disease. Prospective interventional studies are needed before ctDNA-guided surveillance or treatment modifications can be recommended for routine practice.",
-      "journal": "Journal of gastrointestinal cancer",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis",
-        "Review"
-      ],
-      "affiliations": [
-        "Shifa College of Medicine, Shifa Tameer-e-Millat University, Sector H-8/4, Islamabad, Pakistan. wajahatmirza.clinicalresearch@gmail.com.",
-        "Ibn e Siena Hospital and Research Institute, Multan, Pakistan.",
-        "CMH Lahore Medical College, Lahore, Pakistan.",
-        "Core Surgical Trainee, NHS, London, UK.",
-        "Rawalpindi Medical University, Rawalpindi, Pakistan.",
-        "NUST School of Health Sciences, Islamabad, Pakistan.",
-        "Shihezi First Affiliated Hospital, Shihezi City, China.",
-        "Faculty of Medicine, Tripoli University, Tripoli, Libya.",
-        "Wah Medical College, National University of Medical Sciences, Wah Cantt, Punjab, Pakistan.",
-        "District Headquarters Hospital, Khanewal, Pakistan."
-      ],
-      "doi": "10.1007/s12029-026-01629-1",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43013192/"
-    },
-    {
-      "pmid": "43012102",
-      "title": "Long-term economic benefits of early cancer detection through enhanced multimodal screening: a modeling study of whole-body MRI and liquid biopsy.",
-      "abstract": "Aim: Cancer poses a substantial health and economic burden in the US Although early detection is associated with improved outcomes and lower treatment costs, many cancers are still diagnosed at advanced stages. Enhanced multimodal screening combining whole-body magnetic resonance imaging (WB MRI) and blood-based multicancer early detection (MCED) may shift diagnoses earlier, but its long-term economic impact remains uncertain. Materials & methods: We developed an economic model to estimate expected cancer-related costs under two scenarios: status quo with conventional screening and enhanced multimodal screening incorporating WB MRI and MCED. The analysis included common cancers with an annual incidence of ≥10,000 new cases in the US in 2025. Expected cancer management costs were estimated using incidence-based 5-year stage-specific medical costs. Productivity losses were estimated using a simplified human capital approach, applying published stage-specific work-loss durations to sex-specific annual earnings. Under the intervention arm, conservative, moderate and maximum cancer stage-shift assumptions were evaluated. These scenarios reflected increasing degrees of earlier cancer detection, with a greater proportion of cancers assumed to be diagnosed at earlier stages rather than at advanced stages. Total expected cancer-related costs per person were derived by combining direct medical costs and productivity losses, weighted by cancer risk and stage distribution. Results: Under the status quo, expected cancer-related costs were estimated at $74,431 for men and $78,818 for women. With enhanced multimodal screening under the moderate stage-shift assumption, costs, including screening and false positive workup, declined to about $66,000 and $69,500, respectively, representing approximately 12% reduction. Under the conservative stage-shift assumption, total costs were similar to those under the status quo, whereas under the maximum stage-shift assumption, cost reductions ranged from 24.0% to 24.3% for men and from 24.7% to 25.0% for women. Conclusion: Enhanced multimodal screening may reduce the economic burden of cancer by shifting diagnosis toward earlier stages, although the magnitude of benefit depends substantially on the extent to which cancers are detected at earlier stages in practice. These findings highlight the potential long-term economic value of earlier cancer detection while underscoring the need for prospective evidence on the real-world performance of WB-MRI and MCED screening strategies. Because long-term real-world data for population-level WB-MRI and MCED screening remain limited, these findings should be interpreted as estimates of potential economic impact rather than projections of a specific screening program.",
-      "journal": "Journal of comparative effectiveness research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Radiology, Mayo Clinic, Jacksonville, FL 32224, USA.",
-        "Siemens Healthineers, Malvern, PA 19355, USA.",
-        "Comprehensive Cancer Center, Department of Anesthesiology & Perioperative Medicine, Mayo Clinic, Jacksonville, FL 32224, USA.",
-        "Division of General Internal Medicine, Mayo Clinic, Jacksonville, FL 32224, USA."
-      ],
-      "doi": "10.57264/cer-2026-0099",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43012102/"
-    },
-    {
-      "pmid": "43011832",
-      "title": "From histopathology to molecular taxonomy: predicting pituitary neuroendocrine tumors invasiveness.",
-      "abstract": "Pituitary neuroendocrine tumors (PitNETs) are among the most prevalent intracranial tumors in adults. Although most follow an indolent clinical course, a substantial subset exhibits local invasion, which can limit gross total resection and increase the risk of residual disease and recurrence. Importantly, anatomical invasiveness should not be equated with clinical aggressiveness. Aggressive PitNETs may also exhibit a longitudinal pattern of repeated or multiple local recurrences and frequently require multiple therapeutic interventions. The 2022 Fifth Edition of the WHO Classification formally renamed pituitary adenomas to PitNETs and established a lineage classification framework centered on core transcription factors, including PIT1, TPIT, and SF1, thereby driving the transition from traditional pathological diagnosis to molecular subtyping. Driven by recent advances in high-throughput sequencing, liquid biopsy, and single-cell omics, numerous novel molecular biomarkers have emerged, enabling the early pre- and postoperative identification of invasive subpopulations. This review systematically outlines recent progress in multidimensional biomarkers-including DNA methylation, protein markers, non-coding RNAs, liquid biopsy indicators, and tumor microenvironmental features-to provide an updated synthesis of candidate biomarkers that may support future risk stratification and individualized management of invasive PitNETs.",
-      "journal": "Frontiers in endocrinology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "The First Clinical Medical College of Shanxi Medical University, Taiyuan, China.",
-        "Department of Neurosurgery, First Hospital of Shanxi Medical University, Taiyuan, Shanxi, China."
-      ],
-      "doi": "10.3389/fendo.2026.1907825",
-      "date": "2026-10-27",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43011832/"
     }
   ],
   "signals": [
     {
-      "id": "pubmed-43014286",
-      "date": "2026-11-11",
-      "title": "Advancing brain organoids from disease phenotypes to mechanisms and translation across developmental, infectious, and neurodegenerative diseases.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014286/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014286。",
-      "report": "Diseases of the central nervous system remain among the greatest unmet medical challenges. Human brain organoids provide 3D multicellular systems for investigating neurodevelopmental, infectious, and neurodegenerative diseases in a human cellular context. Cons...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43014285",
-      "date": "2026-11-11",
-      "title": "Neural organoid models of human brain evolution.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014285/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014285。",
-      "report": "The human brain has structural and functional differences to our closest living relatives, the other great apes. It is thought that these differences give rise to many of the traits we associate with being human, such as our prodigious capacity to learn and be...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43014284",
-      "date": "2026-11-11",
-      "title": "Brain organoids: Experimental access to human-specific brain development.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014284/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014284。",
-      "report": "Human cerebral cortical development includes species-divergent cellular programs and unusually prolonged trajectories that remain difficult to investigate experimentally. These processes support human-specific cognitive abilities and are thought to be associat...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43014283",
-      "date": "2026-11-11",
-      "title": "Toward functional oversight of neural organoid research: A report from the 2025 Asilomar Conference.",
+      "id": "pubmed-43018559",
+      "date": "2026-11-12",
+      "title": "Discovery of Anti-apoptotic BAX Inhibitors.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014283/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018559/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models"
+        "Advanced Disease Models",
+        "Drug Screening"
       ],
       "tags": [
         "类器官",
-        "疾病模型"
+        "疾病模型",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014283。",
-      "report": "In November 2025, an international multistakeholder group convened at Asilomar, California, to address oversight of rapidly advancing neural organoid and assembloid research. This process report documents the convening's design, outcomes, and lessons, and it a...",
+      "fact": "PubMed 记录显示该文献收录于 Journal of medicinal chemistry，PMID 为 43018559。",
+      "report": "BAX is a critical regulator of the apoptosis cascade and its abnormal activation contributes to the development of disease including cardiovascular and neurodegenerative disorders. Therefore, BAX represents an attractive target for the pharmacological inhibiti...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43014282",
+      "id": "pubmed-43015472",
       "date": "2026-11-11",
-      "title": "Cognitive evaluation of brain organoids and assembloids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014282/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43015472/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014282。",
-      "report": "The computational abilities of brain organoids and assembloids remain largely unexplored. We propose a hierarchy of assays grounded in cognitive neuroscience and probing representations, memory, and predictive processing, thus enabling causal tests of how arch...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43014281",
-      "date": "2026-11-11",
-      "title": "Unbundling the ethical and social issues in human neural organoid research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43014281/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Neuron，PMID 为 43014281。",
-      "report": "As human neural organoid research advances, some key concepts in its ethical analysis need to be unbundled to keep pace with scientific developments. These include interests involved in informed consent, distinct dimensions of consciousness and their implicati...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Nature，PMID 为 43015472。",
+      "report": "Breast cancer, the most diagnosed cancer among women, is stratified by gene expression patterns into luminal and basal-like subtypes, and the latter is associated with worse prognosis1-3. Recent advances in single-cell technologies have underscored the presenc...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -713,66 +646,6 @@
       "companyIds": [],
       "fact": "PubMed 记录显示该文献收录于 Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico，PMID 为 43013225。",
       "report": "Immune checkpoint inhibitors have transformed the management of melanoma, cutaneous squamous cell carcinoma (cSCC), Merkel cell carcinoma (MCC), basal cell carcinoma (BCC), and selected rare cutaneous malignancies, yet the clinical value of programmed death-li...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43013192",
-      "date": "2026-11-11",
-      "title": "Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis.",
-      "entity": "Biotech Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "General Biotech Research",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43013192/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Biotech",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "biotech",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of gastrointestinal cancer，PMID 为 43013192。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify po...",
-      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43012102",
-      "date": "2026-11-11",
-      "title": "Long-term economic benefits of early cancer detection through enhanced multimodal screening: a modeling study of whole-body MRI and liquid biopsy.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43012102/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of comparative effectiveness research，PMID 为 43012102。",
-      "report": "Aim: Cancer poses a substantial health and economic burden in the US Although early detection is associated with improved outcomes and lower treatment costs, many cancers are still diagnosed at advanced stages. Enhanced multimodal screening combining whole-bod...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -869,6 +742,70 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43017589",
+      "date": "2026-11-07",
+      "title": "Thermo-Responsive Injectable Hydrogels for Wound Repair: Mechanistic Insights, Material Engineering, and Multimodal Therapeutic Applications.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017589/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 43017589。",
+      "report": "Chronic non-healing wounds remain a major clinical challenge, affecting millions of patients worldwide and imposing substantial socioeconomic burdens. Thermo-responsive hydrogels have emerged as a highly promising class of smart biomaterials for wound healing...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43017522",
+      "date": "2026-11-02",
+      "title": "Human umbilical cord mesenchymal stem cell-derived small extracellular vesicles delivering CERS1 promote squamous differentiation in HPV16-positive cervical intraepithelial neoplasia via remodeling sphingomyelin metabolism.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017522/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 43017522。",
+      "report": "Cervical intraepithelial neoplasia (CIN), a precursor of human papillomavirus (HPV)-driven cervical cancer, poses a severe threat to women's health. High-risk HPV infection drives CIN progression, whereas well-defined intervention targets and effective non-inv...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42990453",
       "date": "2026-11-01",
       "title": "Single-cell perturbation prediction near experimental reproducibility with GENESIS.",
@@ -900,6 +837,116 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42990453。",
       "report": "Single-cell perturbation atlases now measure cellular responses across millions of cells, but the number of possible combinations of biological contexts, perturbations, doses and other experimental variables make exhaustive measurements infeasible. Here, we pr...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43017362",
+      "date": "2026-10-28",
+      "title": "Multiple myeloma bone disease models with integrated bone marrow adipose tissue for advancing personalized medicine.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017362/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in oncology，PMID 为 43017362。",
+      "report": "Multiple myeloma (MM) is an incurable hematological cancer of monoclonal plasma cells, where patients commonly develop osteolytic bone disease. The pathogenesis of myeloma is known to be strongly dependent on the bone marrow (BM) microenvironment, but despite...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43017032",
+      "date": "2026-10-28",
+      "title": "Human models for human diseases: how pluripotent stem cell derived brain organoids can help us understand and treat diffuse hemispheric glioma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017032/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 43017032。",
+      "report": "The precise orchestration of neurodevelopment and epigenetic regulation is essential for normal brain development with devastating consequences if disrupted, leading to neurological diseases and cancer. For diseases such as paediatric high grade gliomas (pHGG)...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43016964",
+      "date": "2026-10-28",
+      "title": "Artificial intelligence for Traditional Chinese Medicine classic formula development: a technology readiness assessment using metabolic syndrome as a case study.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016964/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Healthcare AI",
+        "Medical LLM",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "医疗 AI",
+        "临床决策支持",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 43016964。",
+      "report": "Traditional Chinese medicine (TCM) formulas, developed through millennia of clinical practice, represent a rich legacy of approximately 100,000 documented prescriptions (99,584 named formula entries in the second edition of the Dictionary of Traditional Chines...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Diagnostics & Precision Medicine, Clinical Evidence, Medical AI。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -977,38 +1024,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43011832",
-      "date": "2026-10-27",
-      "title": "From histopathology to molecular taxonomy: predicting pituitary neuroendocrine tumors invasiveness.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43011832/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in endocrinology，PMID 为 43011832。",
-      "report": "Pituitary neuroendocrine tumors (PitNETs) are among the most prevalent intracranial tumors in adults. Although most follow an indolent clinical course, a substantial subset exhibits local invasion, which can limit gross total resection and increase the risk of...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-42990227",
       "date": "2026-10-26",
       "title": "Prediction transfer does not imply reliability transfer in single-cell foundation models.",
@@ -1038,66 +1053,6 @@
       "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42990227。",
       "report": "Single-cell foundation models are increasingly transferred across tissues, diseases, perturbation screens, and experimental platforms. Although substantial effort has focused on prediction transfer, it remains unclear whether a model's assessment of its own re...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42995841",
-      "date": "2026-10-22",
-      "title": "MYC targeted de novo binders impair tumor growth.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995841/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42995841。",
-      "report": "MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design prot...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-42995874",
-      "date": "2026-10-20",
-      "title": "Reliable and Efficient Agentic Protein Design with Toolset Harnessing.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995874/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 42995874。",
-      "report": "Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffus...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1216,6 +1171,135 @@
       "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 43003839。",
       "report": "The rise of multidrug-resistant bacterial infections necessitates the discovery of novel antimicrobial strategies. Here, we show that protein design provides a generalizable means of generating new antimicrobials by neutralizing the function of bacterial adhes...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43016801",
+      "date": "2026-10-05",
+      "title": "Protein engineering in Brazil: a biophysical perspective.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016801/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech"
+      ],
+      "tags": [
+        "biotech"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biophysical reviews，PMID 为 43016801。",
+      "report": "Protein engineering has become an increasingly interdisciplinary field, integrating molecular biology, structural biology, biophysics, computational modeling, and artificial intelligence to modify protein structure, stability, dynamics, molecular recognition,...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43016668",
+      "date": "2026-10-02",
+      "title": "Evolutionary divergence of uric acid catabolic enzymes: structure-function constraints and genomic innovations across taxa.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43016668/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成",
+        "临床",
+        "监管",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biophysical reviews，PMID 为 43016668。",
+      "report": "Uric acid degradation is a model for understanding how gene duplication, loss, and functional divergence drive metabolic evolution. In hominoids and uricotelic animals, uric acid is the terminal purine catabolite, whereas most other taxa further degrade it to...",
+      "inference": "自动分类命中规则：AI-enabled Discovery, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43015759",
+      "date": "2026-08-17",
+      "title": "Tetrahedral DNA nanostructure-gated solution-phase CRISPR/Cas12a system for probe immobilization-free, reagent-efficient, and dual-phase electrochemical detection of circulating microRNAs in liquid biopsy.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43015759/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43015759。",
+      "report": "Liquid-biopsy nucleic acid biomarkers hold strong promise for non-invasive cancer diagnostics, yet their ultralow abundance presents substantial analytical challenges. Conventional electrochemical biosensors rely on complex probe immobilization, whereas emergi...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43017793",
+      "date": "2026-01-01",
+      "title": "Recent Advancements in Diagnosis and Targeted Therapy of Pancreatic Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43017793/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Anti-cancer agents in medicinal chemistry，PMID 为 43017793。",
+      "report": "Pancreatic Cancer (PC) is an exceptionally belligerent and lethal malignancy owing to failure in prognosis and limited existing therapies. Pancreatic Ductal Adenocarcinoma (PDAC) mostly originates from ductal cells, with a survival rate of less than 5 years. T...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
