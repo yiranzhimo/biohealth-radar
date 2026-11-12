@@ -5456,13 +5456,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-alnylam-investor_relations-15f1a46f254b",
+      "id": "evidence-company-alnylam-investor_relations-d97ab41a2aa2",
       "signalId": null,
       "companyIds": [
         "alnylam"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Information and Resources for Investors | Alnylam",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -5480,7 +5480,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 15f1a46f254bb84f5fc53584818b1e70a3add4cdcb1807a6c0e3dd454f57c2b6.",
+      "fact": "The official page was captured with normalized-content hash d97ab41a2aa2070604b245225c75277a1e7a7ce5750bdcda990b4842eb4f36c0.",
       "report": "公司官方页面表述：投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
       "reportOriginal": "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
       "reportCn": "投资者关系网站包含Alnylam Pharmaceuticals, Inc.的业务信息，供股东、潜在投资者和金融分析师使用。",
@@ -5493,13 +5493,13 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "15f1a46f254bb84f5fc53584818b1e70a3add4cdcb1807a6c0e3dd454f57c2b6",
+      "contentHash": "d97ab41a2aa2070604b245225c75277a1e7a7ce5750bdcda990b4842eb4f36c0",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Investor Relations website contains information about Alnylam Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+        "Alnylam Collaborator Regeneron Advances CIDEBsiRNA with Promising First-in-Human Results in Patients with MASLD",
         "Alnylam Announces $1 Billion Share Repurchase Program and Change in Commercial Leadership",
-        "Alnylam to Present Five-Year HELIOS-B Data and Expanding Evidence on the Benefits of RNAi-Powered TTR Silencing with AMVUTTRA® (vutrisiran) at AHA and ISA 2026",
         "Alnylam Pharmaceuticals Q3 2026 Earnings Conference Call"
       ],
       "businessExcerpts": [
@@ -5579,7 +5579,7 @@
       "publishedAt": "2026-11-05",
       "snapshotDate": "2026-11-05",
       "title": "Product Development Pipeline | Alnylam",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Alnylam Pharmaceuticals — Pipeline Page",
@@ -5609,7 +5609,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "ae8a015ceacbff89e2f50e03b84157cadb8b97b9909b45fa3bf0b571862544f1",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Alnylam’s pipeline of investigation RNAi therapeutics is focused on TTR Amyloidosis, cardiovascular, metabolic, neuroscience, hematology, rare and other diseases.",
@@ -5928,15 +5928,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-arvinas-official-1ae90e36b16f",
+      "id": "evidence-company-arvinas-official-d2ad6ed217c0",
       "signalId": null,
       "companyIds": [
         "arvinas"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -5952,7 +5952,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 1ae90e36b16f28b0cbb261fb7a4b9bc1f8e352003710d058a75283f1f5808808.",
+      "fact": "The official page was captured with normalized-content hash d2ad6ed217c0fec03807c10579bff471e20fe5afef5c7c62fc46431ee27d8f9d.",
       "report": "公司官方页面表述：Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
       "reportOriginal": "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
       "reportCn": "Arvinas 是一家临床阶段的生物技术公司，在靶向蛋白降解治疗领域处于领先地位。",
@@ -5965,14 +5965,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "1ae90e36b16f28b0cbb261fb7a4b9bc1f8e352003710d058a75283f1f5808808",
-      "changeType": "unchanged",
+      "contentHash": "d2ad6ed217c0fec03807c10579bff471e20fe5afef5c7c62fc46431ee27d8f9d",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
         "We are a biotechnology company that developed the first FDA-approved PROTAC, a type of heterobifunctional protein degrader therapy, and are advancing targeted protein degradation therapeutics in neurology and oncology.",
         "With multiple products in development, we are exploring how PROTAC protein degraders bridge our preclinical platform into the clinic.",
-        "Arvinas Announces Return of Early Career Researcher Award to Recognize Innovation in Targeted Protein Degradation"
+        "Our Mission is to improve the lives of patients with serious diseases by pioneering therapies created with our revolutionary PROTAC protein degradation platform."
       ],
       "businessExcerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -5997,7 +5997,7 @@
       "publishedAt": "2026-11-05",
       "snapshotDate": "2026-11-05",
       "title": "Pipeline | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Pipeline Page",
@@ -6027,7 +6027,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "f3abb305f2290fed3365d67a5177ba0d165d47f219b2d49ef823195d0029a1d1",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas' pipeline of PROTAC degraders are designed to harness the body’s own natural protein disposal system.",
@@ -6381,15 +6381,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-beone-medicines-pipeline-cad9773572ea",
+      "id": "evidence-company-beone-medicines-pipeline-e7519c912ace",
       "signalId": null,
       "companyIds": [
         "beone-medicines"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Oncology Pipeline and Clinical Development | BeOne Medicines",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "BeOne Medicines — Pipeline Page",
@@ -6405,7 +6405,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash cad9773572ea11b7f698057e7827f79b0e87d64a688eb2287619e943f7169984.",
+      "fact": "The official page was captured with normalized-content hash e7519c912ace0698a51e13b2719a6499a92b132c2927f16829c95e1bd7337f66.",
       "report": "公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
       "reportOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
       "reportCn": "探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
@@ -6418,23 +6418,23 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "cad9773572ea11b7f698057e7827f79b0e87d64a688eb2287619e943f7169984",
-      "changeType": "unchanged",
+      "contentHash": "e7519c912ace0698a51e13b2719a6499a92b132c2927f16829c95e1bd7337f66",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
         "Tislelizumab is a uniquely designed humanized immunoglobulin G4 (IgG4) anti-programmed cell death protein 1 (PD-1) monoclonal antibody with high affinity and binding specificity against PD-1.",
-        "These designs establish BGB-B455 as a promising therapeutic candidate, offering a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-        "Amgen collaboration; BeOne has development and commercialization rights in China."
+        "These designs establish BGB-B455 as a promising therapeutic candidate, offering potential for a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
+        "Emerging preclinical evidence supports KAT6 inhibition as a promising therapeutic strategy in AML."
       ],
       "businessExcerpts": [
         "We are developing potential treatments for cancers with the highest unmet need through a broad and deep oncology pipeline."
       ],
       "productExcerpts": [
         "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
-        "These designs establish BGB-B455 as a promising therapeutic candidate, offering a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-        "We are developing potential treatments for cancers with the highest unmet need through a broad and deep oncology pipeline.",
-        "The combination of BGB-21447 with endocrine therapy (ET)± a selective CDK4i is hypothesized to have therapeutic potential for meaningful clinical benefit in patients with HR+/HER2- BC."
+        "These designs establish BGB-B455 as a promising therapeutic candidate, offering potential for a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
+        "Emerging preclinical evidence supports KAT6 inhibition as a promising therapeutic strategy in AML.",
+        "BON-C1393 is a bispecific antibody-drug conjugate (ADC) targeting B7-H3 (CD276) and integrin beta-6 (ITGB6), two tumor-associated antigens frequently overexpressed in lung cancer and other solid tumors."
       ],
       "planExcerpts": []
     },
@@ -17356,7 +17356,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -23571,6 +23571,62 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
       "changeType": "unchanged",
+      "lastCheckStatus": "success",
+      "excerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "businessExcerpts": [
+        "This company's Exchange Act registration has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+        "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+        "No 8-K filing data for this company in last days"
+      ],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
+      "id": "evidence-company-candidate-cerenome-official-c644ef580088",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cerenome"
+      ],
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
+      "title": "EDGAR Entity Landing Page",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cerenome, Inc. — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001095981",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56.",
+      "report": "公司官方页面表述：该公司的交易法注册已被撤销",
+      "reportOriginal": "This company's Exchange Act registration has been revoked",
+      "reportCn": "该公司的交易法注册已被撤销",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-16T05:03:27+00:00",
+        "sourceTextHash": "92c3fd51c55f3fedbdda36081e002f7fe4734d8fd0cbdd03142df7450929811c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
+      "changeType": "new",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -48096,7 +48152,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c644ef5800889c16ce5a108d1d3410762d0b2b5e9b236f74a57b56b8bab3ff56",
-      "changeType": "new",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "This company's Exchange Act registration has been revoked",
@@ -48955,7 +49011,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "Home | CRISPR Therapeutics",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "CRISPR Therapeutics — Official Website",
@@ -48985,7 +49041,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8243b33a01de38b12eb61b3cb56e85ac349a92f39233299a94bc0c5ed0aa748c",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "CASGEVY™ (exagamglogene autotemcel), a CRISPR/Cas9 gene-edited therapy arising out of our collaboration with Vertex Pharmaceuticals Incorporated, is approved in some countries for certain eligible patients with sickle cell disease or transfusion-dependent beta thalassemia.",
@@ -49218,15 +49274,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-guardant-health-investor_relations-f157425f10df",
+      "id": "evidence-company-guardant-health-investor_relations-b2a8b3cca2e8",
       "signalId": null,
       "companyIds": [
         "guardant-health"
       ],
-      "publishedAt": "2026-10-29",
-      "snapshotDate": "2026-10-29",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "For Investors | Guardant Health Investor Relations",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Investor Relations Page",
@@ -49242,7 +49298,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash f157425f10df69f5aef4c0891e61e4ab4567dfab8f45212997222a0daef48e72.",
+      "fact": "The official page was captured with normalized-content hash b2a8b3cca2e8a4a58723af157eb7b35bb653c784d8f228d40d20ad2fc7fb3e51.",
       "report": "公司官方页面表述：通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。",
       "reportOriginal": "Stay informed with Guardant Health's Investor Relations. Access financial reports, upcoming events, and key updates on our mission.",
       "reportCn": "通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。",
@@ -49255,8 +49311,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f157425f10df69f5aef4c0891e61e4ab4567dfab8f45212997222a0daef48e72",
-      "changeType": "unchanged",
+      "contentHash": "b2a8b3cca2e8a4a58723af157eb7b35bb653c784d8f228d40d20ad2fc7fb3e51",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Stay informed with Guardant Health's Investor Relations.",
@@ -49440,15 +49496,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-illumina-official-da8b8309381f",
+      "id": "evidence-company-illumina-official-9d8f40c61105",
       "signalId": null,
       "companyIds": [
         "illumina"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -49464,7 +49520,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash da8b8309381fc76bc0cc440ad278cc0d47b37a35ba06f78704425b00fde273b6.",
+      "fact": "The official page was captured with normalized-content hash 9d8f40c61105d465d6dd7d94e9fd12b76091d57d91eec97d32139c8c01a1464e.",
       "report": "公司官方页面表述：Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
       "reportOriginal": "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
       "reportCn": "Illumina的测序和阵列技术推动生命科学研究、转化及消费者基因组学和分子诊断的进展。",
@@ -49477,13 +49533,13 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "da8b8309381fc76bc0cc440ad278cc0d47b37a35ba06f78704425b00fde273b6",
-      "changeType": "unchanged",
+      "contentHash": "9d8f40c61105d465d6dd7d94e9fd12b76091d57d91eec97d32139c8c01a1464e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
         "Doing Business With Us MyIllumina Platform",
-        "See how you can connect the insights from your research with greater clarity using the Illumina Bioinsight platform",
+        "See how you can connect the insights from your research with greater clarity using the Illumina Bioinsight Platform",
         "Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics."
       ],
       "businessExcerpts": [
@@ -49494,7 +49550,7 @@
       ],
       "productExcerpts": [
         "Doing Business With Us MyIllumina Platform",
-        "See how you can connect the insights from your research with greater clarity using the Illumina Bioinsight platform",
+        "See how you can connect the insights from your research with greater clarity using the Illumina Bioinsight Platform",
         "Software & Analysis Illumina BioInsight Platform",
         "One platform for complete biological insights"
       ],
@@ -49731,7 +49787,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "Intellia Therapeutics - Revolutionize the course of medicine",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Intellia Therapeutics — Official Website",
@@ -49761,7 +49817,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "5f6b28ebe36d83d8a1fb3cfac77dfc405c37ee9f1e1929e3d9077679c5315f66",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Intellia Therapeutics, a leading clinical-stage genome editing company, is developing novel, potentially curative therapeutics leveraging CRISPR-based technologies.",
@@ -49781,15 +49837,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-intellia-pipeline-bbcfc2db2053",
+      "id": "evidence-company-intellia-pipeline-814e67af18cf",
       "signalId": null,
       "companyIds": [
         "intellia"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Our Pipeline - Intellia Therapeutics",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Intellia Therapeutics — Pipeline Page",
@@ -49805,7 +49861,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash bbcfc2db2053f88e06e5f37bb04299199f4d882298fc785c39c30a4442cb50c9.",
+      "fact": "The official page was captured with normalized-content hash 814e67af18cff2f66b671ecc1aa80cd40f0f651c3f5e472f534bc547843e834e.",
       "report": "公司官方页面表述：Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
       "reportOriginal": "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
       "reportCn": "Intellia正在建立一个体内和体外疗法的管道，并继续开发创新的模块化平台能力。",
@@ -49818,8 +49874,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "bbcfc2db2053f88e06e5f37bb04299199f4d882298fc785c39c30a4442cb50c9",
-      "changeType": "unchanged",
+      "contentHash": "814e67af18cff2f66b671ecc1aa80cd40f0f651c3f5e472f534bc547843e834e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Intellia is building a pipeline of in vivo and ex vivo therapies, as well as continuing to develop innovative modular platform capabilities.",
@@ -49847,7 +49903,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -49877,7 +49933,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "c99dbfa83db3c2b9fdabe0de0904a9a844b0b14b918284dda92150631caa0834",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
@@ -49896,15 +49952,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-pipeline-3987692c42b2",
+      "id": "evidence-company-ionis-pipeline-fbb44deefd9f",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Our Pipeline of RNA-Targeted Medicines | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Pipeline Page",
@@ -49920,7 +49976,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 3987692c42b2cd94b70f1fb2eeb6ab1588653255494edd2e6eee59a749abb7c1.",
+      "fact": "The official page was captured with normalized-content hash fbb44deefd9fbc0842296a549239f65fc018accb4c22960fdaef304b6b4ebf31.",
       "report": "公司官方页面表述：点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
       "reportOriginal": "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
       "reportCn": "点击这里探索我们广泛的 RNA 靶向药物管线，包括神经系统、心脏病和罕见疾病领域的突破性治疗。",
@@ -49933,8 +49989,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "3987692c42b2cd94b70f1fb2eeb6ab1588653255494edd2e6eee59a749abb7c1",
-      "changeType": "unchanged",
+      "contentHash": "fbb44deefd9fbc0842296a549239f65fc018accb4c22960fdaef304b6b4ebf31",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Click here to explore our extensive pipeline of RNA-targeted medicines, including groundbreaking treatments in neurology, cardiology and rare diseases.",
@@ -50013,7 +50069,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "HOME - Legend Biotech",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Legend Biotech — Official Website",
@@ -50043,7 +50099,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "0054baacfab7770fe590b218a75e223776ce15d2809dccfd7ab28a2768ad87f6",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies.",
@@ -50340,15 +50396,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-moderna-pipeline-0a111596e2a2",
+      "id": "evidence-company-moderna-pipeline-a55d2060f5cb",
       "signalId": null,
       "companyIds": [
         "moderna"
       ],
-      "publishedAt": "2026-08-18",
-      "snapshotDate": "2026-08-18",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "mRNA medicines we are currently developing",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Pipeline Page",
@@ -50364,7 +50420,7 @@
         "Official Source",
         "Pipeline Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 0a111596e2a2cc51d09ce6673c0009871b33b24d2e5b502e43ca519c198bae6d.",
+      "fact": "The official page was captured with normalized-content hash a55d2060f5cba6a99cc40c0b3653e28fb6106e61713d1d23d65ce8bf5e57c90e.",
       "report": "公司官方页面表述：追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。",
       "reportOriginal": "Track the development of Moderna’s mRNA medicines. From preclinical development to commercial phase.",
       "reportCn": "追踪 Moderna 的 mRNA 药物从临床前开发到商业化阶段的进展。",
@@ -50377,8 +50433,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "0a111596e2a2cc51d09ce6673c0009871b33b24d2e5b502e43ca519c198bae6d",
-      "changeType": "unchanged",
+      "contentHash": "a55d2060f5cba6a99cc40c0b3653e28fb6106e61713d1d23d65ce8bf5e57c90e",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Our mRNA pipeline shows the progress we’re making on clinical programs currently in development to create mRNA medicines for a wide range of diseases and conditions.",
@@ -50393,15 +50449,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-investor_relations-57a971bfd0f7",
+      "id": "evidence-company-natera-investor_relations-e33bfd4d8a9f",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-08-10",
-      "snapshotDate": "2026-08-10",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Natera, Inc. | Investor Relations",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Investor Relations Page",
@@ -50417,7 +50473,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash 57a971bfd0f7d03e00336752c98909bd7b2bfbc2837dcd18fbd7a27cd6c28e57.",
+      "fact": "The official page was captured with normalized-content hash e33bfd4d8a9fd2c7352580d4bb28124c63d17fad7b5d811490692f71d4cc57ee.",
       "report": "公司官方页面表述：Natera™是全球无细胞DNA（cfDNA）检测的领导者，专注于女性健康、肿瘤学和器官健康。",
       "reportOriginal": "Natera™ is a global leader in cell-free DNA (cfDNA) testing with a focus on women’s health, oncology, and organ health.",
       "reportCn": "Natera™是全球无细胞DNA（cfDNA）检测的领导者，专注于女性健康、肿瘤学和器官健康。",
@@ -50430,8 +50486,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "57a971bfd0f7d03e00336752c98909bd7b2bfbc2837dcd18fbd7a27cd6c28e57",
-      "changeType": "unchanged",
+      "contentHash": "e33bfd4d8a9fd2c7352580d4bb28124c63d17fad7b5d811490692f71d4cc57ee",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera™ is a global leader in cell-free DNA (cfDNA) testing with a focus on women’s health, oncology, and organ health.",
@@ -50457,7 +50513,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "Natera: A global leader in cell-free DNA testing",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Natera — Official Website",
@@ -50487,7 +50543,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "a762fbe3bed1230511ccb807698148f2a05ed90085c1de947c438b926ef9b51e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
@@ -50557,13 +50613,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nurix-official-87818be491b0",
+      "id": "evidence-company-nurix-official-8dad784506cf",
       "signalId": null,
       "companyIds": [
         "nurix"
       ],
-      "publishedAt": "2026-11-11",
-      "snapshotDate": "2026-11-11",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Nurix | Medicines to Outmatch Disease",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -50581,7 +50637,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 87818be491b05bf92bdcc336ca6fbd82b3f11050881822b9f1101daec7d00226.",
+      "fact": "The official page was captured with normalized-content hash 8dad784506cffa5febb50ca37843a7503523edcd6f981c5da90da1aca65e559b.",
       "report": "公司官方页面表述：探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
       "reportOriginal": "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
       "reportCn": "探索 Nurix Therapeutic 的靶向蛋白降解平台，结合降解剂和 DACs 来改变癌症和自身免疫病的治疗。",
@@ -50594,14 +50650,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "87818be491b05bf92bdcc336ca6fbd82b3f11050881822b9f1101daec7d00226",
+      "contentHash": "8dad784506cffa5febb50ca37843a7503523edcd6f981c5da90da1aca65e559b",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
-        "Nurix Therapeutics Announces Sanofi’s Decision to Discontinue Development of STAT6 Degrader SAR448272",
         "Nurix is writing medicine’s next chapter using targeted protein degradation as a new script to outmatch disease.",
-        "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery."
+        "Our degraders are designed to eliminate disease-causing proteins by harnessing the cell’s natural protein degradation machinery.",
+        "Nurix Therapeutics to Participate in Upcoming Investor Conferences"
       ],
       "businessExcerpts": [
         "We are translating the science of degradation into clinical progress, advancing a multi-modal pipeline that targets a broad range of diseases in oncology, immunology, and neurology."
@@ -50623,7 +50679,7 @@
       "publishedAt": "2026-11-05",
       "snapshotDate": "2026-11-05",
       "title": "Nurix Pipeline | The Power of TPD to Outmatch Disease",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Pipeline Page",
@@ -50653,7 +50709,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "cd1af4e70b833bbf5b0d33b0f53b88de7d6c8fd1d83f58149bbe86a5ce1ff522",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Nurix is translating the science of targeted protein degradation into candidates with the potential to become breakthrough therapies.",
@@ -51070,7 +51126,7 @@
       "publishedAt": "2026-11-05",
       "snapshotDate": "2026-11-05",
       "title": "Recursion's Drug Discovery Pipeline | Recursion",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Recursion Pharmaceuticals — Pipeline Page",
@@ -51100,7 +51156,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "2ca97f10cd01f57ae7b75669d2d8708ce631834309bf6579985b36382c11c424",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "We’re building a pipeline of differentiated, potential best-in-class and first-in-class medicines, by leveraging the power of our AI-driven drug discovery and development platform.",
@@ -51233,13 +51289,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-sumitomo-pharma-investor_relations-f0092b5201e4",
+      "id": "evidence-company-sumitomo-pharma-investor_relations-976c00c97d5c",
       "signalId": null,
       "companyIds": [
         "sumitomo-pharma"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-12",
+      "snapshotDate": "2026-11-12",
       "title": "Investor Relations (Security Code :4506 TSE Prime) | Sumitomo Pharma",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -51257,7 +51313,7 @@
         "Official Source",
         "Investor Relations Page"
       ],
-      "fact": "The official page was captured with normalized-content hash f0092b5201e453d7081611242d42c544b0d93aec314fe75d0c0eb319b5f7de50.",
+      "fact": "The official page was captured with normalized-content hash 976c00c97d5c45fdf8b0178b875602e2283c833b0a4e101a35bd6d53daf26981.",
       "report": "公司官方页面表述：为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
       "reportOriginal": "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
       "reportCn": "为住友制药的股东和投资者提供信息，如董事长致辞、投资者关系资料库，以及关于股份和股东的信息。",
@@ -51270,17 +51326,18 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "f0092b5201e453d7081611242d42c544b0d93aec314fe75d0c0eb319b5f7de50",
+      "contentHash": "976c00c97d5c45fdf8b0178b875602e2283c833b0a4e101a35bd6d53daf26981",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
         "To this end , Sumitomo Pharma is pursuing Sustainability Management through a variety of initiatives, including the development of innovative products and healthcare solutions, and contribution to the development of science.",
         "Information for Sumitomo Pharma's shareholders and investors, such as the Message from the President, IR Library, and information regarding shares and shareholders.",
-        "Sumitomo Pharma America to Present New Clinical Data on Enzomenib and Nuvisertib at the 2026 American Society of Hematology Annual Meeting（PDF/164KB）"
+        "Sumitomo Pharma America to Present New Clinical Data on Enzomenib and Nuvisertib at the 2026 American Society of Hematology Annual Meeting（PDF/169KB）"
       ],
       "businessExcerpts": [
-        "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management."
+        "Sumitomo Pharma defines the practice of its Mission, “To broadly contribute to society through value creation based on innovative research and development activities for the betterment of healthcare and fuller lives of people worldwide,” as Sustainability Management.",
+        "Notice Regarding the Execution of Definitive Agreement for the Succession of the GMP-Compliant Cell Processing CDMO Business by S-RACMO"
       ],
       "productExcerpts": [
         "External Evaluation of Our Sustainability Program"
@@ -51296,7 +51353,7 @@
       "publishedAt": "2026-11-11",
       "snapshotDate": "2026-11-11",
       "title": "Sumitomo Pharma Co., Ltd.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Sumitomo Pharma — Official Website",
@@ -51326,7 +51383,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "543c50bb0780891e2efe99dce414556a4ac07632bea7a5522eb63f8755631c0e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Focus on Japan, which has the pharmaceutical business platform including drug discovery research, and the US, the largest market.",
@@ -51355,7 +51412,7 @@
       "publishedAt": "2026-11-05",
       "snapshotDate": "2026-11-05",
       "title": "Investor Relations | Tempus AI, Inc.",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Tempus AI — Investor Relations Page",
@@ -51385,7 +51442,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9ebdba60dc3e3bd698c8fbceae16ca5420c4b807d715ba677534ea448cf2b3a1",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Tempus is a technology company advancing precision medicine through the practical application of artificial intelligence, including generative AI, in healthcare to create Intelligent Diagnostics.",
