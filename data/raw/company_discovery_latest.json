@@ -1,17 +1,16 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-13T11:01:45+00:00",
+  "capturedAt": "2026-11-13T19:48:24.751357+00:00",
   "summary": {
-    "mentionCount": 661,
-    "candidateCount": 592,
+    "mentionCount": 658,
+    "candidateCount": 589,
     "corroboratedCount": 3,
     "identifiedCount": 586,
-    "needsReviewCount": 3,
+    "needsReviewCount": 0,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -19,78 +18,6 @@
     }
   },
   "mentions": [
-    {
-      "id": "mention-clinicaltrials-2bb085d93f2c1c71",
-      "observedName": "Astellas Pharma Inc",
-      "normalizedName": "astellas pharma",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT04184882",
-      "sourceDate": "2024-10-22",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT04184882",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Study to Assess the Safety, Tolerability and Preliminary Efficacy of ASP0367 (MA-0211) in Pediatric Male Participants With Duchenne Muscular Dystrophy (DMD)"
-    },
-    {
-      "id": "mention-clinicaltrials-6956c7535e35df6e",
-      "observedName": "Tasly Pharmaceutical Group Co., Ltd",
-      "normalizedName": "tasly pharmaceutical group",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT07318818",
-      "sourceDate": "2026-02-18",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07318818",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Cell Therapy",
-        "Clinical Trials",
-        "Oncology",
-        "Recruiting",
-        "中国",
-        "临床试验",
-        "细胞治疗",
-        "肿瘤"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "phased_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "A Clinical Trial of P134 Cells in Recurrent Glioblastoma"
-    },
-    {
-      "id": "mention-clinicaltrials-6c9f5a5b87e9d6c4",
-      "observedName": "Verifomics LLC",
-      "normalizedName": "verifomics",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "lead_sponsor",
-      "sourceRecordId": "NCT02758990",
-      "sourceDate": "2017-10-02",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT02758990",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "trial_intervention"
-      ],
-      "contextTitle": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application"
-    },
     {
       "id": "mention-csi-08169a02bbcfe599",
       "observedName": "BrightGene Bio-Medical Technology Co., Ltd.",
@@ -43848,162 +43775,6 @@
           "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001836564&owner=exclude&hidefilings=0",
           "externalId": "0001836564",
           "contextTitle": "Biological Products, Except Diagnostic Substances"
-        }
-      ]
-    },
-    {
-      "id": "candidate-astellas-pharma",
-      "name": "Astellas Pharma Inc",
-      "aliases": [
-        "Astellas Pharma Inc"
-      ],
-      "normalizedName": "astellas pharma",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2024-10-22",
-      "lastSeenAt": "2024-10-22",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-2bb085d93f2c1c71"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2024-10-22",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT04184882",
-          "externalId": "NCT04184882",
-          "contextTitle": "A Study to Assess the Safety, Tolerability and Preliminary Efficacy of ASP0367 (MA-0211) in Pediatric Male Participants With Duchenne Muscular Dystrophy (DMD)"
-        }
-      ]
-    },
-    {
-      "id": "candidate-tasly-pharmaceutical-group",
-      "name": "Tasly Pharmaceutical Group Co., Ltd",
-      "aliases": [
-        "Tasly Pharmaceutical Group Co., Ltd"
-      ],
-      "normalizedName": "tasly pharmaceutical group",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2026-02-18",
-      "lastSeenAt": "2026-02-18",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "themes": [
-          "Cell Therapy",
-          "Clinical Trials",
-          "Oncology",
-          "Recruiting",
-          "中国",
-          "临床试验",
-          "细胞治疗",
-          "肿瘤"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-6956c7535e35df6e"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2026-02-18",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07318818",
-          "externalId": "NCT07318818",
-          "contextTitle": "A Clinical Trial of P134 Cells in Recurrent Glioblastoma"
-        }
-      ]
-    },
-    {
-      "id": "candidate-verifomics",
-      "name": "Verifomics LLC",
-      "aliases": [
-        "Verifomics LLC"
-      ],
-      "normalizedName": "verifomics",
-      "status": "needs_review",
-      "candidateType": "Biotech Company",
-      "discoveryScore": 0.86,
-      "autoPromotionEligible": false,
-      "firstSeenAt": "2017-10-02",
-      "lastSeenAt": "2017-10-02",
-      "identifiers": {},
-      "classificationHints": {
-        "directions": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "themes": [
-          "Clinical Trials",
-          "临床试验"
-        ],
-        "tags": []
-      },
-      "discoveryReasons": [
-        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
-      ],
-      "sourceTypes": [
-        "ClinicalTrials"
-      ],
-      "sourceCount": 1,
-      "mentionCount": 1,
-      "mentionIds": [
-        "mention-clinicaltrials-6c9f5a5b87e9d6c4"
-      ],
-      "sources": [
-        {
-          "sourceType": "ClinicalTrials",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceRole": "lead_sponsor",
-          "sourceDate": "2017-10-02",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT02758990",
-          "externalId": "NCT02758990",
-          "contextTitle": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application"
         }
       ]
     },
