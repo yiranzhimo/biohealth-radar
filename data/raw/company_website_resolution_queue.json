@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-12T11:18:31+00:00",
+  "capturedAt": "2026-11-13T11:04:03+00:00",
   "count": 589,
   "items": [
     {
@@ -662,6 +662,23 @@
         ],
         "ticker": [
           "AEON"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-aethlon-medical",
+      "name": "Aethlon Medical Inc",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882291",
+      "identifiers": {
+        "cik": [
+          "0000882291"
+        ],
+        "ticker": [
+          "AEMD"
         ]
       },
       "sourceTypes": [
@@ -4353,23 +4370,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-cns-pharmaceuticals",
-      "name": "CNS Pharmaceuticals, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001729427",
-      "identifiers": {
-        "cik": [
-          "0001729427"
-        ],
-        "ticker": [
-          "CNSP"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-cognition-therapeutics",
       "name": "Cognition Therapeutics Inc",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001455365",
@@ -7828,13 +7828,7 @@
         ]
       },
       "sourceTypes": [
-        "Biological Products, Except Diagnostic Substances",
-        "Clinical Trials",
-        "Gene Therapy",
-        "Genetic Medicine",
-        "临床试验",
-        "基因治疗",
-        "基因编辑"
+        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
