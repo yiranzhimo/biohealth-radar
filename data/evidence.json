@@ -5427,15 +5427,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-a544d39b59ef",
+      "id": "evidence-company-akeso-official-786e7f4bdfec",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -5451,7 +5451,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a544d39b59efd2923d2a2ce38ee604495c62c80b386137f2656bc412a9b781a2.",
+      "fact": "The official page was captured with normalized-content hash 786e7f4bdfecbe7ec8560aecd1abd80b99cccd7761426ef4b6d103dd34af0d3a.",
       "report": "公司官方页面表述：艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
       "reportOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
       "reportCn": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
@@ -5464,12 +5464,12 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a544d39b59efd2923d2a2ce38ee604495c62c80b386137f2656bc412a9b781a2",
-      "changeType": "unchanged",
+      "contentHash": "786e7f4bdfecbe7ec8560aecd1abd80b99cccd7761426ef4b6d103dd34af0d3a",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
-        "Founded in 2012, Akeso has built a comprehensive R&D innovation ecosystem anchored by its proprietary Tetrabody antibody technology platform, AI-powered drug R&D platform, Dual-Shield ADC technology platform, Dual-Lock T-cell engager (TCE) technology platform, Tissue-Smart…",
+        "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
         "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
         "We focuse on major disease areas such as oncology, autoimmune diseases, inflammation, metabolic diseases and neurodegenerative diseases, with robust R&D capabilities and remarkable innovative achievements"
       ],
@@ -5477,7 +5477,7 @@
         "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines."
       ],
       "productExcerpts": [
-        "Founded in 2012, Akeso has built a comprehensive R&D innovation ecosystem anchored by its proprietary Tetrabody antibody technology platform, AI-powered drug R&D platform, Dual-Shield ADC technology platform, Dual-Lock T-cell engager (TCE) technology platform, Tissue-Smart…"
+        "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…"
       ],
       "planExcerpts": []
     },
@@ -5962,7 +5962,7 @@
       "publishedAt": "2026-11-12",
       "snapshotDate": "2026-11-12",
       "title": "Targeted Protein Degradation Therapeutics | Arvinas",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Arvinas — Official Website",
@@ -5992,7 +5992,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "d2ad6ed217c0fec03807c10579bff471e20fe5afef5c7c62fc46431ee27d8f9d",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Arvinas is a clinical-stage biotechnology company leading the way in targeted protein degradation therapeutics.",
@@ -8506,13 +8506,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-ab-and-b-bio-tech-official-a1f73be98dea",
+      "id": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-ab-and-b-bio-tech"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -8530,7 +8530,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -8543,7 +8543,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -11346,13 +11346,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-airdoc-official-a1f73be98dea",
+      "id": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-airdoc"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -11370,7 +11370,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -11383,7 +11383,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -17456,13 +17456,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-b-and-k-official-0ab7efff612c",
+      "id": "evidence-company-candidate-b-and-k-official-a4d4139146af",
       "signalId": null,
       "companyIds": [
         "candidate-b-and-k"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -17480,7 +17480,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 0ab7efff612c72772f72cd8f9f64d3325bc9a43bcc938d48c4a5c65a55f7a500.",
+      "fact": "The official page was captured with normalized-content hash a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -17493,7 +17493,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "0ab7efff612c72772f72cd8f9f64d3325bc9a43bcc938d48c4a5c65a55f7a500",
+      "contentHash": "a4d4139146af41c08bfd358dfda7366a7b6960a5e1e632925ac3b77ac3cf95ed",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -21344,13 +21344,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-brii-official-a1f73be98dea",
+      "id": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-brii"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -21368,7 +21368,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -21381,7 +21381,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -22158,13 +22158,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-canbridge-official-a1f73be98dea",
+      "id": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-canbridge"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -22182,7 +22182,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -22195,7 +22195,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -24820,13 +24820,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-cloudbreak-official-a1f73be98dea",
+      "id": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-cloudbreak"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -24844,7 +24844,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -24857,7 +24857,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -32098,13 +32098,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-impact-therap-official-a1f73be98dea",
+      "id": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-impact-therap"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -32122,7 +32122,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -32135,7 +32135,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -33766,13 +33766,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-jw-therap-official-a1f73be98dea",
+      "id": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-jw-therap"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -33790,7 +33790,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -33803,7 +33803,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -36168,13 +36168,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-medbot-official-e3623d89577f",
+      "id": "evidence-company-candidate-medbot-official-7977dd0a56f0",
       "signalId": null,
       "companyIds": [
         "candidate-medbot"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -36192,7 +36192,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e3623d89577f08f9ff6f9fb44d4ae8f6d761a8aba59e60aab0962c8aeaeccb6a.",
+      "fact": "The official page was captured with normalized-content hash 7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -36205,7 +36205,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e3623d89577f08f9ff6f9fb44d4ae8f6d761a8aba59e60aab0962c8aeaeccb6a",
+      "contentHash": "7977dd0a56f0930e2233c5365f7c4bc4f589b0f846e7255f0ef11fee71ae784d",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -36664,13 +36664,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-microtech-med-official-e0c9b7e0a7b3",
+      "id": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
       "signalId": null,
       "companyIds": [
         "candidate-microtech-med"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -36688,7 +36688,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e0c9b7e0a7b3d7fa7803b9c30e81e2549b4d594be8229ce35959aeeec2e910c3.",
+      "fact": "The official page was captured with normalized-content hash a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -36701,7 +36701,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e0c9b7e0a7b3d7fa7803b9c30e81e2549b4d594be8229ce35959aeeec2e910c3",
+      "contentHash": "a3eeaeb8f98e781c96b82af7370dc8f2b20c085009b856e62ff7bc08d72cfb93",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -41574,13 +41574,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-candidate-rainmed-official-a1f73be98dea",
+      "id": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
       "signalId": null,
       "companyIds": [
         "candidate-rainmed"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "[Company Name + Stock Code] - stock price, quote, history",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -41598,7 +41598,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1.",
+      "fact": "The official page was captured with normalized-content hash 0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8.",
       "report": "公司官方页面表述：获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
       "reportOriginal": "Get the latest stock price, charts, history, statistics and company profile for [Company Name].",
       "reportCn": "获取[公司名称]的最新股价、图表、历史、统计数据和公司简介。",
@@ -41611,7 +41611,7 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "a1f73be98dea02053fa7b76507de062fa9f59e1a5fcc39857635448d1f87b4b1",
+      "contentHash": "0dd2a5ec14f1d1b3a4a0d3dcdcd28c8cc386c46611241529372bbcf0b8afe3b8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
@@ -49586,7 +49586,7 @@
       "publishedAt": "2026-11-12",
       "snapshotDate": "2026-11-12",
       "title": "Illumina | Sequencing and array solutions to fuel genomic discoveries",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Illumina — Official Website",
@@ -49616,7 +49616,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "9d8f40c61105d465d6dd7d94e9fd12b76091d57d91eec97d32139c8c01a1464e",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Illumina sequencing and array technologies drive advances in life science research, translational and consumer genomics, and molecular diagnostics.",
@@ -49977,15 +49977,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-ionis-official-c99dbfa83db3",
+      "id": "evidence-company-ionis-official-4c022b7c3c11",
       "signalId": null,
       "companyIds": [
         "ionis"
       ],
-      "publishedAt": "2026-11-11",
-      "snapshotDate": "2026-11-11",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "Innovating to Change the Course of Human Health | IONIS",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Ionis Pharmaceuticals — Official Website",
@@ -50001,7 +50001,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash c99dbfa83db3c2b9fdabe0de0904a9a844b0b14b918284dda92150631caa0834.",
+      "fact": "The official page was captured with normalized-content hash 4c022b7c3c11d3a928196e44aad568df32fc5156144767bc239db5c7789efee6.",
       "report": "公司官方页面表述：探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
       "reportOriginal": "Discover how we are enabling better futures for people living with serious disease through groundbreaking innovations. Learn about our mission here.",
       "reportCn": "探索我们如何通过突破性创新为生活在严重疾病中的人们开启更美好的未来。了解我们的使命。",
@@ -50014,8 +50014,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "c99dbfa83db3c2b9fdabe0de0904a9a844b0b14b918284dda92150631caa0834",
-      "changeType": "unchanged",
+      "contentHash": "4c022b7c3c11d3a928196e44aad568df32fc5156144767bc239db5c7789efee6",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
@@ -50421,15 +50421,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-moderna-official-ff8401e5d7c5",
+      "id": "evidence-company-moderna-official-3f3c16ea8aac",
       "signalId": null,
       "companyIds": [
         "moderna"
       ],
-      "publishedAt": "2026-11-07",
-      "snapshotDate": "2026-11-07",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "Pioneering mRNA technology - Moderna",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Moderna — Official Website",
@@ -50445,7 +50445,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash ff8401e5d7c55371fb571a54cc32cd250f28dd936dfa059b34a0d1b302a57a7e.",
+      "fact": "The official page was captured with normalized-content hash 3f3c16ea8aacec88265f29c70579b4cbf011516dfc1b735c919b6d1b9276d5aa.",
       "report": "公司官方页面表述：了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
       "reportOriginal": "Learn how we’re changing the world of medicine. Discover career opportunities, our product pipeline, and browse media resources. Meet Moderna.",
       "reportCn": "了解 Moderna 如何改变医学世界。查看职业机会、产品管线和媒体资料，并进一步认识 Moderna。",
@@ -50458,8 +50458,8 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "ff8401e5d7c55371fb571a54cc32cd250f28dd936dfa059b34a0d1b302a57a7e",
-      "changeType": "unchanged",
+      "contentHash": "3f3c16ea8aacec88265f29c70579b4cbf011516dfc1b735c919b6d1b9276d5aa",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Moderna's mission is to deliver the greatest possible impact to people through mRNA medicines.",
@@ -50703,7 +50703,7 @@
       "publishedAt": "2026-11-12",
       "snapshotDate": "2026-11-12",
       "title": "Nurix | Medicines to Outmatch Disease",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nurix Therapeutics — Official Website",
@@ -50733,7 +50733,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "8dad784506cffa5febb50ca37843a7503523edcd6f981c5da90da1aca65e559b",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Discover Nurix Therapeutic's targeted protein degradation platform, combining degraders and DACs to transform cancer and autoimmune disease treatment.",
@@ -50980,15 +50980,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-oxford-nanopore-official-e981c4e8f214",
+      "id": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
       "signalId": null,
       "companyIds": [
         "oxford-nanopore"
       ],
-      "publishedAt": "2026-10-21",
-      "snapshotDate": "2026-10-21",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "Welcome to Oxford Nanopore Technologies",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Oxford Nanopore Technologies — Official Website",
@@ -51004,7 +51004,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash e981c4e8f214d3f6b0ef1feca737ebb383e85b464ddf392326dcda84444a382e.",
+      "fact": "The official page was captured with normalized-content hash 4ab9403b33a32d31a8598e59f9893aeb5bfe2ec93425e3b2890b66baa2a244c0.",
       "report": "公司官方页面表述：发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
       "reportOriginal": "Discover a new generation of molecular sensing technology which offers short to ultra-long native DNA and RNA reads.",
       "reportCn": "发现新一代分子感知技术，提供从短到超长的天然 DNA 和 RNA 测序。",
@@ -51017,14 +51017,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "e981c4e8f214d3f6b0ef1feca737ebb383e85b464ddf392326dcda84444a382e",
-      "changeType": "unchanged",
+      "contentHash": "4ab9403b33a32d31a8598e59f9893aeb5bfe2ec93425e3b2890b66baa2a244c0",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Oxford Nanopore Technologies products are RUO.",
         "Contact us News Media resources & contacts Investor centre Careers © 2008 - 2026 Oxford Nanopore Technologies plc.",
         "Search Oxford Nanopore Technologies Which site do you wish to search in?",
-        "Products labelled/branded as Oxford Nanopore Diagnostics may be RUO or may be regulated as in‐vitro diagnostic devices in some jurisdictions, please check individual product labelling."
+        "Oxford Nanopore marks a decade of sequencing in space"
       ],
       "businessExcerpts": [
         "Appointment of Chief Business Development Officer"
@@ -51259,15 +51259,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-retro-biosciences-official-9a3581ee2444",
+      "id": "evidence-company-retro-biosciences-official-c3611e884f05",
       "signalId": null,
       "companyIds": [
         "retro-biosciences"
       ],
-      "publishedAt": "2026-10-28",
-      "snapshotDate": "2026-10-28",
+      "publishedAt": "2026-11-14",
+      "snapshotDate": "2026-11-14",
       "title": "Retro Biosciences",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Retro Biosciences — Official Website",
@@ -51283,7 +51283,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 9a3581ee2444e13ca062de07a830d0c5ad328704a2de2bd00aed439dc86b3b12.",
+      "fact": "The official page was captured with normalized-content hash c3611e884f05d927738718a8c606d33a0bec8987ad73414d99ce9043598f98c0.",
       "report": "公司官方页面表述：Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
       "reportOriginal": "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
       "reportCn": "Retro Biosciences开发针对衰老生物学的疗法，旨在延长健康的人类寿命10年。",
@@ -51296,14 +51296,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "9a3581ee2444e13ca062de07a830d0c5ad328704a2de2bd00aed439dc86b3b12",
-      "changeType": "unchanged",
+      "contentHash": "c3611e884f05d927738718a8c606d33a0bec8987ad73414d99ce9043598f98c0",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Retro Biosciences develops therapies that target aging biology to extend healthy human lifespan by 10 years.",
         "Our furthest along, a drug designed to improve autophagy (cellular recycling), is in a Phase 1 trial .",
-        "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing.",
-        "We clear out old or diseased microglia and blood stem cells and put in young ones, grown from reprogrammed stem cells (iPSCs) in our own GMP facility."
+        "In cells, the new versions gave over 50x higher expression of stem cell reprogramming markers than the originals.",
+        "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing."
       ],
       "businessExcerpts": [
         "Curing every cancer would add about three years to US life expectancy, because the other curves keep climbing."
