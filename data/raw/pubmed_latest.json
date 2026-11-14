@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-13T19:48:21.051698+00:00",
+  "capturedAt": "2026-11-14T06:35:29.635849+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-13",
-    "end": "2026-11-13"
+    "start": "2025-11-14",
+    "end": "2026-11-14"
   },
   "pmids": [
+    "43024708",
+    "43024109",
+    "43024025",
+    "43024009",
     "43023295",
     "43023293",
-    "43022863",
-    "43022838",
-    "43022431",
-    "43022318",
     "43008172",
     "42990453",
     "42990240",
@@ -32,14 +32,91 @@
     "43006909",
     "43003839",
     "43001930",
+    "43024743",
+    "43024604",
     "43023696",
     "43022886",
     "43022107",
-    "43021387",
-    "43020014",
-    "43019920"
+    "43021387"
   ],
   "records": [
+    {
+      "pmid": "43024708",
+      "title": "Decoding cancer therapy resistance through advanced 3D organoid systems.",
+      "abstract": "Precision oncology still faces low clinical translation rates. This is largely because two-dimensional (2D) culture systems cannot reproduce tumor heterogeneity and microenvironmental stress. Here, we review the applications of 3D cancer models, including scaffold-free spheroids, patient-derived organoids (PDOs) biobanks, and microphysiological systems (MPSs), in drug resistance modeling and personalized therapy. These platforms effectively model metabolic gradients, lineage plasticity, and immunological features within the tumor microenvironment (TME), thereby bridging the genotype-phenotype gap. They also capture physical immune exclusion, T cell exhaustion, and antigen presentation to facilitate the evaluation of immunotherapies. Last, we discuss key translational bottlenecks such as standardization and throughput, proposing the integration of advanced biomanufacturing, artificial intelligence (AI)-driven phenomics, and computational modeling to develop 3D cancer platforms into clinical predictive systems for optimizing precision treatment strategies.",
+      "journal": "Science advances",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Oral Diseases and National Center for Stomatology and National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, China.",
+        "Department of Experimental Research, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Hospital and Institute, Sichuan Cancer Center, University of Electronic Science and Technology of China, Chengdu 610040, China.",
+        "Department of Stomatology, Hanzhong Central Hospital, Hanzhong 723000, China.",
+        "Department of Pharmacy, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Hospital and Institute, Sichuan Cancer Center, University of Electronic Science and Technology of China, Chengdu 610040, China.",
+        "Department of Critical Care Medicine, Frontiers Science Center for Disease-related Molecular Network, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, Chengdu 610041, China.",
+        "Department of Head and Neck Surgery, Sichuan Clinical Research Center for Cancer, Sichuan Cancer Hospital and Institute, Sichuan Cancer Center, University of Electronic Science and Technology of China, Chengdu 610040, China."
+      ],
+      "doi": "10.1126/sciadv.aei0485",
+      "date": "2026-11-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024708/"
+    },
+    {
+      "pmid": "43024109",
+      "title": "Artificial intelligence-assisted discovery of natural product geroprotectors: target prediction, aging biomarker identification, and drug repurposing.",
+      "abstract": "Natural products derived from traditional medicines are valuable sources of potential geroprotective compounds; however, their translation into therapeutic candidates is limited by chemical complexity, polypharmacology, limited mechanistic resolution, and lengthy experimental validation. Artificial intelligence (AI) offers an emerging framework for integrating chemical, pharmacological, multi-omics, imaging, and literature derived data to accelerate natural product anti-aging research. This review summarizes recent applications of AI in three interconnected areas: drug repurposing, prediction of aging-related targets and signaling pathways, and identification of biomarkers for biological aging and cellular senescence. AI integrates chemical, molecular, omics, and imaging data to prioritize candidate compounds, predict drug-target interactions, identify synergistic combinations, and reveal mechanisms underlying geroprotection. However, computational predictions should not be interpreted as evidence of efficacy or causality. Data heterogeneity, sampling bias, limited model interpretability, inadequate external validation, and insufficient pharmacokinetic and long-term safety assessment remain major barriers to translation. Future progress will require an iterative framework that combines AI prediction with target engagement studies, senescence models, organoids, animal experiments, and clinical biomarker validation. This integrated strategy may improve the efficiency, reproducibility, and translational potential of natural product geroscience research.",
+      "journal": "Biogerontology",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, Sichuan, China.",
+        "Chengdu Tenglong Tourism Development Co., Ltd., Chengdu, 611330, Sichuan, China.",
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, Sichuan, China. jianghz10@sina.com."
+      ],
+      "doi": "10.1007/s10522-026-10543-9",
+      "date": "2026-11-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024109/"
+    },
+    {
+      "pmid": "43024025",
+      "title": "Environmental Microbiomes as Sources of Postbiotic Therapeutics: A One Health Perspective on Translational Applications.",
+      "abstract": "Environmental microbiomes are reservoirs of specialized microorganisms with implications for ecosystem functionality, host health, and therapeutic discovery. Soil, marine, plant-associated, wastewater, freshwater, and extreme-environment microbiomes contain communities capable of producing bioactive metabolites and functional biomolecules. Postbiotics-non-viable microorganisms and their functional components that confer health benefits-offer potential advantages in stability, safety, scalability, and pharmaceutical development. This review examines environmental microbiomes as sources of postbiotic therapeutics within a One Health framework. A critical integrative translational review synthesized literature on environmental microbiomes, postbiotic diversity, molecular mechanisms, therapeutic applications, technological advances, and barriers to clinical translation. Evidence was organized across ecological sources, postbiotic classes, human-health applications, discovery platforms, pharmaceutical development, and translational challenges. Environmental microbiomes represent chemically and functionally diverse reservoirs of postbiotic candidates shaped by ecological adaptation, microbial competition, and environmental selection. Major classes-including short-chain fatty acids, bacteriocins, extracellular vesicles, indole and tryptophan metabolites, exopolysaccharides, and microbial/lytic enzymes-act through receptor signaling, immune modulation, barrier protection, antimicrobial activity, metabolic regulation, intercellular communication, and enzymatic target modification. Metagenomics, metabolomics, artificial intelligence, synthetic biology, organoid and microfluidic models, advanced delivery systems, and biomanufacturing increasingly enable discovery and development. However, reproducibility, microbiome variability, manufacturing scalability, regulatory standardization, cost, and equitable translation remain barriers. Environmental microbiomes provide important reservoirs for postbiotic discovery. Integrating ecological microbiology with multi-omics, computational innovation, pharmaceutical engineering, and human-relevant validation could accelerate development of defined, reproducible, and scalable postbiotic therapeutics. Preserving microbial ecosystem diversity is relevant to environmental sustainability and future microbiome-derived therapeutic innovation within One Health medicine.",
+      "journal": "Probiotics and antimicrobial proteins",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Microbiology and Biotechnology, David Umahi Federal University of Health Sciences, Uburu, Ebonyi, Nigeria. chigozievu@dufuhs.edu.ng.",
+        "NaPBiTReG (Natural Products Bioprospecting and Translation Research Group), International Institute for Pharmaceutical Research and Innovation (IIPRI), DUFUHS, Uburu, Ebonyi, Nigeria. chigozievu@dufuhs.edu.ng.",
+        "Department of Pharmaceutical Microbiology and Biotechnology, David Umahi Federal University of Health Sciences, Uburu, Ebonyi, Nigeria."
+      ],
+      "doi": "10.1007/s12602-026-11293-3",
+      "date": "2026-11-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024025/"
+    },
+    {
+      "pmid": "43024009",
+      "title": "Establishment and characterisation of primary human oesophageal organoids as a versatile epithelial model.",
+      "abstract": "Human patient-derived oesophageal epithelial models are limited, and organoid cultures often have short passaging lifespans, restricting studies of tissue homeostasis and disease. We aimed to establish and characterise primary oesophageal organoids from non-pathologic epithelium as a renewable epithelial source and adaptable modelling platform. Primary oesophageal tissues were obtained from endoscopic biopsies and surgical resections. Basal epithelial cells were isolated and cultured under optimised conditions to establish long-term three-dimensional organoids. Organoid-derived cells were expanded as two-dimensional monolayers and re-seeded into 3D culture. Epithelial identity and differentiation were assessed by immunostaining and RT-qPCR (reverse transcription-quantitative polymerase chain reaction) analysis of markers. Primary organoids were established and maintained while preserving epithelial markers. Expression of KRT14, involucrin, loricrin and filaggrin confirmed the oesophageal phenotype. Larger, multilayered primary organoids showed increased expression of differentiation-associated markers relative to 2D monolayers and re-seeded small organoids, indicating culture configuration influences epithelial differentiation while maintaining lineage identity. We established a robust and reproducible protocol for generating and maintaining oesophageal organoids across culture formats. These models retained epithelial features while exhibiting culture-dependent differentiation. This platform enables complementary 2D and 3D investigation of oesophageal epithelial biology and supports future comparison of healthy and disease-derived tissues for patient-specific modelling and mechanistic studies.",
+      "journal": "Pediatric surgery international",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Stem Cells and Regenerative Medicine Section, Developmental Biology and Cancer, Great Ormond Street Institute of Child Health, University College London, London, UK.",
+        "Epithelial Stem Cell Biology and Regenerative Medicine Laboratory, The Francis Crick Institute, London, UK.",
+        "Institute of Immunity and Transplantation, Division of Infection and Immunity, University College London, Pears Building, London, UK.",
+        "Stem Cells and Regenerative Medicine Section, Developmental Biology and Cancer, Great Ormond Street Institute of Child Health, University College London, London, UK. p.decoppi@ucl.ac.uk.",
+        "Department of Specialist Neonatal and Paediatric Surgery, Great Ormond Street Hospital, London, UK. p.decoppi@ucl.ac.uk.",
+        "Stem Cells and Regenerative Medicine Section, Developmental Biology and Cancer, Great Ormond Street Institute of Child Health, University College London, London, UK. g.giobbe@ucl.ac.uk."
+      ],
+      "doi": "10.1007/s00383-026-06704-z",
+      "date": "2026-11-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024009/"
+    },
     {
       "pmid": "43023295",
       "title": "Current State and Critical Challenges in Prostate Cancer Organoid Culture.",
@@ -78,86 +155,6 @@
       "doi": "10.2174/0115748928504168261027065141",
       "date": "2026-11-05",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43023293/"
-    },
-    {
-      "pmid": "43022863",
-      "title": "Patient-derived organoid model for predicting chemotherapy response in patients with ampulla of Vater cancer: a prospective observational study.",
-      "abstract": "Ampulla of Vater cancer (AoVca) is a rare periampullary malignancy with a high recurrence rate after surgical resection and no established standard adjuvant chemotherapy. This study aimed to predict chemotherapy responses using patient-derived tumor organoids (PDTOs) from surgically resected tissues to identify an appropriate adjuvant chemotherapy regimen for AoVca patients. PDTOs were cultured from surgically resected AoVca tissues of 14 patients. Morphological and phenotypic consistency between PDTOs and primary tumors was verified using H&E and immunohistochemical staining for cytokeratin 7 and caudal-type homeobox 2. Drug sensitivity for 5-fluorouracil (5-FU), cisplatin, oxaliplatin, irinotecan, gemcitabine, and paclitaxel was assessed by comparing the IC50 values. PDTOs were successfully cultured from 11 of the 14 patients, with a phenotypic concordance rate of 82% (9 of 11). Ten PDTOs were successfully expanded for drug screening. These PDTOs showed universal resistance to cisplatin (n = 10), followed by irinotecan (n = 9) and paclitaxel (n = 8). Conversely, gemcitabine demonstrated the highest sensitivity, with resistance observed in only 1 PDTO, followed by 5-FU, which showed resistance in 4 cases. Gemcitabine was identified as the most responsive chemotherapeutic agent for AoVca based on PDTO drug screening. For combination therapy, oxaliplatin may be more appropriate than cisplatin. However, further clinical studies are required to validate these findings.",
-      "journal": "Annals of surgical treatment and research",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Division of Gastroenterology, Department of Internal Medicine, Biomedical Research Institute, Pusan National University Hospital, Busan, Korea.",
-        "Department of Surgery, Biomedical Research Institute, Pusan National University Hospital, Busan, Korea.",
-        "Department of Surgery, Pusan National University School of Medicine, Yangsan, Korea.",
-        "Department of Internal Medicine, CHA Gumi Medical Center, CHA University, Gumi, Korea.",
-        "Department of Internal Medicine, Pusan National University School of Medicine, Yangsan, Korea."
-      ],
-      "doi": "10.4174/astr.2026.111.5.280",
-      "date": "2026-11-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022863/"
-    },
-    {
-      "pmid": "43022838",
-      "title": "Targeting cryptic splicing variants in SDCCAG8, CEP290, and ABCA4: A translational workflow from diagnosis to ASO-based therapy.",
-      "abstract": "A definitive molecular diagnosis is essential for the clinical management of rare genetic diseases (RGDs), guiding prognosis, genetic counseling, and therapeutic development. RNA-based therapeutics have emerged as promising strategies for RGDs owing to their ability to modulate gene expression and splicing. Here, we establish an integrated and scalable pipeline from variant discovery to RNA-based therapy in inherited retinal diseases (IRDs). Genome sequencing identified three cryptic variants in known IRD genes. Two novel deep intronic variants in SDCCAG8 were characterized by RT-PCR to induce pseudoexon inclusion. In addition, a previously described deep intronic variant in CEP290 was detected and reproduced on patient-derived fibroblasts, confirming aberrant splicing. A third family carrying the recurrent ABCA4 c.768G>T silent variant was included to corroborate the translational strength of our pipeline and to provide an additional model for RNA-based therapeutic correction. We designed and tested 16 splice-switching antisense oligonucleotides (ssASOs) in patient-derived fibroblasts, HeLa cells transfected with mutant minigenes, and, when available, human induced pluripotent stem cell (hiPSC)-derived retinal organoids. For each variant, at least one ssASO successfully improved normal splicing and increased gene expression in patient-derived models. Overall, this study validates an innovative end-to-end translational workflow and highlights how molecular diagnosis can directly drive the development of personalized RNA-based therapies.",
-      "journal": "Molecular therapy. Nucleic acids",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Molecular Medicine, University of Pavia, 27100 Pavia, Italy.",
-        "IRCCS Mondino Foundation, Neurogenetics Research Centre, 27100 Pavia, Italy.",
-        "Telethon Institute of Genetics and Medicine (TIGEM), Pozzuoli, Italy.",
-        "Scuola Superiore Meridionale (School of Advanced Studies), Genomics and Experimental Medicine Program (GEM), Naples, Italy.",
-        "Department of Cellular, Computational and Integrative Biology (CIBIO), University of Trento, 38123 Trento, Italy.",
-        "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy.",
-        "Department of Medical and Surgical Sciences, University of Bologna, Bologna, Italy.",
-        "Medical Genetics Unit, IRCCS San Matteo Foundation, Pavia, Italy.",
-        "UOSD Medical Genetics and Cardiomyology, Azienda Ospedaliera Universitaria Luigi Vanvitelli, Naples, Italy.",
-        "Medical Genetics, Department of Precision Medicine, University of Campania Luigi Vanvitelli, Naples, Italy.",
-        "Eye Clinic, Multidisciplinary Department of Medical, Surgical and Dental Sciences, University of Campania \"Luigi Vanvitelli\", Naples, Italy.",
-        "Department of Advanced Biomedical Sciences, Federico II University, Naples, Italy."
-      ],
-      "doi": "10.1016/j.omtn.2026.103139",
-      "date": "2026-10-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022838/"
-    },
-    {
-      "pmid": "43022431",
-      "title": "Scaffold-free self-assembled cell ring organoids enable efficient tumor modeling with high engraftment rates, superior tumor uniformity, and reduced animal consumption.",
-      "abstract": "Conventional tumor cell suspension xenografts suffer from low engraftment efficiency, prolonged latency, and poor tumor uniformity, with high animal consumption conflicting with the 3R principles (Replacement, Reduction, Refinement). This study aimed to develop a scaffold-free self-assembled cell ring organoid platform to address these bottlenecks. Tumor cells and fibroblasts were mixed at optimized ratios and seeded into microwell molds, spontaneously self-assembling into ring-shaped organoids within 24-48 h without exogenous matrices or hydrogels. In vitro characterization included live/dead staining, histology, immunofluorescence, flow cytometry, Western blotting, and transcriptomic sequencing. In vivo performance was evaluated by orthotopic transplantation into the lateral femoral condyle of immunodeficient or immunocompetent mice, with longitudinal monitoring by bioluminescence imaging and micro-CT. Cell rings maintained high viability during in vitro culture and were compatible with both cell lines and clinical primary sarcoma cells. Immunofluorescence and Western blotting revealed that co-cultured fibroblasts underwent cancer-associated fibroblast (CAF)-like phenotypic transformation (α-SMA upregulation) within the cell ring organoids. Transcriptomic analysis further demonstrated that the gene expression profiles of cell ring organoids closely resembled those of original tumors, whereas 2D-cultured cells showed the greatest number and magnitude of differentially expressed genes. In vivo, cell ring organoids achieved higher engraftment rates, better tumor uniformity, and stronger bone invasion capacity compared with cell suspensions. The scaffold-free self-assembled cell ring organoids platform provides an efficient, uniform, and 3R-compliant strategy for animal tumor modeling. Without requiring exogenous matrices, this technology achieves significantly higher engraftment rates and tumor uniformity compared with conventional methods, effectively reduces animal consumption, and may offer a potential platform for future preclinical drug screening and tumor microenvironment (TME) research.",
-      "journal": "Materials today. Bio",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Orthopedics, Center for Regeneration and Aging Medicine, The Fourth Affiliated Hospital of School of Medicine, and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 322000, China.",
-        "Department of Orthopedics, Hunan Cancer Hospital and the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, 410013, China."
-      ],
-      "doi": "10.1016/j.mtbio.2026.103790",
-      "date": "2026-11-02",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022431/"
-    },
-    {
-      "pmid": "43022318",
-      "title": "Transcriptomic benchmarking positions iPSC-Derived intestinal organoids as immature, non-malignant epithelial references for colorectal cancer tissue.",
-      "abstract": "Primary colorectal cancer (CRC) biopsies and intestinal organoids are frequently compared to define tumor-associated epithelial alterations; however, these systems differ in malignant status, tissue composition, developmental state, and epithelial maturation. In this study, transcriptomic profiling of CRC biopsies, matched normal intestinal tissue, and iPSC-derived intestinal organoids (iIOs) was performed to define the biological axes separating primary tissue from organoid epithelial states. Transcriptome-wide analysis revealed strong separation between CRC biopsies and iIOs, with iIOs diverging from primary tissue more extensively than tumors differed from normal mucosa. Pathway enrichment and cell deconvolution showed that biopsies were dominated by immune, inflammatory, and stromal programs reflecting tissue complexity, whereas iIOs were enriched for proliferative, biosynthetic, and metabolic programs. Projection onto a malignancy axis placed iIOs at a neutral position, indicating that their divergence stems from developmental state rather than malignant transformation. Compared to normal mucosa, organoids reproducibly lost adult tissue-associated immune/stromal programs while gaining proliferative, fetal-like epithelial programs. Gut Cell Atlas scoring, crypt-surface positioning, and lineage deconvolution showed that iIOs retain intestinal epithelial identity but occupy a developmentally immature, crypt/progenitor-biased state dominated by transit-amplifying programs with limited differentiated lineage diversity. Metabolic module analysis and anabolism-proliferation correlation showed that elevated metabolic activity in iIOs, including biosynthetic and nucleotide synthesis programs. These reflect proliferation-coupled anabolism rather than malignancy-like metabolic reprogramming; the glycolysis-OXPHOS balance did not differ significantly between groups. Consequently, iIOs represent metabolically active, fetal-like, crypt/progenitor epithelial reference models rather than direct transcriptomic surrogates of adult intestinal mucosa or primary CRC tissue. These results clarify the utility and limitations of iIOs as epithelial reference models for colorectal cancer research.",
-      "journal": "Biochemistry and biophysics reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Ankara University Stem Cell Institute, Ankara, Türkiye.",
-        "Ankara University Institute of Health Sciences, Ankara, Türkiye.",
-        "Ankara University, Genetic Department, Institute of Forensic Medicine, Ankara, Türkiye.",
-        "Ankara University Biotechnology Institute, Ankara, Türkiye.",
-        "Ankara University School of Medicine, Biophysics Department, Ankara, Türkiye."
-      ],
-      "doi": "10.1016/j.bbrep.2026.102859",
-      "date": "2026-11-03",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022318/"
     },
     {
       "pmid": "43008172",
@@ -387,6 +384,46 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43001930/"
     },
     {
+      "pmid": "43024743",
+      "title": "Intelligent Modular Dual-Readout Architecture Driven by CRISPR/Cas13a-CHA Cascade and Machine Learning for Portable Multiplex MicroRNA Liquid Biopsy in Early Lung Cancer.",
+      "abstract": "Precise detection of trace miRNAs in liquid biopsies is critical for early lung cancer screening, yet current methods are frequently limited by complex reverse transcription procedures and potential enzymatic amplification biases. Herein, we developed a sequencing-free and highly portable dual-mode biosensing platform for decentralized clinical diagnostics by synergizing highly specific CRISPR/Cas13a recognition with exponential non-enzymatic catalytic hairpin assembly amplification (CHA). Trace target miRNAs activate Cas13a to trans-cleave the RNA trigger strand, while intact RNA triggers can precisely initiate downstream assembly networks. The Cas13a molecular lock completely eliminates spontaneous hairpin crosslinking interference. Based on this mechanism, we separately constructed a fluorescence and a multiplex surface-enhanced Raman scattering biosensing platform. The catalytic network drives reporter-embedded bimetallic nanoparticles to specifically bind plasmonic chips, forming sandwich resonance structures for absolute multiplex spectral quantification. The system synchronously processes and analyzes four lung cancer-associated miRNAs within 80 min, achieving an ultralow attomolar diagnostic limit and an exceptionally broad linear dynamic range spanning ten orders of magnitude. Clinical validation using 50 plasma samples demonstrated high quantitative agreement with standard qRT-PCR alongside exceptional anti-interference characteristics. Integrating a machine classification model to extract spectral features successfully clustered distinct pathological stages with the accuracy of 80.00 and 93.33%, respectively. The systematic framework, merging miniature programmable biochemical cascade pathways with multidimensional artificial intelligence predictions, provides a highly powerful novel diagnostic paradigm to overcome traditional barriers in complex liquid biopsy translational applications.",
+      "journal": "ACS sensors",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Fujian Provincial Key Laboratory for Advanced Micro-Nano Photonics Technology and Devices, Fujian Provincial Collaborative Innovation Center for Ultra-Precision Optical Engineering and Applications, Institute for Photonics Technology, Quanzhou Normal University, Quanzhou362000, China.",
+        "Department of Thoracic Oncology, Shengli Clinical Medical College of Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350013, China.",
+        "Department of Thoracic Surgery, Shengli Clinical Medical College, Fujian Medical University, Fuzhou University Affiliated Provincial Hospital, Fuzhou350001, China.",
+        "Department of Thoracic Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou350000, China."
+      ],
+      "doi": "10.1021/acssensors.6c03362",
+      "date": "2026-11-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024743/"
+    },
+    {
+      "pmid": "43024604",
+      "title": "Tissue factor-specific sdAb radiotracers for molecular imaging in solid tumors.",
+      "abstract": "Tissue factor (TF) expression has been associated with tumor aggressiveness and poor prognosis in several cancers. With the recent FDA approval of an antibody-drug-conjugate targeting TF, tisotumab vedotin for recurrent metastatic cervical cancer, companion diagnostic tools capable of capturing tumor heterogeneity are increasingly critical. In this study, we developed and characterized single domain antibody (sdAb)-based radiotracers to non-invasively visualize tumors expressing either murine (m) or human (h) TF protein. SdAbs targeting hTF and mTF were obtained from an immune llama library. Seven candidates targeting each species' orthologue were selected, characterized in vitro and radiolabeled with 99mTc for in vivo screening in athymic nude mice bearing both mTF and hTF positive tumors. Lead anti-hTF sdAb was radiolabeled with 68Ga for PET imaging. In vitro, all sdAbs exhibited excellent affinities for their respective targets, reaching the picomolar range. When radiolabeled with 99mTc, the lead compounds showed strong uptake and specific binding in TF-positive tumors as confirmed by SPECT imaging. The lead sdAb 64B4 targeting hTF protein, demonstrated an uptake of 8.07±1.02% IA/g in BxPC-3 tumors and a tumor-to-blood ratio of 26.06±4.36. The best candidate for targeting mTF protein, sdAb 66A12, displayed an uptake of 3.30±0.22% IA/g in mTF positive tumors and a tumor-to-blood ratio of 10.70±2.83. Off-tumor uptake was detected in several organs, with unexpectedly the highest levels detected in brown adipose tissue, consistent with mTF protein expression levels determined by ELISA. We successfully developed and validated sdAb-based radiotracers targeting either mTF or hTF, enabling the noninvasive visualization of TF-expressing tumors.",
+      "journal": "Cancer research communications",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Vrije Universiteit Brussel Brussel Belgium.",
+        "INSERM La Tronche France.",
+        "Université Grenoble Alpes Grenoble France.",
+        "Grenoble Alpes Métropole Grenoble France.",
+        "Centre Hospitalier Universitaire de Grenoble Grenoble France.",
+        "Translational Innovation in Medicine and Complexity La Tronche France.",
+        "Vrije Universiteit Brussel Brussels Belgium.",
+        "Vrije Universiteit Brussel Belgium."
+      ],
+      "doi": "10.1158/2767-9764.CRC-26-0454",
+      "date": "2026-11-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024604/"
+    },
+    {
       "pmid": "43023696",
       "title": "Label-free isolation of heterogeneous breast cancer cell populations via insulator-based dielectrophoresis.",
       "abstract": "Circulating tumor cells (CTCs) are valuable biomarkers for cancer diagnosis and monitoring, yet their isolation from blood remains challenging due to their phenotypic heterogeneity and rarity. Label-free microfluidic technologies offer a promising alternative to affinity-based approaches by exploiting intrinsic biophysical differences between cell types. Here, we developed a microfluidic platform for label-free cell separation based on insulator-based dielectrophoresis (iDEP). The microfluidic device employs an array of triangular insulating structures that generate strong electric field gradients in response to an externally applied alternating current (AC) electric field, enabling selective isolation of breast cancer cells from blood cells based on their dielectric properties. Hydrodynamic focusing is used to confine the sample stream and precisely control cell trajectories within the separation region. Numerical simulations were performed to optimize the electric field distribution and fluid flow characteristics within the device. Experimental validation using breast cancer cell lines (mesenchymal-like MDA-MB-231 cells and epithelial-like MCF-7 cells) spiked into peripheral blood mononuclear cells (PBMCs) demonstrated selective dielectrophoretic deflection of cancer cells while PBMCs largely followed the central streamline. Approximately 98% of the cancer-cell flux detected across all outlets exited through the CTC outlets with a purity above 65% in 1 : 1 spike-in experiments. The ability to enrich both mesenchymal-like and epithelial-like breast cancer cells demonstrates the potential of the platform to address phenotypic heterogeneity which is a key challenge in label-free isolation of CTCs. The proposed system provides a simple label-free approach to separate heterogeneous cell populations and represents a promising tool for microfluidic liquid biopsy enrichment applications.",
@@ -465,50 +502,140 @@
       "doi": "10.1186/s13036-026-00763-5",
       "date": "2026-08-18",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43021387/"
-    },
-    {
-      "pmid": "43020014",
-      "title": "Deploying liquid intelligence in cancer: Finding answers in our blood.",
-      "abstract": "Liquid biopsies are one of the few noninvasive procedures for probing disease at the molecular level. They represent a scalable solution to cancer detection and monitoring by capturing tumor-derived signals from circulating biomolecules such as proteins, DNA, RNA, and metabolites. However, these signals are often sparse, heterogeneous, and shaped by genetics, demographics, and comorbidities. Recent advances in artificial intelligence, especially with multimodal foundation models, have proven capable of extracting signals from noisy, high-dimensional data. Pretraining on large cohorts and integrating complementary modalities may improve sensitivity for tumor signals in blood, though significant clinical and infrastructural barriers remain. This review synthesizes advances in liquid biopsy technologies and artificial intelligence and examines how their convergence can enable enhanced cancer monitoring.",
-      "journal": "Cell",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI, USA; Medical Scientist Training Program, University of Michigan, Ann Arbor, MI, USA; Cellular and Molecular Biology Program, University of Michigan, Ann Arbor, MI, USA. Electronic address: geojames@umich.edu.",
-        "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI, USA.",
-        "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI, USA; Department of Surgery, University of Michigan, Ann Arbor, MI, USA; Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI, USA; Department of Pathology, University of Michigan, Ann Arbor, MI, USA.",
-        "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI, USA; Department of Pathology, University of Michigan, Ann Arbor, MI, USA; Howard Hughes Medical Institute, University of Michigan, Ann Arbor, MI, USA; Department of Urology, University of Michigan, Ann Arbor, MI, USA; Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA. Electronic address: arul@umich.edu."
-      ],
-      "doi": "10.1016/j.cell.2026.10.024",
-      "date": "2026-11-12",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43020014/"
-    },
-    {
-      "pmid": "43019920",
-      "title": "Plasma ATR-FTIR spectroscopy combined with machine learning for early classification of response to neoadjuvant endocrine therapy: exploratory results from the ANNE trial.",
-      "abstract": "Neoadjuvant endocrine therapy (NET) is an effective treatment strategy for luminal breast cancer, but early identification of responders remains challenging. ATR-FTIR spectroscopy combined with machine learning may provide a low-cost, minimally invasive liquid biopsy approach for capturing biochemical information from plasma. This exploratory study was embedded within the ANNE trial, a prospective single-arm phase II study evaluating neoadjuvant anastrozole in stage II-III luminal breast cancer. Plasma ATR-FTIR spectra obtained at baseline and after 2-4 weeks of treatment were used to classify response defined by rebiopsy Ki67 and surgical PEPI, respectively. Eight classifier families, including PCA followed by linear discriminant analysis and ridge logistic regression, were evaluated in R. Hyperparameters and the use and configuration of synthetic minority oversampling (SMOTE) were selected jointly using stratified four-fold validation within an outer leave-one-out cross-validation procedure. The Ki67 analysis included 49 patients (41 responders; 8 non-responders), and the PEPI analysis included 36 patients (10 responders; 26 non-responders). The highest observed classifier-specific AUCs were 0.738 for baseline Ki67 classification using an RBF support vector machine and 0.869 for PEPI classification using k-nearest neighbors. The respective accuracies were 0.816 and 0.833, sensitivities were 0.854 and 0.800, specificities were 0.625 and 0.846, and Matthews correlation coefficients were 0.424 and 0.614. Complementary analyses showed that mandatory SMOTE did not improve every classifier. When classifier family was also selected within inner validation, AUCs were 0.616 for Ki67 and 0.854 for PEPI. Spectral features were tentatively associated with lipid-, protein-, nucleic acid- and carbohydrate-related vibrational modes. Plasma ATR-FTIR spectroscopy combined with machine learning showed exploratory potential for classifying endocrine response, with stronger observed discrimination for PEPI using on-treatment plasma than for Ki67 using baseline plasma. Joint tuning of hyperparameters and balance strategy allowed class-specific performance to be assessed without imposing oversampling on every model. The findings require external validation in larger cohorts before clinical application.",
-      "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Teaching and Research Institute, Barretos Cancer Hospital, Barretos, SP, Brazil.",
-        "Department of Pathology, Barretos Cancer Hospital, Barretos, SP, Brazil.",
-        "Department of Clinical Oncology, Barretos Cancer Hospital, Barretos, SP, Brazil.",
-        "Department of Mastology and Breast Reconstruction, Barretos Cancer Hospital, Barretos, SP, Brazil.",
-        "Department of Breast Radiology, Barretos Cancer Hospital, Barretos, SP, Brazil.",
-        "Faculty of Computing, Federal University of Uberlandia (UFU), Uberlandia, MG, Brazil.",
-        "School of Medicine, Federal University of Uberlandia (UFU), Uberlandia, MG, Brazil.",
-        "Teaching and Research Institute, Barretos Cancer Hospital, Barretos, SP, Brazil; Department of Oncology, Queen's Health Sciences, Queen's University, Kingston, Canada. Electronic address: xrn@queensu.ca."
-      ],
-      "doi": "10.1016/j.saa.2026.129105",
-      "date": "2026-11-11",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43019920/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-43024708",
+      "date": "2026-11-13",
+      "title": "Decoding cancer therapy resistance through advanced 3D organoid systems.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024708/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Science advances，PMID 为 43024708。",
+      "report": "Precision oncology still faces low clinical translation rates. This is largely because two-dimensional (2D) culture systems cannot reproduce tumor heterogeneity and microenvironmental stress. Here, we review the applications of 3D cancer models, including scaf...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43024109",
+      "date": "2026-11-13",
+      "title": "Artificial intelligence-assisted discovery of natural product geroprotectors: target prediction, aging biomarker identification, and drug repurposing.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024109/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biogerontology，PMID 为 43024109。",
+      "report": "Natural products derived from traditional medicines are valuable sources of potential geroprotective compounds; however, their translation into therapeutic candidates is limited by chemical complexity, polypharmacology, limited mechanistic resolution, and leng...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43024025",
+      "date": "2026-11-13",
+      "title": "Environmental Microbiomes as Sources of Postbiotic Therapeutics: A One Health Perspective on Translational Applications.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024025/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Probiotics and antimicrobial proteins，PMID 为 43024025。",
+      "report": "Environmental microbiomes are reservoirs of specialized microorganisms with implications for ecosystem functionality, host health, and therapeutic discovery. Soil, marine, plant-associated, wastewater, freshwater, and extreme-environment microbiomes contain co...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43024009",
+      "date": "2026-11-13",
+      "title": "Establishment and characterisation of primary human oesophageal organoids as a versatile epithelial model.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024009/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Pediatric surgery international，PMID 为 43024009。",
+      "report": "Human patient-derived oesophageal epithelial models are limited, and organoid cultures often have short passaging lifespans, restricting studies of tissue homeostasis and disease. We aimed to establish and characterise primary oesophageal organoids from non-pa...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-43023316",
       "date": "2026-11-13",
@@ -533,6 +660,38 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of computational biology : a journal of computational molecular cell biology，PMID 为 43023316。",
       "report": "Multispecific antibodies (msAbs) offer transformative therapeutic potential by engaging multiple epitopes simultaneously, yet their efficacy is an emergent property governed by complex molecular architectures. Rational design is often bottlenecked by the inabi...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43024743",
+      "date": "2026-11-13",
+      "title": "Intelligent Modular Dual-Readout Architecture Driven by CRISPR/Cas13a-CHA Cascade and Machine Learning for Portable Multiplex MicroRNA Liquid Biopsy in Early Lung Cancer.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024743/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 ACS sensors，PMID 为 43024743。",
+      "report": "Precise detection of trace miRNAs in liquid biopsies is critical for early lung cancer screening, yet current methods are frequently limited by complex reverse transcription procedures and potential enzymatic amplification biases. Herein, we developed a sequen...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -566,63 +725,39 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43020014",
+      "id": "pubmed-43024604",
       "date": "2026-11-12",
-      "title": "Deploying liquid intelligence in cancer: Finding answers in our blood.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43020014/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell，PMID 为 43020014。",
-      "report": "Liquid biopsies are one of the few noninvasive procedures for probing disease at the molecular level. They represent a scalable solution to cancer detection and monitoring by capturing tumor-derived signals from circulating biomolecules such as proteins, DNA,...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43019920",
-      "date": "2026-11-11",
-      "title": "Plasma ATR-FTIR spectroscopy combined with machine learning for early classification of response to neoadjuvant endocrine therapy: exploratory results from the ANNE trial.",
+      "title": "Tissue factor-specific sdAb radiotracers for molecular imaging in solid tumors.",
       "entity": "Diagnostics Research",
       "primaryCategory": "Diagnostics & Precision Medicine",
       "subCategory": "Diagnostics & Precision Medicine",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43019920/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43024604/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Diagnostics",
         "Precision Medicine",
-        "Precision Oncology"
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
       ],
       "tags": [
         "诊断",
         "精准医疗",
-        "肿瘤"
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy，PMID 为 43019920。",
-      "report": "Neoadjuvant endocrine therapy (NET) is an effective treatment strategy for luminal breast cancer, but early identification of responders remains challenging. ATR-FTIR spectroscopy combined with machine learning may provide a low-cost, minimally invasive liquid...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Cancer research communications，PMID 为 43024604。",
+      "report": "Tissue factor (TF) expression has been associated with tumor aggressiveness and poor prognosis in several cancers. With the recent FDA approval of an antibody-drug-conjugate targeting TF, tisotumab vedotin for recurrent metastatic cervical cancer, companion di...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -747,104 +882,6 @@
       "fact": "PubMed 记录显示该文献收录于 Recent patents on anti-cancer drug discovery，PMID 为 43023293。",
       "report": "Osteosarcoma (OS), the predominant primary malignant bone neoplasm diagnosed in adolescents and young adults, is characterized by poor prognoses upon the development of metastatic disease or tumor recurrence. Bioinformatics analysis indicates that high phospho...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43022318",
-      "date": "2026-11-03",
-      "title": "Transcriptomic benchmarking positions iPSC-Derived intestinal organoids as immature, non-malignant epithelial references for colorectal cancer tissue.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022318/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 43022318。",
-      "report": "Primary colorectal cancer (CRC) biopsies and intestinal organoids are frequently compared to define tumor-associated epithelial alterations; however, these systems differ in malignant status, tissue composition, developmental state, and epithelial maturation....",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43022863",
-      "date": "2026-11-02",
-      "title": "Patient-derived organoid model for predicting chemotherapy response in patients with ampulla of Vater cancer: a prospective observational study.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022863/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Annals of surgical treatment and research，PMID 为 43022863。",
-      "report": "Ampulla of Vater cancer (AoVca) is a rare periampullary malignancy with a high recurrence rate after surgical resection and no established standard adjuvant chemotherapy. This study aimed to predict chemotherapy responses using patient-derived tumor organoids...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43022431",
-      "date": "2026-11-02",
-      "title": "Scaffold-free self-assembled cell ring organoids enable efficient tumor modeling with high engraftment rates, superior tumor uniformity, and reduced animal consumption.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022431/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Materials today. Bio，PMID 为 43022431。",
-      "report": "Conventional tumor cell suspension xenografts suffer from low engraftment efficiency, prolonged latency, and poor tumor uniformity, with high animal consumption conflicting with the 3R principles (Replacement, Reduction, Refinement). This study aimed to develo...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1043,34 +1080,6 @@
       "fact": "PubMed 记录显示该文献收录于 Applied optics，PMID 为 43008172。",
       "report": "Process perturbations in lithographic alignment marks deform multilayer profiles, break mark symmetry, and introduce alignment position uncertainty. Although alignment position deviation (APD) and wafer quality (WQ) responses contain process-dependent informat...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43022838",
-      "date": "2026-10-14",
-      "title": "Targeting cryptic splicing variants in SDCCAG8, CEP290, and ABCA4: A translational workflow from diagnosis to ASO-based therapy.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43022838/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular therapy. Nucleic acids，PMID 为 43022838。",
-      "report": "A definitive molecular diagnosis is essential for the clinical management of rare genetic diseases (RGDs), guiding prognosis, genetic counseling, and therapeutic development. RNA-based therapeutics have emerged as promising strategies for RGDs owing to their a...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
