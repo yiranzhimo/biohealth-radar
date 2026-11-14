@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-13T11:04:03+00:00",
+  "capturedAt": "2026-11-14T10:31:03+00:00",
   "count": 589,
   "items": [
     {
@@ -303,7 +303,7 @@
           "0000949858"
         ],
         "ticker": [
-          "ACHV"
+          "QUIT"
         ]
       },
       "sourceTypes": [
@@ -3649,26 +3649,6 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-capienda-biotech",
-      "name": "Capienda Biotech, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
-      "identifiers": {
-        "nihIpf": [
-          "10049147"
-        ],
-        "uei": [
-          "EGF7MDLBABC6"
-        ]
-      },
-      "sourceTypes": [
-        "AI Drug Discovery",
-        "Precision Diagnostics",
-        "biotechnology",
-        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7951,8 +7931,7 @@
       },
       "sourceTypes": [
         "biotechnology",
-        "cell therapy",
-        "gene therapy"
+        "cell therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -8632,6 +8611,24 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-ting-therapeutics",
+      "name": "Ting Therapeutics, Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11380822",
+      "identifiers": {
+        "nihIpf": [
+          "10055005"
+        ],
+        "uei": [
+          "F5R2ZH3HCHB5"
+        ]
+      },
+      "sourceTypes": [
+        "Precision Diagnostics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
