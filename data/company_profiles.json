@@ -45357,6 +45357,7 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-illumina-official-9d8f40c61105",
+          "evidence-pubmed-43034279",
           "evidence-sec-0001110803-000111080326000207",
           "evidence-sec-0001110803-000111080326000202",
           "evidence-company-illumina-pipeline-3e2858fee81b",
@@ -45382,6 +45383,17 @@
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-official-9d8f40c61105",
             "sourceUrl": "https://www.illumina.com/"
+          },
+          {
+            "id": "event-pubmed-43034279",
+            "date": "2026-11-01",
+            "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-pubmed-43034279",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
           },
           {
             "id": "event-sec-0001110803-000111080326000207",
@@ -45415,17 +45427,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-pipeline-3e2858fee81b",
             "sourceUrl": "https://www.illumina.com/systems.html"
-          },
-          {
-            "id": "event-sec-0001110803-000111080326000195",
-            "date": "2026-10-13",
-            "title": "Illumina filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001110803-000111080326000195",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
           }
         ],
         "inferences": [],
@@ -45435,10 +45436,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 11,
+        "evidenceCount": 12,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 9
+          "Filing": 9,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-11-12",
         "programCandidateCount": 0,
@@ -45458,6 +45460,17 @@
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-official-9d8f40c61105",
           "sourceUrl": "https://www.illumina.com/"
+        },
+        {
+          "id": "event-pubmed-43034279",
+          "date": "2026-11-01",
+          "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-pubmed-43034279",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
         },
         {
           "id": "event-sec-0001110803-000111080326000207",
@@ -45524,17 +45537,6 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000095015726000888",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
-        },
-        {
-          "id": "event-sec-0001110803-000119312526346923",
-          "date": "2026-08-12",
-          "title": "Illumina filed Form 424B2",
-          "eventType": "Offering",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001110803-000119312526346923",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
         }
       ]
     },
@@ -60939,6 +60941,7 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-oxford-nanopore-official-4ab9403b33a3",
+          "evidence-pubmed-43034279",
           "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50"
         ]
       },
@@ -60955,6 +60958,17 @@
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
             "sourceUrl": "https://nanoporetech.com/"
+          },
+          {
+            "id": "event-pubmed-43034279",
+            "date": "2026-11-01",
+            "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
+            "eventType": "Research",
+            "sourceType": "Paper",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-pubmed-43034279",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
           },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
@@ -60975,9 +60989,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 2,
+        "evidenceCount": 3,
         "evidenceBySourceType": {
-          "Company": 2
+          "Company": 2,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-11-14",
         "programCandidateCount": 0,
@@ -60997,6 +61012,17 @@
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
           "sourceUrl": "https://nanoporetech.com/"
+        },
+        {
+          "id": "event-pubmed-43034279",
+          "date": "2026-11-01",
+          "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
+          "eventType": "Research",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-pubmed-43034279",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
         },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
