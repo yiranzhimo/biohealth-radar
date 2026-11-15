@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-14T10:31:03+00:00",
-  "count": 589,
+  "capturedAt": "2026-11-15T11:02:12+00:00",
+  "count": 588,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -662,23 +662,6 @@
         ],
         "ticker": [
           "AEON"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-aethlon-medical",
-      "name": "Aethlon Medical Inc",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882291",
-      "identifiers": {
-        "cik": [
-          "0000882291"
-        ],
-        "ticker": [
-          "AEMD"
         ]
       },
       "sourceTypes": [
@@ -3959,23 +3942,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-cerenome",
-      "name": "Cerenome, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001095981",
-      "identifiers": {
-        "cik": [
-          "0001095981"
-        ],
-        "ticker": [
-          "CNSY"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-cero-therapeutics-holdings",
       "name": "Cero Therapeutics Holdings, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001870404",
@@ -4342,6 +4308,23 @@
         ],
         "ticker": [
           "CNBX"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-cns-pharmaceuticals",
+      "name": "CNS Pharmaceuticals, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001729427",
+      "identifiers": {
+        "cik": [
+          "0001729427"
+        ],
+        "ticker": [
+          "CNSP"
         ]
       },
       "sourceTypes": [
