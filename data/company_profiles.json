@@ -17722,8 +17722,7 @@
           "evidence-company-autolus-official-ec0a477825f5",
           "evidence-sec-0001730463-000119312526398045",
           "evidence-sec-0001730463-000173046326000123",
-          "evidence-sec-0001730463-000173046326000119",
-          "evidence-sec-0001730463-000173046326000112"
+          "evidence-sec-0001730463-000173046326000119"
         ]
       },
       "futureDirection": {
@@ -17793,10 +17792,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 6,
         "evidenceBySourceType": {
           "Company": 1,
-          "Filing": 6
+          "Filing": 5
         },
         "lastEvidenceDate": "2026-11-10",
         "programCandidateCount": 0,
@@ -17872,17 +17871,6 @@
           "needsReview": true,
           "evidenceId": "evidence-sec-0001730463-000173046326000119",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000119/autl-20260811.htm"
-        },
-        {
-          "id": "event-sec-0001730463-000173046326000112",
-          "date": "2026-08-03",
-          "title": "Autolus Therapeutics filed Form 8-K",
-          "eventType": "Corporate Update",
-          "sourceType": "Filing",
-          "evidenceLevel": "Medium",
-          "needsReview": false,
-          "evidenceId": "evidence-sec-0001730463-000173046326000112",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm"
         }
       ]
     },
@@ -43371,6 +43359,7 @@
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-sec-0001576280-000119312526463573",
           "evidence-company-guardant-health-investor_relations-b2a8b3cca2e8",
           "evidence-sec-0001576280-000157628026000044",
           "evidence-sec-0001576280-000157628026000043",
@@ -43383,6 +43372,17 @@
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-sec-0001576280-000119312526463573",
+            "date": "2026-11-16",
+            "title": "Guardant Health filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001576280-000119312526463573",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526463573/d128095d8k.htm"
+          },
           {
             "id": "event-evidence-company-guardant-health-investor_relations-b2a8b3cca2e8",
             "date": "2026-11-12",
@@ -43426,17 +43426,6 @@
             "needsReview": true,
             "evidenceId": "evidence-sec-0001576280-000119312526445514",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526445514/d173393d8k.htm"
-          },
-          {
-            "id": "event-sec-0001576280-000119312526444416",
-            "date": "2026-11-03",
-            "title": "Guardant Health filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": false,
-            "evidenceId": "evidence-sec-0001576280-000119312526444416",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526444416/d457424d8k.htm"
           }
         ],
         "inferences": [],
@@ -43446,12 +43435,12 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 7,
+        "evidenceCount": 8,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 4
+          "Filing": 5
         },
-        "lastEvidenceDate": "2026-11-12",
+        "lastEvidenceDate": "2026-11-16",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43459,6 +43448,17 @@
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-sec-0001576280-000119312526463573",
+          "date": "2026-11-16",
+          "title": "Guardant Health filed Form 8-K",
+          "eventType": "Corporate Update",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001576280-000119312526463573",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526463573/d128095d8k.htm"
+        },
         {
           "id": "event-evidence-company-guardant-health-investor_relations-b2a8b3cca2e8",
           "date": "2026-11-12",
@@ -45676,7 +45676,6 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-illumina-official-9d8f40c61105",
-          "evidence-pubmed-43034279",
           "evidence-sec-0001110803-000111080326000207",
           "evidence-sec-0001110803-000111080326000202",
           "evidence-company-illumina-pipeline-3e2858fee81b",
@@ -45702,17 +45701,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-official-9d8f40c61105",
             "sourceUrl": "https://www.illumina.com/"
-          },
-          {
-            "id": "event-pubmed-43034279",
-            "date": "2026-11-01",
-            "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-pubmed-43034279",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
           },
           {
             "id": "event-sec-0001110803-000111080326000207",
@@ -45746,6 +45734,17 @@
             "needsReview": true,
             "evidenceId": "evidence-company-illumina-pipeline-3e2858fee81b",
             "sourceUrl": "https://www.illumina.com/systems.html"
+          },
+          {
+            "id": "event-sec-0001110803-000111080326000195",
+            "date": "2026-10-13",
+            "title": "Illumina filed Form 8-K",
+            "eventType": "Corporate Update",
+            "sourceType": "Filing",
+            "evidenceLevel": "Medium",
+            "needsReview": false,
+            "evidenceId": "evidence-sec-0001110803-000111080326000195",
+            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000195/ilmn-20261013.htm"
           }
         ],
         "inferences": [],
@@ -45755,11 +45754,10 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 12,
+        "evidenceCount": 11,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 9,
-          "Paper": 1
+          "Filing": 9
         },
         "lastEvidenceDate": "2026-11-12",
         "programCandidateCount": 0,
@@ -45779,17 +45777,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-illumina-official-9d8f40c61105",
           "sourceUrl": "https://www.illumina.com/"
-        },
-        {
-          "id": "event-pubmed-43034279",
-          "date": "2026-11-01",
-          "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-pubmed-43034279",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
         },
         {
           "id": "event-sec-0001110803-000111080326000207",
@@ -45856,6 +45843,17 @@
           "needsReview": false,
           "evidenceId": "evidence-sec-0001110803-000095015726000888",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000095015726000888/form8-k.htm"
+        },
+        {
+          "id": "event-sec-0001110803-000119312526346923",
+          "date": "2026-08-12",
+          "title": "Illumina filed Form 424B2",
+          "eventType": "Offering",
+          "sourceType": "Filing",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-sec-0001110803-000119312526346923",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526346923/d173650d424b2.htm"
         }
       ]
     },
@@ -61165,7 +61163,6 @@
         "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-oxford-nanopore-official-4ab9403b33a3",
-          "evidence-pubmed-43034279",
           "evidence-company-oxford-nanopore-pipeline-4b9be1e95e50"
         ]
       },
@@ -61182,17 +61179,6 @@
             "needsReview": true,
             "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
             "sourceUrl": "https://nanoporetech.com/"
-          },
-          {
-            "id": "event-pubmed-43034279",
-            "date": "2026-11-01",
-            "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
-            "eventType": "Research",
-            "sourceType": "Paper",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-pubmed-43034279",
-            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
           },
           {
             "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
@@ -61213,10 +61199,9 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "evidenceBySourceType": {
-          "Company": 2,
-          "Paper": 1
+          "Company": 2
         },
         "lastEvidenceDate": "2026-11-14",
         "programCandidateCount": 0,
@@ -61236,17 +61221,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-oxford-nanopore-official-4ab9403b33a3",
           "sourceUrl": "https://nanoporetech.com/"
-        },
-        {
-          "id": "event-pubmed-43034279",
-          "date": "2026-11-01",
-          "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
-          "eventType": "Research",
-          "sourceType": "Paper",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-pubmed-43034279",
-          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034279/"
         },
         {
           "id": "event-evidence-company-oxford-nanopore-pipeline-4b9be1e95e50",
