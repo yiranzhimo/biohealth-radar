@@ -5399,15 +5399,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-akeso-official-786e7f4bdfec",
+      "id": "evidence-company-akeso-official-bca9d2c65ac1",
       "signalId": null,
       "companyIds": [
         "akeso"
       ],
-      "publishedAt": "2026-11-14",
-      "snapshotDate": "2026-11-14",
+      "publishedAt": "2026-11-16",
+      "snapshotDate": "2026-11-16",
       "title": "Akeso, Inc | Home",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Akeso — Official Website",
@@ -5423,7 +5423,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 786e7f4bdfecbe7ec8560aecd1abd80b99cccd7761426ef4b6d103dd34af0d3a.",
+      "fact": "The official page was captured with normalized-content hash bca9d2c65ac19d4e0801d1730109355d3e3c1b9fc0e85d1586f5062272771d25.",
       "report": "公司官方页面表述：艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
       "reportOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
       "reportCn": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
@@ -5436,14 +5436,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "786e7f4bdfecbe7ec8560aecd1abd80b99cccd7761426ef4b6d103dd34af0d3a",
-      "changeType": "unchanged",
+      "contentHash": "bca9d2c65ac19d4e0801d1730109355d3e3c1b9fc0e85d1586f5062272771d25",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
         "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
-        "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
-        "We focuse on major disease areas such as oncology, autoimmune diseases, inflammation, metabolic diseases and neurodegenerative diseases, with robust R&D capabilities and remarkable innovative achievements"
+        "Akeso’s Gumokimab (IL-17A) Receives NMPA Approval for Active Ankylosing Spondylitis",
+        "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world."
       ],
       "businessExcerpts": [
         "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines."
@@ -50837,15 +50837,15 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+      "id": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-11-05",
-      "snapshotDate": "2026-11-05",
+      "publishedAt": "2026-11-16",
+      "snapshotDate": "2026-11-16",
       "title": "Home - Nykode",
-      "eventType": "Official Source Snapshot",
+      "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Nykode Therapeutics — Official Website",
@@ -50861,7 +50861,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 67383b195cc6157c779a18d35c3cdbb3c968b8a3a1338ef8053bb7a491710562.",
+      "fact": "The official page was captured with normalized-content hash 2dac13bddf7c7db6c5292531713fc3e7aed073301dd1dd6553c95084f82f488c.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -50874,14 +50874,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "67383b195cc6157c779a18d35c3cdbb3c968b8a3a1338ef8053bb7a491710562",
-      "changeType": "unchanged",
+      "contentHash": "2dac13bddf7c7db6c5292531713fc3e7aed073301dd1dd6553c95084f82f488c",
+      "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-        "Nykode Therapeutics to Participate in Fireside Chat at the ...",
-        "Nykode Therapeutics to Present Trial-in-Progress Poster Highlighting the Design ..."
+        "Nykode Therapeutics – Invitation to Q3 2026 Financial Results ...",
+        "Nykode Therapeutics to Participate in Fireside Chat at the ..."
       ],
       "businessExcerpts": [],
       "productExcerpts": [

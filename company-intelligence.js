@@ -6840,7 +6840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
             "text": "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
-            "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
+            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6848,7 +6848,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
             "text": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
-            "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
+            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+            "sourceUrl": "https://www.akesobio.com/en/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Akeso’s Gumokimab (IL-17A) Receives NMPA Approval for Active Ankylosing Spondylitis",
+            "text": "Akeso’s Gumokimab (IL-17A) Receives NMPA Approval for Active Ankylosing Spondylitis",
+            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6856,15 +6864,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
             "text": "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
-            "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
-            "sourceUrl": "https://www.akesobio.com/en/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "We focuse on major disease areas such as oncology, autoimmune diseases, inflammation, metabolic diseases and neurodegenerative diseases, with robust R&D capabilities and remarkable innovative achievements",
-            "text": "We focuse on major disease areas such as oncology, autoimmune diseases, inflammation, metabolic diseases and neurodegenerative diseases, with robust R&D capabilities and remarkable innovative achievements",
-            "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
+            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6872,21 +6872,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-786e7f4bdfec"
+          "evidence-company-akeso-official-bca9d2c65ac1"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-786e7f4bdfec",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-akeso-official-bca9d2c65ac1",
+            "date": "2026-11-16",
             "title": "Akeso, Inc | Home",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
+            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -6901,7 +6901,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-16",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6910,14 +6910,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-786e7f4bdfec",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-akeso-official-bca9d2c65ac1",
+          "date": "2026-11-16",
           "title": "Akeso, Inc | Home",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-786e7f4bdfec",
+          "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -59774,7 +59774,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59782,7 +59782,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59790,7 +59790,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59798,7 +59798,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
             "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Nykode Therapeutics – Invitation to Q3 2026 Financial Results ...",
+            "text": "Nykode Therapeutics – Invitation to Q3 2026 Financial Results ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59806,15 +59814,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
             "text": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
-            "sourceUrl": "https://nykode.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nykode Therapeutics to Present Trial-in-Progress Poster Highlighting the Design ...",
-            "text": "Nykode Therapeutics to Present Trial-in-Progress Poster Highlighting the Design ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59822,7 +59822,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-67383b195cc6",
+          "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
           "evidence-company-nykode-therapeutics-pipeline-d5568715734e",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -59831,14 +59831,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-67383b195cc6",
-            "date": "2026-11-05",
+            "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "date": "2026-11-16",
             "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -59875,7 +59875,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-11-05",
+        "lastEvidenceDate": "2026-11-16",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -59884,14 +59884,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-67383b195cc6",
-          "date": "2026-11-05",
+          "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+          "date": "2026-11-16",
           "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-67383b195cc6",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
           "sourceUrl": "https://nykode.com/"
         },
         {
