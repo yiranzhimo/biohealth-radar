@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-15T18:55:31.992574+00:00",
+  "capturedAt": "2026-11-16T06:41:18.748613+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-15",
-    "end": "2026-11-15"
+    "start": "2025-11-16",
+    "end": "2026-11-16"
   },
   "pmids": [
+    "43035368",
     "43034919",
     "43034754",
     "43034672",
     "43034668",
     "43034390",
-    "43034355",
     "43026583",
     "43025064",
     "43008172",
@@ -32,14 +32,31 @@
     "43028255",
     "43027924",
     "43023316",
+    "43035377",
     "43034799",
     "43034424",
     "43034279",
     "43033410",
-    "43033019",
-    "43032746"
+    "43033019"
   ],
   "records": [
+    {
+      "pmid": "43035368",
+      "title": "Outer Membrane Vesicles Derived From Klebsiella pneumoniae Aggravate Primary Sclerosing Cholangitis in Mdr2-/- Mice and IL-17A-Stimulated Cholangiocyte Organoids.",
+      "abstract": "Primary sclerosing cholangitis (PSC) is a rare cholestatic liver disease characterized by chronic inflammation and biliary stricture; however, its pathogenesis remains poorly understood. PSC patients frequently have coexisting inflammatory bowel disease (IBD), accompanied by a pronounced enrichment of Klebsiella pneumoniae in the gut. Given the crucial role of bacterial outer membrane vesicles (OMVs) in disease pathogenesis, we hypothesize that K. pneumoniae-derived OMVs (Kp-OMVs) serve as key mediators between the gut and liver in PSC. In Mdr2-/- mice, Kp-OMVs exacerbated PSC, with increased cholestatic liver injury, fibrosis, and bile duct hyperplasia. Hepatic transcriptomics revealed significant activation of multiple pro-inflammatory pathways, along with marked suppression of glutathione metabolism, detoxification, and bile secretion. Moreover, Kp-OMVs disrupted the intestinal barrier, promoted endotoxin translocation, and disturbed the gut-liver microecology in Mdr2-/- mice. Notably, this was accompanied by increased hepatic abundances of Fusobacterium, Pseudomonas, and Campylobacter, as well as decreased abundances of Bifidobacterium and Muribaculaceae. However, in antibiotic-pretreated Mdr2-/- mice, Kp-OMVs aggravated hepatic inflammation and fibrosis but failed to induce intestinal barrier disruption. In vitro, treatment with Kp-OMVs further enhanced inflammation, induced senescence, and suppressed proliferation in IL-17A-stimulated cholangiocyte organoids, whereas Escherichia coli-derived OMVs (Ec-OMVs) did not elicit these effects. Mechanistically, Kp-OMVs upregulated the NF-kappa B, TNF, cytokine-cytokine receptor, and IL-17 signalling pathways in organoids. In conclusion, Kp-OMVs aggravate PSC via gut-liver axis disruption and activation of inflammatory signalling pathways, offering a potential therapeutic target for future intervention in PSC.",
+      "journal": "Journal of extracellular vesicles",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, China-Singapore Belt and Road Joint Laboratory on Infection Research and Drug Development, National Medical Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Jinan Microecological Biomedicine Shandong Laboratory, Jinan, China.",
+        "Yuhang Institute for Collaborative Innovation and Translational Research in Life Sciences and Technology, Hangzhou, China."
+      ],
+      "doi": "10.1002/jev2.70402",
+      "date": "2026-11-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035368/"
+    },
     {
       "pmid": "43034919",
       "title": "A simple prestaining protocol to enhance visualization and embedding of 3D breast cancer organoids for downstream histological analysis.",
@@ -136,25 +153,6 @@
       "doi": "10.1007/s44164-026-00119-9",
       "date": "2026-04-30",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034390/"
-    },
-    {
-      "pmid": "43034355",
-      "title": "Three-dimensional organoid and organ-on-chip models for studying human viral infections: applications across respiratory, hepatotropic, enteric, cardiac, and neurotropic virus research.",
-      "abstract": "Conventional two-dimensional cell lines and animal models each present well-recognized limitations for studying human viral infection: monolayer cultures lack tissue-level architecture and cellular heterogeneity, while species differences in receptor expression and immune physiology limit the translatability of animal data to human disease. Three-dimensional in vitro models, including air-liquid interface (ALI) transwell cultures, adult stem cell- and pluripotent stem cell-derived organoids, and microfluidic organ-on-chip platforms, have emerged as physiologically relevant alternatives that better recapitulate human tissue architecture, cellular diversity, and host-pathogen interactions. This review examines the application of these three-dimensional platforms across six domains of human viral pathogenesis: respiratory viruses (influenza, SARS-CoV-2, rhinovirus, respiratory syncytial virus) studied using ALI airway cultures, airway/lung/nasal organoids, and alveolar-capillary organ-on-chip systems; hepatotropic viruses (hepatitis B and C viruses) studied using perfused microfluidic liver cultures and patient-derived liver organoids capable of supporting complete viral replication cycles; enteric viruses (rotavirus, norovirus, coxsackievirus) studied using human intestinal enteroids and gut-on-chip systems; hemorrhagic-fever viruses (Ebola, Lassa) studied using microvessel-on-chip platforms; cardiotropic SARS-CoV-2 infection studied using engineered heart tissue; and neurotropic TORCH viruses (Toxoplasma, Other agents, Rubella, Cytomegalovirus, Herpes simplex virus - here represented by Zika virus and herpes simplex virus 1) studied using human brain organoids that recapitulate virus-induced microcephaly phenotypes. We compare the architecture, quantitative performance, strengths, and limitations of twenty-one representative platforms, position six platform classes on a physiological-relevance-versus-throughput landscape, summarize demonstrated applications in antiviral drug screening (including chip-based identification of amodiaquine and nafamostat repurposing candidates and a clinically important hydroxychloroquine false-positive), and extend the discussion to the translational challenges of donor variability, cross-laboratory standardization, throughput, and immune-cell integration that currently limit broader adoption of these models in preclinical virology and drug discovery pipelines.",
-      "journal": "In vitro models",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "College of Medicine, University of Thi-Qar, Al-Nasiriyah, Iraq.",
-        "College of Health and Medical Technologies, National University of Science and Technology, Dhi Qar, Iraq.",
-        "College of Nursing, University of Babylon, Hillah, Babylon, 51001 Iraq.",
-        "Pharmacy College, Al Mustaqbal University, Hillah, Babylon, 51001 Iraq."
-      ],
-      "doi": "10.1007/s44164-026-00155-5",
-      "date": "2026-09-28",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034355/"
     },
     {
       "pmid": "43026583",
@@ -380,6 +378,26 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43023316/"
     },
     {
+      "pmid": "43035377",
+      "title": "Exhaled Breath Condensate-Derived Extracellular Vesicles Isolated via Nanobody-SpyTag3 Fusion Proteins Enable Lung Cancer Diagnosis.",
+      "abstract": "Extracellular vesicles (EVs) carry molecular fingerprints of their parent cells, making them attractive liquid biopsy targets. Specific and efficient isolation and retrieval of intact EVs enable comprehensive analysis of EV cargo; however, current approaches remain suboptimal. Here, anti-CD9 nanobody-SpyTag3 fusion proteins were developed to immunoisolate EVs from exhaled breath condensate (EBC) for DNA mutation analysis in non-small cell lung cancer (NSCLC). Within 2 h, this assay achieves 94% and 47% EV enrichment from biomimetic EBC and plasma, respectively, outperforming traditional physical methods. Subsequent restriction enzyme treatment recovers 95% of intact EVs within 2 h. Pilot clinical data suggest that EBC EVs may be better suited for early-stage central-type NSCLC, whereas plasma EVs may perform better in advanced peripheral-type cases. In summary, we present a new tool for EV-based diagnosis, highlight the potential of EBC EVs for noninvasive lung cancer detection, and demonstrate the impact of biofluid selection on diagnostic performance.",
+      "journal": "Journal of extracellular vesicles",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "The First Affiliated Hospital of Jinzhou Medical University, Jinzhou, Liaoning, China.",
+        "The Pq Laboratory of BiomeDx/Rx, Department of Biomedical Engineering, Binghamton University, Binghamton, New York, USA.",
+        "Department of Medicine, Harvard Medical School, Brigham Women's Hospital, Boston, Massachusetts, USA.",
+        "School of Electrical Engineering, Liaoning University of Technology, Jinzhou, Liaoning, China.",
+        "School of Chemical Engineering, Dalian University of Technology, Dalian, Liaoning, China.",
+        "Key Laboratory of Chinese Medicine Resource and Compound Prescription, Ministry of Education & Center of Traditional Chinese Medicine Modernization for Liver Diseases & Hubei Shizhen Laboratory, Hubei University of Chinese Medicine, Wuhan, China."
+      ],
+      "doi": "10.1002/jev2.70401",
+      "date": "2026-11-01",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035377/"
+    },
+    {
       "pmid": "43034799",
       "title": "Diagnostic threshold optimization of a keratin 17-based urine liquid biopsy assay for urothelial carcinoma detection in patients with hematuria.",
       "abstract": "To evaluate candidate keratin 17-positive urothelial cell-count thresholds for a urine-based cellular liquid biopsy assay in patients undergoing hematuria evaluation. This retrospective diagnostic accuracy study included 746 voided urine specimens from 612 adults evaluated for microscopic or gross hematuria between August 2019 and March 2026. Urothelial carcinoma-positive outcomes required histopathologic confirmation. Negative classification incorporated cystoscopy, imaging, cytology, urinalysis, and clinical follow-up, as available. Thresholds of ≥5, ≥10, ≥15, and ≥20 keratin 17-positive urothelial cells were compared. Diagnostic performance and continuous cell-count receiver operating characteristic analysis were assessed. Urothelial carcinoma was identified in 23 of 746 specimens. Continuous keratin 17-positive cell counts demonstrated an area under the receiver operating characteristic curve of 0.965 (95% confidence interval, 0.949-0.980). At ≥5 cells, sensitivity was 100.0% and specificity was 85.2%. At ≥10 cells, sensitivity was 91.3% and specificity was 92.1%. Increasing the threshold from ≥5 to ≥10 cells reduced false-positive classifications from 107 to 57 while increasing false-negative classifications from 0 to 2. Thresholds of ≥15 and ≥ 20 cells increased specificity to 94.2% and 95.3%, respectively, while reducing sensitivity to 87.0% and 78.3%. Among the evaluated thresholds, ≥10 keratin 17-positive urothelial cells was the highest candidate threshold that maintained sensitivity above 90% while reducing false-positive classifications compared with ≥5 cells. Independent prospective validation is needed before establishing a clinical operating threshold.",
@@ -473,22 +491,6 @@
       "doi": "10.1021/acssensors.6c03821",
       "date": "2026-11-14",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43033019/"
-    },
-    {
-      "pmid": "43032746",
-      "title": "Companion diagnostics and clinical drug development in oncology: a survey based on US FDA data.",
-      "abstract": "Over the past few decades, the drug-diagnostic codevelopment model has gradually transformed oncology drug development. In this model, a predictive biomarker assay, known as a companion diagnostic (CDx), is developed alongside the drug. The incorporation of CDx assays in clinical drug development has facilitated the use of the enrichment trial design, in which patients are selected based on molecular characteristics linked to the drug mechanism of action. In this survey, oncology drugs associated with a CDx assay approved by the FDA until the end of 2025 were investigated, and drug class, clinical trial design, study endpoint, patient population, Orphan Drug status, and expedited review were recorded. During this period, 87 cancer drugs were identified, of which 62 (71%) were indicated for treatment of solid tumors. Kinase inhibitors were the dominant drug class, accounting for 34 drugs (55%). A large proportion of the drugs had obtained Orphan Drug status (63%) and Breakthrough Therapy designation (77%). The average patient population sufficient to obtain FDA approval was 279, with 16 (26%) drugs approved based on fewer than 100 patients, often supported by single-arm, open-label clinical trials. For 49 (79%) of the drugs, efficacy documentation was generated based on one single clinical trial. The primary endpoint in these trials was most often objective response rate and progression-free survival. When evaluating the enrichment trial design, the number of patients required to demonstrate clinical efficacy and obtain FDA approval is low compared to the traditional all-comers design, which means that safety evaluation could be compromised.",
-      "journal": "Frontiers in medicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Medical Science, Dx-Rx Institute, Fredensborg, Denmark."
-      ],
-      "doi": "10.3389/fmed.2026.1938709",
-      "date": "2026-10-30",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43032746/"
     }
   ],
   "signals": [
@@ -784,6 +786,41 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43035368",
+      "date": "2026-11-01",
+      "title": "Outer Membrane Vesicles Derived From Klebsiella pneumoniae Aggravate Primary Sclerosing Cholangitis in Mdr2-/- Mice and IL-17A-Stimulated Cholangiocyte Organoids.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035368/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 43035368。",
+      "report": "Primary sclerosing cholangitis (PSC) is a rare cholestatic liver disease characterized by chronic inflammation and biliary stricture; however, its pathogenesis remains poorly understood. PSC patients frequently have coexisting inflammatory bowel disease (IBD),...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-42990453",
       "date": "2026-11-01",
       "title": "Single-cell perturbation prediction near experimental reproducibility with GENESIS.",
@@ -818,6 +855,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43035377",
+      "date": "2026-11-01",
+      "title": "Exhaled Breath Condensate-Derived Extracellular Vesicles Isolated via Nanobody-SpyTag3 Fusion Proteins Enable Lung Cancer Diagnosis.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43035377/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Journal of extracellular vesicles，PMID 为 43035377。",
+      "report": "Extracellular vesicles (EVs) carry molecular fingerprints of their parent cells, making them attractive liquid biopsy targets. Specific and efficient isolation and retrieval of intact EVs enable comprehensive analysis of EV cargo; however, current approaches r...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43034279",
       "date": "2026-11-01",
       "title": "Fragment-end sequence architecture of cell-free DNA and its association with tumour DNA in non-small cell lung cancer.",
@@ -848,40 +915,6 @@
       "fact": "PubMed 记录显示该文献收录于 Clinical and translational medicine，PMID 为 43034279。",
       "report": "Circulating cell-free DNA (cfDNA) fragmentation patterns provide a promising source of molecular information for liquid biopsy applications. However, the sequence features underlying fragmentation and their relationship to tumour-derived DNA remain incompletel...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43032746",
-      "date": "2026-10-30",
-      "title": "Companion diagnostics and clinical drug development in oncology: a survey based on US FDA data.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43032746/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in medicine，PMID 为 43032746。",
-      "report": "Over the past few decades, the drug-diagnostic codevelopment model has gradually transformed oncology drug development. In this model, a predictive biomarker assay, known as a companion diagnostic (CDx), is developed alongside the drug. The incorporation of CD...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1072,41 +1105,6 @@
       "fact": "PubMed 记录显示该文献收录于 Bioinformatics advances，PMID 为 43032223。",
       "report": "Machine learning has repeatedly shown the ability to accelerate protein engineering, but many approaches demand large amounts of robust, high-quality training data as well as substantial computational expertise. While large pre-trained models can function as z...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43034355",
-      "date": "2026-09-28",
-      "title": "Three-dimensional organoid and organ-on-chip models for studying human viral infections: applications across respiratory, hepatotropic, enteric, cardiac, and neurotropic virus research.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43034355/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 In vitro models，PMID 为 43034355。",
-      "report": "Conventional two-dimensional cell lines and animal models each present well-recognized limitations for studying human viral infection: monolayer cultures lack tissue-level architecture and cellular heterogeneity, while species differences in receptor expressio...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
