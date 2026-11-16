@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "capturedAt": "2026-11-15T10:57:17+00:00",
+  "capturedAt": "2026-11-16T11:23:27+00:00",
   "source": {
     "name": "NIH RePORTER",
     "type": "Government Funding",
@@ -691,34 +691,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11419642"
     },
     {
-      "applId": 11416294,
-      "projectNum": "5R44CA302091-02",
-      "projectTitle": "Ultra-fast manufactured CAR-T therapy",
-      "fiscalYear": 2026,
-      "awardAmount": 1125000,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2025-09-15",
-      "projectEndDate": "2027-08-31",
-      "organization": {
-        "name": "KURE CELLS INC",
-        "city": "SHAKER HEIGHTS",
-        "state": "OH",
-        "country": "UNITED STATES",
-        "uei": "JCZPXLMQQ2D1",
-        "ipf": "10065823",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Cell Therapy",
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Novel therapeutic approaches are urgently needed for patients with relapsed/refractory cancers. Chimeric Antigen Receptor (CAR) T cell therapies have exhibited remarkable promise particularly for patients with relapsed/refractory B cell malignancies. Though current CAR-T…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11416294"
-    },
-    {
       "applId": 11411298,
       "projectNum": "5R44CA309843-02",
       "projectTitle": "Novel Telomere-Targeting Therapy for Advanced Non-Small Cell Lung Cancer",
@@ -870,6 +842,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
+        "gene therapy",
         "molecular diagnostics"
       ],
       "topicHints": [
@@ -1350,33 +1323,6 @@
       "sourceUrl": "https://reporter.nih.gov/project-details/11387631"
     },
     {
-      "applId": 11380822,
-      "projectNum": "5R44DC019065-05",
-      "projectTitle": "Therapeutics to prevent aminoglycoside-induced hearing loss",
-      "fiscalYear": 2026,
-      "awardAmount": 524299,
-      "awardNoticeDate": "2026-09-17",
-      "projectStartDate": "2020-07-17",
-      "projectEndDate": "2027-07-31",
-      "organization": {
-        "name": "TING THERAPEUTICS, INC.",
-        "city": "San Diego",
-        "state": "CA",
-        "country": "UNITED STATES",
-        "uei": "F5R2ZH3HCHB5",
-        "ipf": "10055005",
-        "type": "Domestic For-Profits"
-      },
-      "matchedTerms": [
-        "gene therapy"
-      ],
-      "topicHints": [
-        "Precision Diagnostics"
-      ],
-      "projectSummaryExcerpt": "Project Summary Ting Therapeutics LLC is a pharmaceutical company developing drugs to prevent and treat hearing loss. Aminoglycosides are one of the most widely used drugs to treat Gram-negative bacterial infections. However, aminoglycoside therapy causes hearing loss in 40-60%…",
-      "sourceUrl": "https://reporter.nih.gov/project-details/11380822"
-    },
-    {
       "applId": 11323824,
       "projectNum": "1R44AG099654-01",
       "projectTitle": "Human CGAS inhibitors to treat neurodegeneration in Alzheimer's disease",
@@ -1509,15 +1455,41 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "topicHints": [
-        "RNA Therapeutics",
+        "AI Drug Discovery",
         "Precision Diagnostics",
-        "AI Drug Discovery"
+        "RNA Therapeutics"
       ],
       "projectSummaryExcerpt": "Abstract Alzheimer’s Disease (AD) is the most common form of late-onset dementia, affecting 7 million Americans, with prevalence expected to double by 2050. AD is associated with accumulation of misfolded protein aggregates including β-amyloid and tau, with apolipoprotein E and…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11315143"
+    },
+    {
+      "applId": 11314326,
+      "projectNum": "1R42CA310337-01",
+      "projectTitle": "Dual Acting Bone Defenders for Inhibiting Cancer Mediated Bone Destruction",
+      "fiscalYear": 2026,
+      "awardAmount": 400000,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-18",
+      "projectEndDate": "2027-08-31",
+      "organization": {
+        "name": "BONESTRONG THERAPEUTICS INC.",
+        "city": "PORTLAND",
+        "state": "OR",
+        "country": "UNITED STATES",
+        "uei": "XUNHXKKMFJ63",
+        "ipf": "10091062",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "cell therapy"
+      ],
+      "topicHints": [],
+      "projectSummaryExcerpt": "BoneStrong Therapeutics Inc. seeks to develop a first-in-class therapeutic that inhibits bone destruction caused by cancer. Cancer-mediated bone destruction is a common, longstanding, unmet need costing the US economy $5.3B/year. Current therapy has limited efficacy and…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11314326"
     },
     {
       "applId": 11314303,
@@ -1650,8 +1622,7 @@
         "type": "Domestic For-Profits"
       },
       "matchedTerms": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "topicHints": [],
       "projectSummaryExcerpt": "Abstract T-cell acute lymphoblastic leukemia (T-ALL) accounts for ~15% of newly diagnosed acute lymphoblastic leukemia (ALL) cases and have been associated with poor prognosis. Patients with T-ALL are typically treated with risk-based multiagent chemotherapy regimens with or…",
@@ -1681,6 +1652,35 @@
       "topicHints": [],
       "projectSummaryExcerpt": "CRI Biotech, Inc. is a company founded by Dr. Michael Kapiloff at Stanford University which is developing the novel etiology-independent therapy CRI-103 targeting downstream regulatory pathways common to Dilated Cardiomyopathy (DCM) regardless of etiology. DCM is a significant…",
       "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+    },
+    {
+      "applId": 11254697,
+      "projectNum": "2R44TR005335-02A1",
+      "projectTitle": "High-throughput kinetic system for small-molecule drug discovery",
+      "fiscalYear": 2026,
+      "awardAmount": 1401698,
+      "awardNoticeDate": "2026-09-17",
+      "projectStartDate": "2026-09-15",
+      "projectEndDate": "2028-08-31",
+      "organization": {
+        "name": "CAPIENDA BIOTECH, LLC",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "UNITED STATES",
+        "uei": "EGF7MDLBABC6",
+        "ipf": "10049147",
+        "type": "Domestic For-Profits"
+      },
+      "matchedTerms": [
+        "biotechnology",
+        "drug discovery"
+      ],
+      "topicHints": [
+        "AI Drug Discovery",
+        "Precision Diagnostics"
+      ],
+      "projectSummaryExcerpt": "Abstract Evidence is accumulating for higher efficacy of small molecule drugs that have off-rates slower than the pharmacokinetic clearance rate. Despite the importance of kinetics, the standard approach is low throughput Biacore testing in de novo drug discovery/screening. But…",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11254697"
     }
   ]
 }

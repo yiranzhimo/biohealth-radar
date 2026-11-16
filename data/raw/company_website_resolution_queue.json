@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-15T11:02:12+00:00",
-  "count": 588,
+  "capturedAt": "2026-11-16T11:25:49+00:00",
+  "count": 589,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -662,6 +662,23 @@
         ],
         "ticker": [
           "AEON"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-aethlon-medical",
+      "name": "Aethlon Medical Inc",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0000882291",
+      "identifiers": {
+        "cik": [
+          "0000882291"
+        ],
+        "ticker": [
+          "AEMD"
         ]
       },
       "sourceTypes": [
@@ -3190,6 +3207,23 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-bonestrong-therapeutics",
+      "name": "Bonestrong Therapeutics Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
+      "identifiers": {
+        "nihIpf": [
+          "10091062"
+        ],
+        "uei": [
+          "XUNHXKKMFJ63"
+        ]
+      },
+      "sourceTypes": [
+        "cell therapy"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3636,6 +3670,26 @@
       "status": "needs_official_domain"
     },
     {
+      "companyId": "candidate-capienda-biotech",
+      "name": "Capienda Biotech, LLC",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11254697",
+      "identifiers": {
+        "nihIpf": [
+          "10049147"
+        ],
+        "uei": [
+          "EGF7MDLBABC6"
+        ]
+      },
+      "sourceTypes": [
+        "AI Drug Discovery",
+        "Precision Diagnostics",
+        "biotechnology",
+        "drug discovery"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
       "companyId": "candidate-capricor-therapeutics",
       "name": "Capricor Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001133869",
@@ -3938,6 +3992,23 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-cerenome",
+      "name": "Cerenome, Inc.",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001095981",
+      "identifiers": {
+        "cik": [
+          "0001095981"
+        ],
+        "ticker": [
+          "CNSY"
+        ]
+      },
+      "sourceTypes": [
+        "Pharmaceutical Preparations"
       ],
       "status": "needs_official_domain"
     },
@@ -4308,23 +4379,6 @@
         ],
         "ticker": [
           "CNBX"
-        ]
-      },
-      "sourceTypes": [
-        "Pharmaceutical Preparations"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-cns-pharmaceuticals",
-      "name": "CNS Pharmaceuticals, Inc.",
-      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001729427",
-      "identifiers": {
-        "cik": [
-          "0001729427"
-        ],
-        "ticker": [
-          "CNSP"
         ]
       },
       "sourceTypes": [
@@ -5147,7 +5201,8 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery"
+        "drug discovery",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -6289,25 +6344,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-kure-cells",
-      "name": "Kure Cells Inc",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11416294",
-      "identifiers": {
-        "nihIpf": [
-          "10065823"
-        ],
-        "uei": [
-          "JCZPXLMQQ2D1"
-        ]
-      },
-      "sourceTypes": [
-        "Cell Therapy",
-        "Precision Diagnostics",
-        "gene therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-kymera-therapeutics",
       "name": "Kymera Therapeutics, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001815442",
@@ -7206,6 +7242,7 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
+        "gene therapy",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
@@ -7913,8 +7950,7 @@
         ]
       },
       "sourceTypes": [
-        "biotechnology",
-        "cell therapy"
+        "biotechnology"
       ],
       "status": "needs_official_domain"
     },
@@ -8594,24 +8630,6 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
-      "companyId": "candidate-ting-therapeutics",
-      "name": "Ting Therapeutics, Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11380822",
-      "identifiers": {
-        "nihIpf": [
-          "10055005"
-        ],
-        "uei": [
-          "F5R2ZH3HCHB5"
-        ]
-      },
-      "sourceTypes": [
-        "Precision Diagnostics",
-        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
