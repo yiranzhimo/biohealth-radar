@@ -43480,6 +43480,7 @@
           "evidence-sec-0001576280-000157628026000043",
           "evidence-sec-0001576280-000119312526445514",
           "evidence-sec-0001576280-000119312526444416",
+          "evidence-pubmed-43041737",
           "evidence-company-guardant-health-official-1e25833c0777",
           "evidence-company-guardant-health-pipeline-a2e78138ba78"
         ]
@@ -43550,10 +43551,11 @@
         ]
       },
       "coverage": {
-        "evidenceCount": 8,
+        "evidenceCount": 9,
         "evidenceBySourceType": {
           "Company": 3,
-          "Filing": 5
+          "Filing": 5,
+          "Paper": 1
         },
         "lastEvidenceDate": "2026-11-16",
         "programCandidateCount": 0,
@@ -43630,6 +43632,17 @@
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526444416/d457424d8k.htm"
         },
         {
+          "id": "event-pubmed-43041737",
+          "date": "2026-11-02",
+          "title": "Multiomic liquid biopsy: emerging applications in disease quantification, biomarker detection, molecular phenotyping, and cancer signal of origin prediction.",
+          "eventType": "Review",
+          "sourceType": "Paper",
+          "evidenceLevel": "Medium",
+          "needsReview": false,
+          "evidenceId": "evidence-pubmed-43041737",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43041737/"
+        },
+        {
           "id": "event-evidence-company-guardant-health-official-1e25833c0777",
           "date": "2026-10-21",
           "title": "Guardant Health | Conquering Cancer With Data",
@@ -43639,17 +43652,6 @@
           "needsReview": true,
           "evidenceId": "evidence-company-guardant-health-official-1e25833c0777",
           "sourceUrl": "https://guardanthealth.com/"
-        },
-        {
-          "id": "event-evidence-company-guardant-health-pipeline-a2e78138ba78",
-          "date": "2026-08-10",
-          "title": "Guardant Complete® for Early and Advanced Stage Cancer | Guardant Health",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-guardant-health-pipeline-a2e78138ba78",
-          "sourceUrl": "https://guardanthealth.com/products/tests-for-patients-with-early-and-advanced-stage-cancer/"
         }
       ]
     },
