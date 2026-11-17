@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-17",
   "summary": {
     "profileCount": 621,
-    "evidenceCount": 1046,
+    "evidenceCount": 1047,
     "programCandidateCount": 0,
     "companyCandidateCount": 592,
     "companyMentionCount": 661,
@@ -37,9 +37,9 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 621,
-    "companyReportedCount": 620,
-    "withEvidenceCount": 620,
-    "withProductClaimsCount": 512,
+    "companyReportedCount": 621,
+    "withEvidenceCount": 621,
+    "withProductClaimsCount": 513,
     "withFuturePlansCount": 3,
     "failedSourceCount": 53,
     "identityLinkCount": 0
@@ -6841,7 +6841,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
             "text": "Akeso has established the proprietary end-to-end Akeso Comprehensive Exploration Platform (ACE Platform), building an Al-powered R&D innovation system centered on core technologies including Tetrabody BsAb/MsAb, ADC, TCE, siRNA, Cell Therapy and mRNA, as well as a GMP-compliant…",
-            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+            "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6849,7 +6849,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso (HKEX: 9926.HK) is a leading biopharmaceutical company committed to the research, development, manufacturing and commercialization of the world's first or best-in-class innovative biological medicines.",
             "text": "艾克瑟 (HKEX: 9926.HK) 是一家领先的生物制药公司，致力于全球首创或最佳创新生物药物的研究、开发、制造和商业化。",
-            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+            "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
+            "sourceUrl": "https://www.akesobio.com/en/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Akeso Announces NMPA Acceptance of sNDA for Ivonescimab in Combination with Chemotherapy for First-Line Biliary Tract Cancer",
+            "text": "Akeso Announces NMPA Acceptance of sNDA for Ivonescimab in Combination with Chemotherapy for First-Line Biliary Tract Cancer",
+            "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6857,15 +6865,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Akeso’s Gumokimab (IL-17A) Receives NMPA Approval for Active Ankylosing Spondylitis",
             "text": "Akeso’s Gumokimab (IL-17A) Receives NMPA Approval for Active Ankylosing Spondylitis",
-            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
-            "sourceUrl": "https://www.akesobio.com/en/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
-            "text": "Akeso is committed to becoming a global leader in biopharmaceuticals through efficient and breakthrough innovation in R&D, developing novel therapies that are first-in-class or best-in-class, and providing better disease solutions for patients around the world.",
-            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+            "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
             "sourceUrl": "https://www.akesobio.com/en/",
             "needsReview": true,
             "claimType": "Report"
@@ -6873,21 +6873,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-akeso-official-bca9d2c65ac1"
+          "evidence-company-akeso-official-9e5dbf0a5d16"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-akeso-official-bca9d2c65ac1",
-            "date": "2026-11-16",
+            "id": "event-evidence-company-akeso-official-9e5dbf0a5d16",
+            "date": "2026-11-17",
             "title": "Akeso, Inc | Home",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+            "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
             "sourceUrl": "https://www.akesobio.com/en/"
           }
         ],
@@ -6902,7 +6902,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-16",
+        "lastEvidenceDate": "2026-11-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6911,14 +6911,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-akeso-official-bca9d2c65ac1",
-          "date": "2026-11-16",
+          "id": "event-evidence-company-akeso-official-9e5dbf0a5d16",
+          "date": "2026-11-17",
           "title": "Akeso, Inc | Home",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-akeso-official-bca9d2c65ac1",
+          "evidenceId": "evidence-company-akeso-official-9e5dbf0a5d16",
           "sourceUrl": "https://www.akesobio.com/en/"
         }
       ]
@@ -20352,11 +20352,51 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。；公司官方页面表述：BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
-        "summaryOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs. BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
+        "summary": "公司官方页面表述：BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。；公司官方页面表述：探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
+        "summaryOriginal": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide. Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
+            "text": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
+            "text": "See how BeOne brings together innovative science, an accelerated pipeline, and a commitment to access to make more saves possible.",
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BeOne Medicines is a global oncology company advancing cancer care through innovative treatments and transformative therapies, improving outcomes for patients worldwide.",
+            "text": "BeOne Medicines是一家全球肿瘤公司，通过创新疗法和变革性治疗推动癌症护理，改善全球患者的治疗效果。",
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
+            "text": "BeOne Medicines is building the world’s leading oncology company – driven by scientific excellence and exceptional speed – to reach more patients than ever before.",
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "BeOne Medicines Announces Third Quarter 2026 Financial Results and Business Updates",
+            "text": "BeOne Medicines Announces Third Quarter 2026 Financial Results and Business Updates",
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "Explore BeOne Medicines’ clinical pipeline advancing innovative therapies across development stages to address unmet medical needs.",
             "text": "探索 BeOne Medicines 的临床管线，推进各开发阶段的创新疗法，以解决未满足的医疗需求。",
@@ -20364,54 +20404,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://beonemedicines.com/science/pipeline/",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "These designs establish BGB-B455 as a promising therapeutic candidate, offering potential for a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-            "text": "These designs establish BGB-B455 as a promising therapeutic candidate, offering potential for a well-balanced efficacy-safety profile for clinical development in CLDN6-expressing tumors.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-e7519c912ace",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Emerging preclinical evidence supports KAT6 inhibition as a promising therapeutic strategy in AML.",
-            "text": "Emerging preclinical evidence supports KAT6 inhibition as a promising therapeutic strategy in AML.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-e7519c912ace",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "BON-C1393 is a bispecific antibody-drug conjugate (ADC) targeting B7-H3 (CD276) and integrin beta-6 (ITGB6), two tumor-associated antigens frequently overexpressed in lung cancer and other solid tumors.",
-            "text": "BON-C1393 is a bispecific antibody-drug conjugate (ADC) targeting B7-H3 (CD276) and integrin beta-6 (ITGB6), two tumor-associated antigens frequently overexpressed in lung cancer and other solid tumors.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-e7519c912ace",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Tislelizumab is a uniquely designed humanized immunoglobulin G4 (IgG4) anti-programmed cell death protein 1 (PD-1) monoclonal antibody with high affinity and binding specificity against PD-1.",
-            "text": "Tislelizumab is a uniquely designed humanized immunoglobulin G4 (IgG4) anti-programmed cell death protein 1 (PD-1) monoclonal antibody with high affinity and binding specificity against PD-1.",
-            "evidenceId": "evidence-company-beone-medicines-pipeline-e7519c912ace",
-            "sourceUrl": "https://beonemedicines.com/science/pipeline/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-            "text": "As a global oncology company, BeOne is advancing a broad and deep pipeline, accelerating development through rigorous science to deliver transformative medicines to more people around the world.",
-            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
-            "sourceUrl": "https://beonemedicines.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-beone-medicines-official-d5fba5fb33b7",
           "evidence-company-beone-medicines-pipeline-e7519c912ace",
           "evidence-sec-0001651308-000162828026070477",
           "evidence-sec-0001651308-000162828026070469",
-          "evidence-company-beone-medicines-official-8a89bf1db317",
           "evidence-sec-0001651308-000165130826000025",
           "evidence-company-beone-medicines-investor_relations-60394f02563f",
           "evidence-sec-0001651308-000162828026052878",
@@ -20421,6 +20421,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "date": "2026-11-17",
+            "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+            "sourceUrl": "https://beonemedicines.com/"
+          },
           {
             "id": "event-evidence-company-beone-medicines-pipeline-e7519c912ace",
             "date": "2026-11-12",
@@ -20455,17 +20466,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/bgne-20261105.htm"
           },
           {
-            "id": "event-evidence-company-beone-medicines-official-8a89bf1db317",
-            "date": "2026-11-05",
-            "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
-            "sourceUrl": "https://beonemedicines.com/"
-          },
-          {
             "id": "event-sec-0001651308-000165130826000025",
             "date": "2026-08-26",
             "title": "BeOne Medicines filed Form 8-K",
@@ -20489,7 +20489,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-11-12",
+        "lastEvidenceDate": "2026-11-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -20497,6 +20497,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-beone-medicines-official-d5fba5fb33b7",
+          "date": "2026-11-17",
+          "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-beone-medicines-official-d5fba5fb33b7",
+          "sourceUrl": "https://beonemedicines.com/"
+        },
         {
           "id": "event-evidence-company-beone-medicines-pipeline-e7519c912ace",
           "date": "2026-11-12",
@@ -20529,17 +20540,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001651308-000162828026070469",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/bgne-20261105.htm"
-        },
-        {
-          "id": "event-evidence-company-beone-medicines-official-8a89bf1db317",
-          "date": "2026-11-05",
-          "title": "BeOne Medicines | Global Oncology Company Advancing Cancer Care",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-beone-medicines-official-8a89bf1db317",
-          "sourceUrl": "https://beonemedicines.com/"
         },
         {
           "id": "event-sec-0001651308-000165130826000025",
@@ -23324,7 +23324,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-biokey-cayman",
       "name": "BioKey (Cayman), Inc.",
       "asOfDate": "2026-11-17",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
         "ticker": "BKAIF",
@@ -23355,40 +23355,97 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "SEC EDGAR 的 biotech 相关 SIC 注册主体，Pharmaceutical Preparations；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：该公司的交易法注册已被撤销",
+        "summaryOriginal": "This company's Exchange Act registration has been revoked",
+        "translationStatus": "translated",
         "businessModel": [],
-        "commercialProducts": [],
+        "commercialProducts": [
+          {
+            "textOriginal": "This company's Exchange Act registration has been revoked",
+            "text": "该公司的交易法注册已被撤销",
+            "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "text": "This company's Exchange Act registration as a Municipal Advisor has been revoked",
+            "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "This company's Exchange Act registration as a Municipal Advisor has been cancelled",
+            "text": "该公司的《交易法》作为市政顾问的注册已被取消",
+            "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "No 8-K filing data for this company in last days",
+            "text": "No 8-K filing data for this company in last days",
+            "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359",
+            "needsReview": true,
+            "claimType": "Report"
+          }
+        ],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-biokey-cayman-official-c644ef580088"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "date": "2026-11-17",
+            "title": "EDGAR Entity Landing Page",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+            "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-17",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录SEC EDGAR 的 biotech 相关 SIC 注册主体链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-biokey-cayman-official-c644ef580088",
+          "date": "2026-11-17",
+          "title": "EDGAR Entity Landing Page",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-biokey-cayman-official-c644ef580088",
+          "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0002108359"
+        }
+      ]
     },
     {
       "companyId": "candidate-biolinerx",
@@ -49614,17 +49671,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "– ZANVASTRO ™ (zilganersen) first approved medicine for Alexander disease; first independent launch underway from leading neurology pipeline – – TRYNGOLZA ® (olezarsen) 2026 product sales guidance lowered as sHTG launch ramps more gradually than expected reflecting early…",
-            "text": "– ZANVASTRO ™ (zilganersen) first approved medicine for Alexander disease; first independent launch underway from leading neurology pipeline – – TRYNGOLZA ® (olezarsen) 2026 product sales guidance lowered as sHTG launch ramps more gradually than expected reflecting early…",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
+            "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "text": "The genetic basis of human disease continues to inspire our science and technology as we expand to new therapeutic approaches, while our industry-leading chemistry helps us target the right medicine to the right disease – providing a rich source for future breakthroughs and…",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "textOriginal": "– TRYNGOLZA is now the first and only RNA-targeted therapy indicated in the EU for sHTG ≥880 mg/dL (≥10 mmol/L) – – Approximately 700,000 people in the EU5 are estimated to have triglyceride levels ≥880 mg/dL (≥10 mmol/L) and at high risk of developing acute pancreatitis –…",
+            "text": "– TRYNGOLZA is now the first and only RNA-targeted therapy indicated in the EU for sHTG ≥880 mg/dL (≥10 mmol/L) – – Approximately 700,000 people in the EU5 are estimated to have triglyceride levels ≥880 mg/dL (≥10 mmol/L) and at high risk of developing acute pancreatitis –…",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49632,7 +49689,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
             "text": "Ionis Pharmaceuticals: Pioneering the Future of Medicine",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49640,7 +49697,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
             "text": "Ionis is unlocking the rapidly expanding potential of RNA- and DNA-targeted medicines to enable better futures for people living with serious diseases.",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49648,7 +49705,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "For the latest on Ionis news and developments",
             "text": "For the latest on Ionis news and developments",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49656,7 +49713,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Ionis to present at upcoming investor conferences",
             "text": "Ionis to present at upcoming investor conferences",
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -49664,7 +49721,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-ionis-official-4c022b7c3c11",
+          "evidence-company-ionis-official-2fa6ec542150",
           "evidence-company-ionis-pipeline-fbb44deefd9f",
           "evidence-sec-0000874015-000114036126042598",
           "evidence-sec-0000874015-000087401526000271",
@@ -49679,14 +49736,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-ionis-official-4c022b7c3c11",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-ionis-official-2fa6ec542150",
+            "date": "2026-11-17",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+            "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
             "sourceUrl": "https://ionis.com/"
           },
           {
@@ -49746,7 +49803,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 2,
           "Filing": 7
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-17",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -49755,14 +49812,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-ionis-official-4c022b7c3c11",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-ionis-official-2fa6ec542150",
+          "date": "2026-11-17",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-ionis-official-4c022b7c3c11",
+          "evidenceId": "evidence-company-ionis-official-2fa6ec542150",
           "sourceUrl": "https://ionis.com/"
         },
         {
@@ -59892,7 +59949,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
             "date": "2026-11-16",
             "title": "Home - Nykode",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -59945,7 +60002,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
           "date": "2026-11-16",
           "title": "Home - Nykode",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
