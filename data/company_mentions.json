@@ -4,6 +4,120 @@
   "asOfDate": "2026-11-18",
   "mentions": [
     {
+      "id": "mention-clinicaltrials-2b681e7c4e611ace",
+      "observedName": "Guangzhou Burning Rock Bioengineering Ltd.",
+      "normalizedName": "guangzhou burning rock bioengineering",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT05224596",
+      "sourceDate": "2022-02-28",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05224596",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Diagnostics",
+        "Longevity",
+        "Oncology",
+        "Precision Medicine",
+        "Precision Oncology",
+        "biomarker",
+        "中国",
+        "临床试验",
+        "精准医疗",
+        "肿瘤",
+        "衰老",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "AssesSment of Early-deteCtion basEd oN liquiD Biopsy in GASTRIC Cancer, ASCEND-Gastric"
+    },
+    {
+      "id": "mention-clinicaltrials-66b45e097770326e",
+      "observedName": "Novoic Limited",
+      "normalizedName": "novoic",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT04939818",
+      "sourceDate": "2023-03-22",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04939818",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [],
+      "contextTitle": "Clinical Feasibility of Speech Phenotyping for Remote Assessment of Neurodegenerative and Psychiatric Disorders"
+    },
+    {
+      "id": "mention-clinicaltrials-d6a05217a6c363a2",
+      "observedName": "IDION Inc.",
+      "normalizedName": "idion",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT05576220",
+      "sourceDate": "2023-03-14",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05576220",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Diagnostics",
+        "Oncology",
+        "Precision Medicine",
+        "临床试验",
+        "精准医疗",
+        "细胞治疗",
+        "肿瘤",
+        "诊断"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Remote Temperature Monitoring of Adult Subjects Undergoing Outpatient Stem Cell Transplant or CAR-T Cell Therapy"
+    },
+    {
+      "id": "mention-clinicaltrials-deb926475201e383",
+      "observedName": "Genmab",
+      "normalizedName": "genmab",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT06525220",
+      "sourceDate": "2026-11-02",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06525220",
+      "knownCompanyIds": [
+        "genmab"
+      ],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Phase 3 Study to Evaluate Petosemtamab Plus Pembrolizumab vs Pembrolizumab in First-line Treatment of Head and Neck Cancer (LiGeR - HN1)"
+    },
+    {
       "id": "mention-csi-08169a02bbcfe599",
       "observedName": "BrightGene Bio-Medical Technology Co., Ltd.",
       "normalizedName": "brightgene bio medical technology",
