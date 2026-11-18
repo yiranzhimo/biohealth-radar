@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "akeso",
@@ -517,9 +517,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "arcellx",
@@ -574,9 +574,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "arvinas",
@@ -625,9 +625,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "arvinas",
@@ -795,9 +795,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "autolus",
@@ -858,9 +858,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "beam-therapeutics",
@@ -31039,10 +31039,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "crispr-therapeutics",
@@ -31717,9 +31717,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "intellia",
@@ -32850,10 +32850,10 @@
       "firstObservedAt": "2026-08-10T11:02:12+00:00",
       "lastChangedAt": "2026-08-10T11:09:51+00:00",
       "capturedAt": "2026-08-10T11:09:51+00:00",
-      "lastCheckedAt": "2026-11-17T13:46:30+00:00",
+      "lastCheckedAt": "2026-11-18T13:22:00+00:00",
       "nextCheckAt": "2026-08-17T13:46:20+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-17T13:46:30+00:00"
+      "lastFailureAt": "2026-11-18T13:22:00+00:00"
     },
     {
       "companyId": "recursion",
