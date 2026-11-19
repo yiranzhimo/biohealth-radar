@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_source_translations",
-  "capturedAt": "2026-10-29T11:04:24+00:00",
-  "sourceCapturedAt": "2026-10-29T11:03:13+00:00",
+  "capturedAt": "2026-11-19T13:50:42+00:00",
+  "sourceCapturedAt": "2026-11-19T13:49:16+00:00",
   "translationPolicyVersion": "company-source-zh-cn-v1",
   "translations": [
     {
@@ -40,6 +40,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_07705d72cf2daf00006a7ab54ea23c819285ca40e498d8a4b8"
+    },
+    {
+      "id": "translation-0b333f93b5e77056",
+      "sourceTextHash": "0b333f93b5e770568f8e3c641d3e54d68c070e111d53d20938dbbb677708ff05",
+      "sourceText": "The Investor Relations website contains information about Ionis Pharmaceuticals, Inc.'s business for stockholders, potential investors, and financial analysts.",
+      "sourceUses": [
+        {
+          "companyId": "ionis",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "投资者关系网站包含有关Ionis Pharmaceuticals, Inc.业务的信息，供股东、潜在投资者和财务分析师使用。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-11-19T13:50:42+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_08993b58dd863a34006afefeb383a887d0aca815d0339f2cae"
     },
     {
       "id": "translation-0defe7a8206ed684",
@@ -557,6 +575,24 @@
       "responseId": "resp_0acc8359d32b47eb006ac62afb1b7487d1941b0881c78115e7"
     },
     {
+      "id": "translation-3113d1396bf00043",
+      "sourceTextHash": "3113d1396bf00043115a745d058b432968af3fbcd8acd17595a5bb27d95158e6",
+      "sourceText": "The Investor Relations website contains information about C4 Therapeutics, Inc.'s business for stockholders, potential investors, and financial analysts.",
+      "sourceUses": [
+        {
+          "companyId": "c4-therapeutics",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "投资者关系网站包含有关C4 Therapeutics, Inc.业务的信息，供股东、潜在投资者和财务分析师使用。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-11-19T13:50:42+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_08993b58dd863a34006afefeb383a887d0aca815d0339f2cae"
+    },
+    {
       "id": "translation-341c6e373791b558",
       "sourceTextHash": "341c6e373791b558cc1c3a442a611ddbc25570fa2ef22ff249a3d258a0356718",
       "sourceText": "Legend Biotech is a global, commercial-stage biotechnology company developing and manufacturing novel therapies. We explore and apply innovative technologies to deliver cutting-edge options for patients around the world.",
@@ -928,6 +964,11 @@
         },
         {
           "companyId": "candidate-aquinnah-pharmaceuticals",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-artery-therapeutics",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -2796,6 +2837,24 @@
       "responseId": "resp_0b2535da8e08e092006a7ab54417b0819db7b17cb395c03849"
     },
     {
+      "id": "translation-89d410ea6c74f589",
+      "sourceTextHash": "89d410ea6c74f589296414d30c120c0146928425b7ba8b2813f3e8554291bce2",
+      "sourceText": "Find a comprehensive list of news releases and company announcements from international biotechnology company Genmab.",
+      "sourceUses": [
+        {
+          "companyId": "genmab",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "找到国际生物技术公司Genmab的新闻稿和公司公告的综合列表。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-11-19T13:50:42+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_08993b58dd863a34006afefeb383a887d0aca815d0339f2cae"
+    },
+    {
       "id": "translation-8fdf9af4d356515e",
       "sourceTextHash": "8fdf9af4d356515ed99e2b99f0cfc0b01cd4d96baebd568eff41105d419aacb8",
       "sourceText": "Akeso Advances IO2.0 + ADC2.0 Strategy: First Patient Dosed in Phase II Study of TROP2/Nectin-4 Bispecific ADC (AK146D1) Combined with Ivonescimab in Breast Cancer",
@@ -2989,6 +3048,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-aethlon-medical",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-agentix",
           "sourceRole": "official",
           "field": "business_summary"
@@ -3110,6 +3174,11 @@
         },
         {
           "companyId": "candidate-amarin-corp-plc-uk",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-amarin-corp-plcuk",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -3394,6 +3463,16 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-azora-therapeutics-inc-de",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-bambusa-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-barinthus-biotherapeutics",
           "sourceRole": "official",
           "field": "business_summary"
@@ -3515,6 +3594,11 @@
         },
         {
           "companyId": "candidate-biohaven",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-biokey-cayman",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -3725,6 +3809,11 @@
         },
         {
           "companyId": "candidate-century-therapeutics",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
+          "companyId": "candidate-cerenome",
           "sourceRole": "official",
           "field": "business_summary"
         },
@@ -4349,6 +4438,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-talawar-tx",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-tarsus-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4439,6 +4533,11 @@
           "field": "business_summary"
         },
         {
+          "companyId": "candidate-windward-bio-group",
+          "sourceRole": "official",
+          "field": "business_summary"
+        },
+        {
           "companyId": "candidate-x4-pharmaceuticals",
           "sourceRole": "official",
           "field": "business_summary"
@@ -4465,6 +4564,24 @@
       "translatedAt": "2026-08-16T05:03:27+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0d4f44e00171f872006a8144a03b8487d1803b7b2416b30e93"
+    },
+    {
+      "id": "translation-99d91d310f7a8829",
+      "sourceTextHash": "99d91d310f7a88299912fd692f26b01c59676b1cb81fae40c6ccc58a794fe828",
+      "sourceText": "Illumina, Inc. Investor relations (IR) website contains information about our business for stockholders, potential investors, and financial analysts.",
+      "sourceUses": [
+        {
+          "companyId": "illumina",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "Illumina, Inc. 投资者关系（IR）网站包含有关我们业务的信息，供股东、潜在投资者和财务分析师使用。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-11-19T13:50:42+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_08993b58dd863a34006afefeb383a887d0aca815d0339f2cae"
     },
     {
       "id": "translation-9a417b079bdd18b3",
@@ -4799,6 +4916,24 @@
       "translatedAt": "2026-08-11T05:38:11+00:00",
       "translationPolicyVersion": "company-source-zh-cn-v1",
       "responseId": "resp_0b29899af36cf068006a7ab558587881a3bd97bd35619c5946"
+    },
+    {
+      "id": "translation-cc78a110a0a5efe2",
+      "sourceTextHash": "cc78a110a0a5efe25cd2bbafd9a56b6b53c2bdd1b9dbe8fc6a7a51305251cde9",
+      "sourceText": "The Investor Relations website contains information about Nurix Therapeutics, Inc. 's business for stockholders, potential investors, and financial analysts.",
+      "sourceUses": [
+        {
+          "companyId": "nurix",
+          "sourceRole": "investor_relations",
+          "field": "business_summary"
+        }
+      ],
+      "translationCn": "投资者关系网站包含有关Nurix Therapeutics, Inc.业务的信息，供股东、潜在投资者和财务分析师使用。",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "translatedAt": "2026-11-19T13:50:42+00:00",
+      "translationPolicyVersion": "company-source-zh-cn-v1",
+      "responseId": "resp_08993b58dd863a34006afefeb383a887d0aca815d0339f2cae"
     },
     {
       "id": "translation-cd3633c2f9116156",
