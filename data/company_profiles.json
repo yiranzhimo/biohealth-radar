@@ -42160,10 +42160,7 @@
             "claimType": "Report"
           }
         ],
-        "programCandidateIds": [
-          "program-candidate-genmab-pembrolizumab",
-          "program-candidate-genmab-petosemtamab"
-        ],
+        "programCandidateIds": [],
         "evidenceIds": [
           "evidence-company-genmab-investor_relations-2f17581be3b5",
           "evidence-sec-0001434265-000143426526000160",
@@ -42173,7 +42170,6 @@
           "evidence-sec-0001434265-000143426526000150",
           "evidence-sec-0001434265-000143426526000148",
           "evidence-sec-0001434265-000143426526000146",
-          "evidence-clinicaltrials-NCT06525220",
           "evidence-sec-0001434265-000143426526000140",
           "evidence-sec-0001434265-000143426526000138",
           "evidence-sec-0001434265-000143426526000136",
@@ -42252,19 +42248,20 @@
         ],
         "inferences": [],
         "unknowns": [
+          "尚未建立经过验证的结构化产品或管线记录。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 24,
+        "evidenceCount": 23,
         "evidenceBySourceType": {
           "Company": 2,
-          "Filing": 21,
-          "Registry": 1
+          "Filing": 21
         },
         "lastEvidenceDate": "2026-11-19",
-        "programCandidateCount": 2,
+        "programCandidateCount": 0,
         "gaps": [
+          "尚未建立经过验证的结构化产品或管线记录。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },

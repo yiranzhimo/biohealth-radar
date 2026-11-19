@@ -2,52 +2,5 @@
   "schemaVersion": "1.0",
   "kind": "program_candidates",
   "asOfDate": "2026-11-19",
-  "programs": [
-    {
-      "id": "program-candidate-genmab-pembrolizumab",
-      "companyId": "genmab",
-      "name": "Pembrolizumab",
-      "verificationStatus": "candidate",
-      "relationship": "trial_intervention",
-      "ownershipVerified": false,
-      "trialIds": [
-        "NCT06525220"
-      ],
-      "indications": [
-        "Head and Neck Squamous Cell Carcinoma"
-      ],
-      "phases": [
-        "PHASE3"
-      ],
-      "trialStatuses": [
-        "ACTIVE_NOT_RECRUITING"
-      ],
-      "evidenceUrls": [
-        "https://clinicaltrials.gov/study/NCT06525220"
-      ]
-    },
-    {
-      "id": "program-candidate-genmab-petosemtamab",
-      "companyId": "genmab",
-      "name": "Petosemtamab",
-      "verificationStatus": "candidate",
-      "relationship": "trial_intervention",
-      "ownershipVerified": false,
-      "trialIds": [
-        "NCT06525220"
-      ],
-      "indications": [
-        "Head and Neck Squamous Cell Carcinoma"
-      ],
-      "phases": [
-        "PHASE3"
-      ],
-      "trialStatuses": [
-        "ACTIVE_NOT_RECRUITING"
-      ],
-      "evidenceUrls": [
-        "https://clinicaltrials.gov/study/NCT06525220"
-      ]
-    }
-  ]
+  "programs": []
 }
