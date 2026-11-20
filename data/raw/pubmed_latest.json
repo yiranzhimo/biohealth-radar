@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-19T20:43:54.888398+00:00",
+  "capturedAt": "2026-11-20T07:25:16.974142+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,36 +10,142 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-19",
-    "end": "2026-11-19"
+    "start": "2025-11-20",
+    "end": "2026-11-20"
   },
   "pmids": [
+    "43057805",
+    "43057429",
+    "43057059",
+    "43056178",
+    "43055954",
     "43055266",
-    "43055148",
-    "43054804",
-    "43054676",
-    "43054446",
-    "43053758",
     "43051310",
     "43046701",
     "43026583",
     "43025064",
     "43008172",
     "42990453",
+    "43056425",
+    "43056392",
     "43053624",
     "43046257",
     "43046238",
     "43042476",
-    "43039905",
-    "43039044",
+    "43057506",
+    "43056604",
     "43055339",
     "43055119",
     "43054347",
-    "43053586",
-    "43053253",
-    "43053124"
+    "43053586"
   ],
   "records": [
+    {
+      "pmid": "43057805",
+      "title": "Effects of clinostat-based microgravity simulation on the growth and differentiation of cerebral organoids using a 3D-clinostat.",
+      "abstract": "The human brain is highly sensitive to altered gravitational environments, yet the molecular and cellular consequences of microgravity remain poorly understood due to the limited accessibility of astronaut neural tissue. Here, we employ human cerebral organoids cultured in a 3D clinostat to clinostat-based simulation and investigate neurodevelopmental responses. Organoids were exposed to continuous clinostat-based simulation for 30 days (C30), 15 days followed by 15 days of normal gravity (C15 N15), or standard gravity controls (N30). Neurochemical profiling revealed marked reductions in acetylcholine, dopamine, norepinephrine, and glutamate under microgravity, with partial recovery after re-adaptation; by contrast, GABA levels increased persistently, suggesting an excitatory-inhibitory imbalance. Transcriptomic analysis demonstrated widespread downregulation of pluripotency markers (OCT4, NANOG, SOX2), regional identity genes (FOXG1, DLX2, NKX2.1, SIX6), and neuronal differentiation markers (MAP2, DCX, VGLUT1), whereas astrocytic GFAP was robustly elevated and cortical identity marker SATB2 recovered upon re-exposure to normal gravity. Despite extensive transcriptional changes, protein levels of the neuronal marker MAP2 and the pluripotency marker SOX2 remained unchanged. Together, these findings indicate that clinostat-based simulation disrupts stemness, regional specification, and neurotransmitter balance, while promoting astrocytic lineage bias and partial recovery upon gravitational re-exposure. This study establishes human cerebral organoids as a tractable ground-based simulation model for probing brain vulnerability to space environments and for identifying candidate biomarkers and countermeasures to safeguard astronaut neurocognitive health during long-duration missions.",
+      "journal": "Life sciences in space research",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Inha Research Institute for Aerospace Medicine, Inha University College of Medicine, Incheon 22332, Republic of Korea.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea; Graduate School of New Drug Discovery and Development, Chungnam National University, Daejeon 34134, Republic of Korea.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea; Medicinal Chemistry & Pharmacology, University of Science & Technology (UST), Daejeon 34113, Republic of Korea. Electronic address: bkoh@krict.re.kr.",
+        "Therapeutics and Biotechnology Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeong-ro, Yuseong-gu, Daejeon 34114, Republic of Korea; Medicinal Chemistry & Pharmacology, University of Science & Technology (UST), Daejeon 34113, Republic of Korea. Electronic address: hjeon@krict.re.kr.",
+        "Inha Research Institute for Aerospace Medicine, Inha University College of Medicine, Incheon 22332, Republic of Korea; Department of Otorhinolaryngology-Head and Neck Surgery, Inha University College of Medicine, Incheon 22332, Republic of Korea. Electronic address: stedman@inha.ac.kr."
+      ],
+      "doi": "10.1016/j.lssr.2026.03.009",
+      "date": "2026-03-24",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057805/"
+    },
+    {
+      "pmid": "43057429",
+      "title": "Digoxigenin is a Broad-Spectrum Antiviral Agent against Influenza A Virus via Degradation of Nucleoprotein.",
+      "abstract": "Seasonal influenza A viruses (IAVs; H1N1 and H3N2) and their zoonotic variants (e.g. H5N1 and H3N8) pose persistent threats to public health, highlighting an urgent need for innovative therapeutic strategies. Through high-throughput screening with the constructed reporter virus H3N8-GFP, we initially identified a panel of potential antiviral agents from FDA-approved compounds. Further validation revealed that digoxigenin (Dig), the aglycone of digoxin, significantly inhibited the proliferation of H3N8, H1N1, H3N2, and H5N1 in infected primary murine alveolar epithelial cells and ESC-derived human alveolar organoids. Dig treatment protected mice from lethal challenge with H1N1 and H3N8 by increasing survival rates and reducing viral loads.Mechanistically, Dig exerts its antiviral activity by directly binding to the host Na+/K+-ATPase α1 subunit (ATP1A1), which triggers the degradation of viral nucleoprotein via both the ubiquitin-proteasome and autophagy pathways, without affecting other components of the viral ribonucleoprotein (vRNP). Our study reveals the Dig-mediated antiviral mechanism that targets the host cell degradation machinery, and identifies Dig as a promising broad-spectrum antiviral agent against IAVs.",
+      "journal": "Virologica Sinica",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Institute of Molecular Rhythm and Metabolism, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China.",
+        "Institute of Molecular Rhythm and Metabolism, Guangzhou University of Chinese Medicine, Guangzhou 510006, China; Longhu Laboratory of Advanced Immunology, Zhengzhou 450000, China.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China; State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, School of Public Health, Xiamen University, Xiamen 361102, China.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China; State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou 510120, China.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China. Electronic address: liu_huisheng@gzlab.ac.cn.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China. Electronic address: wang_shaobo@gzlab.ac.cn.",
+        "Institute of Molecular Rhythm and Metabolism, Guangzhou University of Chinese Medicine, Guangzhou 510006, China. Electronic address: bj.wu@hotmail.com.",
+        "Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou 510000, China; State Key Laboratory of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou 510120, China. Electronic address: qi_nan@gzlab.ac.cn."
+      ],
+      "doi": "10.1016/j.virs.2026.11.019",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057429/"
+    },
+    {
+      "pmid": "43057059",
+      "title": "From cortical development to glioma: neural stem and progenitor programs in tumor heterogeneity.",
+      "abstract": "Adult gliomas are shaped by an interaction between somatic genetics and developmental cell identity rather than by either factor alone. Here, we distinguish cell-of-mutation, cell-of-origin, developmental lineage identity, and transcriptional cell state, and use this framework to compare isocitrate dehydrogenase (IDH)-mutant glioma with IDH-wildtype glioblastoma. Recent single-cell, spatial, and lineage-tracing studies show that glioma cells repeatedly co-opt neurodevelopmental programs, while genetic alterations bias, but do not fully define, the states that malignant cells occupy. Microenvironmental signals and therapy further reshape these states during tumor progression. We discuss how genetically engineered mouse models, patient-derived xenografts and tumoroids, and human organoid transplantation can test these relationships, emphasizing that complementary models and direct benchmarking to patient tissue are essential for resolving, and effectively treating, glioma heterogeneity.",
+      "journal": "Current opinion in genetics & development",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Cellular and Physiological Sciences, Life Sciences Institute, University of British Columbia, Vancouver, BC, Canada.",
+        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, CA, USA.",
+        "Department of Biological Chemistry, David Geffen School of Medicine, University of California, Los Angeles, CA, USA. Electronic address: abhaduri@mednet.ucla.edu."
+      ],
+      "doi": "10.1016/j.gde.2026.102557",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057059/"
+    },
+    {
+      "pmid": "43056178",
+      "title": "Organoids as Functional Models of Hepatic Tropism in Colorectal Cancer Liver Metastasis: From a Selective Hepatic Niche to Liver-specific Vulnerabilities.",
+      "abstract": "Colorectal cancer liver metastasis (CRLM) is favored by portal anatomy but determined by a sequence of organ-selective bottlenecks: sinusoidal arrest, early survival, immune escape, metabolic accommodation, and growth-pattern-specific expansion. This Review integrates direct human CRLM evidence, mechanistic models, and organoid studies to define what is established, what remains inferential, and what next-generation models must test. Paired primary-tumor and liver-metastasis organoids preserve inter- and intrapatient heterogeneity and can reproduce selected chemotherapy responses, but epithelial-only cultures cannot model hepatic receptivity. Liver-containing systems should therefore be built as question-specific modules that add hepatocytes, liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer or recruited myeloid cells, extracellular matrix, and flow only when required by the hypothesis. We propose an evidence-linked experimental framework combining longitudinal single-cell transcriptomics, chromatin profiling, metabolomics, isotope tracing, spatial readouts, and perturbation-rescue experiments. Particular emphasis is placed on extracellular-vesicle-mediated premetastatic niche formation, clinically observed microenvironmental evolution, and context-dependent vulnerabilities such as vessel co-option and liver-restricted immune-metabolic dependencies. We also define minimum reporting and validation standards required before organoid results can influence clinical decisions. The central conclusion is that organoids become models of hepatic tropism only when liver context is treated as a controlled causal variable rather than as the site from which tumor epithelium was sampled.",
+      "journal": "Technology in cancer research & treatment",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pulmonary and Critical Care Medicine, Taikang Tongji (Wuhan) Hospital, Wuhan 430000, China.",
+        "China Three Gorges University, Yichang, Hubei, China."
+      ],
+      "doi": "10.1177/15330338261498294",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056178/"
+    },
+    {
+      "pmid": "43055954",
+      "title": "Perspectives of parents of children with monogenic neurodevelopmental disorders on research involving patient-derived neuronal models.",
+      "abstract": "Patient-derived stem cell-based neuronal models hold great promise for advancing research into monogenic neurodevelopmental disorders (mNDDs). These neuronal models are generated using induced pluripotent stem cell (iPSC) technologies, and are perceived as \"ethically sensitive\". To date, ethical discussions on the use of neuronal models have predominantly focused on three-dimensional (3D) neuronal models, such as brain organoids, while two-dimensional (2D) neuronal models - which are widely used in current research settings - remain underexplored. A better understanding of the perspectives of parents of children with mNDDs on ethical issues - including the moral status of 2D models, informed consent, autonomy, privacy and misuse - is needed. We report the results of a semi-structured interview study among parents of children with mNDDs (n = 28) investigating their perspectives on the ethically responsible use of 2D patient-derived neuronal models in research. Respondents ascribed limited intrinsic value to neuronal models, often viewing them as ethically comparable to other somatic cells. They were highly motivated to enroll their child in iPSC research, but suggested that researchers: (1) restrict the use of their child's donated material to purposes benefiting the mNDD community, (2) protect their child's privacy, (3) communicate about research findings and reuse of donated material, and (4) minimize risks and burdens of research procedures for their (vulnerable) child. Based on these findings, we provide recommendations to research groups for informed consent and engagement processes to support responsible inclusion of children with mNDDs and their families in research using iPSC-based neuronal models.",
+      "journal": "Human genetics",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Public Health, Program for Medical Ethics, Philosophy and History of Medicine, University Medical Centre Rotterdam, Erasmus MC, Room Na 24.19, PO box 2040, 3000 CA, Rotterdam, The Netherlands. s.vantill@erasmusmc.nl.",
+        "Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands.",
+        "Department of Human Genetics, Radboud University Medical Center, Nijmegen, The Netherlands.",
+        "N=You Neurodevelopmental Precision Center, Amsterdam Neuroscience, Amsterdam Reproduction and Development, Amsterdam University Medical Center (UMC), Amsterdam, The Netherlands.",
+        "Department of Child and Adolescent Psychiatry, Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Levvel, Center for Child and Adolescent Psychiatry, Amsterdam, The Netherlands.",
+        "Child and Adolescent Psychiatry and Psychosocial Care, Emma Children's Hospital, Vrije Universiteit Amsterdam, Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Department of Human Genetics, Center for Neurogenomics and Cognitive Research (CNCR), Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Department of Functional Genomics, Center for Neurogenomics and Cognitive Research (CNCR), VU University Amsterdam and Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Department of Clinical Genetics, Erasmus MC, Rotterdam, The Netherlands.",
+        "Center of Excellence for Neuropsychiatry, Vincent van Gogh Institute for Psychiatry, Venray, The Netherlands.",
+        "Department of Human Genetics, Clinical Genetics Section & Center for Neurogenomics and Cognitive Research (CNCR), Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Department of Neurospector, Center for Neurogenomics and Cognitive Research (CNCR), VU University Amsterdam and Amsterdam UMC, Amsterdam, The Netherlands.",
+        "Department of Public Health, Program for Medical Ethics, Philosophy and History of Medicine, University Medical Centre Rotterdam, Erasmus MC, Room Na 24.19, PO box 2040, 3000 CA, Rotterdam, The Netherlands."
+      ],
+      "doi": "10.1007/s00439-026-02868-9",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055954/"
+    },
     {
       "pmid": "43055266",
       "title": "Schizophrenia heterogeneity, treatment response to clozapine, and the Johns Hopkins Schizoaffective Disorders Precision Medicine Center of Excellence.",
@@ -61,100 +167,6 @@
       "doi": "10.1080/09540261.2026.2748487",
       "date": "2026-11-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055266/"
-    },
-    {
-      "pmid": "43055148",
-      "title": "Disentangling the mechanisms of aperiodic neural activity using pluripotent stem cell-derived neural tissue models.",
-      "abstract": "Neural field potentials contain periodic (rhythmic) and aperiodic (arrhythmic) activity patterns. Both carry physiological information that can be inferred from the shape of the power spectrum. The emergence of pluripotent stem cell (PSC)-derived neural tissue cultures and organoid technology has paved the way for quantifying, with unprecedented access, how aperiodic activity is shaped during the earliest points of cortical development. This review examines how a framework built historically from simulations and recordings from humans and animal models could be applied to neural tissue culture systems to elucidate the underlying mechanisms of aperiodic activity.",
-      "journal": "Journal of neurophysiology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Cognitive Science, University of California, San Diego, La Jolla, CA, USA.",
-        "Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, CA, USA.",
-        "Neurosciences Graduate Program, University of California, San Diego, La Jolla, CA, USA.",
-        "Kavli Institute for Brain and Mind, University of California, San Diego, La Jolla, CA, USA."
-      ],
-      "doi": "10.1152/jn.90121.2026",
-      "date": "2026-11-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055148/"
-    },
-    {
-      "pmid": "43054804",
-      "title": "CFTR regulation of ROS-mediated cellular injury and immune dysregulation in cystic fibrosis.",
-      "abstract": "Cystic fibrosis (CF) is a life-limiting autosomal recessive disorder caused by biallelic loss-of-function mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, most commonly F508del. Mutant CFTR disrupts transepithelial ion transport and intracellular redox homeostasis, leading to excessive accumulation of reactive oxygen species (ROS). Evidence from cohort studies, human airway organoid models, and single-cell transcriptomic analyses published between 2020 and 2026 has prompted substantial revision of the prevailing linear model of CF pathogenesis. These studies demonstrate that misfolded CFTR can independently initiate oxidative stress and low-grade inflammation in the absence of microbial colonization. Mitochondrial ROS (mitoROS) constitute a central signaling hub linking F508del-induced protein misfolding to transcriptional suppression of the Nrf2 antioxidant program, constitutive activation of the NLRP3 inflammasome, and dysregulation of TLR-cytokine cascades. Triple CFTR modulator regimens, including elexacaftor-tezacaftor-ivacaftor (ETI) and the once-daily combination vanzacaftor/tezacaftor/deutivacaftor (Alyftrek, FDA-approved December 2024 for patients ≥6 years carrying at least one F508del or other Alyftrek-responsive CFTR variant; pivotal SKYLINE 102/103 trials demonstrated non-inferiority versus ETI in largely ETI-eligible populations), have transformed clinical care. However, multi-omics data indicate that these agents do not fully restore airway redox homeostasis or resolve persistent low-grade inflammation, even when CFTR channel activity recovers to 40%-50% of wild-type levels. This incomplete recovery may reflect persistent epigenetic inflammatory memory, uncorrected mitochondrial dysfunction, and incomplete restoration of the non-channel functions of CFTR. Moreover, marked interindividual variability in modulator response and persistent nonresponse underscore the need for adjunctive strategies. This review integrates foundational mechanistic studies with recent findings to delineate how CFTR regulates ROS-dependent tissue injury and immune dysregulation and to assess redox-targeted combination therapies designed to complement CFTR modulator monotherapy.",
-      "journal": "Frontiers in pharmacology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department of Joint Surgery, Gansu Provincial Hospital, Lanzhou, China.",
-        "Ningxia Key Laboratory of Clinical Pathogenic Microbiology, General Hospital of Ningxia Medical University, Yinchuan, China.",
-        "Department of Pathology, General Hospital of Ningxia Medical University, Yinchuan, China.",
-        "Department of Burn Surgery, Gansu Provincial Hospital, Lanzhou, China.",
-        "Infectious Diseases Department, General Hospital of Ningxia Medical University, Yinchuan, China.",
-        "Department of Radiology, General Hospital of Ningxia Medical University, Yinchuan, China.",
-        "Engineering Technology Research Center of Traditional Chinese Medicine Prevention and Control of Common Diseases in Cattle and Sheep in Ningxia Hui Autonomous Region, Ningxia Vocational and Technical University (Ningxia Open University), Yinchuan, China."
-      ],
-      "doi": "10.3389/fphar.2026.1979179",
-      "date": "2026-11-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054804/"
-    },
-    {
-      "pmid": "43054676",
-      "title": "Microfluidic engineering for organoid formation, cultivation, and sensing.",
-      "abstract": "Organoids have emerged as powerful in vitro models for studying tissue morphogenesis, organogenesis, and disease mechanisms. However, they are typically generated and maintained in static culture without perfusion, a configuration that imposes fundamental biophysical constraints and thereby restricts their physiological relevance. This review examines how microfluidic engineering addresses these limitations across the entire organoid workflow, from formation and long-term culture to integrated biosensing. First, we analyze how material selection, flow actuation, and channel hydrodynamics define the engineering basis for controlled microenvironments. We then classify microfluidic architectures by function: geometric confinement and droplet microfluidics for organoid formation; mechanical stimulation, vascularization, co-cultivation, and gradient control for long-term culture; and on-chip imaging with physical and biochemical sensors for real-time monitoring. By mapping these engineering solutions onto specific biological bottlenecks-diffusion-limited transport, the absence of vasculature, and sparse inter-tissue crosstalk-we identify persistent challenges in reproducibility, standardization, and sensor integration. Finally, we discuss the path toward regulatory qualification of such platforms and their potential to advance personalized medicine while reducing reliance on animal testing.",
-      "journal": "Frontiers in bioengineering and biotechnology",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Centre for Soft Matter and Physics of Fluids, Bauman Moscow State Technical University, Moscow, Russia.",
-        "Brain Science Institute, Russian Center of Neurology and Neurosciences, Moscow, Russia."
-      ],
-      "doi": "10.3389/fbioe.2026.1994650",
-      "date": "2026-11-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054676/"
-    },
-    {
-      "pmid": "43054446",
-      "title": "Mumio in cancer research: biological mechanisms and nanomedicine applications - a systematic review.",
-      "abstract": "The study aimed to analyze Mumio's anticancer potential through a literature review of scientific databases. In the 16 studies included in the analysis, 11 examined the direct effects of Mumio on cancer cell lines in vitro, 1 was conducted in vivo, and 4 focused on nanoparticle-based systems designed to deliver Mumio or other therapeutic agents. Across the studies, Mumio demonstrated greater cytotoxicity against cancer cells than against normal cells. Based on the available evidence, five major mechanisms associated with its activity against cancer cells can be distinguished: induction of apoptosis; inhibition of proliferation and oncogenic signaling; modulation of adhesion, invasion, and EMT; reduction of angiogenesis and inflammation; and regulation of oxidative stress. Mumio demonstrates biological activities that may be relevant to cancer research. Additional studies are required to verify these observations, including more advanced in vitro models such as spheroids and organoids, as well as further in vivo investigations.",
-      "journal": "Oncology reviews",
-      "publicationTypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "affiliations": [
-        "Chair of Urology and Andrology, Department of Regenerative Medicine, Collegium Medicum, Nicolaus Copernicus University, Bydgoszcz, Poland.",
-        "Institute of Advanced Studies (IAS), Nicolaus Copernicus University, Toruń, Poland."
-      ],
-      "doi": "10.3389/or.2026.1918402",
-      "date": "2026-11-04",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054446/"
-    },
-    {
-      "pmid": "43053758",
-      "title": "Upregulation of USP48 expression in gastric biopsies is indicative of gastric adenocarcinoma.",
-      "abstract": "Gastric diseases, such as gastritis, gastric ulcers, or gastric cancer, are common worldwide with increasing prevalence over the past decades, and chronic infections with Helicobacter pylori or Epstein-Barr virus could increase the risk of gastric cancer. Molecular dysregulation of deubiquitinylases (DUBs) in immune responses, DNA repair, or cell cycle control affect the development of a variety of diseases. Ubiquitin-specific peptidase 48 (USP48) is a DUB in the USP family, the largest group of DUBs in humans, and might serve as a new prognostic marker for gastric diseases. Upon H. pylori infection, USP48 affects the inflammatory immune response by controlling the transcription factor nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB). In our study, we show that USP48 is localized in the nucleus of primary monolayer mucosoids derived from 3D gastric organoids made from non-pathological tissue. Furthermore, using gastric biopsies from 326 patients, we examined USP48 expression levels in the cell nucleus in the course of gastric pathology. We observed that the nuclear expression level of USP48 was not altered in autoimmune (A-type) gastritis (p=0.9021) or in chemically induced C-type gastritis (p=0.83). However, tissue from Type-B H. pylori-caused gastritis showed USP48 upregulation, albeit without statistical significance (p=0.0616). In contrast, eradication of the pathogen (Ex-HP-gastritis) caused a significant decrease in USP48 expression (p=0.0021). Further, we observed no significant difference in USP48 expression in adenomas (p=0.416) or diffuse adenocarcinomas (p=0.3593), while USP48 expression was significantly upregulated in intestinal adenocarcinomas (p=0.0005).",
-      "journal": "Histology and histopathology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Institute of Experimental Internal Medicine, Otto von Guericke University, Magdeburg, Germany.",
-        "Institute of Pathology, Klinikum Bayreuth, Bayreuth, Germany.",
-        "Institute for Teaching and Research at the Medical Campus Upper Franconia, Friedrich, Alexander University Erlangen-Nürnberg, Bayreuth, Germany.",
-        "Bavarian Cancer Research Center, Bayreuth, Germany.",
-        "Institute of Experimental Internal Medicine, Otto von Guericke University, Magdeburg, Germany. naumann@med.ovgu.de."
-      ],
-      "doi": "10.14670/HH-25-179",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053758/"
     },
     {
       "pmid": "43051310",
@@ -274,6 +286,45 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42990453/"
     },
     {
+      "pmid": "43056425",
+      "title": "Zero-shot de novo design of a metalloenzyme.",
+      "abstract": "De novo design of enzymes is a frontier challenge, requiring consideration of catalytic mechanism and optimization across biochemical and biophysical criteria. Here, we present dEVA (design by EVolutionary Algorithm), a multi-objective protein design method built on principles drawn from evolutionary biology. We apply dEVA to the zero-shot, de novo design of metalloenzymes by optimizing the coordination sphere of catalytic metals. We characterize a bi-zinc metalloenzyme that exhibits promiscuous hydrolytic activity towards both phosphomonoesters and phosphodiesters. This design achieves a rate enhancement ((kcat/KM)/kw) of up to 3 x 1013 relative to the uncatalyzed reaction, comparable to characterized natural phosphatases. Structural characterization via x-ray crystallography and absorption spectroscopy supports the design of a de novo active site. These results demonstrate that de novo enzymes can be designed without pre-specified motifs, natural templates, or evolutionary information.",
+      "journal": "Science (New York, N.Y.)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Biophysics Program, Stanford University, Stanford, CA, USA.",
+        "Institute of Chemical Sciences and Engineering, École Polytechnique Féderale de Laussane (EPFL), Lausanne, Switzerland.",
+        "Institute of Life Sciences, HES-SO Valais-Wallis, Sion, Switzerland.",
+        "Department of Bioengineering, Stanford University, Stanford, CA, USA.",
+        "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA.",
+        "Department of Biochemistry, Stanford University, Stanford, CA, USA.",
+        "Gladstone Institutes, San Francisco, CA, USA.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California San Francisco, San Francisco, CA, USA."
+      ],
+      "doi": "10.1126/science.aej3009",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056425/"
+    },
+    {
+      "pmid": "43056392",
+      "title": "AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.",
+      "abstract": "How does evolutionary information become structural knowledge? AlphaFold 3 predicts protein structures and biomolecular assemblies with remarkable accuracy, yet how it transforms comparative sequence information into three-dimensional structure remains poorly understood. Here, we use mechanistic interpretability to follow this transformation through AlphaFold 3 and identify a computational principle underlying its structural inference. By extracting single- and pair-representations across the model's forward pass and combining representational-geometry analysis, linear probing, activation patching, and perturbation of the multiple-sequence alignment (MSA) and its phylogenetic diversity, we show that AlphaFold 3 does not simply infer structure from raw sequence nor from MSA depth. Instead, a small number of sufficiently divergent homologues provides enough comparative information to largely recover the structure predicted using the full MSA. The pairformer transforms this evolutionary signal into a compact latent space in which residue-pair distances, contacts, fold similarity, and structural confidence become progressively decodable. Removing the MSA disrupts these latent geometries. Replacing it with evolutionarily similar homologues provides substantially less information, while evolutionarily unrelated sequences fail to rescue prediction despite preserving the formal alignment input. In contrast, phylogenetically diverse MSA subsampling largely restores both prediction accuracy and representational coherence. These results suggest that AlphaFold 3 has learned to infer structure by constraining its geometric priors and structural hypotheses by the sequence variation of the MSA. This framework helps explain both the model's remarkable predictive power and its characteristic failure modes, with direct implications for protein design, conformational diversity, out-of-distribution generalization, and the interpretation of model confidence.",
+      "journal": "PLoS computational biology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "College of Computing, Georgia Institute of Technology, Atlanta, Georgia, United States of America.",
+        "Center for the Study of Systems Biology, Georgia Institute of Technology, Atlanta, Georgia, United States of America.",
+        "School of Biological Sciences, Georgia Institute of Technology, Atlanta, Georgia, United States of America."
+      ],
+      "doi": "10.1371/journal.pcbi.1014981",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056392/"
+    },
+    {
       "pmid": "43053624",
       "title": "Computational identification and comparative characterization of ligand scaffolds for VEGFR-1 and VEGFR-2 kinase domains in neovascular age-related macular degeneration.",
       "abstract": "VEGFR-1 and VEGFR-2 have distinct but complementary roles in vascular endothelial growth factor signaling, providing a rationale for comparing ligand recognition by their kinase domains in neovascular age-related macular degeneration. We integrated dual-receptor docking, fragment tree Transformer-based variational autoencoder generation, and three-dimensional Monte Carlo tree search to identify candidate ligand scaffolds. Screening 37,445 natural product-like structures retained 989 compounds, and subsequent molecular generation and physicochemical filtering produced 1,315 structures for receptor-constrained optimization. Twenty candidates were prioritized, of which VDS-1, VDS-2, and VDS-3 were examined using three independent 100 ns molecular dynamics simulations per complex and MM/PBSA analysis. VDS-1 showed the most negative MM/PBSA estimates for VEGFR-2 (-49.79 ± 0.21 kcal/mol) and VEGFR-1 (-45.95 ± 1.84 kcal/mol), whereas VDS-2 exhibited substantial between-trajectory variability. VDS-3 showed limited between-trajectory variation in its MM/PBSA estimates for both receptors, although protein-aligned ligand RMSD revealed between-replicate heterogeneity, particularly in VEGFR-1. Van der Waals interactions predominated among favorable modeled contributions, with PHE1047 in VEGFR-2 and ILE881 in VEGFR-1 emerging as recurrent interaction regions. Although VDS-1 showed favorable modeled interactions, it had substantial physicochemical and predicted safety liabilities. VDS-3 therefore represented a comparatively balanced starting scaffold for further optimization, although experimental validation and toxicity assessment remain necessary.",
@@ -345,48 +396,38 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43042476/"
     },
     {
-      "pmid": "43039905",
-      "title": "Rapid assessment of chemical complementarity of ligands for protein design.",
-      "abstract": "Driven by deep-learning methods, computational protein design can now rapidly generate de novo structures, opening new frontiers for creating proteins that bind small molecules tightly and specifically, although achieving predictable and tunable binding remains challenging. Here we address this with a rapid physics-based computational method to generate isosteric and chemically complementary binding pockets for small-molecule targets in de novo designed proteins. We test this experimentally by constructing and characterizing binding proteins for several synthetic and natural chromophores. By evaluating only single-digit numbers of designs, the pipeline delivers stable proteins with pre-organised binding sites in apo structures confirmed by X-ray crystallography, which bind the targets with micromolar affinities or better. To illustrate the scope and applications of this approach, we incorporate selective and coupled chromophore-binding sites in a two-domain de novo protein enabling controlled energy transfer between the two sites, and we develop a small de novo binding protein that can be used in live mammalian cells to visualise sub-cellular structures.",
-      "journal": "Nature communications",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "School of Chemistry, University of Bristol, Bristol, UK.",
-        "NNF Center for Protein Design, University of Copenhagen, Copenhagen, Denmark.",
-        "Max Planck-Bristol Centre for Minimal Biology, University of Bristol, Bristol, UK.",
-        "Wolfson Bioimaging Facility, University of Bristol, Bristol, UK.",
-        "HH Wills Physics Laboratory, University of Bristol, Bristol, UK.",
-        "Department of Chemistry, University of Sheffield, Sheffield, UK.",
-        "Manchester Institute of Biotechnology, University of Manchester, Manchester, UK.",
-        "Department of Chemistry, University of Manchester, Manchester, UK.",
-        "School of Chemistry, University of Bristol, Bristol, UK. d.n.woolfson@bristol.ac.uk.",
-        "NNF Center for Protein Design, University of Copenhagen, Copenhagen, Denmark. d.n.woolfson@bristol.ac.uk.",
-        "Max Planck-Bristol Centre for Minimal Biology, University of Bristol, Bristol, UK. d.n.woolfson@bristol.ac.uk.",
-        "School of Biochemistry, University of Bristol, Medical Sciences Building, Bristol, UK. d.n.woolfson@bristol.ac.uk."
-      ],
-      "doi": "10.1038/s41467-026-78764-7",
-      "date": "2026-10-19",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43039905/"
-    },
-    {
-      "pmid": "43039044",
-      "title": "Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.",
-      "abstract": "Genetically encoded chemically controlled proximity systems are chemogenetic tools that utilize small molecules to regulate protein association, higher-order assembly, and dissociation. Over the past three decades, an expanding repertoire of these systems has transformed the study of protein function and cellular signaling by enabling rapid, reversible, and tunable manipulation of protein localization, assembly, activity, and downstream physiological processes. As these technologies advance from experimental tools toward therapeutic applications, their translational potential depends not only on molecular switch performance but also on the properties of the chemical inducer and engineered protein components. In this review, we summarize the major classes and design principles of representative genetically encoded chemically controlled proximity systems, with particular emphasis on the pharmacological determinants that define their therapeutic operating window, including pharmacodynamic orthogonality, pharmacokinetics, tissue exposure, endogenous target engagement, and clinical readiness. We also examine how the biological origin and engineering of the chemogenetic modules influence immunogenicity and long-term compatibility. We further discuss exemplary applications, including pharmacological control of CAR-T cell activity, programmed cell death, CRISPR-based genome and epigenome engineering, and on-demand secretion of therapeutic proteins. Finally, we consider the delivery and coordinated expression of chemically regulated protein components as major remaining barriers to therapeutic implementation and highlight clinically compatible inducers, compact and minimally immunogenic protein modules, de novo protein design, and advances in viral and nonviral delivery as promising directions toward more reliable and pharmacologically tractable chemically controlled therapies.",
-      "journal": "Pharmacology & therapeutics",
+      "pmid": "43057506",
+      "title": "Extracellular vesicle surface glycosylation in clinical chemistry: Biological mechanisms, analytical challenges, and translational evidence.",
+      "abstract": "Extracellular vesicles (EVs) expose a glycocalyx that integrates cellular glycosylation programs with vesicle biogenesis, trafficking and interactions in biofluids. This surface layer is analytically attractive because it can be interrogated on intact particles and can encode disease-associated changes in sialylation, fucosylation, N-glycan branching, high-mannose structures and mucin-type O-glycans. Human studies, particularly in pancreatic cancer and lung or breast cancer, have converted selected EV-associated glycan motifs into measurable liquid-biopsy signals, whereas evidence in other diseases remains preliminary. Translation remains constrained by an unresolved measurand problem: EV abundance, glycan density, carrier identity, isolation selectivity, lipoprotein contamination and affinity avidity can each change the observed signal. This review integrates the biological architecture of the EV glycocalyx with the analytical workflow required for clinical chemistry. It compares affinity, mass-spectrometric and single-EV approaches; evaluates disease-specific evidence; and defines pre-analytical, analytical and post-analytical sources of variation. A translational framework is proposed in which candidate EV glycan biomarkers progress from structural and mechanistic confirmation through intended-use assay design, analytical validation, independent clinical validation and multicenter implementation. EV glycosylation is positioned not as another untargeted omics layer but as a surface-accessible signal defined by the vesicle population and assay whose value depends on explicit definition of the vesicle population and glycan measurand.",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "affiliations": [
-        "Center for Translational Cancer Research, Institute of Biosciences and Technology, Texas A&M University, Houston, TX, USA.",
-        "Center for Epigenetics and Disease Prevention, Institute of Biosciences and Technology, Texas A&M University, Houston, TX, USA; Department of Translational Medical Sciences, College of Medicine, Texas A&M University, Houston, TX, USA.",
-        "Center for Translational Cancer Research, Institute of Biosciences and Technology, Texas A&M University, Houston, TX, USA; Department of Translational Medical Sciences, College of Medicine, Texas A&M University, Houston, TX, USA. Electronic address: yubinzhou@tamu.edu."
+        "Department of Life Sciences, Yeungnam University, Gyeongsan 38541, Republic of Korea. Electronic address: wajidzaman@yu.ac.kr.",
+        "Department of Chemistry, Yeungnam University, Gyeongsan 38541, Republic of Korea. Electronic address: msakhtar@yu.ac.kr."
       ],
-      "doi": "10.1016/j.pharmthera.2026.109148",
-      "date": "2026-11-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43039044/"
+      "doi": "10.1016/j.cca.2026.122986",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057506/"
+    },
+    {
+      "pmid": "43056604",
+      "title": "Cytopathologic Diagnosis of Lymphomas in Serous Effusions, Cerebrospinal and Vitreous Fluid.",
+      "abstract": "Haematolymphoid lesions in serous effusion, cerebrospinal, and vitreous fluid are encountered regularly. In the paediatric clinical setting, haematolymphoid lesions are the most common cause of malignant serous effusions. Cytologists and cytopathologists should be prepared to evaluate such samples as part of routine diagnostic practice. This article provides a comprehensive overview of the cytomorphological features and diagnostic considerations of lymphomas involving serous fluids, cerebrospinal, and vitreous fluids. B-cell non-Hodgkin lymphomas are most often encountered in fluid cytology specimens. A practical method for triaging lymphocyte-predominant effusions involves assessing lymphoid cell size, specifically distinguishing between small-to-medium and large lymphoid cells. A significant differential diagnosis of small-medium lymphoid cells in fluid specimens is reactive lymphocytosis while that for large cells is metastatic malignant, and atypical or malignant mesothelial cells. Cytologic evaluation of fluids containing lymphocytes provides valuable information regarding the nature of these lesions. Accurate cytologic diagnosis, with clinicopathologic correlation and judicious use of ancillary testing where possible, is essential for identifying the underlying cause of effusion, guiding therapy, monitoring disease progression or relapse, and informing prognosis. To optimize diagnostic outcomes, proper collection, transport, and preparation of fluid specimens is required. Collaboration with haematopathologists and use of standardized cytologic reporting systems further contribute to diagnostic accuracy and consistency. Emerging technologies, including molecular profiling, liquid biopsy, single-cell multi-omics and artificial intelligence, offer promising avenues for advancing the diagnosis and prognostication of haematolymphoid malignancies in fluid-based samples. Further research will determine their clinical utility.",
+      "journal": "Acta cytologica",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Anatomical Pathology, University of the Witwatersrand and National Health Laboratory Service, Johannesburg, South Africa.",
+        "Division of Anatomical Pathology, Stellenbosch University and National Health Laboratory Service, Cape Town, South Africa."
+      ],
+      "doi": "10.1159/000550549",
+      "date": "2026-11-19",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056604/"
     },
     {
       "pmid": "43055339",
@@ -460,58 +501,131 @@
       "doi": "10.17998/jlc.2026.11.06",
       "date": "2026-11-19",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053586/"
-    },
-    {
-      "pmid": "43053253",
-      "title": "Circulating biomarkers in early-stage hepatocellular carcinoma for risk stratification, diagnosis and prognosis.",
-      "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, largely due to tumor heterogeneity, late diagnosis, and high recurrence rates even after curative treatment. Although HCC is potentially curable when detected at an early stage, suboptimal surveillance, particularly in patients with underlying cirrhosis or metabolic risk factors, limits the proportion of patients eligible for curative therapies. Current surveillance strategies for at-risk populations have intrinsic limitations, and the performance of imaging and serum biomarkers remains suboptimal. Moreover, the lack of reliable prognostic biomarkers for detecting early recurrence hampers post-treatment surveillance and impacts clinical outcomes. In this context, circulating biomarkers have emerged as promising tools for improving both early detection and prognostic stratification. Liquid biopsy has the potential to enable early, non-invasive diagnosis of HCC and allows longitudinal assessment of tumor progression through serial sampling. In early-stage HCC, blood candidates may complement or outperform conventional approaches by enabling earlier diagnosis and more accurate risk stratification. In this review, we summarize recent advances and current challenges in the clinical translation of circulating biomarkers. We focus on key liquid biopsy components, including circulating cell-free DNA, particularly circulating tumor DNA, circulating tumor cells, non-coding RNAs, extracellular vesicles, proteins and metabolites, such as bile acids and lipids, highlighting their diagnostic and prognostic potential and their possible integration into personalized management strategies for patients with early-stage HCC.",
-      "journal": "Biomarker research",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Department for Life Quality Studies, University of Bologna, Corso d'Augusto 237, Rimini, 47921, Italy.",
-        "Department of Medical and Surgical Sciences, University of Bologna, Bologna, 40138, Italy.",
-        "Diagnostic and Therapeutic Interventional Ultrasound Unit, IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, 40138, Italy.",
-        "Department for Life Quality Studies, University of Bologna, Corso d'Augusto 237, Rimini, 47921, Italy. francesca.fornari2@unibo.it.",
-        "IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, 40138, Italy. francesca.fornari2@unibo.it."
-      ],
-      "doi": "10.1186/s40364-026-01045-4",
-      "date": "2026-11-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053253/"
-    },
-    {
-      "pmid": "43053124",
-      "title": "Non-invasive proteomic profiling of seminal plasma extracellular vesicles facilitates precise molecular stratification in non-obstructive azoospermia.",
-      "abstract": "Non-obstructive azoospermia (NOA) constitutes the most severe and phenotypically heterogeneous manifestation of male infertility, currently lacking robust non-invasive molecular biomarkers for precise disease stratification and prognostic assessment. In this study, we performed comprehensive deep proteomic profiling of seminal plasma-derived extracellular vesicles (SPEV) to systematically elucidate their molecular signatures, explore etiologic heterogeneity, and evaluate their potential for clinical translation in NOA management. The study cohort comprised 173 seminal plasma samples, including 66 from normozoospermic subjects (NS) and 107 from patients diagnosed with NOA. Proteomic analysis was executed via an integrated workflow incorporating rapid DSPE (1, 2-distearoyl-sn- glycero-3-phosphoethanolamine) bead-based enrichment, solid-phase-enhanced sample preparation (SP3), and data-independent acquisition mass spectrometry (DIA-MS). The SPEV proteome effectively discriminated between NOA and NS. Subsequent analyses revealed that distinct etiologic subtypes of NOA share a conserved core proteomic signature while retaining subgroup-specific molecular characteristics. Leveraging tissue-specific annotation, we identified etiology-dependent biomarkers, which were subsequently validated via Western blotting. Furthermore, unsupervised clustering stratified idiopathic NOA (iNOA) into two novel proteomic clusters. Notably, within subcohorts possessing comprehensive clinical data, SPEV proteomic profiles delineated molecular variations correlated with testicular histopathological phenotypes. For sperm-retrieval prediction, the SPEV-based model demonstrated discriminative ability in the internal test set, yielding an area under the receiver operating characteristic curve (AUC) of 1.00, with a sensitivity of 100.0% and a specificity of 85.7%. Collectively, these findings indicate that SPEV proteomic profiling constitutes a promising non-invasive liquid biopsy strategy for NOA, offering preliminary evidence to support molecular stratification and facilitating potential clinical translation.",
-      "journal": "Journal of nanobiotechnology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "Department of Urology, Peking University First Hospital, Beijing, 100034, China.",
-        "The Institution of Urology, Peking University, Beijing, 100034, China.",
-        "Beijing Key Laboratory of Precision Medicine and Innovative Translation for Urogenital Diseases, Beijing, 100034, China.",
-        "National Urological Cancer Center, Beijing, 100034, China.",
-        "Department of Urology, Beijing Chao-Yang Hospital, Capital Medical University, 8 Gong Ti Nan Road, Beijing, 100020, China.",
-        "Department of Urology, Center for Reproductive Medicine, Peking University Third Hospital, Beijing, 100191, China.",
-        "Department of Obstetrics and Gynecology, Peking University First Hospital, Beijing, 100034, China. yangyzh1987@sina.com.",
-        "Department of Urology, Peking University First Hospital, Beijing, 100034, China. jinzirun@bjmu.edu.cn.",
-        "The Institution of Urology, Peking University, Beijing, 100034, China. jinzirun@bjmu.edu.cn.",
-        "Beijing Key Laboratory of Precision Medicine and Innovative Translation for Urogenital Diseases, Beijing, 100034, China. jinzirun@bjmu.edu.cn.",
-        "National Urological Cancer Center, Beijing, 100034, China. jinzirun@bjmu.edu.cn.",
-        "Department of Urology, Peking University First Hospital, Beijing, 100034, China. jianghui@bjmu.edu.cn.",
-        "The Institution of Urology, Peking University, Beijing, 100034, China. jianghui@bjmu.edu.cn.",
-        "Beijing Key Laboratory of Precision Medicine and Innovative Translation for Urogenital Diseases, Beijing, 100034, China. jianghui@bjmu.edu.cn.",
-        "National Urological Cancer Center, Beijing, 100034, China. jianghui@bjmu.edu.cn."
-      ],
-      "doi": "10.1186/s12951-026-04961-7",
-      "date": "2026-08-24",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053124/"
     }
   ],
   "signals": [
+    {
+      "id": "pubmed-43057429",
+      "date": "2026-11-19",
+      "title": "Digoxigenin is a Broad-Spectrum Antiviral Agent against Influenza A Virus via Degradation of Nucleoprotein.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057429/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Virologica Sinica，PMID 为 43057429。",
+      "report": "Seasonal influenza A viruses (IAVs; H1N1 and H3N2) and their zoonotic variants (e.g. H5N1 and H3N8) pose persistent threats to public health, highlighting an urgent need for innovative therapeutic strategies. Through high-throughput screening with the construc...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43057059",
+      "date": "2026-11-19",
+      "title": "From cortical development to glioma: neural stem and progenitor programs in tumor heterogeneity.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057059/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Current opinion in genetics & development，PMID 为 43057059。",
+      "report": "Adult gliomas are shaped by an interaction between somatic genetics and developmental cell identity rather than by either factor alone. Here, we distinguish cell-of-mutation, cell-of-origin, developmental lineage identity, and transcriptional cell state, and u...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43056178",
+      "date": "2026-11-19",
+      "title": "Organoids as Functional Models of Hepatic Tropism in Colorectal Cancer Liver Metastasis: From a Selective Hepatic Niche to Liver-specific Vulnerabilities.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056178/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Technology in cancer research & treatment，PMID 为 43056178。",
+      "report": "Colorectal cancer liver metastasis (CRLM) is favored by portal anatomy but determined by a sequence of organ-selective bottlenecks: sinusoidal arrest, early survival, immune escape, metabolic accommodation, and growth-pattern-specific expansion. This Review in...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43055954",
+      "date": "2026-11-19",
+      "title": "Perspectives of parents of children with monogenic neurodevelopmental disorders on research involving patient-derived neuronal models.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055954/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Human genetics，PMID 为 43055954。",
+      "report": "Patient-derived stem cell-based neuronal models hold great promise for advancing research into monogenic neurodevelopmental disorders (mNDDs). These neuronal models are generated using induced pluripotent stem cell (iPSC) technologies, and are perceived as \"et...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
     {
       "id": "pubmed-43055266",
       "date": "2026-11-19",
@@ -549,31 +663,121 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43055148",
+      "id": "pubmed-43056425",
       "date": "2026-11-19",
-      "title": "Disentangling the mechanisms of aperiodic neural activity using pluripotent stem cell-derived neural tissue models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
+      "title": "Zero-shot de novo design of a metalloenzyme.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43055148/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056425/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
-        "Organoids",
-        "Advanced Disease Models"
+        "AI for Biology",
+        "Drug Discovery"
       ],
       "tags": [
-        "类器官",
-        "疾病模型"
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of neurophysiology，PMID 为 43055148。",
-      "report": "Neural field potentials contain periodic (rhythmic) and aperiodic (arrhythmic) activity patterns. Both carry physiological information that can be inferred from the shape of the power spectrum. The emergence of pluripotent stem cell (PSC)-derived neural tissue...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "fact": "PubMed 记录显示该文献收录于 Science (New York, N.Y.)，PMID 为 43056425。",
+      "report": "De novo design of enzymes is a frontier challenge, requiring consideration of catalytic mechanism and optimization across biochemical and biophysical criteria. Here, we present dEVA (design by EVolutionary Algorithm), a multi-objective protein design method bu...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43056392",
+      "date": "2026-11-19",
+      "title": "AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.",
+      "entity": "AI Drug Discovery Research",
+      "primaryCategory": "AI Drug Discovery",
+      "subCategory": "AI-enabled Discovery",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056392/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "AI for Biology",
+        "Drug Discovery"
+      ],
+      "tags": [
+        "AI 制药",
+        "蛋白设计",
+        "分子生成"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 PLoS computational biology，PMID 为 43056392。",
+      "report": "How does evolutionary information become structural knowledge? AlphaFold 3 predicts protein structures and biomolecular assemblies with remarkable accuracy, yet how it transforms comparative sequence information into three-dimensional structure remains poorly...",
+      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43057506",
+      "date": "2026-11-19",
+      "title": "Extracellular vesicle surface glycosylation in clinical chemistry: Biological mechanisms, analytical challenges, and translational evidence.",
+      "entity": "Biotech Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "General Biotech Research",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057506/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Biotech",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "biotech",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Clinica chimica acta; international journal of clinical chemistry，PMID 为 43057506。",
+      "report": "Extracellular vesicles (EVs) expose a glycocalyx that integrates cellular glycosylation programs with vesicle biogenesis, trafficking and interactions in biofluids. This surface layer is analytically attractive because it can be interrogated on intact particle...",
+      "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43056604",
+      "date": "2026-11-19",
+      "title": "Cytopathologic Diagnosis of Lymphomas in Serous Effusions, Cerebrospinal and Vitreous Fluid.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43056604/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Acta cytologica，PMID 为 43056604。",
+      "report": "Haematolymphoid lesions in serous effusion, cerebrospinal, and vitreous fluid are encountered regularly. In the paediatric clinical setting, haematolymphoid lesions are the most common cause of malignant serous effusions. Cytologists and cytopathologists shoul...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -736,36 +940,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43053253",
-      "date": "2026-11-18",
-      "title": "Circulating biomarkers in early-stage hepatocellular carcinoma for risk stratification, diagnosis and prognosis.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053253/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biomarker research，PMID 为 43053253。",
-      "report": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, largely due to tumor heterogeneity, late diagnosis, and high recurrence rates even after curative treatment. Although HCC is potentially curable when detected at an e...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43046701",
       "date": "2026-11-17",
       "title": "AI-powered virtual cells, digital twins and agentic AI are reshaping multi-omics, spatial biology and drug discovery.",
@@ -862,35 +1036,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43039044",
-      "date": "2026-11-16",
-      "title": "Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43039044/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Pharmacology & therapeutics，PMID 为 43039044。",
-      "report": "Genetically encoded chemically controlled proximity systems are chemogenetic tools that utilize small molecules to regulate protein association, higher-order assembly, and dissociation. Over the past three decades, an expanding repertoire of these systems has...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43025064",
       "date": "2026-11-11",
       "title": "scREFINE: Label-efficient refinement of frozen scGPT embeddings for single-cell RNA-seq clustering.",
@@ -918,98 +1063,6 @@
       "fact": "PubMed 记录显示该文献收录于 Computational biology and chemistry，PMID 为 43025064。",
       "report": "Single-cell RNA sequencing (scRNA-seq) clustering remains challenging because of high dimensionality, sparsity, technical noise, and limited cell annotations. Here, we propose scREFINE, a label-efficient semi-supervised clustering framework that adapts pretrai...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43054804",
-      "date": "2026-11-04",
-      "title": "CFTR regulation of ROS-mediated cellular injury and immune dysregulation in cystic fibrosis.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054804/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in pharmacology，PMID 为 43054804。",
-      "report": "Cystic fibrosis (CF) is a life-limiting autosomal recessive disorder caused by biallelic loss-of-function mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, most commonly F508del. Mutant CFTR disrupts transepithelial ion transpor...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43054676",
-      "date": "2026-11-04",
-      "title": "Microfluidic engineering for organoid formation, cultivation, and sensing.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054676/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in bioengineering and biotechnology，PMID 为 43054676。",
-      "report": "Organoids have emerged as powerful in vitro models for studying tissue morphogenesis, organogenesis, and disease mechanisms. However, they are typically generated and maintained in static culture without perfusion, a configuration that imposes fundamental biop...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43054446",
-      "date": "2026-11-04",
-      "title": "Mumio in cancer research: biological mechanisms and nanomedicine applications - a systematic review.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43054446/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Oncology reviews，PMID 为 43054446。",
-      "report": "The study aimed to analyze Mumio's anticancer potential through a literature review of scientific databases. In the 16 studies included in the analysis, 11 examined the direct effects of Mumio on cancer cell lines in vitro, 1 was conducted in vivo, and 4 focus...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1081,36 +1134,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43053758",
-      "date": "2026-10-19",
-      "title": "Upregulation of USP48 expression in gastric biopsies is indicative of gastric adenocarcinoma.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053758/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Histology and histopathology，PMID 为 43053758。",
-      "report": "Gastric diseases, such as gastritis, gastric ulcers, or gastric cancer, are common worldwide with increasing prevalence over the past decades, and chronic infections with Helicobacter pylori or Epstein-Barr virus could increase the risk of gastric cancer. Mole...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43008172",
       "date": "2026-10-19",
       "title": "Virtual metrology for process perturbation prediction in lithographic alignment marks using a physics-guided directed attention network.",
@@ -1138,63 +1161,6 @@
       "fact": "PubMed 记录显示该文献收录于 Applied optics，PMID 为 43008172。",
       "report": "Process perturbations in lithographic alignment marks deform multilayer profiles, break mark symmetry, and introduce alignment position uncertainty. Although alignment position deviation (APD) and wafer quality (WQ) responses contain process-dependent informat...",
       "inference": "自动分类命中规则：Virtual Cell / Cell Foundation Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43039905",
-      "date": "2026-10-19",
-      "title": "Rapid assessment of chemical complementarity of ligands for protein design.",
-      "entity": "AI Drug Discovery Research",
-      "primaryCategory": "AI Drug Discovery",
-      "subCategory": "AI-enabled Discovery",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43039905/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "AI for Biology",
-        "Drug Discovery"
-      ],
-      "tags": [
-        "AI 制药",
-        "蛋白设计",
-        "分子生成"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Nature communications，PMID 为 43039905。",
-      "report": "Driven by deep-learning methods, computational protein design can now rapidly generate de novo structures, opening new frontiers for creating proteins that bind small molecules tightly and specifically, although achieving predictable and tunable binding remain...",
-      "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43053124",
-      "date": "2026-08-24",
-      "title": "Non-invasive proteomic profiling of seminal plasma extracellular vesicles facilitates precise molecular stratification in non-obstructive azoospermia.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053124/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43053124。",
-      "report": "Non-obstructive azoospermia (NOA) constitutes the most severe and phenotypically heterogeneous manifestation of male infertility, currently lacking robust non-invasive molecular biomarkers for precise disease stratification and prognostic assessment. In this s...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1256,6 +1222,36 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43026583。",
       "report": "Acute myeloid leukemia (AML) is an aggressive hematologic malignancy characterized by rapid progression, therapeutic resistance, and poor prognosis. Inducing ferroptosis in AML cells represents a promising therapeutic strategy. In this study, transcriptomic an...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43057805",
+      "date": "2026-03-24",
+      "title": "Effects of clinostat-based microgravity simulation on the growth and differentiation of cerebral organoids using a 3D-clinostat.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43057805/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Life sciences in space research，PMID 为 43057805。",
+      "report": "The human brain is highly sensitive to altered gravitational environments, yet the molecular and cellular consequences of microgravity remain poorly understood due to the limited accessibility of astronaut neural tissue. Here, we employ human cerebral organoid...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
