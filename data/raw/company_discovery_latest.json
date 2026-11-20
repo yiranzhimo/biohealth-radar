@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_discovery",
-  "capturedAt": "2026-11-20T11:43:38+00:00",
+  "capturedAt": "2026-11-20T20:28:07.679477+00:00",
   "summary": {
-    "mentionCount": 662,
-    "candidateCount": 593,
+    "mentionCount": 667,
+    "candidateCount": 598,
     "corroboratedCount": 3,
     "identifiedCount": 587,
-    "needsReviewCount": 3,
+    "needsReviewCount": 8,
     "knownCompanyMentionCount": 15,
     "mentionsBySource": {
       "CSI": 100,
-      "ClinicalTrials": 3,
+      "ClinicalTrials": 8,
       "HKEX": 76,
       "HSI": 30,
       "NIH": 60,
@@ -20,65 +20,42 @@
   },
   "mentions": [
     {
-      "id": "mention-clinicaltrials-634546bf411d7af0",
-      "observedName": "Oceanium Ltd.",
-      "normalizedName": "oceanium",
+      "id": "mention-clinicaltrials-34120ae027693e45",
+      "observedName": "Genentech, Inc.",
+      "normalizedName": "genentech",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06433037",
-      "sourceDate": "2025-08-26",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06433037",
+      "sourceRecordId": "NCT04691817",
+      "sourceDate": "2026-01-07",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04691817",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
         "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
         "Recruiting",
-        "临床试验"
-      ],
-      "activitySignals": [
-        "active_trial",
-        "trial_intervention"
-      ],
-      "contextTitle": "Gut-brain Health Effects of PREbiotics in Older Adults With Suspected COgnitive DEcline"
-    },
-    {
-      "id": "mention-clinicaltrials-827a1f9d10965dcb",
-      "observedName": "AgileMD, Inc.",
-      "normalizedName": "agilemd",
-      "sourceType": "ClinicalTrials",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceRole": "collaborator",
-      "sourceRecordId": "NCT06771830",
-      "sourceDate": "2026-08-13",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT06771830",
-      "knownCompanyIds": [],
-      "identifiers": {},
-      "biotechHints": [
-        "Clinical Trials",
-        "Healthcare AI",
-        "Medical AI",
-        "Recruiting",
-        "临床决策支持",
         "临床试验",
-        "医疗 AI"
+        "肿瘤"
       ],
       "activitySignals": [
         "active_trial",
+        "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "Evaluation of Pediatric eCART Implementation"
+      "contextTitle": "Tocilizumab and Atezolizumab in Adults With Locally Advanced or Metastatic Non-Small Cell Lung Cancer Refractory to 1st Line Immune Checkpoint Inhibitor-Based Therapy"
     },
     {
-      "id": "mention-clinicaltrials-dc20016d7054b45c",
-      "observedName": "Siren Biotechnology",
-      "normalizedName": "siren biotechnology",
+      "id": "mention-clinicaltrials-4e9e2035e48de68d",
+      "observedName": "Lipomedix Pharmaceuticals Inc.",
+      "normalizedName": "lipomedix pharmaceuticals",
       "sourceType": "ClinicalTrials",
       "sourceName": "ClinicalTrials.gov",
       "sourceRole": "collaborator",
-      "sourceRecordId": "NCT07826949",
-      "sourceDate": "2026-10-27",
-      "sourceUrl": "https://clinicaltrials.gov/study/NCT07826949",
+      "sourceRecordId": "NCT07920289",
+      "sourceDate": "2026-11-05",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07920289",
       "knownCompanyIds": [],
       "identifiers": {},
       "biotechHints": [
@@ -98,7 +75,180 @@
         "phased_trial",
         "trial_intervention"
       ],
-      "contextTitle": "A Study of SRN-101 Administered Prior to Surgical Resection in Adults With Recurrent High-Grade Glioma."
+      "contextTitle": "Intravenously Administered PROMITIL Combined With Radiotherapy in Patients With Cisplatin-Ineligible Head and Neck Cancer Patients"
+    },
+    {
+      "id": "mention-clinicaltrials-51f0320f7a469d76",
+      "observedName": "Stealth BioTherapeutics Inc.",
+      "normalizedName": "stealth biotherapeutics",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07275424",
+      "sourceDate": "2025-12-10",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07275424",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Biomarkers",
+        "Clinical Trials",
+        "Longevity",
+        "Recruiting",
+        "biomarker",
+        "临床试验",
+        "衰老"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Study of Healthy Aging and Physical Function With Elamipretide"
+    },
+    {
+      "id": "mention-clinicaltrials-5c3fbbf00c67d2ed",
+      "observedName": "Merck Sharp & Dohme LLC",
+      "normalizedName": "merck sharp and dohme",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07194980",
+      "sourceDate": "2026-10-29",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07194980",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Cell Therapy",
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "细胞治疗",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Nemtabrutinib and Lisocabtagene Maraleucel for the Treatment of Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma"
+    },
+    {
+      "id": "mention-clinicaltrials-72bd4de20c562d7f",
+      "observedName": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
+      "normalizedName": "accurate international biotechnology guangzhou",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT07054086",
+      "sourceDate": "2025-07-08",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Advanced Disease Models",
+        "Clinical Trials",
+        "Oncology",
+        "Organoids",
+        "Precision Oncology",
+        "Recruiting",
+        "中国",
+        "临床试验",
+        "疾病模型",
+        "类器官",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
+    },
+    {
+      "id": "mention-clinicaltrials-7952e027fa41d8ff",
+      "observedName": "AI Labs Group S.L",
+      "normalizedName": "ai labs group s l",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07428954",
+      "sourceDate": "2026-02-24",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07428954",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "trial_intervention"
+      ],
+      "contextTitle": "Using Artificial Intelligence to Help Doctors Identify Different Skin Conditions and Improve Patient Care"
+    },
+    {
+      "id": "mention-clinicaltrials-bba6b176f456aa8a",
+      "observedName": "Astellas Pharma Global Development, Inc.",
+      "normalizedName": "astellas pharma global development",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "lead_sponsor",
+      "sourceRecordId": "NCT07395024",
+      "sourceDate": "2026-08-27",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07395024",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床试验",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "phased_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "A Study to Learn How Fluconazole, Carbamazepine and Itraconazole Affect How the Body Processes ASP3082 in Healthy Adults"
+    },
+    {
+      "id": "mention-clinicaltrials-ea3d8abcf8a7ad57",
+      "observedName": "Qure.ai Technologies Pvt. Ltd",
+      "normalizedName": "qure ai technologies pvt",
+      "sourceType": "ClinicalTrials",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceRole": "collaborator",
+      "sourceRecordId": "NCT06044454",
+      "sourceDate": "2025-09-19",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06044454",
+      "knownCompanyIds": [],
+      "identifiers": {},
+      "biotechHints": [
+        "Clinical Trials",
+        "Healthcare AI",
+        "Medical AI",
+        "Oncology",
+        "Precision Oncology",
+        "Recruiting",
+        "临床决策支持",
+        "临床试验",
+        "医疗 AI",
+        "肿瘤"
+      ],
+      "activitySignals": [
+        "active_trial",
+        "trial_intervention"
+      ],
+      "contextTitle": "Radiograph Accelerated Detection and Identification of Cancer in the Lung"
     },
     {
       "id": "mention-csi-08169a02bbcfe599",
@@ -43935,6 +44085,124 @@
       ]
     },
     {
+      "id": "candidate-ai-labs-group-s-l",
+      "name": "AI Labs Group S.L",
+      "aliases": [
+        "AI Labs Group S.L"
+      ],
+      "normalizedName": "ai labs group s l",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-02-24",
+      "lastSeenAt": "2026-02-24",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-7952e027fa41d8ff"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-02-24",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07428954",
+          "externalId": "NCT07428954",
+          "contextTitle": "Using Artificial Intelligence to Help Doctors Identify Different Skin Conditions and Improve Patient Care"
+        }
+      ]
+    },
+    {
+      "id": "candidate-astellas-pharma-global-development",
+      "name": "Astellas Pharma Global Development, Inc.",
+      "aliases": [
+        "Astellas Pharma Global Development, Inc."
+      ],
+      "normalizedName": "astellas pharma global development",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.86,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-08-27",
+      "lastSeenAt": "2026-08-27",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-bba6b176f456aa8a"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "lead_sponsor",
+          "sourceDate": "2026-08-27",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07395024",
+          "externalId": "NCT07395024",
+          "contextTitle": "A Study to Learn How Fluconazole, Carbamazepine and Itraconazole Affect How the Body Processes ASP3082 in Healthy Adults"
+        }
+      ]
+    },
+    {
       "id": "candidate-accelevir-diagnostics",
       "name": "Accelevir Diagnostics, LLC",
       "aliases": [
@@ -47251,37 +47519,45 @@
       ]
     },
     {
-      "id": "candidate-agilemd",
-      "name": "AgileMD, Inc.",
+      "id": "candidate-accurate-international-biotechnology-guangzhou",
+      "name": "Accurate International Biotechnology (Guangzhou) Co., Ltd.",
       "aliases": [
-        "AgileMD, Inc."
+        "Accurate International Biotechnology (Guangzhou) Co., Ltd."
       ],
-      "normalizedName": "agilemd",
+      "normalizedName": "accurate international biotechnology guangzhou",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-08-13",
-      "lastSeenAt": "2026-08-13",
+      "firstSeenAt": "2025-07-08",
+      "lastSeenAt": "2025-07-08",
       "identifiers": {},
       "classificationHints": {
         "directions": [
+          "Advanced Disease Models",
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
           "Recruiting",
-          "临床决策支持",
+          "中国",
           "临床试验",
-          "医疗 AI"
+          "疾病模型",
+          "类器官",
+          "肿瘤"
         ],
         "themes": [
+          "Advanced Disease Models",
           "Clinical Trials",
-          "Healthcare AI",
-          "Medical AI",
+          "Oncology",
+          "Organoids",
+          "Precision Oncology",
           "Recruiting",
-          "临床决策支持",
+          "中国",
           "临床试验",
-          "医疗 AI"
+          "疾病模型",
+          "类器官",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47294,44 +47570,50 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-827a1f9d10965dcb"
+        "mention-clinicaltrials-72bd4de20c562d7f"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2026-08-13",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06771830",
-          "externalId": "NCT06771830",
-          "contextTitle": "Evaluation of Pediatric eCART Implementation"
+          "sourceDate": "2025-07-08",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07054086",
+          "externalId": "NCT07054086",
+          "contextTitle": "Patient Derived Organoids (PDOs) to Observe the Clinical Consistency of Personalized Neoadjuvant Therapy for Resectable Esophageal Squamous Cell Carcinoma"
         }
       ]
     },
     {
-      "id": "candidate-oceanium",
-      "name": "Oceanium Ltd.",
+      "id": "candidate-genentech",
+      "name": "Genentech, Inc.",
       "aliases": [
-        "Oceanium Ltd."
+        "Genentech, Inc."
       ],
-      "normalizedName": "oceanium",
+      "normalizedName": "genentech",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2025-08-26",
-      "lastSeenAt": "2025-08-26",
+      "firstSeenAt": "2026-01-07",
+      "lastSeenAt": "2026-01-07",
       "identifiers": {},
       "classificationHints": {
         "directions": [
           "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
           "Recruiting",
-          "临床试验"
+          "临床试验",
+          "肿瘤"
         ],
         "themes": [
           "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
           "Recruiting",
-          "临床试验"
+          "临床试验",
+          "肿瘤"
         ],
         "tags": []
       },
@@ -47344,33 +47626,33 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-634546bf411d7af0"
+        "mention-clinicaltrials-34120ae027693e45"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2025-08-26",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT06433037",
-          "externalId": "NCT06433037",
-          "contextTitle": "Gut-brain Health Effects of PREbiotics in Older Adults With Suspected COgnitive DEcline"
+          "sourceDate": "2026-01-07",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT04691817",
+          "externalId": "NCT04691817",
+          "contextTitle": "Tocilizumab and Atezolizumab in Adults With Locally Advanced or Metastatic Non-Small Cell Lung Cancer Refractory to 1st Line Immune Checkpoint Inhibitor-Based Therapy"
         }
       ]
     },
     {
-      "id": "candidate-siren-biotechnology",
-      "name": "Siren Biotechnology",
+      "id": "candidate-lipomedix-pharmaceuticals",
+      "name": "Lipomedix Pharmaceuticals Inc.",
       "aliases": [
-        "Siren Biotechnology"
+        "Lipomedix Pharmaceuticals Inc."
       ],
-      "normalizedName": "siren biotechnology",
+      "normalizedName": "lipomedix pharmaceuticals",
       "status": "needs_review",
       "candidateType": "Biotech Company",
       "discoveryScore": 0.66,
       "autoPromotionEligible": false,
-      "firstSeenAt": "2026-10-27",
-      "lastSeenAt": "2026-10-27",
+      "firstSeenAt": "2026-11-05",
+      "lastSeenAt": "2026-11-05",
       "identifiers": {},
       "classificationHints": {
         "directions": [
@@ -47408,17 +47690,199 @@
       "sourceCount": 1,
       "mentionCount": 1,
       "mentionIds": [
-        "mention-clinicaltrials-dc20016d7054b45c"
+        "mention-clinicaltrials-4e9e2035e48de68d"
       ],
       "sources": [
         {
           "sourceType": "ClinicalTrials",
           "sourceName": "ClinicalTrials.gov",
           "sourceRole": "collaborator",
-          "sourceDate": "2026-10-27",
-          "sourceUrl": "https://clinicaltrials.gov/study/NCT07826949",
-          "externalId": "NCT07826949",
-          "contextTitle": "A Study of SRN-101 Administered Prior to Surgical Resection in Adults With Recurrent High-Grade Glioma."
+          "sourceDate": "2026-11-05",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07920289",
+          "externalId": "NCT07920289",
+          "contextTitle": "Intravenously Administered PROMITIL Combined With Radiotherapy in Patients With Cisplatin-Ineligible Head and Neck Cancer Patients"
+        }
+      ]
+    },
+    {
+      "id": "candidate-merck-sharp-and-dohme",
+      "name": "Merck Sharp & Dohme LLC",
+      "aliases": [
+        "Merck Sharp & Dohme LLC"
+      ],
+      "normalizedName": "merck sharp and dohme",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2026-10-29",
+      "lastSeenAt": "2026-10-29",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Cell Therapy",
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "细胞治疗",
+          "肿瘤"
+        ],
+        "themes": [
+          "Cell Therapy",
+          "Clinical Trials",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床试验",
+          "细胞治疗",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-5c3fbbf00c67d2ed"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2026-10-29",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07194980",
+          "externalId": "NCT07194980",
+          "contextTitle": "Nemtabrutinib and Lisocabtagene Maraleucel for the Treatment of Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma"
+        }
+      ]
+    },
+    {
+      "id": "candidate-qure-ai-technologies-pvt",
+      "name": "Qure.ai Technologies Pvt. Ltd",
+      "aliases": [
+        "Qure.ai Technologies Pvt. Ltd"
+      ],
+      "normalizedName": "qure ai technologies pvt",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-09-19",
+      "lastSeenAt": "2025-09-19",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "themes": [
+          "Clinical Trials",
+          "Healthcare AI",
+          "Medical AI",
+          "Oncology",
+          "Precision Oncology",
+          "Recruiting",
+          "临床决策支持",
+          "临床试验",
+          "医疗 AI",
+          "肿瘤"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-ea3d8abcf8a7ad57"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-09-19",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT06044454",
+          "externalId": "NCT06044454",
+          "contextTitle": "Radiograph Accelerated Detection and Identification of Cancer in the Lung"
+        }
+      ]
+    },
+    {
+      "id": "candidate-stealth-biotherapeutics",
+      "name": "Stealth BioTherapeutics Inc.",
+      "aliases": [
+        "Stealth BioTherapeutics Inc."
+      ],
+      "normalizedName": "stealth biotherapeutics",
+      "status": "needs_review",
+      "candidateType": "Biotech Company",
+      "discoveryScore": 0.66,
+      "autoPromotionEligible": false,
+      "firstSeenAt": "2025-12-10",
+      "lastSeenAt": "2025-12-10",
+      "identifiers": {},
+      "classificationHints": {
+        "directions": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "themes": [
+          "Biomarkers",
+          "Clinical Trials",
+          "Longevity",
+          "Recruiting",
+          "biomarker",
+          "临床试验",
+          "衰老"
+        ],
+        "tags": []
+      },
+      "discoveryReasons": [
+        "ClinicalTrials.gov 将该实体列为试验申办方或合作方。"
+      ],
+      "sourceTypes": [
+        "ClinicalTrials"
+      ],
+      "sourceCount": 1,
+      "mentionCount": 1,
+      "mentionIds": [
+        "mention-clinicaltrials-51f0320f7a469d76"
+      ],
+      "sources": [
+        {
+          "sourceType": "ClinicalTrials",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceRole": "collaborator",
+          "sourceDate": "2025-12-10",
+          "sourceUrl": "https://clinicaltrials.gov/study/NCT07275424",
+          "externalId": "NCT07275424",
+          "contextTitle": "Study of Healthy Aging and Physical Function With Elamipretide"
         }
       ]
     }
