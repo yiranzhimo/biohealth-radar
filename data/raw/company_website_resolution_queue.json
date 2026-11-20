@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-18T11:47:30+00:00",
-  "count": 589,
+  "capturedAt": "2026-11-20T11:45:10+00:00",
+  "count": 590,
   "items": [
     {
       "companyId": "candidate-3sbio",
@@ -792,8 +792,8 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-aibotics",
-      "name": "Aibotics, Inc.",
+      "companyId": "candidate-aibotics-therapies",
+      "name": "Aibotics Therapies, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001763329",
       "identifiers": {
         "cik": [
@@ -8055,6 +8055,23 @@
       },
       "sourceTypes": [
         "Hang Seng Biotech Index constituent"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-scancell-holdings",
+      "name": "Scancell Holdings plc",
+      "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0002141116",
+      "identifiers": {
+        "cik": [
+          "0002141116"
+        ],
+        "ticker": [
+          "SCNLD"
+        ]
+      },
+      "sourceTypes": [
+        "Biological Products, Except Diagnostic Substances"
       ],
       "status": "needs_official_domain"
     },
