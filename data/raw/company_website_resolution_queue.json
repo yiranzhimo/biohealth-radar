@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-20T11:45:10+00:00",
+  "capturedAt": "2026-11-21T11:08:26+00:00",
   "count": 590,
   "items": [
     {
@@ -8067,7 +8067,7 @@
           "0002141116"
         ],
         "ticker": [
-          "SCNLD"
+          "SCNLF"
         ]
       },
       "sourceTypes": [

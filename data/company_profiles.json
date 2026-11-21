@@ -66327,7 +66327,7 @@
       "profileStatus": "partial",
       "identity": {
         "ownership": "Public",
-        "ticker": "SCNLD",
+        "ticker": "SCNLF",
         "exchange": "SEC",
         "headquarters": null,
         "officialUrl": "https://www.sec.gov/edgar/browse/?CIK=0002141116",
@@ -66338,7 +66338,7 @@
             "0002141116"
           ],
           "ticker": [
-            "SCNLD"
+            "SCNLF"
           ]
         },
         "websiteStatus": "market_page_pending_official_domain",
