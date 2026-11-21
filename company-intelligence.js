@@ -914,7 +914,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -922,7 +922,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -930,7 +930,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -938,7 +938,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -946,7 +946,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -954,7 +954,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -962,21 +962,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1"
+          "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en"
           }
         ],
@@ -991,7 +991,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -1000,14 +1000,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-ab-and-b-bio-tech-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2627&sc_lang=en"
         }
       ]
@@ -6441,7 +6441,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6449,7 +6449,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6457,7 +6457,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6465,7 +6465,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6473,7 +6473,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6481,7 +6481,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -6489,21 +6489,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-airdoc-official-0dd2a5ec14f1"
+          "evidence-company-candidate-airdoc-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-airdoc-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
           }
         ],
@@ -6518,7 +6518,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -6527,14 +6527,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-airdoc-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-airdoc-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-airdoc-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2251&sc_lang=en"
         }
       ]
@@ -8437,7 +8437,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-alnylam-official-64ed3665d88f",
             "date": "2026-11-19",
             "title": "The Leading RNAi Therapeutics Company | Alnylam",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -8513,7 +8513,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-alnylam-official-64ed3665d88f",
           "date": "2026-11-19",
           "title": "The Leading RNAi Therapeutics Company | Alnylam",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -18969,7 +18969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -18977,7 +18977,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -18985,7 +18985,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -18993,7 +18993,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19001,7 +19001,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -19009,21 +19009,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-b-and-k-official-a4d4139146af"
+          "evidence-company-candidate-b-and-k-official-23e336e47f20"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-b-and-k-official-23e336e47f20",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+            "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en"
           }
         ],
@@ -19038,7 +19038,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -19047,14 +19047,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-b-and-k-official-a4d4139146af",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-b-and-k-official-23e336e47f20",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-b-and-k-official-a4d4139146af",
+          "evidenceId": "evidence-company-candidate-b-and-k-official-23e336e47f20",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2396&sc_lang=en"
         }
       ]
@@ -27183,7 +27183,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27191,7 +27191,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27199,7 +27199,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27207,7 +27207,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27215,7 +27215,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27223,7 +27223,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -27231,21 +27231,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-brii-official-0dd2a5ec14f1"
+          "evidence-company-candidate-brii-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-brii-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en"
           }
         ],
@@ -27260,7 +27260,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -27269,14 +27269,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-brii-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-brii-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-brii-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-brii-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2137&sc_lang=en"
         }
       ]
@@ -29148,7 +29148,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29156,7 +29156,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29164,7 +29164,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29172,7 +29172,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29180,7 +29180,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29188,7 +29188,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -29196,21 +29196,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-canbridge-official-0dd2a5ec14f1"
+          "evidence-company-candidate-canbridge-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-canbridge-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en"
           }
         ],
@@ -29225,7 +29225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -29234,14 +29234,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-canbridge-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-canbridge-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-canbridge-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1228&sc_lang=en"
         }
       ]
@@ -34675,7 +34675,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34683,7 +34683,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34691,7 +34691,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34699,7 +34699,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34707,7 +34707,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34715,7 +34715,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -34723,21 +34723,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1"
+          "evidence-company-candidate-cloudbreak-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-cloudbreak-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en"
           }
         ],
@@ -34752,7 +34752,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -34761,14 +34761,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-cloudbreak-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-cloudbreak-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-cloudbreak-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2592&sc_lang=en"
         }
       ]
@@ -43501,11 +43501,43 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。；公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
-        "summaryOriginal": "Stay informed with Guardant Health's Investor Relations. Access financial reports, upcoming events, and key updates on our mission. Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+        "summary": "公司官方页面表述：Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。；公司官方页面表述：通过 Guardant Health 投资者关系页面获取财务报告、近期活动和公司使命相关的重要更新。",
+        "summaryOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data. Stay informed with Guardant Health's Investor Relations. Access financial reports, upcoming events, and key updates on our mission.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
+          {
+            "textOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
+            "text": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
+            "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
+            "text": "At Guardant Health, every team member plays a vital role in a mission that impacts countless lives: conquering cancer through data.",
+            "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
+            "text": "View all of our screening, early-stage cancer, and advanced cancer clinical studies.",
+            "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Get to know Guardant Health, our story, and our mission.",
+            "text": "Get to know Guardant Health, our story, and our mission.",
+            "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+            "sourceUrl": "https://guardanthealth.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
           {
             "textOriginal": "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures.",
             "text": "The latest news from Guardant Health, including new product unveilings, partnership initiatives, and financial disclosures.",
@@ -43521,55 +43553,34 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
             "needsReview": true,
             "claimType": "Report"
-          },
-          {
-            "textOriginal": "Access financial reports, upcoming events, and key updates on our mission.",
-            "text": "Access financial reports, upcoming events, and key updates on our mission.",
-            "evidenceId": "evidence-company-guardant-health-investor_relations-90c972567e3e",
-            "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Investor Alert Options * News Quarterly Reports Annual Reports SEC Filings End of Day Stock Quote Events & Presentations",
-            "text": "Investor Alert Options * News Quarterly Reports Annual Reports SEC Filings End of Day Stock Quote Events & Presentations",
-            "evidenceId": "evidence-company-guardant-health-investor_relations-90c972567e3e",
-            "sourceUrl": "https://investors.guardanthealth.com/overview/default.aspx",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
-            "text": "September 4, 2026 Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer",
-            "evidenceId": "evidence-company-guardant-health-official-1e25833c0777",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
-            "text": "Guardant Health 是一家领先的精准医疗公司，专注于利用数据改变患者诊疗并应对癌症。",
-            "evidenceId": "evidence-company-guardant-health-official-1e25833c0777",
-            "sourceUrl": "https://guardanthealth.com/",
-            "needsReview": true,
-            "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
+          "evidence-company-guardant-health-official-e8bc20b25cae",
           "evidence-company-guardant-health-investor_relations-90c972567e3e",
           "evidence-sec-0001576280-000119312526463573",
           "evidence-sec-0001576280-000157628026000044",
           "evidence-sec-0001576280-000157628026000043",
           "evidence-sec-0001576280-000119312526445514",
           "evidence-sec-0001576280-000119312526444416",
-          "evidence-company-guardant-health-official-1e25833c0777",
           "evidence-company-guardant-health-pipeline-a2e78138ba78"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-guardant-health-official-e8bc20b25cae",
+            "date": "2026-11-21",
+            "title": "Guardant Health | Conquering Cancer With Data",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+            "sourceUrl": "https://guardanthealth.com/"
+          },
           {
             "id": "event-evidence-company-guardant-health-investor_relations-90c972567e3e",
             "date": "2026-11-19",
@@ -43613,17 +43624,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": false,
             "evidenceId": "evidence-sec-0001576280-000157628026000043",
             "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000043/gh-20261105.htm"
-          },
-          {
-            "id": "event-sec-0001576280-000119312526445514",
-            "date": "2026-11-03",
-            "title": "Guardant Health filed Form 8-K",
-            "eventType": "Corporate Update",
-            "sourceType": "Filing",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-sec-0001576280-000119312526445514",
-            "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526445514/d173393d8k.htm"
           }
         ],
         "inferences": [],
@@ -43638,7 +43638,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 5
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -43646,6 +43646,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-guardant-health-official-e8bc20b25cae",
+          "date": "2026-11-21",
+          "title": "Guardant Health | Conquering Cancer With Data",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-guardant-health-official-e8bc20b25cae",
+          "sourceUrl": "https://guardanthealth.com/"
+        },
         {
           "id": "event-evidence-company-guardant-health-investor_relations-90c972567e3e",
           "date": "2026-11-19",
@@ -43711,17 +43722,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": false,
           "evidenceId": "evidence-sec-0001576280-000119312526444416",
           "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1576280/000119312526444416/d457424d8k.htm"
-        },
-        {
-          "id": "event-evidence-company-guardant-health-official-1e25833c0777",
-          "date": "2026-10-21",
-          "title": "Guardant Health | Conquering Cancer With Data",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-guardant-health-official-1e25833c0777",
-          "sourceUrl": "https://guardanthealth.com/"
         },
         {
           "id": "event-evidence-company-guardant-health-pipeline-a2e78138ba78",
@@ -47390,7 +47390,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47398,7 +47398,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47406,7 +47406,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47414,7 +47414,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47422,7 +47422,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47430,7 +47430,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -47438,21 +47438,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1"
+          "evidence-company-candidate-impact-therap-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-impact-therap-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en"
           }
         ],
@@ -47467,7 +47467,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -47476,14 +47476,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-impact-therap-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-impact-therap-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-impact-therap-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=7630&sc_lang=en"
         }
       ]
@@ -49780,7 +49780,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-ionis-official-936c74977b3a",
             "date": "2026-11-19",
             "title": "Innovating to Change the Course of Human Health | IONIS",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -49856,7 +49856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-ionis-official-936c74977b3a",
           "date": "2026-11-19",
           "title": "Innovating to Change the Course of Human Health | IONIS",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -51045,7 +51045,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51053,7 +51053,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51061,7 +51061,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51069,7 +51069,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51077,7 +51077,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51085,7 +51085,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -51093,21 +51093,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1"
+          "evidence-company-candidate-jw-therap-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-jw-therap-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en"
           }
         ],
@@ -51122,7 +51122,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -51131,14 +51131,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-jw-therap-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-jw-therap-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-jw-therap-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2126&sc_lang=en"
         }
       ]
@@ -55254,7 +55254,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55262,7 +55262,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55270,7 +55270,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55278,7 +55278,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55286,7 +55286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
             "text": "MSCI Index Futures & Options HKEX launched 39 MSCI equity index futures and options contracts",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55294,7 +55294,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
             "text": "HKEX Sustainable & Green Exchange Collaborating on sustainable finance amongst our stakeholders",
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -55302,21 +55302,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-medbot-official-7977dd0a56f0"
+          "evidence-company-candidate-medbot-official-56db0472d64c"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-medbot-official-56db0472d64c",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+            "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en"
           }
         ],
@@ -55331,7 +55331,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -55340,14 +55340,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-medbot-official-7977dd0a56f0",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-medbot-official-56db0472d64c",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-medbot-official-7977dd0a56f0",
+          "evidenceId": "evidence-company-candidate-medbot-official-56db0472d64c",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2252&sc_lang=en"
         }
       ]
@@ -56209,7 +56209,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56217,7 +56217,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56225,7 +56225,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56233,7 +56233,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56241,7 +56241,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56249,7 +56249,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -56257,21 +56257,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e"
+          "evidence-company-candidate-microtech-med-official-e2c23dc5aab8"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+            "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en"
           }
         ],
@@ -56286,7 +56286,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56295,14 +56295,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-microtech-med-official-a3eeaeb8f98e",
+          "evidenceId": "evidence-company-candidate-microtech-med-official-e2c23dc5aab8",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2235&sc_lang=en"
         }
       ]
@@ -56341,54 +56341,54 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "currentBusiness": {
         "status": "company_reported",
         "summaryType": "Report",
-        "summary": "公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。；公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
-        "summaryOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research. Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+        "summary": "公司官方页面表述：探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。；公司官方页面表述：探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
+        "summaryOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns. Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
         "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [
           {
-            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
-            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
+            "text": "探索 MIMETAS 的组织芯片平台，提供创新的人类组织模型，促进药物发现，同时减少风险和伦理问题。",
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
-            "text": "MIMETAS' flagship technology, the OrganoPlate® platform, is a precision microfluidic system that allows the recreation of the dynamic environment of living tissues in vitro.",
-            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
+            "text": "Get fast and actionable insights into drug efficacy and safety with Organ-on-a-Chip models that replicate human tissues and disease biology with the highest fidelity.",
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
-            "text": "This balance of engineering precision with natural cell behavior enables a broad range of tissue models and assays – all within a single platform.",
-            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
+            "text": "Learn about gut-on-a-chip model in the OrganoPlate™ platform, used as a screening tool for probiotics and live biotherapeutics with homeostatic and immunomodulatory properties.",
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
-            "text": "The platform enables advanced 3D cell culture, continuous perfusion, and complex co-cultures – without the need for pumps, tubing, or artificial membranes.",
-            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
-            "sourceUrl": "https://www.mimetas.com/technology",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Explore MIMETAS’ OrganoPlate® technology for scalable, high-throughput organ-on-a-chip models that enable predictive, human-relevant research.",
-            "text": "探索MIMETAS的OrganoPlate®技术，该技术提供可扩展的高通量器官芯片模型，能够进行可预测的人类相关研究。",
-            "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
-            "sourceUrl": "https://www.mimetas.com/technology",
+            "textOriginal": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
+            "text": "A Ready-to-Use Human Kidney-on-a-Chip Model for Physiologically Relevant Research and High Throughput Drug Development",
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
             "textOriginal": "Read about our latest research, developments and launches.",
             "text": "Read about our latest research, developments and launches.",
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Our team is ready to deploy our platform for your research or development pipeline.",
+            "text": "Our team is ready to deploy our platform for your research or development pipeline.",
             "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
             "sourceUrl": "https://www.mimetas.com/technology",
             "needsReview": true,
@@ -56397,13 +56397,24 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-mimetas-pipeline-02c34f2b1653",
-          "evidence-company-mimetas-official-bde1c6a770ee"
+          "evidence-company-mimetas-official-ec44b71463d0",
+          "evidence-company-mimetas-pipeline-02c34f2b1653"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
+          {
+            "id": "event-evidence-company-mimetas-official-ec44b71463d0",
+            "date": "2026-11-21",
+            "title": "Human Tissue Models for Advanced Drug Discovery",
+            "eventType": "Official Source Update",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+            "sourceUrl": "https://www.mimetas.com/"
+          },
           {
             "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
             "date": "2026-10-29",
@@ -56414,17 +56425,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "needsReview": true,
             "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
             "sourceUrl": "https://www.mimetas.com/technology"
-          },
-          {
-            "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
-            "date": "2026-10-28",
-            "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Snapshot",
-            "sourceType": "Company",
-            "evidenceLevel": "Medium",
-            "needsReview": true,
-            "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-            "sourceUrl": "https://www.mimetas.com/"
           }
         ],
         "inferences": [],
@@ -56438,7 +56438,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 2
         },
-        "lastEvidenceDate": "2026-10-29",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -56446,6 +56446,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ]
       },
       "recentEvents": [
+        {
+          "id": "event-evidence-company-mimetas-official-ec44b71463d0",
+          "date": "2026-11-21",
+          "title": "Human Tissue Models for Advanced Drug Discovery",
+          "eventType": "Official Source Update",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-mimetas-official-ec44b71463d0",
+          "sourceUrl": "https://www.mimetas.com/"
+        },
         {
           "id": "event-evidence-company-mimetas-pipeline-02c34f2b1653",
           "date": "2026-10-29",
@@ -56456,17 +56467,6 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "needsReview": true,
           "evidenceId": "evidence-company-mimetas-pipeline-02c34f2b1653",
           "sourceUrl": "https://www.mimetas.com/technology"
-        },
-        {
-          "id": "event-evidence-company-mimetas-official-bde1c6a770ee",
-          "date": "2026-10-28",
-          "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Snapshot",
-          "sourceType": "Company",
-          "evidenceLevel": "Medium",
-          "needsReview": true,
-          "evidenceId": "evidence-company-mimetas-official-bde1c6a770ee",
-          "sourceUrl": "https://www.mimetas.com/"
         }
       ]
     },
@@ -58220,7 +58220,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58228,7 +58228,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
             "text": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
-            "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58236,7 +58236,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58244,7 +58244,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
             "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58268,7 +58268,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-39a7d1df4370",
+          "evidence-company-natera-official-d9ca183d3bfa",
           "evidence-company-natera-investor_relations-e33bfd4d8a9f",
           "evidence-sec-0001604821-000162828026071145",
           "evidence-sec-0001604821-000160482126000032",
@@ -58281,14 +58281,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-39a7d1df4370",
-            "date": "2026-11-19",
+            "id": "event-evidence-company-natera-official-d9ca183d3bfa",
+            "date": "2026-11-21",
             "title": "Natera: A global leader in cell-free DNA testing",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -58348,7 +58348,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-11-19",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -58357,14 +58357,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-39a7d1df4370",
-          "date": "2026-11-19",
+          "id": "event-evidence-company-natera-official-d9ca183d3bfa",
+          "date": "2026-11-21",
           "title": "Natera: A global leader in cell-free DNA testing",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-39a7d1df4370",
+          "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -59938,9 +59938,17 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "businessModel": [],
         "commercialProducts": [
           {
+            "textOriginal": "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
+            "text": "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "sourceUrl": "https://nykode.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59948,7 +59956,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59956,39 +59964,31 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "text": "Offering an unrivalled modular platform and tailored hyper-targeting is how we stand apart",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "textOriginal": "Nykode Therapeutics to Present and Participate in Fireside Chat ...",
+            "text": "Nykode Therapeutics to Present and Participate in Fireside Chat ...",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Nykode Therapeutics – Invitation to Q3 2026 Financial Results ...",
-            "text": "Nykode Therapeutics – Invitation to Q3 2026 Financial Results ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
-            "sourceUrl": "https://nykode.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
-            "text": "Nykode Therapeutics to Participate in Fireside Chat at the ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
-            "sourceUrl": "https://nykode.com/",
+            "textOriginal": "Nykode's wholly owned lead product candidate, abi-suva (formerly VB10.16), is a DNA-based therapeutic vaccine targeting cancers caused by Human Papillomavirus 16 (HPV16).",
+            "text": "Nykode's wholly owned lead product candidate, abi-suva (formerly VB10.16), is a DNA-based therapeutic vaccine targeting cancers caused by Human Papillomavirus 16 (HPV16).",
+            "evidenceId": "evidence-company-nykode-therapeutics-pipeline-d5568715734e",
+            "sourceUrl": "https://nykode.com/pipeline/",
             "needsReview": true,
             "claimType": "Report"
           }
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+          "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
           "evidence-company-nykode-therapeutics-pipeline-d5568715734e",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -59997,14 +59997,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
-            "date": "2026-11-16",
+            "id": "event-evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "date": "2026-11-21",
             "title": "Home - Nykode",
-            "eventType": "Official Source Snapshot",
+            "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -60041,7 +60041,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-11-16",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -60050,14 +60050,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-2dac13bddf7c",
-          "date": "2026-11-16",
+          "id": "event-evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+          "date": "2026-11-21",
           "title": "Home - Nykode",
-          "eventType": "Official Source Snapshot",
+          "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-2dac13bddf7c",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
           "sourceUrl": "https://nykode.com/"
         },
         {
@@ -63816,7 +63816,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
             "text": "HKEXnews View listed company announcements and more on the centralised platform for regulatory filings and disclosures",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63824,7 +63824,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Platform Services Corporate Action Messaging Standardisation",
             "text": "Platform Services Corporate Action Messaging Standardisation",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63832,7 +63832,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Education Centre A centralised education platform, including e-Learning.",
             "text": "Education Centre A centralised education platform, including e-Learning.",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63840,7 +63840,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
             "text": "Biotech @ HKEX HKEX connects capital with a rich range of biotech issuers and investment products.",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63848,7 +63848,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "News Centre Snapshot about HKEX latest news and information",
             "text": "News Centre Snapshot about HKEX latest news and information",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63856,7 +63856,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
             "text": "Research Reports Research and survey conducted by HKEX on its securities and derivatives markets and related topics",
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en",
             "needsReview": true,
             "claimType": "Report"
@@ -63864,21 +63864,21 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-candidate-rainmed-official-0dd2a5ec14f1"
+          "evidence-company-candidate-rainmed-official-b783717bc9ab"
         ]
       },
       "futureDirection": {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
-            "date": "2026-11-14",
+            "id": "event-evidence-company-candidate-rainmed-official-b783717bc9ab",
+            "date": "2026-11-21",
             "title": "[Company Name + Stock Code] - stock price, quote, history",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+            "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
             "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en"
           }
         ],
@@ -63893,7 +63893,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 1
         },
-        "lastEvidenceDate": "2026-11-14",
+        "lastEvidenceDate": "2026-11-21",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -63902,14 +63902,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
-          "date": "2026-11-14",
+          "id": "event-evidence-company-candidate-rainmed-official-b783717bc9ab",
+          "date": "2026-11-21",
           "title": "[Company Name + Stock Code] - stock price, quote, history",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-candidate-rainmed-official-0dd2a5ec14f1",
+          "evidenceId": "evidence-company-candidate-rainmed-official-b783717bc9ab",
           "sourceUrl": "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2297&sc_lang=en"
         }
       ]
@@ -64317,7 +64317,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-recursion-official-686cdefe4903",
             "date": "2026-11-19",
             "title": "Pioneering AI Drug Discovery | Recursion",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -64393,7 +64393,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-recursion-official-686cdefe4903",
           "date": "2026-11-19",
           "title": "Pioneering AI Drug Discovery | Recursion",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
