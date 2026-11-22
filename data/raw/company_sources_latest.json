@@ -97,9 +97,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-21T12:56:57+00:00",
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-21T12:56:57+00:00"
+      "lastFailureAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "10x-genomics",
@@ -150,9 +150,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-21T12:56:57+00:00",
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-21T12:56:57+00:00"
+      "lastFailureAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "akeso",
@@ -517,9 +517,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-21T12:56:57+00:00",
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-21T12:56:57+00:00"
+      "lastFailureAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "arcellx",
@@ -574,9 +574,9 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-21T12:56:57+00:00",
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00",
       "lastCheckError": "URLError",
-      "lastFailureAt": "2026-11-21T12:56:57+00:00"
+      "lastFailureAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "arvinas",
@@ -795,9 +795,9 @@
       "firstObservedAt": "2026-08-15T04:59:27+00:00",
       "lastChangedAt": "2026-09-23T09:29:32+00:00",
       "capturedAt": "2026-09-23T09:29:32+00:00",
-      "lastCheckedAt": "2026-11-21T12:56:57+00:00",
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00",
       "lastCheckError": "HTTPError",
-      "lastFailureAt": "2026-11-21T12:56:57+00:00"
+      "lastFailureAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "autolus",
@@ -32851,7 +32851,7 @@
       "resolvedUrl": "https://nykode.com/investors/",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-22T12:11:49+00:00",
+      "nextCheckAt": "2026-11-29T12:48:49+00:00",
       "title": "Investors | Investing in Nykode?",
       "description": "We are very happy to talk to anyone who is interested in our company and our work.",
       "headings": [
@@ -32890,7 +32890,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-08-10T13:46:20+00:00",
       "capturedAt": "2026-08-10T13:46:20+00:00",
-      "lastCheckedAt": "2026-11-15T12:11:49+00:00"
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "nykode-therapeutics",
@@ -32951,7 +32951,7 @@
       "resolvedUrl": "https://nykode.com/pipeline/",
       "contentType": "text/html",
       "refreshIntervalDays": 7,
-      "nextCheckAt": "2026-11-22T12:11:49+00:00",
+      "nextCheckAt": "2026-11-29T12:48:49+00:00",
       "title": "Pipeline - See what's going on | Nykode",
       "description": "We are proud to have multiple product candidates developed by Nykode in our pipeline.See what's going on!",
       "headings": [
@@ -32990,7 +32990,7 @@
       "firstObservedAt": "2026-08-10T13:46:20+00:00",
       "lastChangedAt": "2026-09-16T09:28:24+00:00",
       "capturedAt": "2026-09-16T09:28:24+00:00",
-      "lastCheckedAt": "2026-11-15T12:11:49+00:00"
+      "lastCheckedAt": "2026-11-22T12:48:49+00:00"
     },
     {
       "companyId": "oxford-nanopore",
