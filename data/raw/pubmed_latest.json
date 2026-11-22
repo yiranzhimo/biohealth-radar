@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-22T06:59:23.836154+00:00",
+  "capturedAt": "2026-11-22T19:46:51.715036+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -14,12 +14,12 @@
     "end": "2026-11-22"
   },
   "pmids": [
-    "43067534",
-    "43066937",
-    "43066934",
-    "43066898",
-    "43066803",
-    "43066026",
+    "43068304",
+    "43068213",
+    "43068054",
+    "43067918",
+    "43067866",
+    "43067750",
     "43061985",
     "43061976",
     "43060833",
@@ -32,131 +32,116 @@
     "43056425",
     "43056392",
     "43053624",
+    "43068006",
+    "43067971",
     "43066897",
     "43065950",
     "43065651",
-    "43065449",
-    "43064880",
-    "43064877"
+    "43065449"
   ],
   "records": [
     {
-      "pmid": "43067534",
-      "title": "Multi-omics analysis links Lycium barbarum glycopeptide-mediated retinal protection to glycolytic remodeling and protein lactylation in retinitis pigmentosa models.",
-      "abstract": "Lycium barbarum L. (goji, wolfberry) is a traditional Chinese medicinal and food plant long associated with nourishment and ocular health. Lycium barbarum glycopeptide (LbGP), a purified glycopeptide fraction derived from Lycium barbarum polysaccharides, has shown retinal and neuroprotective potential, but its metabolic mechanism in inherited retinal degeneration remains unclear. To determine whether LbGP treatment is associated with glycolytic remodeling, lactate metabolism, and protein lactylation in experimental models of retinitis pigmentosa (RP). Public single-cell RNA sequencing data from PRPF31-mutant and control human retinal organoids were integrated with retinal proteomic, lactylomic, and metabolomic datasets from wild-type, vehicle-treated rd10, and LbGP-treated rd10 mice. Findings were examined using lactate measurement, ATP detection, pan-lysine lactylation immunofluorescence, cell viability assays, Western blotting, retinal structural assessment, and dark-adapted electroretinography. PRPF31-mutant photoreceptors showed increased glycolysis- and hypoxia-related transcription with reduced phototransduction and oxidative phosphorylation. In rd10 retinas, LbGP treatment was associated with changes in glycolysis-related enzymes, disease-associated lysine lactylation, and energy-related metabolites. Integrated multi-omics analysis nominated a glycolysis-lactate-lactylation axis involving selected glycolytic enzymes and Kla sites. LbGP increased the viability of serum-deprived 661W cells and preserved retinal structure and function in rd10 mice. It also increased the lactate production in both 661W cells and rd10 retinas. The ATP levels, pan-lysine lactylation, and the expression of PFKP and LDHA were increased by LbGP treatment in serum-deprived 661W cells, with the effect partially blocked by HK1 inhibitor 2-DG. Glycolytic remodeling and protein lactylation may represent candidate mechanisms associated with LbGP-mediated retinal protection in RP models, supporting further pharmacological validation of LbGP as a Lycium barbarum-derived intervention for retinal degeneration.",
-      "journal": "Journal of ethnopharmacology",
+      "pmid": "43068304",
+      "title": "ACTN4 promotes invasive phenotypes and WNT/β-catenin signaling through HDAC7-DACT2 regulation in pancreatic ductal adenocarcinoma.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits invasive growth and resistance to gemcitabine. We investigated how the actin-binding protein ACTN4 connects invasive behavior with WNT/β-catenin signaling. Elevated ACTN4 expression was associated with poorer survival in public PDAC cohorts and metastatic disease in genetically engineered mice. ACTN4 depletion reduced TGF-β1-induced invasion, focal adhesion signaling, and WNT activity, while increasing gemcitabine sensitivity in cells and organoids. Biochemical analyses and genetic rescue experiments linked Ser159-dependent ACTN4 activity to HDAC7 stability, reduced DACT2 expression, and β-catenin-dependent transcription. DACT2 depletion partially reversed the effects of ACTN4 loss. Ellagic acid reduced ACTN4-HDAC7 complex recovery and attenuated associated signaling. These findings support a functional model connecting ACTN4 to HDAC7-DACT2 regulation and identify an ACTN4-associated signaling axis relevant to PDAC invasion and gemcitabine response.",
+      "journal": "iScience",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Department of Ophthalmology, The First Affiliated Hospital of Jinan University, Jinan University, Guangzhou, Guangdong Province, China.",
-        "Guangdong-Hong Kong-Macau Institute of CNS Regeneration, Key Laboratory of CNS Regeneration (Ministry of Education), Jinan University, Guangzhou, Guangdong Province, China.",
-        "Guangdong-Hong Kong-Macau Institute of CNS Regeneration, Key Laboratory of CNS Regeneration (Ministry of Education), Jinan University, Guangzhou, Guangdong Province, China; Aier Academician Station, Changsha, Hunan Province, China; Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, Jiangsu Province, China; State Key Laboratory of Brain and Cognitive Sciences, Hong Kong Special Administrative Region, China. Electronic address: hrmaskf@hku.hk.",
-        "Department of Ophthalmology, The First Affiliated Hospital of Jinan University, Jinan University, Guangzhou, Guangdong Province, China; Aier Academician Station, Changsha, Hunan Province, China. Electronic address: mxsong@163.com.",
-        "Guangdong-Hong Kong-Macau Institute of CNS Regeneration, Key Laboratory of CNS Regeneration (Ministry of Education), Jinan University, Guangzhou, Guangdong Province, China; Aier Academician Station, Changsha, Hunan Province, China; Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, Jiangsu Province, China. Electronic address: xuying@jnu.edu.cn."
+        "Division of General Surgery, Department of Surgery, Ditmanson Medical Foundation, Chia-Yi Christian Hospital, Chiayi, Taiwan.",
+        "Department of Biomedical Science, College of Science, National Chung Cheng University, Chiayi, Taiwan.",
+        "Department of Chemistry and Biochemistry, College of Science, National Chung Cheng University, Chiayi, Taiwan.",
+        "Department of Pathology, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan.",
+        "Department of Cosmetic Science, Chia Nan University of Pharmacy and Science, Tainan, Taiwan.",
+        "Doctoral Program in Translational Medicine, National Chung Hsing University, Taichung, Taiwan.",
+        "Department of Biotechnology and Bioindustry Sciences, College of Bioscience and Biotechnology, National Cheng Kung University, Tainan, Taiwan.",
+        "Epigenomics and Human Diseases Research Center, National Chung Cheng University, Chiayi, Taiwan."
       ],
-      "doi": "10.1016/j.jep.2026.122688",
-      "date": "2026-11-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067534/"
+      "doi": "10.1016/j.isci.2026.118227",
+      "date": "2026-11-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068304/"
     },
     {
-      "pmid": "43066937",
-      "title": "Protocol for establishing a 3D coculture of colorectal cancer liver metastasis patient-derived organoids, endothelial cells, and fibroblasts.",
-      "abstract": "Here, we present a protocol to investigate tumor-endothelial interactions and endothelial plasticity. We describe steps for establishing patient-derived organoids (PDOs) from colorectal cancer liver metastasis (CRCLM) specimens and their coculture with endothelial cells (ECs) and fibroblasts (FBs) in a three-dimensional (3D) fibrin-Matrigel hydrogel. We then detail procedures for coculture preparation, histological processing, and immunofluorescence analyses.",
-      "journal": "STAR protocols",
+      "pmid": "43068213",
+      "title": "A review of glioblastoma 3D cell culture models: Properties and applications in drug screening.",
+      "abstract": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents, such as Temozolomide, Carmustine, and Lomustine, along with surgery and/or radiotherapy. GBM cells often develop resistance to traditional treatments, leading to a need for the development of new therapies. But due to the complexity of the tumor microenvironment and its limited representation in laboratory models, most newly developed drugs fail to pass clinical trials, highlighting the need for clinically relevant preclinical testing models. Clinically relevant models would incorporate GBM cells in a three-dimensional setting that mimics the in vivo cancer environment and include key features such as the tumor microenvironment and the blood-brain barrier. This narrative review aims to identify 3D cell culture protocols that incorporate the tumor into such an environment and to assess their potential as models for testing glioblastoma treatments. A comprehensive search on Google Scholar and PubMed using the keywords Glioblastoma organoids\", \"Brain Organoids\", \"Glioblastoma 3D cell culture\", \"Brain 3D cell culture\", and \"Advances in brain cell culture\" was done to identify published research work. The PRISMA 2020 guidelines were used to select the papers. The inclusion of the scientific research articles into the study was based on the presence or absence of brain tumor organoids/spheroids and/or cerebral organoids. After shortlisting, 28 studies were analyzed for the review, and the extracted data were put in a Table. The co-culture of cerebral organoids with GBM cells or Glioblastoma stem cells (GSCs)-based spheroids was the most common protocol used in the studies (38%). 14.3% of the studies reported the in vitro establishment of the BBB, and 50% of these studies used bioprinting and microfluidics-based approaches. 68% of the total studies included patient-derived samples, and preservation of patient-specific heterogeneity in the 3D models was also reported. This literature review provides a detailed analysis and summary of the different 3D cell culture techniques that have been developed to study the in vitro effects of the TME and BBB on drug treatment. The findings of this review will help researchers gain a comprehensive understanding of the different types of 3D brain cell culture models, including their design, biological relevance, and translational potential. By critically evaluating current methodologies, applications, and limitations, this review provides a consolidated framework to guide model selection for neuroscience research, disease modelling, and drug screening. Furthermore, the insights presented may support the advancement of more physiologically relevant in vitro brain models and inform future research directions toward improved reproducibility and clinical translation.",
+      "journal": "Biochemistry and biophysics reports",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "School of Food Science and Environmental Health, Technological University Dublin, D07 ADY7, Dublin, Ireland.",
+        "Sustainability and Health Research Hub, Greenway Hub, Grangegorman, Dublin 7, D07 H6K8, Dublin, Ireland.",
+        "FOCAS Research Institute, Technological University Dublin, D08 CKP1, Dublin, Ireland."
+      ],
+      "doi": "10.1016/j.bbrep.2026.102841",
+      "date": "2026-11-16",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068213/"
+    },
+    {
+      "pmid": "43068054",
+      "title": "Establishment of polyclonal human induced pluripotent stem cell lines from peripheral blood using a semi-automated processing system.",
+      "abstract": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and difficult to standardize. Automated closed-system approaches can improve reproducibility, reduce contamination risk, and enable scale-out manufacturing, yet concerns remain regarding the quality of hiPSCs produced using this approach specialized in hiPSC generation from peripheral blood cells. Here we developed a prototype semi-automated hiPSC production system to generate polyclonal hiPSC lines from peripheral blood cells. The semi-automated device consists of a spiral microfluidic module for leukocyte separation, followed by modules for leukocyte expansion culture and the transduction of a Sendai virus (SeV) vector carrying reprogramming factors. Subsequently, the transduced leukocytes were manually cultured and expanded to generate polyclonal hiPSC lines. The generated polyclonal hiPSC populations maintained a normal karyotype and carried minimal residual SeV vector. Importantly, they exhibited self-renewing capacity and pluripotency comparable to those of established clonal hiPSC lines. Furthermore, when subjected to directed differentiation towards cartilage and kidney organoids, the polyclonal hiPSC lines efficiently differentiated into these lineages. The semi-automated system enabled the generation of high-quality polyclonal hiPSC lines, which will hold promise for future applications in cell therapy and drug development.",
+      "journal": "Regenerative therapy",
       "publicationTypes": [
         "Journal Article"
       ],
       "affiliations": [
-        "Université de Lille, Inserm, CHU Lille, Institut Pasteur de Lille, U1011-EGID, 59000 Lille, France.",
-        "Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, Göttingen, Germany; SATURN3 Consortium, site Göttingen, Göttingen, Germany.",
-        "Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, Göttingen, Germany.",
-        "Université de Lille, Inserm, CHU Lille, Institut Pasteur de Lille, U1011-EGID, 59000 Lille, France. Electronic address: anna-rita.cantelmo@univ-lille.fr.",
-        "Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, Göttingen, Germany; Department of General, Visceral and Vascular Surgery, Jena University Hospital, Jena, Germany. Electronic address: tiago.deoliveira@med.uni-jena.de.",
-        "Department of General, Visceral and Pediatric Surgery, University Medical Center Göttingen, Göttingen, Germany; Department of Visceral Surgery and Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland; SATURN3 Consortium, site Göttingen, Göttingen, Germany. Electronic address: lena.conradi@insel.ch."
+        "CiRA Foundation, Research and Development Center, Nakanoshima Qross 7F, Nakanoshima 4-3-51, Kita-ku, Osaka, 530-0005, Japan.",
+        "Canon Inc., 30-2, Shimomaruko 3-chome, Ohta-ku, Tokyo, 146-8501, Japan.",
+        "Department of Regenerative Science, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan.",
+        "Institute for Advanced Academic Research, Chiba University, 1-8-1, Inohana, Chuo-ku, Chiba-shi, Chiba, 260-0856, Japan.",
+        "Institute for Emerging Medical Innovation, Faculty of Advanced Research Fields, Okayama University, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan."
       ],
-      "doi": "10.1016/j.xpro.2026.104973",
+      "doi": "10.1016/j.reth.2026.101201",
+      "date": "2026-11-14",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068054/"
+    },
+    {
+      "pmid": "43067918",
+      "title": "Identification of miRNAs associated with fabry disease.",
+      "abstract": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miRNAs associated with Fabry disease and to explore their predicted target genes and associated pathways. We analyzed four public microarray and RNA-sequencing datasets to identify differentially expressed serum miRNAs in Fabry patients. We selected five candidate miRNAs based on their expression levels and response to enzyme replacement therapy (ERT). Target genes were predicted using three independent databases and compared with gene expression data from Fabry glomeruli and kidney organoids. We identified cross-dataset inverse expression associations between serum miRNAs and tissue genes, followed by KEGG and Gene Ontology pathway enrichment analyses. We identified 112 unique target genes showing inverse expression associations with the five candidate miRNAs. Serum miR-30d-5p was significantly upregulated and is predicted to target BECN1 and ATG12, two autophagy-related genes that were both significantly downregulated in Fabry glomeruli. miR-30d-5p was classified as showing no change in the available ERT-response data. Serum miR-665 was also upregulated and is predicted to target PPP2R2A, which showed the strongest glomerular downregulation among high-confidence targets; unlike miR-30d-5p, miR-665 was classified as returning to healthy levels after ERT. Pathway enrichment was most extensive in the broad expanded target set, including MAPK and PI3K-Akt signaling, and considerably more limited in the restrictive glomerular inverse expression association set. Pharmacological annotation identified seven target genes with existing direct or pathway-level pharmacological modulators, which represent hypotheses for future experimental testing. Circulating miRNAs in Fabry disease show inverse expression associations with predicted target genes involved in potentially pathogenic pathways. Upregulated miR-30d-5p is predicted to target autophagy-related genes and, given its ERT-unresponsive pattern, may represent an exploratory candidate marker of persistent disease burden, whereas miR-665 may represent an exploratory candidate for treatment monitoring. These in silico, hypothesis-generating findings point to candidate pathways for future pharmacological investigation and require independent experimental and clinical validation.",
+      "journal": "In silico pharmacology",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "University of Health Sciences Ankara Ataturk Sanatoryum Training and Research Hospital, Pediatric Metabolism, Ankara, Turkey.",
+        "Department of Biostatistics, Faculty of Medicine, Lokman Hekim University, Ankara, Turkey."
+      ],
+      "doi": "10.1007/s40203-026-00800-7",
       "date": "2026-11-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066937/"
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067918/"
     },
     {
-      "pmid": "43066934",
-      "title": "E-cadherin/Aurora A kinase inhibitor synthetic lethality in breast cancer.",
-      "abstract": "Invasive lobular breast carcinoma (ILC) is defined by loss of the adhesion protein E-cadherin. Using a cancer histology-focused analysis of large-scale drug sensitivity screens, we identify inhibition of the kinase Aurora A as a penetrant synthetic lethal interaction with E-cadherin loss. Combining isogenic cell models, quantitative proteomics, live-cell imaging, patient-derived tumor organoids, and orthotopic xenografts from patients with heavily pre-treated metastatic ILC (mILC), we show that E-cadherin loss alters catenin/Rho/ROCK signaling and imposes a partial defect in centrosomal Aurora A. This defect is normally tolerated but, when exacerbated by pharmacological Aurora A inhibition, causes metaphase arrest and mitotic cell death. Restoring centrosomal Aurora A, or inhibiting ROCK, abolishes this effect. Low tumoral Aurora A is present in most primary lobular tumors. These findings refine the view that high Aurora A expression predicts inhibitor sensitivity and provide the preclinical rationale for trials in mILC.",
-      "journal": "Cell reports",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "The Precision Oncology Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "Light Microscopy Facility, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "Proteomics Facility, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "School of Health and Medical Sciences, City St George's, University of London, London, UK.",
-        "Translational Research Support In Vivo Modelling Team, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "Breast Cancer Now Toby Robins Research Centre Nina Barough Pathology Core Facility, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "King's College London and Guy's and St Thomas' NHS Foundation Trust, London, UK.",
-        "Endocrine Control Mechanisms Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK; ISREC-Swiss Institute for Experimental Cancer Research, School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), 1015 Lausanne, Switzerland.",
-        "Molecular Cell Biology Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK.",
-        "The Precision Oncology Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK. Electronic address: Stephen.Pettitt@icr.ac.uk.",
-        "The Precision Oncology Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK. Electronic address: Andrew.Tutt@icr.ac.uk.",
-        "The Precision Oncology Laboratory, The Breast Cancer Now Toby Robins Breast Cancer Research Centre, The Institute of Cancer Research, London SW3 6JB, UK. Electronic address: Chris.Lord@icr.ac.uk."
-      ],
-      "doi": "10.1016/j.celrep.2026.118366",
-      "date": "2026-11-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066934/"
-    },
-    {
-      "pmid": "43066898",
-      "title": "SYCP3 as a Marker of Meiotic Competence in Human Testicular Organoids.",
-      "abstract": "",
-      "journal": "Stem cell reviews and reports",
-      "publicationTypes": [
-        "Letter"
-      ],
-      "affiliations": [
-        "Department of Biotechnology, Chandigarh College of Technology, Chandigarh Group of Colleges, Landran, Mohali, 140307, Punjab, India.",
-        "Department of Biotechnology, Parul Institute of Technology, Faculty of Engineering and Technology, Parul University, P.O. Limda, Tal. Waghodia, Vadodara, 391760, Gujarat, India. madanayushmadan@gmail.com.",
-        "Department of Biotechnology, Graphic Era (Deemed to be University), Dehradun, 248002, Uttarakhand, India."
-      ],
-      "doi": "10.1007/s12015-026-11263-w",
-      "date": "2026-11-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066898/"
-    },
-    {
-      "pmid": "43066803",
-      "title": "Drug-tolerant persister states in pancreatic cancer and their therapeutic vulnerabilities.",
-      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) rapidly develops therapeutic resistance, leading to frequent relapse even after an initial response to treatment. Drug-tolerant persister cells represent a transient and plastic population that survives cytotoxic pressure through reversible adaptive programs and may subsequently give rise to stable resistant disease. In PDAC, persister survival is supported by metabolic rewiring, redox adaptation, post-translational remodeling, autophagy, and lysosomal fitness, together with protective signals provided by the desmoplastic tumor microenvironment. These mechanisms preserve cellular homeostasis, sustain mitochondrial function, modify drug handling, and reduce immune recognition under conditions of severe therapeutic and metabolic stress. Experimental systems based on treatment-pulse protocols, patient-derived organoids, stromal co-cultures, relapse models, and single-cell approaches are beginning to define the functional dependencies of these residual populations. This review discusses the biological boundaries of PDAC persister states and examines their principal therapeutic vulnerabilities. Understanding when these adaptive programs emerge may enable the development of time-resolved strategies aimed at eliminating residual tumor cells before reversible tolerance progresses to stable resistance and clinical relapse.",
-      "journal": "Cancer metastasis reviews",
+      "pmid": "43067866",
+      "title": "DEVELOPMENT OF ORGANOID BASED MODEL TO STUDY IMMUNE-NEURAL INTERACTIONS IN HUMAN CNS DISEASES.",
+      "abstract": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent stem cell (hiPSC)-derived cerebral organoid (CO) platform optimized to mitigate core hypoxia for over 200 days. Timed pro-myelinating cues established organized neuronal layering and progressive axonal myelination through day 140, while vascular fusion yielded assembloids incorporating endothelial structures and microglia. Extended culture (>500-750 days) spontaneously reproduced hallmark features of human CNS aging, including cellular senescence signatures, neuroaxonal loss, hypomyelination, and the autonomous emergence of a neurotoxic astrocyte transcriptional profile in the complete absence of microglia or immune cells. Co-culture with autologous activated peripheral blood mononuclear cells (PBMC) resulted in transient immune infiltration and a pronounced type II interferon response across CNS lineages. High-plex spatial transcriptomics revealed that immune cell infiltration was associated with oligodendrocyte loss and in aged organoids also with downregulated oligodendrocyte myelin gene transcription. While not fully reproducing adult tissue stoichiometry, this platform enables longitudinal modeling of neural-immune crosstalk in age-related and neuroinflammatory CNS disorders.",
+      "journal": "medRxiv : the preprint server for health sciences",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Preprint"
       ],
-      "affiliations": [
-        "Department of Biochemistry and Molecular Biology, Faculty of Biological Sciences, Complutense University, 28040, Madrid, Spain. mcordani@ucm.es.",
-        "Health Research Institute of Hospital Clínico San Carlos (IdISSC), 28040, Madrid, Spain. mcordani@ucm.es.",
-        "Genomics Research Center, Academia Sinica, Taipei, Taiwan.",
-        "Genomics Research Center, Academia Sinica, Taipei, Taiwan. CMHU1220@as.edu.tw."
-      ],
-      "doi": "10.1007/s10555-026-10401-7",
-      "date": "2026-11-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066803/"
+      "affiliations": [],
+      "doi": "10.64898/2026.08.14.26360461",
+      "date": "2026-08-17",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067866/"
     },
     {
-      "pmid": "43066026",
-      "title": "The translational journey of human pluripotent stem cells.",
-      "abstract": "Human pluripotent stem cells (hPSCs), comprising embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), have emerged as a versatile platform connecting developmental biology with disease modelling, drug discovery, and regenerative medicine. Their capacity for indefinite self-renewal and differentiation into derivatives of all three germ layers provides an essentially renewable source of human cells that are otherwise inaccessible from patients. In this review, we discuss the biological principles governing hPSC identity, with emphasis on the transcriptional, epigenetic, metabolic, and extracellular signalling networks that regulate pluripotency and the distinct features of naive and primed states. We further examine culture systems for maintaining pluripotency and directed differentiation strategies for generating lineage-specific cell types. The application of hPSCs to disease modelling and therapeutic discovery is considered through two-dimensional cellular models and increasingly sophisticated three-dimensional organoids and organoid-on-chip systems, which provide progressively greater tissue complexity and physiological relevance. We also highlight the integration of CRISPR-based genome editing with hPSC platforms to generate isogenic disease models, establish genotype-phenotype relationships, identify therapeutic targets, and enable precise correction of disease-associated variants. Finally, we review the emerging clinical applications of hPSC-derived cell therapies and clinical translation, which remains constrained by challenges related to genomic stability, cellular heterogeneity and maturation, immune compatibility, tumorigenicity, manufacturing, and scalability. Addressing these challenges through improved differentiation, quality control, genome engineering, and scalable manufacturing will be essential for translating the broad potential of hPSCs into safe, reproducible, and accessible clinical therapies.",
-      "journal": "Frontiers in cell and developmental biology",
+      "pmid": "43067750",
+      "title": "Label-Free Live Cell Type Prediction by Integrating Raman Spectroscopy and Machine Learning.",
+      "abstract": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate live cell acquisition, we previously developed RADAR (Raman Spectral Analysis Using Deep Learning for Artifact Removal), a method that increases imaging speed by an order of magnitude while preserving spectral integrity. By integrating high-speed Raman imaging with supervised machine learning, we aimed to define unique biochemical fingerprints specific to cell type. We hypothesized that intrinsic biochemical composition alone is sufficient to distinguish cellular identity and tumor subtype. To test this, we generated metabolic maps of diverse brain-derived cell types-including astrocytoma, oligodendroglioma, and glioblastoma cells-using coherent Raman spectroscopy at single-cell resolution. Patient-derived brain tumor cell lines representing genetically heterogeneous backgrounds were analyzed. Samples were stratified by IDH1 mutation status (IDH1-mutant and IDH1-wild-type) and histologically classified as oligodendroglioma or astrocytoma. Raman spectral data were acquired from 286 live single cells across the two principal molecular classes, with further subdivision into two histologic subtypes within the IDH1-mutant group. Classification was performed using an XGBoost model with shallow tree depth (1-3), a 20% held-out test set, and grouped, stratified 5-fold cross-validation to control for sample-level bias. The machine learning framework distinguished IDH1-mutant from IDH1-wild-type cells with a ROC-AUC of 0.78 and further discriminated IDH1-mutant astrocytoma from oligodendroglioma cells with a ROC-AUC of 0.81. Feature importance analysis demonstrated that separation between IDH1-mutant and IDH1-wild-type cells was driven primarily by Raman peaks associated with protein amide bands, total NADH, unsaturated fatty acids, and heme-related vibrational modes. Within the IDH1-mutant class, discrimination between oligodendroglioma and astrocytoma was driven by lipid-rich vesicle signatures, protein/polyamide amide bands, and lipid-associated spectral features. Together, these findings support the feasibility of label-free, machine learning-assisted Raman profiling to resolve clinically relevant glioma subtypes at single-cell resolution. This scalable analytical framework provides a translational platform for investigating metabolic heterogeneity, therapeutic response, co-culture systems, and patient-derived organoid models.",
+      "journal": "bioRxiv : the preprint server for biology",
       "publicationTypes": [
         "Journal Article",
-        "Review"
+        "Preprint"
       ],
-      "affiliations": [
-        "Tata Institute for Genetics and Society, Karnataka, Bengaluru, India.",
-        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
-      ],
-      "doi": "10.3389/fcell.2026.1978203",
-      "date": "2026-11-06",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066026/"
+      "affiliations": [],
+      "doi": "10.64898/2026.06.16.732770",
+      "date": "2026-06-18",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067750/"
     },
     {
       "pmid": "43061985",
@@ -372,6 +357,44 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43053624/"
     },
     {
+      "pmid": "43068006",
+      "title": "Aqueous Humor Liquid Biopsy Reveals Germline BRCA1/RB1 in Retinoblastoma.",
+      "abstract": "",
+      "journal": "Ophthalmology science",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Cancer and Blood Disease Institute, Children's Hospital Los Angeles, Los Angeles, California.",
+        "Division of Ophthalmology, Oregon Health & Science University, Portland, Oregon.",
+        "Center for Personalized Medicine, Department of Pathology and Laboratory Medicine, Children's Hospital Los Angeles, Los Angeles, California.",
+        "Department of Pathology and Laboratory Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California."
+      ],
+      "doi": "10.1016/j.xops.2026.101424",
+      "date": "2026-10-15",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068006/"
+    },
+    {
+      "pmid": "43067971",
+      "title": "Urinary miRNAs for non-invasive detection of gynecological cancers: opportunities and challenges in liquid biopsy applications.",
+      "abstract": "Gynecological cancers, including cervical, ovarian, and endometrial cancers, are major contributors to morbidity and mortality among women worldwide, with early detection being essential for improving diagnostic accuracy and survival rates. This review explores the potential of urinary microRNAs (miRNAs) as non-invasive biomarkers for diagnosing and monitoring these cancers, highlighting advancements in detection technologies such as digital PCR and next-generation sequencing (NGS). Dysregulated urinary miRNA profiles have been associated with these cancers and often reflect those observed in tissue biopsies, underscoring their diagnostic potential. However, overlapping miRNA alterations across malignancies can limit cancer-type discrimination, while variability in sample collection, extracellular vesicle (EV) separation, analytical methods, and data normalization impedes reproducibility and clinical translation. Advances in NGS have enhanced the sensitivity and precision of miRNA analysis, and the integration of multiple miRNA biomarkers may improve diagnostic accuracy and cancer-type discrimination, although these applications require clinical validation. Future research should focus on standardizing methodologies, characterizing miRNA-tumor interactions, and addressing tumor heterogeneity to fully realize the clinical utility of urinary miRNAs in gynecological oncology.",
+      "journal": "The journal of liquid biopsy",
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "affiliations": [
+        "Department of Pathology, Vrije Universiteit Amsterdam, Amsterdam UMC Location VUmc, Amsterdam, the Netherlands.",
+        "Specialist Unit for Sexual Health, Department for Dermatology and Venerology, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden.",
+        "Department of Laboratory Medicine, Karolinska Institutet, ANA Futura, Huddinge, Sweden.",
+        "Department of Cellular Therapy and Allogeneic Stem Cell Transplantation (CAST), Karolinska University Hospital, Huddinge, Sweden."
+      ],
+      "doi": "10.1016/j.jlb.2026.100691",
+      "date": "2026-11-12",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067971/"
+    },
+    {
       "pmid": "43066897",
       "title": "The Global Landscape of Liquid Biopsy Technology in Oncology: From Biological Foundations to Commercial and Clinical Frontiers.",
       "abstract": "Liquid biopsy has developed rapidly over the past decade and now contributes to several defined areas of oncology practice. Here, we offer an expert opinion on the biological foundations, technological platforms, clinical evidence base, commercial ecosystem and market trajectory of blood-based cancer diagnostics as of mid-2026. We critically evaluate the four principal circulating analytes, cell-free DNA (cfDNA) and its tumour-shed fraction circulating tumour DNA (ctDNA), circulating tumour cells (CTCs), extracellular vesicles (EVs) and tumour-educated platelets (TEPs), alongside the analytical platforms that extract clinically actionable signals from them, including high-sensitivity next-generation sequencing, digital droplet polymerase chain reaction, enzymatic and immunoprecipitation-based methylome profiling, genome-wide fragmentomics, long-read sequencing platforms and the increasingly central role of artificial intelligence in multi-omic signal integration. The principal prospective trials are appraised with attention to both their findings and their limitations, including DYNAMIC, TRACERx, IMvigor011, PATHFINDER 2, the National Health Service (NHS)-Galleri and ECLIPSE. The full spectrum of Food and Drug Administration (FDA)-approved companion diagnostics is reviewed in conjunction with the rapidly maturing startup ecosystem, which spans multi-cancer early detection, minimal residual disease monitoring and circulating-tumour-cell-based multi-omics, alongside the consolidating mergers and acquisitions landscape, with explicit reference to announcements made at the 2026 meetings of the American Society of Clinical Oncology and the American Association for Cancer Research. Non-plasma biofluid substrates including cerebrospinal fluid, urine, saliva and pleural fluid are also discussed for tumour-type-specific applications. The global liquid biopsy market, projected to grow from US$6.17 billion in 2024 to approximately US$22.69 billion by 2034, is analysed by technology, application and geography. We argue that, despite the technical progress documented herein, three structural barriers, namely reimbursement fragmentation, clonal-haematopoiesis-driven biological noise and the persistent absence of prospective mortality data for multi-cancer early detection, together with the fundamental biological limits on ctDNA shedding in low-shedding tumour types and in early-stage disease, must be resolved before liquid biopsy can be applied effectively at the population level.",
@@ -440,177 +463,9 @@
       "doi": "10.3389/fimmu.2026.1983057",
       "date": "2026-11-06",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43065449/"
-    },
-    {
-      "pmid": "43064880",
-      "title": "Small extracellular vesicle-associated miRNAs in lung cancer: therapeutic potential, drug delivery applications, and translational perspectives.",
-      "abstract": "Small extracellular vesicle (EV)-associated microRNAs (miRNAs) have attracted interest as regulators of intercellular communication and candidates for lung cancer biomarkers and RNA therapeutics. However, uncertain cellular origin, analytical variability, and limited clinical validation complicate their translation. To critically assess the biological functions, clinical applications, and translational readiness of EV-associated and exosome-enriched miRNAs in lung cancer. A structured narrative review was conducted using PubMed/MEDLINE, Scopus, and Web of Science, covering publications from January 2017 to June 2026 and supplemented by foundational earlier studies. Evidence was purposively selected according to mechanistic relevance, methodological quality, clinical validation, and translational significance. Findings were synthesized using origin-confidence (OC1-OC3) and evidence-readiness (ER1-ER4) frameworks. EV-associated miRNAs were implicated in tumor-stromal communication, endothelial barrier disruption, metastasis, and treatment resistance. Of 11 patient-linked biomarker studies, ten analyzed total circulating EV fractions (OC1), while one used tumor-associated EV enrichment (OC2); patient samples did not verify a direct malignant-cell origin. Two diagnostic studies included independent external validation (ER3). Experimental studies supported EV-mediated transfer of gefitinib resistance-associated miR-214 and antimetastatic activity of miR-126-loaded EVs in vivo. Variability in EV isolation, hemolysis assessment, miRNA normalization, and clinical validation limited cross-study comparability. EV-associated miRNAs offer potential for lung cancer risk stratification, treatment monitoring, and therapeutic delivery. Clinical translation requires standardized vesicle characterization, independent prospective validation, and quantitative assessment of delivery efficiency, biodistribution, and safety.",
-      "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "I.M. Sechenov First Moscow State Medical University, Moscow, 119048, Russia.",
-        "Clinical Hospital No. 1 of the Clinical Center of the I.M. Sechenov First Moscow State Medical University, Moscow, 119435, Russia.",
-        "Daqing People's Hospital (The Fifth Affiliated Hospital of Harbin Medical University), Daqing, Heilongjiang, 163316, China. liuyanan2686@163.com.",
-        "Islamic University of Najaf, Najaf, Iraq.",
-        "Termez University of Economics and Service, Termez, Uzbekistan.",
-        "Department of Natural Sciences Asia International University, Urgench, Uzbekistan.",
-        "Mamun University, Khiva, Uzbekistan.",
-        "Samarkand State Medical Institute, Samarkand, Uzbekistan."
-      ],
-      "doi": "10.1007/s40199-026-00695-x",
-      "date": "2026-11-21",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43064880/"
-    },
-    {
-      "pmid": "43064877",
-      "title": "Liquid biopsy and cancer therapy: current technology, diagnosis, prognosis, and cancer treatments.",
-      "abstract": "Liquid biopsy offers repeated, minimally invasive molecular profiling of cancer, but its clinical value depends on the analyte, analytical platform, and intended use. In this Review, we evaluate current liquid-biopsy technologies for diagnosis, prognosis, and treatment guidance, with a particular emphasize on tumor-derived extracellular vesicles (TDEVs) as a bridge between biomarker detection and therapeutic intervention. We examine genomic and epigenomic profiling, single-cell and single-vesicle analysis, and multi-omics integration as complementary approaches for assessing tumour burden, heterogeneity and treatment response. Circulating tumor DNA genotyping guides targeted therapy in selected advanced cancers, whereas many early-detection and vesicle-based applications require prospective validation. We highlight how the TDEV lipid bilayer protects diverse molecular cargo that reflects evolving tumour phenotypes and how TDEV-mediated communication contributes to metastasis, immune evasion and therapeutic resistance, creating opportunities to target pathogenic vesicle signalling. We also assess engineered vesicles from malignant and non-malignant cells as drug-delivery and cancer-vaccination platforms, while noting that tumour-derived carriers may retain oncogenic or immunosuppressive cargo. Most candidate vesicle biomarkers remain supported by retrospective studies, and therapeutic platforms are largely preclinical or in early clinical testing. We discuss the requirements for clinical translation, including reliable identification of tumour-derived vesicles, standardized workflows and prospective multicentre validation for diagnostics, and reproducible manufacturing, cargo characterization, potency testing and product-specific pharmacokinetic and safety evaluation for therapeutics. Finally, we consider how multimodal profiling and artificial intelligence might improve signal integration, and argue that clinical adoption will depend on demonstrating that vesicle-guided decisions and interventions improve patient outcomes.",
-      "journal": "Molecular biomedicine",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, Shandong, China.",
-        "Department of Hematology, Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, 272029, Shandong, China.",
-        "College of Rehabilitation Medicine, Jining Medical University, Jining, Shandong, China.",
-        "Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, Shandong, China. gx-zhanghao@126.com.",
-        "Department of Hematology, Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, 272029, Shandong, China. gx-zhanghao@126.com.",
-        "Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, Shandong, China. liangyjie@126.com.",
-        "College of Rehabilitation Medicine, Jining Medical University, Jining, Shandong, China. liangyjie@126.com.",
-        "Affiliated Hospital of Jining Medical University, Jining Medical University, Jining, Shandong, China. xiaoxu.med@gmail.com."
-      ],
-      "doi": "10.1186/s43556-026-00670-7",
-      "date": "2026-11-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43064877/"
     }
   ],
   "signals": [
-    {
-      "id": "pubmed-43067534",
-      "date": "2026-11-21",
-      "title": "Multi-omics analysis links Lycium barbarum glycopeptide-mediated retinal protection to glycolytic remodeling and protein lactylation in retinitis pigmentosa models.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067534/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Journal of ethnopharmacology，PMID 为 43067534。",
-      "report": "Lycium barbarum L. (goji, wolfberry) is a traditional Chinese medicinal and food plant long associated with nourishment and ocular health. Lycium barbarum glycopeptide (LbGP), a purified glycopeptide fraction derived from Lycium barbarum polysaccharides, has s...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43066934",
-      "date": "2026-11-21",
-      "title": "E-cadherin/Aurora A kinase inhibitor synthetic lethality in breast cancer.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066934/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cell reports，PMID 为 43066934。",
-      "report": "Invasive lobular breast carcinoma (ILC) is defined by loss of the adhesion protein E-cadherin. Using a cancer histology-focused analysis of large-scale drug sensitivity screens, we identify inhibition of the kinase Aurora A as a penetrant synthetic lethal inte...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43066898",
-      "date": "2026-11-21",
-      "title": "SYCP3 as a Marker of Meiotic Competence in Human Testicular Organoids.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066898/",
-      "reliability": "High",
-      "evidenceLevel": "Low",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Stem cell reviews and reports，PMID 为 43066898。",
-      "report": "PubMed 记录未提供摘要。",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43066803",
-      "date": "2026-11-21",
-      "title": "Drug-tolerant persister states in pancreatic cancer and their therapeutic vulnerabilities.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066803/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Cancer metastasis reviews，PMID 为 43066803。",
-      "report": "Pancreatic ductal adenocarcinoma (PDAC) rapidly develops therapeutic resistance, leading to frequent relapse even after an initial response to treatment. Drug-tolerant persister cells represent a transient and plastic population that survives cytotoxic pressur...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
     {
       "id": "pubmed-43066897",
       "date": "2026-11-21",
@@ -644,62 +499,30 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43064880",
-      "date": "2026-11-21",
-      "title": "Small extracellular vesicle-associated miRNAs in lung cancer: therapeutic potential, drug delivery applications, and translational perspectives.",
-      "entity": "Clinical Evidence",
-      "primaryCategory": "Clinical & Regulatory",
-      "subCategory": "Clinical Evidence",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43064880/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "临床",
-        "监管",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences，PMID 为 43064880。",
-      "report": "Small extracellular vesicle (EV)-associated microRNAs (miRNAs) have attracted interest as regulators of intercellular communication and candidates for lung cancer biomarkers and RNA therapeutics. However, uncertain cellular origin, analytical variability, and...",
-      "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43066937",
+      "id": "pubmed-43067918",
       "date": "2026-11-20",
-      "title": "Protocol for establishing a 3D coculture of colorectal cancer liver metastasis patient-derived organoids, endothelial cells, and fibroblasts.",
+      "title": "Identification of miRNAs associated with fabry disease.",
       "entity": "Organoid Research",
       "primaryCategory": "Biotech 技术平台",
       "subCategory": "Organoids & Advanced Disease Models",
       "eventType": "Research",
       "sourceType": "Paper",
       "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066937/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067918/",
       "reliability": "High",
       "evidenceLevel": "Medium",
       "needsReview": true,
       "themes": [
         "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology"
+        "Advanced Disease Models"
       ],
       "tags": [
         "类器官",
-        "疾病模型",
-        "肿瘤"
+        "疾病模型"
       ],
       "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 STAR protocols，PMID 为 43066937。",
-      "report": "Here, we present a protocol to investigate tumor-endothelial interactions and endothelial plasticity. We describe steps for establishing patient-derived organoids (PDOs) from colorectal cancer liver metastasis (CRCLM) specimens and their coculture with endothe...",
+      "fact": "PubMed 记录显示该文献收录于 In silico pharmacology，PMID 为 43067918。",
+      "report": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miR...",
       "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
@@ -790,42 +613,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of computer-aided molecular design，PMID 为 43062557。",
       "report": "The three-dimensional structure of proteins is a fundamental determinant of their functional roles; however, biophysical properties such as stability, flexibility, and solubility are also critical for the experimental applicability of designed proteins. The ge...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43064877",
-      "date": "2026-11-20",
-      "title": "Liquid biopsy and cancer therapy: current technology, diagnosis, prognosis, and cancer treatments.",
-      "entity": "Diagnostics Research",
-      "primaryCategory": "Diagnostics & Precision Medicine",
-      "subCategory": "Diagnostics & Precision Medicine",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43064877/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Diagnostics",
-        "Precision Medicine",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "诊断",
-        "精准医疗",
-        "临床",
-        "监管",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Molecular biomedicine，PMID 为 43064877。",
-      "report": "Liquid biopsy offers repeated, minimally invasive molecular profiling of cancer, but its clinical value depends on the analyte, analytical platform, and intended use. In this Review, we evaluate current liquid-biopsy technologies for diagnosis, prognosis, and...",
-      "inference": "自动分类命中规则：Diagnostics & Precision Medicine, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -986,6 +773,72 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43068304",
+      "date": "2026-11-16",
+      "title": "ACTN4 promotes invasive phenotypes and WNT/β-catenin signaling through HDAC7-DACT2 regulation in pancreatic ductal adenocarcinoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068304/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 iScience，PMID 为 43068304。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) exhibits invasive growth and resistance to gemcitabine. We investigated how the actin-binding protein ACTN4 connects invasive behavior with WNT/β-catenin signaling. Elevated ACTN4 expression was associated with poorer su...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43068213",
+      "date": "2026-11-16",
+      "title": "A review of glioblastoma 3D cell culture models: Properties and applications in drug screening.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068213/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Clinical Evidence",
+        "Regulatory Watch",
+        "Precision Oncology",
+        "Drug Screening"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "临床",
+        "监管",
+        "肿瘤",
+        "药筛"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 43068213。",
+      "report": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents, such as Temozolomide, Carmustine, and Lomustine, along with surger...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43065950",
       "date": "2026-11-15",
       "title": "Evidence-Graded Extracellular Vesicle Cargo Coordination in Renal Cell Carcinoma: Mechanisms and Translational Implications.",
@@ -1011,6 +864,64 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 43065950。",
       "report": "Extracellular vesicles (EVs) in renal cell carcinoma (RCC) carry proteins, RNAs, lipids, metabolites, and, in some EV-enriched preparations, DNA-associated material. Yet these components are commonly investigated separately, and the extent to which they act in...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43068054",
+      "date": "2026-11-14",
+      "title": "Establishment of polyclonal human induced pluripotent stem cell lines from peripheral blood using a semi-automated processing system.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068054/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Regenerative therapy，PMID 为 43068054。",
+      "report": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and di...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43067971",
+      "date": "2026-11-12",
+      "title": "Urinary miRNAs for non-invasive detection of gynecological cancers: opportunities and challenges in liquid biopsy applications.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Review",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067971/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 The journal of liquid biopsy，PMID 为 43067971。",
+      "report": "Gynecological cancers, including cervical, ovarian, and endometrial cancers, are major contributors to morbidity and mortality among women worldwide, with early detection being essential for improving diagnostic accuracy and survival rates. This review explore...",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1040,41 +951,6 @@
       "fact": "PubMed 记录显示该文献收录于 ArXiv，PMID 为 43060824。",
       "report": "Symmetric organization is a fundamental principle of biomolecular complex assembly. The same principle underlies engineered applications, from vaccine platforms to nanomaterials, making symmetric de novo generation a core capability for computational protein d...",
       "inference": "自动分类命中规则：AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43066026",
-      "date": "2026-11-06",
-      "title": "The translational journey of human pluripotent stem cells.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43066026/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "AI for Biology",
-        "Drug Discovery",
-        "Precision Oncology"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "AI 制药",
-        "蛋白设计",
-        "分子生成",
-        "肿瘤"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Frontiers in cell and developmental biology，PMID 为 43066026。",
-      "report": "Human pluripotent stem cells (hPSCs), comprising embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), have emerged as a versatile platform connecting developmental biology with disease modelling, drug discovery, and regenerative medicine. Th...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, AI-enabled Discovery。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1168,6 +1044,34 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43068006",
+      "date": "2026-10-15",
+      "title": "Aqueous Humor Liquid Biopsy Reveals Germline BRCA1/RB1 in Retinoblastoma.",
+      "entity": "Diagnostics Research",
+      "primaryCategory": "Diagnostics & Precision Medicine",
+      "subCategory": "Diagnostics & Precision Medicine",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068006/",
+      "reliability": "High",
+      "evidenceLevel": "Low",
+      "needsReview": true,
+      "themes": [
+        "Diagnostics",
+        "Precision Medicine"
+      ],
+      "tags": [
+        "诊断",
+        "精准医疗"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Ophthalmology science，PMID 为 43068006。",
+      "report": "PubMed 记录未提供摘要。",
+      "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43062548",
       "date": "2026-10-03",
       "title": "Deep learning-guided de novo design and molecular dynamics validation of putative glucocorticoid receptor binders.",
@@ -1232,6 +1136,73 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43026583。",
       "report": "Acute myeloid leukemia (AML) is an aggressive hematologic malignancy characterized by rapid progression, therapeutic resistance, and poor prognosis. Inducing ferroptosis in AML cells represents a promising therapeutic strategy. In this study, transcriptomic an...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43067866",
+      "date": "2026-08-17",
+      "title": "DEVELOPMENT OF ORGANOID BASED MODEL TO STUDY IMMUNE-NEURAL INTERACTIONS IN HUMAN CNS DISEASES.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067866/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Longevity",
+        "Biomarkers",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "衰老",
+        "biomarker",
+        "longevity",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 medRxiv : the preprint server for health sciences，PMID 为 43067866。",
+      "report": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43067750",
+      "date": "2026-06-18",
+      "title": "Label-Free Live Cell Type Prediction by Integrating Raman Spectroscopy and Machine Learning.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067750/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43067750。",
+      "report": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]
