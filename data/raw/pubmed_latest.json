@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-22T19:46:51.715036+00:00",
+  "capturedAt": "2026-11-23T07:49:00.752509+00:00",
   "source": "PubMed",
   "queries": [
     "(\"organoid\"[Title/Abstract] OR \"organoids\"[Title/Abstract] OR \"assembloid\"[Title/Abstract] OR \"organ-on-a-chip\"[Title/Abstract])",
@@ -10,16 +10,16 @@
     "(\"aging biomarker\"[Title/Abstract] OR \"longevity\"[Title/Abstract] OR \"geroscience\"[Title/Abstract])"
   ],
   "dateWindow": {
-    "start": "2025-11-22",
-    "end": "2026-11-22"
+    "start": "2025-11-23",
+    "end": "2026-11-23"
   },
   "pmids": [
+    "43068982",
+    "43068981",
+    "43068980",
+    "43068943",
+    "43068675",
     "43068304",
-    "43068213",
-    "43068054",
-    "43067918",
-    "43067866",
-    "43067750",
     "43061985",
     "43061976",
     "43060833",
@@ -41,6 +41,109 @@
   ],
   "records": [
     {
+      "pmid": "43068982",
+      "title": "Disruption of the TCF7L1-TLE3 Complex by Sulforaphane De-Represses TFRC Transcription to Overcome Chemoresistance Through Ferroptosis in Pancreatic Cancer.",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies. Inducing ferroptosis is a promising strategy to enhance chemotherapy and overcome resistance in PDAC. However, the transcriptional control of transferrin receptor 1 (TFRC, encoding the TFR1 protein), the iron gateway driving ferroptosis remains unknown in PDAC, hindering the development of TFR1-targeted ferroptosis-inducing strategies. In this study, TCF7L1 is identified as the first transcriptional repressor of TFRC in PDAC, defining a new ferroptosis iron regulator. TCF7L1 knockdown induces ferroptosis and suppresses tumor growth in patient-derived organoids (PDOs) and xenograft (PDX) models, but not in normal human cell lines, revealing its cancer-selective ferroptosis dependency. Sulforaphane (SFN) binds to TCF7L1 through a binding interface that involves Tyr148, Lys165, and His186, inducing a conformational change that disrupts the TCF7L1-TLE3 corepressor interaction. This disruption relieves TCF7L1-mediated transcriptional repression of TFRC, leading to Fe2+ overload, thereby triggering ferroptosis. Combined treatment with SFN and the GPX4 inhibitor RSL3 nearly abolishes PDAC growth. The TCF7L1-TFR1 axis determines chemosensitivity and acquired resistance. SFN enhances gemcitabine sensitivity and overcomes drug resistance. This study concludes that the TCF7L1-TFR1 axis is a druggable target and SFN is the first direct TCF7L1 ligand, providing a safe, translatable strategy to sensitize PDAC.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Chemical Resource Engineering, College of Life Science and Technology, Beijing University of Chemical Technology, Beijing, China.",
+        "College of Life Science, Baicheng Normal University, Baicheng, China.",
+        "State Key Laboratory Incubation Base for Conservation and Utilization of Bioresource in Tarim Basin, College of Life Sciences and Technology, Tarim University, Alar, China.",
+        "Department of Hepatopancreatobiliary Surgery, China-Japan Friendship Hospital, Beijing, China."
+      ],
+      "doi": "10.1002/advs.78876",
+      "date": "2026-11-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068982/"
+    },
+    {
+      "pmid": "43068981",
+      "title": "AARS1-Mediated GLUD1 K503 Lactylation Drives Colorectal Cancer Metastasis Through Post-Transcriptional Reprogramming.",
+      "abstract": "The prognosis of patients with colorectal cancer (CRC) largely depends on whether metastasis occurs. The Warburg effect leads to lactate accumulation and potential lysine lactylation (Kla), thereby promoting tumor initiation and progression. However, the role of non-histone Kla in CRC metastasis remains poorly understood. In this study, integrated lactylome and proteome profiling of liver metastases (LM) and paired primary tumors (PT) from patients with metastatic colorectal cancer (mCRC), together with multi-omics analyses and in vitro and in vivo validation, identified GLUD1 as a key lactylated protein that promotes CRC metastasis. Moreover, GLUD1 lactylation was significantly associated with distant metastasis and poorer prognosis in patients with CRC. Mechanistically, lactate enhanced lactylation of GLUD1 at lysine 503 (K503), which facilitated the interaction between YBX1 and ELAVL1 and increased the post-transcriptional stability of CXCL8 and SLC7A11 mRNAs, thereby enhancing the metastatic potential of tumor cells. In addition, structure-based screening identified cangrelor tetrasodium as a potent inhibitor of GLUD1-K503la, and this compound showed robust efficacy in cell lines, patient-derived organoids (PDOs), and in vivo models. Collectively, these findings identify GLUD1-K503la as a key driver of CRC metastasis and highlight its potential clinical value as both a prognostic biomarker and a therapeutic target.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Department of Colorectal Surgery, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing, China.",
+        "Department of General Surgery, The First Affiliated Hospital of Soochow University, Suzhou, China.",
+        "Department of Medical Oncology, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing, China.",
+        "Gastrointestinal Surgery, Beijing Shijitan Hospital, Capital Medical University, Beijing, China.",
+        "Department of Pathology, The Affiliated Cancer Hospital of Nanjing Medical University & Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research, Nanjing, China.",
+        "Department of General Surgery, Xuan Cheng City Central Hospital, Xuancheng, China.",
+        "Geriatric Hospital of Nanjing Medical University, Nanjing, China.",
+        "Suzhou Biomedical Industry Innovation Center & National Center of Technology Innovation For Biopharmaceuticals, Suzhou, Jiangsu, China.",
+        "Jiangsu Key Laboratory of Innovative Cancer Diagnosis & Therapeutics, Nanjing, China."
+      ],
+      "doi": "10.1002/advs.78893",
+      "date": "2026-11-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068981/"
+    },
+    {
+      "pmid": "43068980",
+      "title": "AI-Driven Discovery of Nodakenin as a Novel Molecular Glue Targeting the TRIM28-NR4A1-LCN2 Axis to Induce Ferroptosis in Melanoma.",
+      "abstract": "Melanoma remains a malignancy requiring novel interventions. While triggering ferroptosis has emerged as a promising anti-tumor strategy, the targetable molecular vulnerabilities governing this process remain incompletely understood. Here, through artificial intelligence (AI)-driven virtual screening, we identified the coumarin derivative Nodakenin (NK) as a potent inhibitor of nuclear receptor subfamily 4 group A member 1 (NR4A1), an orphan nuclear receptor highly expressed in malignant melanoma cells. Transcriptomic, biochemical, and structural analyses revealed that NK triggers ferroptosis in melanoma cells. Mechanistically, NK functions as a molecular glue that enforces proximity between NR4A1 and the E3 ubiquitin ligase tripartite motif-containing protein 28 (TRIM28). This recruitment promotes K48-linked polyubiquitination of NR4A1 at the K381 residue, leading to its rapid proteasomal degradation. Consequently, the targeted depletion of NR4A1 abolishes its transcriptional transactivation of the defense gene the defense gene lipocalin 2 (LCN2), resulting in intracellular free iron overload, lipid reactive oxygen species (ROS) accumulation, and lethal ferroptosis. Crucially, NK dramatically suppresses tumor growth and liver metastasis in vivo and disrupts the viability of patient-derived organoids (PDOs), with these therapeutic efficacies being dependent on the ferroptosis pathway. Collectively, this study identifies a novel molecular glue targeting NR4A1 and unveils the TRIM28/NR4A1/LCN2 axis as a promising therapeutic vulnerability for melanoma.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center of Burn & Plastic and Wound Healing Surgery, The First Affiliated Hospital of University of South China, Hengyang Medical School, University of South China, Hengyang, Hunan, People's Republic of China.",
+        "State Key Laboratory of Ultrasound in Medicine and Engineering, Laboratory of Developmental Biology, School of Basic Medical Sciences, The Second Affiliated Hospital of Chongqing Medical University, Chongqing Medical University, Chongqing, People's Republic of China.",
+        "The Second Affiliated Hospital of Zhejiang Chinese Medical University, Second Clinical Medical School of Zhejiang Chinese Medical University, Hangzhou, People's Republic of China.",
+        "Graduate School of Medicine, Nagoya University, Nagoya, Japan.",
+        "Department of Plastic Surgery, 411 Hospital, Shanghai University, Shanghai, People's Republic of China."
+      ],
+      "doi": "10.1002/advs.78734",
+      "date": "2026-11-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068980/"
+    },
+    {
+      "pmid": "43068943",
+      "title": "Pediatric Tumor Immune Organoids Preserve Cellular Compartments and are Suitable for Preclinical Modeling of Emerging Immunotherapies.",
+      "abstract": "Therapeutic progress against pediatric solid tumors and brain tumors has stalled. Immunotherapies have shown promise, but additional optimizations are needed to overcome the immunosuppressive tumor microenvironment (TME). Cost-effective, reliable models that recapitulate the TME of solid tumors could accelerate development of novel immunotherapies. We developed and optimized Pediatric Tumor Immune Organoids (PTIOs), which grow intact fragments of tumors harvested from immunocompetent murine neuroblastoma, medulloblastoma (MB) and osteosarcoma tumor models in an air-liquid interface (ALI). PTIOs preserve tumor, immune and stromal cells for extended periods of time and recapitulate responses to immune-targeting agents and CAR T cells seen in vivo more accurately than traditional 2D in vitro models. Using a human patient-derived MB PTIO, we observed potent antitumor activity of GD2-CAR T cells. Our data suggest that PTIOs could provide an alternative and potentially more economical and informative platform than animal studies for preclinical modeling of immunotherapies for pediatric solid tumors.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "Center for Cancer Cell Therapy, Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Division of Hematology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Department of Neurology, University of California, San Francisco, CA, USA.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, CA, USA.",
+        "Department of Pediatrics, University of California, San Francisco, CA, USA.",
+        "Department of Neurological Surgery, University of California, San Francisco, CA, USA.",
+        "University of California, San Francisco, San Francisco, CA, USA.",
+        "Weill Cancer Hub West, Stanford, CA, USA.",
+        "Parker Institute for Cancer Immunotherapy, San Francisco, CA, USA.",
+        "Division of Pediatric Hematology/Oncology and Division of Stem Cell Transplantation and Regenerative Medicine, Department of Pediatrics, Stanford University School of Medicine, Stanford, CA, USA.",
+        "Division of Blood and Marrow Transplantation and Cell Therapy, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA."
+      ],
+      "doi": "10.1002/advs.78865",
+      "date": "2026-11-22",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068943/"
+    },
+    {
+      "pmid": "43068675",
+      "title": "Systematic evaluation of organoid fidelity for drug absorption, distribution, metabolism, and excretion and toxicity assessment.",
+      "abstract": "Organoid technology holds great promise for modeling human physiology and improving preclinical drug evaluation. However, the extent to which current organoid models faithfully recapitulate native tissue functions relevant to drug absorption, distribution, metabolism, and excretion, as well as toxicity prediction, remains unclear. Here, we present a systematic, cross-organ assessment of human intestinal, hepatic, and renal organoids using integrated single-cell transcriptomic analyses. We benchmarked cell type composition and functional gene expression against adult tissue references, revealing that organoids generally lack immune, vascular, and mature parenchymal subsets critical for physiologically relevant absorption, distribution, metabolism, and excretion and toxicity responses. Our results show that culture conditions influence stemness, differentiation, and metabolic capacity, yet no current protocol fully restores adult-like complexity. These limitations constrain the predictive power of organoids in drug development. We highlight key strategies-such as coculture systems, assembloids, and organ-on-chip integration-to enhance organoid fidelity. This work provides a roadmap for optimizing organoid platforms to advance their application in pharmacology and toxicology. SIGNIFICANCE STATEMENT: Organoids are essential alternatives to animal models for drug development, addressing ethical concerns and improving human-relevant predictions. By benchmarking their strengths and limitations, this study offers practical guidance to enhance their use in preclinical drug development.",
+      "journal": "Drug metabolism and disposition: the biological fate of chemicals",
+      "publicationTypes": [
+        "Journal Article"
+      ],
+      "affiliations": [
+        "School of Life Science and Technology, Key Laboratory of Developmental Genes and Human Disease, Southeast University, Nanjing, China.",
+        "Center for Translational Medicine Research and Development, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Center for Translational Medicine Research and Development, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. Electronic address: yan.wang@siat.ac.cn.",
+        "School of Life Science and Technology, Key Laboratory of Developmental Genes and Human Disease, Southeast University, Nanjing, China; Institute of Microphysiological Systems, Southeast University, Nanjing, China. Electronic address: leichen@seu.edu.cn."
+      ],
+      "doi": "10.1016/j.dmd.2026.100422",
+      "date": "2026-10-13",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068675/"
+    },
+    {
       "pmid": "43068304",
       "title": "ACTN4 promotes invasive phenotypes and WNT/β-catenin signaling through HDAC7-DACT2 regulation in pancreatic ductal adenocarcinoma.",
       "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits invasive growth and resistance to gemcitabine. We investigated how the actin-binding protein ACTN4 connects invasive behavior with WNT/β-catenin signaling. Elevated ACTN4 expression was associated with poorer survival in public PDAC cohorts and metastatic disease in genetically engineered mice. ACTN4 depletion reduced TGF-β1-induced invasion, focal adhesion signaling, and WNT activity, while increasing gemcitabine sensitivity in cells and organoids. Biochemical analyses and genetic rescue experiments linked Ser159-dependent ACTN4 activity to HDAC7 stability, reduced DACT2 expression, and β-catenin-dependent transcription. DACT2 depletion partially reversed the effects of ACTN4 loss. Ellagic acid reduced ACTN4-HDAC7 complex recovery and attenuated associated signaling. These findings support a functional model connecting ACTN4 to HDAC7-DACT2 regulation and identify an ACTN4-associated signaling axis relevant to PDAC invasion and gemcitabine response.",
@@ -61,87 +164,6 @@
       "doi": "10.1016/j.isci.2026.118227",
       "date": "2026-11-16",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068304/"
-    },
-    {
-      "pmid": "43068213",
-      "title": "A review of glioblastoma 3D cell culture models: Properties and applications in drug screening.",
-      "abstract": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents, such as Temozolomide, Carmustine, and Lomustine, along with surgery and/or radiotherapy. GBM cells often develop resistance to traditional treatments, leading to a need for the development of new therapies. But due to the complexity of the tumor microenvironment and its limited representation in laboratory models, most newly developed drugs fail to pass clinical trials, highlighting the need for clinically relevant preclinical testing models. Clinically relevant models would incorporate GBM cells in a three-dimensional setting that mimics the in vivo cancer environment and include key features such as the tumor microenvironment and the blood-brain barrier. This narrative review aims to identify 3D cell culture protocols that incorporate the tumor into such an environment and to assess their potential as models for testing glioblastoma treatments. A comprehensive search on Google Scholar and PubMed using the keywords Glioblastoma organoids\", \"Brain Organoids\", \"Glioblastoma 3D cell culture\", \"Brain 3D cell culture\", and \"Advances in brain cell culture\" was done to identify published research work. The PRISMA 2020 guidelines were used to select the papers. The inclusion of the scientific research articles into the study was based on the presence or absence of brain tumor organoids/spheroids and/or cerebral organoids. After shortlisting, 28 studies were analyzed for the review, and the extracted data were put in a Table. The co-culture of cerebral organoids with GBM cells or Glioblastoma stem cells (GSCs)-based spheroids was the most common protocol used in the studies (38%). 14.3% of the studies reported the in vitro establishment of the BBB, and 50% of these studies used bioprinting and microfluidics-based approaches. 68% of the total studies included patient-derived samples, and preservation of patient-specific heterogeneity in the 3D models was also reported. This literature review provides a detailed analysis and summary of the different 3D cell culture techniques that have been developed to study the in vitro effects of the TME and BBB on drug treatment. The findings of this review will help researchers gain a comprehensive understanding of the different types of 3D brain cell culture models, including their design, biological relevance, and translational potential. By critically evaluating current methodologies, applications, and limitations, this review provides a consolidated framework to guide model selection for neuroscience research, disease modelling, and drug screening. Furthermore, the insights presented may support the advancement of more physiologically relevant in vitro brain models and inform future research directions toward improved reproducibility and clinical translation.",
-      "journal": "Biochemistry and biophysics reports",
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "affiliations": [
-        "School of Food Science and Environmental Health, Technological University Dublin, D07 ADY7, Dublin, Ireland.",
-        "Sustainability and Health Research Hub, Greenway Hub, Grangegorman, Dublin 7, D07 H6K8, Dublin, Ireland.",
-        "FOCAS Research Institute, Technological University Dublin, D08 CKP1, Dublin, Ireland."
-      ],
-      "doi": "10.1016/j.bbrep.2026.102841",
-      "date": "2026-11-16",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068213/"
-    },
-    {
-      "pmid": "43068054",
-      "title": "Establishment of polyclonal human induced pluripotent stem cell lines from peripheral blood using a semi-automated processing system.",
-      "abstract": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and difficult to standardize. Automated closed-system approaches can improve reproducibility, reduce contamination risk, and enable scale-out manufacturing, yet concerns remain regarding the quality of hiPSCs produced using this approach specialized in hiPSC generation from peripheral blood cells. Here we developed a prototype semi-automated hiPSC production system to generate polyclonal hiPSC lines from peripheral blood cells. The semi-automated device consists of a spiral microfluidic module for leukocyte separation, followed by modules for leukocyte expansion culture and the transduction of a Sendai virus (SeV) vector carrying reprogramming factors. Subsequently, the transduced leukocytes were manually cultured and expanded to generate polyclonal hiPSC lines. The generated polyclonal hiPSC populations maintained a normal karyotype and carried minimal residual SeV vector. Importantly, they exhibited self-renewing capacity and pluripotency comparable to those of established clonal hiPSC lines. Furthermore, when subjected to directed differentiation towards cartilage and kidney organoids, the polyclonal hiPSC lines efficiently differentiated into these lineages. The semi-automated system enabled the generation of high-quality polyclonal hiPSC lines, which will hold promise for future applications in cell therapy and drug development.",
-      "journal": "Regenerative therapy",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "CiRA Foundation, Research and Development Center, Nakanoshima Qross 7F, Nakanoshima 4-3-51, Kita-ku, Osaka, 530-0005, Japan.",
-        "Canon Inc., 30-2, Shimomaruko 3-chome, Ohta-ku, Tokyo, 146-8501, Japan.",
-        "Department of Regenerative Science, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan.",
-        "Institute for Advanced Academic Research, Chiba University, 1-8-1, Inohana, Chuo-ku, Chiba-shi, Chiba, 260-0856, Japan.",
-        "Institute for Emerging Medical Innovation, Faculty of Advanced Research Fields, Okayama University, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan."
-      ],
-      "doi": "10.1016/j.reth.2026.101201",
-      "date": "2026-11-14",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068054/"
-    },
-    {
-      "pmid": "43067918",
-      "title": "Identification of miRNAs associated with fabry disease.",
-      "abstract": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miRNAs associated with Fabry disease and to explore their predicted target genes and associated pathways. We analyzed four public microarray and RNA-sequencing datasets to identify differentially expressed serum miRNAs in Fabry patients. We selected five candidate miRNAs based on their expression levels and response to enzyme replacement therapy (ERT). Target genes were predicted using three independent databases and compared with gene expression data from Fabry glomeruli and kidney organoids. We identified cross-dataset inverse expression associations between serum miRNAs and tissue genes, followed by KEGG and Gene Ontology pathway enrichment analyses. We identified 112 unique target genes showing inverse expression associations with the five candidate miRNAs. Serum miR-30d-5p was significantly upregulated and is predicted to target BECN1 and ATG12, two autophagy-related genes that were both significantly downregulated in Fabry glomeruli. miR-30d-5p was classified as showing no change in the available ERT-response data. Serum miR-665 was also upregulated and is predicted to target PPP2R2A, which showed the strongest glomerular downregulation among high-confidence targets; unlike miR-30d-5p, miR-665 was classified as returning to healthy levels after ERT. Pathway enrichment was most extensive in the broad expanded target set, including MAPK and PI3K-Akt signaling, and considerably more limited in the restrictive glomerular inverse expression association set. Pharmacological annotation identified seven target genes with existing direct or pathway-level pharmacological modulators, which represent hypotheses for future experimental testing. Circulating miRNAs in Fabry disease show inverse expression associations with predicted target genes involved in potentially pathogenic pathways. Upregulated miR-30d-5p is predicted to target autophagy-related genes and, given its ERT-unresponsive pattern, may represent an exploratory candidate marker of persistent disease burden, whereas miR-665 may represent an exploratory candidate for treatment monitoring. These in silico, hypothesis-generating findings point to candidate pathways for future pharmacological investigation and require independent experimental and clinical validation.",
-      "journal": "In silico pharmacology",
-      "publicationTypes": [
-        "Journal Article"
-      ],
-      "affiliations": [
-        "University of Health Sciences Ankara Ataturk Sanatoryum Training and Research Hospital, Pediatric Metabolism, Ankara, Turkey.",
-        "Department of Biostatistics, Faculty of Medicine, Lokman Hekim University, Ankara, Turkey."
-      ],
-      "doi": "10.1007/s40203-026-00800-7",
-      "date": "2026-11-20",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067918/"
-    },
-    {
-      "pmid": "43067866",
-      "title": "DEVELOPMENT OF ORGANOID BASED MODEL TO STUDY IMMUNE-NEURAL INTERACTIONS IN HUMAN CNS DISEASES.",
-      "abstract": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent stem cell (hiPSC)-derived cerebral organoid (CO) platform optimized to mitigate core hypoxia for over 200 days. Timed pro-myelinating cues established organized neuronal layering and progressive axonal myelination through day 140, while vascular fusion yielded assembloids incorporating endothelial structures and microglia. Extended culture (>500-750 days) spontaneously reproduced hallmark features of human CNS aging, including cellular senescence signatures, neuroaxonal loss, hypomyelination, and the autonomous emergence of a neurotoxic astrocyte transcriptional profile in the complete absence of microglia or immune cells. Co-culture with autologous activated peripheral blood mononuclear cells (PBMC) resulted in transient immune infiltration and a pronounced type II interferon response across CNS lineages. High-plex spatial transcriptomics revealed that immune cell infiltration was associated with oligodendrocyte loss and in aged organoids also with downregulated oligodendrocyte myelin gene transcription. While not fully reproducing adult tissue stoichiometry, this platform enables longitudinal modeling of neural-immune crosstalk in age-related and neuroinflammatory CNS disorders.",
-      "journal": "medRxiv : the preprint server for health sciences",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.08.14.26360461",
-      "date": "2026-08-17",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067866/"
-    },
-    {
-      "pmid": "43067750",
-      "title": "Label-Free Live Cell Type Prediction by Integrating Raman Spectroscopy and Machine Learning.",
-      "abstract": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate live cell acquisition, we previously developed RADAR (Raman Spectral Analysis Using Deep Learning for Artifact Removal), a method that increases imaging speed by an order of magnitude while preserving spectral integrity. By integrating high-speed Raman imaging with supervised machine learning, we aimed to define unique biochemical fingerprints specific to cell type. We hypothesized that intrinsic biochemical composition alone is sufficient to distinguish cellular identity and tumor subtype. To test this, we generated metabolic maps of diverse brain-derived cell types-including astrocytoma, oligodendroglioma, and glioblastoma cells-using coherent Raman spectroscopy at single-cell resolution. Patient-derived brain tumor cell lines representing genetically heterogeneous backgrounds were analyzed. Samples were stratified by IDH1 mutation status (IDH1-mutant and IDH1-wild-type) and histologically classified as oligodendroglioma or astrocytoma. Raman spectral data were acquired from 286 live single cells across the two principal molecular classes, with further subdivision into two histologic subtypes within the IDH1-mutant group. Classification was performed using an XGBoost model with shallow tree depth (1-3), a 20% held-out test set, and grouped, stratified 5-fold cross-validation to control for sample-level bias. The machine learning framework distinguished IDH1-mutant from IDH1-wild-type cells with a ROC-AUC of 0.78 and further discriminated IDH1-mutant astrocytoma from oligodendroglioma cells with a ROC-AUC of 0.81. Feature importance analysis demonstrated that separation between IDH1-mutant and IDH1-wild-type cells was driven primarily by Raman peaks associated with protein amide bands, total NADH, unsaturated fatty acids, and heme-related vibrational modes. Within the IDH1-mutant class, discrimination between oligodendroglioma and astrocytoma was driven by lipid-rich vesicle signatures, protein/polyamide amide bands, and lipid-associated spectral features. Together, these findings support the feasibility of label-free, machine learning-assisted Raman profiling to resolve clinically relevant glioma subtypes at single-cell resolution. This scalable analytical framework provides a translational platform for investigating metabolic heterogeneity, therapeutic response, co-culture systems, and patient-derived organoid models.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "publicationTypes": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "affiliations": [],
-      "doi": "10.64898/2026.06.16.732770",
-      "date": "2026-06-18",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067750/"
     },
     {
       "pmid": "43061985",
@@ -467,6 +489,134 @@
   ],
   "signals": [
     {
+      "id": "pubmed-43068982",
+      "date": "2026-11-22",
+      "title": "Disruption of the TCF7L1-TLE3 Complex by Sulforaphane De-Represses TFRC Transcription to Overcome Chemoresistance Through Ferroptosis in Pancreatic Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068982/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068982。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies. Inducing ferroptosis is a promising strategy to enhance chemotherapy and overcome resistance in PDAC. However, the transcriptional control of transferrin receptor 1 (TFRC, encoding...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43068981",
+      "date": "2026-11-22",
+      "title": "AARS1-Mediated GLUD1 K503 Lactylation Drives Colorectal Cancer Metastasis Through Post-Transcriptional Reprogramming.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068981/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068981。",
+      "report": "The prognosis of patients with colorectal cancer (CRC) largely depends on whether metastasis occurs. The Warburg effect leads to lactate accumulation and potential lysine lactylation (Kla), thereby promoting tumor initiation and progression. However, the role...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43068980",
+      "date": "2026-11-22",
+      "title": "AI-Driven Discovery of Nodakenin as a Novel Molecular Glue Targeting the TRIM28-NR4A1-LCN2 Axis to Induce Ferroptosis in Melanoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068980/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068980。",
+      "report": "Melanoma remains a malignancy requiring novel interventions. While triggering ferroptosis has emerged as a promising anti-tumor strategy, the targetable molecular vulnerabilities governing this process remain incompletely understood. Here, through artificial i...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
+      "id": "pubmed-43068943",
+      "date": "2026-11-22",
+      "title": "Pediatric Tumor Immune Organoids Preserve Cellular Compartments and are Suitable for Preclinical Modeling of Emerging Immunotherapies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068943/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068943。",
+      "report": "Therapeutic progress against pediatric solid tumors and brain tumors has stalled. Immunotherapies have shown promise, but additional optimizations are needed to overcome the immunosuppressive tumor microenvironment (TME). Cost-effective, reliable models that r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43066897",
       "date": "2026-11-21",
       "title": "The Global Landscape of Liquid Biopsy Technology in Oncology: From Biological Foundations to Commercial and Clinical Frontiers.",
@@ -496,34 +646,6 @@
       "fact": "PubMed 记录显示该文献收录于 Molecular diagnosis & therapy，PMID 为 43066897。",
       "report": "Liquid biopsy has developed rapidly over the past decade and now contributes to several defined areas of oncology practice. Here, we offer an expert opinion on the biological foundations, technological platforms, clinical evidence base, commercial ecosystem an...",
       "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43067918",
-      "date": "2026-11-20",
-      "title": "Identification of miRNAs associated with fabry disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067918/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 In silico pharmacology，PMID 为 43067918。",
-      "report": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miR...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -803,42 +925,6 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
-      "id": "pubmed-43068213",
-      "date": "2026-11-16",
-      "title": "A review of glioblastoma 3D cell culture models: Properties and applications in drug screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068213/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 43068213。",
-      "report": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents, such as Temozolomide, Carmustine, and Lomustine, along with surger...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
       "id": "pubmed-43065950",
       "date": "2026-11-15",
       "title": "Evidence-Graded Extracellular Vesicle Cargo Coordination in Renal Cell Carcinoma: Mechanisms and Translational Implications.",
@@ -864,34 +950,6 @@
       "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 43065950。",
       "report": "Extracellular vesicles (EVs) in renal cell carcinoma (RCC) carry proteins, RNAs, lipids, metabolites, and, in some EV-enriched preparations, DNA-associated material. Yet these components are commonly investigated separately, and the extent to which they act in...",
       "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43068054",
-      "date": "2026-11-14",
-      "title": "Establishment of polyclonal human induced pluripotent stem cell lines from peripheral blood using a semi-automated processing system.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068054/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative therapy，PMID 为 43068054。",
-      "report": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and di...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
@@ -1072,6 +1130,36 @@
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     },
     {
+      "id": "pubmed-43068675",
+      "date": "2026-10-13",
+      "title": "Systematic evaluation of organoid fidelity for drug absorption, distribution, metabolism, and excretion and toxicity assessment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068675/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Drug metabolism and disposition: the biological fate of chemicals，PMID 为 43068675。",
+      "report": "Organoid technology holds great promise for modeling human physiology and improving preclinical drug evaluation. However, the extent to which current organoid models faithfully recapitulate native tissue functions relevant to drug absorption, distribution, met...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+    },
+    {
       "id": "pubmed-43062548",
       "date": "2026-10-03",
       "title": "Deep learning-guided de novo design and molecular dynamics validation of putative glucocorticoid receptor binders.",
@@ -1136,73 +1224,6 @@
       "fact": "PubMed 记录显示该文献收录于 Journal of nanobiotechnology，PMID 为 43026583。",
       "report": "Acute myeloid leukemia (AML) is an aggressive hematologic malignancy characterized by rapid progression, therapeutic resistance, and poor prognosis. Inducing ferroptosis in AML cells represents a promising therapeutic strategy. In this study, transcriptomic an...",
       "inference": "自动分类命中规则：Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43067866",
-      "date": "2026-08-17",
-      "title": "DEVELOPMENT OF ORGANOID BASED MODEL TO STUDY IMMUNE-NEURAL INTERACTIONS IN HUMAN CNS DISEASES.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067866/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 medRxiv : the preprint server for health sciences，PMID 为 43067866。",
-      "report": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-    },
-    {
-      "id": "pubmed-43067750",
-      "date": "2026-06-18",
-      "title": "Label-Free Live Cell Type Prediction by Integrating Raman Spectroscopy and Machine Learning.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067750/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43067750。",
-      "report": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
       "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
     }
   ]

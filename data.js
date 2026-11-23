@@ -1,5 +1,5 @@
 window.BHR_DATA = {
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "sources": [
     {
       "name": "ClinicalTrials.gov",
@@ -821,6 +821,317 @@ window.BHR_DATA = {
   ],
   "signals": [
     {
+      "id": "pubmed-43068982",
+      "date": "2026-11-22",
+      "title": "Disruption of the TCF7L1-TLE3 Complex by Sulforaphane De-Represses TFRC Transcription to Overcome Chemoresistance Through Ferroptosis in Pancreatic Cancer.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068982/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": false,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068982。",
+      "report": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies. Inducing ferroptosis is a promising strategy to enhance chemotherapy and overcome resistance in PDAC. However, the transcriptional control of transferrin receptor 1 (TFRC, encoding...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_068a99f6bc9ad421006b03eff5fbac87d1a9a6aa0cef7fc1bb",
+        "reviewedAt": "2026-11-23T07:49:09.173055+00:00",
+        "inputHash": "dd7497e270e199785d02e08c9849d405871caf4dcb75fcf8b9bb96c54836ef2c",
+        "status": "pass",
+        "confidence": 0.85,
+        "humanReviewRequired": false,
+        "reviewSummaryCn": "该信号记录符合发布要求，分类和证据水平合理，各部分内容清晰分隔。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合文献主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": true,
+          "notesCn": "证据水平适当，符合信号内容。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068982。",
+          "report": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies. Inducing ferroptosis is a promising strategy to enhance chemotherapy and overcome resistance in PDAC. However, the transcriptional control of transferrin receptor 1 (TFRC, encoding...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43068981",
+      "date": "2026-11-22",
+      "title": "AARS1-Mediated GLUD1 K503 Lactylation Drives Colorectal Cancer Metastasis Through Post-Transcriptional Reprogramming.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068981/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068981。",
+      "report": "The prognosis of patients with colorectal cancer (CRC) largely depends on whether metastasis occurs. The Warburg effect leads to lactate accumulation and potential lysine lactylation (Kla), thereby promoting tumor initiation and progression. However, the role...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_057680c56ccecfae006b03effbc8b887d197bbb5c8295dbd60",
+        "reviewedAt": "2026-11-23T07:49:09.173055+00:00",
+        "inputHash": "49afdc5e65760a82f4ace1bd80322b99bf698c770852bf0d11ab4efb352efe6e",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人工审查，存在未支持的疗效结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类支持，但相关性需人工确认。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据水平标记为中等，但适用性存疑。"
+        },
+        "riskFlags": [
+          "clinical_claim"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068981。",
+          "report": "The prognosis of patients with colorectal cancer (CRC) largely depends on whether metastasis occurs. The Warburg effect leads to lactate accumulation and potential lysine lactylation (Kla), thereby promoting tumor initiation and progression. However, the role...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43068980",
+      "date": "2026-11-22",
+      "title": "AI-Driven Discovery of Nodakenin as a Novel Molecular Glue Targeting the TRIM28-NR4A1-LCN2 Axis to Induce Ferroptosis in Melanoma.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068980/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology",
+        "Drug Screening",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤",
+        "药筛",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068980。",
+      "report": "Melanoma remains a malignancy requiring novel interventions. While triggering ferroptosis has emerged as a promising anti-tumor strategy, the targetable molecular vulnerabilities governing this process remain incompletely understood. Here, through artificial i...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0cb2745545771a10006b03f000db9887d1a0bd0ca9681afccf",
+        "reviewedAt": "2026-11-23T07:49:09.173055+00:00",
+        "inputHash": "7de8a2ccac089982e8e2631880f6fcf14518b0d8568c982977a71fe47d301d00",
+        "status": "needs_human",
+        "confidence": 0.85,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "该文献涉及新分子靶点及肿瘤治疗策略，推断中存在对临床应用的隐含建议，需要人类审查。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "分类支持的理由不充分，且涉及临床兴奋性推断。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": false,
+          "evidenceLevelReasonable": false,
+          "notesCn": "尽管来源可靠，但报告和推断没有清晰分开。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology",
+            "Drug Screening",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤",
+            "药筛",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068980。",
+          "report": "Melanoma remains a malignancy requiring novel interventions. While triggering ferroptosis has emerged as a promising anti-tumor strategy, the targetable molecular vulnerabilities governing this process remain incompletely understood. Here, through artificial intelligence methods...",
+          "inference": "该文献展示了一个新的分子靶点及其潜在的抗肿瘤机制，但推断的临床应用需要更多的验证。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
+      "id": "pubmed-43068943",
+      "date": "2026-11-22",
+      "title": "Pediatric Tumor Immune Organoids Preserve Cellular Compartments and are Suitable for Preclinical Modeling of Emerging Immunotherapies.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068943/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Precision Oncology"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "肿瘤"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068943。",
+      "report": "Therapeutic progress against pediatric solid tumors and brain tumors has stalled. Immunotherapies have shown promise, but additional optimizations are needed to overcome the immunosuppressive tumor microenvironment (TME). Cost-effective, reliable models that r...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_04399187d323baa0006b03f009228887d198aa99d8f3d51212",
+        "reviewedAt": "2026-11-23T07:49:09.173055+00:00",
+        "inputHash": "ca938ac31d0b041808c9886bd564940c1411e6ee51c1ffc0f07854b9550f1607",
+        "status": "needs_human",
+        "confidence": 0.75,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "研究进展描述含糊，需进一步评估支持性结论。",
+        "classificationAssessment": {
+          "isSupported": true,
+          "notesCn": "分类合理，符合主题。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "证据等级为中等，但实际研究影响和质量未充分评估。"
+        },
+        "riskFlags": [
+          "clinical_claim",
+          "weak_classification"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Precision Oncology"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "肿瘤"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Advanced science (Weinheim, Baden-Wurttemberg, Germany)，PMID 为 43068943。",
+          "report": "Therapeutic progress against pediatric solid tumors and brain tumors has stalled. Immunotherapies have shown promise, but additional optimizations are needed to overcome the immunosuppressive tumor microenvironment (TME). Cost-effective, reliable models that r...",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "pubmed-43066897",
       "date": "2026-11-21",
       "title": "The Global Landscape of Liquid Biopsy Technology in Oncology: From Biological Foundations to Commercial and Clinical Frontiers.",
@@ -893,76 +1204,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 Molecular diagnosis & therapy，PMID 为 43066897。",
           "report": "Liquid biopsy has developed rapidly over the past decade and now contributes to several defined areas of oncology practice. Here, we offer an expert opinion on the biological foundations, technological platforms, clinical evidence base, commercial ecosystem an...",
           "inference": "自动分类命中规则：Diagnostics & Precision Medicine。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43067918",
-      "date": "2026-11-20",
-      "title": "Identification of miRNAs associated with fabry disease.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067918/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 In silico pharmacology，PMID 为 43067918。",
-      "report": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miR...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0da920ad644c2322006b0346b6b2c887d18560205a32e0e440",
-        "reviewedAt": "2026-11-22T19:47:01.982484+00:00",
-        "inputHash": "5aec7c78f9c991fee123e6f9f75b70ee14e5da4720dd63f28a49d81586959944",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该信号记录具有内部一致性且信息来源可靠，可以发布。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理，符合研究主题。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "证据级别合理，信息适当分离。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "biomarker_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 In silico pharmacology，PMID 为 43067918。",
-          "report": "Fabry disease is an X-linked lysosomal storage disorder that causes progressive multi-organ damage, and clinical diagnosis is often delayed. Circulating microRNAs (miRNAs) are promising non-invasive biomarkers. In this study, we aimed to identify candidate miR...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -1788,92 +2029,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-43068213",
-      "date": "2026-11-16",
-      "title": "A review of glioblastoma 3D cell culture models: Properties and applications in drug screening.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Review",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068213/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Clinical Evidence",
-        "Regulatory Watch",
-        "Precision Oncology",
-        "Drug Screening"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "临床",
-        "监管",
-        "肿瘤",
-        "药筛"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 43068213。",
-      "report": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents, such as Temozolomide, Carmustine, and Lomustine, along with surger...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0e5a4464244a42fa006b0346c86c7087d190c1f938b2b319dc",
-        "reviewedAt": "2026-11-22T19:47:01.982484+00:00",
-        "inputHash": "125fedc88ff9b4eb6b03e6ae52d5095359b3c0d7f95065b128f23505114e6e8c",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "文献综述涉及治疗和临床证据，但包含治疗建议和临床结论，需人工审查。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "主要类别和子类别需进一步验证与文献内容一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "文献报告的临床治疗方法与研究内容不对称，影响证据质量评估。"
-        },
-        "riskFlags": [
-          "clinical_claim",
-          "medical_advice_risk"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Clinical Evidence",
-            "Regulatory Watch",
-            "Precision Oncology",
-            "Drug Screening"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "临床",
-            "监管",
-            "肿瘤",
-            "药筛"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Biochemistry and biophysics reports，PMID 为 43068213。",
-          "report": "Glioblastoma is classified as the most aggressive brain tumor due to its invasive nature and rapid progression. It is clinically treated using combinations of different chemotherapeutic agents.",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Clinical Evidence。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001682852-000168285226000208",
       "date": "2026-11-16",
       "title": "Moderna filed Form 8-K",
@@ -2084,75 +2239,6 @@ window.BHR_DATA = {
           "fact": "PubMed 记录显示该文献收录于 International journal of nanomedicine，PMID 为 43065950。",
           "report": "Extracellular vesicles (EVs) in renal cell carcinoma (RCC) carry proteins, RNAs, lipids, metabolites, and, in some EV-enriched preparations, DNA-associated material. Yet these components are commonly investigated separately, and the extent to which they act in...",
           "inference": "自动分类命中规则：fallback。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43068054",
-      "date": "2026-11-14",
-      "title": "Establishment of polyclonal human induced pluripotent stem cell lines from peripheral blood using a semi-automated processing system.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068054/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 Regenerative therapy，PMID 为 43068054。",
-      "report": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and di...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_02be171f8af3c870006b0346cf1f5087d1b326e3c037432664",
-        "reviewedAt": "2026-11-22T19:47:01.982484+00:00",
-        "inputHash": "96f614811794105aea5e732e9635a6af53dd6395dedf860569cd432e06d4f3ba",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录与公布的文献一致，仅作为信息传递，无具体治疗建议或临床结论。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "分类合理且与主题一致。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推理均已分离，证据水平合理。"
-        },
-        "riskFlags": [
-          "weak_classification"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 Regenerative therapy，PMID 为 43068054。",
-          "report": "The generation of human induced pluripotent stem cells (hiPSCs) with homogeneous and stable quality at an affordable cost is key to industrialize hiPSC-based cell therapies and drug development; however, conventional manual production is labor-intensive and di...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
           "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
@@ -7067,6 +7153,79 @@ window.BHR_DATA = {
       }
     },
     {
+      "id": "pubmed-43068675",
+      "date": "2026-10-13",
+      "title": "Systematic evaluation of organoid fidelity for drug absorption, distribution, metabolism, and excretion and toxicity assessment.",
+      "entity": "Organoid Research",
+      "primaryCategory": "Biotech 技术平台",
+      "subCategory": "Organoids & Advanced Disease Models",
+      "eventType": "Research",
+      "sourceType": "Paper",
+      "sourceName": "PubMed",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068675/",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Organoids",
+        "Advanced Disease Models",
+        "Multi-omics"
+      ],
+      "tags": [
+        "类器官",
+        "疾病模型",
+        "多组学"
+      ],
+      "companyIds": [],
+      "fact": "PubMed 记录显示该文献收录于 Drug metabolism and disposition: the biological fate of chemicals，PMID 为 43068675。",
+      "report": "Organoid technology holds great promise for modeling human physiology and improving preclinical drug evaluation. However, the extent to which current organoid models faithfully recapitulate native tissue functions relevant to drug absorption, distribution, met...",
+      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
+      "aiReview": {
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "policyVersion": "publication-quality-v2",
+        "responseId": "resp_0ee6576bcbabb8ff006b03f00eedf487d18d0f3ba0382bc992",
+        "reviewedAt": "2026-11-23T07:49:09.173055+00:00",
+        "inputHash": "916ad93af18dbf3e932ba2cea256af4dfb095a669189f53670f266b4eb178b3a",
+        "status": "needs_human",
+        "confidence": 0.8,
+        "humanReviewRequired": true,
+        "reviewSummaryCn": "需要人类审查，包含对研究质量的未知信息。",
+        "classificationAssessment": {
+          "isSupported": false,
+          "notesCn": "证据水平为中等，但缺乏对研究质量的评估。"
+        },
+        "sourceEvidenceAssessment": {
+          "factReportInferenceSeparated": true,
+          "evidenceLevelReasonable": false,
+          "notesCn": "未提供关于研究质量或样本量的信息。"
+        },
+        "riskFlags": [
+          "insufficient_source"
+        ],
+        "suggestedEdits": {
+          "primaryCategory": "Biotech 技术平台",
+          "subCategory": "Organoids & Advanced Disease Models",
+          "evidenceLevel": "Medium",
+          "themes": [
+            "Organoids",
+            "Advanced Disease Models",
+            "Multi-omics"
+          ],
+          "tags": [
+            "类器官",
+            "疾病模型",
+            "多组学"
+          ],
+          "fact": "PubMed 记录显示该文献收录于 Drug metabolism and disposition: the biological fate of chemicals，PMID 为 43068675。",
+          "report": "Organoid technology holds great promise for modeling human physiology and improving preclinical drug evaluation. However, the extent to which current organoid models faithfully recapitulate native tissue functions relevant to drug absorption, distribution, metabolism, and toxicity assessment remains to be fully established.",
+          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
+          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
+        }
+      }
+    },
+    {
       "id": "sec-0001110803-000111080326000195",
       "date": "2026-10-13",
       "title": "Illumina filed Form 8-K",
@@ -9494,90 +9653,6 @@ window.BHR_DATA = {
       }
     },
     {
-      "id": "pubmed-43067866",
-      "date": "2026-08-17",
-      "title": "DEVELOPMENT OF ORGANOID BASED MODEL TO STUDY IMMUNE-NEURAL INTERACTIONS IN HUMAN CNS DISEASES.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067866/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": true,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Longevity",
-        "Biomarkers",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "衰老",
-        "biomarker",
-        "longevity",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 medRxiv : the preprint server for health sciences，PMID 为 43067866。",
-      "report": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models, Aging Biology。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_020d709eaedb6ebd006b0346e3047087d19ab526a62c35e5d7",
-        "reviewedAt": "2026-11-22T19:47:01.982484+00:00",
-        "inputHash": "c8e8c5181d768cfefc31ae32cbf70406bc6c1ab64874292cf0553d1f482f3492",
-        "status": "needs_human",
-        "confidence": 0.8,
-        "humanReviewRequired": true,
-        "reviewSummaryCn": "需要人工审查以评估研究质量和临床相关性。",
-        "classificationAssessment": {
-          "isSupported": false,
-          "notesCn": "分类支持不充分，未说明研究的质量和具体临床影响。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": false,
-          "notesCn": "依据提供的来源信息，证据水平评估较低。"
-        },
-        "riskFlags": [
-          "insufficient_source",
-          "clinical_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Longevity",
-            "Biomarkers",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "衰老",
-            "biomarker",
-            "longevity",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 medRxiv : the preprint server for health sciences，PMID 为 43067866。",
-          "report": "Modeling neural-immune interactions in neurodegenerative and immune-mediated central nervous system (CNS) diseases requires human 3D models that capture cellular diversity and long-term tissue maturation. Here, we present an enhanced human induced pluripotent...",
-          "inference": "该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "尚未评估研究的质量、样本量、利益冲突、临床阶段或商业化状态。"
-        }
-      }
-    },
-    {
       "id": "sec-0001110803-000119312526354010",
       "date": "2026-08-17",
       "title": "Illumina filed Form 8-K",
@@ -11776,83 +11851,6 @@ window.BHR_DATA = {
           "report": "Fatty liver disease is a globally widespread disease. The identification of valid biomarkers and targets for potential treatments requires in-depth knowledge about the pathophysiology of the postprandial liver. The study will consist of seven work packages (WP...",
           "inference": "临床与监管领域自动分类。报告内容无法直接支持确定的疗效或安全性。",
           "unknown": "未覆盖方案变化核验、结果质量判断、样本量充分性、终点质量或监管影响。"
-        }
-      }
-    },
-    {
-      "id": "pubmed-43067750",
-      "date": "2026-06-18",
-      "title": "Label-Free Live Cell Type Prediction by Integrating Raman Spectroscopy and Machine Learning.",
-      "entity": "Organoid Research",
-      "primaryCategory": "Biotech 技术平台",
-      "subCategory": "Organoids & Advanced Disease Models",
-      "eventType": "Research",
-      "sourceType": "Paper",
-      "sourceName": "PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43067750/",
-      "reliability": "High",
-      "evidenceLevel": "Medium",
-      "needsReview": false,
-      "themes": [
-        "Organoids",
-        "Advanced Disease Models",
-        "Precision Oncology",
-        "Multi-omics"
-      ],
-      "tags": [
-        "类器官",
-        "疾病模型",
-        "肿瘤",
-        "多组学"
-      ],
-      "companyIds": [],
-      "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43067750。",
-      "report": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate...",
-      "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-      "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。",
-      "aiReview": {
-        "provider": "openai",
-        "model": "gpt-4o-mini",
-        "policyVersion": "publication-quality-v2",
-        "responseId": "resp_0a7f957e8ba60160006b0346e974d087d19f5c37b9f5607ea8",
-        "reviewedAt": "2026-11-22T19:47:01.982484+00:00",
-        "inputHash": "86c7ccf79c6612ddacb4f4064bd626ea9402ebf94d56a3c0839720931e0fb99a",
-        "status": "pass",
-        "confidence": 0.9,
-        "humanReviewRequired": false,
-        "reviewSummaryCn": "该记录中包含明确的事实、报告和推断，且无不当的临床结论或治疗建议。",
-        "classificationAssessment": {
-          "isSupported": true,
-          "notesCn": "类别和证据级别与提供的元数据合理匹配。"
-        },
-        "sourceEvidenceAssessment": {
-          "factReportInferenceSeparated": true,
-          "evidenceLevelReasonable": true,
-          "notesCn": "事实、报告和推断清晰分离，且没有超出来源内容的推论。"
-        },
-        "riskFlags": [
-          "commercial_claim"
-        ],
-        "suggestedEdits": {
-          "primaryCategory": "Biotech 技术平台",
-          "subCategory": "Organoids & Advanced Disease Models",
-          "evidenceLevel": "Medium",
-          "themes": [
-            "Organoids",
-            "Advanced Disease Models",
-            "Precision Oncology",
-            "Multi-omics"
-          ],
-          "tags": [
-            "类器官",
-            "疾病模型",
-            "肿瘤",
-            "多组学"
-          ],
-          "fact": "PubMed 记录显示该文献收录于 bioRxiv : the preprint server for biology，PMID 为 43067750。",
-          "report": "Coherent Raman spectroscopy enables label-free biochemical fingerprinting of live cells with subcellular resolution. We previously developed a machine learning framework capable of classifying glioma FFPE tissues using Raman spectral signatures. To accelerate...",
-          "inference": "自动分类命中规则：Organoids & Advanced Disease Models。该分类仅用于情报分流，不代表研究质量或临床结论。",
-          "unknown": "采集脚本未判断研究质量、样本量、利益冲突、临床阶段或商业化状态。"
         }
       }
     },
