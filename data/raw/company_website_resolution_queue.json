@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "kind": "company_website_resolution_queue",
-  "capturedAt": "2026-11-22T11:30:17+00:00",
+  "capturedAt": "2026-11-23T12:51:11+00:00",
   "count": 590,
   "items": [
     {
@@ -3224,23 +3224,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-bonestrong-therapeutics",
-      "name": "Bonestrong Therapeutics Inc.",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11314326",
-      "identifiers": {
-        "nihIpf": [
-          "10091062"
-        ],
-        "uei": [
-          "XUNHXKKMFJ63"
-        ]
-      },
-      "sourceTypes": [
-        "cell therapy"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-boundless-bio",
       "name": "Boundless Bio, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001782303",
@@ -3724,23 +3707,6 @@
       "status": "needs_official_domain"
     },
     {
-      "companyId": "candidate-cardiac-rsk3-inhibitors",
-      "name": "Cardiac Rsk3 Inhibitors, LLC",
-      "marketPageUrl": "https://reporter.nih.gov/project-details/11292808",
-      "identifiers": {
-        "nihIpf": [
-          "10039821"
-        ],
-        "uei": [
-          "D38ER7T7B8L8"
-        ]
-      },
-      "sourceTypes": [
-        "biotechnology"
-      ],
-      "status": "needs_official_domain"
-    },
-    {
       "companyId": "candidate-cardiff-oncology",
       "name": "Cardiff Oncology, Inc.",
       "marketPageUrl": "https://www.sec.gov/edgar/browse/?CIK=0001213037",
@@ -3975,6 +3941,26 @@
       },
       "sourceTypes": [
         "Biological Products, Except Diagnostic Substances"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-cellfe",
+      "name": "Cellfe Inc.",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11314137",
+      "identifiers": {
+        "nihIpf": [
+          "10048774"
+        ],
+        "uei": [
+          "M34JNT47EKK3"
+        ]
+      },
+      "sourceTypes": [
+        "Cell Therapy",
+        "Gene Editing / Gene Therapy",
+        "RNA Therapeutics",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -4521,6 +4507,24 @@
       },
       "sourceTypes": [
         "Medicinal Chemicals and Botanical Products"
+      ],
+      "status": "needs_official_domain"
+    },
+    {
+      "companyId": "candidate-cri-biotech",
+      "name": "Cri Biotech, Inc",
+      "marketPageUrl": "https://reporter.nih.gov/project-details/11292808",
+      "identifiers": {
+        "nihIpf": [
+          "10039821"
+        ],
+        "uei": [
+          "D38ER7T7B8L8"
+        ]
+      },
+      "sourceTypes": [
+        "biotechnology",
+        "gene therapy"
       ],
       "status": "needs_official_domain"
     },
@@ -5218,8 +5222,7 @@
         "AI Drug Discovery",
         "Precision Diagnostics",
         "RNA Therapeutics",
-        "drug discovery",
-        "gene therapy"
+        "drug discovery"
       ],
       "status": "needs_official_domain"
     },
@@ -7259,7 +7262,6 @@
       },
       "sourceTypes": [
         "Precision Diagnostics",
-        "gene therapy",
         "molecular diagnostics"
       ],
       "status": "needs_official_domain"
