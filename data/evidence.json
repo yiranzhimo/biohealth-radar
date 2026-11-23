@@ -25989,6 +25989,52 @@
       "planExcerpts": []
     },
     {
+      "id": "evidence-company-candidate-cri-biotech-official-6701336049be",
+      "signalId": null,
+      "companyIds": [
+        "candidate-cri-biotech"
+      ],
+      "publishedAt": "2026-11-23",
+      "snapshotDate": "2026-11-23",
+      "title": "RePORT ⟩ RePORTER",
+      "eventType": "Official Source Snapshot",
+      "evidenceKind": "Official Company Source",
+      "sourceType": "Company",
+      "sourceName": "Cri Biotech, Inc — Official Website",
+      "sourceRole": "official",
+      "sourceUrl": "https://reporter.nih.gov/project-details/11292808",
+      "reliability": "High",
+      "evidenceLevel": "Medium",
+      "needsReview": true,
+      "themes": [
+        "Company Intelligence"
+      ],
+      "tags": [
+        "Official Source",
+        "Official Website"
+      ],
+      "fact": "The official page was captured with normalized-content hash 6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c.",
+      "report": "公司官方页面表述：RePORT ⟩ RePORTER",
+      "reportOriginal": "RePORT ⟩ RePORTER",
+      "reportCn": "RePORT ⟩ RePORTER",
+      "translation": {
+        "status": "translated",
+        "provider": "openai",
+        "model": "gpt-4o-mini",
+        "translatedAt": "2026-08-17T05:18:23+00:00",
+        "sourceTextHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c"
+      },
+      "inference": "",
+      "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
+      "contentHash": "6701336049be81a05aaf8214813e3337b3d203ef4d679cb6f0c0cc2f9e20e25c",
+      "changeType": "new",
+      "lastCheckStatus": "success",
+      "excerpts": [],
+      "businessExcerpts": [],
+      "productExcerpts": [],
+      "planExcerpts": []
+    },
+    {
       "id": "evidence-company-candidate-cronos-group-official-7550f90e31bc",
       "signalId": null,
       "companyIds": [
@@ -49693,7 +49739,7 @@
       "publishedAt": "2026-11-21",
       "snapshotDate": "2026-11-21",
       "title": "Guardant Health | Conquering Cancer With Data",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "Guardant Health — Official Website",
@@ -49723,7 +49769,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "e8bc20b25cae3c2b3f9abaa58efdf10a599b46a5b84cb5102744d1d054cee4db",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Guardant Health is a leading precision medicine company focused on transforming patient care and conquering cancer with data.",
@@ -50659,7 +50705,7 @@
       "publishedAt": "2026-11-21",
       "snapshotDate": "2026-11-21",
       "title": "Human Tissue Models for Advanced Drug Discovery",
-      "eventType": "Official Source Update",
+      "eventType": "Official Source Snapshot",
       "evidenceKind": "Official Company Source",
       "sourceType": "Company",
       "sourceName": "MIMETAS — Official Website",
@@ -50689,7 +50735,7 @@
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "ec44b71463d001bfe193ac7577bd91949da52540538bc91dbadf38864cf989c5",
-      "changeType": "updated",
+      "changeType": "unchanged",
       "lastCheckStatus": "success",
       "excerpts": [
         "Explore MIMETAS' Organ-on-a-Chip platform for innovative human tissue models that enhance drug discovery while reducing risks and ethical concerns.",
@@ -50984,13 +51030,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-natera-official-d9ca183d3bfa",
+      "id": "evidence-company-natera-official-12e15e9c8f79",
       "signalId": null,
       "companyIds": [
         "natera"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-23",
+      "snapshotDate": "2026-11-23",
       "title": "Natera: A global leader in cell-free DNA testing",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -51008,7 +51054,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash d9ca183d3bfada719db965d200f554a6ef439bf3e600d082dc4dd5ba2e70c4a8.",
+      "fact": "The official page was captured with normalized-content hash 12e15e9c8f79246b50254771cea65f5adba7f0613b6211ce911d977cf143adf8.",
       "report": "公司官方页面表述：致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
       "reportOriginal": "Dedicated to oncology, women’s health, and organ health. Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
       "reportCn": "致力于肿瘤学、女性健康和器官健康。Natera 的无细胞 DNA 检测有助于保护健康，并提供更个性化的护理决策信息。",
@@ -51021,14 +51067,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "d9ca183d3bfada719db965d200f554a6ef439bf3e600d082dc4dd5ba2e70c4a8",
+      "contentHash": "12e15e9c8f79246b50254771cea65f5adba7f0613b6211ce911d977cf143adf8",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
+        "Natera and KSQ Therapeutics Collaborate on Phase I/II KSQ-004EX Study, Leveraging Natera’s Signatera™ Test for Treatment Response Monitoring",
         "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
-        "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-        "Clinical Resources Oncology CLINICAL RESOURCES Signatera™"
+        "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)"
       ],
       "businessExcerpts": [
         "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care."
@@ -51320,13 +51366,13 @@
       "planExcerpts": []
     },
     {
-      "id": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+      "id": "evidence-company-nykode-therapeutics-official-95601ba903b7",
       "signalId": null,
       "companyIds": [
         "nykode-therapeutics"
       ],
-      "publishedAt": "2026-11-21",
-      "snapshotDate": "2026-11-21",
+      "publishedAt": "2026-11-23",
+      "snapshotDate": "2026-11-23",
       "title": "Home - Nykode",
       "eventType": "Official Source Update",
       "evidenceKind": "Official Company Source",
@@ -51344,7 +51390,7 @@
         "Official Source",
         "Official Website"
       ],
-      "fact": "The official page was captured with normalized-content hash 71a6c0d3b97b5e8bba5476e991ad837d27f7c9f921173287f115ca607cc51bba.",
+      "fact": "The official page was captured with normalized-content hash 95601ba903b771ab2b786d9a31f781d8c093101e59cb9f0d64f0a1bdc10dfd94.",
       "report": "公司官方页面表述：Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
       "reportOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
       "reportCn": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
@@ -51357,14 +51403,14 @@
       },
       "inference": "",
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
-      "contentHash": "71a6c0d3b97b5e8bba5476e991ad837d27f7c9f921173287f115ca607cc51bba",
+      "contentHash": "95601ba903b771ab2b786d9a31f781d8c093101e59cb9f0d64f0a1bdc10dfd94",
       "changeType": "updated",
       "lastCheckStatus": "success",
       "excerpts": [
         "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
         "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
         "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-        "Nykode Therapeutics to Present and Participate in Fireside Chat ..."
+        "Nykode Therapeutics reports Q3 2026 Financial Results"
       ],
       "businessExcerpts": [],
       "productExcerpts": [
@@ -52096,7 +52142,7 @@
       "unknown": "该表述尚未经过独立来源核验，也不等同于未来结果或管理层指引。",
       "contentHash": "74fce7e1f6522d6a9a80f571a904decb0ae625afb3ace8747e47fedb790e4a22",
       "changeType": "unchanged",
-      "lastCheckStatus": "success",
+      "lastCheckStatus": "failed",
       "excerpts": [
         "Integrating Multimodal AI with Encoded Medicinal Knowledge and Physics Simulations: A Unified Platform for Accelerated Drug Discovery from Patent Analysis to Potency Validation",
         "晶泰以 XtalPi Science 智能体为智能中枢，以领域模型打造的科学智能完成专业预测与设计，以机器人构筑物理智能基建完成实验与验证，融合打造科研领域的自主智能体；​将科研目标落实为可验证的分子与材料，攻坚药物发现及其他领域的重大难题。",

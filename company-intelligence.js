@@ -3,7 +3,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
   "asOfDate": "2026-11-23",
   "summary": {
     "profileCount": 622,
-    "evidenceCount": 1054,
+    "evidenceCount": 1055,
     "programCandidateCount": 0,
     "companyCandidateCount": 598,
     "companyMentionCount": 667,
@@ -37,11 +37,11 @@ window.BHR_COMPANY_INTELLIGENCE = {
   },
   "profileCoverage": {
     "profileCount": 622,
-    "companyReportedCount": 621,
-    "withEvidenceCount": 621,
+    "companyReportedCount": 622,
+    "withEvidenceCount": 622,
     "withProductClaimsCount": 515,
     "withFuturePlansCount": 3,
-    "failedSourceCount": 42,
+    "failedSourceCount": 43,
     "identityLinkCount": 0
   },
   "profiles": [
@@ -35969,7 +35969,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
       "companyId": "candidate-cri-biotech",
       "name": "Cri Biotech, Inc",
       "asOfDate": "2026-11-23",
-      "profileStatus": "seed_only",
+      "profileStatus": "partial",
       "identity": {
         "ownership": null,
         "ticker": null,
@@ -36001,40 +36001,64 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "watchTier": "Discovery"
       },
       "currentBusiness": {
-        "status": "provisional",
-        "summaryType": "Unknown",
-        "summary": "NIH RePORTER biotech 相关营利机构记录，biotechnology, gene therapy；当前记录的技术或产品模态包括 Unknown。这只能说明进入雷达的来源依据，不能替代主营业务核验。",
-        "summaryOriginal": null,
-        "translationStatus": "not_applicable",
+        "status": "company_reported",
+        "summaryType": "Report",
+        "summary": "公司官方页面表述：RePORT ⟩ RePORTER",
+        "summaryOriginal": "RePORT ⟩ RePORTER",
+        "translationStatus": "translated",
         "businessModel": [],
         "commercialProducts": [],
         "programCandidateIds": [],
-        "evidenceIds": []
+        "evidenceIds": [
+          "evidence-company-candidate-cri-biotech-official-6701336049be"
+        ]
       },
       "futureDirection": {
         "reportedPlans": [],
-        "observedMoves": [],
+        "observedMoves": [
+          {
+            "id": "event-evidence-company-candidate-cri-biotech-official-6701336049be",
+            "date": "2026-11-23",
+            "title": "RePORT ⟩ RePORTER",
+            "eventType": "Official Source Snapshot",
+            "sourceType": "Company",
+            "evidenceLevel": "Medium",
+            "needsReview": true,
+            "evidenceId": "evidence-company-candidate-cri-biotech-official-6701336049be",
+            "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+          }
+        ],
         "inferences": [],
         "unknowns": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
       "coverage": {
-        "evidenceCount": 0,
-        "evidenceBySourceType": {},
-        "lastEvidenceDate": null,
+        "evidenceCount": 1,
+        "evidenceBySourceType": {
+          "Company": 1
+        },
+        "lastEvidenceDate": "2026-11-23",
         "programCandidateCount": 0,
         "gaps": [
-          "已记录NIH RePORTER biotech 相关营利机构记录链接，但尚未抓取官网、年报或公司披露正文。",
           "尚未建立经过验证的结构化产品或管线记录。",
-          "尚未从官网形成有出处的公司自述型主营业务摘要。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
-      "recentEvents": []
+      "recentEvents": [
+        {
+          "id": "event-evidence-company-candidate-cri-biotech-official-6701336049be",
+          "date": "2026-11-23",
+          "title": "RePORT ⟩ RePORTER",
+          "eventType": "Official Source Snapshot",
+          "sourceType": "Company",
+          "evidenceLevel": "Medium",
+          "needsReview": true,
+          "evidenceId": "evidence-company-candidate-cri-biotech-official-6701336049be",
+          "sourceUrl": "https://reporter.nih.gov/project-details/11292808"
+        }
+      ]
     },
     {
       "companyId": "crispr-therapeutics",
@@ -43553,7 +43577,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-guardant-health-official-e8bc20b25cae",
             "date": "2026-11-21",
             "title": "Guardant Health | Conquering Cancer With Data",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -43629,7 +43653,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-guardant-health-official-e8bc20b25cae",
           "date": "2026-11-21",
           "title": "Guardant Health | Conquering Cancer With Data",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -56387,7 +56411,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
             "id": "event-evidence-company-mimetas-official-ec44b71463d0",
             "date": "2026-11-21",
             "title": "Human Tissue Models for Advanced Drug Discovery",
-            "eventType": "Official Source Update",
+            "eventType": "Official Source Snapshot",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
@@ -56429,7 +56453,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "id": "event-evidence-company-mimetas-official-ec44b71463d0",
           "date": "2026-11-21",
           "title": "Human Tissue Models for Advanced Drug Discovery",
-          "eventType": "Official Source Update",
+          "eventType": "Official Source Snapshot",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
@@ -58199,7 +58223,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
             "text": "Natera’s cell-free DNA tests help protect health and inform more personalized decisions about care.",
-            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
+            "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
+            "sourceUrl": "https://www.natera.com/",
+            "needsReview": true,
+            "claimType": "Report"
+          },
+          {
+            "textOriginal": "Natera and KSQ Therapeutics Collaborate on Phase I/II KSQ-004EX Study, Leveraging Natera’s Signatera™ Test for Treatment Response Monitoring",
+            "text": "Natera and KSQ Therapeutics Collaborate on Phase I/II KSQ-004EX Study, Leveraging Natera’s Signatera™ Test for Treatment Response Monitoring",
+            "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58207,7 +58239,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
             "text": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
-            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
+            "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58215,15 +58247,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
             "text": "Our Tests Oncology TESTS Signatera™ – Residual Disease Test (MRD)",
-            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
-            "sourceUrl": "https://www.natera.com/",
-            "needsReview": true,
-            "claimType": "Report"
-          },
-          {
-            "textOriginal": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "text": "Clinical Resources Oncology CLINICAL RESOURCES Signatera™",
-            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
+            "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
             "sourceUrl": "https://www.natera.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -58247,7 +58271,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-natera-official-d9ca183d3bfa",
+          "evidence-company-natera-official-12e15e9c8f79",
           "evidence-company-natera-investor_relations-e33bfd4d8a9f",
           "evidence-sec-0001604821-000162828026071145",
           "evidence-sec-0001604821-000160482126000032",
@@ -58260,14 +58284,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-natera-official-d9ca183d3bfa",
-            "date": "2026-11-21",
+            "id": "event-evidence-company-natera-official-12e15e9c8f79",
+            "date": "2026-11-23",
             "title": "Natera: A global leader in cell-free DNA testing",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
+            "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
             "sourceUrl": "https://www.natera.com/"
           },
           {
@@ -58327,7 +58351,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           "Company": 3,
           "Filing": 4
         },
-        "lastEvidenceDate": "2026-11-21",
+        "lastEvidenceDate": "2026-11-23",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -58336,14 +58360,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-natera-official-d9ca183d3bfa",
-          "date": "2026-11-21",
+          "id": "event-evidence-company-natera-official-12e15e9c8f79",
+          "date": "2026-11-23",
           "title": "Natera: A global leader in cell-free DNA testing",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-natera-official-d9ca183d3bfa",
+          "evidenceId": "evidence-company-natera-official-12e15e9c8f79",
           "sourceUrl": "https://www.natera.com/"
         },
         {
@@ -59918,7 +59942,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
             "text": "Nykode Therapeutics to Showcase APC-Targeted DNA Vaccine Platform at ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59926,7 +59950,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule: An immunotherapy platform for the future of medicine.",
             "text": "Nykode Therapeutics平台围绕Vaccibody分子构建：一种面向医学未来的免疫治疗平台。",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59934,7 +59958,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
             "text": "The Nykode Therapeutics platform is built around the Vaccibody molecule.",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59942,15 +59966,15 @@ window.BHR_COMPANY_INTELLIGENCE = {
           {
             "textOriginal": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
             "text": "An immunotherapy platform that unlocks unlimited possibilities for the future of medicine",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
           },
           {
-            "textOriginal": "Nykode Therapeutics to Present and Participate in Fireside Chat ...",
-            "text": "Nykode Therapeutics to Present and Participate in Fireside Chat ...",
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "textOriginal": "Nykode Therapeutics reports Q3 2026 Financial Results",
+            "text": "Nykode Therapeutics reports Q3 2026 Financial Results",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/",
             "needsReview": true,
             "claimType": "Report"
@@ -59966,7 +59990,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         ],
         "programCandidateIds": [],
         "evidenceIds": [
-          "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+          "evidence-company-nykode-therapeutics-official-95601ba903b7",
           "evidence-company-nykode-therapeutics-pipeline-d5568715734e",
           "evidence-company-nykode-therapeutics-investor_relations-d8d12c464eb4"
         ]
@@ -59975,14 +59999,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "reportedPlans": [],
         "observedMoves": [
           {
-            "id": "event-evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
-            "date": "2026-11-21",
+            "id": "event-evidence-company-nykode-therapeutics-official-95601ba903b7",
+            "date": "2026-11-23",
             "title": "Home - Nykode",
             "eventType": "Official Source Update",
             "sourceType": "Company",
             "evidenceLevel": "Medium",
             "needsReview": true,
-            "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+            "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
             "sourceUrl": "https://nykode.com/"
           },
           {
@@ -60019,7 +60043,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "evidenceBySourceType": {
           "Company": 3
         },
-        "lastEvidenceDate": "2026-11-21",
+        "lastEvidenceDate": "2026-11-23",
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
@@ -60028,14 +60052,14 @@ window.BHR_COMPANY_INTELLIGENCE = {
       },
       "recentEvents": [
         {
-          "id": "event-evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
-          "date": "2026-11-21",
+          "id": "event-evidence-company-nykode-therapeutics-official-95601ba903b7",
+          "date": "2026-11-23",
           "title": "Home - Nykode",
           "eventType": "Official Source Update",
           "sourceType": "Company",
           "evidenceLevel": "Medium",
           "needsReview": true,
-          "evidenceId": "evidence-company-nykode-therapeutics-official-71a6c0d3b97b",
+          "evidenceId": "evidence-company-nykode-therapeutics-official-95601ba903b7",
           "sourceUrl": "https://nykode.com/"
         },
         {
@@ -75472,6 +75496,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "inferences": [],
         "unknowns": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
@@ -75484,6 +75509,7 @@ window.BHR_COMPANY_INTELLIGENCE = {
         "programCandidateCount": 0,
         "gaps": [
           "尚未建立经过验证的结构化产品或管线记录。",
+          "1 个官方页面最近一次采集失败，当前快照可能已陈旧。",
           "尚未从年报和管理层指引形成经过核验的未来计划摘要。"
         ]
       },
